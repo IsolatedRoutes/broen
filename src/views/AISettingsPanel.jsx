@@ -96,6 +96,29 @@ export function AISettingsPanel({ onClose }) {
   const [ollamaUrlInput, setOllamaUrlInput] = useState("http://localhost:11434");
   const [ollamaModelInput, setOllamaModelInput] = useState("llama3.2");
 
+  // When the learner taps OK on the key page, land on the paste step (also a safety net
+  // in case anything reset the step while the page was open).
+  useEffect(() => {
+    if (!isNativeApp()) return undefined;
+    let handle = null;
+    let gone = false;
+    (async () => {
+      try {
+        const m = await import("@capacitor/browser");
+        const h = await m.Browser.addListener("browserFinished", () => {
+          const prov = wizardMemory.provider;
+          if (prov && PROVIDERS[prov]) go(prov, PROVIDERS[prov].steps.length);
+        });
+        if (gone) h.remove();
+        else handle = h;
+      } catch {}
+    })();
+    return () => {
+      gone = true;
+      if (handle) handle.remove();
+    };
+  }, []);
+
   useEffect(() => {
     (async () => {
       const e = await storeGet("aiEngine");
