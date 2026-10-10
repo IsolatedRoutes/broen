@@ -7,7 +7,8 @@
 import { isNativeApp } from "./platform";
 import { canonicalKey, loadDeletedKeys } from "./migrations";
 import { SYNCED_KEYS, loadKeyStamps, storeGet, storeSet, storeSetFromSync } from "./storage";
-import { buildSnapshot, mergeSnapshot, pickKeys, readRemote, writeRemote } from "./sync";
+import { CLOUD_PROVIDERS } from "./cloud/providers";
+import { SNAPSHOT_VERSION, buildSnapshot, mergeSnapshot, pickKeys, readRemote, writeRemote } from "./sync";
 import { uid } from "./text";
 import { registerPlugin } from "@capacitor/core";
 // The phone's own bridge has no registerPlugin on window.Capacitor, so use the
@@ -136,10 +137,10 @@ export async function loadPreSyncCopy() {
 
 // One round: read what other devices saved, add it to this deck, then save
 // the combined result back. `deck` gives the latest cards / topics and the
-// functions that save them.
-export async function syncOnce(deck) {
-  if (!(await icloudAvailable())) throw new Error("NO_ICLOUD");
-  const remote = await readRemote(kv); // may throw "INCOMPLETE"
+// functions that save them. `io` is where the combined copy lives:
+// { read() -> { snapshot } | null, write(snapshot, deviceId) }.
+export async function syncWithStore(deck, io, lastSyncKey) {
+  const remote = await io.read(); // may throw "INCOMPLETE"
   const deletedSet = await loadDeletedKeys();
   let deleted = [...deletedSet].map((k) => k);
   let deletedOwn = await loadDeletedOwn();
@@ -169,7 +170,31 @@ export async function syncOnce(deck) {
   if (remote) await adoptKeys(remote.snapshot.keys);
   const snapshot = buildSnapshot(cards, categories, deleted, canonicalKey, Date.now(), deletedOwn, await loadKeyValues());
   const sameAsRemote = remote && JSON.stringify({ ...remote.snapshot, at: 0 }) === JSON.stringify({ ...snapshot, at: 0 });
-  if (!sameAsRemote) await writeRemote(kv, snapshot, await deviceId());
-  await storeSet("icloudLastSync", String(Date.now()));
+  if (!sameAsRemote) await io.write(snapshot, await deviceId());
+  await storeSet(lastSyncKey, String(Date.now()));
   return Date.now();
+}
+
+export async function syncOnce(deck) {
+  if (!(await icloudAvailable())) throw new Error("NO_ICLOUD");
+  return syncWithStore(deck, { read: () => readRemote(kv), write: (snapshot, id) => writeRemote(kv, snapshot, id) }, "icloudLastSync");
+}
+
+// Google Drive / Dropbox: the whole combined copy is one small file.
+export function cloudStore(provider) {
+  return {
+    async read() {
+      const text = await CLOUD_PROVIDERS[provider].read();
+      if (!text) return null;
+      let file = null;
+      try { file = JSON.parse(text); } catch { throw new Error("NETWORK"); }
+      if (!file || file.v !== SNAPSHOT_VERSION || !file.snapshot || typeof file.snapshot !== "object") return null;
+      return { snapshot: file.snapshot };
+    },
+    write: (snapshot, id) => CLOUD_PROVIDERS[provider].write(JSON.stringify({ v: SNAPSHOT_VERSION, by: id, snapshot })),
+  };
+}
+
+export function syncCloudOnce(deck, provider) {
+  return syncWithStore(deck, cloudStore(provider), "cloudLastSync");
 }

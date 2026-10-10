@@ -23,7 +23,7 @@ import { AddCardView } from "./views/AddCardView";
 import { SyncOffer } from "./components/SyncOffer";
 import { rememberDeletedOwn } from "./lib/icloud";
 import { isBareLink, watchShared } from "./lib/shareInbox";
-import { useICloudSync } from "./lib/useICloudSync";
+import { useSync } from "./lib/useSync";
 import { BackupPanel } from "./views/BackupPanel";
 import { LibraryView } from "./views/LibraryView";
 import { StudyView } from "./views/StudyView";
@@ -504,7 +504,7 @@ export default function DanishFlashcards() {
     [persistCategories, persistCards, showToast]
   );
 
-  const sync = useICloudSync({ loaded, cards, categories, cardsRef, categoriesRef, persistCards, persistCategories, replaceAllData });
+  const sync = useSync({ loaded, cards, categories, cardsRef, categoriesRef, persistCards, persistCategories, replaceAllData });
 
   const addCards = useCallback(
     async (newCards) => {
@@ -769,7 +769,7 @@ export default function DanishFlashcards() {
         )}
         {infoPage && <InfoSheet pageId={infoPage} onClose={() => setInfoPage(null)} />}
         <DanishVoiceNote />
-        <SyncOffer loaded={loaded} supported={sync.supported} enabled={sync.enabled} calm={calm} cards={cards} knownCount={knownCount} onTurnOn={sync.enable} />
+        <SyncOffer loaded={loaded} supported={sync.options.includes("icloud")} enabled={sync.enabled} calm={calm} cards={cards} knownCount={knownCount} onTurnOn={sync.enable} />
         {showBackup && (
           <CenteredOverlay onClose={() => setShowBackup(false)}>
             <BackupPanel cards={cards} categories={categories} replaceAllData={replaceAllData} sync={sync} showToast={showToast} onClose={() => setShowBackup(false)} />

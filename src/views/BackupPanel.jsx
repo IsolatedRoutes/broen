@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { Icon } from "../components/icons";
-import { smallBtn } from "../components/ui";
+import { CenteredOverlay, smallBtn } from "../components/ui";
+import { PROVIDER_NAMES } from "../lib/cloud/providers";
 import { BACKUP_SETTING_KEYS, performBackupExport } from "../lib/backup";
 import { storeGet, storeSet } from "../lib/storage";
 
@@ -8,6 +9,7 @@ export function BackupPanel({ cards, categories, replaceAllData, sync, showToast
   const importInputRef = useRef(null);
   const [autoBackupEnabled, setAutoBackupEnabledState] = useState(false);
   const [helpOpen, setHelpOpen] = useState(false);
+  const [syncOpen, setSyncOpen] = useState(false);
 
   useEffect(() => {
     storeGet("autoBackupEnabled").then((v) => setAutoBackupEnabledState(v === "true"));
@@ -128,38 +130,98 @@ export function BackupPanel({ cards, categories, replaceAllData, sync, showToast
       </div>
 
       {sync && sync.supported && (
-        <div style={{ ...row, display: "block" }}>
-          <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+        <>
+          <button onClick={() => setSyncOpen(true)} aria-label="Sync" style={{ ...row, width: "100%", textAlign: "left", cursor: "pointer", font: "inherit", color: "inherit" }}>
             <div style={{ flex: 1 }}>
-              <div style={{ fontFamily: "var(--sans)", fontSize: 13.5, fontWeight: 600 }}>Sync with iCloud</div>
-              <div style={sub}>Keeps your own devices in step. The newest change wins. Your AI key is never shared.</div>
+              <div style={{ fontFamily: "var(--sans)", fontSize: 13.5, fontWeight: 600 }}>Sync</div>
+              <div style={{ ...sub, color: sync.status.state === "error" ? "var(--terracotta)" : "var(--muted)" }}>
+                {!sync.enabled
+                  ? "Off. Keep your devices in step."
+                  : sync.status.state === "error"
+                  ? sync.status.message
+                  : sync.status.state === "syncing"
+                  ? PROVIDER_NAMES[sync.provider] + " · syncing…"
+                  : PROVIDER_NAMES[sync.provider] + (sync.status.at ? " · last synced " + new Date(sync.status.at).toLocaleString([], { dateStyle: "medium", timeStyle: "short" }) : " · waiting for the first sync…")}
+              </div>
             </div>
-            {switchBtn(sync.enabled, "Toggle iCloud sync", () => (sync.enabled ? sync.disable() : sync.enable()))}
-          </div>
-          {(sync.enabled || sync.status.message) && (
-            <div style={{ ...sub, color: sync.status.state === "error" ? "var(--terracotta)" : "var(--muted)", marginTop: 8 }}>
-              {sync.status.state === "error"
-                ? sync.status.message
-                : sync.status.state === "syncing"
-                ? "Syncing…"
-                : sync.status.at
-                ? "Last synced " + new Date(sync.status.at).toLocaleString([], { dateStyle: "medium", timeStyle: "short" })
-                : "Waiting for the first sync…"}
-            </div>
-          )}
-          {sync.earlierAt > 0 && (
-            <button
-              onClick={async () => {
-                const yes = window.confirm ? window.confirm("Go back to your deck as it was when you turned on iCloud sync? Sync will be turned off, and anything you changed since then will be replaced.") : true;
-                if (yes) await sync.goBack();
-              }}
-              style={{ marginTop: 8, border: "none", background: "none", padding: 0, color: "var(--fjord)", fontFamily: "var(--sans)", fontSize: 12, textDecoration: "underline", cursor: "pointer" }}
-            >
-              Go back to an earlier version
-            </button>
-          )}
-        </div>
+            <span style={{ color: "var(--muted)", fontSize: 22, lineHeight: 1, flex: "none" }}>›</span>
+          </button>
+          {syncOpen && <SyncChooser sync={sync} onClose={() => setSyncOpen(false)} />}
+        </>
       )}
     </div>
   );
 }
+
+function SyncChooser({ sync, onClose }) {
+  const sub = { fontFamily: "var(--sans)", fontSize: 12.5, color: "var(--muted)", lineHeight: 1.4, marginTop: 2 };
+  const notes = {
+    icloud: "Apple devices only",
+    google: "iPhone, iPad and website",
+    dropbox: "iPhone, iPad and website",
+  };
+  const choices = [...sync.options, ""];
+  return (
+    <CenteredOverlay onClose={onClose} maxWidth={420}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 4 }}>
+        <div style={{ fontFamily: "var(--serif)", fontSize: 18 }}>Sync your progress</div>
+        <button aria-label="Close" onClick={onClose} style={{ border: "none", background: "none", cursor: "pointer", padding: 4, color: "var(--muted)" }}>
+          <Icon.X size={18} />
+        </button>
+      </div>
+      <div style={{ ...sub, marginBottom: 14 }}>Keeps your cards and progress in step across your devices. Pick one place. The newest change wins, and your AI key is never synced.</div>
+      {choices.map((id) => {
+        const on = sync.provider === id;
+        const signed = id && id !== "icloud" && sync.signedIn[id];
+        return (
+          <button
+            key={id || "off"}
+            onClick={() => sync.choose(id)}
+            aria-label={id ? PROVIDER_NAMES[id] : "Off"}
+            aria-pressed={on}
+            style={{ display: "flex", alignItems: "center", gap: 12, width: "100%", textAlign: "left", cursor: "pointer", font: "inherit", color: "inherit", border: "1.5px solid " + (on ? "var(--fjord)" : "var(--line)"), background: "#fff", borderRadius: 14, padding: "12px 14px", marginBottom: 10 }}
+          >
+            <span style={{ width: 20, height: 20, borderRadius: "50%", border: "2px solid " + (on ? "var(--fjord)" : "var(--line)"), flex: "none", display: "grid", placeItems: "center" }}>
+              {on && <span style={{ width: 10, height: 10, borderRadius: "50%", background: "var(--fjord)" }} />}
+            </span>
+            <span>
+              <span style={{ display: "block", fontFamily: "var(--sans)", fontSize: 15, fontWeight: 600 }}>{id ? PROVIDER_NAMES[id] : "Off"}</span>
+              <span style={sub}>{id ? (signed ? "Signed in · " : "") + notes[id] : "Use backup files instead"}</span>
+            </span>
+          </button>
+        );
+      })}
+      {(sync.enabled || sync.status.state === "error") && (
+        <div style={{ ...sub, color: sync.status.state === "error" ? "var(--terracotta)" : "var(--muted)", margin: "4px 2px 8px" }}>
+          {sync.status.state === "error"
+            ? sync.status.message
+            : sync.status.state === "syncing"
+            ? "Syncing…"
+            : sync.status.at
+            ? "Last synced " + new Date(sync.status.at).toLocaleString([], { dateStyle: "medium", timeStyle: "short" })
+            : "Waiting for the first sync…"}
+        </div>
+      )}
+      <div style={{ display: "flex", gap: 16, flexWrap: "wrap", marginTop: 4 }}>
+        {sync.provider && sync.provider !== "icloud" && (
+          <button onClick={() => sync.signOutOf(sync.provider)} style={linkBtn}>
+            Sign out of {PROVIDER_NAMES[sync.provider]}
+          </button>
+        )}
+        {sync.earlierAt > 0 && (
+          <button
+            onClick={async () => {
+              const yes = window.confirm ? window.confirm("Go back to your deck as it was when you turned on sync? Sync will be turned off, and anything you changed since then will be replaced.") : true;
+              if (yes) await sync.goBack();
+            }}
+            style={linkBtn}
+          >
+            Go back to an earlier version
+          </button>
+        )}
+      </div>
+    </CenteredOverlay>
+  );
+}
+
+const linkBtn = { border: "none", background: "none", padding: 0, color: "var(--fjord)", fontFamily: "var(--sans)", fontSize: 12, textDecoration: "underline", cursor: "pointer" };
