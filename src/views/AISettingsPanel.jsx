@@ -328,7 +328,7 @@ export function AISettingsPanel({ onClose }) {
             <div style={{ fontFamily: "var(--serif)", fontSize: 21, lineHeight: 1.35, marginBottom: 20 }}>{s.text}</div>
             {s.button && (
               <div style={{ display: "flex", justifyContent: "center", marginBottom: 20 }}>
-                <button onClick={() => { wizardMemory.step = P.steps.length; openLink(P.link); }} style={bigBtn}>
+                <button onClick={() => { go(wizard, P.steps.length); openLink(P.link); }} style={bigBtn}>
                   {P.openLabel} ↗
                 </button>
               </div>
