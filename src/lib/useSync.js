@@ -2,7 +2,7 @@
 // where to sync (iCloud, Google Drive or Dropbox), syncing when something
 // changes, and the one-time offer.
 import { useCallback, useEffect, useRef, useState } from "react";
-import { completeWebSignIn, configuredProviders, connect, isConnected, signOut } from "./cloud/oauth";
+import { completeWebSignIn, configuredProviders, connect, isConnected, isConnectedNow, preloadSignIn, signOut } from "./cloud/oauth";
 import { PROVIDER_NAMES } from "./cloud/providers";
 import { icloudAvailable, icloudDetail, icloudSupported, loadPreSyncCopy, onICloudChange, savePreSyncCopy, syncCloudOnce, syncOnce } from "./icloud";
 import { storeGet, storeSet } from "./storage";
@@ -50,6 +50,8 @@ export function useSync({ loaded, cards, categories, cardsRef, categoriesRef, pe
     });
     return chain.current;
   }, [cardsRef, categoriesRef, persistCards, persistCategories]);
+
+  useEffect(() => { preloadSignIn(); }, []);
 
   const refreshSignedIn = useCallback(async () => {
     const next = {};
@@ -158,7 +160,9 @@ export function useSync({ loaded, cards, categories, cardsRef, categoriesRef, pe
         return true;
       }
       try {
-        if (!(await isConnected(p))) {
+        let connected = isConnectedNow(p);
+        if (connected === undefined) connected = await isConnected(p);
+        if (!connected) {
           const done = await connect(p); // false: the page is leaving for the sign-in page
           if (!done) return false;
         }

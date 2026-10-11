@@ -4,14 +4,14 @@ Broen keeps one small file (`broen-sync.json`) in a **private app folder** in th
 Google Drive or Dropbox. Only Broen can see that folder. Nothing goes through any server of ours.
 Until the IDs below are filled in, Google Drive / Dropbox are simply not offered in the app.
 
-The website address used below is `https://isolatedroutes.github.io/Dansk/` — change it if the live
+The website address used below is `https://isolatedroutes.github.io/broen/` — change it if the live
 address changes. Use the same address in every place below.
 
 ## Dropbox (about 5 minutes)
 1. Go to https://www.dropbox.com/developers/apps and tap **Create app**.
 2. Choose **Scoped access**, then **App folder**, name it **Broen**, tap **Create app**.
 3. **Permissions** tab: tick `files.content.write` and `files.content.read`, then tap **Submit**.
-4. **Settings** tab → **Redirect URIs**: add `https://isolatedroutes.github.io/Dansk/` and also
+4. **Settings** tab → **Redirect URIs**: add `https://isolatedroutes.github.io/broen/` and also
    `broen://oauth` (tap Add after each).
 5. Copy the **App key** from the Settings tab.
 6. (Later) Dropbox lets about 50 people use a new app; when you are ready for more, tap

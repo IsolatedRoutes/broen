@@ -39,20 +39,31 @@ async function challengeFor(verifier) {
   return b64url(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(verifier)));
 }
 
+// What we last saw saved, kept in memory so a tap can open the sign-in pop-up at
+// once (browsers block a pop-up that comes after a wait).
+const seen = {};
 async function saveTokens(provider, t) {
   await secretSet(tokenKey(provider), JSON.stringify(t));
+  seen[provider] = !!(t && (t.refresh || t.access));
 }
 export async function loadTokens(provider) {
   try {
     const raw = await secretGet(tokenKey(provider));
     const t = raw ? JSON.parse(raw) : null;
-    return t && typeof t === "object" ? t : null;
+    const ok = t && typeof t === "object" ? t : null;
+    seen[provider] = !!(ok && (ok.refresh || ok.access));
+    return ok;
   } catch {
     return null;
   }
 }
 export async function signOut(provider) {
   await secretRemove(tokenKey(provider));
+  seen[provider] = false;
+}
+// true / false when already known, undefined when not read yet.
+export function isConnectedNow(provider) {
+  return seen[provider];
 }
 export async function isConnected(provider) {
   const t = await loadTokens(provider);
@@ -184,8 +195,13 @@ function loadGoogleScript() {
   }
   return gisPromise;
 }
+// Starts loading Google's sign-in script ahead of time (so the pop-up is not blocked).
+export function preloadSignIn() {
+  if (!isNativeApp() && cloudConfig().googleWebClientId) loadGoogleScript().catch(() => {});
+}
 async function googleWebToken(interactive) {
-  await loadGoogleScript();
+  const ready = window.google && window.google.accounts && window.google.accounts.oauth2;
+  if (!ready) await loadGoogleScript();
   return new Promise((resolve, reject) => {
     const client = window.google.accounts.oauth2.initTokenClient({
       client_id: cloudConfig().googleWebClientId,
