@@ -84,7 +84,7 @@ CONFIG = "window.__BROEN_CLOUD__ = { dropboxAppKey: 'dbkey', googleWebClientId: 
 
 def device(browser, config=True, gis=True):
     ctx = browser.new_context(viewport={"width": 400, "height": 900})
-    if config: ctx.add_init_script(CONFIG)
+    ctx.add_init_script(CONFIG if config else "window.__BROEN_CLOUD__ = { dropboxAppKey: '', googleWebClientId: '', googleIosClientId: '' };")
     if gis: ctx.add_init_script(GIS)
     fake_services(ctx)
     page = ctx.new_page()

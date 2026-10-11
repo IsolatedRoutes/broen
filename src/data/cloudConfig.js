@@ -7,7 +7,7 @@ export const CLOUD_DEFAULTS = {
   googleWebClientId: "",
   googleIosClientId: "",
   // Dropbox App Console → the app's "App key".
-  dropboxAppKey: "",
+  dropboxAppKey: "tqonm4v2cv6kbd2",
 };
 
 // Tests (and only tests) can supply their own values.

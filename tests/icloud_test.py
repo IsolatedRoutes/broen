@@ -205,6 +205,7 @@ with sync_playwright() as p:
 
     # 6. The website has none of this.
     ctx, page, errors = first_run(browser, native=False)
+    page.evaluate("window.__BROEN_CLOUD__ = { dropboxAppKey: '', googleWebClientId: '', googleIosClientId: '' }")
     page.get_by_role("button", name="Backup and sync").click(); page.wait_for_timeout(600)
     check(page.get_by_role("button", name="Sync", exact=True).count() == 0, "the website shows no sync until Google Drive or Dropbox is set up")
     page.keyboard.press("Escape")
