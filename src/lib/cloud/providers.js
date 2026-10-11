@@ -29,8 +29,9 @@ async function call(url, init) {
 
 // ---- Google Drive (hidden "appDataFolder") ----
 async function driveFindId(token) {
+  // If two devices ever each made their own file, every device uses the oldest one, so they end up sharing it.
   const q = encodeURIComponent("name='" + FILE + "'");
-  const res = await check(await call("https://www.googleapis.com/drive/v3/files?spaces=appDataFolder&fields=files(id)&q=" + q, { headers: { Authorization: "Bearer " + token } }));
+  const res = await check(await call("https://www.googleapis.com/drive/v3/files?spaces=appDataFolder&orderBy=createdTime&fields=files(id,createdTime)&q=" + q, { headers: { Authorization: "Bearer " + token } }));
   const j = await res.json();
   return j.files && j.files[0] ? j.files[0].id : null;
 }

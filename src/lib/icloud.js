@@ -139,8 +139,16 @@ export async function loadPreSyncCopy() {
 // the combined result back. `deck` gives the latest cards / topics and the
 // functions that save them. `io` is where the combined copy lives:
 // { read() -> { snapshot } | null, write(snapshot, deviceId) }.
+// What the last round found in the shared copy (shown on the Sync screen so a mismatch can be seen).
+let lastInfo = null;
+export const lastSyncInfo = () => lastInfo;
+
 export async function syncWithStore(deck, io, lastSyncKey) {
   const remote = await io.read(); // may throw "INCOMPLETE"
+  const myId = await deviceId();
+  lastInfo = remote
+    ? { at: remote.snapshot.at || 0, known: Object.values(remote.snapshot.marks || {}).filter((m) => m && m.known).length, mine: !!remote.by && remote.by === myId }
+    : { none: true };
   const deletedSet = await loadDeletedKeys();
   let deleted = [...deletedSet].map((k) => k);
   let deletedOwn = await loadDeletedOwn();
@@ -189,7 +197,7 @@ export function cloudStore(provider) {
       let file = null;
       try { file = JSON.parse(text); } catch { throw new Error("NETWORK"); }
       if (!file || file.v !== SNAPSHOT_VERSION || !file.snapshot || typeof file.snapshot !== "object") return null;
-      return { snapshot: file.snapshot };
+      return { snapshot: file.snapshot, by: file.by };
     },
     write: (snapshot, id) => CLOUD_PROVIDERS[provider].write(JSON.stringify({ v: SNAPSHOT_VERSION, by: id, snapshot })),
   };

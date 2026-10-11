@@ -202,7 +202,19 @@ function SyncChooser({ sync, onClose }) {
             : "Waiting for the first sync…"}
         </div>
       )}
+      {sync.enabled && sync.status.info && (
+        <div style={{ ...sub, margin: "0 2px 8px" }}>
+          {sync.status.info.none
+            ? "The shared copy was empty, so this device saved its own."
+            : "Shared copy: " + sync.status.info.known + " known words, saved " + new Date(sync.status.info.at).toLocaleString([], { dateStyle: "medium", timeStyle: "short" }) + (sync.status.info.mine ? " by this device" : " by another device")}
+        </div>
+      )}
       <div style={{ display: "flex", gap: 16, flexWrap: "wrap", marginTop: 4 }}>
+        {sync.enabled && (
+          <button onClick={() => sync.syncNow()} disabled={sync.status.state === "syncing"} style={linkBtn}>
+            Sync now
+          </button>
+        )}
         {sync.provider && sync.provider !== "icloud" && (
           <button onClick={() => sync.signOutOf(sync.provider)} style={linkBtn}>
             Sign out of {PROVIDER_NAMES[sync.provider]}

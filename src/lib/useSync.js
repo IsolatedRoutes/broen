@@ -4,7 +4,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { completeWebSignIn, configuredProviders, connect, isConnected, isConnectedNow, preloadSignIn, signOut } from "./cloud/oauth";
 import { PROVIDER_NAMES } from "./cloud/providers";
-import { icloudAvailable, icloudDetail, icloudSupported, loadPreSyncCopy, onICloudChange, savePreSyncCopy, syncCloudOnce, syncOnce } from "./icloud";
+import { icloudAvailable, icloudDetail, icloudSupported, loadPreSyncCopy, onICloudChange, savePreSyncCopy, lastSyncInfo, syncCloudOnce, syncOnce } from "./icloud";
 import { storeGet, storeSet } from "./storage";
 
 const MESSAGES = {
@@ -42,7 +42,7 @@ export function useSync({ loaded, cards, categories, cardsRef, categoriesRef, pe
       try {
         const deck = { getCards: () => cardsRef.current, getCategories: () => categoriesRef.current, saveCards: persistCards, saveCategories: persistCategories };
         const at = p === "icloud" ? await syncOnce(deck) : await syncCloudOnce(deck, p);
-        setStatus({ state: "ok", message: "", at });
+        setStatus({ state: "ok", message: "", at, info: lastSyncInfo() });
       } catch (e) {
         setStatus((s) => ({ state: "error", message: messageFor(e, p) + (e && e.detail ? " (" + e.detail + ")" : ""), at: s.at }));
         if (e && e.message === "INCOMPLETE") setTimeout(() => providerRef.current && runSync(), 6000);
@@ -199,5 +199,6 @@ export function useSync({ loaded, cards, categories, cardsRef, categoriesRef, pe
     return replaceAllData(copy.cards, copy.categories);
   }, [replaceAllData, choose]);
 
-  return { supported, options, provider, signedIn, enabled, status, earlierAt, choose, signOutOf, enable, disable, goBack };
+  const syncNow = runSync;
+  return { syncNow, supported, options, provider, signedIn, enabled, status, earlierAt, choose, signOutOf, enable, disable, goBack };
 }
