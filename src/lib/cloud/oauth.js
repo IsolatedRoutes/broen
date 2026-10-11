@@ -199,6 +199,7 @@ function loadGoogleScript() {
 export function preloadSignIn() {
   if (!isNativeApp() && cloudConfig().googleWebClientId) loadGoogleScript().catch(() => {});
 }
+function withDetail(e, d) { if (d) e.detail = String(d); return e; }
 async function googleWebToken(interactive) {
   const ready = window.google && window.google.accounts && window.google.accounts.oauth2;
   if (!ready) await loadGoogleScript();
@@ -206,8 +207,8 @@ async function googleWebToken(interactive) {
     const client = window.google.accounts.oauth2.initTokenClient({
       client_id: cloudConfig().googleWebClientId,
       scope: GOOGLE_SCOPE,
-      callback: (r) => (r && r.access_token ? resolve(r) : reject(new Error("RECONNECT"))),
-      error_callback: () => reject(new Error(interactive ? "CANCELLED" : "RECONNECT")),
+      callback: (r) => (r && r.access_token ? resolve(r) : reject(withDetail(new Error("RECONNECT"), r && (r.error_description || r.error)))),
+      error_callback: (err) => reject(withDetail(new Error(interactive ? "CANCELLED" : "RECONNECT"), err && (err.message || err.type))),
     });
     client.requestAccessToken({ prompt: interactive ? "consent" : "" });
     setTimeout(() => reject(new Error("RECONNECT")), 30000);

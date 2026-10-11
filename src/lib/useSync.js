@@ -44,7 +44,7 @@ export function useSync({ loaded, cards, categories, cardsRef, categoriesRef, pe
         const at = p === "icloud" ? await syncOnce(deck) : await syncCloudOnce(deck, p);
         setStatus({ state: "ok", message: "", at });
       } catch (e) {
-        setStatus((s) => ({ state: "error", message: messageFor(e, p), at: s.at }));
+        setStatus((s) => ({ state: "error", message: messageFor(e, p) + (e && e.detail ? " (" + e.detail + ")" : ""), at: s.at }));
         if (e && e.message === "INCOMPLETE") setTimeout(() => providerRef.current && runSync(), 6000);
       }
     });
@@ -170,7 +170,9 @@ export function useSync({ loaded, cards, categories, cardsRef, categoriesRef, pe
         await turnOn(p);
         return true;
       } catch (e) {
-        if (!(e && e.message === "CANCELLED")) setStatus((s) => ({ ...s, state: "error", message: messageFor(e, p) }));
+        const note = e && e.detail ? " (" + e.detail + ")" : "";
+        if (e && e.message === "CANCELLED" && p !== "google") return false;
+        setStatus((s) => ({ ...s, state: "error", message: (e && e.message === "CANCELLED" ? "Google sign-in didn't finish." : messageFor(e, p)) + note }));
         return false;
       }
     },

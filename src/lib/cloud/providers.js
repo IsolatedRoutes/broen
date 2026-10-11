@@ -7,9 +7,17 @@ export const PROVIDER_NAMES = { icloud: "iCloud", google: "Google Drive", dropbo
 const FILE = "broen-sync.json";
 
 async function check(res) {
-  if (res.status === 401) throw new Error("RECONNECT");
-  if (!res.ok) throw new Error(res.status === 403 ? "RECONNECT" : "NETWORK");
-  return res;
+  if (res.ok) return res;
+  // Keep Google's or Dropbox's own reason so a setup mistake can be seen.
+  let why = "";
+  try {
+    const j = await res.clone().json();
+    why = (j && ((j.error && (j.error.message || j.error.status)) || j.error_summary || j.error_description)) || "";
+    if (typeof why !== "string") why = JSON.stringify(why);
+  } catch { /* no details */ }
+  const e = new Error(res.status === 401 || res.status === 403 ? "RECONNECT" : "NETWORK");
+  e.detail = (res.status + (why ? " " + why : "")).slice(0, 140);
+  throw e;
 }
 async function call(url, init) {
   try {
