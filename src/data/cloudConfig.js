@@ -4,7 +4,7 @@
 export const CLOUD_DEFAULTS = {
   // Google Cloud Console → Credentials. One "Web application" client for the website
   // and one "iOS" client for the iPhone app.
-  googleWebClientId: "",
+  googleWebClientId: "405639691534-hqeldjtclugdoaphdmnndfraanaqqppk.apps.googleusercontent.com",
   googleIosClientId: "",
   // Dropbox App Console → the app's "App key".
   dropboxAppKey: "tqonm4v2cv6kbd2",
