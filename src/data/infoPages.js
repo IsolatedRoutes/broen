@@ -65,7 +65,7 @@ export const INFO_PAGES = [
       ],
       [
         "Backup and sync",
-        "Your cards and progress are saved on your device. There is no account. Tap Backup at the top and choose Export to save everything to a file, or Import to load one back in. The file does not include your AI key or your chat. Weekly reminder offers a backup once a week, if something has changed. To keep your devices matching automatically, tap Backup, then Sync, and pick where to keep your progress: iCloud (Apple devices only), or your own Google Drive or Dropbox, which also work on the website. Broen keeps one small file in a private folder in your account, the newest change wins, and your AI key is never synced. You can turn sync off or sign out at any time.",
+        "Your cards and progress are saved on your device. There is no account. Tap Backup at the top and choose Export to save everything to a file, or Import to load one back in. The file does not include your AI key or your chat. Weekly reminder offers a backup once a week, if something has changed. To keep your devices matching automatically, tap Backup, then Sync, and pick where to keep your progress: iCloud (the Broen app on iPhone and iPad only, not the website, even on a Mac), or your own Google Drive or Dropbox, which also work on the website. Broen keeps one small file in a private folder in your account, the newest change wins, and your AI key is never synced. You can turn sync off or sign out at any time.",
       ],
     ],
   },
