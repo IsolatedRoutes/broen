@@ -156,7 +156,7 @@ export function BackupPanel({ cards, categories, replaceAllData, sync, showToast
 function SyncChooser({ sync, onClose }) {
   const sub = { fontFamily: "var(--sans)", fontSize: 12.5, color: "var(--muted)", lineHeight: 1.4, marginTop: 2 };
   const notes = {
-    icloud: "iPhone and iPad only. Not the website",
+    icloud: "Broen app on iPhone and iPad only. To sync with the website, select a different option",
     google: "iPhone, iPad and website",
     dropbox: "iPhone, iPad and website",
   };
@@ -191,16 +191,6 @@ function SyncChooser({ sync, onClose }) {
           </button>
         );
       })}
-      {sync.provider === "icloud" && sync.options.length > 1 && (
-        <div style={{ ...sub, margin: "0 2px 8px" }}>
-          iCloud only syncs your iPhone and iPad. The website can't use it. To include the website, choose Google Drive or Dropbox on each device.
-        </div>
-      )}
-      {sync.provider === "icloud" && sync.options.length > 1 && (
-        <div style={{ ...sub, margin: "0 2px 8px" }}>
-          iCloud only syncs the Broen app on your iPhone and iPad. The website can't use it, even on a Mac. To include the website, choose Google Drive or Dropbox on each device.
-        </div>
-      )}
       {(sync.enabled || sync.status.state === "error") && (
         <div style={{ ...sub, color: sync.status.state === "error" ? "var(--terracotta)" : "var(--muted)", margin: "4px 2px 8px" }}>
           {sync.status.state === "error"
