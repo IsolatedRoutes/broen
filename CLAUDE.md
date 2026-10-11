@@ -9,6 +9,7 @@ Owner is not a coder: explain things in short, plain English.
    download first, so they have it even when away from their computer.
 3. Ask whether to push. Push to GitHub **only** when the owner says so.
 4. After pushing, remind them `git pull` keeps their computer's folder in sync.
+5. Standing rule: whenever the owner needs to type something in Terminal, give the exact commands to paste, in one code block (never just "run git pull"). After a push to be tested on the phone: `git checkout -- ios/App/CapApp-SPM/Package.swift`, `git pull`, `npm install`, `npm run cap:sync`, `npx cap open ios`.
 
 ## Never lose saved progress
 Progress = known / starred / hidden marks, notes, the owner's own cards and
