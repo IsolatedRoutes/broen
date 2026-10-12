@@ -84,9 +84,9 @@ export function DanishVoiceNote() {
       <CenteredOverlay onClose={close} maxWidth={340} closeX>
         <div style={{ textAlign: "center" }}>
           <Icon.Volume2 size={22} color="var(--fjord)" style={{ marginBottom: 8 }} />
-          <div style={{ fontFamily: "var(--serif)", fontSize: 17, marginBottom: 8 }}>{none ? "Spoken Danish isn't turned on" : "Get a more natural Danish voice"}</div>
+          <div style={{ fontFamily: "var(--serif)", fontSize: 17, marginBottom: 8 }}>{none ? "Spoken Danish isn't turned on" : "Get the highest quality Danish voice"}</div>
           <div style={{ ...bodyStyle, marginBottom: 16 }}>
-            {none ? "This device needs a Danish voice before it can read Danish aloud. It takes a minute to turn on." : "For a more natural voice, change a setting on your device. It takes a minute, and it's free."}
+            {none ? "This device needs a Danish voice before it can read Danish aloud. It takes a minute to turn on." : "For the highest quality Danish voice, go to your settings. It takes a minute, and it's free."}
           </div>
           <button onClick={() => setStep(0)} style={{ ...smallBtn("var(--fjord)"), width: "100%", padding: "10px", fontSize: 14, marginBottom: 8 }}>
             Show me how

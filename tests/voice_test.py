@@ -67,7 +67,7 @@ def run(voices, expect_message, want="Sara"):
             check("Spoken Danish isn't turned on" not in page.inner_text("body"), "message closes with the x")
         else:
             check(not shown, "Danish voice present: no message")
-            tip = "Get a more natural Danish voice" in page.inner_text("body")
+            tip = "Get the highest quality Danish voice" in page.inner_text("body")
             check(tip == (want == "Sara"), "a plain voice shows the one-time tip, a good voice does not")
             check(len(spoken) == 1 and spoken[0]["voice"] == want, "Danish voice present: spoken with the Danish voice")
         check(errors == [], "no page errors %s" % errors)
