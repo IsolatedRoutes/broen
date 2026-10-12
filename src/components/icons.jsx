@@ -46,12 +46,11 @@ export const Icon = {
       <line x1="15" y1="15" x2="20" y2="20" />
     </>
   )),
-  // One closed book: the Library / dictionary tab (clearly different from the three-line menu).
+  // "Aa": the Dictionary tab (a word list; clearly different from the three-line menu).
   Books: makeIcon(() => (
     <>
-      <path d="M6 3.5h11a1.5 1.5 0 0 1 1.5 1.5v14a1.5 1.5 0 0 1-1.5 1.5H6z" />
-      <path d="M6 3.5a1.5 1.5 0 0 0-1.5 1.5v14A1.5 1.5 0 0 0 6 20.5" />
-      <path d="M10 8h5" />
+      <path d="M4 18L9 5l5 13M5.8 14h6.4" />
+      <path d="M16 13.5c0-1.1 1-1.8 2.2-1.8s2 .7 2 1.8v4.5M16 16.2c0 1 .8 1.9 2.1 1.9 1.3 0 2.100-.8 2.100-1.600v-.8c-1.500 0-4.200 0-4.200.5z" />
     </>
   )),
   Layers: makeIcon(() => (
