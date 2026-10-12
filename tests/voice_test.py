@@ -34,7 +34,7 @@ def fake_speech(voices):
       addEventListener: () => {}, removeEventListener: () => {} } });
     """ % voices
 
-def run(voices, expect_message):
+def run(voices, expect_message, want="Sara"):
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page(viewport={"width": 400, "height": 800})
@@ -57,13 +57,16 @@ def run(voices, expect_message):
             check("Spoken Danish isn't turned on" not in page.inner_text("body"), "message closes with OK")
         else:
             check(not shown, "Danish voice present: no message")
-            check(len(spoken) == 1 and spoken[0]["voice"] == "Sara", "Danish voice present: spoken with the Danish voice")
+            check(len(spoken) == 1 and spoken[0]["voice"] == want, "Danish voice present: spoken with the Danish voice")
         check(errors == [], "no page errors %s" % errors)
         browser.close()
 
 run("[{name:'Samantha', lang:'en-US'}, {name:'Daniel', lang:'en-GB'}]", True)
 run("[]", True)
 run("[{name:'Samantha', lang:'en-US'}, {name:'Sara', lang:'da-DK'}]", False)
+# Several Danish voices: the nicest one is picked, not the first.
+run("[{name:'Sara (Compact)', lang:'da-DK'}, {name:'Magnus (Premium)', lang:'da-DK'}, {name:'Samantha', lang:'en-US'}]", False, "Magnus (Premium)")
+run("[{name:'Plain', lang:'da-DK'}, {name:'Google dansk', lang:'da-DK'}]", False, "Google dansk")
 
 server.shutdown()
 print("\n" + ("ALL PASSED" if not failures else "FAILED: %d" % len(failures)))

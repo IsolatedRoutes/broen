@@ -12,6 +12,28 @@ function isDanish(voice) {
   return !!voice.lang && voice.lang.toLowerCase().replace("_", "-").startsWith("da");
 }
 
+// Devices often carry several Danish voices, and the first one is usually the plainest.
+// Prefer the nicest: Premium / Enhanced (iPhone, iPad, Mac), Natural / Neural (Edge),
+// then Google's, and the small "compact" ones last.
+export function voiceScore(voice) {
+  const n = (voice.name || "").toLowerCase();
+  let score = 0;
+  if (/premium/.test(n)) score += 100;
+  if (/natural|neural|online/.test(n)) score += 90;
+  if (/enhanced|improved|\bpro\b/.test(n)) score += 80;
+  if (/google/.test(n)) score += 60;
+  if (/compact|eloquence|novelty/.test(n)) score -= 20;
+  if (voice.default) score += 5;
+  return score;
+}
+export function bestDanishVoice(voices) {
+  let best = null;
+  for (const v of voices || []) {
+    if (isDanish(v) && (!best || voiceScore(v) > voiceScore(best))) best = v;
+  }
+  return best;
+}
+
 // Phones sometimes report their voice list a moment late; asking once at
 // startup makes the list ready by the time someone taps a speaker.
 if (speechSupported()) {
@@ -36,7 +58,7 @@ export function speakDanish(text) {
   const synth = window.speechSynthesis;
   synth.cancel(); // stop anything already playing first
   const voices = synth.getVoices();
-  const voice = voices.find(isDanish) || null;
+  const voice = bestDanishVoice(voices);
   // No Danish voice found (including an empty list): never speak, because the
   // device would fall back to an English voice and teach the wrong sound.
   if (!voice) {
