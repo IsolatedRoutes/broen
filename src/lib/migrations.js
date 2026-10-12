@@ -64,7 +64,11 @@ export function migrateVocabCorrections(original) {
   let newCards = cards.map((card) => {
     if (card.type !== "word") return card;
     const frontFix = VOCAB_CORRECTIONS[card.front];
-    const backFix = VOCAB_TRANSLATION_CORRECTIONS[card.front];
+    // A starter card already reworded by STARTER_TRANSLATION_UPDATES keeps that newer wording.
+    // (Without this, the two lists undid each other on every launch and the deck was
+    // rewritten each time, which made a second open tab reload again and again.)
+    const upd = card.starter ? STARTER_TRANSLATION_UPDATES[card.front] : undefined;
+    const backFix = upd && card.back === upd[1] ? undefined : VOCAB_TRANSLATION_CORRECTIONS[card.front];
     const front = frontFix !== undefined ? frontFix : card.front;
     const back = backFix !== undefined ? backFix : card.back;
     if (front === card.front && back === card.back) return card;

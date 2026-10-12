@@ -155,11 +155,23 @@ export default function DanishFlashcards() {
   // If the app is open in two tabs, a change saved in one reloads the
   // other, so an older tab can never save its stale copy over newer progress.
   useEffect(() => {
+    // Safety stop: two tabs must never reload each other in a loop, so a tab that
+    // already reloaded because of another tab in the last 20 seconds stays put.
+    function reloadForOtherTab() {
+      try {
+        const last = Number(sessionStorage.getItem("otherTabReloadAt") || 0);
+        if (Date.now() - last < 20000) return;
+        sessionStorage.setItem("otherTabReloadAt", String(Date.now()));
+      } catch {
+        // No session storage: reload as before.
+      }
+      window.location.reload();
+    }
     function onStorage(e) {
-      if (e.key === "cards" || e.key === "categories") window.location.reload();
+      if (e.key === "cards" || e.key === "categories") reloadForOtherTab();
     }
     function onSync(e) {
-      if (e.data === "cards" || e.data === "categories") window.location.reload();
+      if (e.data === "cards" || e.data === "categories") reloadForOtherTab();
     }
     window.addEventListener("storage", onStorage);
     if (syncChannel) syncChannel.addEventListener("message", onSync);

@@ -50,7 +50,7 @@ export function Shell({ children, sidebar = false }) {
         @media (min-width: 768px) and (min-height: 600px) {
           .app-shell { max-width: 780px; }
           .app-shell.has-side { max-width: none; display: grid; grid-template-columns: 232px minmax(0, 1fr); align-items: start; }
-          .app-shell.has-side > .side-col { position: sticky; top: 0; height: 100vh; height: 100dvh; border-right: 1px solid var(--line); }
+          .app-shell.has-side > .side-col { position: sticky; top: 0; z-index: 50; height: 100vh; height: 100dvh; border-right: 1px solid var(--line); }
           .has-side .app-views { padding-top: 26px !important; }
           .app-views { zoom: 1.2; --z: 1.2; width: 100%; max-width: calc(780px / 1.2); margin-left: auto; margin-right: auto; }
           .tabbar-bottom { display: none !important; }

@@ -1,6 +1,7 @@
+import { useState } from "react";
 import { CheckBadgeIcon, Icon, StarIcon } from "./icons";
 import { CenteredOverlay } from "./ui";
-import { INFO_PAGES } from "../data/infoPages";
+import { CONTACT_EMAIL, INFO_PAGES } from "../data/infoPages";
 
 const LEGEND_ICONS = {
   star: <StarIcon size={17} filled={false} color="#C9C4B6" />,
@@ -11,7 +12,43 @@ const LEGEND_ICONS = {
   speaker: <Icon.Volume2 size={17} color="#C0714D" />,
 };
 
+// "Contact": shows the address itself (selectable, with a Copy button) instead of
+// jumping straight into a mail app that the person may not use.
+function ContactSheet({ onClose }) {
+  const [copied, setCopied] = useState(false);
+  async function copy() {
+    try {
+      await navigator.clipboard.writeText(CONTACT_EMAIL);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1800);
+    } catch {
+      // Copying isn't allowed everywhere; the address is selectable above.
+    }
+  }
+  return (
+    <CenteredOverlay onClose={onClose} maxWidth={360}>
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 14 }}>
+        <div style={{ fontFamily: "var(--serif)", fontSize: 20 }}>Contact</div>
+        <button onClick={onClose} aria-label="Close" style={{ border: "none", background: "none", color: "var(--muted)", cursor: "pointer", padding: 4, display: "flex" }}>
+          <Icon.X size={16} />
+        </button>
+      </div>
+      <div style={{ fontFamily: "var(--sans)", fontSize: 14, lineHeight: 1.55, color: "var(--muted)", marginBottom: 12 }}>Questions, ideas or something not working? Write to:</div>
+      <div style={{ fontFamily: "var(--sans)", fontSize: 16, color: "var(--ink)", background: "#fff", border: "1px solid var(--line)", borderRadius: 10, padding: "12px 14px", userSelect: "all", wordBreak: "break-all", marginBottom: 12 }}>{CONTACT_EMAIL}</div>
+      <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+        <button onClick={copy} style={{ border: "none", background: "var(--fjord)", color: "#FBFAF7", borderRadius: 8, padding: "9px 16px", fontFamily: "var(--sans)", fontSize: 13.5, fontWeight: 600, cursor: "pointer" }}>
+          {copied ? "Copied" : "Copy address"}
+        </button>
+        <a href={"mailto:" + CONTACT_EMAIL} style={{ color: "var(--muted)", fontFamily: "var(--sans)", fontSize: 13.5, marginLeft: "auto" }}>
+          Open in my email app
+        </a>
+      </div>
+    </CenteredOverlay>
+  );
+}
+
 export function InfoSheet({ pageId, onClose }) {
+  if (pageId === "contact") return <ContactSheet onClose={onClose} />;
   const page = INFO_PAGES.find((p) => p.id === pageId);
   if (!page) return null;
   return (

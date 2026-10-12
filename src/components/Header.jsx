@@ -88,13 +88,15 @@ export function Header({ onOpenSettings, onOpenBackup, onOpenInfo, settingsOpen,
                     </button>
                   ))}
                   {CONTACT_EMAIL && (
-                    <a
-                      href={"mailto:" + CONTACT_EMAIL}
-                      onClick={() => setMenuOpen(false)}
-                      style={{ display: "block", textAlign: "left", color: "var(--ink)", fontFamily: "var(--sans)", fontSize: 14, padding: "10px 12px", borderRadius: 8, textDecoration: "none" }}
+                    <button
+                      onClick={() => {
+                        setMenuOpen(false);
+                        onOpenInfo("contact");
+                      }}
+                      style={{ display: "block", width: "100%", textAlign: "left", border: "none", background: "none", color: "var(--ink)", fontFamily: "var(--sans)", fontSize: 14, padding: "10px 12px", borderRadius: 8, cursor: "pointer" }}
                     >
                       Contact
-                    </a>
+                    </button>
                   )}
                 </div>
               </>
@@ -153,9 +155,15 @@ export function Header({ onOpenSettings, onOpenBackup, onOpenInfo, settingsOpen,
                 </button>
               ))}
               {CONTACT_EMAIL && (
-                <a href={"mailto:" + CONTACT_EMAIL} onClick={() => setSideMenuOpen(false)} style={{ display: "block", textAlign: "left", color: "var(--ink)", fontFamily: "var(--sans)", fontSize: 14, padding: "10px 12px", borderRadius: 8, textDecoration: "none" }}>
+                <button
+                  onClick={() => {
+                    setSideMenuOpen(false);
+                    onOpenInfo("contact");
+                  }}
+                  style={{ display: "block", width: "100%", textAlign: "left", border: "none", background: "none", color: "var(--ink)", fontFamily: "var(--sans)", fontSize: 14, padding: "10px 12px", borderRadius: 8, cursor: "pointer" }}
+                >
                   Contact
-                </a>
+                </button>
               )}
             </div>
           </>
