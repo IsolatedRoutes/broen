@@ -1,9 +1,9 @@
 // ---------- shell / chrome ----------
 
-export function Shell({ children }) {
+export function Shell({ children, sidebar = false }) {
   return (
     <div
-      className="app-shell"
+      className={sidebar ? "app-shell has-side" : "app-shell"}
       style={{
         "--ink": "#23272A",
         "--paper": "#EFEEE8",
@@ -43,19 +43,21 @@ export function Shell({ children }) {
           padding-right: env(safe-area-inset-right, 0px);
         }
         .app-shell { max-width: 480px; }
-        .nav-wide { display: none; }
-        /* Wide screens (iPad, computer): a wider centred column, bigger cards, and the
-           four tabs move from the bottom bar up into the header. Phones, including
-           a phone turned sideways, keep the phone layout. */
+        /* Wide screens (iPad, computer): the four screens, Backup, AI settings and the menu
+           move into a sidebar on the left, and the content sits in a wider, centred column.
+           Phones, including a phone turned sideways, keep the phone layout. */
         @media (min-width: 768px) and (min-height: 600px) {
           .app-shell { max-width: 780px; }
-          .app-views { zoom: 1.2; --z: 1.2; }
+          .app-shell.has-side { max-width: none; display: grid; grid-template-columns: 232px minmax(0, 1fr); align-items: start; }
+          .app-shell.has-side > .side-col { position: sticky; top: 0; height: 100vh; height: 100dvh; border-right: 1px solid var(--line); }
+          .has-side .app-views { padding-top: 26px !important; }
+          .app-views { zoom: 1.2; --z: 1.2; width: 100%; max-width: calc(780px / 1.2); margin-left: auto; margin-right: auto; }
           .tabbar-bottom { display: none !important; }
-          .nav-wide { display: flex; }
+          .has-side .side-wide { display: flex; flex-direction: column; height: 100%; box-sizing: border-box; padding: 24px 14px 18px; }
         }
         @media (min-width: 1100px) and (min-height: 700px) {
           .app-shell { max-width: 900px; }
-          .app-views { zoom: 1.3; --z: 1.3; }
+          .app-views { zoom: 1.3; --z: 1.3; max-width: calc(900px / 1.3); }
         }
         @keyframes viewIn { from { opacity: 0; } to { opacity: 1; } }
         .app-views { animation: viewIn 0.14s ease-out; }

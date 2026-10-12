@@ -690,8 +690,8 @@ export default function DanishFlashcards() {
   }
 
   return (
-    <Shell>
-      <div>
+    <Shell sidebar>
+      <div className="side-col">
         <Header
           onOpenSettings={() => setShowSettings((s) => !s)}
           onOpenBackup={() => setShowBackup((s) => !s)}

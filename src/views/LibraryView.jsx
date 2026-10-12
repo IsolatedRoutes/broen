@@ -62,15 +62,15 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
 
   const [englishFirst, setEnglishFirst] = useState(false);
 
-  // "en"/"et" are grammatical-gender articles Danish nouns are stored
-  // with (e.g. "en hund"), and "a"/"an" are their English equivalents
-  // (e.g. "a dog") — strip whichever applies, then skip past any other
-  // leading non-letter characters (like the stray "/" in a card whose
-  // front is literally "en / et"), so both the sort order and the
-  // letter grouping agree on the same real first letter instead of one
-  // of them being thrown off by punctuation.
+  // Helper words are not part of the alphabet: Danish "en"/"et" (gender words) and
+  // "at" (the "to" of verbs) are skipped, so "at gå" is filed under G and "en hund"
+  // under H. English "a", "an", "the" and "to" are skipped the same way. Any other
+  // leading non-letter characters (like the stray "/" in a card whose front is
+  // literally "en / et") are skipped too, so the sort order and the letter group
+  // agree on the same real first letter.
   const sortKey = (word) => {
-    const stripped = word.normalize("NFC").replace(/^(en|et|an?)\s+/i, "").trim();
+    const helpers = englishFirst ? /^(an?|the|to)\s+/i : /^(en|et|at)\s+/i;
+    const stripped = word.normalize("NFC").replace(helpers, "").trim();
     const match = stripped.match(/[a-zA-ZæøåÆØÅ].*/s);
     const key = match ? match[0] : stripped;
     // Danish collation files "aa" with å (Aarhus would land among the Å
