@@ -11,6 +11,7 @@ import { WORD_INSIGHT_SYSTEM_PROMPT, knownWordsHint } from "../lib/ai/prompts";
 import { prebuiltInsight } from "../lib/lightbulb";
 import { speakDanish, speechSupported } from "../lib/speech";
 import { parseJSONLoose } from "../lib/text";
+import { dictionaryKey } from "../lib/dictionarySort";
 import { cardInCategory, wordClassFor } from "../lib/vocabulary";
 import { cardKind } from "../data/sentenceCards";
 
@@ -62,24 +63,11 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
 
   const [englishFirst, setEnglishFirst] = useState(false);
 
-  // Helper words are not part of the alphabet: Danish "en"/"et" (gender words) and
-  // "at" (the "to" of verbs) are skipped, so "at gå" is filed under G and "en hund"
-  // under H. English "a", "an", "the" and "to" are skipped the same way. Any other
-  // leading non-letter characters (like the stray "/" in a card whose front is
-  // literally "en / et") are skipped too, so the sort order and the letter group
-  // agree on the same real first letter.
-  const sortKey = (word) => {
-    const helpers = englishFirst ? /^(an?|the|to)\s+/i : /^(en|et|at)\s+/i;
-    const stripped = word.normalize("NFC").replace(helpers, "").trim();
-    const match = stripped.match(/[a-zA-ZæøåÆØÅ].*/s);
-    const key = match ? match[0] : stripped;
-    // Danish collation files "aa" with å (Aarhus would land among the Å
-    // words); an invisible break keeps it with the A words.
-    return /^aa/i.test(key) ? key[0] + "\u200B" + key.slice(1) : key;
-  };
-  const sortField = (c) => (englishFirst ? c.back : c.front);
+  // Helper words are not part of the alphabet (see src/lib/dictionarySort.js): "at gå" is filed
+  // under G, "en hund" under H, and a fixed expression like "i dag" under D.
+  const sortKey = (card) => dictionaryKey(englishFirst ? card.back : card.front, { englishFirst, sentence: card.type === "sentence" });
   const sorted = [...filtered].sort((a, b) => {
-    const cmp = sortKey(sortField(a)).localeCompare(sortKey(sortField(b)), englishFirst ? "en" : "da");
+    const cmp = sortKey(a).localeCompare(sortKey(b), englishFirst ? "en" : "da");
     return sortDir === "desc" ? -cmp : cmp;
   });
 
@@ -89,13 +77,13 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
   // the appropriate end depending on direction — that's correct Danish
   // collation, not a bug, even though it can look surprising coming from
   // English alphabetical order.
-  const letterOf = (word) => {
-    const key = sortKey(word);
+  const letterOf = (card) => {
+    const key = sortKey(card);
     return key ? key[0].toUpperCase() : "#";
   };
   const groups = [];
   for (const c of sorted) {
-    const letter = letterOf(sortField(c));
+    const letter = letterOf(c);
     const last = groups[groups.length - 1];
     if (last && last.letter === letter) last.cards.push(c);
     else groups.push({ letter, cards: [c] });

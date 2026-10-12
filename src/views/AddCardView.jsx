@@ -221,7 +221,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                       aria-label="English"
                       className="soft"
                       style={{ ...bareInput, resize: "none", fontFamily: "var(--sans)", fontSize: 18, fontStyle: "italic", lineHeight: 1.3, color: "var(--sage)", padding: 0, maxHeight: 110, overflowY: "auto" }}
-                      placeholder="e.g. an apple"
+                      placeholder="e.g. an apple…"
                     /></Clearable>
                   </div>
                 </div>
@@ -236,7 +236,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                       aria-label="Dansk"
                       className="soft"
                       style={{ ...bareInput, resize: "none", fontFamily: "var(--serif)", fontSize: 26, lineHeight: 1.25, color: "var(--terracotta)", padding: 0, maxHeight: 110, overflowY: "auto" }}
-                      placeholder="f.eks. et æble"
+                      placeholder="f.eks. et æble…"
                     /></Clearable>
                   </div>
                 </div>
@@ -295,12 +295,28 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                     aria-label="Explanation"
                     className="soft"
                     style={{ ...bareInput, resize: "none", fontFamily: "var(--sans)", fontSize: 16, fontStyle: "italic", lineHeight: 1.35, color: "var(--sage)", padding: 0, maxHeight: 130, overflowY: "auto" }}
-                    placeholder="What the rule is"
+                    placeholder="Grammar rule"
                   /></Clearable>
                 </div>
               </div>
               {(showNote || notes) && (
-                <Clearable value={notes} onClear={() => setNotes("")} multiline><textarea value={notes} onChange={(e) => setNotes(e.target.value)} aria-label="Note" className="soft" rows={2} style={{ ...bareInput, resize: "none", fontFamily: "var(--sans)", fontSize: 14, color: "var(--ink)", borderTop: "1px solid var(--line)", paddingTop: 8 }} placeholder="Note" /></Clearable>
+                <div style={fieldWrap}>
+                  <div style={fieldLabel}>Note</div>
+                  <div style={fieldBox}>
+                    <Clearable value={notes} onClear={() => setNotes("")} multiline>
+                      <textarea
+                        value={notes}
+                        onChange={(e) => setNotes(e.target.value)}
+                        autoFocus={!notes}
+                        rows={2}
+                        aria-label="Note"
+                        className="soft"
+                        style={{ ...bareInput, resize: "none", fontFamily: "var(--sans)", fontSize: 16, lineHeight: 1.35, color: "var(--ink)", padding: 0, maxHeight: 110, overflowY: "auto" }}
+                        placeholder="Add a note"
+                      />
+                    </Clearable>
+                  </div>
+                </div>
               )}
             </div>
             {!(showNote || notes) && (

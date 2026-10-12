@@ -7,7 +7,7 @@ import { CenteredOverlay, Clearable, EmptyState, inputStyle, smallBtn } from "..
 import { LEVELS } from "../data/categories";
 import { irregularPluralFactsHint, irregularVerbFactsHint } from "../data/irregulars";
 import { apiErrorMessage, callAI } from "../lib/ai/index";
-import { WORD_INSIGHT_SYSTEM_PROMPT, knownWordsHint } from "../lib/ai/prompts";
+import { ANSWER_DEPTH_RULE, WORD_INSIGHT_SYSTEM_PROMPT, knownWordsHint } from "../lib/ai/prompts";
 import { prebuiltInsight } from "../lib/lightbulb";
 import { hapticLight, hapticSuccess } from "../lib/haptics";
 import { LEVELUP_NEXT_GAP, levelUpDueAt, levelUpFormsFor } from "../lib/levelUp";
@@ -686,7 +686,7 @@ export function StudyView({ cards, categories, updateCard, updateCards, addCards
     try {
       const reply = await callAI(
         "You're a Danish tutor helping with a single flashcard a learner is studying. They'll either ask a genuine question about it, or ask you to modify the card itself — e.g. \"give me the present tense\", \"make this plural\", \"change to past tense\", \"fix the translation\" — work out which from their wording. " +
-          "For a genuine question: answer directly in the reply field, 1-3 short sentences — never more than that, and never pad the answer with extra context they didn't ask for. Write in plain flowing prose only: no headers, no bullet points, no numbered lists, no markdown formatting. Leave newFront and newBack as empty strings. " +
+          "For a genuine question: answer directly in the reply field. " + ANSWER_DEPTH_RULE + "Don't pad the answer with extra context they didn't ask for. Write in plain text only: no headers, no markdown formatting, and short lines are fine. Leave newFront and newBack as empty strings. " +
           "For a modification request: work out the new Danish text and its natural English translation, and put them in newFront and newBack — keep the same conventions the original card used (e.g. keep a noun's en/et article if the original had one, omit it if the original didn't). Leave reply as an empty string, or at most a short one-line confirmation.",
         'The flashcard is: "' +
           card.front +
@@ -697,7 +697,7 @@ export function StudyView({ cards, categories, updateCard, updateCards, addCards
           '. Their message: "' +
           askQuestion.trim() +
           '"\n\nRespond ONLY with JSON, no other text: {"reply": "...", "newFront": "...", "newBack": "..."} — use empty strings for whichever don\'t apply.',
-        { maxTokens: 300 }
+        { maxTokens: 600 }
       );
       const parsed = parseJSONLoose(reply);
       setAskAnswer((parsed.reply || "").trim());

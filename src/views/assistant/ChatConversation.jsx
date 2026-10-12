@@ -7,7 +7,7 @@ import { CenteredOverlay, Clearable, inputStyle, smallBtn } from "../../componen
 import { CATEGORY_RULE, LESSONS_ID, aiCategoryName, isLessonsCategory, topicNamesForAI } from "../../data/categories";
 import { apiErrorMessage, callAI, isSwitchableAIError } from "../../lib/ai/index";
 import { FORMS_RULE, formsField } from "../../lib/ownFormsCore";
-import { GRAMMAR_CARD_STYLE, knownWordsHint, PLAIN_ENGLISH_RULE } from "../../lib/ai/prompts";
+import { ANSWER_DEPTH_RULE, GRAMMAR_CARD_STYLE, knownWordsHint, PLAIN_ENGLISH_RULE } from "../../lib/ai/prompts";
 import { persistWithRetry, storeGet, storeSet } from "../../lib/storage";
 import { parseJSONLoose } from "../../lib/text";
 
@@ -18,7 +18,7 @@ export function loadingCopy(engine) {
 // ---------- Chat conversation ----------
 
 const CHAT_EXAMPLES = [
-  "Why is it \u201cen bil\u201d but \u201cet hus\u201d?",
+  "Why is it \u201cen bil\u201d not \u201cet bil\u201d?",
   "Make 10 cards with vocabulary about travel",
   "When do I use \u201cikke\u201d in a sentence?",
 ];
@@ -61,7 +61,8 @@ export function ChatConversation({ engine, categories, addCategory, addCards, sh
     await persistWithRetry("chatHistory", JSON.stringify(next.slice(-40)));
   }
 
-  const [reviewingIdx, setReviewingIdx] = useState(null);
+  // The cards being looked over before they are added (from "Review flashcards" or "Save as flashcard").
+  const [review, setReview] = useState(null);
   const [reviewSelected, setReviewSelected] = useState({});
   const [reviewCategory, setReviewCategory] = useState({});
 
@@ -78,9 +79,14 @@ export function ChatConversation({ engine, categories, addCategory, addCards, sh
     setSending(true);
     try {
       const categoryNames = topicNamesForAI(categories);
-      const history = next.slice(-20).map((m) => ({ role: m.role, content: m.content }));
+      // The whole conversation goes along, so a follow-up is answered in context. A turn that was
+      // only flashcards has no text, and some AI services refuse empty turns, so it gets a note.
+      const history = next.slice(-20).map((m) => ({
+        role: m.role,
+        content: m.content && m.content.trim() ? m.content : m.flashcards && m.flashcards.length ? "(I suggested " + m.flashcards.length + " flashcards.)" : "(no reply)",
+      }));
       const reply = await callAI(
-        "You are a knowledgeable Danish language reference for an intermediate, self-taught learner who has some foundational grammar gaps despite a decent vocabulary. " + PLAIN_ENGLISH_RULE + "For a plain question, answer directly and concisely in the reply field (1-3 sentences typically), then stop — don't pad with extra context they didn't ask for, and never end with a follow-up question or an invitation to continue (no \"let me know if...\", no \"would you like...\"). Use Danish examples with English translations whenever they help. " +
+        "You are a knowledgeable Danish language reference for an intermediate, self-taught learner who has some foundational grammar gaps despite a decent vocabulary. " + PLAIN_ENGLISH_RULE + "For a plain question, answer in the reply field. " + ANSWER_DEPTH_RULE + "Never end with a follow-up question or an invitation to continue (no \"let me know if...\", no \"would you like...\"), and don't pad with things they didn't ask for. Use Danish examples with English translations whenever they help. " +
           "Separately: if the learner is asking you to CREATE one or more flashcards — a new topic (\"give me 10 words for the doctor\"), a single word or phrase (\"make a flashcard for hyggelig\"), or something from earlier in this conversation (\"make a flashcard from that\", \"save the last one\", \"turn that into a card\") — put those in the flashcards array. Use the conversation history to work out what \"that\" or \"it\" refers to when needed. Leave reply empty, or at most a short one-line confirmation, when the request was purely for flashcards. " +
           "For each flashcard: type is \"word\" (a single word or short phrase), \"sentence\" (a full sentence), or \"grammar\" (a rule or pattern that needs explaining rather than just translating — include up to 3 short example sentences for grammar only). Don't overuse \"grammar\" — most vocabulary requests are \"word\" or \"sentence\". For word/sentence, the back field must be ONE clean, natural translation only — never a list of synonyms or alternatives, and never a parenthetical part-of-speech note like \"(adj.)\"; deeper detail like that belongs behind the lightbulb feature once the card exists, not crammed into the card itself. Pick the single best-fitting category for word/sentence cards (skip category for grammar)." + CATEGORY_RULE + " " +
           "Include Danish grammatical articles (en/et) matched with a natural English article, omitting both for mass/uncountable nouns. " +
@@ -117,35 +123,35 @@ export function ChatConversation({ engine, categories, addCategory, addCards, sh
     }
   }
 
-  function openReview(idx) {
-    const msg = messages[idx];
-    if (!msg || !msg.flashcards || msg.flashcards.length === 0) return;
+  function showReview(flashcards) {
     const sel = {};
     const cat = {};
-    msg.flashcards.forEach((fc, i) => {
+    flashcards.forEach((fc, i) => {
       sel[i] = true;
       cat[i] = fc.categoryId || "";
     });
-    setReviewingIdx(idx);
+    setReview({ flashcards });
     setReviewSelected(sel);
     setReviewCategory(cat);
   }
 
+  function openReview(idx) {
+    const msg = messages[idx];
+    if (!msg || !msg.flashcards || msg.flashcards.length === 0) return;
+    showReview(msg.flashcards);
+  }
+
   function addReviewSelected() {
-    const msg = messages[reviewingIdx];
-    if (!msg) return;
+    if (!review) return;
     const toAdd = [];
-    msg.flashcards.forEach((fc, i) => {
+    review.flashcards.forEach((fc, i) => {
       if (!reviewSelected[i]) return;
       const catId = fc.type === "grammar" ? "grammar-lessons" : reviewCategory[i] || "";
       toAdd.push({ type: fc.type, front: fc.front, back: fc.back, category: catId, ...(fc.type === "grammar" ? { examples: fc.examples || [] } : {}), ...formsField(fc.type, fc.front, fc.forms) });
-      if (fc.type === "grammar" && fc.examples) {
-        fc.examples.slice(0, 3).forEach((ex) => toAdd.push({ type: "sentence", front: ex.da.replace(/\*\*/g, ""), back: ex.en.replace(/\*\*/g, ""), category: catId }));
-      }
     });
     if (toAdd.length === 0) return;
     addCards(toAdd);
-    setReviewingIdx(null);
+    setReview(null);
   }
 
   async function saveAsCard(idx) {
@@ -183,14 +189,9 @@ export function ChatConversation({ engine, categories, addCategory, addCards, sh
       const catName = type === "grammar" ? "" : aiCategoryName(parsed.category);
       const existing = catName ? categories.find((c) => !isLessonsCategory(c) && c.name.toLowerCase() === catName.toLowerCase()) : null;
       const catId = type === "grammar" ? LESSONS_ID : !catName ? "" : existing ? existing.id : addCategory(catName);
-      const examples = parsed.examples || [];
-      const toAdd = [{ type, front: parsed.front, back: parsed.back, category: catId, ...(type === "grammar" ? { examples } : {}), ...formsField(type, parsed.front, parsed.forms) }];
-      if (type === "grammar") {
-        examples.slice(0, 3).forEach((ex) => {
-          toAdd.push({ type: "sentence", front: ex.da.replace(/\*\*/g, ""), back: ex.en.replace(/\*\*/g, ""), category: catId });
-        });
-      }
-      addCards(toAdd);
+      // Show what will be added and let the learner confirm. A grammar point keeps its
+      // examples inside the lesson itself; it no longer also makes separate sentence cards.
+      showReview([{ type, front: parsed.front, back: parsed.back, categoryId: catId, examples: type === "grammar" ? parsed.examples || [] : [], forms: parsed.forms }]);
     } catch (e) {
       showToast(apiErrorMessage(e));
     } finally {
@@ -354,18 +355,18 @@ export function ChatConversation({ engine, categories, addCategory, addCards, sh
         </button>
       </div>
 
-      {reviewingIdx !== null && messages[reviewingIdx] && (
-        <CenteredOverlay onClose={() => setReviewingIdx(null)} maxWidth={460}>
+      {review && (
+        <CenteredOverlay onClose={() => setReview(null)} maxWidth={460}>
           <div style={{ display: "flex", justifyContent: "flex-end", marginBottom: 4 }}>
-            <button aria-label="Close" onClick={() => setReviewingIdx(null)} style={{ border: "none", background: "none", cursor: "pointer", padding: 4, color: "var(--muted)" }}>
+            <button aria-label="Close" onClick={() => setReview(null)} style={{ border: "none", background: "none", cursor: "pointer", padding: 4, color: "var(--muted)" }}>
               <Icon.X size={18} />
             </button>
           </div>
           <div style={{ fontFamily: "var(--sans)", fontSize: 12.5, color: "var(--muted)", marginBottom: 10 }}>
-            Uncheck any you don't want, and adjust the category if it's not quite right.
+            {review && review.flashcards.length === 1 ? "Here is the card that will be added. Change the category if it's not quite right." : "Uncheck any you don't want, and adjust the category if it's not quite right."}
           </div>
-          {messages[reviewingIdx].flashcards.map((fc, i) => (
-            <div key={i} style={{ marginBottom: 10, paddingBottom: 10, borderBottom: i < messages[reviewingIdx].flashcards.length - 1 ? "1px solid var(--line)" : "none" }}>
+          {review.flashcards.map((fc, i) => (
+            <div key={i} style={{ marginBottom: 10, paddingBottom: 10, borderBottom: i < review.flashcards.length - 1 ? "1px solid var(--line)" : "none" }}>
               <label style={{ display: "flex", alignItems: "flex-start", gap: 8, marginBottom: 6 }}>
                 <input
                   type="checkbox"
@@ -376,7 +377,13 @@ export function ChatConversation({ engine, categories, addCategory, addCards, sh
                 <span style={{ fontFamily: "var(--sans)", fontSize: 13.5, minWidth: 0 }}>
                   {fc.type === "grammar" ? (
                     <>
-                      <b>{fc.front}</b> — {fc.back}
+                      <b>{fc.front}</b> <span style={{ color: "var(--muted)", fontSize: 11.5 }}>(grammar lesson)</span>
+                      <div style={{ color: "var(--sage)", fontStyle: "italic", marginTop: 2 }}>{fc.back}</div>
+                      {(fc.examples || []).slice(0, 3).map((ex, k) => (
+                        <div key={k} style={{ fontSize: 12.5, marginTop: 4, color: "var(--ink)" }}>
+                          {String(ex.da || "").replace(/\*\*/g, "")} <span style={{ color: "var(--muted)" }}>— {String(ex.en || "").replace(/\*\*/g, "")}</span>
+                        </div>
+                      ))}
                     </>
                   ) : (
                     <>

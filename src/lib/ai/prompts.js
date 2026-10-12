@@ -5,6 +5,11 @@ export const CLARITY_RULES =
 
 // Learners may not know grammar words, so every explanation the AI writes
 // teaches the idea in everyday English, with examples, instead of naming it.
+// For every question a learner asks (Chat, the Ask box on a card): useful and complete, never
+// "there are no rules, just memorize it", and aware of what was already said in the conversation.
+export const ANSWER_DEPTH_RULE =
+  "Be genuinely helpful, not minimal. Never dismiss a question with \"there are no rules\" or \"you just have to memorize it\". When something has no complete rule, still give the patterns, tendencies and rules of thumb that do exist (say how reliable each one is, and mention the real exceptions), with short Danish examples and their English translations. For a rule or a pattern, a short answer of about 3 to 6 short lines is right: one line that sums it up, then the most useful patterns. For a simple fact, one or two sentences is enough. Treat each new message as a continuation of the conversation so far unless it is clearly a new topic: build on what was already explained, and do not repeat it. ";
+
 export const PLAIN_ENGLISH_RULE =
   " Write for someone who has never studied grammar: do not use grammar terms such as participle, infinitive, conjugation, declension, definite/indefinite, common/neuter gender, subject, object, clause, stem, auxiliary, inflection, pronoun, preposition or adverb. Explain the idea in everyday words and show it with Danish examples instead (say \"the word for 'the dog'\", \"the form you use after 'jeg har'\", \"how it changes when it's more than one\"). If a term really can't be avoided, say it once and explain it in plain words in the same sentence. The en/et choice can be called \"en-words\" and \"et-words\". " + CLARITY_RULES;
 
