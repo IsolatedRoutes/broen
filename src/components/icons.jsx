@@ -46,6 +46,16 @@ export const Icon = {
       <line x1="15" y1="15" x2="20" y2="20" />
     </>
   )),
+  // Books standing on a shelf: the Library tab (clearly different from the three-line menu).
+  Books: makeIcon(() => (
+    <>
+      <rect x="3" y="4" width="5" height="16" rx="1" />
+      <path d="M3 8.5h5" />
+      <rect x="9.5" y="4" width="5" height="16" rx="1" />
+      <path d="M9.5 15.5h5" />
+      <path d="M16.2 6.2l3.2-.9 3 13.4-3.2.9z" />
+    </>
+  )),
   Layers: makeIcon(() => (
     <>
       <rect x="5" y="4.5" width="14" height="4" rx="1" />

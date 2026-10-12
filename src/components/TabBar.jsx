@@ -4,7 +4,7 @@ export const TAB_ITEMS = [
   { id: "study", label: "Study", icon: Icon.GraduationCap },
   { id: "chat", label: "Assistant", icon: Icon.MessageCircle },
   { id: "add", label: "Add", icon: Icon.Plus },
-  { id: "library", label: "Library", icon: Icon.Layers },
+  { id: "library", label: "Library", icon: Icon.Books },
 ];
 
 export function TabBar({ tab, setTab }) {

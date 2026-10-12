@@ -253,7 +253,7 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
           </button>
         </div>
         {groups.length === 0 ? (
-          <EmptyState icon={Icon.Layers} title="No matching cards" body="Try a different filter, or add new cards from the Add tab or Chat." />
+          <EmptyState icon={Icon.Books} title="No matching cards" body="Try a different filter, or add new cards from the Add tab or Chat." />
         ) : (
           groups.map((g) => (
             <div key={g.letter} style={{ borderTop: "1px solid var(--line)" }}>
