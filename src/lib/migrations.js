@@ -112,6 +112,35 @@ export function migrateStarterTranslations(cards) {
   return changed ? next : null;
 }
 
+// Older decks, and backups made by older versions, hold the built-in words as
+// plain cards. Adding a word that is already in the deck is refused, so a card
+// that matches a built-in word or lesson is an older copy of it, not something
+// the person added: it becomes a built-in card again. Marks, notes, topic and
+// the person's own wording are kept; only the origin flag changes. A word the
+// person deleted from the built-in deck is left as their own.
+export function adoptBuiltInCopies(cards, deletedKeys = new Set()) {
+  const words = new Set();
+  Object.values(STARTER_WORDS).forEach((list) => list.forEach(([da]) => words.add(frontKey(da))));
+  const lessons = new Set();
+  STARTER_GRAMMAR.forEach((p) => [p.name, ...(p.was || [])].forEach((n) => lessons.add(n.trim().toLowerCase())));
+  let changed = false;
+  const next = cards.map((c) => {
+    if (c.starter) return c;
+    if (c.type === "word") {
+      const key = frontKey(c.front);
+      if (!words.has(key) || deletedKeys.has("word:" + key) || deletedKeys.has(canonicalKey("word", c.front))) return c;
+    } else if (c.type === "grammar") {
+      const key = (c.front || "").trim().toLowerCase();
+      if (!lessons.has(key) || deletedKeys.has("grammar:" + key) || deletedKeys.has(canonicalKey("grammar", c.front))) return c;
+    } else {
+      return c;
+    }
+    changed = true;
+    return { ...c, starter: true };
+  });
+  return changed ? next : null;
+}
+
 // Quietly drops starter words that were retired from the deck (proper
 // names, offensive words) - but only if the person never touched them.
 // Anything known, starred, hidden, noted or practised stays exactly as is.

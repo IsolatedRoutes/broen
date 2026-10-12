@@ -11,7 +11,7 @@ import { getAIEngine } from "./lib/ai/index";
 import { setKnownWordsForAI } from "./lib/ai/prompts";
 import { backupFingerprint, performBackupExport } from "./lib/backup";
 import { LEVELUP_FIRST_GAP } from "./lib/levelUp";
-import { CATEGORY_LAYOUT_VERSION, GRAMMAR_VERSION, applyWordMeta, buildStarterAdditions, loadDeletedKeys, migrateConsolidatedCategories, migrateToTopics, migrateStarterTranslations, migrateVocabCorrections, moveStrayCards, purgeRetiredStarters, rememberDeleted, restoreProgress, snapshotProgress, stableStarterId, syncGrammarLessons } from "./lib/migrations";
+import { CATEGORY_LAYOUT_VERSION, GRAMMAR_VERSION, adoptBuiltInCopies, applyWordMeta, buildStarterAdditions, loadDeletedKeys, migrateConsolidatedCategories, migrateToTopics, migrateStarterTranslations, migrateVocabCorrections, moveStrayCards, purgeRetiredStarters, rememberDeleted, restoreProgress, snapshotProgress, stableStarterId, syncGrammarLessons } from "./lib/migrations";
 import { tidyOwnWordCases, tidyWordCase } from "./lib/vocabulary";
 import { hideSplash } from "./lib/splash";
 import { clearLeftoverSecrets } from "./lib/secrets";
@@ -258,6 +258,10 @@ export default function DanishFlashcards() {
       // touches the data — put back at the end if anything went missing.
       const progressBefore = snapshotProgress(c);
       const deletedKeys = await loadDeletedKeys();
+      // Older copies of built-in words are built-in cards again (so "My cards" holds only what the person added).
+      let adoptedMigrated = false;
+      const adoptedResult = adoptBuiltInCopies(c, deletedKeys);
+      if (adoptedResult) { c = adoptedResult; adoptedMigrated = true; }
 
       // One-time cleanup for anyone who already has the old confusing
       // empty default categories saved — safe to drop only if nothing
@@ -377,7 +381,7 @@ export default function DanishFlashcards() {
       const existingFronts = new Set(c.map((card) => frontKey(card.front)));
       const { newCards, combinedCategories } = buildStarterAdditions(cat, existingFronts, deletedKeys);
       let savedOk = true;
-      if (newCards.length > 0 || idsMigrated || consolidationMigrated || vocabCorrected || deckAudited || metaApplied || topicsMigrated || grammarSynced || progressRestored || strayMoved || caseTidied) {
+      if (newCards.length > 0 || adoptedMigrated || idsMigrated || consolidationMigrated || vocabCorrected || deckAudited || metaApplied || topicsMigrated || grammarSynced || progressRestored || strayMoved || caseTidied) {
         cat = combinedCategories;
         c = [
           ...c,
