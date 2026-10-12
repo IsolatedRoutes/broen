@@ -24,6 +24,7 @@ import { SyncOffer } from "./components/SyncOffer";
 import { rememberDeletedOwn } from "./lib/icloud";
 import { isBareLink, watchShared } from "./lib/shareInbox";
 import { useSync } from "./lib/useSync";
+import { useSidebar } from "./lib/useSidebar";
 import { BackupPanel } from "./views/BackupPanel";
 import { LibraryView } from "./views/LibraryView";
 import { StudyView } from "./views/StudyView";
@@ -508,6 +509,7 @@ export default function DanishFlashcards() {
     [persistCategories, persistCards, showToast]
   );
 
+  const sidebar = useSidebar();
   const sync = useSync({ loaded, cards, categories, cardsRef, categoriesRef, persistCards, persistCategories, replaceAllData });
 
   const addCards = useCallback(
@@ -690,7 +692,7 @@ export default function DanishFlashcards() {
   }
 
   return (
-    <Shell sidebar>
+    <Shell sidebar={sidebar}>
       <div className="side-col">
         <Header
           onOpenSettings={() => setShowSettings((s) => !s)}

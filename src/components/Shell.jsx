@@ -43,8 +43,9 @@ export function Shell({ children, sidebar = false }) {
           padding-right: env(safe-area-inset-right, 0px);
         }
         .app-shell { max-width: 480px; }
-        /* Wide screens (iPad, computer): the four screens, Backup, AI settings and the menu
-           move into a sidebar on the left, and the content sits in a wider, centred column.
+        .nav-wide { display: none; }
+        /* Wide screens (iPad, computer): a wider centred column and bigger cards; the four tabs sit in
+           the header. On a computer's browser only (has-side) they move into a left sidebar.
            Phones, including a phone turned sideways, keep the phone layout. */
         @media (min-width: 768px) and (min-height: 600px) {
           .app-shell { max-width: 780px; }
@@ -53,6 +54,7 @@ export function Shell({ children, sidebar = false }) {
           .has-side .app-views { padding-top: 26px !important; }
           .app-views { zoom: 1.2; --z: 1.2; width: 100%; max-width: calc(780px / 1.2); margin-left: auto; margin-right: auto; }
           .tabbar-bottom { display: none !important; }
+          .nav-wide { display: flex; }
           .has-side .side-wide { display: flex; flex-direction: column; height: 100%; box-sizing: border-box; padding: 24px 14px 18px; }
         }
         @media (min-width: 1100px) and (min-height: 700px) {

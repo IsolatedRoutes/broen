@@ -1,28 +1,13 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Icon } from "./icons";
 import { CONTACT_EMAIL, INFO_PAGES } from "../data/infoPages";
 import { TAB_ITEMS } from "./TabBar";
-
-// The same test the page's CSS uses for "computer or iPad": there the screens live in a sidebar.
-const WIDE = "(min-width: 768px) and (min-height: 600px)";
-function useWide() {
-  const get = () => typeof window !== "undefined" && !!window.matchMedia && window.matchMedia(WIDE).matches;
-  const [wide, setWide] = useState(get);
-  useEffect(() => {
-    if (!window.matchMedia) return undefined;
-    const mq = window.matchMedia(WIDE);
-    const on = () => setWide(mq.matches);
-    on();
-    mq.addEventListener("change", on);
-    return () => mq.removeEventListener("change", on);
-  }, []);
-  return wide;
-}
+import { useSidebar } from "../lib/useSidebar";
 
 export function Header({ onOpenSettings, onOpenBackup, onOpenInfo, settingsOpen, backupOpen, tab, setTab }) {
   const [menuOpen, setMenuOpen] = useState(false);
   const [sideMenuOpen, setSideMenuOpen] = useState(false);
-  const wide = useWide();
+  const wide = useSidebar();
   return (
     <>
     {!wide && <div className="hdr-narrow" style={{ padding: "22px 18px 14px" }}>
@@ -30,6 +15,22 @@ export function Header({ onOpenSettings, onOpenBackup, onOpenInfo, settingsOpen,
         <h1 style={{ fontFamily: "var(--serif)", fontSize: 26, margin: 0, fontWeight: 400, letterSpacing: 0.2 }}>
           Dansk<span style={{ color: "var(--rust)" }}>.</span>
         </h1>
+        <nav className="nav-wide" aria-label="Main" style={{ flex: 1, justifyContent: "center", gap: 6 }}>
+          {TAB_ITEMS.map(({ id, label, icon: IconCmp }) => {
+            const active = tab === id;
+            return (
+              <button
+                key={id}
+                onClick={() => setTab(id)}
+                aria-current={active ? "page" : undefined}
+                style={{ border: "none", background: active ? "var(--card)" : "none", borderRadius: 999, display: "flex", alignItems: "center", gap: 7, padding: "8px 14px", cursor: "pointer", color: active ? "var(--rust)" : "var(--muted)", fontFamily: "var(--sans)", fontSize: 14, fontWeight: active ? 600 : 400 }}
+              >
+                <IconCmp size={17} strokeWidth={active ? 2.1 : 1.7} />
+                {label}
+              </button>
+            );
+          })}
+        </nav>
         <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
           <button
             onClick={onOpenBackup}
