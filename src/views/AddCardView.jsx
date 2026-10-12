@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import { AIErrorNote } from "../components/AIErrorNote";
 import { Icon } from "../components/icons";
-import { CenteredOverlay, inputStyle } from "../components/ui";
+import { CenteredOverlay, Clearable, inputStyle } from "../components/ui";
 import { ActionRow, BigCard, PickMenu, PickRow, PillButton, Stage, quietLink } from "../components/layout";
 import { LOOKUP_SYSTEM, cardTypeFor, lookupUserText, readLookup } from "../lib/addLookup";
 import { formsField } from "../lib/ownFormsCore";
@@ -213,7 +213,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                 <div style={fieldWrap}>
                   <div style={fieldLabel}>English</div>
                   <div style={fieldBox}>
-                    <textarea
+                    <Clearable value={other} onClear={() => { changeOther(""); }} multiline><textarea
                       value={other}
                       onChange={(e) => changeOther(e.target.value)}
                       autoCapitalize="none"
@@ -222,13 +222,13 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                       className="soft"
                       style={{ ...bareInput, resize: "none", fontFamily: "var(--sans)", fontSize: 18, fontStyle: "italic", lineHeight: 1.3, color: "var(--sage)", padding: 0, maxHeight: 110, overflowY: "auto" }}
                       placeholder="e.g. an apple"
-                    />
+                    /></Clearable>
                   </div>
                 </div>
                 <div style={fieldWrap}>
                   <div style={fieldLabel}>Dansk</div>
                   <div style={fieldBox}>
-                    <textarea
+                    <Clearable value={text} onClear={() => { changeText(""); }} multiline><textarea
                       value={text}
                       onChange={(e) => changeText(e.target.value)}
                       autoCapitalize="none"
@@ -237,7 +237,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                       className="soft"
                       style={{ ...bareInput, resize: "none", fontFamily: "var(--serif)", fontSize: 26, lineHeight: 1.25, color: "var(--terracotta)", padding: 0, maxHeight: 110, overflowY: "auto" }}
                       placeholder="f.eks. et æble"
-                    />
+                    /></Clearable>
                   </div>
                 </div>
             </div>
@@ -273,7 +273,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
               <div style={fieldWrap}>
                 <div style={fieldLabel}>Lesson</div>
                 <div style={fieldBox}>
-                  <textarea
+                  <Clearable value={front} onClear={() => { setFront(""); setLookupError(""); }} multiline><textarea
                     value={front}
                     onChange={(e) => { setFront(e.target.value); setLookupError(""); }}
                     autoCapitalize="none"
@@ -282,13 +282,13 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                     className="soft"
                     style={{ ...bareInput, resize: "none", fontFamily: "var(--serif)", fontSize: 26, lineHeight: 1.25, color: "var(--terracotta)", padding: 0, maxHeight: 110, overflowY: "auto" }}
                     placeholder="Lesson name"
-                  />
+                  /></Clearable>
                 </div>
               </div>
               <div style={fieldWrap}>
                 <div style={fieldLabel}>Explanation</div>
                 <div style={fieldBox}>
-                  <textarea
+                  <Clearable value={back} onClear={() => { setBack(""); }} multiline><textarea
                     value={back}
                     onChange={(e) => setBack(e.target.value)}
                     rows={3}
@@ -296,11 +296,11 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                     className="soft"
                     style={{ ...bareInput, resize: "none", fontFamily: "var(--sans)", fontSize: 16, fontStyle: "italic", lineHeight: 1.35, color: "var(--sage)", padding: 0, maxHeight: 130, overflowY: "auto" }}
                     placeholder="What the rule is"
-                  />
+                  /></Clearable>
                 </div>
               </div>
               {(showNote || notes) && (
-                <textarea value={notes} onChange={(e) => setNotes(e.target.value)} aria-label="Note" className="soft" rows={2} style={{ ...bareInput, resize: "none", fontFamily: "var(--sans)", fontSize: 14, color: "var(--ink)", borderTop: "1px solid var(--line)", paddingTop: 8 }} placeholder="Note" />
+                <Clearable value={notes} onClear={() => setNotes("")} multiline><textarea value={notes} onChange={(e) => setNotes(e.target.value)} aria-label="Note" className="soft" rows={2} style={{ ...bareInput, resize: "none", fontFamily: "var(--sans)", fontSize: 14, color: "var(--ink)", borderTop: "1px solid var(--line)", paddingTop: 8 }} placeholder="Note" /></Clearable>
               )}
             </div>
             {!(showNote || notes) && (
@@ -366,13 +366,13 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                 ))}
               </div>
               <div style={{ display: "flex", gap: 8, marginTop: 8 }}>
-                <input
+                <Clearable value={newTopic} onClear={() => { setNewTopic(""); }}><input
                   value={newTopic}
                   onChange={(e) => setNewTopic(e.target.value)}
                   placeholder="New topic"
                   aria-label="New topic"
                   style={{ ...inputStyle, flex: 1, borderRadius: 12, padding: "9px 12px", fontSize: 14 }}
-                />
+                /></Clearable>
                 <button
                   onClick={() => {
                     if (!newTopic.trim()) return;
@@ -388,7 +388,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
             </div>
             <div>
               {showNote || notes ? (
-                <textarea value={notes} onChange={(e) => setNotes(e.target.value)} aria-label="Note" style={{ ...inputStyle, minHeight: 54, borderRadius: 12, width: "100%" }} placeholder="Note" />
+                <Clearable value={notes} onClear={() => setNotes("")} multiline><textarea value={notes} onChange={(e) => setNotes(e.target.value)} aria-label="Note" style={{ ...inputStyle, minHeight: 54, borderRadius: 12, width: "100%" }} placeholder="Note" /></Clearable>
               ) : (
                 <button onClick={() => setShowNote(true)} style={quietLink}>+ Add a note</button>
               )}

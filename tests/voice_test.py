@@ -53,10 +53,22 @@ def run(voices, expect_message, want="Sara"):
         if expect_message:
             check(shown, "no Danish voice: message is shown")
             check(len(spoken) == 0, "no Danish voice: nothing is spoken in the wrong voice")
-            page.get_by_role("button", name="OK", exact=True).click(); page.wait_for_timeout(300)
-            check("Spoken Danish isn't turned on" not in page.inner_text("body"), "message closes with OK")
+            page.get_by_role("button", name="Show me how").click(); page.wait_for_timeout(300)
+            check("step 1 of" in page.inner_text(".popover").lower(), "the tutorial opens at step 1")
+            for _ in range(10):
+                nxt = page.locator(".popover").get_by_role("button", name="Next", exact=True)
+                if nxt.count() == 0: break
+                nxt.click(); page.wait_for_timeout(150)
+            page.locator(".popover").get_by_role("button", name="Done", exact=True).click(); page.wait_for_timeout(300)
+            check("Spoken Danish isn't turned on" not in page.inner_text("body"), "tutorial ends with Done")
+            page.get_by_role("button", name="Pronounce this").first.click(); page.wait_for_timeout(400)
+            check("Spoken Danish isn't turned on" in page.inner_text("body"), "message comes back on the next tap")
+            page.locator(".popover").get_by_role("button", name="Close", exact=True).click(); page.wait_for_timeout(300)
+            check("Spoken Danish isn't turned on" not in page.inner_text("body"), "message closes with the x")
         else:
             check(not shown, "Danish voice present: no message")
+            tip = "Get a more natural Danish voice" in page.inner_text("body")
+            check(tip == (want == "Sara"), "a plain voice shows the one-time tip, a good voice does not")
             check(len(spoken) == 1 and spoken[0]["voice"] == want, "Danish voice present: spoken with the Danish voice")
         check(errors == [], "no page errors %s" % errors)
         browser.close()

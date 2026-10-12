@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { inputStyle, smallBtn } from "./ui";
+import { Clearable, inputStyle, smallBtn } from "./ui";
 import { GRAMMAR_GROUPS, isLessonsCategory } from "../data/categories";
 import { SENTENCES_FILTER } from "../lib/vocabulary";
 import { SENTENCES_LABEL } from "../data/sentenceCards";
@@ -39,7 +39,7 @@ export function CategoryPicker({ categories, value, onChange, allowAll, allowNew
   if (adding) {
     return (
       <div style={{ display: "flex", gap: 8 }}>
-        <input
+        <Clearable value={name} onClear={() => { setName(""); }}><input
           autoFocus
           value={name}
           onChange={(e) => setName(e.target.value)}
@@ -49,7 +49,7 @@ export function CategoryPicker({ categories, value, onChange, allowAll, allowNew
           }}
           placeholder="New category name"
           style={{ ...inputStyle, flex: 1 }}
-        />
+        /></Clearable>
         <button onClick={confirmAdd} style={smallBtn("var(--fjord)")}>
           Add
         </button>

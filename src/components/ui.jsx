@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { cloneElement, useEffect } from "react";
 import { Icon } from "./icons";
 
 // ---------- shared UI bits ----------
@@ -36,7 +36,7 @@ export function smallBtn(bg) {
 // trigger's on-screen position keeps shifting under it) despite several
 // attempts to compute it dynamically. A fixed, centered box can't be
 // clipped by anything and doesn't need to track a moving target.
-export function CenteredOverlay({ onClose, children, maxWidth = 420 }) {
+export function CenteredOverlay({ onClose, children, maxWidth = 420, closeX = false }) {
   // The Escape key (iPad keyboard, computer) closes a popup too.
   useEffect(() => {
     function onKey(e) {
@@ -72,8 +72,14 @@ export function CenteredOverlay({ onClose, children, maxWidth = 420 }) {
           border: "1px solid var(--line)",
           borderRadius: 16,
           padding: 20,
+          position: "relative",
         }}
       >
+        {closeX && onClose && (
+          <button aria-label="Close" onClick={onClose} style={{ position: "absolute", top: 8, right: 8, border: "none", background: "none", cursor: "pointer", padding: 6, color: "var(--muted)", display: "flex" }}>
+            <Icon.X size={18} />
+          </button>
+        )}
         {children}
       </div>
     </div>
@@ -159,6 +165,29 @@ export function Toast({ msg }) {
       }}
     >
       {msg}
+    </div>
+  );
+}
+
+// A text box with a small x inside it that empties the box. `multiline` puts the x
+// at the top corner instead of the middle; `grow` lets a box that fills its card stay filling it.
+export function Clearable({ value, onClear, children, multiline = false, grow = false, label = "Empty this box" }) {
+  const own = children.props.style || {};
+  const style = { ...own, paddingRight: 34, marginTop: 0, marginBottom: 0 };
+  return (
+    <div style={{ position: "relative", minWidth: 0, marginTop: own.marginTop, marginBottom: own.marginBottom, ...(grow ? { flex: 1, display: "flex", minHeight: 0, width: "100%" } : { flex: own.flex, width: own.flex ? undefined : "100%" }) }}>
+      {cloneElement(children, { style })}
+      {value ? (
+        <button
+          type="button"
+          aria-label={label}
+          onMouseDown={(e) => e.preventDefault()}
+          onClick={onClear}
+          style={{ position: "absolute", right: 6, ...(multiline ? { top: 8 } : { top: "50%", transform: "translateY(-50%)" }), border: "none", background: "none", cursor: "pointer", padding: 6, color: "var(--muted)", display: "flex", zIndex: 1 }}
+        >
+          <Icon.X size={15} />
+        </button>
+      ) : null}
     </div>
   );
 }

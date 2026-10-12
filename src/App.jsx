@@ -704,7 +704,7 @@ export default function DanishFlashcards() {
           setTab={setTab}
         />
         {autoBackupDue && (
-          <CenteredOverlay onClose={() => setAutoBackupDue(false)} maxWidth={340}>
+          <CenteredOverlay onClose={() => setAutoBackupDue(false)} maxWidth={340} closeX>
             <div style={{ textAlign: "center" }}>
               <Icon.Download size={22} color="var(--fjord)" style={{ marginBottom: 8 }} />
               <div style={{ fontFamily: "var(--serif)", fontSize: 17, marginBottom: 6 }}>Time for your backup</div>

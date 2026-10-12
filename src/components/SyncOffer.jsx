@@ -70,7 +70,7 @@ export function SyncOffer({ loaded, supported, enabled, calm, cards, knownCount,
 
   if (!open) return null;
   return (
-    <CenteredOverlay onClose={() => answer(false)} maxWidth={340}>
+    <CenteredOverlay onClose={() => answer(false)} maxWidth={340} closeX>
       <div style={{ textAlign: "center" }}>
         <Icon.Cloud size={22} color="var(--fjord)" style={{ marginBottom: 8 }} />
         <div style={{ fontFamily: "var(--serif)", fontSize: 17, marginBottom: 6 }}>Keep your progress in iCloud?</div>

@@ -3,7 +3,7 @@ import { AIErrorNote } from "../components/AIErrorNote";
 import { CategoryPicker } from "../components/CategoryPicker";
 import { CheckBadgeIcon, Icon, StarIcon } from "../components/icons";
 import { renderInlineMarkdown } from "../components/markdown";
-import { CenteredOverlay, EmptyState, Pill, iconBtn, inputStyle, smallBtn } from "../components/ui";
+import { CenteredOverlay, Clearable, EmptyState, Pill, iconBtn, inputStyle, smallBtn } from "../components/ui";
 import { GRAMMAR_GROUPS, LEVELS, TYPE_LABEL } from "../data/categories";
 import { irregularPluralFactsHint, irregularVerbFactsHint } from "../data/irregulars";
 import { apiErrorMessage, callAI } from "../lib/ai/index";
@@ -228,13 +228,13 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
       <div style={{ border: "1px solid var(--line)", borderRadius: 16, background: "var(--card)", overflow: "hidden" }}>
         <div style={{ display: "flex", alignItems: "center", gap: 8, padding: "4px 12px 4px 14px" }}>
           <Icon.Search size={15} style={{ color: "var(--muted)", flexShrink: 0 }} />
-          <input
+          <Clearable value={query} onClear={() => { setQuery(""); }}><input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search your deck"
             className="soft"
             style={{ flex: 1, minWidth: 0, border: "none", background: "none", outline: "none", fontSize: 16, padding: "9px 0", color: "var(--ink)" }}
-          />
+          /></Clearable>
           <button
             onClick={() => setEnglishFirst((v) => !v)}
             aria-label="Switch language order"
@@ -384,9 +384,9 @@ function LibraryRow({ card, categories, editing, englishFirst, onEdit, onSave, o
   if (editing) {
     return (
       <div style={{ borderTop: "1px solid var(--line)", padding: "12px 16px" }}>
-        <input value={front} onChange={(e) => setFront(e.target.value)} autoCapitalize={card.type === "word" ? "none" : "sentences"} style={inputStyle} placeholder="Danish" />
-        <input value={back} onChange={(e) => setBack(e.target.value)} autoCapitalize={card.type === "word" ? "none" : "sentences"} style={{ ...inputStyle, marginTop: 6 }} placeholder="English" />
-        <textarea value={notes} onChange={(e) => setNotes(e.target.value)} style={{ ...inputStyle, marginTop: 6, minHeight: 50 }} placeholder="Notes (optional)" />
+        <Clearable value={front} onClear={() => { setFront(""); }}><input value={front} onChange={(e) => setFront(e.target.value)} autoCapitalize={card.type === "word" ? "none" : "sentences"} style={inputStyle} placeholder="Danish" /></Clearable>
+        <Clearable value={back} onClear={() => { setBack(""); }}><input value={back} onChange={(e) => setBack(e.target.value)} autoCapitalize={card.type === "word" ? "none" : "sentences"} style={{ ...inputStyle, marginTop: 6 }} placeholder="English" /></Clearable>
+        <Clearable value={notes} onClear={() => { setNotes(""); }} multiline><textarea value={notes} onChange={(e) => setNotes(e.target.value)} style={{ ...inputStyle, marginTop: 6, minHeight: 50 }} placeholder="Notes (optional)" /></Clearable>
         <div style={{ display: "flex", gap: 8, marginTop: 8 }}>
           <button onClick={() => onSave({ front, back, notes })} style={smallBtn("var(--fjord)")}>
             <Icon.Save size={13} style={{ verticalAlign: -2, marginRight: 4 }} /> Save

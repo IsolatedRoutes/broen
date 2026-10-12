@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from "react";
 import { CategoryOptions } from "../../components/CategoryPicker";
 import { Icon } from "../../components/icons";
 import { renderInlineMarkdown } from "../../components/markdown";
-import { CenteredOverlay, inputStyle, smallBtn } from "../../components/ui";
+import { CenteredOverlay, Clearable, inputStyle, smallBtn } from "../../components/ui";
 import { CATEGORY_RULE, LESSONS_ID, aiCategoryName, isLessonsCategory, topicNamesForAI } from "../../data/categories";
 import { apiErrorMessage, callAI, isSwitchableAIError } from "../../lib/ai/index";
 import { FORMS_RULE, formsField } from "../../lib/ownFormsCore";
@@ -318,7 +318,7 @@ export function ChatConversation({ engine, categories, addCategory, addCards, sh
         <div ref={scrollRef} />
       </div>
       <div style={{ display: "flex", gap: 8, padding: "4px 12px 12px" }}>
-        <input
+        <Clearable value={input} onClear={() => { setInput(""); }}><input
           value={input}
           onChange={(e) => setInput(e.target.value)}
           onKeyDown={(e) => {
@@ -326,7 +326,7 @@ export function ChatConversation({ engine, categories, addCategory, addCards, sh
           }}
           placeholder={"Ask or give instructions\u2026"}
           style={{ ...inputStyle, flex: 1, borderRadius: 999, padding: "11px 16px", background: "#fff" }}
-        />
+        /></Clearable>
         <button
           onClick={send}
           aria-label="Send"

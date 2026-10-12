@@ -3,7 +3,7 @@ import { AIErrorNote } from "../components/AIErrorNote";
 import { CheckBadgeIcon, Icon, StarIcon } from "../components/icons";
 import { renderInlineMarkdown } from "../components/markdown";
 import { DEFAULT_NOUN_OPTS, LevelMenu, StudyCategoryMenu } from "../components/menus";
-import { CenteredOverlay, EmptyState, inputStyle, smallBtn } from "../components/ui";
+import { CenteredOverlay, Clearable, EmptyState, inputStyle, smallBtn } from "../components/ui";
 import { LEVELS } from "../data/categories";
 import { irregularPluralFactsHint, irregularVerbFactsHint } from "../data/irregulars";
 import { apiErrorMessage, callAI } from "../lib/ai/index";
@@ -1248,13 +1248,13 @@ export function StudyView({ cards, categories, updateCard, updateCards, addCards
             Ask anything about this word, or tell me how to modify the card — e.g. "give me the present tense" or "make this plural".
           </div>
           <div style={{ display: "flex", gap: 8, marginBottom: 12 }}>
-            <input
+            <Clearable value={askQuestion} onClear={() => { setAskQuestion(""); }}><input
               value={askQuestion}
               onChange={(e) => setAskQuestion(e.target.value)}
               onKeyDown={(e) => e.key === "Enter" && submitAsk()}
               placeholder='e.g. "make this plural"'
               style={{ ...inputStyle, flex: 1 }}
-            />
+            /></Clearable>
             <button onClick={submitAsk} disabled={askLoading || !askQuestion.trim()} style={smallBtn("var(--fjord)")}>
               {askLoading ? <Icon.Loader2 size={14} className="spin" /> : <Icon.Send size={14} />}
             </button>

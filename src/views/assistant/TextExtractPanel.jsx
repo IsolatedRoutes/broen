@@ -6,7 +6,7 @@ import { renderInlineMarkdown } from "../../components/markdown";
 import { SentenceResult } from "../../components/SentenceResult";
 import { analysisLevelHint } from "../../lib/analysisLevel";
 import { readSentenceResult, initialSentenceSelection, cardsFromSentenceSelection } from "../../lib/sentenceResult";
-import { CenteredOverlay, inputStyle, smallBtn } from "../../components/ui";
+import { CenteredOverlay, Clearable, inputStyle, smallBtn } from "../../components/ui";
 import { BigCard, quietLink } from "../../components/layout";
 import { CATEGORY_RULE, aiCategoryName, topicNamesForAI } from "../../data/categories";
 import { irregularPluralFactsHint, irregularVerbFactsHint } from "../../data/irregulars";
@@ -314,7 +314,7 @@ export function TextExtractPanel({ engine, categories, addCategory, addCards, on
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
       <BigCard>
-        <textarea
+        <Clearable value={text} onClear={() => { setText(""); }} multiline grow><textarea
           ref={textareaRef}
           value={text}
           onChange={(e) => setText(e.target.value)}
@@ -322,7 +322,7 @@ export function TextExtractPanel({ engine, categories, addCategory, addCards, on
           className="soft"
           placeholder="Enter text to translate, analyze, or add words to your deck."
           style={{ flex: 1, minHeight: 0, width: "100%", border: "none", background: "none", outline: "none", resize: "none", padding: 22, fontFamily: "var(--serif)", fontSize: 22, lineHeight: 1.35, color: "var(--ink)" }}
-        />
+        /></Clearable>
       </BigCard>
       <div style={{ display: "flex", gap: 8 }}>
         {actionBtn("var(--fjord)", "Translate", lookupLoading, translate)}

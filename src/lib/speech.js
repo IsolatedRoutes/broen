@@ -53,6 +53,14 @@ export function onNoDanishVoice(fn) {
   return () => noVoiceListeners.delete(fn);
 }
 
+const basicVoiceListeners = new Set();
+
+// Calls `fn` after speaking when the best Danish voice on the device is a plain one.
+export function onBasicDanishVoice(fn) {
+  basicVoiceListeners.add(fn);
+  return () => basicVoiceListeners.delete(fn);
+}
+
 export function speakDanish(text) {
   if (!text || !speechSupported()) return false;
   const synth = window.speechSynthesis;
@@ -69,5 +77,6 @@ export function speakDanish(text) {
   utterance.lang = "da-DK";
   if (voice) utterance.voice = voice;
   synth.speak(utterance);
+  if (voiceScore(voice) < 60) basicVoiceListeners.forEach((fn) => fn());
   return true;
 }

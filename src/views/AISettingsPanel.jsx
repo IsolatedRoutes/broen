@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Icon } from "../components/icons";
-import { inputStyle, smallBtn } from "../components/ui";
+import { Clearable, inputStyle, smallBtn } from "../components/ui";
 import { chromeTranslatorAvailability, chromeTranslatorSupported } from "../lib/ai/chrome";
 import { apiErrorMessage, callAI } from "../lib/ai/index";
 import { LOCAL_MODEL_ID, LOCAL_MODEL_OPTIONS, getLocalEngine, localEnginePromise } from "../lib/ai/local";
@@ -361,7 +361,7 @@ export function AISettingsPanel({ onClose }) {
           <>
             <div style={{ fontFamily: "var(--serif)", fontSize: 21, lineHeight: 1.35, marginBottom: 16 }}>Come back here and paste your key.</div>
             <div style={{ display: "flex", gap: 8, marginBottom: 10 }}>
-              <input type="password" value={keyInput} onChange={(e) => setKeyInput(e.target.value)} placeholder={P.starts + "…"} aria-label="API key" style={{ ...inputStyle, flex: 1, minWidth: 0 }} />
+              <Clearable value={keyInput} onClear={() => { setKeyInput(""); }}><input type="password" value={keyInput} onChange={(e) => setKeyInput(e.target.value)} placeholder={P.starts + "…"} aria-label="API key" style={{ ...inputStyle, flex: 1, minWidth: 0 }} /></Clearable>
               <button onClick={pasteKey} style={smallBtn("#A8A395")}>
                 Paste
               </button>
@@ -509,18 +509,18 @@ export function AISettingsPanel({ onClose }) {
               </div>
             ) : (
               <div>
-                <input
+                <Clearable value={ollamaUrlInput} onClear={() => { setOllamaUrlInput(""); }}><input
                   value={ollamaUrlInput}
                   onChange={(e) => setOllamaUrlInput(e.target.value)}
                   placeholder="http://localhost:11434"
                   style={{ ...inputStyle, marginBottom: 8 }}
-                />
-                <input
+                /></Clearable>
+                <Clearable value={ollamaModelInput} onClear={() => { setOllamaModelInput(""); }}><input
                   value={ollamaModelInput}
                   onChange={(e) => setOllamaModelInput(e.target.value)}
                   placeholder="Model name — e.g. llama3.2"
                   style={{ ...inputStyle, marginBottom: 8 }}
-                />
+                /></Clearable>
                 <button onClick={saveOllamaConfig} style={smallBtn("var(--rust)")}>
                   Connect
                 </button>
