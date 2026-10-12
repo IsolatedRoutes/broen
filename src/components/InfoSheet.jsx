@@ -47,6 +47,13 @@ function ContactSheet({ onClose }) {
   );
 }
 
+// Long answers are written with blank lines between ideas; show each as its own paragraph.
+function Paras({ text, style }) {
+  return String(text).split("\n\n").map((t, i) => (
+    <div key={i} style={{ ...style, marginTop: i === 0 ? style.marginTop : 8 }}>{t}</div>
+  ));
+}
+
 export function InfoSheet({ pageId, onClose }) {
   if (pageId === "contact") return <ContactSheet onClose={onClose} />;
   const page = INFO_PAGES.find((p) => p.id === pageId);
@@ -71,7 +78,7 @@ export function InfoSheet({ pageId, onClose }) {
               {title}
               <span style={{ flexShrink: 0, display: "flex" }}><Icon.ChevronDown size={14} color="var(--muted)" /></span>
             </summary>
-            <div style={{ color: "var(--muted)", marginTop: 6 }}>{text}</div>
+            <Paras text={text} style={{ color: "var(--muted)", marginTop: 6 }} />
             {legend && (
               <div style={{ marginTop: 12 }}>
                 {legend.map(([icon, name, desc]) => (
@@ -93,7 +100,7 @@ export function InfoSheet({ pageId, onClose }) {
               {q}
               <span style={{ flexShrink: 0, display: "flex" }}><Icon.ChevronDown size={14} color="var(--muted)" /></span>
             </summary>
-            <div style={{ color: "var(--muted)", marginTop: 6 }}>{a}</div>
+            <Paras text={a} style={{ color: "var(--muted)", marginTop: 6 }} />
           </details>
         ))}
       </div>

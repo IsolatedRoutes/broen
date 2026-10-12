@@ -170,7 +170,7 @@ function SyncChooser({ sync, onClose }) {
           <Icon.X size={18} />
         </button>
       </div>
-      <div style={{ ...sub, marginBottom: 14 }}>Keeps your cards and progress in step across your devices. Pick one place. The newest change wins, and your AI key is never synced.</div>
+      <div style={{ ...sub, marginBottom: 14 }}>Keeps your cards and progress in step across your devices. Pick one place. If you change the same thing on two devices, the later change is kept. Your AI key is never synced.</div>
       {choices.map((id) => {
         const on = sync.provider === id;
         const signed = id && id !== "icloud" && sync.signedIn[id];

@@ -87,6 +87,9 @@ export default function DanishFlashcards() {
         firstUsedAt = Date.now().toString();
         storeSet("firstUsedAt", firstUsedAt).catch(() => {});
       }
+      // Sync already keeps a copy in the person's own iCloud / Drive / Dropbox,
+      // so there is nothing to remind them about.
+      if (await storeGet("syncProvider")) return;
       const lastBackupAt = await storeGet("lastBackupAt");
       const autoOn = (await storeGet("autoBackupEnabled")) === "true";
       const now = Date.now();
