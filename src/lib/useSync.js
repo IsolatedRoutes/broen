@@ -179,6 +179,25 @@ export function useSync({ loaded, cards, categories, cardsRef, categoriesRef, pe
     [turnOn, refreshSignedIn]
   );
 
+  // For a tap on "Sign in again": the pop-up has to open straight from the tap, so nothing is awaited first.
+  const reconnect = useCallback(
+    (p) => {
+      const pending = connect(p);
+      return pending
+        .then(async (done) => {
+          if (!done) return false;
+          await refreshSignedIn();
+          await runSync();
+          return true;
+        })
+        .catch((e) => {
+          if (!(e && e.message === "CANCELLED")) setStatus((s) => ({ ...s, state: "error", message: messageFor(e, p) + (e && e.detail ? " (" + e.detail + ")" : "") }));
+          return false;
+        });
+    },
+    [refreshSignedIn, runSync]
+  );
+
   const signOutOf = useCallback(
     async (p) => {
       await signOut(p);
@@ -200,5 +219,5 @@ export function useSync({ loaded, cards, categories, cardsRef, categoriesRef, pe
   }, [replaceAllData, choose]);
 
   const syncNow = runSync;
-  return { syncNow, supported, options, provider, signedIn, enabled, status, earlierAt, choose, signOutOf, enable, disable, goBack };
+  return { reconnect, syncNow, supported, options, provider, signedIn, enabled, status, earlierAt, choose, signOutOf, enable, disable, goBack };
 }

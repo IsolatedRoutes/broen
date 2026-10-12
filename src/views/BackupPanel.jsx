@@ -210,6 +210,11 @@ function SyncChooser({ sync, onClose }) {
         </div>
       )}
       <div style={{ display: "flex", gap: 16, flexWrap: "wrap", marginTop: 4 }}>
+        {sync.enabled && sync.status.state === "error" && /^Sign in to/.test(sync.status.message || "") && (
+          <button onClick={() => sync.reconnect(sync.provider)} style={{ ...linkBtn, fontWeight: 600 }}>
+            Sign in to {PROVIDER_NAMES[sync.provider]} again
+          </button>
+        )}
         {sync.enabled && (
           <button onClick={() => sync.syncNow()} disabled={sync.status.state === "syncing"} style={linkBtn}>
             Sync now

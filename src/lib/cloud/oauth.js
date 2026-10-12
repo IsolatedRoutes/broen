@@ -231,11 +231,9 @@ export async function accessToken(provider) {
   const t = await loadTokens(provider);
   if (!t) throw new Error("RECONNECT");
   if (t.access && t.exp > Date.now() + 60 * 1000) return t.access;
-  if (provider === "google" && !isNativeApp()) {
-    const r = await googleWebToken(false);
-    await saveTokens("google", { access: r.access_token, refresh: "", exp: Date.now() + (Number(r.expires_in) || 3600) * 1000 });
-    return r.access_token;
-  }
+  // Google on the website only gives an hour-long pass, and a new one needs a tap
+  // (browsers block a sign-in pop-up that opens on its own), so ask for that tap.
+  if (provider === "google" && !isNativeApp()) throw new Error("RECONNECT");
   if (!t.refresh) throw new Error("RECONNECT");
   const s = authSettings(provider);
   const j = await postForm(s.token, { grant_type: "refresh_token", refresh_token: t.refresh, client_id: s.clientId });
