@@ -159,11 +159,17 @@ export function mergeSnapshot(cards, categories, deletedKeys, remote, keyOf, new
     .filter((c) => { if (isGone(c)) { changed = true; return false; } return true; })
     .map((c) => {
       let rm = null;
+      let progressOnly = false; // matched across kinds: only marks and level-up cross, never the words themselves
+      const key = keyOf(c.type, c.front);
       if (c.starter) {
-        rm = remoteMarks[c.id] || remoteMarkByKey[keyOf(c.type, c.front)] || null;
+        rm = remoteMarks[c.id] || remoteMarkByKey[key] || null;
+        // The other device may hold the same word as one of its own cards (an older deck).
+        if (!rm && ownByKey.has(key)) { rm = ownByKey.get(key); handled.add(rm); progressOnly = true; }
       } else {
-        rm = ownById.get(c.id) || ownByKey.get(keyOf(c.type, c.front)) || null;
+        rm = ownById.get(c.id) || ownByKey.get(key) || null;
         if (rm) handled.add(rm);
+        // The other device may hold the same word as a built-in card.
+        else if (remoteMarkByKey[key]) { rm = remoteMarkByKey[key]; progressOnly = true; }
       }
       if (!rm) return c;
       let remoteCopy = rm;
@@ -172,6 +178,7 @@ export function mergeSnapshot(cards, categories, deletedKeys, remote, keyOf, new
         fields = Object.keys(rm).filter((f) => !BOOKKEEPING.has(f));
         remoteCopy = { ...rm, category: mapCat(rm.category) };
       }
+      if (progressOnly) fields = [];
       const merged = joinCard(c, remoteCopy, fields);
       if (sameCard(merged, c)) return c;
       changed = true;

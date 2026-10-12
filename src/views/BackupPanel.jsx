@@ -3,6 +3,7 @@ import { Icon } from "../components/icons";
 import { CenteredOverlay, smallBtn } from "../components/ui";
 import { PROVIDER_NAMES } from "../lib/cloud/providers";
 import { BACKUP_SETTING_KEYS, performBackupExport } from "../lib/backup";
+import { isNativeApp } from "../lib/platform";
 import { storeGet, storeSet } from "../lib/storage";
 
 export function BackupPanel({ cards, categories, replaceAllData, sync, showToast, onClose }) {
@@ -157,7 +158,7 @@ function SyncChooser({ sync, onClose }) {
   const sub = { fontFamily: "var(--sans)", fontSize: 12.5, color: "var(--muted)", lineHeight: 1.4, marginTop: 2 };
   const notes = {
     icloud: "Broen app on iPhone and iPad only. To sync with the website, select a different option",
-    google: "iPhone, iPad and website",
+    google: isNativeApp() ? "iPhone, iPad and website" : "On the website you sign in again each hour. Dropbox doesn't ask again",
     dropbox: "iPhone, iPad and website",
   };
   const choices = [...sync.options, ""];

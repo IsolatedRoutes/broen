@@ -51,7 +51,7 @@ def fake_services(ctx):
         if r.method == "OPTIONS": return route.fulfill(status=204, headers=CORS)
         if r.headers.get("authorization") != "Bearer dbtoken": return route.fulfill(status=401, headers=CORS, body="{}")
         if r.url.endswith("/download"):
-            if store["dropbox"] is None: return route.fulfill(status=409, headers=CORS, body="{}")
+            if store["dropbox"] is None: return route.fulfill(status=409, headers=CORS, body=json.dumps({"error_summary": "path/not_found/.", "error": {".tag": "path", "path": {".tag": "not_found"}}}))
             return route.fulfill(status=200, headers=CORS, content_type="text/plain", body=store["dropbox"])
         store["dropbox"] = r.post_data
         calls.append("dropbox-upload")

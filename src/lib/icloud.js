@@ -140,6 +140,13 @@ export async function loadPreSyncCopy() {
 // functions that save them. `io` is where the combined copy lives:
 // { read() -> { snapshot } | null, write(snapshot, deviceId) }.
 // What the last round found in the shared copy (shown on the Sync screen so a mismatch can be seen).
+// The same text for the same content, whatever order each device keeps its lists in.
+function canonicalText(v) {
+  if (Array.isArray(v)) return "[" + v.map(canonicalText).sort().join(",") + "]";
+  if (v && typeof v === "object") return "{" + Object.keys(v).sort().map((k) => JSON.stringify(k) + ":" + canonicalText(v[k])).join(",") + "}";
+  return JSON.stringify(v === undefined ? null : v);
+}
+
 let lastInfo = null;
 export const lastSyncInfo = () => lastInfo;
 
@@ -147,7 +154,7 @@ export async function syncWithStore(deck, io, lastSyncKey) {
   const remote = await io.read(); // may throw "INCOMPLETE"
   const myId = await deviceId();
   lastInfo = remote
-    ? { at: remote.snapshot.at || 0, known: Object.values(remote.snapshot.marks || {}).filter((m) => m && m.known).length, mine: !!remote.by && remote.by === myId }
+    ? { at: remote.snapshot.at || 0, known: Object.values(remote.snapshot.marks || {}).filter((m) => m && m.known).length + (remote.snapshot.own || []).filter((m) => m && m.known).length, mine: !!remote.by && remote.by === myId }
     : { none: true };
   const deletedSet = await loadDeletedKeys();
   let deleted = [...deletedSet].map((k) => k);
@@ -155,9 +162,18 @@ export async function syncWithStore(deck, io, lastSyncKey) {
   let cards = deck.getCards();
   let categories = deck.getCategories();
 
+  if (remote && remote.snapshot.v !== SNAPSHOT_VERSION) throw new Error("UPDATE_APP"); // never write over a copy this version can't read
+
   if (remote) {
-    const merged = mergeSnapshot(cards, categories, deleted, remote.snapshot, canonicalKey, uid, deletedOwn);
-    if (merged.changed) {
+    // If the person changes a card while this runs, merge again on the fresh deck instead of saving over the change.
+    for (let attempt = 0; attempt < 3; attempt++) {
+      const merged = mergeSnapshot(cards, categories, deleted, remote.snapshot, canonicalKey, uid, deletedOwn);
+      if (!merged.changed) break;
+      if (attempt < 2 && (deck.getCards() !== cards || deck.getCategories() !== categories)) {
+        cards = deck.getCards();
+        categories = deck.getCategories();
+        continue;
+      }
       if (merged.categories !== categories && merged.categories.length !== categories.length) {
         const r = await deck.saveCategories(merged.categories);
         if (r && r.ok === false) throw new Error("SAVE_FAILED");
@@ -172,12 +188,13 @@ export async function syncWithStore(deck, io, lastSyncKey) {
       categories = merged.categories;
       deleted = merged.deleted;
       deletedOwn = merged.deletedOwn;
+      break;
     }
   }
 
   if (remote) await adoptKeys(remote.snapshot.keys);
   const snapshot = buildSnapshot(cards, categories, deleted, canonicalKey, Date.now(), deletedOwn, await loadKeyValues());
-  const sameAsRemote = remote && JSON.stringify({ ...remote.snapshot, at: 0 }) === JSON.stringify({ ...snapshot, at: 0 });
+  const sameAsRemote = remote && canonicalText({ ...remote.snapshot, at: 0 }) === canonicalText({ ...snapshot, at: 0 });
   if (!sameAsRemote) await io.write(snapshot, await deviceId());
   await storeSet(lastSyncKey, String(Date.now()));
   return Date.now();
@@ -196,7 +213,8 @@ export function cloudStore(provider) {
       if (!text) return null;
       let file = null;
       try { file = JSON.parse(text); } catch { throw new Error("NETWORK"); }
-      if (!file || file.v !== SNAPSHOT_VERSION || !file.snapshot || typeof file.snapshot !== "object") return null;
+      if (!file || !file.snapshot || typeof file.snapshot !== "object") return null;
+      if (file.v !== SNAPSHOT_VERSION) throw new Error("UPDATE_APP");
       return { snapshot: file.snapshot, by: file.by };
     },
     write: (snapshot, id) => CLOUD_PROVIDERS[provider].write(JSON.stringify({ v: SNAPSHOT_VERSION, by: id, snapshot })),

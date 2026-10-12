@@ -15,7 +15,8 @@ async function check(res) {
     why = (j && ((j.error && (j.error.message || j.error.status)) || j.error_summary || j.error_description)) || "";
     if (typeof why !== "string") why = JSON.stringify(why);
   } catch { /* no details */ }
-  const e = new Error(res.status === 401 || res.status === 403 ? "RECONNECT" : "NETWORK");
+  const busy = res.status === 403 && /rate|quota|limit/i.test(why); // too many requests is not a sign-in problem
+  const e = new Error((res.status === 401 || res.status === 403) && !busy ? "RECONNECT" : "NETWORK");
   e.detail = (res.status + (why ? " " + why : "")).slice(0, 140);
   throw e;
 }
@@ -63,7 +64,14 @@ const dropbox = {
   async read() {
     const token = await accessToken("dropbox");
     const res = await call("https://content.dropboxapi.com/2/files/download", { method: "POST", headers: { Authorization: "Bearer " + token, "Dropbox-API-Arg": JSON.stringify({ path: "/" + FILE }) } });
-    if (res.status === 409) return null; // nothing saved yet
+    if (res.status === 409) {
+      // Only "no such file" means nothing is saved yet; any other 409 must not look like an empty copy.
+      const t = await res.text().catch(() => "");
+      if (/not_found/.test(t)) return null;
+      const e = new Error("NETWORK");
+      e.detail = "409 " + t.slice(0, 100);
+      throw e;
+    }
     return (await check(res)).text();
   },
   async write(text) {

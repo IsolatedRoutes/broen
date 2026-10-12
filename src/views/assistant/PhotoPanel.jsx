@@ -23,6 +23,8 @@ import { cleanTranslation, fileToBase64, parseJSONLoose } from "../../lib/text";
 // ---------- Photo import panel (always uses the API — needs vision) ----------
 
 export function PhotoPanel({ categories, addCategory, addCards, onOpenSettings, incomingImage }) {
+  // A phone or tablet can take a photo from here; on a computer the button would only open the same file picker.
+  const hasCamera = typeof navigator !== "undefined" && navigator.maxTouchPoints > 0;
   const [backend, setBackend] = useState(undefined); // "gemini" | "api" | null
   const [preview, setPreview] = useState(null);
   const [file, setFile] = useState(null);
@@ -338,7 +340,7 @@ export function PhotoPanel({ categories, addCategory, addCards, onOpenSettings, 
             </>
           )}
         </label>
-        {!preview && (
+        {!preview && hasCamera && (
           <div style={{ display: "flex", justifyContent: "center", paddingBottom: 16 }}>
             <label style={{ display: "flex", alignItems: "center", gap: 6, border: "1px solid var(--line)", background: "var(--card)", borderRadius: 999, padding: "8px 16px", fontFamily: "var(--sans)", fontSize: 13.5, color: "var(--ink)", cursor: "pointer" }}>
               <input type="file" accept="image/*" capture="environment" onChange={pickFile} style={hidden} />

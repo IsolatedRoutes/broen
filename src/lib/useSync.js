@@ -12,6 +12,7 @@ const MESSAGES = {
   INCOMPLETE: "Your other device's progress is still arriving. This will finish by itself.",
   TOO_BIG: "Your deck is too large to sync. Nothing was lost; use Export in Backup instead.",
   SAVE_FAILED: "Couldn't save the combined deck. Nothing was lost.",
+  UPDATE_APP: "The shared copy was saved by a newer version of Broen. Update Broen on this device to keep syncing. Nothing was changed.",
 };
 const messageFor = (e, provider) => {
   const code = e && e.message;
@@ -33,9 +34,13 @@ export function useSync({ loaded, cards, categories, cardsRef, categoriesRef, pe
   providerRef.current = provider;
   const enabled = provider !== "";
 
+  const queued = useRef(false);
   const runSync = useCallback(() => {
-    // One at a time, in order.
+    // One at a time. If a round is already waiting its turn, it will do the work for this request too.
+    if (queued.current) return chain.current;
+    queued.current = true;
     chain.current = chain.current.then(async () => {
+      queued.current = false;
       const p = providerRef.current;
       if (!p) return;
       setStatus((s) => ({ ...s, state: "syncing", message: "" }));

@@ -34,6 +34,20 @@ const rA = merge(A, catsA, buildSnapshot(B, catsB, [], keyOf, 2000));
 const norm = (cs) => JSON.stringify(cs.map((c) => [c.front, !!c.known, !!c.starred, c.notes || "", c.upStage || 0]).sort());
 ok(norm(rA.cards) === norm(r.cards), "both phones end with the same marks");
 
+// ---- the same word is a built-in card on one device and an "own" card on the other (older decks) ----
+{
+  const phone = [W("bog", { known: true }), W("sol", { starred: true })];             // built-in cards with marks
+  const web = [own("o1", "bog"), own("o2", "sol"), own("o3", "kun her", { known: true })]; // the same words, saved as own cards
+  const toWeb = merge(web, [{ id: "mine", name: "Mine", custom: true }], snapOf(phone));
+  ok(get(toWeb.cards, "bog").known && get(toWeb.cards, "sol").starred, "marks cross from a built-in card to the same word saved as an own card");
+  ok(toWeb.cards.length === 3 && !get(toWeb.cards, "bog").starter, "no duplicate card is made and the own card stays an own card");
+  const toPhone = merge(phone, [{ id: "c1", name: "Dyr" }], snapOf(web, [{ id: "mine", name: "Mine", custom: true }]));
+  ok(get(toPhone.cards, "bog").known && get(toPhone.cards, "bog").starter && get(toPhone.cards, "bog").back === "bog_en", "marks cross the other way and the built-in word is untouched");
+  ok(get(toPhone.cards, "kun her") && toPhone.cards.length === 3, "a card only the other device has still arrives");
+  const settled = merge(toWeb.cards, [{ id: "mine", name: "Mine", custom: true }], snapOf(phone));
+  ok(!settled.changed, "repeating that merge changes nothing");
+}
+
 // ---- newest change wins, including un-marking ----
 const t1 = 5000, t2 = 6000;
 const onA = [W("hund", { known: true, progressAt: t1 })];
