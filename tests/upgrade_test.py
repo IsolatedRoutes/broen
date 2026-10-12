@@ -127,7 +127,7 @@ with sync_playwright() as p:
           const victim = c.find(x => x.starter && x.type === 'word' && !x.known);
           window.__victim = victim.front; return victim.front }""")
         victim = page.evaluate("window.__victim")
-        page.get_by_role("button", name="Library").first.click(); page.wait_for_timeout(800)
+        page.get_by_role("button", name="Dictionary").first.click(); page.wait_for_timeout(800)
         page.get_by_placeholder("Search your deck").fill(victim); page.wait_for_timeout(600)
         page.get_by_role("button", name=re.compile(r"^[A-ZÆØÅ]$")).first.click(); page.wait_for_timeout(400)
         page.get_by_role("button", name="Delete card").first.click(); page.wait_for_timeout(300)

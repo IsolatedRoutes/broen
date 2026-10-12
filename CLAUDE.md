@@ -296,3 +296,4 @@ Where to sync is chosen in Backup → Sync (`SyncChooser` in `src/views/BackupPa
 ## Voice tutorial and clear buttons
 - Speech picks the nicest Danish voice (`bestDanishVoice`: Premium / Natural / Enhanced / Google first). `DanishVoiceNote` is a dismissable popup plus a short step-by-step tutorial per device (iPhone/iPad, Mac, Android, computer): shown every tap when there is no Danish voice, and ONCE (`voiceTipSeen`) when the best voice is only a plain one. Test: `voice_test.py`.
 - Every text box is wrapped in `Clearable` (`src/components/ui.jsx`): a small x inside it that empties it (accessible name "Empty this box"). New text boxes should use it. `CenteredOverlay` takes `closeX` for popups without their own close button; all popups also close with Escape or a tap outside. Test: `clear_test.py`.
+- The Library tab is called "Dictionary" on screen (code and storage still say library). Its icon is one closed book (`Icon.Books`).

@@ -744,7 +744,7 @@ export function StudyView({ cards, categories, updateCard, updateCards, addCards
       <EmptyState
         icon={Icon.GraduationCap}
         title="No cards yet"
-        body="Load the starter vocabulary from Library, or add your own from the Add tab or Chat, then come back here to study."
+        body="Load the starter vocabulary from the Dictionary, or add your own from the Add tab or Chat, then come back here to study."
       />
     );
   }

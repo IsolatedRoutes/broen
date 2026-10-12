@@ -31,7 +31,7 @@ with sync_playwright() as p:
     X().first.click(); page.wait_for_timeout(200)
     check(page.get_by_label("English", exact=True).input_value() == "" and page.get_by_label("Dansk", exact=True).input_value() == "æble", "the x empties only its own box")
 
-    page.get_by_role("button", name="Library").last.click(); page.wait_for_timeout(500)
+    page.get_by_role("button", name="Dictionary").last.click(); page.wait_for_timeout(500)
     page.get_by_placeholder("Search your deck").fill("hund")
     check(X().count() == 1, "Library search has an x")
     X().click(); page.wait_for_timeout(200)

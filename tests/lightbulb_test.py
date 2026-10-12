@@ -32,7 +32,7 @@ with sync_playwright() as p:
     page.on("pageerror", lambda e: errors.append(str(e)))
     page.on("request", lambda q: ai_calls.append(q.url) if any(h in q.url for h in ("anthropic", "openai", "googleapis", "openrouter")) else None)
     page.goto(URL); page.wait_for_timeout(6000)
-    page.get_by_role("button", name="Library").last.click(); page.wait_for_timeout(800)
+    page.get_by_role("button", name="Dictionary").last.click(); page.wait_for_timeout(800)
     page.get_by_placeholder("Search your deck").fill("bortset fra"); page.wait_for_timeout(800)
     page.get_by_text("B", exact=True).first.click(); page.wait_for_timeout(600)
     page.get_by_role("button", name="Explore related words").first.click(); page.wait_for_timeout(2500)

@@ -180,7 +180,7 @@ with sync_playwright() as p:
     ctx, page, errors = first_run(browser)
     page.evaluate(PUT, ["icloudSync", "1"])
     page.reload(); page.wait_for_timeout(6000)
-    page.get_by_role("button", name="Library").last.click(); page.wait_for_timeout(700)
+    page.get_by_role("button", name="Dictionary").last.click(); page.wait_for_timeout(700)
     page.get_by_placeholder("Search your deck").fill("bortset fra"); page.wait_for_timeout(800)
     page.get_by_text("B", exact=True).first.click(); page.wait_for_timeout(500)
     DECODE = """async () => {

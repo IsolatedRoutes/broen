@@ -34,7 +34,7 @@ with sync_playwright() as p:
     page.get_by_role("button", name="Next", exact=True).click(); page.wait_for_timeout(500)
     page.get_by_role("button", name="Back", exact=True).click(); page.wait_for_timeout(500)
 
-    page.get_by_role("button", name="Library").last.click(); page.wait_for_timeout(700)
+    page.get_by_role("button", name="Dictionary").last.click(); page.wait_for_timeout(700)
     check(page.get_by_placeholder("Search your deck").count() == 1, "Library screen opens")
     page.get_by_role("button", name="Add").last.click(); page.wait_for_timeout(700)
     check("Add" in body(), "Add screen opens")

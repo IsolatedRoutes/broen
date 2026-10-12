@@ -22,7 +22,7 @@ Needs a Mac with Xcode and an Apple Developer account. Do these steps on the Mac
   Without these steps the app works exactly as before (shares just aren't received). iPhones may not let the extension open Broen by itself; then the item is waiting when you open Broen yourself.
 - App icon, camera/photo permission texts are already in the project. Just check they look right.
 - Version and build number: raise the build number for every upload.
-- Test on a real iPhone: studying, swipes, Back, Library, Backup (share sheet) and Restore, photo import with a key, reading aloud, no safe-area clipping.
+- Test on a real iPhone: studying, swipes, Back, Dictionary, Backup (share sheet) and Restore, photo import with a key, reading aloud, no safe-area clipping.
 
 ## App Store Connect
 - Privacy policy URL: https://isolatedroutes.github.io/Dansk/privacy.html
@@ -46,10 +46,10 @@ Release-blocking:
 - Update without losing anything: install the previous build, add a card, mark words known and starred, change a setting, then install the new build over it. Everything must still be there.
 - Backup, delete the app, reinstall, Import: progress, own cards and settings all come back.
 - AI key: save a key, force-quit and reopen (it must still be there), tap Remove (it must be gone). Then delete the app, reinstall, and check AI settings asks for a key again. (The Keychain plugin is installed by `npm run cap:sync`; nothing else to set up.)
-- Kill the app, turn on airplane mode, reopen: Study and the Library work, and earlier progress is intact.
+- Kill the app, turn on airplane mode, reopen: Study and the Dictionary work, and earlier progress is intact.
 
 Also check:
-- Keyboard: Add tab, Library edit, Assistant chat and API key fields stay visible above the keyboard.
+- Keyboard: Add tab, Dictionary edit, Assistant chat and API key fields stay visible above the keyboard.
 - Notch and home bar: nothing clipped; tab bar and popups clear of the home bar.
 - Scrolling inside popups (AI settings, Backup, info pages) and the card swipe do not fight each other.
 - Reading Danish aloud works, including with the silent switch on and after a phone call.
