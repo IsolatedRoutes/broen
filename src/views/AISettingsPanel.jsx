@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import { Icon } from "../components/icons";
 import { Clearable, inputStyle, smallBtn } from "../components/ui";
+import { broenAIEnabled } from "../data/aiConfig";
+import { broenRemaining } from "../lib/ai/broen";
 import { chromeTranslatorAvailability, chromeTranslatorSupported } from "../lib/ai/chrome";
 import { apiErrorMessage, callAI } from "../lib/ai/index";
 import { LOCAL_MODEL_ID, LOCAL_MODEL_OPTIONS, getLocalEngine, localEnginePromise } from "../lib/ai/local";
@@ -73,6 +75,11 @@ const PROVIDERS = {
 
 export function AISettingsPanel({ onClose }) {
   const [engine, setEngineState] = useState(null);
+  const broenOn = broenAIEnabled();
+  const [broenLeft, setBroenLeft] = useState(null);
+  useEffect(() => {
+    if (broenOn) broenRemaining().then((j) => j && setBroenLeft(j.remaining));
+  }, [broenOn]);
   const [savedGeminiKey, setSavedGeminiKey] = useState(null);
   const [savedKey, setSavedKey] = useState(null);
   const [keyInput, setKeyInput] = useState("");
@@ -144,7 +151,7 @@ export function AISettingsPanel({ onClose }) {
   }
 
   async function chooseEngine(next, justAgreed) {
-    if ((next === "api" || next === "gemini") && !consented && !justAgreed) {
+    if ((next === "api" || next === "gemini" || next === "broen") && !consented && !justAgreed) {
       setError("Please tap \"I agree\" above first.");
       return false;
     }
@@ -288,6 +295,36 @@ export function AISettingsPanel({ onClose }) {
   const hint = { fontFamily: "var(--sans)", fontSize: 12.5, color: "var(--muted)", lineHeight: 1.5 };
   const bigBtn = { display: "inline-flex", alignItems: "center", justifyContent: "center", fontFamily: "var(--sans)", fontSize: 15, fontWeight: 700, color: "#fff", background: "var(--rust)", border: "none", textDecoration: "none", borderRadius: 999, padding: "12px 26px", cursor: "pointer" };
 
+  // Broen's own AI: no key, a few free tries. Shown only once the relay address is set.
+  function broenCard() {
+    const active = engine === "broen";
+    return (
+      <div key="broen" style={{ border: "1.5px solid " + (active ? "var(--fjord)" : "var(--line)"), background: active ? "#EEF2F0" : "#fff", borderRadius: 14, padding: "14px 16px", marginTop: 10 }}>
+        <div style={{ fontFamily: "var(--sans)", fontSize: 15, fontWeight: 600 }}>
+          Broen AI <span style={{ ...hint, fontWeight: 400 }}>· No key needed</span>
+          <span style={{ color: "var(--sage)", fontSize: 12, fontWeight: 600 }}> · Recommended</span>
+        </div>
+        <div style={{ ...hint, marginTop: 2 }}>Works right away. {broenLeft !== null ? broenLeft + " free tries left." : "A few free tries to start."}</div>
+        {active ? (
+          <div style={{ marginTop: 8, fontFamily: "var(--sans)", fontSize: 12.5, color: "var(--fjord)", fontWeight: 600 }}>In use</div>
+        ) : (
+          <>
+            <div style={{ ...hint, fontSize: 12, marginTop: 8 }}>When you use an AI feature, your text or photo goes through Broen's server to Anthropic (Claude), who writes the answer. We do not keep it. AI answers can be wrong.</div>
+            <button
+              onClick={async () => {
+                await agree();
+                await chooseEngine("broen", true);
+              }}
+              style={{ ...smallBtn("var(--fjord)"), marginTop: 8 }}
+            >
+              Agree and use
+            </button>
+          </>
+        )}
+      </div>
+    );
+  }
+
   // One provider on the "pick" screen: tap to start the steps, or manage a saved key.
   function providerCard(id) {
     const P = PROVIDERS[id];
@@ -325,7 +362,7 @@ export function AISettingsPanel({ onClose }) {
             <span>
               <span style={{ display: "block", fontFamily: "var(--sans)", fontSize: 15, fontWeight: 600, color: "var(--ink)" }}>
                 {P.name} <span style={{ ...hint, fontWeight: 400 }}>· {P.by}</span>
-                {id === "api" && <span style={{ color: "var(--sage)", fontSize: 12, fontWeight: 600 }}> · Recommended</span>}
+                {id === "api" && !broenOn && <span style={{ color: "var(--sage)", fontSize: 12, fontWeight: 600 }}> · Recommended</span>}
               </span>
               <span style={{ display: "block", ...hint, marginTop: 2 }}>{P.blurb}</span>
             </span>
@@ -429,6 +466,7 @@ export function AISettingsPanel({ onClose }) {
 
       {wizard ? wizardView() : (
         <>
+          {broenOn && broenCard()}
           {providerCard("api")}
           {providerCard("gemini")}
         </>

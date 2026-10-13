@@ -1,0 +1,18 @@
+name = "broen-ai"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+# Limits you can change any time (then run: npx wrangler deploy).
+[vars]
+MODEL = "claude-haiku-4-5-20251001"
+TRIAL_USES = "25"
+IP_DAILY = "60"
+GLOBAL_DAILY = "400"
+
+[[durable_objects.bindings]]
+name = "COUNTER"
+class_name = "Counter"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Counter"]

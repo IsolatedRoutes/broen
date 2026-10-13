@@ -1,9 +1,11 @@
 // ---------- about, privacy, terms, FAQ ----------
 
+import { broenAIEnabled } from "./aiConfig";
+
 // Shown as "Contact" in the menu once set; hidden while empty.
 export const CONTACT_EMAIL = "isolatedroutes@gmail.com";
 
-export const INFO_PAGES = [
+const BASE_INFO_PAGES = [
   {
     id: "about",
     title: "About",
@@ -122,3 +124,17 @@ export const INFO_PAGES = [
     ],
   },
 ];
+
+// Wording that only applies once Broen's own AI is switched on (data/aiConfig.js).
+const BROEN_AI_PRIVACY = [
+  "Broen AI (optional)",
+  "If you choose Broen AI in AI settings, the text or photo you submit goes to Broen\u2019s relay server, which passes it to Anthropic (Claude) to write the answer, then returns the answer to you. We do not store or log what you send or what comes back. Anthropic\u2019s privacy policy applies to what it receives. To count your free tries, your install has a random anonymous id that is sent with each request; it is not linked to your name or account. Your network address is used only to limit abuse and is not stored in readable form. It is off until you choose it, and you can switch to your own key at any time.",
+];
+const BROEN_AI_FAQ = ["What is Broen AI?", "An option in AI settings that works right away, with no key to set up, and a few free tries. When the free tries are used, you can add your own key (see What does AI cost?) and keep going."];
+
+export const INFO_PAGES = BASE_INFO_PAGES.map((page) => {
+  if (!broenAIEnabled()) return page;
+  if (page.id === "privacy") return { ...page, sections: [...page.sections.slice(0, 4), BROEN_AI_PRIVACY, ...page.sections.slice(4)] };
+  if (page.id === "faq") return { ...page, questions: [...page.questions.slice(0, 3), BROEN_AI_FAQ, ...page.questions.slice(3)] };
+  return page;
+});

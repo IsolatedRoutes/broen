@@ -10,6 +10,7 @@ import { readSentenceResult, initialSentenceSelection, cardsFromSentenceSelectio
 import { CenteredOverlay, inputStyle, smallBtn } from "../../components/ui";
 import { CATEGORY_RULE, aiCategoryName, topicNamesForAI } from "../../data/categories";
 import { irregularPluralFactsHint, irregularVerbFactsHint } from "../../data/irregulars";
+import { callBroenImage } from "../../lib/ai/broen";
 import { callClaudeImage } from "../../lib/ai/claude";
 import { callGeminiImage } from "../../lib/ai/gemini";
 import { apiErrorMessage, callAI, getAIEngine } from "../../lib/ai/index";
@@ -62,7 +63,8 @@ export function PhotoPanel({ categories, addCategory, addCards, onOpenSettings, 
       const engine = await getAIEngine();
       const geminiKey = await secretGet("geminiApiKey");
       const anthropicKey = await secretGet("anthropicApiKey");
-      if (engine === "gemini" && geminiKey) setBackend("gemini");
+      if (engine === "broen") setBackend("broen");
+      else if (engine === "gemini" && geminiKey) setBackend("gemini");
       else if (engine === "api") setBackend("api"); // works whether via Claude's own auth or an explicit Anthropic key
       else if (anthropicKey) setBackend("api");
       else if (geminiKey) setBackend("gemini");
@@ -126,6 +128,7 @@ export function PhotoPanel({ categories, addCategory, addCards, onOpenSettings, 
   async function callVision(system, userText) {
     const base64 = await fileToBase64(file);
     const mediaType = file.type || "image/jpeg";
+    if (backend === "broen") return callBroenImage(system, userText, base64, mediaType);
     return backend === "gemini" ? callGeminiImage(system, userText, base64, mediaType) : callClaudeImage(system, userText, base64, mediaType);
   }
 

@@ -1,3 +1,5 @@
+import { aiConfig } from "../../data/aiConfig";
+import { callBroenText } from "./broen";
 import { callClaudeText } from "./claude";
 import { callGeminiText } from "./gemini";
 import { callLocalText } from "./local";
@@ -11,6 +13,7 @@ export async function getAIEngine() {
   // has been chosen yet.
   const v = await storeGet("aiEngine");
   if (isNativeApp() && (v === "local" || v === "ollama")) return null;
+  if (v === "broen") return aiConfig().proxyUrl ? "broen" : null;
   if (v === "local" || v === "api" || v === "gemini" || v === "ollama") return v;
   if (inClaudeApp()) return "api";
   return null;
@@ -18,6 +21,7 @@ export async function getAIEngine() {
 
 export async function callAI(system, userText, opts) {
   const engine = await getAIEngine();
+  if (engine === "broen") return callBroenText(system, userText, opts);
   if (engine === "local") return callLocalText(system, userText, opts);
   if (engine === "gemini") return callGeminiText(system, userText, opts);
   if (engine === "api") return callClaudeText(system, userText, opts);
@@ -27,6 +31,10 @@ export async function callAI(system, userText, opts) {
 
 export function apiErrorMessage(e) {
   const msg = e && e.message;
+  if (msg === "BROEN_TRIAL_USED") return "You've used your free Broen AI tries. Open AI settings to add your own free key and keep going.";
+  if (msg === "BROEN_BUSY") return "Broen AI is very busy right now. Try again a little later, or open AI settings to use your own key.";
+  if (msg === "BROEN_PAUSED") return "Broen AI is paused for now. Open AI settings to use your own key.";
+  if (msg === "BROEN_ERROR") return "Broen AI didn't answer. Try again in a moment.";
   if (msg === "MISSING_API_KEY") return "Add your Anthropic API key in AI settings to use this.";
   if (msg === "MISSING_GEMINI_KEY") return "Add your free Google Gemini API key in AI settings to use this.";
   if (msg === "RATE_LIMITED") return "Gemini's free tier limits how many requests per minute — wait a bit and try again.";
