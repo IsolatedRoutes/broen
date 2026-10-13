@@ -92,6 +92,11 @@ export function Shell({ children, sidebar = false }) {
         }
         input:focus, textarea:focus, select:focus { outline: 2px solid var(--fjord); outline-offset: 1px; }
         button:focus-visible { outline: 2px solid var(--fjord); outline-offset: 2px; }
+        /* The star / check icons are focusable so the keyboard works, but a tap
+           must not leave a focus line behind; only keyboard focus shows a ring. */
+        svg[role="button"] { outline: none; -webkit-tap-highlight-color: transparent; }
+        svg[role="button"]:focus:not(:focus-visible) { outline: none; }
+        svg[role="button"]:focus-visible { outline: 2px solid var(--fjord); outline-offset: -4px; border-radius: 50%; }
         ::placeholder { color: #ADA898; }
       `}</style>
       {children}
