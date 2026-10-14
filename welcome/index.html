@@ -189,7 +189,7 @@
   .fine { margin: 18px 0 0; font-size: 14px; color: var(--muted); }
 
   .scene { position: relative; display: flex; flex-direction: column; align-items: center; gap: 6px; }
-  .mark { display: block; width: 130px; height: auto; margin: 0 0 14px; mix-blend-mode: multiply; }
+  .mark { display: block; width: min(300px, 78%); height: auto; margin: 0 0 18px -6px; mix-blend-mode: multiply; }
   .bridge { width: min(300px, 70%); height: auto; mix-blend-mode: multiply; }
   .stack { position: relative; width: min(330px, 100%); height: 200px; margin-top: 4px; }
   .fcard { position: absolute; inset: 0; background: var(--card); border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 10px 30px rgba(35,39,42,.08); display: flex; align-items: center; justify-content: center; }
@@ -432,7 +432,7 @@
   <div class="hero">
     <div class="wrap">
       <div>
-        <img class="mark" src="bridge.png" alt="Broen, the bridge" width="130" height="74">
+        <img class="mark" src="bridge.png" alt="Broen, the bridge" width="300" height="170">
         <h1>Your bridge to <em>learning Danish.</em></h1>
         <p class="lead">Turn the signs, menus and messages around you into flashcards you actually remember. Broen shows each one again at just the right time. No streaks, no timers, no account.</p>
         <div class="cta">
