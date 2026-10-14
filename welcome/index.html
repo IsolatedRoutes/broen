@@ -115,9 +115,11 @@
   .pillrow b { font-weight: 500; font-size: 11px; padding: 5px 11px; border-radius: 999px; background: #fff; border: 1px solid var(--line); color: var(--ink); }
   .pillrow b.sel { background: var(--fjord); border-color: var(--fjord); color: #fff; }
   .btns { display: flex; gap: 6px; margin-top: 10px; }
-  .btns b { flex: 1; text-align: center; font-weight: 600; font-size: 10.5px; color: #fff; padding: 9px 0; border-radius: 999px; opacity: .5; white-space: nowrap; }
-  .btns .g { background: var(--fjord); } .btns .p { background: #7A5A93; } .btns .r { background: var(--terracotta); }
-  .btns b.hit { opacity: 1; }
+  .btns b { flex: 1; text-align: center; font-weight: 600; font-size: 10.5px; color: #fff; padding: 9px 0; border-radius: 999px; opacity: .4; white-space: nowrap; }
+  .btns .g { background: var(--fjord); color: #fff; } .btns .p { background: #7A5A93; } .btns .r { background: var(--terracotta); }
+  .btns .g.go { --c: var(--fjord); } .btns .p.go { --c: #7A5A93; } .btns .r.go { --c: var(--terracotta); }
+  .btns b.go { box-shadow: 0 0 0 0 rgba(35,39,42,0); }
+  .sc.on .btns b.go { animation: press .6s var(--d,1.2s) forwards; }
   .tap { position: absolute; width: 34px; height: 34px; margin: -17px 0 0 -17px; border-radius: 50%; border: 2px solid var(--terracotta); opacity: 0; pointer-events: none; }
   .da { font-family: var(--serif); color: var(--rust); }
   .en { color: var(--sage); font-style: italic; }
@@ -155,29 +157,26 @@
   .s4 .box span { opacity: 0; display: inline-block; }
   .s4 .res { margin-top: 10px; padding: 12px; opacity: 0; transform: translateY(14px); }
   .s4.on .box span { animation: fade .5s .4s forwards; }
-  .s4.on .g { animation: lit .3s 1.5s forwards; }
-  .s4.on .tap { left: 52px; top: 148px; animation: tapring .9s 1.3s 1 both; }
+    .s4.on .tap { left: 52px; top: 148px; animation: tapring .9s .8s 1 both; }
   .s4.on .res { animation: up .5s 2s forwards; }
   /* 5 analyze */
   .s5 .box { height: 92px; padding: 12px 14px; font-family: var(--serif); font-size: 15px; color: var(--ink); }
   .s5 .res { margin-top: 12px; padding: 14px; opacity: 0; transform: translateY(14px); }
   .s5 .res h4 { margin: 0 0 4px; font-family: var(--serif); font-weight: 400; font-size: 16px; color: #7A5A93; }
   .s5 .res .tick { float: right; width: 18px; height: 18px; border-radius: 50%; background: #4C8A5E; }
-  .s5.on .p { animation: lit .3s 1s forwards; }
-  .s5.on .tap { left: 150px; top: 148px; animation: tapring .9s .8s 1 both; }
+    .s5.on .tap { left: 150px; top: 148px; animation: tapring .9s .8s 1 both; }
   .s5.on .res { animation: up .5s 1.6s forwards; }
   /* 6 extract */
   .s6 .box { height: 92px; padding: 12px 14px; font-family: var(--serif); font-size: 15px; color: var(--ink); }
   .s6 .cards { margin-top: 12px; display: grid; gap: 8px; }
   .s6 .cards .mc { padding: 10px 14px; display: flex; justify-content: space-between; align-items: baseline; opacity: 0; transform: translateY(12px); }
-  .s6.on .r { animation: lit .3s 1s forwards; }
-  .s6.on .tap { left: 255px; top: 148px; animation: tapring .9s .8s 1 both; }
+    .s6.on .tap { left: 255px; top: 148px; animation: tapring .9s .8s 1 both; }
   .s6.on .cards .mc:nth-child(1) { animation: up .45s 1.6s forwards; }
   .s6.on .cards .mc:nth-child(2) { animation: up .45s 2.0s forwards; }
   .s6.on .cards .mc:nth-child(3) { animation: up .45s 2.4s forwards; }
   @keyframes up { to { opacity: 1; transform: none; } }
   @keyframes fade { to { opacity: 1; } }
-  @keyframes lit { to { opacity: 1; } }
+  @keyframes press { 0% { opacity: .4; transform: none; } 35% { opacity: 1; transform: scale(.93); } 100% { opacity: 1; transform: none; box-shadow: 0 0 0 3px var(--paper), 0 0 0 5px var(--c); } }
   @keyframes tapring { 0% { opacity: 0; transform: scale(.4); } 30% { opacity: 1; } 100% { opacity: 0; transform: scale(1.5); } }
   @keyframes scan { 0% { opacity: 1; top: 0; } 100% { opacity: 1; top: 245px; } }
 
@@ -191,7 +190,7 @@
   @media (prefers-reduced-motion: reduce) {
     .sc *, .sc.on * { animation: none !important; }
     .sc .pop, .sc .user, .sc .bot, .sc .res, .sc .box span, .sc .cards .mc { opacity: 1 !important; transform: none !important; }
-    .btns b { opacity: 1; }
+    .btns b.go { opacity: 1; box-shadow: 0 0 0 3px var(--paper), 0 0 0 5px var(--c); }
   }
 
   section { padding-block: 64px; }
@@ -292,8 +291,8 @@
               </div>
             </div>
             <div class="sc s2">
-              <div class="user">When do I use “ikke” in a sentence?</div>
-              <div class="mc bot ink"><b>Ikke</b> means “not”. Put it right after the verb: <span class="da">Jeg spiser ikke kød</span> (I don’t eat meat). With two verbs, it follows the first: <span class="da">Jeg vil ikke spise</span> (I don’t want to eat).</div>
+              <div class="user">What is the difference between “hvad” and “hvem”?</div>
+              <div class="mc bot ink"><b>Hvad</b> asks about things, <b>hvem</b> asks about people. <span class="da">Hvad er det?</span> (What is that?) <span class="da">Hvem er det?</span> (Who is that?)</div>
               <div class="inp">Ask or give instructions…</div>
             </div>
             <div class="sc s3">
@@ -304,21 +303,21 @@
             <div class="sc s4">
               <div class="pillrow"><b>Chat</b><b class="sel">Enter text</b><b>Add photo</b></div>
               <div class="mc box"><span>Jeg glæder mig til i morgen. Jeg skal købe brød og ost.</span></div>
-              <div class="btns"><b class="g">Translate</b><b class="p hit">Analyze sentence</b><b class="r hit">Extract text</b></div>
+              <div class="btns"><b class="g go">Translate</b><b class="p">Analyze sentence</b><b class="r">Extract text</b></div>
               <div class="tap"></div>
               <div class="mc res ink"><span class="en">I am looking forward to tomorrow. I am going to buy bread and cheese.</span></div>
             </div>
             <div class="sc s5">
               <div class="pillrow"><b>Chat</b><b class="sel">Enter text</b><b>Add photo</b></div>
               <div class="mc box">Jeg glæder mig til i morgen. Jeg skal købe brød og ost.</div>
-              <div class="btns"><b class="g hit">Translate</b><b class="p">Analyze sentence</b><b class="r hit">Extract text</b></div>
+              <div class="btns"><b class="g">Translate</b><b class="p go">Analyze sentence</b><b class="r">Extract text</b></div>
               <div class="tap"></div>
               <div class="mc res ink"><span class="tick"></span><h4>glæder mig til = look forward to</h4>Danish says “gladden myself to”. Put <b>til</b> before the thing you look forward to.</div>
             </div>
             <div class="sc s6">
               <div class="pillrow"><b>Chat</b><b class="sel">Enter text</b><b>Add photo</b></div>
               <div class="mc box">Jeg glæder mig til i morgen. Jeg skal købe brød og ost.</div>
-              <div class="btns"><b class="g hit">Translate</b><b class="p hit">Analyze sentence</b><b class="r">Extract text</b></div>
+              <div class="btns"><b class="g">Translate</b><b class="p">Analyze sentence</b><b class="r go">Extract text</b></div>
               <div class="tap"></div>
               <div class="cards">
                 <div class="mc"><span class="da" style="font-size:17px">at købe</span><span class="en ink">to buy</span></div>
