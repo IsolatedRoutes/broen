@@ -26,6 +26,8 @@ check({n["@type"] for n in ld["@graph"]} == {"SoftwareApplication", "FAQPage"}, 
 faq_q = [q["name"] for n in ld["@graph"] if n["@type"] == "FAQPage" for q in n["mainEntity"]]
 check(all(q.replace("&ldquo;", "").split("?")[0][:20] in html for q in faq_q), "every structured-data question is also visible on the page")
 check(html.count("<h1") == 1, "exactly one main heading")
+check(html.count('class="sc s') == 6, "hero demo has six scenes")
+check("Your bridge to" in html, "headline is the app tagline")
 check(os.path.exists(os.path.join(ROOT, "welcome", "og.png")) and os.path.exists(os.path.join(ROOT, "robots.txt")) and os.path.exists(os.path.join(ROOT, "sitemap.xml")), "preview image, robots.txt and sitemap exist")
 
 with sync_playwright() as p:
