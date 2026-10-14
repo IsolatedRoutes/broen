@@ -327,9 +327,9 @@
   @keyframes press { 0% { transform: none; } 35% { transform: scale(.93); } 100% { transform: none; box-shadow: 0 0 0 3px var(--paper), 0 0 0 5px var(--c); } }
   @keyframes tapring { 0% { opacity: 0; transform: scale(.4); } 30% { opacity: 1; } 100% { opacity: 0; transform: scale(1.5); } }
 
-  .cap { text-align: center; min-height: 70px; max-width: 320px; }
+  .cap { text-align: center; min-height: 28px; max-width: 320px; }
   .cap b { display: block; font-family: var(--serif); font-weight: 400; font-size: 19px; }
-  .cap span { display: block; font-size: 14.5px; color: #4A4F52; margin-top: 2px; }
+  .cap span { display: none; }
   .dots { display: flex; gap: 8px; }
   .dots button { width: 9px; height: 9px; padding: 0; border-radius: 50%; border: 0; background: var(--line); cursor: pointer; }
   .dots button[aria-current="true"] { background: var(--terracotta); }
@@ -514,7 +514,7 @@
         steps.forEach(function (s, n) {
           var b = document.createElement("button");
           b.type = "button"; b.setAttribute("aria-label", s[0]);
-          b.onclick = function () { show(n); if (timer) { clearTimeout(timer); timer = null; } };
+          b.onclick = function () { show(n); if (timer) clearTimeout(timer); timer = setTimeout(next, lens[n]); };
           dots.appendChild(b);
         });
         function show(n) {
@@ -526,10 +526,10 @@
           t.textContent = steps[n][0]; d.textContent = steps[n][1];
           Array.prototype.forEach.call(dots.children, function (b, k) { b.setAttribute("aria-current", k === n ? "true" : "false"); });
         }
-        var lens = [9500, 8800, 6200, 6200, 6200, 6200];
+        var lens = still ? [4500, 4500, 4500, 4500, 4500, 4500] : [9500, 8800, 6200, 6200, 6200, 6200];
         function next() { show((i + 1) % steps.length); timer = setTimeout(next, lens[i]); }
         show(0);
-        if (!still) timer = setTimeout(next, lens[0]);
+        timer = setTimeout(next, lens[0]);
       })();
       </script>
     </div>
