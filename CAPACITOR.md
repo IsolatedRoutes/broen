@@ -25,7 +25,7 @@ Needs a Mac with Xcode and an Apple Developer account. Do these steps on the Mac
 - Test on a real iPhone: studying, swipes, Back, Dictionary, Backup (share sheet) and Restore, photo import with a key, reading aloud, no safe-area clipping.
 
 ## App Store Connect
-- Privacy policy URL: https://isolatedroutes.github.io/Dansk/privacy.html
+- Privacy policy URL: https://isolatedroutes.github.io/broen/privacy.html
 - Support contact: a real support email or URL is required (set `CONTACT_EMAIL` in `src/data/infoPages.js` too).
 - App Privacy answers: the app collects nothing itself. Text and photos the person chooses to send go straight to the AI company they connect (Anthropic or Google) with their own key.
 - Review notes: explain that AI features need the user's own API key, and give the reviewer a low-limit test key you can delete afterwards.

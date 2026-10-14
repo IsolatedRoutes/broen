@@ -1,6 +1,6 @@
 # Dansk — notes for Claude
 
-Danish learning web app, live at https://isolatedroutes.github.io/Dansk.
+Danish learning web app, live at https://isolatedroutes.github.io/broen.
 Owner is not a coder: explain things in short, plain English.
 
 ## Release workflow (owner's standing instructions)
