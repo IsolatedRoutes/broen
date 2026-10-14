@@ -136,7 +136,7 @@
   .s1.on .tap { left: 40px; top: 275px; animation: tapring .9s .6s 1 both; }
   /* 2 ask */
   .s2 .user { margin-left: auto; width: 82%; background: var(--fjord); color: #fff; border-radius: 16px 16px 4px 16px; padding: 10px 12px; font-size: 12.5px; opacity: 0; }
-  .s2 .bot { margin-top: 12px; width: 92%; padding: 12px; border-radius: 16px 16px 16px 4px; opacity: 0; }
+  .s2 .bot { margin-top: 12px; width: 96%; padding: 12px; border-radius: 16px 16px 16px 4px; opacity: 0; }
   .s2 .inp { position: absolute; left: 16px; right: 16px; bottom: 12px; height: 42px; border: 1px solid var(--line); background: var(--card); border-radius: 21px; padding: 12px 16px; font-size: 12px; color: #ADA898; }
   .s2 .inp::after { content: ""; position: absolute; right: 5px; top: 5px; width: 30px; height: 30px; border-radius: 50%; background: var(--terracotta); }
   .s2.on .user { animation: up .5s .5s forwards; }
@@ -151,27 +151,27 @@
   .s3.on .scan { animation: scan 1.6s .5s 1 both; }
   .s3.on .res { animation: up .5s 2.3s forwards; }
   /* 4 paste / translate */
-  .s4 .box { height: 150px; padding: 14px; font-family: var(--serif); font-size: 16px; line-height: 1.45; color: var(--ink); }
+  .s4 .box { height: 92px; padding: 14px; font-family: var(--serif); font-size: 16px; line-height: 1.45; color: var(--ink); }
   .s4 .box span { opacity: 0; display: inline-block; }
   .s4 .res { margin-top: 10px; padding: 12px; opacity: 0; transform: translateY(14px); }
   .s4.on .box span { animation: fade .5s .4s forwards; }
   .s4.on .g { animation: lit .3s 1.5s forwards; }
-  .s4.on .tap { left: 52px; top: 248px; animation: tapring .9s 1.3s 1 both; }
+  .s4.on .tap { left: 52px; top: 148px; animation: tapring .9s 1.3s 1 both; }
   .s4.on .res { animation: up .5s 2s forwards; }
   /* 5 analyze */
-  .s5 .box { height: 62px; padding: 12px 14px; font-family: var(--serif); font-size: 15px; color: var(--ink); }
+  .s5 .box { height: 92px; padding: 12px 14px; font-family: var(--serif); font-size: 15px; color: var(--ink); }
   .s5 .res { margin-top: 12px; padding: 14px; opacity: 0; transform: translateY(14px); }
   .s5 .res h4 { margin: 0 0 4px; font-family: var(--serif); font-weight: 400; font-size: 16px; color: #7A5A93; }
   .s5 .res .tick { float: right; width: 18px; height: 18px; border-radius: 50%; background: #4C8A5E; }
   .s5.on .p { animation: lit .3s 1s forwards; }
-  .s5.on .tap { left: 150px; top: 108px; animation: tapring .9s .8s 1 both; }
+  .s5.on .tap { left: 150px; top: 148px; animation: tapring .9s .8s 1 both; }
   .s5.on .res { animation: up .5s 1.6s forwards; }
   /* 6 extract */
-  .s6 .box { height: 62px; padding: 12px 14px; font-family: var(--serif); font-size: 15px; color: var(--ink); }
+  .s6 .box { height: 92px; padding: 12px 14px; font-family: var(--serif); font-size: 15px; color: var(--ink); }
   .s6 .cards { margin-top: 12px; display: grid; gap: 8px; }
   .s6 .cards .mc { padding: 10px 14px; display: flex; justify-content: space-between; align-items: baseline; opacity: 0; transform: translateY(12px); }
   .s6.on .r { animation: lit .3s 1s forwards; }
-  .s6.on .tap { left: 255px; top: 108px; animation: tapring .9s .8s 1 both; }
+  .s6.on .tap { left: 255px; top: 148px; animation: tapring .9s .8s 1 both; }
   .s6.on .cards .mc:nth-child(1) { animation: up .45s 1.6s forwards; }
   .s6.on .cards .mc:nth-child(2) { animation: up .45s 2.0s forwards; }
   .s6.on .cards .mc:nth-child(3) { animation: up .45s 2.4s forwards; }
@@ -292,8 +292,8 @@
               </div>
             </div>
             <div class="sc s2">
-              <div class="user">Why is it “en bil” not “et bil”?</div>
-              <div class="mc bot ink">Danish nouns are either en-words or et-words, and <b>bil</b> is an en-word. There is no way to guess it, so learn each noun together with its en or et.</div>
+              <div class="user">When do I use “ikke” in a sentence?</div>
+              <div class="mc bot ink"><b>Ikke</b> means “not”. Put it right after the verb: <span class="da">Jeg spiser ikke kød</span> (I don’t eat meat). With two verbs, it follows the first: <span class="da">Jeg vil ikke spise</span> (I don’t want to eat).</div>
               <div class="inp">Ask or give instructions…</div>
             </div>
             <div class="sc s3">
@@ -303,21 +303,21 @@
             </div>
             <div class="sc s4">
               <div class="pillrow"><b>Chat</b><b class="sel">Enter text</b><b>Add photo</b></div>
-              <div class="mc box"><span>Vi ses i morgen, hvis vejret er godt.</span></div>
+              <div class="mc box"><span>Jeg glæder mig til i morgen. Jeg skal købe brød og ost.</span></div>
               <div class="btns"><b class="g">Translate</b><b class="p hit">Analyze sentence</b><b class="r hit">Extract text</b></div>
               <div class="tap"></div>
-              <div class="mc res ink"><span class="en">See you tomorrow, if the weather is good.</span></div>
+              <div class="mc res ink"><span class="en">I am looking forward to tomorrow. I am going to buy bread and cheese.</span></div>
             </div>
             <div class="sc s5">
               <div class="pillrow"><b>Chat</b><b class="sel">Enter text</b><b>Add photo</b></div>
-              <div class="mc box">Jeg glæder mig til sommeren.</div>
+              <div class="mc box">Jeg glæder mig til i morgen. Jeg skal købe brød og ost.</div>
               <div class="btns"><b class="g hit">Translate</b><b class="p">Analyze sentence</b><b class="r hit">Extract text</b></div>
               <div class="tap"></div>
               <div class="mc res ink"><span class="tick"></span><h4>glæder mig til = look forward to</h4>Danish says “gladden myself to”. Put <b>til</b> before the thing you look forward to.</div>
             </div>
             <div class="sc s6">
               <div class="pillrow"><b>Chat</b><b class="sel">Enter text</b><b>Add photo</b></div>
-              <div class="mc box">Jeg skal købe brød og ost.</div>
+              <div class="mc box">Jeg glæder mig til i morgen. Jeg skal købe brød og ost.</div>
               <div class="btns"><b class="g hit">Translate</b><b class="p hit">Analyze sentence</b><b class="r">Extract text</b></div>
               <div class="tap"></div>
               <div class="cards">
@@ -336,7 +336,7 @@
       (function () {
         var steps = [
           ["Tap the lightbulb", "See what a word means, its forms and an example sentence."],
-          ["Ask anything", "Ask the Assistant why Danish works the way it does."],
+          ["Ask anything", "Ask the Assistant how Danish works."],
           ["Take a photo", "Photograph a sign, menu or page of Danish."],
           ["Paste a text", "Paste a message and translate it in one tap."],
           ["Analyze a sentence", "Learn the one or two things worth noticing in it."],
