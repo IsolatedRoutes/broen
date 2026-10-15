@@ -50,6 +50,18 @@ with sync_playwright() as p:
     page.goto(BASE + "welcome/")
     check(page.locator(".qa").count() >= 6 and page.locator(".qa p").first.is_visible(), "the questions and their answers are visible without tapping")
     check(page.get_by_role("link", name="Privacy", exact=True).get_attribute("href") == "../privacy.html", "privacy link points to the privacy page")
+    # the menu opens real pages, and the pages hold the app's full text
+    nav = {a.inner_text().strip(): a.get_attribute("href") for a in page.locator("header nav a.plain").all()}
+    check(nav.get("How it works") == "how-it-works/" and nav.get("FAQ") == "faq/" and nav.get("About") == "about/", "menu links go to real pages, not lower down the same page")
+    check(page.locator("a.applink").count() >= 4 and all(a.get_attribute("href") == "../" for a in page.locator("a.applink").all()), "every 'open Broen' is a highlighted link to the app")
+    for d, needle in [("how-it-works", "Backup and sync"), ("faq", "How do I move to a new device?"), ("about", "The Bridge"), ("terms", "A learning aid")]:
+        r = page.goto(BASE + "welcome/%s/" % d); page.wait_for_timeout(200)
+        check(r.status == 200 and needle in page.content(), "welcome/%s/ opens and has the app's text" % d)
+    info = open(os.path.join(ROOT, "src", "data", "infoPages.js"), encoding="utf-8").read()
+    faq_page = open(os.path.join(ROOT, "welcome", "faq", "index.html"), encoding="utf-8").read()
+    base_faq = info.split('id: "faq"')[1].split("];")[0]
+    check(faq_page.count("<section id=") == len(re.findall(r"^      \[\"", base_faq, re.M)), "the FAQ page has every question the app has")
+    check("in this menu" not in faq_page and "in this menu" not in open(os.path.join(ROOT, "welcome", "how-it-works", "index.html"), encoding="utf-8").read(), "no app-menu wording left on the website pages")
     b.close()
 print("ALL PASSED" if not failures else "FAILED: %d" % len(failures))
 raise SystemExit(1 if failures else 0)
