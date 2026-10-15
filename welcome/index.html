@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Broen: a Danish study app where you choose what to study</title>
+<title>Broen: a Danish study app where you decide what to learn</title>
 <meta name="description" content="Broen is a free Danish study app with 8,000 flashcards, 100 grammar lessons and an AI tutor. Save the words you look up so you do not lose them.">
 <link rel="canonical" href="https://isolatedroutes.github.io/broen/welcome/">
 <meta name="theme-color" content="#EFEEE8">
@@ -11,7 +11,7 @@
 <link rel="apple-touch-icon" href="../icons/apple-touch-icon.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Broen">
-<meta property="og:title" content="Broen: a Danish study app with no lessons and no set order">
+<meta property="og:title" content="Broen: a Danish study app where you decide what to learn">
 <meta property="og:description" content="8,000 flashcards, an AI tutor, and a place to save every word you look up. Free, with no account.">
 <meta property="og:url" content="https://isolatedroutes.github.io/broen/welcome/">
 <meta property="og:image" content="https://isolatedroutes.github.io/broen/welcome/og.png">
@@ -86,7 +86,7 @@
           "name": "What level of Danish is it for?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Mostly people past the beginner stage who want to choose their own path. The words cover every level from A1 to C2, so you can start lower if you need to. There are no lessons to work through and no fixed order."
+            "text": "Mostly people past the beginner stage who want to choose their own path. The words cover every level from A1 to C2, so you can start lower if you need to. There is no course to follow."
           }
         },
         {
@@ -178,10 +178,10 @@
   .pill.second { background: #fff; color: var(--ink); border-color: var(--line); }
   .pill.second:hover { border-color: var(--muted); }
   .pill.soft { background: transparent; color: var(--muted); border-color: var(--line); font-weight: 600; cursor: default; }
-  .pill.small { padding: 10px 20px; font-size: 14.5px; }
+  .pill.small { padding: 10px 20px; font-size: 14.5px; white-space: nowrap; }
 
-  .hero { padding-block: 40px 72px; }
-  .hero .wrap { display: grid; grid-template-columns: 1.05fr .95fr; gap: 48px; align-items: center; }
+  .hero { padding-block: 8px 72px; }
+  .hero .wrap { display: grid; grid-template-columns: 1.05fr .95fr; gap: 48px; align-items: start; }
   h1 { font-family: var(--serif); font-weight: 400; font-size: clamp(36px, 5.2vw, 56px); line-height: 1.12; margin: 0 0 20px; letter-spacing: -.2px; text-wrap: balance; }
   h1 em { font-style: normal; color: var(--rust); }
   .lead { font-size: clamp(17px, 2vw, 20px); color: #4A4F52; max-width: 34em; margin: 0 0 30px; }
@@ -434,12 +434,11 @@
       <div>
         <img class="mark" src="bridge.png" alt="Broen, the bridge" width="300" height="170">
         <h1>Your bridge to <em>learning Danish.</em></h1>
-        <p class="lead">Broen is a Danish study app with no lessons and no set order. It has 8,000 flashcards you can sort however you like, an AI tutor you can ask about any word or phrase, and a place to save the words you look up.</p>
+        <p class="lead">Broen is a Danish study app where you decide what to learn. It has 8,000 flashcards you can sort by level, topic or word type, an AI tutor you can ask about any word or phrase, and a place to save the words you look up.</p>
         <div class="cta">
-          <a class="pill main" href="../">Open in your browser</a>
-          <a class="pill second" href="#get">Add it to your phone</a>
+          <a class="pill main" href="../">Use in your browser</a>
+          <a class="pill second" href="#get">Use on your phone</a>
         </div>
-        <p class="fine">Free. No account. Studying works offline.</p>
       </div>
       <div class="demo">
         <div class="phone" role="img" aria-label="A short demonstration of Broen: the lightbulb on a flashcard, asking a question, photographing a sign, translating a pasted text, analyzing a sentence and extracting words to learn.">
@@ -576,7 +575,7 @@
         <div class="feature">
           <div class="num">1</div>
           <h3>You decide what to study</h3>
-          <p>Broen has no lessons and no fixed order. The 8,000 built-in words are flashcards you can sort by level (A1 to C2), by topic, or by type of word, like verbs or nouns. There are also 100 grammar lessons if you want them.</p>
+          <p>There is no course to follow. The 8,000 built-in words are flashcards you can sort by level (A1 to C2), by topic, or by type of word, like verbs or nouns. There are also 100 grammar lessons if you want them.</p>
         </div>
         <div class="feature">
           <div class="num">2</div>
@@ -669,7 +668,7 @@
       </details>
       <details>
         <summary>What level of Danish is it for?</summary>
-        <p>Mostly people past the beginner stage who want to choose their own path. The words cover every level from A1 to C2, so you can start lower if you need to. There are no lessons to work through and no fixed order.</p>
+        <p>Mostly people past the beginner stage who want to choose their own path. The words cover every level from A1 to C2, so you can start lower if you need to. There is no course to follow.</p>
       </details>
       <details>
         <summary>Can I use it on an iPad or a computer?</summary>
@@ -708,8 +707,8 @@
       <h2 id="start-title">Start with one word</h2>
       <p class="lead">Open Broen in your browser and start with your first flashcard. No sign-up.</p>
       <div class="cta">
-        <a class="pill main" href="../">Open in your browser</a>
-        <a class="pill second" href="#get">Add it to your phone</a>
+        <a class="pill main" href="../">Use in your browser</a>
+        <a class="pill second" href="#get">Use on your phone</a>
       </div>
     </div>
   </section>
