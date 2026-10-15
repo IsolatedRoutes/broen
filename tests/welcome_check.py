@@ -28,9 +28,9 @@ check(all(q.replace("&ldquo;", "").split("?")[0][:20] in html for q in faq_q), "
 check(html.count("<h1") == 1, "exactly one main heading")
 check(html.count('class="sc s') == 6, "hero demo has six scenes")
 check("Your bridge to" in html, "headline is the app tagline")
-check(all(f'id="{i}"' in html for i in ("get", "about", "questions", "how")), "the page has Use Broen, About, Questions and How it works sections")
+check(all(f'id="{i}"' in html for i in ("get", "questions", "how")), "the page has How it works, On your phone and Questions sections")
 check("Add to Home Screen" in html and "Install app" in html and "install</b> icon" in html, "install steps for iPhone, Android and computer are shown")
-check(len(faq_q) >= 12 and len(re.findall(r"<details>", html)) == len(faq_q), "the visible questions match the structured-data questions")
+check(len(faq_q) >= 6 and len(re.findall(r'class="qa"', html)) == len(faq_q), "the visible questions match the structured-data questions")
 check(os.path.exists(os.path.join(ROOT, "welcome", "og.png")) and os.path.exists(os.path.join(ROOT, "robots.txt")) and os.path.exists(os.path.join(ROOT, "sitemap.xml")), "preview image, robots.txt and sitemap exist")
 
 with sync_playwright() as p:
@@ -48,9 +48,8 @@ with sync_playwright() as p:
     page.get_by_role("link", name="Use in your browser").first.click(); page.wait_for_timeout(4000)
     check(page.url == BASE and page.locator("#root").count() == 1, "'Use in your browser' goes to the app")
     page.goto(BASE + "welcome/")
-    d = page.locator("details").first; d.locator("summary").click()
-    check(d.evaluate("e => e.open"), "a question opens when tapped")
-    check(page.get_by_role("link", name="Privacy").get_attribute("href") == "../privacy.html", "privacy link points to the privacy page")
+    check(page.locator(".qa").count() >= 6 and page.locator(".qa p").first.is_visible(), "the questions and their answers are visible without tapping")
+    check(page.get_by_role("link", name="Privacy", exact=True).get_attribute("href") == "../privacy.html", "privacy link points to the privacy page")
     b.close()
 print("ALL PASSED" if not failures else "FAILED: %d" % len(failures))
 raise SystemExit(1 if failures else 0)

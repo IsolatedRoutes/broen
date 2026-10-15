@@ -43,18 +43,10 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Is Broen free? Do I need an account?",
+          "name": "What does it cost?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It is free, and there is no account. Your words and progress stay on your device. The only thing that can cost money is the AI, and only if you use a paid provider like Claude."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I get Broen?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Open it in your browser from this page. There is nothing to download. If you want it on your home screen like an app, the steps are under Use Broen. An iPhone app is on its way."
+            "text": "Nothing. There is no account and no ads. Only the AI part can cost money, because it runs on your own Claude or Gemini account. With Claude a question costs about half a cent. Gemini has a free tier."
           }
         },
         {
@@ -62,47 +54,23 @@
           "name": "Does it work offline?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, for studying. Open Broen once, and after that your flashcards, the dictionary and the grammar lessons work without internet. Only the AI features need a connection."
+            "text": "For studying, yes. After you open Broen once, the flashcards, the dictionary, the grammar lessons and the notes on each word work without internet. Only the AI needs a connection."
           }
         },
         {
           "@type": "Question",
-          "name": "Do I need AI to use it?",
+          "name": "What level is it for?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Studying, the dictionary, the grammar lessons and the example sentences and notes on each built-in word all work without it, and offline. AI is for answering your questions, translating, reading photos, and looking up words you add yourself. You connect your own Claude or Gemini account."
+            "text": "Mostly people past the beginner stage. The words cover every level from A1 to C2, so you can start lower if you need to."
           }
         },
         {
           "@type": "Question",
-          "name": "What does AI cost?",
+          "name": "Where is my progress saved?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The AI company bills you directly for what you use. With Claude, a question costs about half a cent and a photo a cent or two. Gemini has a free tier with daily limits. Prices are set by those companies and can change."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What level of Danish is it for?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Mostly people past the beginner stage who want to choose their own path. The words cover every level from A1 to C2, so you can start lower if you need to. There is no course to follow."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I use it on an iPad or a computer?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. The website works in any current browser, on phones, tablets and computers. To keep two devices matching, turn on Sync under Backup and choose Google Drive or Dropbox."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where is my progress saved? How do I move to a new device?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "In your browser, on this device. Nothing is kept on our servers. To move to a new device, use Sync (Backup, then Sync) with Google Drive or Dropbox, or export a backup file and import it on the other device. Clearing your browser's site data erases your words and progress, so keep a backup."
+            "text": "In your browser, on your own device. Nothing is kept on our servers. To use a second device, turn on sync with Google Drive or Dropbox, or move a backup file across. Clearing your browser’s site data erases your progress, so keep a backup."
           }
         },
         {
@@ -110,39 +78,15 @@
           "name": "Is my information private?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. There is no account, no ads and no analytics, and we collect nothing. The only things that leave your device are the text or photos you send to an AI feature, and only when you tap it. They go straight to the company you chose, not through us. Here is the privacy policy."
+            "text": "Yes. There is no account, no ads and no tracking. The only thing that leaves your device is what you send to the AI, and only when you tap it. It goes to the company you chose, not through us. Here is the privacy policy."
           }
         },
         {
           "@type": "Question",
-          "name": "Why are there no streaks, scores or timers?",
+          "name": "Can I hear how a word sounds?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Missing a day should not feel like losing something. If you have been away a few days, Broen starts you back with a handful of words instead of a pile of overdue flashcards."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I hear how a word is pronounced?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. Tap the speaker next to the Danish and your device reads it aloud. It usually works without internet. How good it sounds depends on the Danish voice installed on your device, and Broen shows you how to get a better one."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does “Broen” mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Broen is Danish for “the bridge.” The idea is a bridge between the Danish around you and the Danish you know."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I contact you?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Write to isolatedroutes@gmail.com. Questions, ideas and corrections are welcome."
+            "text": "Yes. Tap the speaker next to any Danish word and your device reads it aloud. How good it sounds depends on the Danish voice installed on your device, and Broen shows you how to get a better one."
           }
         }
       ]
@@ -386,7 +330,6 @@
   footer a:hover { color: var(--ink); }
   footer .links { display: flex; gap: 22px; flex-wrap: wrap; }
 
-
   .ways { display: grid; grid-template-columns: 1fr 1.35fr 1fr; gap: 22px; align-items: stretch; }
   .way { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 26px 24px; display: flex; flex-direction: column; gap: 10px; }
   .way.main { border-color: var(--terracotta); box-shadow: 0 8px 26px rgba(193,101,63,.12); }
@@ -402,6 +345,17 @@
   .steps .note { margin-top: 10px; font-size: 14.5px; color: var(--muted); }
   [id] { scroll-margin-top: 16px; }
   footer .links a { white-space: nowrap; }
+  .phonecols { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+  .phonecols .steps { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 22px 24px; }
+  .soon { margin: 24px 0 0; color: #4A4F52; display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+  .soon .pill.soft { font-size: 14px; padding: 10px 16px; }
+  .qagrid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 48px; }
+  .qa { border-top: 1px solid var(--line); padding-block: 20px 22px; }
+  .qa h3 { font-size: 16px; font-weight: 700; margin: 0 0 6px; }
+  .qa p { margin: 0; color: #4A4F52; font-size: 15.5px; }
+  footer .about { margin: 0; }
+  @media (max-width: 860px) { .phonecols, .qagrid { grid-template-columns: 1fr; } }
+
   @media (max-width: 860px) { .ways { grid-template-columns: 1fr; } }
   @media (max-width: 860px) {
     .hero .wrap { grid-template-columns: 1fr; gap: 36px; }
@@ -420,8 +374,7 @@
     <a class="mark" href="./" aria-label="Broen, home">Broen<span>.</span></a>
     <nav aria-label="Main">
       <a class="plain" href="#how">How it works</a>
-      <a class="plain" href="#get">Use Broen</a>
-      <a class="plain" href="#about">About</a>
+      <a class="plain" href="#get">On your phone</a>
       <a class="plain" href="#questions">Questions</a>
       <a class="pill main small" href="../">Open the app</a>
     </nav>
@@ -534,40 +487,6 @@
     </div>
   </div>
 
-  <section id="get" aria-labelledby="get-title" style="padding-top:8px">
-    <div class="wrap">
-      <h2 id="get-title">Use Broen</h2>
-      <p class="intro">There is nothing to download to start. Open it in your browser, or add it to your home screen so it opens like an app.</p>
-      <div class="ways">
-        <div class="way">
-          <div class="tag">Easiest</div>
-          <h3>In your browser</h3>
-          <p>Works on phones, tablets and computers. No account to make and nothing to pay. Your words and progress stay on your device.</p>
-          <a class="pill main" href="../">Open Broen</a>
-        </div>
-        <div class="way main">
-          <div class="tag">Like an app</div>
-          <h3>Add it to your home screen</h3>
-          <div class="steps">
-            <h4>iPhone or iPad (Safari)</h4>
-            <ol><li>Open Broen in <b>Safari</b>.</li><li>Tap <b>Share</b>, the square with an arrow.</li><li>Tap <b>Add to Home Screen</b>, then <b>Add</b>.</li></ol>
-            <h4>Android (Chrome)</h4>
-            <ol><li>Open Broen in <b>Chrome</b>.</li><li>Tap the <b>&#8942;</b> menu.</li><li>Tap <b>Install app</b> (or <b>Add to Home screen</b>).</li></ol>
-            <h4>Computer (Chrome or Edge)</h4>
-            <ol><li>Open Broen.</li><li>Click the <b>install</b> icon at the right end of the address bar, then <b>Install</b>.</li></ol>
-            <p class="note">On your home screen it is called Dansk. Once added, it opens full screen and works offline for studying.</p>
-          </div>
-        </div>
-        <div class="way">
-          <div class="tag">Soon</div>
-          <h3>The iPhone app</h3>
-          <p>A native iPhone app is on its way. Everything above keeps working, and you can carry your progress over with a backup.</p>
-          <span class="pill soft" id="store">Coming soon to the App Store</span>
-        </div>
-      </div>
-    </div>
-  </section>
-
   <section id="how" aria-labelledby="how-title">
     <div class="wrap">
       <h2 id="how-title">How it works</h2>
@@ -575,12 +494,12 @@
         <div class="feature">
           <div class="num">1</div>
           <h3>You decide what to study</h3>
-          <p>There is no course to follow. The 8,000 built-in words are flashcards you can sort by level (A1 to C2), by topic, or by type of word, like verbs or nouns. There are also 100 grammar lessons if you want them.</p>
+          <p>Study only the level you want, from A1 to C2, or only one topic, like Food &amp; Drink, or only verbs. There is no course to follow, and the 100 grammar lessons are optional.</p>
         </div>
         <div class="feature">
           <div class="num">2</div>
           <h3>Ask about any word</h3>
-          <p>Chat with a built-in AI tutor about a word or phrase and ask as many follow-up questions as you like. The more you understand one word, the more you understand the language around it.</p>
+          <p>Type a question the way you would ask a teacher: why it is <i>en bil</i> but <i>et hus</i>, what a phrase really means, how to say something politely. Keep going with follow-up questions. The answers come from Claude or Gemini, through your own account.</p>
         </div>
         <div class="feature">
           <div class="num">3</div>
@@ -591,114 +510,39 @@
     </div>
   </section>
 
-  <section class="inside" aria-labelledby="inside-title">
+  <section id="get" aria-labelledby="get-title" style="padding-top:8px">
     <div class="wrap">
-      <h2 id="inside-title">Words and lessons included</h2>
-      <p class="intro">The app comes with a starter set, so you can begin before you add anything.</p>
-      <ul class="facts">
-        <li><b>8,000</b><span>words and phrases, sorted by level and topic</span></li>
-        <li><b>100</b><span>grammar lessons, from en and et to the passive</span></li>
-        <li><b>A1&ndash;C2</b><span>four levels. Choose which ones to study.</span></li>
-        <li><b>Spoken</b><span>tap the speaker on any word to hear it, using your device&rsquo;s Danish voice</span></li>
-      </ul>
-      <div class="levels" aria-label="Levels">
-        <span class="level">Basic <small>A1&ndash;A2</small></span>
-        <span class="level">Intermediate <small>B1</small></span>
-        <span class="level">Advanced <small>B2&ndash;C1</small></span>
-        <span class="level">Fluent <small>C1&ndash;C2</small></span>
+      <h2 id="get-title">Use on your phone</h2>
+      <p class="intro">Open Broen in your browser, then add it to your home screen. It opens full screen like an app and works offline for studying. On your home screen it is called Dansk.</p>
+      <div class="phonecols">
+        <div class="steps">
+          <h4>iPhone or iPad (Safari)</h4>
+          <ol><li>Open Broen in <b>Safari</b>.</li><li>Tap <b>Share</b>, the square with an arrow.</li><li>Tap <b>Add to Home Screen</b>, then <b>Add</b>.</li></ol>
+        </div>
+        <div class="steps">
+          <h4>Android (Chrome)</h4>
+          <ol><li>Open Broen in <b>Chrome</b>.</li><li>Tap the <b>&#8942;</b> menu.</li><li>Tap <b>Install app</b> (or <b>Add to Home screen</b>).</li></ol>
+        </div>
+        <div class="steps">
+          <h4>Computer (Chrome or Edge)</h4>
+          <ol><li>Open Broen.</li><li>Click the <b>install</b> icon at the right end of the address bar, then <b>Install</b>.</li></ol>
+        </div>
       </div>
-    </div>
-  </section>
-
-  <section aria-labelledby="more-title">
-    <div class="wrap twocol">
-      <div>
-        <h2 id="more-title">Ask a question about Danish</h2>
-        <p>Type a question the way you would ask a teacher: why it is <i>en bil</i> but <i>et hus</i>, what a phrase really means, how to say something politely. You can keep asking follow-up questions, or ask for flashcards, like ten words for the train station.</p>
-        <p>The answers come from Claude or Gemini, two AI assistants, through your own account. It only runs when you tap it, which also covers translating and reading photos. Studying works without any of it.</p>
-      </div>
-      <ul class="quiet">
-        <li><b>Dictionary.</b> Search all your words in Danish or English.</li>
-        <li><b>Your own words.</b> Add them from a photo or a text, or type them in. They sit next to the starter words.</li>
-        <li><b>Backup and sync.</b> Save a backup file, or sync through Google Drive or Dropbox. The iPhone app can use iCloud too. No account with us.</li>
-        <li><b>Study your way.</b> Pick levels, word types or topics, and hide the words you already know.</li>
-      </ul>
-    </div>
-  </section>
-
-  <section id="about" aria-labelledby="about-title">
-    <div class="wrap twocol">
-      <div>
-        <h2 id="about-title">About Broen</h2>
-        <p>Broen is Danish for &ldquo;the bridge.&rdquo; It is a Danish study app for people past the beginner stage who want to decide for themselves what to study, not follow a course.</p>
-        <p>It comes with about 8,000 words and 100 grammar lessons. Any other word you want to learn, you add yourself: from a photo, a pasted text, or typed in.</p>
-        <p>Broen is an independent app made by Isolated Routes. Ideas, corrections and complaints are welcome at <a href="mailto:isolatedroutes@gmail.com">isolatedroutes@gmail.com</a>.</p>
-      </div>
-      <ul class="quiet">
-        <li><b>Free.</b> No account, no ads, no tracking.</li>
-        <li><b>Private.</b> Your words and progress stay on your device unless you back them up or sync them yourself.</li>
-        <li><b>No streaks, scores or timers.</b> Miss a week and Broen picks up where you left off.</li>
-      </ul>
+      <p class="soon">A native iPhone app is on its way. <span class="pill soft" id="store">Coming soon to the App Store</span></p>
     </div>
   </section>
 
   <section id="questions" aria-labelledby="faq-title" style="padding-top:8px">
     <div class="wrap">
-     <div class="faq">
       <h2 id="faq-title">Questions</h2>
-      <details>
-        <summary>Is Broen free? Do I need an account?</summary>
-        <p>It is free, and there is no account. Your words and progress stay on your device. The only thing that can cost money is the AI, and only if you use a paid provider like Claude.</p>
-      </details>
-      <details>
-        <summary>How do I get Broen?</summary>
-        <p>Open it in your browser from this page. There is nothing to download. If you want it on your home screen like an app, the steps are under <a href="#get">Use Broen</a>. An iPhone app is on its way.</p>
-      </details>
-      <details>
-        <summary>Does it work offline?</summary>
-        <p>Yes, for studying. Open Broen once, and after that your flashcards, the dictionary and the grammar lessons work without internet. Only the AI features need a connection.</p>
-      </details>
-      <details>
-        <summary>Do I need AI to use it?</summary>
-        <p>No. Studying, the dictionary, the grammar lessons and the example sentences and notes on each built-in word all work without it, and offline. AI is for answering your questions, translating, reading photos, and looking up words you add yourself. You connect your own Claude or Gemini account.</p>
-      </details>
-      <details>
-        <summary>What does AI cost?</summary>
-        <p>The AI company bills you directly for what you use. With Claude, a question costs about half a cent and a photo a cent or two. Gemini has a free tier with daily limits. Prices are set by those companies and can change.</p>
-      </details>
-      <details>
-        <summary>What level of Danish is it for?</summary>
-        <p>Mostly people past the beginner stage who want to choose their own path. The words cover every level from A1 to C2, so you can start lower if you need to. There is no course to follow.</p>
-      </details>
-      <details>
-        <summary>Can I use it on an iPad or a computer?</summary>
-        <p>Yes. The website works in any current browser, on phones, tablets and computers. To keep two devices matching, turn on Sync under Backup and choose Google Drive or Dropbox.</p>
-      </details>
-      <details>
-        <summary>Where is my progress saved? How do I move to a new device?</summary>
-        <p>In your browser, on this device. Nothing is kept on our servers. To move to a new device, use Sync (Backup, then Sync) with Google Drive or Dropbox, or export a backup file and import it on the other device. Clearing your browser's site data erases your words and progress, so keep a backup.</p>
-      </details>
-      <details>
-        <summary>Is my information private?</summary>
-        <p>Yes. There is no account, no ads and no analytics, and we collect nothing. The only things that leave your device are the text or photos you send to an AI feature, and only when you tap it. They go straight to the company you chose, not through us. Here is the <a href="../privacy.html">privacy policy</a>.</p>
-      </details>
-      <details>
-        <summary>Why are there no streaks, scores or timers?</summary>
-        <p>Missing a day should not feel like losing something. If you have been away a few days, Broen starts you back with a handful of words instead of a pile of overdue flashcards.</p>
-      </details>
-      <details>
-        <summary>Can I hear how a word is pronounced?</summary>
-        <p>Yes. Tap the speaker next to the Danish and your device reads it aloud. It usually works without internet. How good it sounds depends on the Danish voice installed on your device, and Broen shows you how to get a better one.</p>
-      </details>
-      <details>
-        <summary>What does &ldquo;Broen&rdquo; mean?</summary>
-        <p>Broen is Danish for &ldquo;the bridge.&rdquo; The idea is a bridge between the Danish around you and the Danish you know.</p>
-      </details>
-      <details>
-        <summary>How do I contact you?</summary>
-        <p>Write to isolatedroutes@gmail.com. Questions, ideas and corrections are welcome.</p>
-      </details>
-     </div>
+      <div class="qagrid">
+        <div class="qa"><h3>What does it cost?</h3><p>Nothing. There is no account and no ads. Only the AI part can cost money, because it runs on your own Claude or Gemini account. With Claude a question costs about half a cent. Gemini has a free tier.</p></div>
+        <div class="qa"><h3>Does it work offline?</h3><p>For studying, yes. After you open Broen once, the flashcards, the dictionary, the grammar lessons and the notes on each word work without internet. Only the AI needs a connection.</p></div>
+        <div class="qa"><h3>What level is it for?</h3><p>Mostly people past the beginner stage. The words cover every level from A1 to C2, so you can start lower if you need to.</p></div>
+        <div class="qa"><h3>Where is my progress saved?</h3><p>In your browser, on your own device. Nothing is kept on our servers. To use a second device, turn on sync with Google Drive or Dropbox, or move a backup file across. Clearing your browser&rsquo;s site data erases your progress, so keep a backup.</p></div>
+        <div class="qa"><h3>Is my information private?</h3><p>Yes. There is no account, no ads and no tracking. The only thing that leaves your device is what you send to the AI, and only when you tap it. It goes to the company you chose, not through us. Here is the <a href="../privacy.html">privacy policy</a>.</p></div>
+        <div class="qa"><h3>Can I hear how a word sounds?</h3><p>Yes. Tap the speaker next to any Danish word and your device reads it aloud. How good it sounds depends on the Danish voice installed on your device, and Broen shows you how to get a better one.</p></div>
+      </div>
     </div>
   </section>
 
@@ -706,11 +550,8 @@
 
 <footer>
   <div class="wrap">
-    <div>&copy; 2026 Isolated Routes</div>
+    <p class="about">Broen is Danish for &ldquo;the bridge.&rdquo; It is an independent app made by Isolated Routes.</p>
     <div class="links">
-      <a href="#get">Use Broen</a>
-      <a href="#about">About</a>
-      <a href="#questions">Questions</a>
       <a href="../privacy.html">Privacy</a>
       <a href="mailto:isolatedroutes@gmail.com">isolatedroutes@gmail.com</a>
     </div>
