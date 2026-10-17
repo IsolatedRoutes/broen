@@ -54,7 +54,7 @@ with sync_playwright() as p:
     nav = {a.inner_text().strip(): a.get_attribute("href") for a in page.locator("header nav a.plain").all()}
     check(nav.get("How it works") == "how-it-works/" and nav.get("FAQ") == "faq/" and nav.get("About") == "about/", "menu links go to real pages, not lower down the same page")
     check(page.locator("a.applink").count() >= 4 and all(a.get_attribute("href") == "../" for a in page.locator("a.applink").all()), "every 'open Broen' is a highlighted link to the app")
-    for d, needle in [("how-it-works", "Backup and sync"), ("faq", "How do I move to a new device?"), ("about", "The Bridge"), ("terms", "A learning aid")]:
+    for d, needle in [("how-it-works", "Backup and sync"), ("faq", "How do I move to a new device?"), ("about", "Star and check"), ("terms", "A learning aid")]:
         r = page.goto(BASE + "welcome/%s/" % d); page.wait_for_timeout(200)
         check(r.status == 200 and needle in page.content(), "welcome/%s/ opens and has the app's text" % d)
     info = open(os.path.join(ROOT, "src", "data", "infoPages.js"), encoding="utf-8").read()

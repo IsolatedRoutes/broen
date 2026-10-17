@@ -214,7 +214,7 @@ const out = (dir, html) => {
     description: "Broen means the bridge. It is a Danish learning app built on about 8,000 words and phrases, with an optional AI companion, made by Isolated Routes.",
     heading: "About Broen",
     lede: `Made by Isolated Routes. <a class="applink" href="../../">Open Broen</a> in your browser, or <a href="../#get">add it to your phone</a>.`,
-    body: `<section>${p.paragraphs.map((t) => `<p>${inline(t)}</p>`).join("\n")}</section>`,
+    body: `<section>${p.paragraphs.map((t) => `<p>${inline(t)}</p>`).join("\n")}</section>\n` + (p.sections || []).map(([h, text]) => `<section id="${slug(h)}"><h2>${esc(h)}</h2>\n${paras(text)}</section>`).join("\n"),
   }));
 }
 
