@@ -510,6 +510,16 @@
   @keyframes cy2 { 0%,28% { opacity: 0 } 33%,61% { opacity: 1 } 66%,100% { opacity: 0 } }
   @keyframes cy3 { 0%,61% { opacity: 0 } 66%,95% { opacity: 1 } 100% { opacity: 0 } }
   .cy.c1 { animation: cy1 var(--d) infinite } .cy.c2 { animation: cy2 var(--d) infinite } .cy.c3 { animation: cy3 var(--d) infinite }
+  @keyframes flipsq { 0%,16% { transform: scaleX(1) } 19% { transform: scaleX(.03) } 22%,49% { transform: scaleX(1) } 52% { transform: scaleX(.03) } 55%,82% { transform: scaleX(1) } 85% { transform: scaleX(.03) } 88%,100% { transform: scaleX(1) } }
+  .mapp .flipq { animation: flipsq var(--d) infinite; }
+  @keyframes fd1 { 0%,18.9% { opacity: 1 } 19%,100% { opacity: 0 } }
+  @keyframes fe1 { 0%,18.9% { opacity: 0 } 19%,32.9% { opacity: 1 } 33%,100% { opacity: 0 } }
+  @keyframes fd2 { 0%,32.9% { opacity: 0 } 33%,51.9% { opacity: 1 } 52%,100% { opacity: 0 } }
+  @keyframes fe2 { 0%,51.9% { opacity: 0 } 52%,65.9% { opacity: 1 } 66%,100% { opacity: 0 } }
+  @keyframes fd3 { 0%,65.9% { opacity: 0 } 66%,84.9% { opacity: 1 } 85%,100% { opacity: 0 } }
+  @keyframes fe3 { 0%,84.9% { opacity: 0 } 85%,99.9% { opacity: 1 } 100% { opacity: 0 } }
+  .fd1 { animation: fd1 var(--d) infinite } .fe1 { animation: fe1 var(--d) infinite } .fd2 { animation: fd2 var(--d) infinite } .fe2 { animation: fe2 var(--d) infinite } .fd3 { animation: fd3 var(--d) infinite } .fe3 { animation: fe3 var(--d) infinite }
+  .cy.mid.en { font-size: 28px; }
   .mapp .corner { position: absolute; color: #C9C4B6; }
   @keyframes starc { 0%,12% { stroke: #C9C4B6; fill-opacity: 0 } 18%,93% { stroke: #A1432E; fill-opacity: 1 } 100% { stroke: #C9C4B6; fill-opacity: 0 } }
   .starp { fill: #A1432E; stroke: #A1432E; animation: starc var(--d) infinite }
@@ -698,11 +708,12 @@
             <div class="sel" style="left:16px;top:12px;width:225px"><span class="cyw"><span class="cy c1">All cards</span><span class="cy c2">Verbs</span><span class="cy c3">Food &amp; Drink</span></span><svg width="18" height="18" style="color:var(--muted)"><use href="#i-dn"/></svg></div>
             <div class="sel" style="left:250px;top:12px;width:108px"><span class="cyw"><span class="cy c1">All levels</span><span class="cy c2">Basic</span><span class="cy c3">Basic</span></span><svg width="18" height="18" style="color:var(--muted)"><use href="#i-dn"/></svg></div>
             <div class="abs" style="left:16px;top:66px;font-size:12.5px;color:var(--muted);display:flex;gap:24px;align-items:center"><span><i style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#9B87AE;margin-right:8px"></i>Unknown</span><span><svg width="14" height="14" style="display:inline-block;vertical-align:-2px;margin-right:6px;color:#C9C4B6"><use href="#i-star"/></svg>Starred</span></div>
-            <div class="box mc" style="top:92px;height:124px">
-              <span class="cyw" style="position:absolute;left:0;right:0;top:40px;flex:none"><span class="cy mid da c1">hvad</span><span class="cy mid da c2">at spise</span><span class="cy mid da c3">en kage</span></span>
+            <div class="box mc flipq" style="top:92px;height:124px">
+              <span class="cyw" style="position:absolute;left:0;right:0;top:40px;flex:none"><span class="cy mid da fd1">hvad</span><span class="cy mid en fe1">what</span><span class="cy mid da fd2">at spise</span><span class="cy mid en fe2">to eat</span><span class="cy mid da fd3">en kage</span><span class="cy mid en fe3">a cake</span></span>
               <svg class="corner" style="left:16px;top:14px" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12,3 14.6,9.2 21.5,9.8 16.2,14.2 17.8,21 12,17.3 6.2,21 7.8,14.2 2.5,9.8 9.4,9.2"/></svg><svg class="corner" style="right:16px;top:14px" width="17" height="17"><use href="#i-chk"/></svg><svg class="corner" style="left:16px;bottom:14px;color:#B9B3A3" width="16" height="16"><use href="#i-bulb"/></svg><svg class="corner" style="right:16px;bottom:14px" width="16" height="16"><use href="#i-help"/></svg>
             </div>
-            <div class="tap t5" style="left:120px;top:34px"></div><div class="tap t30" style="left:120px;top:34px"></div><div class="tap t60" style="left:304px;top:34px"></div>
+            <div class="tap t10" style="left:187px;top:154px"></div><div class="tap t45" style="left:187px;top:154px"></div><div class="tap t80" style="left:187px;top:154px"></div>
+            <div class="tap t30" style="left:120px;top:34px"></div><div class="tap t60" style="left:120px;top:34px"></div>
           </div></div>
           <div class="num">The deck</div>
           <p>8,000 words, phrases and grammar concepts that you can filter for focused study by word type (nouns, verbs, prepositions and more), topic (Food &amp; Drink, Travel &amp; Transport and more), level (from Basic, A1, up to Fluent, C2), or any combination of these. The deck uses a smart learning algorithm and spaced repetition to reinforce what you know.</p>
