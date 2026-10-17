@@ -354,6 +354,12 @@
   .qa h3 { font-size: 16px; font-weight: 700; margin: 0 0 6px; }
   .qa p { margin: 0; color: #4A4F52; font-size: 15.5px; }
   footer .about { margin: 0; }
+  .intro2 { columns: 2; column-gap: 48px; margin: 0 0 32px; }
+  .intro2 p { margin: 0 0 14px; color: #4A4F52; break-inside: avoid; }
+  .features.two { grid-template-columns: 1fr 1fr; }
+  .feature p + p { margin-top: 10px; }
+  .feature .num { text-transform: none; font-size: 18px; margin-bottom: 10px; letter-spacing: .3px; }
+  @media (max-width: 860px) { .intro2 { columns: 1; } .features.two { grid-template-columns: 1fr; } }
   a.applink { color: var(--rust); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
   a.applink:hover { color: var(--terracotta); }
   .more { margin: 22px 0 0; font-weight: 600; }
@@ -495,21 +501,31 @@
   <section id="how" aria-labelledby="how-title" style="padding-top:20px">
     <div class="wrap">
       <h2 id="how-title">How it works</h2>
-      <div class="features">
+      <div class="intro2">
+        <p>Broen is a powerful Danish learning tool that uses your natural curiosity about language and the world around you to build a deeper understanding.</p>
+        <p>Built on a deck of 8,000 words, phrases and grammar notes, Broen&rsquo;s AI interface lets you dive deep into the areas that interest you, ask questions, and preserve the words and concepts you meet in daily life for later review.</p>
+        <p>It takes the flashcard into the AI era, doesn&rsquo;t force you into a fixed study program, and makes sure the Danish you meet in daily life becomes part of your learning.</p>
+        <p>Broen uses progressive learning while giving you the flexibility to shape your study around your needs, areas of focus and knowledge gaps.</p>
+      </div>
+      <div class="features two">
         <div class="feature">
-          <div class="num">1</div>
-          <h3>You decide what to study</h3>
-          <p>Study only the level you want, from A1 to C2, or only one topic, like Food &amp; Drink, or only verbs. There is no course to follow, and the 100 grammar lessons are optional.</p>
+          <div class="num">The deck</div>
+          <p>8,000 words, phrases and grammar concepts that you can filter for focused study by word type (nouns, verbs, prepositions and more), topic (Food &amp; Drink, Travel &amp; Transport and more), level (from Basic, A1, up to Fluent, C2), or any combination of these. The deck uses a smart learning algorithm and spaced repetition to reinforce what you know.</p>
         </div>
         <div class="feature">
-          <div class="num">2</div>
-          <h3>Ask about any word</h3>
-          <p>Type a question the way you would ask a teacher: why it is <i>en bil</i> but <i>et hus</i>, what a phrase really means, how to say something politely. Keep going with follow-up questions. The answers come from Claude or Gemini, through your own account.</p>
+          <div class="num">Star and check</div>
+          <p>Star a card you want to focus on. Starred cards come up more often.</p>
+          <p>Check a card to mark it as known. Known cards are not shown again as themselves, but they are tracked so you can see your progress. They come back later in more advanced forms (for example, <i>at g&aring;</i> (to go) later appears as <i>gik</i> (went) and <i>er g&aring;et</i> (has gone)) to move your learning forward.</p>
         </div>
         <div class="feature">
-          <div class="num">3</div>
-          <h3>Keep the words you look up</h3>
-          <p>Normally a word you look up is gone as soon as you read the answer. In Broen you can photograph a sign, translate it, see why the sentence is built the way it is, and pick words from it. They come back later as flashcards.</p>
+          <div class="num">Lightbulb and question mark</div>
+          <p>Tap the lightbulb on any card to go deeper. It builds the connections that help you pick up the language naturally. For example, the lightbulb on <i>dansk</i> (Danish) shows the related word <i>udansk</i> (un-Danish), how to tell <i>Danmark</i> (Denmark) from <i>dansk</i> (the language) and <i>en dansker</i> (a Dane), and how other country words like <i>svensk</i> (Swedish) follow the same pattern.</p>
+          <p>Tap the question mark on a card to ask follow-up questions about it.</p>
+        </div>
+        <div class="feature">
+          <div class="num">Assistant</div>
+          <p>When you meet Danish in daily life, whether you are reading signs, watching the news or messaging with friends, take a photo or paste the text into the Assistant tab. Broen translates it. Then you can analyze the sentence to understand how it is built and why, and to spot mistakes in Danish you wrote. Then use Extract text to pull out the key words and add them to your deck for later review.</p>
+          <p>This matters because it focuses you on the words you actually need, and they do not disappear from your memory.</p>
         </div>
       </div>
       <p class="more"><a href="how-it-works/">Read the full guide to how Broen works &rarr;</a></p>

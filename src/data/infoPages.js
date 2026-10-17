@@ -10,32 +10,11 @@ const BASE_INFO_PAGES = [
     id: "about",
     title: "About",
     paragraphs: [
-      "Broen is a powerful Danish learning tool that uses your natural curiosity about language and the world around you to build a deeper understanding.",
-      "Built on a deck of 8,000 words, phrases and grammar notes, Broen\u2019s AI interface lets you dive deep into the areas that interest you, ask questions, and preserve the words and concepts you meet in daily life for later review.",
-      "It takes the flashcard into the AI era, doesn\u2019t force you into a fixed study program, and makes sure the Danish you meet in daily life becomes part of your learning.",
-      "Broen uses progressive learning while giving you the flexibility to shape your study around your needs, areas of focus and knowledge gaps.",
-    ],
-    sections: [
-      [
-        "The deck",
-        "8,000 words, phrases and grammar concepts that you can filter for focused study by word type (nouns, verbs, prepositions and more), topic (Food & Drink, Travel & Transport and more), level (from Basic, A1, up to Fluent, C2), or any combination of these. The deck uses a smart learning algorithm and spaced repetition to reinforce what you know.",
-      ],
-      [
-        "Star and check",
-        "Star a card you want to focus on. Starred cards come up more often.\n\nCheck a card to mark it as known. Known cards are not shown again as themselves, but they are tracked so you can see your progress. They come back later in more advanced forms (for example, at g\u00e5 (to go) later appears as gik (went) and er g\u00e5et (has gone)) to move your learning forward.",
-      ],
-      [
-        "Lightbulb",
-        "Tap the lightbulb on any card to go deeper. It builds the connections that help you pick up the language naturally. For example, the lightbulb on \u201cdansk\u201d (Danish) shows the related word udansk (un-Danish), how to tell Danmark (Denmark) from dansk (the language) and en dansker (a Dane), and how other country words like svensk (Swedish) follow the same pattern.",
-      ],
-      [
-        "Question mark",
-        "Tap the question mark on a card to ask follow-up questions about it.",
-      ],
-      [
-        "Assistant",
-        "When you meet Danish in daily life, whether you are reading signs, watching the news or messaging with friends, take a photo or paste the text into the Assistant tab. Broen translates it. Then you can analyze the sentence to understand how it is built and why, and to spot mistakes in Danish you wrote. Then use Extract text to pull out the key words and add them to your deck for later review.\n\nThis matters because it focuses you on the words you actually need, and they do not disappear from your memory.",
-      ],
+      "Broen\u2014meaning \u201cThe Bridge\u201d\u2014is a Danish learning app for curious people who learn best by tapping into the world around them.",
+      "It\u2019s built on a deck of about 8,000 words and phrases that you can add to by uploading photos and text from the real Danish you encounter in your daily life.",
+      "Go deeper whenever you\u2019re curious: The optional AI companion, which runs through your own Claude (Anthropic) or Gemini (Google) account, enables you to ask questions, deep dive on grammar, and make connections between words. Words and sentences can be read aloud in Danish.",
+      "You can upload a photo or paste Danish text and the AI assistant will translate it, analyze the sentence structure, and pick out key words that you can turn into cards you keep and review.",
+      "Broen lets you study by level, word type or topic, and words you know come back later in new forms, spaced over days, so you keep meeting them without drilling.",
     ],
   },
   {
