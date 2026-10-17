@@ -360,6 +360,85 @@
   .feature p + p { margin-top: 10px; }
   .feature .num { text-transform: none; font-size: 18px; margin-bottom: 10px; letter-spacing: .3px; }
   @media (max-width: 860px) { .intro2 { columns: 1; } .features.two { grid-template-columns: 1fr; } }
+  /* tiny looping demos inside the feature cards; the resting state (base styles) is the finished picture, so reduced motion shows that */
+  .mini { --d: 9s; position: relative; height: 150px; margin: 0 0 16px; border-radius: 12px; background: var(--paper); border: 1px solid var(--line); overflow: hidden; font-size: 13px; line-height: 1.3; color: var(--ink); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; }
+  .mini .t { color: var(--muted); font-size: 12px; }
+  @keyframes r5{0%,5%{opacity:0;transform:translateY(5px)}10%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r5{animation:r5 var(--d) infinite}
+  @keyframes r10{0%,10%{opacity:0;transform:translateY(5px)}15%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r10{animation:r10 var(--d) infinite}
+  @keyframes r15{0%,15%{opacity:0;transform:translateY(5px)}20%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r15{animation:r15 var(--d) infinite}
+  @keyframes r20{0%,20%{opacity:0;transform:translateY(5px)}25%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r20{animation:r20 var(--d) infinite}
+  @keyframes r25{0%,25%{opacity:0;transform:translateY(5px)}30%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r25{animation:r25 var(--d) infinite}
+  @keyframes r30{0%,30%{opacity:0;transform:translateY(5px)}35%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r30{animation:r30 var(--d) infinite}
+  @keyframes r35{0%,35%{opacity:0;transform:translateY(5px)}40%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r35{animation:r35 var(--d) infinite}
+  @keyframes r40{0%,40%{opacity:0;transform:translateY(5px)}45%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r40{animation:r40 var(--d) infinite}
+  @keyframes r45{0%,45%{opacity:0;transform:translateY(5px)}50%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r45{animation:r45 var(--d) infinite}
+  @keyframes r50{0%,50%{opacity:0;transform:translateY(5px)}55%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r50{animation:r50 var(--d) infinite}
+  @keyframes r55{0%,55%{opacity:0;transform:translateY(5px)}60%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r55{animation:r55 var(--d) infinite}
+  @keyframes r60{0%,60%{opacity:0;transform:translateY(5px)}65%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r60{animation:r60 var(--d) infinite}
+  @keyframes r65{0%,65%{opacity:0;transform:translateY(5px)}70%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r65{animation:r65 var(--d) infinite}
+  @keyframes r70{0%,70%{opacity:0;transform:translateY(5px)}75%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r70{animation:r70 var(--d) infinite}
+  @keyframes r75{0%,75%{opacity:0;transform:translateY(5px)}80%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r75{animation:r75 var(--d) infinite}
+  @keyframes r80{0%,80%{opacity:0;transform:translateY(5px)}85%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r80{animation:r80 var(--d) infinite}
+  @keyframes r85{0%,85%{opacity:0;transform:translateY(5px)}90%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r85{animation:r85 var(--d) infinite}
+  @keyframes st1 { 0%,28% { opacity: 1 } 33%,95% { opacity: 0 } 100% { opacity: 1 } }
+  @keyframes st2 { 0%,28% { opacity: 0 } 33%,61% { opacity: 1 } 66%,100% { opacity: 0 } }
+  @keyframes st3 { 0%,61% { opacity: 0 } 66%,95% { opacity: 1 } 100% { opacity: 0 } }
+  .st { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 10px; white-space: nowrap; }
+  .st1 { opacity: 0; animation: st1 var(--d) infinite } .st2 { opacity: 1; animation: st2 var(--d) infinite } .st3 { opacity: 0; animation: st3 var(--d) infinite }
+  .mk-row { display: flex; gap: 8px; }
+  .mk-pill { position: relative; display: inline-block; height: 28px; width: 118px; border: 1px solid var(--line); background: #fff; border-radius: 8px; }
+  .mk-pill.sm { width: 84px; }
+  .mk-card { position: relative; width: 200px; height: 62px; border: 1px solid var(--line); background: var(--card); border-radius: 12px; }
+  .mk-card .da, .mk-big .da { font-family: var(--serif); font-size: 20px; color: var(--terracotta); }
+  .mk-card .t { margin-top: -2px; }
+  .mk-big { position: relative; width: 210px; height: 92px; border: 1px solid var(--line); background: var(--card); border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+  .mk-big svg { position: absolute; }
+  @keyframes starfill { 0%,12% { fill-opacity: 0 } 18%,93% { fill-opacity: 1 } 100% { fill-opacity: 0 } }
+  @keyframes chkfill { 0%,42% { fill-opacity: 0; opacity: 0 } 48%,93% { fill-opacity: 1; opacity: 1 } 100% { fill-opacity: 0; opacity: 0 } }
+  .starp { fill: #E3A93C; fill-opacity: 1; animation: starfill var(--d) infinite }
+  .chkc { fill: var(--sage); fill-opacity: 1; animation: chkfill var(--d) infinite }
+  .tick { animation: chkfill var(--d) infinite }
+  @keyframes pulse { 0%,5% { transform: scale(1); color: var(--muted) } 10% { transform: scale(1.35); color: var(--terracotta) } 16%,100% { transform: scale(1); color: var(--muted) } }
+  .pulse { color: var(--muted); animation: pulse var(--d) infinite }
+  @keyframes panel { 0%,14% { transform: translateY(105%) } 26%,93% { transform: none } 100% { transform: translateY(105%) } }
+  .m-bulb .panel { position: absolute; left: 14px; right: 14px; bottom: 0; top: 14px; background: #fff; border: 1px solid var(--line); border-bottom: 0; border-radius: 12px 12px 0 0; padding: 10px 16px; animation: panel var(--d) infinite; display: flex; flex-direction: column; gap: 3px; }
+  .m-bulb .panel b { font-family: var(--serif); font-weight: 400; font-size: 15px; margin-bottom: 2px; }
+  .m-bulb .panel span em { font-style: normal; color: var(--muted); }
+  .m-bulb .small { position: absolute; left: 50%; top: 22px; margin-left: -28px; }
+  .m-q { gap: 8px; }
+  .m-q .bar { position: relative; width: 250px; height: 30px; border: 1px solid var(--line); background: #fff; border-radius: 10px; display: flex; align-items: center; padding: 0 12px; }
+  @keyframes typing { 0%,16% { clip-path: inset(0 100% 0 0) } 42%,93% { clip-path: inset(0 0 0 0) } 100% { clip-path: inset(0 100% 0 0) } }
+  .typed { animation: typing var(--d) steps(19, end) infinite; white-space: nowrap; }
+  .m-q .ans { width: 250px; padding: 0 4px; color: #4A4F52; }
+  .m-a { flex-direction: row; gap: 12px; padding: 0 14px; }
+  .m-a .sign { flex: 0 0 auto; border: 3px solid #3F5A55; border-radius: 6px; background: #FAF8F2; padding: 6px 10px; font-family: var(--serif); font-weight: 700; font-style: italic; font-size: 13px; text-align: center; line-height: 1.2; }
+  .m-a .out { display: flex; flex-direction: column; gap: 7px; min-width: 0; }
+  .m-a .chips { display: flex; gap: 6px; flex-wrap: wrap; }
+  .m-a .chip { background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; font-size: 12.5px; white-space: nowrap; }
+  .m-a .chip::before { content: "\2713 "; color: var(--sage); font-weight: 700; }
+  .m-a .added { color: var(--sage); font-weight: 700; font-size: 12.5px; }
+  .features.six { grid-template-columns: repeat(6, 1fr); }
+  .features.six .feature { grid-column: span 2; }
+  .features.six .feature.wide { grid-column: span 3; }
+  @media (max-width: 860px) { .features.six { grid-template-columns: 1fr; } .features.six .feature, .features.six .feature.wide { grid-column: auto; } }
+  @media (prefers-reduced-motion: reduce) { .mini *, .mini { animation: none !important; } }
   a.applink { color: var(--rust); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
   a.applink:hover { color: var(--terracotta); }
   .more { margin: 22px 0 0; font-weight: 600; }
@@ -405,7 +484,7 @@
         </div>
       </div>
       <div class="demo">
-        <div class="phone" role="img" aria-label="A short demonstration of Broen: the lightbulb on a flashcard, asking a question, photographing a sign, translating a pasted text, analyzing a sentence and extracting words to learn.">
+        <div class="phone" role="img" aria-label="A short demonstration of Broen: the lightbulb on a flashcard, photographing a sign to translate it, and picking words from it to add to your deck.">
           <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
 <symbol id="i-dl" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="4" x2="12" y2="15"/><polyline points="7,10 12,15 17,10"/><line x1="5" y1="19" x2="19" y2="19"/></g></symbol>
 <symbol id="i-key" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="12" r="4"/><line x1="12" y1="12" x2="21" y2="12"/><line x1="17" y1="12" x2="17" y2="16"/><line x1="20" y1="12" x2="20" y2="15"/></g></symbol>
@@ -439,20 +518,10 @@
 <div class="grey" style="margin-top:12px;font-size:14px;line-height:26px"><div><span style="color:var(--terracotta)">Hvad er det?</span> <span class="en">— What is that?</span></div><div><span style="color:var(--terracotta)">Hvad hedder du?</span> <span class="en">— What is your name?</span></div><div><span style="color:var(--terracotta)">Hvad laver du?</span> <span class="en">— What are you doing?</span></div>
 <div style="margin-top:10px;line-height:22px;color:var(--ink)">“Hvad” means “what” and asks about a thing: Hvad er det? (What is that?). For a person, use hvem: Hvem er det? (Who is that?). Said alone, Hvad? means “Pardon?”, but it can sound blunt, so Undskyld? (Excuse me?) is more polite.</div>
 <div class="lab" style="margin-top:12px">Related words</div><div><span style="color:var(--terracotta)">hvilken</span> <span class="en">— which</span></div><div><span style="color:var(--terracotta)">hvorfor</span> <span class="en">— why</span></div><div><span style="color:var(--terracotta)">hvordan</span> <span class="en">— how</span></div><div><span style="color:var(--terracotta)">hvor</span> <span class="en">— where</span></div></div></div></div>
-<div class="sc s2"><div class="cur c2"></div><div class="hd"><span class="logo">Dansk<i>.</i></span><div class="r"><span><svg width="13" height="13" style=""><use href="#i-dl"/></svg>Backup</span><span><svg width="14" height="14" style=""><use href="#i-key"/></svg>AI settings</span><svg width="22" height="22" style=""><use href="#i-menu"/></svg></div></div><div class="pills" style="top:153px"><b class="sel2">Chat</b><b class="">Enter text</b><b class="">Add photo</b></div>
-<div class="box mc" style="top:195px;height:339px"></div>
-<div class="ex"><div class="lab" style="border:0;padding:0;margin:0;font-style:normal;color:var(--muted)">Examples</div><div>Why is it “en bil” not “et bil”?</div><div>Make 10 cards with vocabulary about travel</div><div>When do I use “ikke” in a sentence?</div></div>
-<div class="ans"><p>The verb always comes second in a Danish sentence. If you start with “i dag”, the subject (jeg) moves behind the verb.</p><p>Jeg spiser i dag (I eat today)<br>I dag spiser jeg (Today I eat)</p></div><div class="sv">+ Save as flashcard</div><div class="inp"><span class="ph">Ask or give instructions…</span></div><div class="typed">Why not “I dag jeg spiser”?</div><div class="send"><svg width="22" height="22" style=""><use href="#i-send"/></svg></div><div class="tb"><div class=""><svg width="20" height="20" style=""><use href="#i-cap"/></svg>Study</div><div class="act"><svg width="20" height="20" style=""><use href="#i-chat"/></svg>Assistant</div><div class=""><svg width="20" height="20" style=""><use href="#i-plus"/></svg>Add</div><div class=""><svg width="20" height="20" style=""><use href="#i-aa"/></svg>Dictionary</div></div><div class="tap t1" style="left:150px;top:500px"></div><div class="tap t2" style="left:307px;top:500px"></div></div>
 <div class="sc s3"><div class="cur gen" style="--x:70px;--y:486px"></div><div class="hd"><span class="logo">Dansk<i>.</i></span><div class="r"><span><svg width="13" height="13" style=""><use href="#i-dl"/></svg>Backup</span><span><svg width="14" height="14" style=""><use href="#i-key"/></svg>AI settings</span><svg width="22" height="22" style=""><use href="#i-menu"/></svg></div></div><div class="pills" style="top:72px"><b class="">Chat</b><b class="">Enter text</b><b class="sel2">Add photo</b></div>
 <div class="box mc" style="top:115px;height:338px"></div>
 <div class="shot abs" style="left:27px;width:321px;top:177px"><div class="sign"><b>Åbent 9–17</b><span>Lukket søn- og<br>helligdage</span></div></div>
 <div class="acts"><b class="g go">Translate</b><b class="p">Analyze sentence</b><b class="r">Extract text</b></div><div class="clr">Clear</div><div class="res mc"><div class="l"><svg width="13" height="13" style=""><use href="#i-vol"/></svg>Listen to the Danish</div><div class="e">Open 9–17. Closed on Sundays and public holidays.</div><div class="cat"><u>No category</u><i><svg width="16" height="16" style="color:#fff"><use href="#i-plus"/></svg></i></div></div><div class="tb"><div class=""><svg width="20" height="20" style=""><use href="#i-cap"/></svg>Study</div><div class="act"><svg width="20" height="20" style=""><use href="#i-chat"/></svg>Assistant</div><div class=""><svg width="20" height="20" style=""><use href="#i-plus"/></svg>Add</div><div class=""><svg width="20" height="20" style=""><use href="#i-aa"/></svg>Dictionary</div></div><div class="tap"></div></div>
-<div class="sc s4"><div class="cur gen" style="--x:70px;--y:486px"></div><div class="hd"><span class="logo">Dansk<i>.</i></span><div class="r"><span><svg width="13" height="13" style=""><use href="#i-dl"/></svg>Backup</span><span><svg width="14" height="14" style=""><use href="#i-key"/></svg>AI settings</span><svg width="22" height="22" style=""><use href="#i-menu"/></svg></div></div><div class="pills" style="top:72px"><b class="">Chat</b><b class="sel2">Enter text</b><b class="">Add photo</b></div><div class="box mc" style="top:115px;height:338px"><div class="tx">Jeg glæder mig til at se dig. Jeg har købt en gave.</div><div class="xx" style="color:var(--muted)"><svg width="18" height="18" style=""><use href="#i-x"/></svg></div></div><div class="acts"><b class="g go">Translate</b><b class="p">Analyze sentence</b><b class="r">Extract text</b></div><div class="clr">Clear</div><div class="res mc"><div class="l"><svg width="13" height="13" style=""><use href="#i-vol"/></svg>Listen to the Danish</div><div class="e">I am looking forward to seeing you. I have bought a gift.</div><div class="cat"><u>No category</u><i><svg width="16" height="16" style="color:#fff"><use href="#i-plus"/></svg></i></div></div><div class="tb"><div class=""><svg width="20" height="20" style=""><use href="#i-cap"/></svg>Study</div><div class="act"><svg width="20" height="20" style=""><use href="#i-chat"/></svg>Assistant</div><div class=""><svg width="20" height="20" style=""><use href="#i-plus"/></svg>Add</div><div class=""><svg width="20" height="20" style=""><use href="#i-aa"/></svg>Dictionary</div></div><div class="tap"></div></div>
-<div class="sc s5"><div class="cur gen" style="--x:188px;--y:486px"></div><div class="hd"><span class="logo">Dansk<i>.</i></span><div class="r"><span><svg width="13" height="13" style=""><use href="#i-dl"/></svg>Backup</span><span><svg width="14" height="14" style=""><use href="#i-key"/></svg>AI settings</span><svg width="22" height="22" style=""><use href="#i-menu"/></svg></div></div><div class="pills" style="top:72px"><b class="">Chat</b><b class="sel2">Enter text</b><b class="">Add photo</b></div><div class="box mc" style="top:115px;height:338px"><div class="tx">Jeg glæder mig til at se dig. Jeg har købt en gave.</div><div class="xx" style="color:var(--muted)"><svg width="18" height="18" style=""><use href="#i-x"/></svg></div></div><div class="acts"><b class="g">Translate</b><b class="p go">Analyze sentence</b><b class="r">Extract text</b></div><div class="clr">Clear</div><div class="tb"><div class=""><svg width="20" height="20" style=""><use href="#i-cap"/></svg>Study</div><div class="act"><svg width="20" height="20" style=""><use href="#i-chat"/></svg>Assistant</div><div class=""><svg width="20" height="20" style=""><use href="#i-plus"/></svg>Add</div><div class=""><svg width="20" height="20" style=""><use href="#i-aa"/></svg>Dictionary</div></div><div class="tap"></div><div class="back"></div>
-<div class="pop mc"><div style="height:22px"></div><div style="display:flex;gap:12px;align-items:center"><span class="chk"><svg width="16" height="16" style=""><use href="#i-ok"/></svg></span><span class="da" style="font-size:15.5px;flex:1;line-height:1.25">glæder mig til = look forward to</span><svg width="18" height="18" style="color:var(--muted)"><use href="#i-up"/></svg><span class="x"><svg width="18" height="18" style=""><use href="#i-x"/></svg></span></div>
-<div style="margin:6px 0 0 34px;color:var(--muted);font-size:12.5px">word for word: gladden myself to</div>
-<div style="margin:8px 0 0 34px;font-size:14px;line-height:22px">English says look forward to. Danish says glæde sig til, and the little word changes with the person: Jeg glæder mig (I look forward), Du glæder dig (You look forward).</div>
-<div style="margin:10px 0 0 34px;color:var(--muted);text-decoration:underline;font-size:12.5px">More</div><div class="btnr" style="margin-top:20px">Add selected to deck</div></div></div>
 <div class="sc s6"><div class="cur gen" style="--x:305px;--y:486px"></div><div class="hd"><span class="logo">Dansk<i>.</i></span><div class="r"><span><svg width="13" height="13" style=""><use href="#i-dl"/></svg>Backup</span><span><svg width="14" height="14" style=""><use href="#i-key"/></svg>AI settings</span><svg width="22" height="22" style=""><use href="#i-menu"/></svg></div></div><div class="pills" style="top:72px"><b class="">Chat</b><b class="sel2">Enter text</b><b class="">Add photo</b></div><div class="box mc" style="top:115px;height:338px"><div class="tx">Jeg glæder mig til at se dig. Jeg har købt en gave.</div><div class="xx" style="color:var(--muted)"><svg width="18" height="18" style=""><use href="#i-x"/></svg></div></div><div class="acts"><b class="g">Translate</b><b class="p">Analyze sentence</b><b class="r go">Extract text</b></div><div class="clr">Clear</div><div class="tb"><div class=""><svg width="20" height="20" style=""><use href="#i-cap"/></svg>Study</div><div class="act"><svg width="20" height="20" style=""><use href="#i-chat"/></svg>Assistant</div><div class=""><svg width="20" height="20" style=""><use href="#i-plus"/></svg>Add</div><div class=""><svg width="20" height="20" style=""><use href="#i-aa"/></svg>Dictionary</div></div><div class="tap"></div><div class="back"></div>
 <div class="pop mc"><div style="height:22px;border-bottom:1px solid var(--line)"></div><div style="margin-top:12px;color:var(--muted);font-size:13px;line-height:15.5px">Suggested vocabulary — uncheck any you don't want, and adjust the category if it's not quite right.</div><div class="vrow"><span class="chk"><svg width="16" height="16" style=""><use href="#i-ok"/></svg></span><span class="w"><span style='color:var(--terracotta)'>at glæde sig til</span> <span class='en'>— to look forward to</span></span><u>No category</u></div><div class="vrow"><span class="chk"><svg width="16" height="16" style=""><use href="#i-ok"/></svg></span><span class="w"><span style='color:var(--terracotta)'>en gave</span> <span class='en'>— a gift</span></span><u>No category</u></div><div class="btnr" style="margin-top:20px">Add selected to deck</div><span class="x"><svg width="18" height="18" style=""><use href="#i-x"/></svg></span></div></div>
           </div>
@@ -464,11 +533,8 @@
       (function () {
         var steps = [
           ["See how a word is used", "Example sentences and the words it gets mixed up with."],
-          ["Ask a question", "Ask why Danish does what it does, like its word order."],
           ["Photograph a sign", "Translate a sign or a menu."],
-          ["Paste a text", "Paste a message and translate it."],
-          ["Analyze a sentence", "Get the one thing worth learning, like how Danish says look forward to."],
-          ["Pick words to keep", "Tick the words you want and they become flashcards."]
+          ["Pick words to keep", "Tick the words you want and they are added to your deck."]
         ];
         var scs = document.querySelectorAll(".demo .sc"), dots = document.getElementById("dots");
         var t = document.getElementById("capT"), d = document.getElementById("capD");
@@ -489,7 +555,7 @@
           t.textContent = steps[n][0]; d.textContent = steps[n][1];
           Array.prototype.forEach.call(dots.children, function (b, k) { b.setAttribute("aria-current", k === n ? "true" : "false"); });
         }
-        var lens = still ? [4500, 4500, 4500, 4500, 4500, 4500] : [9500, 8800, 6200, 6200, 6200, 6200];
+        var lens = still ? [4500, 4500, 4500] : [9500, 6200, 6200];
         function next() { show((i + 1) % steps.length); timer = setTimeout(next, lens[i]); }
         show(0);
         timer = setTimeout(next, lens[0]);
@@ -507,22 +573,57 @@
         <p>It takes the flashcard into the AI era, doesn&rsquo;t force you into a fixed study program, and makes sure the Danish you meet in daily life becomes part of your learning.</p>
         <p>Broen uses progressive learning while giving you the flexibility to shape your study around your needs, areas of focus and knowledge gaps.</p>
       </div>
-      <div class="features two">
+      <div class="features six">
         <div class="feature">
+          <div class="mini m-deck" aria-hidden="true">
+            <div class="mk-row">
+              <span class="mk-pill"><span class="st st1">All cards</span><span class="st st2">Verbs</span><span class="st st3">Food &amp; Drink</span></span>
+              <span class="mk-pill sm"><span class="st st1">All levels</span><span class="st st2">Basic</span><span class="st st3">Basic</span></span>
+            </div>
+            <div class="mk-card"><span class="st st1"><span class="da">hvad</span><span class="t">what</span></span><span class="st st2"><span class="da">at spise</span><span class="t">to eat</span></span><span class="st st3"><span class="da">en kage</span><span class="t">a cake</span></span></div>
+          </div>
           <div class="num">The deck</div>
           <p>8,000 words, phrases and grammar concepts that you can filter for focused study by word type (nouns, verbs, prepositions and more), topic (Food &amp; Drink, Travel &amp; Transport and more), level (from Basic, A1, up to Fluent, C2), or any combination of these. The deck uses a smart learning algorithm and spaced repetition to reinforce what you know.</p>
         </div>
         <div class="feature">
+          <div class="mini m-star" aria-hidden="true" style="--d:8s">
+            <div class="mk-big">
+              <svg style="left:12px;top:12px" width="20" height="20" viewBox="0 0 24 24" fill="none"><polygon class="starp" points="12,3 14.6,9.2 21.5,9.8 16.2,14.2 17.8,21 12,17.3 6.2,21 7.8,14.2 2.5,9.8 9.4,9.2" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+              <svg style="right:12px;top:12px" width="20" height="20" viewBox="0 0 24 24" fill="none"><circle class="chkc" cx="12" cy="12" r="9.5" stroke="currentColor" stroke-width="1.8"/><polyline class="tick" points="7.5,12.3 10.5,15.5 16.5,8.5" stroke="#fff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <span class="da">at gå</span><span class="t">to go</span>
+            </div>
+            <div class="t r55" style="--d:8s">Later it comes back as <b style="color:var(--ink)">gik</b> and <b style="color:var(--ink)">er gået</b></div>
+          </div>
           <div class="num">Star and check</div>
           <p>Star a card you want to focus on. Starred cards come up more often.</p>
           <p>Check a card to mark it as known. Known cards are not shown again as themselves, but they are tracked so you can see your progress. They come back later in more advanced forms (for example, <i>at g&aring;</i> (to go) later appears as <i>gik</i> (went) and <i>er g&aring;et</i> (has gone)) to move your learning forward.</p>
         </div>
         <div class="feature">
-          <div class="num">Lightbulb and question mark</div>
+          <div class="mini m-bulb" aria-hidden="true" style="--d:9s">
+            <div class="mk-big" style="margin-top:-30px"><span class="da">dansk</span><span class="t">Danish</span><svg class="pulse" style="left:12px;bottom:10px" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.7.8 1 1.4 1 2.5h6c0-1.1.3-1.7 1-2.5A6 6 0 0 0 12 3z"/></svg></div>
+            <div class="panel"><b>dansk</b><span class="r30">udansk <em>un-Danish</em></span><span class="r40">Danmark <em>Denmark</em></span><span class="r50">en dansker <em>a Dane</em></span><span class="r60">svensk <em>Swedish</em></span></div>
+          </div>
+          <div class="num">Lightbulb</div>
           <p>Tap the lightbulb on any card to go deeper. It builds the connections that help you pick up the language naturally. For example, the lightbulb on <i>dansk</i> (Danish) shows the related word <i>udansk</i> (un-Danish), how to tell <i>Danmark</i> (Denmark) from <i>dansk</i> (the language) and <i>en dansker</i> (a Dane), and how other country words like <i>svensk</i> (Swedish) follow the same pattern.</p>
+        </div>
+        <div class="feature wide">
+          <div class="mini m-q" aria-hidden="true" style="--d:8s">
+            <div class="mk-big" style="width:250px;height:44px;flex-direction:row;gap:10px"><span class="da" style="font-size:18px">et hus</span><span class="t">a house</span><svg class="pulse" style="right:12px" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9.5"/><path d="M9.3 9.3a2.7 2.7 0 1 1 3.9 2.4c-.9.5-1.2 1-1.2 2"/><line x1="12" y1="17" x2="12" y2="17.01"/></svg></div>
+            <div class="bar"><span class="typed">What is the plural?</span></div>
+            <div class="ans r45">Huse. <span class="t">Et hus, flere huse.</span></div>
+          </div>
+          <div class="num">Question mark</div>
           <p>Tap the question mark on a card to ask follow-up questions about it.</p>
         </div>
-        <div class="feature">
+        <div class="feature wide">
+          <div class="mini m-a" aria-hidden="true">
+            <div class="sign">&Aring;bent 9&ndash;17<br>Lukket s&oslash;n- og<br>helligdage</div>
+            <div class="out">
+              <div class="r20">Open 9&ndash;17. Closed on Sundays and public holidays.</div>
+              <div class="chips"><span class="chip r45">&aring;bent <span class="t">open</span></span><span class="chip r55">lukket <span class="t">closed</span></span></div>
+              <div class="added r70">Added to your deck</div>
+            </div>
+          </div>
           <div class="num">Assistant</div>
           <p>When you meet Danish in daily life, whether you are reading signs, watching the news or messaging with friends, take a photo or paste the text into the Assistant tab. Broen translates it. Then you can analyze the sentence to understand how it is built and why, and to spot mistakes in Danish you wrote. Then use Extract text to pull out the key words and add them to your deck for later review.</p>
           <p>This matters because it focuses you on the words you actually need, and they do not disappear from your memory.</p>

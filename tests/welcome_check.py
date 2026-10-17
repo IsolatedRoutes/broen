@@ -26,7 +26,7 @@ check({n["@type"] for n in ld["@graph"]} == {"SoftwareApplication", "FAQPage"}, 
 faq_q = [q["name"] for n in ld["@graph"] if n["@type"] == "FAQPage" for q in n["mainEntity"]]
 check(all(q.replace("&ldquo;", "").split("?")[0][:20] in html for q in faq_q), "every structured-data question is also visible on the page")
 check(html.count("<h1") == 1, "exactly one main heading")
-check(html.count('class="sc s') == 6, "hero demo has six scenes")
+check(html.count('class="sc s') == 3, "hero demo has three scenes")
 check("Your bridge to" in html, "headline is the app tagline")
 check(all(f'id="{i}"' in html for i in ("get", "questions", "how")), "the page has How it works, On your phone and Questions sections")
 check("Add to Home Screen" in html and "Install app" in html and "install</b> icon" in html, "install steps for iPhone, Android and computer are shown")
