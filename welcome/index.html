@@ -278,13 +278,6 @@
   .dots button { width: 9px; height: 9px; padding: 0; border-radius: 50%; border: 0; background: var(--line); cursor: pointer; }
   .dots button[aria-current="true"] { background: var(--terracotta); }
   .dots button:focus-visible { outline: 2px solid var(--fjord); outline-offset: 3px; }
-  @media (prefers-reduced-motion: reduce) {
-    .sc *, .sc.on * { animation: none !important; }
-    .sc .pop, .sc .res, .sc .ans, .sc .back, .sc .sv { opacity: 1 !important; transform: none !important; }
-    .s2 .ex, .s2 .typed, .cur, .tap { display: none; }
-    .acts b.go { box-shadow: 0 0 0 3px var(--paper), 0 0 0 5px var(--c); }
-  }
-
   section { padding-block: 64px; }
   h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(28px, 3.6vw, 38px); line-height: 1.2; margin: 0 0 14px; text-wrap: balance; }
   .intro { color: #4A4F52; max-width: 36em; margin: 0 0 40px; }
@@ -360,86 +353,207 @@
   .feature p + p { margin-top: 10px; }
   .feature .num { text-transform: none; font-size: 18px; margin-bottom: 10px; letter-spacing: .3px; }
   @media (max-width: 860px) { .intro2 { columns: 1; } .features.two { grid-template-columns: 1fr; } }
-  /* tiny looping demos inside the feature cards; the resting state (base styles) is the finished picture, so reduced motion shows that */
-  .mini { --d: 9s; position: relative; height: 150px; margin: 0 0 16px; border-radius: 12px; background: var(--paper); border: 1px solid var(--line); overflow: hidden; font-size: 13px; line-height: 1.3; color: var(--ink); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; }
-  .mini .t { color: var(--muted); font-size: 12px; }
-  @keyframes r5{0%,5%{opacity:0;transform:translateY(5px)}10%,93%{opacity:1;transform:none}100%{opacity:0}}
+/* Small looping demos inside the feature cards. Each is a crop of a real app screen (same classes as the hero phone), scaled to the card by a few lines of script. They always play. */
+  .mini { --d: 9s; position: relative; width: 100%; max-width: 375px; margin: 0 auto 18px; border-radius: 16px; border: 1px solid var(--line); background: var(--paper); overflow: hidden; }
+  .mapp { position: absolute; left: 0; top: 0; width: 375px; height: calc(var(--H) * 1px); transform: scale(var(--k, .7)); transform-origin: 0 0; font-family: var(--sans); color: var(--ink); line-height: 1.4; font-size: 14px; }
+  .mapp svg { display: block; }
+  .mapp .sel { top: auto; }
+  .mapp .box { border-radius: 22px; }
+  @keyframes r5{0%,5%{opacity:0;transform:translateY(8px)}10%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r5{animation:r5 var(--d) infinite}
-  @keyframes r10{0%,10%{opacity:0;transform:translateY(5px)}15%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k5{0%,5%{opacity:0}10%,93%{opacity:1}100%{opacity:0}}
+  .k5{animation:k5 var(--d) infinite}
+  @keyframes t5{0%,5%{opacity:0;transform:scale(.4)}9%{opacity:1}15%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t5{animation:t5 var(--d) infinite}
+  @keyframes p5{0%,5%{transform:none;box-shadow:none}8%{transform:scale(.93)}13%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p5{animation:p5 var(--d) infinite}
+  @keyframes r10{0%,10%{opacity:0;transform:translateY(8px)}15%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r10{animation:r10 var(--d) infinite}
-  @keyframes r15{0%,15%{opacity:0;transform:translateY(5px)}20%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k10{0%,10%{opacity:0}15%,93%{opacity:1}100%{opacity:0}}
+  .k10{animation:k10 var(--d) infinite}
+  @keyframes t10{0%,10%{opacity:0;transform:scale(.4)}14%{opacity:1}20%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t10{animation:t10 var(--d) infinite}
+  @keyframes p10{0%,10%{transform:none;box-shadow:none}13%{transform:scale(.93)}18%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p10{animation:p10 var(--d) infinite}
+  @keyframes r15{0%,15%{opacity:0;transform:translateY(8px)}20%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r15{animation:r15 var(--d) infinite}
-  @keyframes r20{0%,20%{opacity:0;transform:translateY(5px)}25%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k15{0%,15%{opacity:0}20%,93%{opacity:1}100%{opacity:0}}
+  .k15{animation:k15 var(--d) infinite}
+  @keyframes t15{0%,15%{opacity:0;transform:scale(.4)}19%{opacity:1}25%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t15{animation:t15 var(--d) infinite}
+  @keyframes p15{0%,15%{transform:none;box-shadow:none}18%{transform:scale(.93)}23%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p15{animation:p15 var(--d) infinite}
+  @keyframes r20{0%,20%{opacity:0;transform:translateY(8px)}25%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r20{animation:r20 var(--d) infinite}
-  @keyframes r25{0%,25%{opacity:0;transform:translateY(5px)}30%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k20{0%,20%{opacity:0}25%,93%{opacity:1}100%{opacity:0}}
+  .k20{animation:k20 var(--d) infinite}
+  @keyframes t20{0%,20%{opacity:0;transform:scale(.4)}24%{opacity:1}30%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t20{animation:t20 var(--d) infinite}
+  @keyframes p20{0%,20%{transform:none;box-shadow:none}23%{transform:scale(.93)}28%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p20{animation:p20 var(--d) infinite}
+  @keyframes r25{0%,25%{opacity:0;transform:translateY(8px)}30%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r25{animation:r25 var(--d) infinite}
-  @keyframes r30{0%,30%{opacity:0;transform:translateY(5px)}35%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k25{0%,25%{opacity:0}30%,93%{opacity:1}100%{opacity:0}}
+  .k25{animation:k25 var(--d) infinite}
+  @keyframes t25{0%,25%{opacity:0;transform:scale(.4)}29%{opacity:1}35%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t25{animation:t25 var(--d) infinite}
+  @keyframes p25{0%,25%{transform:none;box-shadow:none}28%{transform:scale(.93)}33%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p25{animation:p25 var(--d) infinite}
+  @keyframes r30{0%,30%{opacity:0;transform:translateY(8px)}35%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r30{animation:r30 var(--d) infinite}
-  @keyframes r35{0%,35%{opacity:0;transform:translateY(5px)}40%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k30{0%,30%{opacity:0}35%,93%{opacity:1}100%{opacity:0}}
+  .k30{animation:k30 var(--d) infinite}
+  @keyframes t30{0%,30%{opacity:0;transform:scale(.4)}34%{opacity:1}40%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t30{animation:t30 var(--d) infinite}
+  @keyframes p30{0%,30%{transform:none;box-shadow:none}33%{transform:scale(.93)}38%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p30{animation:p30 var(--d) infinite}
+  @keyframes r35{0%,35%{opacity:0;transform:translateY(8px)}40%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r35{animation:r35 var(--d) infinite}
-  @keyframes r40{0%,40%{opacity:0;transform:translateY(5px)}45%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k35{0%,35%{opacity:0}40%,93%{opacity:1}100%{opacity:0}}
+  .k35{animation:k35 var(--d) infinite}
+  @keyframes t35{0%,35%{opacity:0;transform:scale(.4)}39%{opacity:1}45%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t35{animation:t35 var(--d) infinite}
+  @keyframes p35{0%,35%{transform:none;box-shadow:none}38%{transform:scale(.93)}43%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p35{animation:p35 var(--d) infinite}
+  @keyframes r40{0%,40%{opacity:0;transform:translateY(8px)}45%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r40{animation:r40 var(--d) infinite}
-  @keyframes r45{0%,45%{opacity:0;transform:translateY(5px)}50%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k40{0%,40%{opacity:0}45%,93%{opacity:1}100%{opacity:0}}
+  .k40{animation:k40 var(--d) infinite}
+  @keyframes t40{0%,40%{opacity:0;transform:scale(.4)}44%{opacity:1}50%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t40{animation:t40 var(--d) infinite}
+  @keyframes p40{0%,40%{transform:none;box-shadow:none}43%{transform:scale(.93)}48%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p40{animation:p40 var(--d) infinite}
+  @keyframes r45{0%,45%{opacity:0;transform:translateY(8px)}50%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r45{animation:r45 var(--d) infinite}
-  @keyframes r50{0%,50%{opacity:0;transform:translateY(5px)}55%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k45{0%,45%{opacity:0}50%,93%{opacity:1}100%{opacity:0}}
+  .k45{animation:k45 var(--d) infinite}
+  @keyframes t45{0%,45%{opacity:0;transform:scale(.4)}49%{opacity:1}55%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t45{animation:t45 var(--d) infinite}
+  @keyframes p45{0%,45%{transform:none;box-shadow:none}48%{transform:scale(.93)}53%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p45{animation:p45 var(--d) infinite}
+  @keyframes r50{0%,50%{opacity:0;transform:translateY(8px)}55%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r50{animation:r50 var(--d) infinite}
-  @keyframes r55{0%,55%{opacity:0;transform:translateY(5px)}60%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k50{0%,50%{opacity:0}55%,93%{opacity:1}100%{opacity:0}}
+  .k50{animation:k50 var(--d) infinite}
+  @keyframes t50{0%,50%{opacity:0;transform:scale(.4)}54%{opacity:1}60%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t50{animation:t50 var(--d) infinite}
+  @keyframes p50{0%,50%{transform:none;box-shadow:none}53%{transform:scale(.93)}58%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p50{animation:p50 var(--d) infinite}
+  @keyframes r55{0%,55%{opacity:0;transform:translateY(8px)}60%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r55{animation:r55 var(--d) infinite}
-  @keyframes r60{0%,60%{opacity:0;transform:translateY(5px)}65%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k55{0%,55%{opacity:0}60%,93%{opacity:1}100%{opacity:0}}
+  .k55{animation:k55 var(--d) infinite}
+  @keyframes t55{0%,55%{opacity:0;transform:scale(.4)}59%{opacity:1}65%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t55{animation:t55 var(--d) infinite}
+  @keyframes p55{0%,55%{transform:none;box-shadow:none}58%{transform:scale(.93)}63%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p55{animation:p55 var(--d) infinite}
+  @keyframes r60{0%,60%{opacity:0;transform:translateY(8px)}65%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r60{animation:r60 var(--d) infinite}
-  @keyframes r65{0%,65%{opacity:0;transform:translateY(5px)}70%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k60{0%,60%{opacity:0}65%,93%{opacity:1}100%{opacity:0}}
+  .k60{animation:k60 var(--d) infinite}
+  @keyframes t60{0%,60%{opacity:0;transform:scale(.4)}64%{opacity:1}70%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t60{animation:t60 var(--d) infinite}
+  @keyframes p60{0%,60%{transform:none;box-shadow:none}63%{transform:scale(.93)}68%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p60{animation:p60 var(--d) infinite}
+  @keyframes r65{0%,65%{opacity:0;transform:translateY(8px)}70%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r65{animation:r65 var(--d) infinite}
-  @keyframes r70{0%,70%{opacity:0;transform:translateY(5px)}75%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k65{0%,65%{opacity:0}70%,93%{opacity:1}100%{opacity:0}}
+  .k65{animation:k65 var(--d) infinite}
+  @keyframes t65{0%,65%{opacity:0;transform:scale(.4)}69%{opacity:1}75%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t65{animation:t65 var(--d) infinite}
+  @keyframes p65{0%,65%{transform:none;box-shadow:none}68%{transform:scale(.93)}73%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p65{animation:p65 var(--d) infinite}
+  @keyframes r70{0%,70%{opacity:0;transform:translateY(8px)}75%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r70{animation:r70 var(--d) infinite}
-  @keyframes r75{0%,75%{opacity:0;transform:translateY(5px)}80%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k70{0%,70%{opacity:0}75%,93%{opacity:1}100%{opacity:0}}
+  .k70{animation:k70 var(--d) infinite}
+  @keyframes t70{0%,70%{opacity:0;transform:scale(.4)}74%{opacity:1}80%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t70{animation:t70 var(--d) infinite}
+  @keyframes p70{0%,70%{transform:none;box-shadow:none}73%{transform:scale(.93)}78%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p70{animation:p70 var(--d) infinite}
+  @keyframes r75{0%,75%{opacity:0;transform:translateY(8px)}80%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r75{animation:r75 var(--d) infinite}
-  @keyframes r80{0%,80%{opacity:0;transform:translateY(5px)}85%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k75{0%,75%{opacity:0}80%,93%{opacity:1}100%{opacity:0}}
+  .k75{animation:k75 var(--d) infinite}
+  @keyframes t75{0%,75%{opacity:0;transform:scale(.4)}79%{opacity:1}85%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t75{animation:t75 var(--d) infinite}
+  @keyframes p75{0%,75%{transform:none;box-shadow:none}78%{transform:scale(.93)}83%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p75{animation:p75 var(--d) infinite}
+  @keyframes r80{0%,80%{opacity:0;transform:translateY(8px)}85%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r80{animation:r80 var(--d) infinite}
-  @keyframes r85{0%,85%{opacity:0;transform:translateY(5px)}90%,93%{opacity:1;transform:none}100%{opacity:0}}
+  @keyframes k80{0%,80%{opacity:0}85%,93%{opacity:1}100%{opacity:0}}
+  .k80{animation:k80 var(--d) infinite}
+  @keyframes t80{0%,80%{opacity:0;transform:scale(.4)}84%{opacity:1}90%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t80{animation:t80 var(--d) infinite}
+  @keyframes p80{0%,80%{transform:none;box-shadow:none}83%{transform:scale(.93)}88%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p80{animation:p80 var(--d) infinite}
+  @keyframes r85{0%,85%{opacity:0;transform:translateY(8px)}90%,93%{opacity:1;transform:none}100%{opacity:0}}
   .r85{animation:r85 var(--d) infinite}
-  @keyframes st1 { 0%,28% { opacity: 1 } 33%,95% { opacity: 0 } 100% { opacity: 1 } }
-  @keyframes st2 { 0%,28% { opacity: 0 } 33%,61% { opacity: 1 } 66%,100% { opacity: 0 } }
-  @keyframes st3 { 0%,61% { opacity: 0 } 66%,95% { opacity: 1 } 100% { opacity: 0 } }
-  .st { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 10px; white-space: nowrap; }
-  .st1 { opacity: 0; animation: st1 var(--d) infinite } .st2 { opacity: 1; animation: st2 var(--d) infinite } .st3 { opacity: 0; animation: st3 var(--d) infinite }
-  .mk-row { display: flex; gap: 8px; }
-  .mk-pill { position: relative; display: inline-block; height: 28px; width: 118px; border: 1px solid var(--line); background: #fff; border-radius: 8px; }
-  .mk-pill.sm { width: 84px; }
-  .mk-card { position: relative; width: 200px; height: 62px; border: 1px solid var(--line); background: var(--card); border-radius: 12px; }
-  .mk-card .da, .mk-big .da { font-family: var(--serif); font-size: 20px; color: var(--terracotta); }
-  .mk-card .t { margin-top: -2px; }
-  .mk-big { position: relative; width: 210px; height: 92px; border: 1px solid var(--line); background: var(--card); border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
-  .mk-big svg { position: absolute; }
-  @keyframes starfill { 0%,12% { fill-opacity: 0 } 18%,93% { fill-opacity: 1 } 100% { fill-opacity: 0 } }
-  @keyframes chkfill { 0%,42% { fill-opacity: 0; opacity: 0 } 48%,93% { fill-opacity: 1; opacity: 1 } 100% { fill-opacity: 0; opacity: 0 } }
-  .starp { fill: #E3A93C; fill-opacity: 1; animation: starfill var(--d) infinite }
-  .chkc { fill: var(--sage); fill-opacity: 1; animation: chkfill var(--d) infinite }
-  .tick { animation: chkfill var(--d) infinite }
-  @keyframes pulse { 0%,5% { transform: scale(1); color: var(--muted) } 10% { transform: scale(1.35); color: var(--terracotta) } 16%,100% { transform: scale(1); color: var(--muted) } }
-  .pulse { color: var(--muted); animation: pulse var(--d) infinite }
-  @keyframes panel { 0%,14% { transform: translateY(105%) } 26%,93% { transform: none } 100% { transform: translateY(105%) } }
-  .m-bulb .panel { position: absolute; left: 14px; right: 14px; bottom: 0; top: 14px; background: #fff; border: 1px solid var(--line); border-bottom: 0; border-radius: 12px 12px 0 0; padding: 10px 16px; animation: panel var(--d) infinite; display: flex; flex-direction: column; gap: 3px; }
-  .m-bulb .panel b { font-family: var(--serif); font-weight: 400; font-size: 15px; margin-bottom: 2px; }
-  .m-bulb .panel span em { font-style: normal; color: var(--muted); }
-  .m-bulb .small { position: absolute; left: 50%; top: 22px; margin-left: -28px; }
-  .m-q { gap: 8px; }
-  .m-q .bar { position: relative; width: 250px; height: 30px; border: 1px solid var(--line); background: #fff; border-radius: 10px; display: flex; align-items: center; padding: 0 12px; }
-  @keyframes typing { 0%,16% { clip-path: inset(0 100% 0 0) } 42%,93% { clip-path: inset(0 0 0 0) } 100% { clip-path: inset(0 100% 0 0) } }
-  .typed { animation: typing var(--d) steps(19, end) infinite; white-space: nowrap; }
-  .m-q .ans { width: 250px; padding: 0 4px; color: #4A4F52; }
-  .m-a { flex-direction: row; gap: 12px; padding: 0 14px; }
-  .m-a .sign { flex: 0 0 auto; border: 3px solid #3F5A55; border-radius: 6px; background: #FAF8F2; padding: 6px 10px; font-family: var(--serif); font-weight: 700; font-style: italic; font-size: 13px; text-align: center; line-height: 1.2; }
-  .m-a .out { display: flex; flex-direction: column; gap: 7px; min-width: 0; }
-  .m-a .chips { display: flex; gap: 6px; flex-wrap: wrap; }
-  .m-a .chip { background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; font-size: 12.5px; white-space: nowrap; }
-  .m-a .chip::before { content: "\2713 "; color: var(--sage); font-weight: 700; }
-  .m-a .added { color: var(--sage); font-weight: 700; font-size: 12.5px; }
+  @keyframes k85{0%,85%{opacity:0}90%,93%{opacity:1}100%{opacity:0}}
+  .k85{animation:k85 var(--d) infinite}
+  @keyframes t85{0%,85%{opacity:0;transform:scale(.4)}89%{opacity:1}95%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t85{animation:t85 var(--d) infinite}
+  @keyframes p85{0%,85%{transform:none;box-shadow:none}88%{transform:scale(.93)}93%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p85{animation:p85 var(--d) infinite}
+  @keyframes r90{0%,90%{opacity:0;transform:translateY(8px)}95%,93%{opacity:1;transform:none}100%{opacity:0}}
+  .r90{animation:r90 var(--d) infinite}
+  @keyframes k90{0%,90%{opacity:0}95%,93%{opacity:1}100%{opacity:0}}
+  .k90{animation:k90 var(--d) infinite}
+  @keyframes t90{0%,90%{opacity:0;transform:scale(.4)}94%{opacity:1}100%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
+  .mapp .t90{animation:t90 var(--d) infinite}
+  @keyframes p90{0%,90%{transform:none;box-shadow:none}93%{transform:scale(.93)}98%,93%{transform:none;box-shadow:0 0 0 3px var(--paper),0 0 0 5px var(--c)}100%{box-shadow:none}}
+  .mapp .p90{animation:p90 var(--d) infinite}
+  .cyw { position: relative; flex: 1; height: 24px; }
+  .cy { position: absolute; left: 0; top: 0; line-height: 24px; white-space: nowrap; }
+  .cy.mid { left: 0; right: 0; text-align: center; font-size: 30px; line-height: 44px; top: 0; }
+  @keyframes cy1 { 0%,28% { opacity: 1 } 33%,95% { opacity: 0 } 100% { opacity: 1 } }
+  @keyframes cy2 { 0%,28% { opacity: 0 } 33%,61% { opacity: 1 } 66%,100% { opacity: 0 } }
+  @keyframes cy3 { 0%,61% { opacity: 0 } 66%,95% { opacity: 1 } 100% { opacity: 0 } }
+  .cy.c1 { animation: cy1 var(--d) infinite } .cy.c2 { animation: cy2 var(--d) infinite } .cy.c3 { animation: cy3 var(--d) infinite }
+  .mapp .corner { position: absolute; color: #C9C4B6; }
+  @keyframes starc { 0%,12% { stroke: #C9C4B6; fill-opacity: 0 } 18%,93% { stroke: #A1432E; fill-opacity: 1 } 100% { stroke: #C9C4B6; fill-opacity: 0 } }
+  .starp { fill: #A1432E; stroke: #A1432E; animation: starc var(--d) infinite }
+  @keyframes chkc { 0%,42% { stroke: #C9C4B6; fill-opacity: 0 } 48%,93% { stroke: #4C8A5E; fill-opacity: 1 } 100% { stroke: #C9C4B6; fill-opacity: 0 } }
+  @keyframes tickc { 0%,42% { stroke: #C9C4B6 } 48%,93% { stroke: #FBFAF7 } 100% { stroke: #C9C4B6 } }
+  .chkc { fill: #4C8A5E; stroke: #4C8A5E; animation: chkc var(--d) infinite }
+  .tick { stroke: #FBFAF7; animation: tickc var(--d) infinite }
+  @keyframes kn0 { 0%,45% { opacity: 1 } 48%,93% { opacity: 0 } 100% { opacity: 1 } }
+  .kn { position: relative; display: inline-block; width: 8px; height: 1em; vertical-align: top; }
+  .kn i { position: absolute; left: 0; top: 0; line-height: 1.4; font-style: normal; }
+  .kn .n0 { animation: kn0 var(--d) infinite }
+  .mapp .back { opacity: 1; animation: none; }
+  .mapp .back.k { opacity: 0; }
+  .mapp .pop { opacity: 1; transform: none; }
+  .mapp .res { opacity: 1; transform: none; top: 198px; }
+  .mapp .acts { top: 150px; }
+  .mapp .acts .g { --c: var(--fjord); } .mapp .acts .p { --c: #8C6FA0; } .mapp .acts .r { --c: var(--rust); }
+  .mapp .vrow .w { width: auto; flex: 1; }
+  .mapp .inp { position: absolute; left: 16px; width: 290px; height: 44px; border: 1px solid var(--line); background: #fff; border-radius: 22px; padding: 0 16px; line-height: 42px; font-size: 14px; color: #ADA898; white-space: nowrap; overflow: hidden; }
+  @keyframes ph { 0%,14% { opacity: 1 } 18%,94% { opacity: 0 } 100% { opacity: 1 } }
+  .mapp .inp .ph { animation: ph var(--d) infinite; }
+  .mapp .typedq { position: absolute; left: 33px; top: 0; line-height: 44px; font-size: 14px; color: var(--ink); white-space: nowrap; }
+  @keyframes typing { 0%,16% { clip-path: inset(0 100% 0 0) } 40%,93% { clip-path: inset(0 0 0 0) } 100% { clip-path: inset(0 100% 0 0) } }
+  .mapp .typedq { animation: typing var(--d) steps(19, end) infinite; }
+  @keyframes sendc { 0%,38% { background: #DEAD97 } 42%,52% { background: var(--terracotta) } 56%,100% { background: #DEAD97 } }
+  .mapp .send { position: absolute; left: 315px; width: 44px; height: 44px; border-radius: 50%; background: #DEAD97; display: flex; align-items: center; justify-content: center; animation: sendc var(--d) infinite; }
+  .mapp .ansq { position: absolute; left: 16px; width: 300px; border-radius: 20px; background: #fff; box-shadow: 0 6px 20px rgba(35,39,42,.12); padding: 12px 14px; font-size: 14px; line-height: 21px; }
+  @keyframes resA { 0%,18% { opacity: 0; transform: translateY(14px) } 24%,52% { opacity: 1; transform: none } 58%,100% { opacity: 0 } }
+  .mapp .res { animation: resA var(--d) infinite; }
+  @keyframes popB { 0%,56% { opacity: 0; transform: translateY(16px) } 62%,93% { opacity: 1; transform: none } 100% { opacity: 0 } }
+  @keyframes backB { 0%,56% { opacity: 0 } 60%,93% { opacity: 1 } 100% { opacity: 0 } }
+  .mapp .pop.late { animation: popB var(--d) infinite; }
+  .mapp .back.late { animation: backB var(--d) infinite; }
+  @keyframes bulbpop { 0%,18% { opacity: 0; transform: translateY(16px) } 24%,93% { opacity: 1; transform: none } 100% { opacity: 0 } }
+  @keyframes bulbback { 0%,18% { opacity: 0 } 22%,93% { opacity: 1 } 100% { opacity: 0 } }
+  .mapp .pop.bulb { animation: bulbpop var(--d) infinite; }
+  .mapp .back.bulb { animation: bulbback var(--d) infinite; }
+  @keyframes bulbglow { 0%,10% { color: #B9B3A3 } 14%,26% { color: #C0714D } 32%,100% { color: #B9B3A3 } }
+  .mapp .glow { animation: bulbglow var(--d) infinite; }
   .features.six { grid-template-columns: repeat(6, 1fr); }
   .features.six .feature { grid-column: span 2; }
   .features.six .feature.wide { grid-column: span 3; }
   @media (max-width: 860px) { .features.six { grid-template-columns: 1fr; } .features.six .feature, .features.six .feature.wide { grid-column: auto; } }
-  @media (prefers-reduced-motion: reduce) { .mini *, .mini { animation: none !important; } }
-  a.applink { color: var(--rust); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+    a.applink { color: var(--rust); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
   a.applink:hover { color: var(--terracotta); }
   .more { margin: 22px 0 0; font-weight: 600; }
   .features + .more { margin-top: 26px; }
@@ -545,8 +659,7 @@
         var scs = document.querySelectorAll(".demo .sc"), dots = document.getElementById("dots");
         var t = document.getElementById("capT"), d = document.getElementById("capD");
         var i = 0, timer = null;
-        var still = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
-        steps.forEach(function (s, n) {
+                steps.forEach(function (s, n) {
           var b = document.createElement("button");
           b.type = "button"; b.setAttribute("aria-label", s[0]);
           b.onclick = function () { show(n); if (timer) clearTimeout(timer); timer = setTimeout(next, lens[n]); };
@@ -561,7 +674,7 @@
           t.textContent = steps[n][0]; d.textContent = steps[n][1];
           Array.prototype.forEach.call(dots.children, function (b, k) { b.setAttribute("aria-current", k === n ? "true" : "false"); });
         }
-        var lens = still ? [4500, 4500, 4500, 4500] : [9500, 6200, 6200, 6200];
+        var lens = [9500, 6200, 6200, 6200];
         function next() { show((i + 1) % steps.length); timer = setTimeout(next, lens[i]); }
         show(0);
         timer = setTimeout(next, lens[0]);
@@ -581,55 +694,78 @@
       </div>
       <div class="features six">
         <div class="feature">
-          <div class="mini m-deck" aria-hidden="true">
-            <div class="mk-row">
-              <span class="mk-pill"><span class="st st1">All cards</span><span class="st st2">Verbs</span><span class="st st3">Food &amp; Drink</span></span>
-              <span class="mk-pill sm"><span class="st st1">All levels</span><span class="st st2">Basic</span><span class="st st3">Basic</span></span>
+          <div class="mini" style="aspect-ratio:375/232;--H:232" aria-hidden="true"><div class="mapp">
+            <div class="sel" style="left:16px;top:12px;width:225px"><span class="cyw"><span class="cy c1">All cards</span><span class="cy c2">Verbs</span><span class="cy c3">Food &amp; Drink</span></span><svg width="18" height="18" style="color:var(--muted)"><use href="#i-dn"/></svg></div>
+            <div class="sel" style="left:250px;top:12px;width:108px"><span class="cyw"><span class="cy c1">All levels</span><span class="cy c2">Basic</span><span class="cy c3">Basic</span></span><svg width="18" height="18" style="color:var(--muted)"><use href="#i-dn"/></svg></div>
+            <div class="abs" style="left:16px;top:66px;font-size:12.5px;color:var(--muted);display:flex;gap:24px;align-items:center"><span><i style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#9B87AE;margin-right:8px"></i>Unknown</span><span><svg width="14" height="14" style="display:inline-block;vertical-align:-2px;margin-right:6px;color:#C9C4B6"><use href="#i-star"/></svg>Starred</span></div>
+            <div class="box mc" style="top:92px;height:124px">
+              <span class="cyw" style="position:absolute;left:0;right:0;top:40px;flex:none"><span class="cy mid da c1">hvad</span><span class="cy mid da c2">at spise</span><span class="cy mid da c3">en kage</span></span>
+              <svg class="corner" style="left:16px;top:14px" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12,3 14.6,9.2 21.5,9.8 16.2,14.2 17.8,21 12,17.3 6.2,21 7.8,14.2 2.5,9.8 9.4,9.2"/></svg><svg class="corner" style="right:16px;top:14px" width="17" height="17"><use href="#i-chk"/></svg><svg class="corner" style="left:16px;bottom:14px;color:#B9B3A3" width="16" height="16"><use href="#i-bulb"/></svg><svg class="corner" style="right:16px;bottom:14px" width="16" height="16"><use href="#i-help"/></svg>
             </div>
-            <div class="mk-card"><span class="st st1"><span class="da">hvad</span><span class="t">what</span></span><span class="st st2"><span class="da">at spise</span><span class="t">to eat</span></span><span class="st st3"><span class="da">en kage</span><span class="t">a cake</span></span></div>
-          </div>
+            <div class="tap t5" style="left:120px;top:34px"></div><div class="tap t30" style="left:120px;top:34px"></div><div class="tap t60" style="left:304px;top:34px"></div>
+          </div></div>
           <div class="num">The deck</div>
           <p>8,000 words, phrases and grammar concepts that you can filter for focused study by word type (nouns, verbs, prepositions and more), topic (Food &amp; Drink, Travel &amp; Transport and more), level (from Basic, A1, up to Fluent, C2), or any combination of these. The deck uses a smart learning algorithm and spaced repetition to reinforce what you know.</p>
         </div>
         <div class="feature">
-          <div class="mini m-star" aria-hidden="true" style="--d:8s">
-            <div class="mk-big">
-              <svg style="left:12px;top:12px" width="20" height="20" viewBox="0 0 24 24" fill="none"><polygon class="starp" points="12,3 14.6,9.2 21.5,9.8 16.2,14.2 17.8,21 12,17.3 6.2,21 7.8,14.2 2.5,9.8 9.4,9.2" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
-              <svg style="right:12px;top:12px" width="20" height="20" viewBox="0 0 24 24" fill="none"><circle class="chkc" cx="12" cy="12" r="9.5" stroke="currentColor" stroke-width="1.8"/><polyline class="tick" points="7.5,12.3 10.5,15.5 16.5,8.5" stroke="#fff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/></svg>
-              <span class="da">at gå</span><span class="t">to go</span>
+          <div class="mini" style="aspect-ratio:375/236;--H:236;--d:8s" aria-hidden="true"><div class="mapp">
+            <div class="abs" style="left:16px;top:10px;font-size:12px;color:var(--muted)">Card 1 of 8002 &nbsp; <b style="font-weight:500;color:var(--sage)"><span class="kn"><i class="n0">0</i><i class="r40">1</i></span></b> known</div>
+            <div class="box mc" style="top:34px;height:150px">
+              <div style="position:absolute;left:0;right:0;top:50px;text-align:center"><span class="da" style="font-size:30px">at gå</span></div>
+              <svg style="position:absolute;left:16px;top:14px" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon class="starp" points="12,3 14.6,9.2 21.5,9.8 16.2,14.2 17.8,21 12,17.3 6.2,21 7.8,14.2 2.5,9.8 9.4,9.2"/></svg><svg style="position:absolute;right:16px;top:14px" width="17" height="17" viewBox="0 0 24 24" fill="none"><circle class="chkc" cx="12" cy="12" r="9.5" stroke-width="1.8"/><polyline class="tick" points="7.5,12.3 10.5,15.5 16.5,8.5" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/></svg><svg class="corner" style="left:16px;bottom:14px;color:#B9B3A3" width="16" height="16"><use href="#i-bulb"/></svg><svg class="corner" style="right:16px;bottom:14px" width="16" height="16"><use href="#i-help"/></svg>
             </div>
-            <div class="t r55" style="--d:8s">Later it comes back as <b style="color:var(--ink)">gik</b> and <b style="color:var(--ink)">er gået</b></div>
-          </div>
+            <div class="abs r55" style="left:16px;right:16px;top:198px;font-size:13px;color:var(--muted);text-align:center">Later it comes back as <b style="color:var(--ink);font-weight:600">gik</b> and <b style="color:var(--ink);font-weight:600">er gået</b></div>
+            <div class="tap t10" style="left:24px;top:57px"></div><div class="tap t40" style="left:351px;top:57px"></div>
+          </div></div>
           <div class="num">Star and check</div>
           <p>Star a card you want to focus on. Starred cards come up more often.</p>
           <p>Check a card to mark it as known. Known cards are not shown again as themselves, but they are tracked so you can see your progress. They come back later in more advanced forms (for example, <i>at g&aring;</i> (to go) later appears as <i>gik</i> (went) and <i>er g&aring;et</i> (has gone)) to move your learning forward.</p>
         </div>
         <div class="feature">
-          <div class="mini m-bulb" aria-hidden="true" style="--d:9s">
-            <div class="mk-big" style="margin-top:-30px"><span class="da">dansk</span><span class="t">Danish</span><svg class="pulse" style="left:12px;bottom:10px" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.7.8 1 1.4 1 2.5h6c0-1.1.3-1.7 1-2.5A6 6 0 0 0 12 3z"/></svg></div>
-            <div class="panel"><b>dansk</b><span class="r30">udansk <em>un-Danish</em></span><span class="r40">Danmark <em>Denmark</em></span><span class="r50">en dansker <em>a Dane</em></span><span class="r60">svensk <em>Swedish</em></span></div>
-          </div>
+          <div class="mini" style="aspect-ratio:375/300;--H:300" aria-hidden="true"><div class="mapp">
+            <div class="box mc" style="top:14px;height:170px">
+              <div style="position:absolute;left:0;right:0;top:62px;text-align:center"><span class="da" style="font-size:30px">dansk</span></div>
+              <svg class="corner" style="left:16px;top:14px" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12,3 14.6,9.2 21.5,9.8 16.2,14.2 17.8,21 12,17.3 6.2,21 7.8,14.2 2.5,9.8 9.4,9.2"/></svg><svg class="corner" style="right:16px;top:14px" width="17" height="17"><use href="#i-chk"/></svg><svg class="corner glow" style="left:16px;bottom:14px" width="16" height="16"><use href="#i-bulb"/></svg><svg class="corner" style="right:16px;bottom:14px" width="16" height="16"><use href="#i-help"/></svg>
+            </div>
+            <div class="back k bulb" style="z-index:3"></div>
+            <div class="pop mc bulb" style="top:34px;z-index:4"><div class="x"><svg width="18" height="18"><use href="#i-x"/></svg></div><div class="da" style="font-size:18px;margin:0 0 16px">dansk</div>
+              <div class="grey"><div class="lab">Related words</div><div style="margin-top:6px;line-height:24px;font-size:14.5px"><div class="r30"><span style="color:var(--terracotta)">udansk</span> <span class="en">— un-Danish</span></div><div class="r40"><span style="color:var(--terracotta)">Danmark</span> <span class="en">— Denmark</span></div><div class="r50"><span style="color:var(--terracotta)">en dansker</span> <span class="en">— a Dane</span></div><div class="r60"><span style="color:var(--terracotta)">svensk</span> <span class="en">— Swedish</span></div></div></div>
+            </div>
+            <div class="tap t10" style="left:24px;top:162px"></div>
+          </div></div>
           <div class="num">Lightbulb</div>
           <p>Tap the lightbulb on any card to go deeper. It builds the connections that help you pick up the language naturally. For example, the lightbulb on <i>dansk</i> (Danish) shows the related word <i>udansk</i> (un-Danish), how to tell <i>Danmark</i> (Denmark) from <i>dansk</i> (the language) and <i>en dansker</i> (a Dane), and how other country words like <i>svensk</i> (Swedish) follow the same pattern.</p>
         </div>
         <div class="feature wide">
-          <div class="mini m-q" aria-hidden="true" style="--d:8s">
-            <div class="mk-big" style="width:250px;height:44px;flex-direction:row;gap:10px"><span class="da" style="font-size:18px">et hus</span><span class="t">a house</span><svg class="pulse" style="right:12px" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9.5"/><path d="M9.3 9.3a2.7 2.7 0 1 1 3.9 2.4c-.9.5-1.2 1-1.2 2"/><line x1="12" y1="17" x2="12" y2="17.01"/></svg></div>
-            <div class="bar"><span class="typed">What is the plural?</span></div>
-            <div class="ans r45">Huse. <span class="t">Et hus, flere huse.</span></div>
-          </div>
+          <div class="mini" style="aspect-ratio:375/290;--H:290;--d:8s" aria-hidden="true"><div class="mapp">
+            <div class="box mc" style="top:14px;height:130px">
+              <div style="position:absolute;left:0;right:0;top:40px;text-align:center"><span class="da" style="font-size:30px">et hus</span></div>
+              <svg class="corner" style="left:16px;top:14px" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12,3 14.6,9.2 21.5,9.8 16.2,14.2 17.8,21 12,17.3 6.2,21 7.8,14.2 2.5,9.8 9.4,9.2"/></svg><svg class="corner" style="right:16px;top:14px" width="17" height="17"><use href="#i-chk"/></svg><svg class="corner" style="left:16px;bottom:14px;color:#B9B3A3" width="16" height="16"><use href="#i-bulb"/></svg><svg class="corner" style="right:16px;bottom:14px;color:var(--terracotta)" width="16" height="16"><use href="#i-help"/></svg>
+            </div>
+            <div class="inp" style="top:160px"><span class="ph">Ask or give instructions…</span><span class="typedq" style="color:var(--ink)">What is the plural?</span></div>
+            <div class="send" style="top:160px"><svg width="22" height="22"><use href="#i-send"/></svg></div>
+            <div class="ansq r45" style="top:218px"><p style="margin:0">Huse. Et hus (a house), flere huse (several houses).</p></div>
+            <div class="tap t5" style="left:351px;top:128px"></div><div class="tap t40" style="left:337px;top:182px"></div>
+          </div></div>
           <div class="num">Question mark</div>
           <p>Tap the question mark on a card to ask follow-up questions about it.</p>
         </div>
         <div class="feature wide">
-          <div class="mini m-a" aria-hidden="true">
-            <div class="sign">&Aring;bent 9&ndash;17<br>Lukket s&oslash;n- og<br>helligdage</div>
-            <div class="out">
-              <div class="r20">Open 9&ndash;17. Closed on Sundays and public holidays.</div>
-              <div class="chips"><span class="chip r45">&aring;bent <span class="t">open</span></span><span class="chip r55">lukket <span class="t">closed</span></span></div>
-              <div class="added r70">Added to your deck</div>
+          <div class="mini" style="aspect-ratio:375/300;--H:300;--d:10s" aria-hidden="true"><div class="mapp">
+            <div class="pills" style="top:6px"><b>Chat</b><b>Enter text</b><b class="sel2">Add photo</b></div>
+            <div class="box mc" style="top:42px;height:100px"></div>
+            <div class="abs" style="left:27px;width:321px;top:50px;height:84px;border-radius:12px;background:#D6CFBE;display:flex;align-items:center;justify-content:center"><div style="background:#FAF8F2;border:4px solid #2E4A44;border-radius:6px;width:210px;padding:8px 6px;text-align:center;font-family:var(--serif);font-weight:700;font-style:italic"><b style="display:block;font-size:19px;line-height:1.2">Åbent 9–17</b><span style="display:block;font-size:13px;line-height:1.25;margin-top:4px">Lukket søn- og helligdage</span></div></div>
+            <div class="acts" style="z-index:3"><b class="g p10">Translate</b><b class="p">Analyze sentence</b><b class="r p55">Extract text</b></div>
+            <div class="res mc"><div class="l"><svg width="13" height="13"><use href="#i-vol"/></svg>Listen to the Danish</div><div class="e">Open 9–17. Closed on Sundays and public holidays.</div></div>
+            <div class="back k late" style="z-index:2"></div>
+            <div class="pop mc late" style="top:30px;z-index:4"><div style="height:8px"></div>
+              <div class="lab" style="line-height:1.4;text-transform:none;letter-spacing:0;font-weight:400;font-size:12px;margin-bottom:6px">Suggested vocabulary</div>
+              <div class="vrow" style="margin-top:6px"><span class="chk"><svg width="16" height="16"><use href="#i-ok"/></svg></span><span class="w"><span style="color:var(--terracotta)">åbent</span> <span class="en">— open</span></span></div>
+              <div class="vrow"><span class="chk"><svg width="16" height="16"><use href="#i-ok"/></svg></span><span class="w"><span style="color:var(--terracotta)">lukket</span> <span class="en">— closed</span></span></div>
+              <div class="btnr" style="margin-top:14px">Add selected to deck</div>
             </div>
-          </div>
+            <div class="tap t10" style="left:70px;top:170px"></div><div class="tap t55" style="left:305px;top:170px"></div>
+          </div></div>
           <div class="num">Assistant</div>
           <p>When you meet Danish in daily life, whether you are reading signs, watching the news or messaging with friends, take a photo or paste the text into the Assistant tab. Broen translates it. Then you can analyze the sentence to understand how it is built and why, and to spot mistakes in Danish you wrote. Then use Extract text to pull out the key words and add them to your deck for later review.</p>
           <p>This matters because it focuses you on the words you actually need, and they do not disappear from your memory.</p>
@@ -676,6 +812,14 @@
     </div>
   </section>
 
+      <script>
+      (function () {
+        var m = document.querySelectorAll(".mini");
+        function fit() { for (var i = 0; i < m.length; i++) m[i].style.setProperty("--k", (m[i].clientWidth / 375).toFixed(4)); }
+        fit(); window.addEventListener("resize", fit); window.addEventListener("load", fit);
+        if (window.ResizeObserver) { var ro = new ResizeObserver(fit); for (var i = 0; i < m.length; i++) ro.observe(m[i]); }
+      })();
+      </script>
 </main>
 
 <footer>
