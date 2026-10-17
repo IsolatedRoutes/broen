@@ -26,7 +26,7 @@ const BASE_INFO_PAGES = [
       ],
       [
         "Lightbulb",
-        "Tap the lightbulb on any card to go deeper. It builds the connections that help you pick up the language naturally. For example, the lightbulb on \u201cdansk\u201d (Danish) shows how it differs from Danmark (Denmark) and en dansker (a Dane), and how other country words like svensk (Swedish) follow the same pattern.",
+        "Tap the lightbulb on any card to go deeper. It builds the connections that help you pick up the language naturally. For example, the lightbulb on \u201cdansk\u201d (Danish) shows the related word udansk (un-Danish), how to tell Danmark (Denmark) from dansk (the language) and en dansker (a Dane), and how other country words like svensk (Swedish) follow the same pattern.",
       ],
       [
         "Question mark",
