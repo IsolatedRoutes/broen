@@ -29,8 +29,10 @@ check(html.count("<h1") == 1, "exactly one main heading")
 check(html.count('class="sc s') == 4, "hero demo has four scenes")
 check('<div class="app">' in html, "the demo phone screen keeps its .app class (it sets the size)")
 check("Your bridge to" in html, "headline is the app tagline")
-check(all(f'id="{i}"' in html for i in ("get", "questions", "how")), "the page has How it works, On your phone and Questions sections")
-check("Add to Home Screen" in html and "Install app" in html and "install</b> icon" in html, "install steps for iPhone, Android and computer are shown")
+check(all(f'id="{i}"' in html for i in ("questions", "how")) and 'href="phone/"' in html, "the page has How it works and Questions sections and links to the phone page")
+ph = open(os.path.join(ROOT, "welcome", "phone", "index.html"), encoding="utf-8").read()
+check("Add to Home Screen" in ph and "Install app" in ph and "install</b> icon" in ph, "the phone page shows install steps for iPhone, Android and computer")
+check("Add to Home Screen" not in html, "the landing page itself has no long install steps")
 check(len(faq_q) >= 6 and len(re.findall(r'class="qa"', html)) == len(faq_q), "the visible questions match the structured-data questions")
 check(os.path.exists(os.path.join(ROOT, "welcome", "og.png")) and os.path.exists(os.path.join(ROOT, "robots.txt")) and os.path.exists(os.path.join(ROOT, "sitemap.xml")), "preview image, robots.txt and sitemap exist")
 
@@ -54,8 +56,8 @@ with sync_playwright() as p:
     # the menu opens real pages, and the pages hold the app's full text
     nav = {a.inner_text().strip(): a.get_attribute("href") for a in page.locator("header nav a.plain").all()}
     check(nav.get("How it works") == "how-it-works/" and nav.get("FAQ") == "faq/" and nav.get("About") == "about/", "menu links go to real pages, not lower down the same page")
-    check(page.locator("a.applink").count() >= 4 and all(a.get_attribute("href") == "../" for a in page.locator("a.applink").all()), "every 'open Broen' is a highlighted link to the app")
-    for d, needle in [("how-it-works", "Backup and sync"), ("faq", "How do I move to a new device?"), ("about", "The Bridge"), ("terms", "A learning aid")]:
+    check(page.locator("a.applink").count() >= 1 and all(a.get_attribute("href") == "../" for a in page.locator("a.applink").all()), "every 'open Broen' is a highlighted link to the app")
+    for d, needle in [("how-it-works", "Backup and sync"), ("faq", "How do I move to a new device?"), ("about", "The Bridge"), ("terms", "A learning aid"), ("phone", "Add to Home Screen")]:
         r = page.goto(BASE + "welcome/%s/" % d); page.wait_for_timeout(200)
         check(r.status == 200 and needle in page.content(), "welcome/%s/ opens and has the app's text" % d)
     info = open(os.path.join(ROOT, "src", "data", "infoPages.js"), encoding="utf-8").read()

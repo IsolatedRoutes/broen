@@ -130,7 +130,7 @@ ${extraHead}<style>${CSS}</style>
     <a class="logo" href="../" aria-label="Broen, home">Broen<span>.</span></a>
     <nav aria-label="Main">
       ${nav}
-      <a class="plain" href="../#get">On your phone</a>
+      <a class="plain" href="../phone/">On your phone</a>
       <a class="pill" href="../../">Open the app</a>
     </nav>
   </div>
@@ -213,8 +213,28 @@ const out = (dir, html) => {
     title: "About Broen, a Danish learning app",
     description: "Broen means the bridge. It is a Danish learning app built on about 8,000 words and phrases, with an optional AI companion, made by Isolated Routes.",
     heading: "About Broen",
-    lede: `Made by Isolated Routes. <a class="applink" href="../../">Open Broen</a> in your browser, or <a href="../#get">add it to your phone</a>.`,
+    lede: `Made by Isolated Routes. <a class="applink" href="../../">Open Broen</a> in your browser, or <a href="../phone/">add it to your phone</a>.`,
     body: `<section>${p.paragraphs.map((t) => `<p>${inline(t)}</p>`).join("\n")}</section>\n` + (p.sections || []).map(([h, text]) => `<section id="${slug(h)}"><h2>${esc(h)}</h2>\n${paras(text)}</section>`).join("\n"),
+  }));
+}
+
+
+// ---- On your phone ----
+{
+  const sec = (h, steps) => `<section id="${slug(h)}"><h2>${esc(h)}</h2>\n<ol>${steps.map((t) => `<li>${t}</li>`).join("")}</ol></section>`;
+  const open = `Open <a class="applink" href="../../">Broen</a>`;
+  out("phone", shell({
+    dir: "phone",
+    title: "Use Broen on your phone or computer",
+    description: "Add Broen to your home screen on iPhone, iPad or Android, or install it on a computer. It opens full screen like an app and works offline for studying.",
+    heading: "Use Broen on your phone",
+    lede: `${open} in your browser, then add it to your home screen. It opens full screen like an app and works offline for studying. On your home screen it is called Dansk.`,
+    body: [
+      sec("iPhone or iPad (Safari)", [`${open} in <b>Safari</b>.`, "Tap <b>Share</b>, the square with an arrow.", "Tap <b>Add to Home Screen</b>, then <b>Add</b>."]),
+      sec("Android (Chrome)", [`${open} in <b>Chrome</b>.`, "Tap the <b>&#8942;</b> menu.", "Tap <b>Install app</b> (or <b>Add to Home screen</b>)."]),
+      sec("Computer (Chrome or Edge)", [`${open}.`, "Click the <b>install</b> icon at the right end of the address bar, then <b>Install</b>."]),
+      `<p>A native iPhone app is on its way.</p>`,
+    ].join("\n"),
   }));
 }
 
