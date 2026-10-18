@@ -131,7 +131,6 @@ ${extraHead}<style>${CSS}</style>
     <nav aria-label="Main">
       ${nav}
       <a class="plain" href="../phone/">On your phone</a>
-      <a class="pill" href="../../">Open the app</a>
     </nav>
   </div>
 </header>
