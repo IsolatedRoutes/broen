@@ -21,12 +21,50 @@ export function uid() {
   return Date.now().toString(36) + Math.random().toString(36).slice(2, 8);
 }
 
+// If an AI answer was cut off part-way (a long photo, a small answer limit) the
+// JSON never closes. Keep everything up to the last complete item and close the
+// brackets, so the items that did arrive are still usable.
+function closeTruncatedJSON(body) {
+  const stack = [];
+  let inStr = false;
+  let esc = false;
+  let best = null; // last position where a value just finished, with the open brackets then
+  for (let i = 0; i < body.length; i++) {
+    const ch = body[i];
+    if (inStr) {
+      if (esc) esc = false;
+      else if (ch === "\\") esc = true;
+      else if (ch === '"') inStr = false;
+      continue;
+    }
+    if (ch === '"') inStr = true;
+    else if (ch === "{" || ch === "[") stack.push(ch === "{" ? "}" : "]");
+    else if (ch === "}" || ch === "]") {
+      stack.pop();
+      best = { end: i + 1, closers: stack.slice().reverse().join("") };
+    }
+  }
+  return best ? body.slice(0, best.end) + best.closers : null;
+}
+
 export function parseJSONLoose(text) {
   const cleaned = text.replace(/```json/gi, "").replace(/```/g, "").trim();
   const start = cleaned.indexOf("{");
   const end = cleaned.lastIndexOf("}");
   const body = start !== -1 && end !== -1 ? cleaned.slice(start, end + 1) : cleaned;
-  return JSON.parse(body);
+  try {
+    return JSON.parse(body);
+  } catch (e) {
+    const fixed = start !== -1 ? closeTruncatedJSON(cleaned.slice(start)) : null;
+    if (fixed) {
+      try {
+        return JSON.parse(fixed);
+      } catch {
+        // fall through to the original error
+      }
+    }
+    throw e;
+  }
 }
 
 // Defensive cleanup for translation results: even with explicit prompt

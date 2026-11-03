@@ -125,11 +125,11 @@ export function PhotoPanel({ categories, addCategory, addCards, onOpenSettings, 
     setSentenceError("");
   }
 
-  async function callVision(system, userText) {
+  async function callVision(system, userText, maxTokens) {
     const base64 = await fileToBase64(file);
     const mediaType = file.type || "image/jpeg";
-    if (backend === "broen") return callBroenImage(system, userText, base64, mediaType);
-    return backend === "gemini" ? callGeminiImage(system, userText, base64, mediaType) : callClaudeImage(system, userText, base64, mediaType);
+    if (backend === "broen") return callBroenImage(system, userText, base64, mediaType, maxTokens);
+    return backend === "gemini" ? callGeminiImage(system, userText, base64, mediaType, maxTokens) : callClaudeImage(system, userText, base64, mediaType, maxTokens);
   }
 
   async function openInsight(word, meaning) {
@@ -239,7 +239,7 @@ export function PhotoPanel({ categories, addCategory, addCards, onOpenSettings, 
         'Respond ONLY with JSON, no other text: {"grammarNotes": "...", "items": [{"danish": "...", "english": "...", "type": "word", "category": "...", "forms": []}]} where "type" is "word" for single words/short phrases and "sentence" for full sentences. Use an empty string for grammarNotes if there is nothing worth noting.' + FORMS_RULE + ' ' +
         "Existing categories to prefer if one fits: " +
         (categoryNames || "(none yet)");
-      const text = await callVision(system, "Extract Danish vocabulary and sentences from this image.");
+      const text = await callVision(system, "Extract Danish vocabulary and sentences from this image.", 4000);
       const parsed = parseJSONLoose(text);
       const list = parsed.items || [];
       // Resolve each suggested category name to a real id up front (same
