@@ -195,12 +195,12 @@ with sync_playwright() as p:
         snap = json.loads(page.evaluate(DECODE))
         m = next((m for m in snap["marks"].values() if m.get("k") == "word:bortset fra"), None)
         return m
-    page.get_by_role("button", name="Ignore this card in Study").first.click(); page.wait_for_timeout(7000)
+    page.get_by_role("button", name="Star this card").first.click(); page.wait_for_timeout(7000)
     m = shared_ignored()
-    check(m is not None and m["ignored"] is True and m["progressAt"] > 0, "hiding a card is stamped and shared")
-    page.get_by_role("button", name="Stop ignoring this card").first.click(); page.wait_for_timeout(7000)
+    check(m is not None and m["starred"] is True and m["progressAt"] > 0, "hiding a card is stamped and shared")
+    page.get_by_role("button", name="Star this card").first.click(); page.wait_for_timeout(7000)
     m = shared_ignored()
-    check(m is not None and m["ignored"] is False and m["progressAt"] > 0, "un-hiding it is shared too (not just adding)")
+    check(m is not None and m["starred"] is False and m["progressAt"] > 0, "un-hiding it is shared too (not just adding)")
     ctx.close()
 
     # 6. The website has none of this.

@@ -1,13 +1,14 @@
 import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { AIErrorNote } from "../components/AIErrorNote";
+import { AskCardPopup } from "../components/AskCardPopup";
 import { CheckBadgeIcon, Icon, StarIcon } from "../components/icons";
 import { renderInlineMarkdown } from "../components/markdown";
 import { DEFAULT_NOUN_OPTS, LevelMenu, StudyCategoryMenu } from "../components/menus";
-import { CenteredOverlay, Clearable, EmptyState, inputStyle, smallBtn } from "../components/ui";
+import { CenteredOverlay, EmptyState, smallBtn } from "../components/ui";
 import { LEVELS } from "../data/categories";
 import { irregularPluralFactsHint, irregularVerbFactsHint } from "../data/irregulars";
 import { apiErrorMessage, callAI } from "../lib/ai/index";
-import { ANSWER_DEPTH_RULE, WORD_INSIGHT_SYSTEM_PROMPT, knownWordsHint } from "../lib/ai/prompts";
+import { WORD_INSIGHT_SYSTEM_PROMPT, knownWordsHint } from "../lib/ai/prompts";
 import { prebuiltInsight } from "../lib/lightbulb";
 import { hapticLight, hapticSuccess } from "../lib/haptics";
 import { LEVELUP_NEXT_GAP, levelUpDueAt, levelUpFormsFor } from "../lib/levelUp";
@@ -278,11 +279,6 @@ export function StudyView({ cards, categories, updateCard, updateCards, addCards
   // Ask-about-this-word popup — a free-form follow-up question about
   // whichever card is currently showing.
   const [askFor, setAskFor] = useState(null);
-  const [askQuestion, setAskQuestion] = useState("");
-  const [askAnswer, setAskAnswer] = useState("");
-  const [askModification, setAskModification] = useState(null);
-  const [askLoading, setAskLoading] = useState(false);
-  const [askError, setAskError] = useState("");
 
   // The session's card order is frozen when it starts (or when a filter
   // changes) so marking a card known mid-session doesn't yank it out from
@@ -670,54 +666,6 @@ export function StudyView({ cards, categories, updateCard, updateCards, addCards
   function openAsk(card) {
     if (viewRef.current.id === card.id) viewRef.current.help = true;
     setAskFor(card.id);
-    setAskQuestion("");
-    setAskAnswer("");
-    setAskModification(null);
-    setAskError("");
-  }
-
-  async function submitAsk() {
-    if (!askQuestion.trim()) return;
-    const card = cards.find((c) => c.id === askFor);
-    if (!card) return;
-    setAskLoading(true);
-    setAskError("");
-    setAskModification(null);
-    try {
-      const reply = await callAI(
-        "You're a Danish tutor helping with a single flashcard a learner is studying. They'll either ask a genuine question about it, or ask you to modify the card itself — e.g. \"give me the present tense\", \"make this plural\", \"change to past tense\", \"fix the translation\" — work out which from their wording. " +
-          "For a genuine question: answer directly in the reply field. " + ANSWER_DEPTH_RULE + "Don't pad the answer with extra context they didn't ask for. Write in plain text only: no headers, no markdown formatting, and short lines are fine. Leave newFront and newBack as empty strings. " +
-          "For a modification request: work out the new Danish text and its natural English translation, and put them in newFront and newBack — keep the same conventions the original card used (e.g. keep a noun's en/et article if the original had one, omit it if the original didn't). Leave reply as an empty string, or at most a short one-line confirmation.",
-        'The flashcard is: "' +
-          card.front +
-          '" (means: ' +
-          card.back +
-          '), type: ' +
-          card.type +
-          '. Their message: "' +
-          askQuestion.trim() +
-          '"\n\nRespond ONLY with JSON, no other text: {"reply": "...", "newFront": "...", "newBack": "..."} — use empty strings for whichever don\'t apply.',
-        { maxTokens: 600 }
-      );
-      const parsed = parseJSONLoose(reply);
-      setAskAnswer((parsed.reply || "").trim());
-      if (parsed.newFront && parsed.newFront.trim()) {
-        setAskModification({ front: parsed.newFront.trim(), back: (parsed.newBack || "").trim() });
-      }
-    } catch (e) {
-      setAskError(apiErrorMessage(e));
-    } finally {
-      setAskLoading(false);
-    }
-  }
-
-  function applyAskModification() {
-    if (!askModification || !askFor) return;
-    updateCard(askFor, { front: askModification.front, back: askModification.back });
-    setAskModification(null);
-    setAskAnswer("");
-    setAskFor(null);
-    showToast("Card updated");
   }
 
   function restartWith(mode) {
@@ -1234,62 +1182,8 @@ export function StudyView({ cards, categories, updateCard, updateCards, addCards
         </CenteredOverlay>
       )}
 
-      {askFor && (
-        <CenteredOverlay onClose={() => setAskFor(null)} maxWidth={380}>
-          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 4 }}>
-            <div style={{ fontFamily: "var(--serif)", fontSize: 18, color: "var(--terracotta)" }}>
-              Ask about "{cards.find((c) => c.id === askFor)?.front}"
-            </div>
-            <button aria-label="Close" onClick={() => setAskFor(null)} style={{ border: "none", background: "none", cursor: "pointer", padding: 4, color: "var(--muted)" }}>
-              <Icon.X size={18} />
-            </button>
-          </div>
-          <div style={{ fontFamily: "var(--sans)", fontSize: 12, color: "var(--muted)", marginBottom: 10, lineHeight: 1.4 }}>
-            Ask anything about this word, or tell me how to modify the card — e.g. "give me the present tense" or "make this plural".
-          </div>
-          <div style={{ display: "flex", gap: 8, marginBottom: 12 }}>
-            <Clearable value={askQuestion} onClear={() => { setAskQuestion(""); }}><input
-              value={askQuestion}
-              onChange={(e) => setAskQuestion(e.target.value)}
-              onKeyDown={(e) => e.key === "Enter" && submitAsk()}
-              placeholder='e.g. "make this plural"'
-              style={{ ...inputStyle, flex: 1 }}
-            /></Clearable>
-            <button onClick={submitAsk} disabled={askLoading || !askQuestion.trim()} style={smallBtn("var(--fjord)")}>
-              {askLoading ? <Icon.Loader2 size={14} className="spin" /> : <Icon.Send size={14} />}
-            </button>
-          </div>
-          {askError && <AIErrorNote message={askError} onOpenSettings={onOpenSettings} />}
-          {askAnswer && (
-            <div style={{ background: "var(--paper)", borderRadius: 8, padding: "12px 14px", fontFamily: "var(--sans)", fontSize: 14, lineHeight: 1.6, whiteSpace: "pre-wrap", marginBottom: askModification ? 10 : 0 }}>
-              {renderInlineMarkdown(askAnswer)}
-            </div>
-          )}
-          {askModification && (
-            <div style={{ background: "var(--paper)", borderRadius: 8, padding: "12px 14px" }}>
-              <div style={{ fontFamily: "var(--sans)", fontSize: 11, color: "var(--muted)", marginBottom: 6, textTransform: "uppercase", letterSpacing: 0.3 }}>
-                Suggested update
-              </div>
-              <div style={{ fontFamily: "var(--sans)", fontSize: 14, marginBottom: 12 }}>
-                <span style={{ color: "var(--terracotta)" }}>{askModification.front}</span>
-                {askModification.back && (
-                  <>
-                    {" "}
-                    — <span style={{ color: "var(--sage)", fontStyle: "italic" }}>{askModification.back}</span>
-                  </>
-                )}
-              </div>
-              <div style={{ display: "flex", gap: 8 }}>
-                <button onClick={applyAskModification} style={{ ...smallBtn("var(--rust)"), flex: 1, padding: "8px", fontSize: 13 }}>
-                  Update this card
-                </button>
-                <button onClick={() => setAskModification(null)} style={{ ...smallBtn("#A8A395"), flex: 1, padding: "8px", fontSize: 13 }}>
-                  Dismiss
-                </button>
-              </div>
-            </div>
-          )}
-        </CenteredOverlay>
+      {askFor && cards.find((c) => c.id === askFor) && (
+        <AskCardPopup card={cards.find((c) => c.id === askFor)} onClose={() => setAskFor(null)} onUpdateCard={updateCard} onOpenSettings={onOpenSettings} showToast={showToast} />
       )}
     </div>
   );

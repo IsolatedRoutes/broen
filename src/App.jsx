@@ -806,6 +806,7 @@ export default function DanishFlashcards() {
             updateCard={updateCard}
             deleteCard={deleteCard}
             onOpenSettings={() => setShowSettings(true)}
+            showToast={showToast}
           />
         )}
         {tab === "add" && <AddCardView categories={categories} addCategory={addCategory} addCards={addCards} onOpenSettings={() => setShowSettings(true)} />}

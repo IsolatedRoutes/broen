@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { AIErrorNote } from "../components/AIErrorNote";
+import { AskCardPopup } from "../components/AskCardPopup";
 import { CategoryPicker } from "../components/CategoryPicker";
 import { CheckBadgeIcon, Icon, StarIcon } from "../components/icons";
 import { renderInlineMarkdown } from "../components/markdown";
@@ -15,7 +16,7 @@ import { dictionaryKey } from "../lib/dictionarySort";
 import { cardInCategory, wordClassFor } from "../lib/vocabulary";
 import { cardKind } from "../data/sentenceCards";
 
-export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenSettings }) {
+export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenSettings, showToast }) {
   const [catFilter, setCatFilter] = useState("all");
   const [levels, setLevels] = useState([]); // none ticked = all
   const [typeFilter, setTypeFilter] = useState("all");
@@ -26,6 +27,8 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
   const [editingId, setEditingId] = useState(null);
   const [sortDir, setSortDir] = useState("asc"); // asc | desc
   const [showFilters, setShowFilters] = useState(false);
+  const [openCardId, setOpenCardId] = useState(null);
+  const [askForId, setAskForId] = useState(null);
   const [insightFor, setInsightFor] = useState(null);
   const [insightCache, setInsightCache] = useState({});
   const [insightLoading, setInsightLoading] = useState(false);
@@ -267,7 +270,6 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
                     <div key={c.id}>
                       <LibraryRow
                         card={c}
-                        categories={categories}
                         editing={editingId === c.id}
                         englishFirst={englishFirst}
                         onEdit={() => setEditingId(editingId === c.id ? null : c.id)}
@@ -277,10 +279,20 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
                         }}
                         onToggleStar={() => updateCard(c.id, { starred: !c.starred })}
                         onToggleKnown={() => updateCard(c.id, { known: !c.known })}
-                        onToggleIgnored={() => updateCard(c.id, { ignored: !c.ignored })}
                         onDelete={() => deleteCard(c.id)}
-                        onExplore={() => openInsight(c)}
+                        onOpen={() => setOpenCardId(c.id)}
                       />
+                      {openCardId === c.id && (
+                        <WordCardPopup
+                          card={c}
+                          categories={categories}
+                          englishFirst={englishFirst}
+                          onClose={() => setOpenCardId(null)}
+                          onExplore={() => openInsight(c)}
+                          onAsk={() => setAskForId(c.id)}
+                          onToggleIgnored={() => updateCard(c.id, { ignored: !c.ignored })}
+                        />
+                      )}
                       {insightFor === c.id && (
                         <CenteredOverlay onClose={() => setInsightFor(null)} maxWidth={380}>
                           <div style={{ display: "flex", justifyContent: "flex-end", marginBottom: 8 }}>
@@ -322,6 +334,9 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
                           )}
                         </CenteredOverlay>
                       )}
+                      {askForId === c.id && (
+                        <AskCardPopup card={c} onClose={() => setAskForId(null)} onUpdateCard={updateCard} onOpenSettings={onOpenSettings} showToast={showToast} />
+                      )}
                     </div>
                   ))}
                 </div>
@@ -353,21 +368,12 @@ const dropBtn = (on) => ({
   borderColor: on ? "var(--fjord)" : "var(--line)",
 });
 
-function LibraryRow({ card, categories, editing, englishFirst, onEdit, onSave, onToggleStar, onToggleKnown, onToggleIgnored, onDelete, onExplore }) {
+function LibraryRow({ card, editing, englishFirst, onEdit, onSave, onToggleStar, onToggleKnown, onDelete, onOpen }) {
   const [front, setFront] = useState(card.front);
   const [back, setBack] = useState(card.back);
   const [notes, setNotes] = useState(card.notes || "");
   const [confirmingDelete, setConfirmingDelete] = useState(false);
-  const catName =
-    categories.find((c) => c.id === card.category)?.name ||
-    (GRAMMAR_GROUPS.find((g) => g.cls === wordClassFor(card)) || {}).name ||
-    "Uncategorized";
-  // Grammar cards store an English name in front (e.g. "V2 word order"),
-  // not Danish — speaking that through a Danish voice just mangles
-  // English phonetically rather than pronouncing anything real. Their
-  // examples do contain genuine Danish, so use the first one instead;
-  // if there isn't one, there's nothing real to speak, so hide the button.
-  const speakableText = card.type === "grammar" ? card.examples && card.examples[0] && card.examples[0].da.replace(/\*/g, "") : card.front;
+  const speakableText = speakableFor(card);
 
   if (editing) {
     return (
@@ -407,46 +413,98 @@ function LibraryRow({ card, categories, editing, englishFirst, onEdit, onSave, o
 
   return (
     <div style={{ borderTop: "1px solid var(--line)", padding: "12px 16px", opacity: card.ignored ? 0.45 : card.known ? 0.6 : 1 }}>
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
-        <div>
-          <div style={{ fontFamily: "var(--serif)", fontSize: 16, color: "var(--terracotta)" }}>{englishFirst ? card.back : card.front}</div>
-          <div style={{ fontFamily: "var(--sans)", fontStyle: "italic", fontSize: 13, color: "var(--sage)" }}>{englishFirst ? card.front : card.back}</div>
-        </div>
-        <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
-          <CheckBadgeIcon size={15} filled={!!card.known} onClick={onToggleKnown} style={{ cursor: "pointer" }} />
-          <StarIcon size={15} filled={!!card.starred} color={card.starred ? "var(--rust)" : "#C9C4B6"} onClick={onToggleStar} style={{ cursor: "pointer" }} />
-          <button
-            onClick={onToggleIgnored}
-            style={{ ...iconBtn, color: card.ignored ? "var(--muted)" : "#C9C4B6" }}
-            aria-label={card.ignored ? "Stop ignoring this card" : "Ignore this card in Study"}
-          >
-            <Icon.EyeOff size={15} />
-          </button>
-        </div>
-      </div>
-      {card.notes && <div style={{ fontFamily: "var(--sans)", fontSize: 12, color: "var(--muted)", marginTop: 6 }}>{card.notes}</div>}
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginTop: 8 }}>
-        <span style={{ fontFamily: "var(--sans)", fontSize: 11, color: "var(--muted)" }}>
-          <Icon.Tag size={10} style={{ verticalAlign: -1, marginRight: 3 }} />
-          {catName}
-        </span>
-        <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 10 }}>
+        <div style={{ display: "flex", alignItems: "center", gap: 8, minWidth: 0, flex: 1 }}>
           {speechSupported() && speakableText && (
-            <button onClick={() => speakDanish(speakableText)} style={iconBtn} aria-label="Pronounce this">
+            <button onClick={() => speakDanish(speakableText)} style={{ ...iconBtn, padding: 4, flexShrink: 0 }} aria-label="Pronounce this">
               <Icon.Volume2 size={15} />
             </button>
           )}
-          <button onClick={onExplore} style={iconBtn} aria-label="Explore related words">
-            <Icon.Lightbulb size={15} />
+          <button
+            onClick={onOpen}
+            aria-label={"Open the card for " + card.front}
+            style={{ border: "none", background: "none", padding: 0, textAlign: "left", cursor: "pointer", minWidth: 0, flex: 1 }}
+          >
+            <div style={{ fontFamily: "var(--serif)", fontSize: 16, color: "var(--terracotta)" }}>{englishFirst ? card.back : card.front}</div>
+            <div style={{ fontFamily: "var(--sans)", fontStyle: "italic", fontSize: 13, color: "var(--sage)" }}>{englishFirst ? card.front : card.back}</div>
           </button>
-          <button onClick={onEdit} style={iconBtn} aria-label="Edit card">
+        </div>
+        <div style={{ display: "flex", alignItems: "center", gap: 10, flexShrink: 0 }}>
+          <CheckBadgeIcon size={15} filled={!!card.known} onClick={onToggleKnown} style={{ cursor: "pointer" }} />
+          <StarIcon size={15} filled={!!card.starred} color={card.starred ? "var(--rust)" : "#C9C4B6"} onClick={onToggleStar} style={{ cursor: "pointer" }} />
+          <button onClick={onEdit} style={{ ...iconBtn, padding: 4 }} aria-label="Edit card">
             <Icon.Edit3 size={15} />
           </button>
-          <button onClick={() => setConfirmingDelete(true)} style={iconBtn} aria-label="Delete card">
+          <button onClick={() => setConfirmingDelete(true)} style={{ ...iconBtn, padding: 4 }} aria-label="Delete card">
             <Icon.Trash2 size={15} />
           </button>
         </div>
       </div>
+      {card.notes && <div style={{ fontFamily: "var(--sans)", fontSize: 12, color: "var(--muted)", marginTop: 6 }}>{card.notes}</div>}
     </div>
+  );
+}
+
+// Grammar cards store an English name in front (e.g. "V2 word order"), not
+// Danish; speaking that through a Danish voice just mangles English. Their
+// examples contain genuine Danish, so use the first one instead; if there
+// isn't one, there is nothing real to speak.
+function speakableFor(card) {
+  return card.type === "grammar" ? card.examples && card.examples[0] && card.examples[0].da.replace(/\*/g, "") : card.front;
+}
+
+// What opens when a word is tapped in the list: the card itself, with the
+// things that used to crowd every row (explore, ask, topic).
+function WordCardPopup({ card, categories, englishFirst, onClose, onExplore, onAsk, onToggleIgnored }) {
+  const catName =
+    categories.find((c) => c.id === card.category)?.name ||
+    (GRAMMAR_GROUPS.find((g) => g.cls === wordClassFor(card)) || {}).name ||
+    "Uncategorized";
+  const levelName = (LEVELS.find((l) => l.id === card.level) || {}).name;
+  const speakableText = speakableFor(card);
+  const big = englishFirst ? card.back : card.front;
+  const small = englishFirst ? card.front : card.back;
+  return (
+    <CenteredOverlay onClose={onClose} maxWidth={380}>
+      <div style={{ display: "flex", justifyContent: "flex-end", marginBottom: 4 }}>
+        <button aria-label="Close" onClick={onClose} style={{ border: "none", background: "none", cursor: "pointer", padding: 4, color: "var(--muted)" }}>
+          <Icon.X size={16} />
+        </button>
+      </div>
+      <div style={{ textAlign: "center", padding: "6px 8px 18px" }}>
+        <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 8 }}>
+          <div style={{ fontFamily: "var(--serif)", fontSize: 26, color: "var(--terracotta)", lineHeight: 1.25 }}>{big}</div>
+          {speechSupported() && speakableText && (
+            <button onClick={() => speakDanish(speakableText)} style={iconBtn} aria-label="Pronounce this">
+              <Icon.Volume2 size={17} />
+            </button>
+          )}
+        </div>
+        <div style={{ fontFamily: "var(--sans)", fontStyle: "italic", fontSize: 17, color: "var(--sage)", marginTop: 6, lineHeight: 1.4 }}>{small}</div>
+        {card.notes && <div style={{ fontFamily: "var(--sans)", fontSize: 13, color: "var(--muted)", marginTop: 12, lineHeight: 1.5, whiteSpace: "pre-wrap" }}>{card.notes}</div>}
+        <div style={{ fontFamily: "var(--sans)", fontSize: 11.5, color: "var(--muted)", marginTop: 14 }}>
+          <Icon.Tag size={10} style={{ verticalAlign: -1, marginRight: 4 }} />
+          {catName}
+          {levelName ? " \u00b7 " + levelName : ""}
+        </div>
+      </div>
+      <div style={{ display: "flex", justifyContent: "center", gap: 28, borderTop: "1px solid var(--line)", paddingTop: 12 }}>
+        <button onClick={onExplore} style={{ ...iconBtn, flexDirection: "column", alignItems: "center", gap: 4, fontFamily: "var(--sans)", fontSize: 11.5 }} aria-label="Explore this word">
+          <Icon.Lightbulb size={20} />
+          Explore
+        </button>
+        <button onClick={onAsk} style={{ ...iconBtn, flexDirection: "column", alignItems: "center", gap: 4, fontFamily: "var(--sans)", fontSize: 11.5 }} aria-label="Ask about this word">
+          <Icon.HelpCircle size={20} />
+          Ask
+        </button>
+      </div>
+      {card.ignored && (
+        <div style={{ textAlign: "center", marginTop: 12 }}>
+          <button onClick={onToggleIgnored} style={{ border: "none", background: "none", cursor: "pointer", fontFamily: "var(--sans)", fontSize: 12, color: "var(--muted)", textDecoration: "underline" }}>
+            This card is ignored in Study. Stop ignoring it
+          </button>
+        </div>
+      )}
+    </CenteredOverlay>
   );
 }

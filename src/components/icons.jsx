@@ -133,10 +133,11 @@ export const Icon = {
       <line x1="15" y1="11" x2="15" y2="17" />
     </>
   )),
+  // A pencil (edit).
   Edit3: makeIcon(() => (
     <>
-      <line x1="4" y1="20" x2="20" y2="4" />
-      <line x1="16" y1="4" x2="20" y2="8" />
+      <path d="M4 20l1-4L16 5a2.1 2.1 0 0 1 3 3L8 19l-4 1z" />
+      <line x1="14" y1="7" x2="17" y2="10" />
     </>
   )),
   Loader2: makeIcon(() => <circle cx="12" cy="12" r="9" strokeDasharray="34 22" />),
