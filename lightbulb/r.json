@@ -7372,7 +7372,7 @@
    },
    {
     "da": "en vejleder",
-    "en": "a supervisor"
+    "en": "a counselor"
    },
    {
     "da": "en mentor",
@@ -9664,16 +9664,16 @@
   "explanation": "\"Regnfuldt\" means \"rainy\", for weather and days with a lot of rain. To say it is raining right now, use Det regner (It is raining).",
   "forms": [
    {
-    "da": "en regnfuld dag",
-    "en": "a rainy day"
+    "da": "regnfuldt",
+    "en": "rainy"
    },
    {
     "da": "et regnfuldt vejr",
     "en": "rainy weather"
    },
    {
-    "da": "regnfulde dage",
-    "en": "rainy days"
+    "da": "en regnfuld dag",
+    "en": "a rainy day"
    }
   ],
   "related": [
@@ -10128,16 +10128,20 @@
   "explanation": "\"Rester\" means \"leftovers\", food from an earlier meal that is kept to eat again. The single form en rest means a small part that remains of anything: en rest af kagen (a bit of the cake that is left).",
   "forms": [
    {
-    "da": "Der er rester i køleskabet.",
-    "en": "There are leftovers in the fridge."
+    "da": "en rest",
+    "en": "a leftover"
    },
    {
-    "da": "Jeg spiser rester til frokost.",
-    "en": "I eat leftovers for lunch."
+    "da": "resten",
+    "en": "the rest"
    },
    {
-    "da": "Vi har ikke mange rester.",
-    "en": "We do not have many leftovers."
+    "da": "rester",
+    "en": "leftovers"
+   },
+   {
+    "da": "resterne",
+    "en": "the leftovers"
    }
   ],
   "related": [

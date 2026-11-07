@@ -61,7 +61,7 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
       { const max = levelOf.get(k) === 1 ? 8 : 14; if (e.sentence.da.replace(/\*\*/g, "").trim().split(/\s+/).length > max) fail(k + ": sentence longer than " + max + " words for its level"); }
       const marked = e.sentence.da.match(/\*\*([^*]+)\*\*/)[1];
       const base = k.replace(/^(en|et|at) /, "");
-      const loose = ["både…og", "enten…eller", "er det ...?", "en / et"];
+      const loose = ["både…og", "enten…eller", "er det ...?", "en / et", "jo ... desto"]; // two-part phrases: the sentence marks both halves
       if (!loose.includes(k) && ![norm(base), norm(k)].includes(norm(marked))) fail(k + ": sentence marks '" + marked + "' instead of the card's word");
     }
   }

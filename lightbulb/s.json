@@ -4922,8 +4922,8 @@
     "en": "a crumb"
    },
    {
-    "da": "en smule",
-    "en": "a tiny bit"
+    "da": "smuldrende",
+    "en": "crumbly"
    },
    {
     "da": "at falde fra hinanden",
@@ -10083,8 +10083,8 @@
    }
   ],
   "sentence": {
-   "da": "Skal jeg **sætte på**, så vi kan få te?",
-   "en": "Shall I put the kettle on so we can have tea?"
+   "da": "Jeg vil **sætte på** noget kaffe, før gæsterne kommer.",
+   "en": "I will put on some coffee before the guests come."
   }
  },
  "at sætte sig": {
@@ -22364,10 +22364,6 @@
   ],
   "related": [
    {
-    "da": "lille",
-    "en": "small"
-   },
-   {
     "da": "en tøjstørrelse",
     "en": "a clothing size"
    },
@@ -22378,6 +22374,10 @@
    {
     "da": "et mål",
     "en": "a measurement"
+   },
+   {
+    "da": "en dimension",
+    "en": "a dimension"
    }
   ],
   "sentence": {
@@ -29103,12 +29103,12 @@
     "en": "an ironing board"
    },
    {
-    "da": "krøllet",
-    "en": "wrinkled"
+    "da": "en dampstryger",
+    "en": "a steam iron"
    },
    {
-    "da": "glat",
-    "en": "smooth"
+    "da": "et glattejern",
+    "en": "a hair straightener"
    }
   ],
   "sentence": {
@@ -29142,8 +29142,8 @@
     "en": "a wall socket"
    },
    {
-    "da": "en stikdåse",
-    "en": "a power strip"
+    "da": "en forlængerledning",
+    "en": "an extension cord"
    },
    {
     "da": "en ledning",
@@ -31618,8 +31618,8 @@
     "en": "paradoxical"
    },
    {
-    "da": "logisk",
-    "en": "logical"
+    "da": "en selvmodsigelse",
+    "en": "a contradiction"
    }
   ],
   "sentence": {
@@ -32537,16 +32537,16 @@
   ],
   "related": [
    {
-    "da": "en lang dag",
-    "en": "a long day"
-   },
-   {
-    "da": "for en dag",
-    "en": "what a day"
-   },
-   {
     "da": "sikke en overraskelse",
     "en": "what a surprise"
+   },
+   {
+    "da": "sikke en fest",
+    "en": "what a party"
+   },
+   {
+    "da": "sikke en oplevelse",
+    "en": "what an experience"
    }
   ],
   "sentence": {
@@ -34973,20 +34973,16 @@
   ],
   "related": [
    {
-    "da": "frost",
-    "en": "frost"
+    "da": "sne",
+    "en": "snow"
+   },
+   {
+    "da": "regn",
+    "en": "rain"
    },
    {
     "da": "et tøvejr",
     "en": "a thaw"
-   },
-   {
-    "da": "en byge",
-    "en": "a shower"
-   },
-   {
-    "da": "glat",
-    "en": "slippery"
    }
   ],
   "sentence": {

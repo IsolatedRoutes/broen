@@ -8350,16 +8350,16 @@
   ],
   "related": [
    {
-    "da": "en snor",
-    "en": "a leash"
+    "da": "en hundegård",
+    "en": "a fenced dog yard"
    },
    {
-    "da": "en hundeejer",
-    "en": "a dog owner"
+    "da": "en hundepension",
+    "en": "a dog boarding kennel"
    },
    {
-    "da": "en hundelufter",
-    "en": "a dog walker"
+    "da": "en hundeskole",
+    "en": "a dog school"
    }
   ],
   "sentence": {
@@ -8601,7 +8601,7 @@
    },
    {
     "da": "en husholdning",
-    "en": "housekeeping"
+    "en": "a household, housekeeping"
    },
    {
     "da": "en samlever",
@@ -11574,19 +11574,19 @@
   "forms": [
    {
     "da": "et husdyr",
-    "en": "a domestic animal / pet"
+    "en": "a domestic animal"
    },
    {
     "da": "husdyret",
-    "en": "the domestic animal / pet"
+    "en": "the domestic animal"
    },
    {
     "da": "husdyr",
-    "en": "domestic animals / pets"
+    "en": "domestic animals"
    },
    {
     "da": "husdyrene",
-    "en": "the domestic animals / pets"
+    "en": "the domestic animals"
    }
   ],
   "related": [
@@ -11720,16 +11720,20 @@
   ],
   "related": [
    {
-    "da": "en politibetjent",
-    "en": "a police officer"
-   },
-   {
-    "da": "en anholdelse",
-    "en": "an arrest"
-   },
-   {
     "da": "en lænke",
     "en": "a shackle"
+   },
+   {
+    "da": "at lænke",
+    "en": "to chain"
+   },
+   {
+    "da": "en kæde",
+    "en": "a chain"
+   },
+   {
+    "da": "en fodlænke",
+    "en": "an ankle shackle"
    }
   ],
   "sentence": {
@@ -15676,8 +15680,8 @@
     "en": "can you repeat"
    },
    {
-    "da": "hvordan",
-    "en": "how"
+    "da": "hvad for noget",
+    "en": "what (did you say)?"
    }
   ],
   "sentence": {
@@ -16431,16 +16435,20 @@
   ],
   "related": [
    {
-    "da": "peber",
-    "en": "pepper"
+    "da": "en hvidløgspresser",
+    "en": "a garlic press"
    },
    {
-    "da": "salt",
-    "en": "salt"
+    "da": "et rødløg",
+    "en": "a red onion"
    },
    {
-    "da": "ingefær",
-    "en": "ginger"
+    "da": "et forårsløg",
+    "en": "a spring onion"
+   },
+   {
+    "da": "hvidløgsbrød",
+    "en": "garlic bread"
    }
   ],
   "sentence": {
