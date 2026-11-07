@@ -290,7 +290,6 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
                           onClose={() => setOpenCardId(null)}
                           onExplore={() => openInsight(c)}
                           onAsk={() => setAskForId(c.id)}
-                          onToggleIgnored={() => updateCard(c.id, { ignored: !c.ignored })}
                         />
                       )}
                       {insightFor === c.id && (
@@ -455,7 +454,7 @@ function speakableFor(card) {
 
 // What opens when a word is tapped in the list: the card itself, with the
 // things that used to crowd every row (explore, ask, topic).
-function WordCardPopup({ card, categories, englishFirst, onClose, onExplore, onAsk, onToggleIgnored }) {
+function WordCardPopup({ card, categories, englishFirst, onClose, onExplore, onAsk }) {
   const catName =
     categories.find((c) => c.id === card.category)?.name ||
     (GRAMMAR_GROUPS.find((g) => g.cls === wordClassFor(card)) || {}).name ||
@@ -498,13 +497,6 @@ function WordCardPopup({ card, categories, englishFirst, onClose, onExplore, onA
           Ask
         </button>
       </div>
-      {card.ignored && (
-        <div style={{ textAlign: "center", marginTop: 12 }}>
-          <button onClick={onToggleIgnored} style={{ border: "none", background: "none", cursor: "pointer", fontFamily: "var(--sans)", fontSize: 12, color: "var(--muted)", textDecoration: "underline" }}>
-            This card is ignored in Study. Stop ignoring it
-          </button>
-        </div>
-      )}
     </CenteredOverlay>
   );
 }

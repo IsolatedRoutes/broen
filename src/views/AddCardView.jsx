@@ -23,6 +23,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
   const [category, setCategory] = useState("");
   const [notes, setNotes] = useState("");
   const [showNote, setShowNote] = useState(false);
+  const compactLesson = showNote || !!notes;
   const [sortOpen, setSortOpen] = useState(false);
   const [kind, setKind] = useState(""); // "", "word" or "sentence": the learner's own choice
   const [newTopic, setNewTopic] = useState("");
@@ -269,7 +270,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
       ) : (
         <>
           <BigCard>
-            <div style={{ flex: 1, minHeight: 0, display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", gap: 10, padding: "20px 18px 12px", textAlign: "center" }}>
+            <div style={{ flex: 1, minHeight: 0, display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", gap: compactLesson ? 6 : 10, padding: compactLesson ? "10px 18px" : "20px 18px 12px", textAlign: "center", overflowY: "auto" }}>
               <div style={fieldWrap}>
                 <div style={fieldLabel}>Lesson</div>
                 <div style={fieldBox}>
@@ -277,7 +278,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                     value={front}
                     onChange={(e) => { setFront(e.target.value); setLookupError(""); }}
                     autoCapitalize="none"
-                    rows={2}
+                    rows={compactLesson ? 1 : 2}
                     aria-label="Lesson name"
                     className="soft"
                     style={{ ...bareInput, resize: "none", fontFamily: "var(--serif)", fontSize: 26, lineHeight: 1.25, color: "var(--terracotta)", padding: 0, maxHeight: 110, overflowY: "auto" }}
@@ -291,7 +292,7 @@ export function AddCardView({ categories, addCategory, addCards, onOpenSettings 
                   <Clearable value={back} onClear={() => { setBack(""); }} multiline><textarea
                     value={back}
                     onChange={(e) => setBack(e.target.value)}
-                    rows={3}
+                    rows={compactLesson ? 2 : 3}
                     aria-label="Explanation"
                     className="soft"
                     style={{ ...bareInput, resize: "none", fontFamily: "var(--sans)", fontSize: 16, fontStyle: "italic", lineHeight: 1.35, color: "var(--sage)", padding: 0, maxHeight: 130, overflowY: "auto" }}
