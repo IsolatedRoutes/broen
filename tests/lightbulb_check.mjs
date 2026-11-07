@@ -7,6 +7,8 @@ const levelOf = new Map();
 for (const l of readFileSync("src/data/words.tsv", "utf8").split("\n")) { const c = l.split("\t"); if (c[0]) levelOf.set(frontKey(c[0]), Number(c[3])); }
 const fronts = new Set(readFileSync("src/data/words.tsv", "utf8").split("\n").map((l) => frontKey(l.split("\t")[0])).filter(Boolean));
 let bad = 0, n = 0;
+// Reviewed: the example proves a usage claim made in the sentence before it (no article, reply, advice, two senses), so it stays.
+const KEEP_EXAMPLE = new Set(["antibiotika", "at forbyde", "forhåbentlig", "forresten", "jaså", "nemlig", "hvis jeg var dig", "at jage", "at søge", "et spor", "sikke noget"]);
 const fail = (m) => { bad++; console.log("  problem: " + m); };
 for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
   const data = JSON.parse(readFileSync("lightbulb/" + f, "utf8"));
@@ -19,6 +21,21 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
     if (!/^"[^"]+"/.test(e.explanation)) fail(k + ": explanation must open with the quoted word'");
     const banned = /learn (it|them) as|fixed phrase|written as one word|usual pattern|participle|infinitive|conjugat|declen|definite|indefinite|neuter|\bis the (head|doll)\b|useful for text|\bit is an? (en|et)-word/i;
     if (banned.test(e.explanation)) fail(k + ": explanation has banned wording");
+    // A plain second example (a sentence that only shows the meaning again) does not belong in the
+    // explanation: the "In a sentence" box already has one. Pattern: `"X" means "..." ...: Danish (English).`
+    {
+      const ex = e.explanation;
+      const m = ex.match(/^"[^"]+" means (?:(?!\. )[^:])*?: ([^():]+?) \(([^()]+)\)[.!?](?: |$)/);
+      const lead = ex.split(":")[0];
+      const cue = /\b(compare|followed by|use |not |instead|unlike|versus| vs |while|whereas|To say|To ask|To mean|In a command|polite|formal|informal|also|other|different|opposite|contrast|but |only|never|always|cannot|another|second|first|before|after|plural|older|newer|spoken|written|slang|rude)\b/i;
+      const leadCue = /\b(with|add|Add|say|Say|ask|takes|goes|after|used with)\b/;
+      const core = k.replace(/^(en|et|at) /, "");
+      const stem = core.includes(" ") ? core.split(" ")[0].slice(0, 4) : core.slice(0, Math.max(4, core.length - 2));
+      const english = /\b(the|you|is|are|it|to|a|an|of|and|in|for|say|says|use|used|also|can|will|as|this|that|they|we|he|she|his|her|at|on|by|be|from|your|has|have)\b/;
+      if (m && !KEEP_EXAMPLE.has(k) && !cue.test(ex) && !leadCue.test(lead) && (ex.match(/\(/g) || []).length <= 2 && m[1].trim().split(/\s+/).length >= 3 && m[1].toLowerCase().includes(stem.toLowerCase()) && !english.test(m[1].toLowerCase())) {
+        fail(k + ": explanation repeats a plain example (the In a sentence box has one)");
+      }
+    }
     {
       const words = (x) => new Set((x.toLowerCase().replace(/^(at|en|et)\s+/, "").match(/[\p{L}\d]+/gu) || []));
       const parts = words(k);
