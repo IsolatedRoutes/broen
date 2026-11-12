@@ -1,9 +1,11 @@
 import { useState } from "react";
 import { AIErrorNote } from "../components/AIErrorNote";
 import { AskCardPopup } from "../components/AskCardPopup";
+import { DictionaryLookup } from "../components/DictionaryLookup";
 import { CategoryPicker } from "../components/CategoryPicker";
 import { CheckBadgeIcon, Icon, StarIcon } from "../components/icons";
 import { renderInlineMarkdown } from "../components/markdown";
+import { quietLink } from "../components/layout";
 import { CenteredOverlay, Clearable, EmptyState, Pill, iconBtn, inputStyle, smallBtn } from "../components/ui";
 import { GRAMMAR_GROUPS, LEVELS, TYPE_LABEL } from "../data/categories";
 import { irregularPluralFactsHint, irregularVerbFactsHint } from "../data/irregulars";
@@ -16,7 +18,7 @@ import { dictionaryKey } from "../lib/dictionarySort";
 import { cardInCategory, wordClassFor } from "../lib/vocabulary";
 import { cardKind } from "../data/sentenceCards";
 
-export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenSettings, showToast }) {
+export function LibraryView({ cards, categories, updateCard, deleteCard, addCards, onOpenSettings, showToast }) {
   const [catFilter, setCatFilter] = useState("all");
   const [levels, setLevels] = useState([]); // none ticked = all
   const [typeFilter, setTypeFilter] = useState("all");
@@ -24,6 +26,7 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
   const [knownFilter, setKnownFilter] = useState("all"); // all | known | unknown
   const [originFilter, setOriginFilter] = useState("all"); // all | mine | starter
   const [query, setQuery] = useState("");
+  const [lookupFor, setLookupFor] = useState(null); // the typed text the AI is looking up (started by Return, never while typing)
   const [editingId, setEditingId] = useState(null);
   const [sortDir, setSortDir] = useState("asc"); // asc | desc
   const [showFilters, setShowFilters] = useState(false);
@@ -70,6 +73,16 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
   // under G, "en hund" under H, and a fixed expression like "i dag" under D.
   const sortKey = (card) => dictionaryKey(englishFirst ? card.back : card.front, { englishFirst, sentence: card.type === "sentence" });
   const searching = query.trim() !== "";
+  const noMatches = searching && filtered.length === 0;
+  const lookupOpen = searching && lookupFor === query.trim();
+  // Return looks the word up with AI when nothing in the deck matches (no extra tap).
+  // With some matches, Return does nothing; the small link under the list does it.
+  function startLookup(force) {
+    const t = query.trim();
+    if (t.length < 2 || t.length > 80 || activeFilterCount > 0) return;
+    if (filtered.length > 0 && !force) return;
+    setLookupFor(t);
+  }
   // While searching, the best matches come first: the exact word, then words that start with
   // what was typed, then everything else that contains it.
   const matchRank = (card) => {
@@ -238,6 +251,8 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
           <Clearable value={query} onClear={() => { setQuery(""); }}><input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
+            onKeyDown={(e) => { if (e.key === "Enter") startLookup(); }}
+            enterKeyHint="search"
             placeholder="Search your deck"
             className="soft"
             style={{ flex: 1, minWidth: 0, border: "none", background: "none", outline: "none", fontSize: 16, padding: "9px 0", color: "var(--ink)" }}
@@ -259,8 +274,40 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
             <Icon.RotateCcw size={11} />
           </button>
         </div>
-        {groups.length === 0 ? (
-          <EmptyState icon={Icon.Books} title="No matching cards" body="Try a different filter, or add new cards from the Add tab or Chat." />
+        {lookupOpen && (
+          <DictionaryLookup
+            key={lookupFor}
+            q={lookupFor}
+            englishFirst={englishFirst}
+            categories={categories}
+            cards={cards}
+            addCards={addCards}
+            onOpenSettings={onOpenSettings}
+            onDismiss={() => setLookupFor(null)}
+            onShow={(word) => { setLookupFor(null); setQuery(word); }}
+            showToast={showToast}
+          />
+        )}
+        {noMatches && !lookupOpen && searching ? (
+          <div style={{ borderTop: "1px solid var(--line)", padding: "18px 16px", fontFamily: "var(--sans)", fontSize: 14, color: "var(--muted)", lineHeight: 1.5 }}>
+            {activeFilterCount > 0 ? (
+              <>
+                Nothing matches with the filters on.
+                <div>
+                  <button onClick={clearFilters} style={{ ...quietLink, color: "var(--fjord)", fontWeight: 600, marginTop: 8 }}>Clear filters</button>
+                </div>
+              </>
+            ) : (
+              <>
+                Not in your deck. Press Return to look it up with AI.
+                <div>
+                  <button onClick={() => startLookup()} style={{ ...quietLink, color: "var(--fjord)", fontWeight: 600, marginTop: 8 }}>Look up with AI</button>
+                </div>
+              </>
+            )}
+          </div>
+        ) : groups.length === 0 ? (
+          lookupOpen ? null : <EmptyState icon={Icon.Books} title="No matching cards" body="Try a different filter, or add new cards from the Add tab or Chat." />
         ) : (
           groups.map((g) => (
             <div key={g.letter || "search"} style={{ borderTop: "1px solid var(--line)" }}>
@@ -360,6 +407,14 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
           ))
         )}
       </div>
+
+      {searching && !noMatches && !lookupOpen && query.trim().length >= 2 && activeFilterCount === 0 && (
+        <div style={{ textAlign: "center", marginTop: 14 }}>
+          <button onClick={() => startLookup(true)} style={{ ...quietLink, color: "var(--fjord)", fontWeight: 600 }}>
+            Not what you wanted? Look up “{query.trim()}” with AI
+          </button>
+        </div>
+      )}
 
       <div style={{ fontFamily: "var(--sans)", fontSize: 11, color: "#B8B3A5", textAlign: "center", marginTop: 24, lineHeight: 1.5 }}>
         Built-in words were chosen with help from the FrequencyWords list by Hermit Dave (CC BY-SA 4.0). All translations are our own.
