@@ -255,7 +255,7 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, addCard
             enterKeyHint="search"
             placeholder="Search your deck"
             className="soft"
-            style={{ flex: 1, minWidth: 0, border: "none", background: "none", outline: "none", fontSize: 16, padding: "9px 0", color: "var(--ink)" }}
+            style={{ flex: 1, width: "100%", boxSizing: "border-box", minWidth: 0, border: "none", background: "none", outline: "none", fontSize: 16, padding: "9px 0", color: "var(--ink)" }}
           /></Clearable>
           <button
             onClick={() => setEnglishFirst((v) => !v)}
