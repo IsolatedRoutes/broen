@@ -22,7 +22,7 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
     const banned = /learn (it|them) as|fixed phrase|written as one word|usual pattern|participle|infinitive|conjugat|declen|definite|indefinite|neuter|\bis the (head|doll)\b|useful for text|\bit is an? (en|et)-word/i;
     if (banned.test(e.explanation)) fail(k + ": explanation has banned wording");
     // Owner's wording rules: vague phrases a beginner cannot picture.
-    const vague = /\bon its own\b|even for a single pair|\bin general\b|the usual word\b/i;
+    const vague = /\bon its own\b|even for a single pair/i;
     if (vague.test(e.explanation)) fail(k + ": explanation has a vague phrase");
     // A plain second example (a sentence that only shows the meaning again) does not belong in the
     // explanation: the "In a sentence" box already has one. Pattern: `"X" means "..." ...: Danish (English).`

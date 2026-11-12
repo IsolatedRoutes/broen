@@ -34,7 +34,8 @@ with sync_playwright() as p:
     page.goto(URL); page.wait_for_timeout(6000)
     page.get_by_role("button", name="Dictionary").last.click(); page.wait_for_timeout(800)
     page.get_by_placeholder("Search your deck").fill("bortset fra"); page.wait_for_timeout(800)
-    page.get_by_text("B", exact=True).first.click(); page.wait_for_timeout(600)
+    # Searching lists the matching words straight away: no letter to open first.
+    check(page.get_by_role("button", name="Open the card for bortset fra").count() >= 1, "search shows the word without opening a letter")
     page.get_by_role("button", name="Open the card for").first.click(); page.wait_for_timeout(400)
     page.get_by_role("button", name="Explore this word").click(); page.wait_for_timeout(2500)
     body = page.inner_text("body")

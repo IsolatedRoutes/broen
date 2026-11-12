@@ -31,9 +31,9 @@ with sync_playwright() as p:
     page.on("dialog", lambda d: d.accept())
     page.goto(URL); page.wait_for_timeout(5500)
     body = lambda: page.inner_text("body")
-    # Library groups words by first letter; open the "H" group.
+    # Searching lists the words straight away, so there is no letter group to open.
     def open_group():
-        page.get_by_text("H", exact=True).first.click(); page.wait_for_timeout(400)
+        page.wait_for_timeout(200)
     check("Card 1 of" in body(), "study screen opens")
 
     # Edit a card in the Library: mark known, star it and add a note.
