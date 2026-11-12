@@ -69,7 +69,21 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
   // Helper words are not part of the alphabet (see src/lib/dictionarySort.js): "at gå" is filed
   // under G, "en hund" under H, and a fixed expression like "i dag" under D.
   const sortKey = (card) => dictionaryKey(englishFirst ? card.back : card.front, { englishFirst, sentence: card.type === "sentence" });
+  const searching = query.trim() !== "";
+  // While searching, the best matches come first: the exact word, then words that start with
+  // what was typed, then everything else that contains it.
+  const matchRank = (card) => {
+    const q = query.trim().toLowerCase();
+    const word = dictionaryKey(englishFirst ? card.back : card.front, { englishFirst, sentence: card.type === "sentence" }).toLowerCase();
+    if (word === q) return 0;
+    if (word.startsWith(q)) return 1;
+    return 2;
+  };
   const sorted = [...filtered].sort((a, b) => {
+    if (searching) {
+      const r = matchRank(a) - matchRank(b);
+      if (r) return r;
+    }
     const cmp = sortKey(a).localeCompare(sortKey(b), englishFirst ? "en" : "da");
     return sortDir === "desc" ? -cmp : cmp;
   });
@@ -85,7 +99,9 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
     return key ? key[0].toUpperCase() : "#";
   };
   const groups = [];
-  for (const c of sorted) {
+  // Searching shows the matching words straight away as one list (no letters to open first).
+  if (searching) groups.push({ letter: "", cards: sorted });
+  else for (const c of sorted) {
     const letter = letterOf(c);
     const last = groups[groups.length - 1];
     if (last && last.letter === letter) last.cards.push(c);
@@ -247,8 +263,8 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
           <EmptyState icon={Icon.Books} title="No matching cards" body="Try a different filter, or add new cards from the Add tab or Chat." />
         ) : (
           groups.map((g) => (
-            <div key={g.letter} style={{ borderTop: "1px solid var(--line)" }}>
-              <button
+            <div key={g.letter || "search"} style={{ borderTop: "1px solid var(--line)" }}>
+              {!searching && <button
                 onClick={() => toggleLetter(g.letter)}
                 style={{
                   display: "flex",
@@ -263,8 +279,8 @@ export function LibraryView({ cards, categories, updateCard, deleteCard, onOpenS
               >
                 <span style={{ fontFamily: "var(--serif)", fontSize: 16, color: "var(--terracotta)" }}>{g.letter}</span>
                 {expandedLetters.has(g.letter) ? <Icon.ChevronUp size={14} color="var(--muted)" /> : <Icon.ChevronDown size={14} color="var(--muted)" />}
-              </button>
-              {expandedLetters.has(g.letter) && (
+              </button>}
+              {(searching || expandedLetters.has(g.letter)) && (
                 <div>
                   {g.cards.map((c) => (
                     <div key={c.id}>
