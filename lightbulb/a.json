@@ -787,7 +787,7 @@
   }
  },
  "afsted": {
-  "explanation": "\"Afsted\" means \"off\" or \"away\", for leaving a place. \"Jeg er hjemme\" (I am at home) says where you are, while \"Jeg skal afsted\" (I have to go off) says you are about to leave.",
+  "explanation": "\"Afsted\" means \"off\" or \"away\", for leaving a place.",
   "forms": [
    {
     "da": "jeg skal afsted",
@@ -822,7 +822,7 @@
   }
  },
  "aftensmad": {
-  "explanation": "\"Aftensmad\" means \"dinner\". It is built from aften (evening) and mad (food). It is the everyday word for dinner at home: \"Hvad skal vi have til aftensmad?\" (What are we having for dinner?)",
+  "explanation": "\"Aftensmad\" means \"dinner\". It is built from aften (evening) and mad (food): \"Hvad skal vi have til aftensmad?\" (What are we having for dinner?)",
   "forms": [
    {
     "da": "aftensmad",
@@ -861,7 +861,7 @@
   }
  },
  "afvænning": {
-  "explanation": "\"Afvænning\" means \"rehab\" and \"detox\", the process of getting free of a habit such as alcohol or drugs. It is built from af (off) and at vænne (to accustom): you get out of the habit, and \"fra\" (from) names the habit.",
+  "explanation": "\"Afvænning\" means \"rehab\" and \"detox\", the process of getting free of a habit such as alcohol or drugs. It is built from af (off) and at vænne (to accustom): you get out of the habit.",
   "forms": [
    {
     "da": "afvænning",
@@ -2295,7 +2295,7 @@
   }
  },
  "anspændt": {
-  "explanation": "\"Anspændt\" means \"tense\", used for a situation, a person who is strained, or tight muscles. Do not mix it up with \"spændt\" (excited).",
+  "explanation": "\"Anspændt\" means \"tense\", used for a situation, a person who is strained, or tight muscles. Do not mix it up with \"spændt\" (excited): \"Jeg er spændt på filmen\" (I am excited about the movie).",
   "forms": [
    {
     "da": "en anspændt samtale",
@@ -3137,7 +3137,7 @@
   }
  },
  "astma": {
-  "explanation": "\"En astma\" means \"asthma\", a lasting lung condition where the airways narrow. Danes leave out \"en\": \"Jeg har astma\" (I have asthma).",
+  "explanation": "\"En astma\" means \"asthma\", a lasting lung condition where the airways narrow. In a sentence Danes leave out \"en\": \"Jeg har astma\" (I have asthma).",
   "forms": [
    {
     "da": "astma",
@@ -3895,7 +3895,7 @@
   }
  },
  "at aflaste": {
-  "explanation": "\"At aflaste\" means \"to relieve\", to take part of the weight or work off someone or something. It is built from af (off) and en last (a load), so you take some of the load away, not all of it.",
+  "explanation": "\"At aflaste\" means \"to relieve\", to take part of the weight or work off someone or something. It is built from af (off) and en last (a load), so you take some of the load away.",
   "forms": [
    {
     "da": "at aflaste",
@@ -5735,7 +5735,7 @@
   }
  },
  "at anvende": {
-  "explanation": "\"At anvende\" means \"to use\" or \"to apply\": to put a method, a rule or a tool to work. In everyday talk, \"at bruge\" (to use) is more common. \"Anvende\" fits methods, rules and materials: \"Man må ikke anvende mobilen under prøven\" (You may not use the phone during the test).",
+  "explanation": "\"At anvende\" means \"to use\" or \"to apply\": to put a method, a rule or a tool to work: \"Man må ikke anvende mobilen under prøven\" (You may not use the phone during the test). In everyday talk, \"at bruge\" (to use) is more common.",
   "forms": [
    {
     "da": "at anvende",
@@ -6196,7 +6196,7 @@
   }
  },
  "atlanterhavet": {
-  "explanation": "\"Atlanterhavet\" means \"the Atlantic Ocean\", the large ocean between Europe and America. In ocean names Danish uses \"hav\" (sea) where English says \"ocean\", so the name literally says \"the Atlantic sea\".",
+  "explanation": "\"Atlanterhavet\" means \"the Atlantic Ocean\", the large ocean between Europe and America. The ending \"-et\" means \"the\", so you do not add a separate word for \"the\". The word \"hav\" (sea, ocean) is used for both seas and oceans.",
   "forms": [
    {
     "da": "i Atlanterhavet",
@@ -8050,7 +8050,7 @@
   }
  },
  "en afrejse": {
-  "explanation": "\"En afrejse\" means \"a departure\", the moment you set off on a trip, often abroad. For a train or bus leaving a station, use \"en afgang\" (a departure) instead.",
+  "explanation": "\"En afrejse\" means \"a departure\", the moment you set off on a trip, often abroad. For a train or bus leaving a station, use \"en afgang\" (a departure from a station or stop) instead.",
   "forms": [
    {
     "da": "en afrejse",
@@ -8546,7 +8546,7 @@
   }
  },
  "en afveksling": {
-  "explanation": "\"En afveksling\" means \"a variety\" or \"a change\", something different that breaks up a routine. It is common in \"til afveksling\" (for a change): \"Til afveksling lavede han mad\" (For a change, he cooked). Do not mix it up with \"en udveksling\" (an exchange).",
+  "explanation": "\"En afveksling\" means \"a variety\" or \"a change\", something different that breaks up a routine. It is common in \"til afveksling\" (for a change): \"Til afveksling lavede han mad\" (For a change, he cooked).",
   "forms": [
    {
     "da": "en afveksling",
@@ -8921,7 +8921,7 @@
   }
  },
  "en akvariefisk": {
-  "explanation": "\"En akvariefisk\" means \"an aquarium fish\", a fish kept at home in a tank. It is built from akvarium (aquarium) and fisk (fish), and \"fisk\" is also in \"en fiskestang\" (a fishing rod).",
+  "explanation": "\"En akvariefisk\" means \"an aquarium fish\", a fish kept at home in a tank. It is built from akvarium (aquarium) and fisk (fish).",
   "forms": [
    {
     "da": "en akvariefisk",
@@ -9007,7 +9007,7 @@
   }
  },
  "en alarmklokke": {
-  "explanation": "\"En alarmklokke\" means \"an alarm bell\", a bell that sounds to warn people. It is built from alarm (alarm) and klokke (bell). \"Klokke\" also means \"clock\", which is why you ask the time with \"Hvad er klokken?\" (What time is it?)",
+  "explanation": "\"En alarmklokke\" means \"an alarm bell\", a bell that sounds to warn people. It is built from alarm (alarm) and klokke (bell). \"Klokke\" also means \"clock\": \"Hvad er klokken?\" (What time is it?)",
   "forms": [
    {
     "da": "en alarmklokke",
@@ -9948,7 +9948,7 @@
   }
  },
  "en anfører": {
-  "explanation": "\"En anfører\" means \"a team captain\", the player who is in charge of a sports team on the field. It comes from \"at anføre\" (to lead), so it can also mean the leader of any group.",
+  "explanation": "\"En anfører\" means \"a team captain\", the player who is in charge of a sports team on the field. It comes from \"at anføre\" (to lead).",
   "forms": [
    {
     "da": "en anfører",
@@ -10284,7 +10284,7 @@
   }
  },
  "en anledning": {
-  "explanation": "\"En anledning\" means \"an occasion\", a particular moment that makes something fitting. It can also mean a chance or cause to do something: \"Jeg har ingen anledning til at klage\" (I have no cause to complain).",
+  "explanation": "\"En anledning\" means \"an occasion\", the event that something is done for, as in \"i anledning af hendes fødselsdag\" (on the occasion of her birthday). It can also mean a reason to do something: \"Jeg har ingen anledning til at klage\" (I have no reason to complain).",
   "forms": [
    {
     "da": "en anledning",
@@ -10538,7 +10538,7 @@
   }
  },
  "en ansigtscreme": {
-  "explanation": "\"En ansigtscreme\" means \"a face cream\", a cream that keeps your skin soft. It is built from ansigt (face) and creme (cream), and \"ansigt\" is also in \"en ansigtsmaske\" (a face mask).",
+  "explanation": "\"En ansigtscreme\" means \"a face cream\", a cream that keeps your skin soft. It is built from ansigt (face) and creme (cream).",
   "forms": [
    {
     "da": "en ansigtscreme",
@@ -12175,7 +12175,7 @@
   }
  },
  "en avis": {
-  "explanation": "\"En avis\" means \"a newspaper\", printed pages with the day's news. Do not mix it up with \"et blad\" (a magazine).",
+  "explanation": "\"En avis\" means \"a newspaper\", printed pages with the day's news.",
   "forms": [
    {
     "da": "en avis",
@@ -13222,7 +13222,7 @@
   }
  },
  "et apparat": {
-  "explanation": "\"Et apparat\" means \"a device\" or \"an appliance\", something you plug in and use.",
+  "explanation": "\"Et apparat\" means \"a device\" or \"an appliance\", a piece of equipment made for one particular job.",
   "forms": [
    {
     "da": "et apparat",

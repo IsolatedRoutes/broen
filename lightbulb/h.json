@@ -64,12 +64,12 @@
     "en": "to love"
    },
    {
-    "da": "at kunne lide",
-    "en": "to like"
+    "da": "at afsky",
+    "en": "to detest"
    },
    {
     "da": "et had",
-    "en": "hatred"
+    "en": "a hatred"
    }
   ],
   "sentence": {
@@ -453,7 +453,7 @@
   }
  },
  "at have ansvar for": {
-  "explanation": "\"At have ansvar for\" means \"to be responsible for\". \"Ansvar\" means \"responsibility\", so it is literally \"to have responsibility for\". Danish uses \"at have\" (to have) where English uses \"to be\".",
+  "explanation": "\"At have ansvar for\" means \"to be responsible for\". \"Ansvar\" means \"responsibility\", so it is literally \"to have responsibility for\".",
   "forms": [
    {
     "da": "at have ansvar for",
@@ -582,7 +582,7 @@
   }
  },
  "at have en finger med i spillet": {
-  "explanation": "\"At have en finger med i spillet\" means \"to be involved in something\": to be one of the people responsible for what happened, often in a hidden way. Literally, it is \"to have a finger in the game\". \"Jeg tror, at han havde en finger med i spillet\" (I think he had a hand in it).",
+  "explanation": "\"At have en finger med i spillet\" means \"to be involved in something\": to be one of the people responsible for what happened, often in a hidden way. Literally, it is \"to have a finger in the game\".",
   "forms": [
    {
     "da": "Han har en finger med i spillet",
@@ -1394,7 +1394,7 @@
   }
  },
  "at helbrede": {
-  "explanation": "\"At helbrede\" means \"to cure / heal\", to make a sick person well or to make an illness go away. Someone or something does it, such as a doctor or a medicine. When a cut closes by itself, use \"at hele\" (to heal) instead.",
+  "explanation": "\"At helbrede\" means \"to cure\", to make a sick person well or to make an illness go away. Someone or something does it, such as a doctor or a medicine. When a cut closes by itself, use \"at hele\" (to heal) instead.",
   "forms": [
    {
     "da": "at helbrede",
@@ -3144,7 +3144,7 @@
   }
  },
  "at huske på": {
-  "explanation": "\"At huske\" (to remember) means to recall something: \"Jeg husker hans navn\" (I remember his name). With \"på\" (on), \"at huske på\" means \"to keep in mind\": \"Husk på, at det er farligt\" (Keep in mind that it is dangerous).",
+  "explanation": "\"At huske på\" means \"to keep in mind\": \"Husk på, at det er farligt\" (Keep in mind that it is dangerous). Without \"på\" (on), \"at huske\" means \"to remember\": \"Jeg husker hans navn\" (I remember his name).",
   "forms": [
    {
     "da": "at huske på",
@@ -4733,7 +4733,7 @@
   }
  },
  "en halvdel": {
-  "explanation": "\"En halvdel\" means \"a half\", one of two equal parts. Before the thing that is cut, the word is \"halv\" (half): \"en halv pizza\" (half a pizza).",
+  "explanation": "\"En halvdel\" means \"a half\", one of two equal parts. Before a noun, use \"halv\" (half): \"en halv pizza\" (half a pizza).",
   "forms": [
    {
     "da": "en halvdel",
@@ -5268,7 +5268,7 @@
   }
  },
  "en hasselnød": {
-  "explanation": "\"En hasselnød\" means \"a hazelnut\", built from hassel (hazel) and nød (nut). \"Nød\" also names a small Danish Christmas cookie, \"en pebernød\" (a small spice cookie eaten at Christmas), so \"nød\" does not always mean a nut.",
+  "explanation": "\"En hasselnød\" means \"a hazelnut\", built from hassel (hazel) and nød (nut). \"Nød\" also appears in \"en pebernød\" (a small spice cookie eaten at Christmas), which is a cookie and not a nut.",
   "forms": [
    {
     "da": "en hasselnød",
@@ -5428,7 +5428,7 @@
   }
  },
  "en havefest": {
-  "explanation": "\"En havefest\" means \"a garden party\", a party held outside in someone's garden. It is built from have (garden) and fest (party). Do not mix it up with \"at have\" (to have), which is spelled the same.",
+  "explanation": "\"En havefest\" means \"a garden party\", a party held outside in someone's garden. It is built from have (garden) and fest (party).",
   "forms": [
    {
     "da": "en havefest",
@@ -5471,7 +5471,7 @@
   }
  },
  "en haveslange": {
-  "explanation": "\"En haveslange\" means \"a garden hose\". It is built from have (garden) and slange (hose, also snake). You can tell which one it is from the context of the sentence: \"Slangen bed ham\" (The snake bit him) is the animal.",
+  "explanation": "\"En haveslange\" means \"a garden hose\". It is built from have (garden) and slange (hose, also snake). \"Slangen bed ham\" (The snake bit him) uses the same word for the animal, so the sentence shows which meaning is meant.",
   "forms": [
    {
     "da": "en haveslange",
@@ -5596,7 +5596,7 @@
   }
  },
  "en havn": {
-  "explanation": "\"En havn\" means \"a harbor\" or \"a port\", the place where ships and boats stay. The same word is used for a small boat harbor and a big port.",
+  "explanation": "\"En havn\" means \"a harbor\" or \"a port\", the place where ships and boats stay.",
   "forms": [
    {
     "da": "en havn",
@@ -7755,7 +7755,7 @@
   }
  },
  "en hovedstad": {
-  "explanation": "\"En hovedstad\" means \"a capital city\". It is built from hoved (head) and stad (city). The same \"hoved\" (head) is in \"et hoved\" (a head) and \"en hovedperson\" (a main character).",
+  "explanation": "\"En hovedstad\" means \"a capital city\". It is built from hoved (head) and stad (city), so it is literally the head city of a country. \"Hoved\" also means \"main\" in other words, such as \"en hovedvej\" (a main road).",
   "forms": [
    {
     "da": "en hovedstad",
@@ -7837,7 +7837,7 @@
   }
  },
  "en hr-medarbejder": {
-  "explanation": "\"En HR-medarbejder\" means \"an HR employee\", someone who works with the people side of a company: finding new staff, contracts and questions from workers. Danes say \"HR\" letter by letter, like in English.",
+  "explanation": "\"En HR-medarbejder\" means \"an HR employee\", someone who works with the people side of a company: finding new staff, contracts and questions from workers.",
   "forms": [
    {
     "da": "en HR-medarbejder",
@@ -12561,7 +12561,7 @@
   }
  },
  "halvfjerds": {
-  "explanation": "\"Halvfjerds\" means \"seventy\". Danes count it as halfway to four twenties (3½ x 20 = 70). For 71, you say \"enoghalvfjerds\" (literally, \"one-and-seventy\"). Do not mix it up with \"halvfems\" (ninety).",
+  "explanation": "\"Halvfjerds\" means \"seventy\". Danes count it as halfway to four twenties (3½ x 20 = 70). For 71, you say \"enoghalvfjerds\" (literally, \"one-and-seventy\").",
   "forms": [
    {
     "da": "halvfjerds kroner",
@@ -12752,7 +12752,7 @@
   }
  },
  "handsker": {
-  "explanation": "\"Handsker\" means \"gloves\", built from hånd (hand). Gloves have separate fingers. Do not mix it up with \"en vante\" (a mitten), which has none.",
+  "explanation": "\"Handsker\" means \"gloves\", built from hånd (hand). Gloves have a separate place for each finger. Do not mix it up with \"en vante\" (a mitten), which has no separate fingers.",
   "forms": [
    {
     "da": "handskerne",
@@ -12904,7 +12904,7 @@
   }
  },
  "havearbejde": {
-  "explanation": "\"Havearbejde\" means \"gardening\", the work you do in a garden. It is built from have (garden) and arbejde (work). Do not mix up \"have\" (garden) with \"at have\" (to have), which is a different word.",
+  "explanation": "\"Havearbejde\" means \"gardening\", the work you do in a garden. It is built from have (garden) and arbejde (work).",
   "forms": [
    {
     "da": "Jeg laver havearbejde.",
@@ -13317,7 +13317,7 @@
   }
  },
  "held": {
-  "explanation": "\"Held\" means \"luck\", or good fortune in a situation. To wish someone luck, say \"held og lykke\" (good luck).",
+  "explanation": "\"Held\" means \"luck\", the good fortune that makes something turn out well. To wish someone luck, say \"held og lykke\" (good luck).",
   "forms": [
    {
     "da": "held",
@@ -13543,7 +13543,7 @@
   }
  },
  "hellere": {
-  "explanation": "\"Hellere\" means \"rather\" and says what you would choose instead. With \"må\" (must) it means \"had better\": \"Du må hellere gå nu\" (You had better go now). Do not mix it up with \"heller ikke\" (not ... either).",
+  "explanation": "\"Hellere\" means \"rather\" and says what you would choose instead. With \"må\" (must) it means \"had better\": \"Du må hellere gå nu\" (You had better go now). Do not mix it up with \"heller ikke\" (not ... either): \"Jeg kan heller ikke komme\" (I cannot come either).",
   "forms": [
    {
     "da": "jeg vil hellere have te",
@@ -13578,7 +13578,7 @@
   }
  },
  "hellere end": {
-  "explanation": "\"Hellere end\" means \"rather than\" and shows what you would not choose. It comes right before the thing you turn down. \"Hellere\" alone means \"rather\".",
+  "explanation": "\"Hellere end\" means \"rather than\" and shows what you would not choose. It comes right before the thing you turn down.",
   "forms": [
    {
     "da": "hellere end at vente",
@@ -14233,7 +14233,7 @@
   }
  },
  "herude": {
-  "explanation": "\"Herude\" means \"out here\" and tells where you are when you are outside or far out. For a place away from you, use \"derude\" (out there).",
+  "explanation": "\"Herude\" means \"out here\" and tells where you are when you are outside. For a place away from you, use \"derude\" (out there).",
   "forms": [
    {
     "da": "Det er koldt herude",
@@ -14712,7 +14712,7 @@
   }
  },
  "hjælpeløs": {
-  "explanation": "\"Hjælpeløs\" means \"helpless\", unable to do anything about a situation. It also describes a feeling: \"Jeg følte mig hjælpeløs\" (I felt helpless). Do not confuse it with \"hjælpsom\" (helpful).",
+  "explanation": "\"Hjælpeløs\" means \"helpless\", unable to do anything about a situation. It also describes a feeling: \"Jeg følte mig hjælpeløs\" (I felt helpless). Do not confuse it with \"hjælpsom\" (helpful): \"en hjælpsom nabo\" (a helpful neighbor).",
   "forms": [
    {
     "da": "en hjælpeløs baby",
@@ -15199,7 +15199,7 @@
   }
  },
  "hud": {
-  "explanation": "\"Hud\" means \"skin\", the outer covering of your body. It is also part of \"hudcreme\" (skin cream).",
+  "explanation": "\"Hud\" means \"skin\", the outer covering of your body.",
   "forms": [
    {
     "da": "en hud",
@@ -15386,7 +15386,7 @@
   }
  },
  "hundrede": {
-  "explanation": "\"Hundrede\" means \"hundred\". Put it after another number as it is: \"to hundrede\" (200) and \"tre hundrede\" (300). For 100, you can just say \"hundrede\", with no \"en\" (one) in front.",
+  "explanation": "\"Hundrede\" means \"hundred\". It does not change after another number: \"to hundrede\" (200) and \"tre hundrede\" (300). For 100, you can just say \"hundrede\", with no \"en\" (one) in front.",
   "forms": [
    {
     "da": "hundrede",

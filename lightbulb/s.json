@@ -453,7 +453,7 @@
   }
  },
  "at scanne": {
-  "explanation": "\"At scanne\" means \"to scan\", either to copy a paper into a computer or to read a barcode with a phone camera. Danish uses the same word for both.",
+  "explanation": "\"At scanne\" means \"to scan\", either to copy a paper into a computer or to read a barcode with a phone camera.",
   "forms": [
    {
     "da": "at scanne",
@@ -660,7 +660,7 @@
   }
  },
  "at se efter": {
-  "explanation": "\"At se efter\" means \"to look for\" and \"to check\": \"Jeg ser efter bussen\" (I am looking out for the bus). To check that something is as it should be, it is also used: \"Se efter, om døren er låst\" (Check whether the door is locked).",
+  "explanation": "\"At se efter\" means \"to look for\" and \"to check\". To look out for something: \"Jeg ser efter bussen\" (I am looking out for the bus). To check that something is as it should be: \"Se efter, om døren er låst\" (Check whether the door is locked).",
   "forms": [
    {
     "da": "at se efter",
@@ -1304,7 +1304,7 @@
   }
  },
  "at sige farvel": {
-  "explanation": "\"At sige farvel\" means \"to say goodbye\". \"Farvel\" (goodbye) can sound final, as if you will not meet again. Among friends, Danes more often say \"hej hej\" (bye bye) or \"vi ses\" (see you).",
+  "explanation": "\"At sige farvel\" means \"to say goodbye\". Among friends, Danes often say \"hej hej\" (bye bye) or \"vi ses\" (see you) instead of \"farvel\" (goodbye).",
   "forms": [
    {
     "da": "at sige farvel",
@@ -1878,7 +1878,7 @@
   }
  },
  "at skamme sig": {
-  "explanation": "\"At skamme sig\" means \"to be ashamed\", to feel bad because you did something wrong or foolish. To tell someone off, Danes say \"Skam dig!\" (Shame on you!).",
+  "explanation": "\"At skamme sig\" means \"to be ashamed\", to feel bad because you did something wrong or foolish. To tell someone they ought to be ashamed, say \"Skam dig!\" (Shame on you!).",
   "forms": [
    {
     "da": "at skamme sig",
@@ -2921,7 +2921,7 @@
   }
  },
  "at skulle": {
-  "explanation": "\"At skulle\" means \"to have to\" or \"should\": \"Jeg skal arbejde\" (I have to work). It is also used for plans: \"Jeg skal i skole\" (I am going to school).",
+  "explanation": "\"At skulle\" means \"to have to\" or \"to be supposed to\": \"Jeg skal arbejde\" (I have to work). It is also used for plans: \"Jeg skal i skole\" (I am going to school).",
   "forms": [
    {
     "da": "at skulle",
@@ -3167,7 +3167,7 @@
   }
  },
  "at skynde sig": {
-  "explanation": "\"At skynde sig\" means \"to hurry\". The word after the verb matches who hurries: \"Jeg skynder mig\" (I hurry), \"Han skynder sig\" (He hurries). \"Skynd dig!\" means \"Hurry up!\"",
+  "explanation": "\"At skynde sig\" means \"to hurry\". \"Sig\" (oneself) changes with who hurries: \"Jeg skynder mig\" (I hurry), \"Han skynder sig\" (He hurries). \"Skynd dig!\" means \"Hurry up!\"",
   "forms": [
    {
     "da": "at skynde sig",
@@ -3745,7 +3745,7 @@
   }
  },
  "at slide": {
-  "explanation": "\"At slide\" means \"to wear out\" and \"to toil\". Things wear out from use: \"Sko slides, når man går meget i dem\" (Shoes wear out when you walk a lot in them). A person toils by working very hard for a long time, often for a family or a living.",
+  "explanation": "\"At slide\" means \"to wear out\" and \"to toil\". Things wear out from use: \"Skoene slides op, når man går meget i dem\" (The shoes wear out when you walk a lot in them). A person toils by working very hard for a long time, often for a family or a living.",
   "forms": [
    {
     "da": "at slide",
@@ -3866,7 +3866,7 @@
   }
  },
  "at slippe af med": {
-  "explanation": "\"At slippe af med\" means \"to get rid of\": \"Hun slap af med sin forkølelse\" (She got rid of her cold). It is built from slippe (to let go) and af med (off with), so what you lose comes at the end.",
+  "explanation": "\"At slippe af med\" means \"to get rid of\": \"Hun slap af med sin forkølelse\" (She got rid of her cold). What you get rid of comes after \"med\" (with).",
   "forms": [
    {
     "da": "at slippe af med",
@@ -6395,8 +6395,8 @@
     "en": "to hop"
    },
    {
-    "da": "at springe over",
-    "en": "to skip"
+    "da": "at løbe",
+    "en": "to run"
    }
   ],
   "sentence": {
@@ -6944,7 +6944,7 @@
   }
  },
  "at starte": {
-  "explanation": "\"At starte\" means \"to start\", both for things that begin and for machines: \"Vi starter i morgen\" (We start tomorrow) and \"Bilen starter ikke\" (The car will not start). For a lesson or a film, \"at begynde\" (to begin) works too: \"Filmen begynder klokken otte\" (The film begins at eight). A car engine only \"starter\".",
+  "explanation": "\"At starte\" means \"to start\", both for things that begin and for machines: \"Vi starter i morgen\" (We start tomorrow) and \"Bilen starter ikke\" (The car will not start). For a lesson or a film, \"at begynde\" (to begin) works too: \"Filmen begynder klokken otte\" (The film begins at eight).",
   "forms": [
    {
     "da": "at starte",
@@ -7850,7 +7850,7 @@
   }
  },
  "at straffe": {
-  "explanation": "\"At straffe\" means \"to punish\", to give someone a consequence for doing wrong. It also fits mistakes, where the result hurts you: \"Fejlen blev straffet med et mål\" (The mistake was punished with a goal).",
+  "explanation": "\"At straffe\" means \"to punish\", to give someone a consequence for doing wrong. It also works for a mistake that costs you something: \"Fejlen blev straffet med et mål\" (The mistake was punished with a goal).",
   "forms": [
    {
     "da": "at straffe",
@@ -8635,7 +8635,7 @@
   }
  },
  "at stå på ski": {
-  "explanation": "\"At stå på ski\" means \"to ski\", literally to stand on skis. Water skiing works the same way: \"at stå på vandski\" (to water ski). There is no \"en\" or \"et\" (a) before \"ski\".",
+  "explanation": "\"At stå på ski\" means \"to ski\", literally to stand on skis. Water skiing works the same way: \"at stå på vandski\" (to water ski).",
   "forms": [
    {
     "da": "at stå på ski",
@@ -14189,7 +14189,7 @@
   }
  },
  "en skoledag": {
-  "explanation": "\"En skoledag\" means \"a school day\", a day when children go to school. Its opposite is \"en fridag\" (a day off).",
+  "explanation": "\"En skoledag\" means \"a school day\", a day when children go to school. A day with no school is \"en fridag\" (a day off).",
   "forms": [
    {
     "da": "en skoledag",
@@ -15337,7 +15337,7 @@
   }
  },
  "en skurk": {
-  "explanation": "\"En skurk\" means \"a villain\", the bad character in a story, film or game who works against the main character. For a real person, it means \"a crook\".",
+  "explanation": "\"En skurk\" means \"a villain\", the bad character in a story, film or game who works against the main character. A real criminal can also be called \"en skurk\" (a crook).",
   "forms": [
    {
     "da": "en skurk",
@@ -16852,7 +16852,7 @@
   }
  },
  "en snerydning": {
-  "explanation": "\"En snerydning\" means \"a snow removal\", the work of clearing snow from roads and paths. Often the town clears the roads, while owners clear the sidewalk outside their own house.",
+  "explanation": "\"En snerydning\" means \"snow removal\", the work of clearing snow from roads and paths. Often the town clears the roads, while owners clear the sidewalk outside their own house.",
   "forms": [
    {
     "da": "en snerydning",
@@ -20429,7 +20429,7 @@
   }
  },
  "en stigning": {
-  "explanation": "\"En stigning\" means \"a rise / increase\", an upward change in an amount, for example in the temperature. It can also be a slope that climbs.",
+  "explanation": "\"En stigning\" means \"a rise / increase\", an upward change in an amount, for example in the temperature. It can also be a slope that climbs: \"Bakken har en stigning på ti procent\" (The hill has a ten percent grade).",
   "forms": [
    {
     "da": "en stigning",
@@ -22593,7 +22593,7 @@
   }
  },
  "en suite": {
-  "explanation": "\"En suite\" means \"a suite\", a large, fine hotel room, often with a separate living area.",
+  "explanation": "\"En suite\" means \"a suite\", a large, luxurious hotel room, often with a separate living area.",
   "forms": [
    {
     "da": "en suite",
@@ -25092,7 +25092,7 @@
   }
  },
  "et sekund": {
-  "explanation": "\"Et sekund\" means \"a second\" on a clock. The second in order, as in number two, is \"anden\" (second). For a short wait, \"Et øjeblik, tak\" (One moment, please) is also common.",
+  "explanation": "\"Et sekund\" means \"a second\" on a clock. For a short wait, you can also say \"Et øjeblik, tak\" (One moment, please).",
   "forms": [
    {
     "da": "et sekund",
@@ -25338,7 +25338,7 @@
   }
  },
  "et sidespor": {
-  "explanation": "\"Et sidespor\" means \"a digression\" and \"a sidetrack\", a part of a conversation that leads away from the main point. Literally it is a side track on a railway line, and Danes use it the same way for talk.",
+  "explanation": "\"Et sidespor\" means \"a digression\" and \"a sidetrack\", a part of a conversation that leads away from the main point. It is built from side (side) and spor (track), like a side track on a railway line.",
   "forms": [
    {
     "da": "et sidespor",
@@ -30397,7 +30397,7 @@
   }
  },
  "sagtens": {
-  "explanation": "\"Sagtens\" means \"easily\" or \"surely\", and shows that something is perfectly possible or no problem. Most often it goes with \"kan\" or \"kunne\" (can, could).",
+  "explanation": "\"Sagtens\" means \"easily\" and shows that something is perfectly possible or no problem. Most often it goes with \"kan\" or \"kunne\" (can, could).",
   "forms": [
    {
     "da": "Han kan sagtens løfte den",
@@ -37294,7 +37294,7 @@
   }
  },
  "spirituel": {
-  "explanation": "\"Spirituel\" means \"witty\": clever with words, so that remarks are amusing and sharp. For something religious or of the soul, \"åndelig\" (spiritual) is the safest word.",
+  "explanation": "\"Spirituel\" means \"witty\": clever with words, so that remarks are amusing and sharp. For something religious or of the soul, use \"åndelig\" (spiritual).",
   "forms": [
    {
     "da": "en spirituel bemærkning",
@@ -37481,7 +37481,7 @@
   }
  },
  "sporty": {
-  "explanation": "\"Sporty\" means \"sporty\", borrowed from English, and it describes a casual, active style, mostly in clothes. It is written the same with every word: \"en sporty jakke\" (a sporty jacket), \"et sporty look\" (a sporty look), \"sporty sko\" (sporty shoes). It is about looks, while \"sportslig\" (athletic) is about sport itself.",
+  "explanation": "\"Sporty\" means \"sporty\", borrowed from English, and it describes a casual, active style, mostly in clothes. It never changes its ending: \"en sporty jakke\" (a sporty jacket), \"et sporty look\" (a sporty look), \"sporty sko\" (sporty shoes). It is about looks, while \"sportslig\" (athletic) is about sport itself.",
   "forms": [
    {
     "da": "en sporty jakke",
@@ -38768,7 +38768,7 @@
   }
  },
  "stram": {
-  "explanation": "\"Stram\" means \"tight\", fitting closely or pulled hard. About rules, it means \"strict\".",
+  "explanation": "\"Stram\" means \"tight\", fitting closely or pulled hard. About rules, it means \"strict\": \"stramme regler\" (strict rules).",
   "forms": [
    {
     "da": "en stram bluse",
@@ -38793,8 +38793,8 @@
     "en": "narrow"
    },
    {
-    "da": "at stramme",
-    "en": "to tighten"
+    "da": "stiv",
+    "en": "stiff"
    },
    {
     "da": "bred",
@@ -39419,7 +39419,7 @@
   }
  },
  "støjende": {
-  "explanation": "\"Støjende\" means \"noisy\", for a person or place that is loud all the time. For a single loud sound, use \"høj\" (loud): \"høj musik\" (loud music).",
+  "explanation": "\"Støjende\" means \"noisy\", for a person or place that is loud all the time. For something that is loud right now, use \"høj\" (loud): \"høj musik\" (loud music).",
   "forms": [
    {
     "da": "en støjende nabo",
@@ -39649,7 +39649,7 @@
   }
  },
  "subjektiv": {
-  "explanation": "\"Subjektiv\" means \"subjective\", based on personal taste and views instead of facts. That is why two people can both be right about something subjective.",
+  "explanation": "\"Subjektiv\" means \"subjective\", based on personal taste and views instead of facts.",
   "forms": [
    {
     "da": "en subjektiv holdning",
@@ -40296,7 +40296,7 @@
   }
  },
  "svimmel": {
-  "explanation": "\"Svimmel\" means \"dizzy\", the feeling that the room is spinning. Use \"er\" (am) for how you feel now and \"bliver\" (get) for when it starts: \"Jeg bliver svimmel\" (I am getting dizzy).",
+  "explanation": "\"Svimmel\" means \"dizzy\", the feeling that the room is spinning. Use \"er\" (am) for how you feel now: \"Jeg er svimmel\" (I am dizzy). Use \"bliver\" (get) for when it starts: \"Jeg bliver svimmel\" (I am getting dizzy).",
   "forms": [
    {
     "da": "en svimmel mand",
@@ -41227,7 +41227,7 @@
   }
  },
  "sådan er det bare": {
-  "explanation": "\"Sådan er det bare\" means \"that's just how it is\" and you use it for something that cannot be changed: \"Der er ofte kø her, men sådan er det bare\" (There is often a line here, but that's just how it is). The word \"bare\" (just) makes it sound calm.",
+  "explanation": "\"Sådan er det bare\" means \"that's just how it is\" and you use it for something that cannot be changed: \"Der er ofte kø her, men sådan er det bare\" (There is often a line here, but that's just how it is).",
   "forms": [
    {
     "da": "Sådan er det bare",
@@ -41749,7 +41749,7 @@
   }
  },
  "sølle": {
-  "explanation": "\"Sølle\" means \"measly\", for an amount or a thing that is too small or poor to be worth much. About a person it can mean \"pathetic\".",
+  "explanation": "\"Sølle\" means \"measly\", for an amount or a thing that is too small or poor to be worth much.",
   "forms": [
    {
     "da": "en sølle løn",
