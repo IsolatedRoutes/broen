@@ -1,6 +1,6 @@
 {
  "absolut": {
-  "explanation": "\"Absolut\" means \"absolutely\" and goes before a word to make it stronger: \"Absolut ikke!\" (Absolutely not!)",
+  "explanation": "\"Absolut\" means \"absolutely\". Put it before \"ikke\" (not) to say no strongly, or say it alone to say yes strongly.",
   "forms": [
    {
     "da": "Det er absolut nødvendigt",
@@ -409,7 +409,7 @@
   }
  },
  "afgjort": {
-  "explanation": "\"Afgjort\" means \"decided\" or \"settled\", something that is no longer open. Before a word like \"bedre\" (better), it means \"for sure\", with no doubt: \"afgjort bedre\" (clearly better).",
+  "explanation": "\"Afgjort\" means \"decided\" or \"settled\", a matter that has been decided and cannot change. Before a word like \"bedre\" (better), it means \"for sure\", with no doubt: \"afgjort bedre\" (clearly better).",
   "forms": [
    {
     "da": "Sagen er afgjort.",
@@ -748,7 +748,7 @@
   }
  },
  "afslappet": {
-  "explanation": "\"Afslappet\" means \"relaxed\", for a person who is calm and not stressed. It also fits a place or an event with an easygoing feel: \"en afslappet stemning\" (a relaxed mood).",
+  "explanation": "\"Afslappet\" means \"relaxed\", for a person who is calm and not stressed. You can also say it about a place or an event: \"en afslappet stemning\" (a relaxed mood).",
   "forms": [
    {
     "da": "en afslappet aften",
@@ -787,7 +787,7 @@
   }
  },
  "afsted": {
-  "explanation": "\"Afsted\" means \"off\" or \"away\", for leaving a place.",
+  "explanation": "\"Afsted\" means \"off\" or \"away\". Say it about someone who is leaving or has left, without naming the place.",
   "forms": [
    {
     "da": "jeg skal afsted",
@@ -1165,7 +1165,7 @@
   }
  },
  "aldeles": {
-  "explanation": "\"Aldeles\" means \"entirely\" or \"quite\". Put it before a word to make it stronger: \"aldeles umuligt\" (entirely impossible). It sounds more bookish than \"helt\" (completely), which people use in everyday talk.",
+  "explanation": "\"Aldeles\" means \"entirely\" or \"quite\". Put it before a describing word to make it stronger: \"aldeles umuligt\" (entirely impossible). It sounds more bookish than \"helt\" (completely), which people use in everyday talk.",
   "forms": [
    {
     "da": "aldeles udmærket",
@@ -2069,7 +2069,7 @@
   }
  },
  "anderledes": {
-  "explanation": "\"Anderledes\" means \"different\" and says that something stands out from what you know: \"Det er en anderledes film\" (It is an unusual film). To say that two things are not alike, use \"forskellig\" (different): \"De er forskellige\" (They are different).",
+  "explanation": "\"Anderledes\" means \"different\", unlike what you know or expect: \"Det er en anderledes film\" (It is an unusual film). To say two things are not alike, use \"forskellig\" (different): \"De er forskellige\" (They are different).",
   "forms": [
    {
     "da": "en anderledes bog",
@@ -2256,7 +2256,7 @@
   }
  },
  "anonymt": {
-  "explanation": "\"Anonymt\" means \"anonymously\", doing something without giving your name, such as sending a message or leaving a review. \"Anonym\" (anonymous) describes a person or thing, while \"anonymt\" tells how something is done.",
+  "explanation": "\"Anonymt\" means \"anonymously\", doing something without giving your name, such as sending a message or leaving a review. \"Anonym\" (anonymous) goes with a noun: \"en anonym giver\" (an anonymous donor). \"Anonymt\" goes with an action: \"Han giver anonymt\" (He gives anonymously).",
   "forms": [
    {
     "da": "Du kan stemme anonymt",
@@ -3176,7 +3176,7 @@
   }
  },
  "at acceptere": {
-  "explanation": "\"At acceptere\" means \"to accept\": \"Jeg accepterer dit tilbud\" (I accept your offer). It also fits things you must live with: \"Hun kan ikke acceptere, at han er sen\" (She cannot accept that he is late).",
+  "explanation": "\"At acceptere\" means \"to accept\": \"Jeg accepterer dit tilbud\" (I accept your offer). You can also use it for a situation you must live with: \"Hun kan ikke acceptere, at han er sen\" (She cannot accept that he is late).",
   "forms": [
    {
     "da": "at acceptere",
@@ -4715,7 +4715,7 @@
   }
  },
  "at agere": {
-  "explanation": "\"At agere\" means \"to act\", both on stage and in how a person behaves. Reacting to something is \"at reagere\" (to react).",
+  "explanation": "\"At agere\" means \"to act\", on stage and in real life. To react to something, use \"at reagere\" (to react).",
   "forms": [
    {
     "da": "at agere",
@@ -6196,7 +6196,7 @@
   }
  },
  "atlanterhavet": {
-  "explanation": "\"Atlanterhavet\" means \"the Atlantic Ocean\", the large ocean between Europe and America. The ending \"-et\" means \"the\", so you do not add a separate word for \"the\". The word \"hav\" (sea, ocean) is used for both seas and oceans.",
+  "explanation": "\"Atlanterhavet\" means \"the Atlantic Ocean\", the large ocean between Europe and America. It ends in \"havet\" (the ocean), where \"-et\" already means \"the\", so you add no separate word for \"the\".",
   "forms": [
    {
     "da": "i Atlanterhavet",
@@ -6235,7 +6235,7 @@
   }
  },
  "atomkraft": {
-  "explanation": "\"Atomkraft\" means \"nuclear power\", electricity made by splitting atoms: \"Skal Danmark have atomkraft?\" (Should Denmark have nuclear power?) Denmark does not produce it.",
+  "explanation": "\"Atomkraft\" means \"nuclear power\", electricity made by splitting atoms: \"Skal Danmark have atomkraft?\" (Should Denmark have nuclear power?)",
   "forms": [
    {
     "da": "Jeg er for atomkraft",
@@ -6484,7 +6484,7 @@
   }
  },
  "automatisk": {
-  "explanation": "\"Automatisk\" means \"automatic\": something that happens by itself. The same word also tells how something happens: \"Døren åbner automatisk\" (The door opens automatically).",
+  "explanation": "\"Automatisk\" means \"automatic\": something that happens by itself. It also means \"automatically\": \"Døren åbner automatisk\" (The door opens automatically).",
   "forms": [
    {
     "da": "en automatisk dør",
@@ -6558,7 +6558,7 @@
   }
  },
  "avanceret": {
-  "explanation": "\"Avanceret\" means \"advanced\", about things that are technically clever or at a high level. It can also hint that something is tricky to use: \"Programmet er for avanceret for mig\" (The program is too advanced for me).",
+  "explanation": "\"Avanceret\" means \"advanced\": complicated or at a high level, such as a machine, a method or a skill. It can also mean hard to use: \"Programmet er for avanceret for mig\" (The program is too advanced for me).",
   "forms": [
    {
     "da": "en avanceret maskine",
@@ -8503,7 +8503,7 @@
   }
  },
  "en aftrækker": {
-  "explanation": "\"En aftrækker\" means \"a trigger\", the small lever on a gun that you pull to shoot. For something that sets off a reaction, use \"en udløser\" (a trigger).",
+  "explanation": "\"En aftrækker\" means \"a trigger\", the small lever on a gun that you pull to shoot. For the cause that sets off an allergy attack or a reaction, use \"en udløser\" (a trigger) instead.",
   "forms": [
    {
     "da": "en aftrækker",
@@ -9046,7 +9046,7 @@
   }
  },
  "en albue": {
-  "explanation": "\"En albue\" means \"an elbow\". Danes say \"Jeg har slået albuen\" (I have hit my elbow), literally \"I have hit the elbow\".",
+  "explanation": "\"En albue\" means \"an elbow\". Where English says \"my elbow\", Danes often use the \"the\" form: \"Jeg har slået albuen\" (I hit my elbow), literally \"I hit the elbow\".",
   "forms": [
    {
     "da": "en albue",
@@ -9737,7 +9737,7 @@
   }
  },
  "en and": {
-  "explanation": "\"En and\" means \"a duck\". Its \"the\" form, \"anden\" (the duck), looks like \"anden\" (the other, second), as in \"den anden\" (the other one). You can tell which one it is from the context of the sentence.",
+  "explanation": "\"En and\" means \"a duck\". Its \"the\" form, \"anden\" (the duck), is spelled the same as \"anden\" (the other, the second): \"Anden svømmer\" (The duck swims) and \"Jeg tager den anden\" (I take the other one). The context of the sentence tells you which one it is.",
   "forms": [
    {
     "da": "en and",
@@ -10413,7 +10413,7 @@
   }
  },
  "en anmodning": {
-  "explanation": "\"En anmodning\" means \"a request\", a formal one, usually written and sent to an authority or a company. Between people, Danes just say \"at bede om\" (to ask for).",
+  "explanation": "\"En anmodning\" means \"a request\", a formal one, usually written and sent to an authority or a company. Between people, Danes say \"at bede om\" (to ask for): \"Jeg vil bede om hjælp\" (I would like to ask for help).",
   "forms": [
    {
     "da": "en anmodning",
@@ -10835,7 +10835,7 @@
   }
  },
  "en antydning": {
-  "explanation": "\"En antydning\" means \"a hint\", something said or shown indirectly instead of straight out: \"Hun gav en antydning af, at hun ville flytte\" (She dropped a hint that she would move). Unlike \"en anelse\" (a slight idea), which you have yourself, an antydning is given or shown.",
+  "explanation": "\"En antydning\" means \"a hint\", something said or shown indirectly instead of straight out: \"Hun gav en antydning af, at hun ville flytte\" (She dropped a hint that she would move). Do not mix it up with \"en anelse\" (a slight idea), which is what you have yourself: \"Jeg har en anelse om svaret\" (I have a slight idea of the answer).",
   "forms": [
    {
     "da": "en antydning",
@@ -11417,7 +11417,7 @@
   }
  },
  "en arm": {
-  "explanation": "\"En arm\" means \"an arm\". Danes say \"Hun har brækket armen\" (She has broken her arm), literally \"She has broken the arm\".",
+  "explanation": "\"En arm\" means \"an arm\". Where English says \"her arm\", Danes often use the \"the\" form: \"Hun har brækket armen\" (She has broken her arm), literally \"She has broken the arm\".",
   "forms": [
    {
     "da": "en arm",
@@ -11925,7 +11925,7 @@
   }
  },
  "en attitude": {
-  "explanation": "\"En attitude\" means \"an attitude\", but Danes mostly use it in the slang sense of a bold, sometimes cocky way of acting. For an opinion or view, they use \"en holdning\" (a stance).",
+  "explanation": "\"En attitude\" means \"an attitude\", but Danes mostly use it in the slang sense of a bold, sometimes cocky way of acting. For an opinion or view, they say \"en holdning\" (a stance): \"en positiv holdning\" (a positive attitude).",
   "forms": [
    {
     "da": "en attitude",
@@ -13054,7 +13054,7 @@
   }
  },
  "et ansigtsudtryk": {
-  "explanation": "\"Et ansigtsudtryk\" means \"a facial expression\", the way a face shows what someone feels right now. You can describe it with an adjective: \"Hun havde et glad ansigtsudtryk\" (She had a happy facial expression).",
+  "explanation": "\"Et ansigtsudtryk\" means \"a facial expression\", the look on a face at one moment. Put a word like \"glad\" (happy) before it: \"Hun havde et glad ansigtsudtryk\" (She had a happy facial expression).",
   "forms": [
    {
     "da": "et ansigtsudtryk",
@@ -13097,7 +13097,7 @@
   }
  },
  "et ansvar": {
-  "explanation": "\"Et ansvar\" means \"a responsibility\", something you must take care of. To accept it, say \"at tage ansvar\" (to take responsibility).",
+  "explanation": "\"Et ansvar\" means \"a responsibility\", something you must take care of. To take on a responsibility, say \"at tage ansvar\" (to take responsibility).",
   "forms": [
    {
     "da": "et ansvar",
@@ -13265,7 +13265,7 @@
   }
  },
  "et ar": {
-  "explanation": "\"Et ar\" means \"a scar\", a mark that stays on the skin after an injury has healed. Do not mix it up with \"et år\" (a year): the little ring on the å is the only difference.",
+  "explanation": "\"Et ar\" means \"a scar\", a mark that stays on the skin after an injury has healed. Do not mix it up with \"et år\" (a year): the only difference is the little ring over the \"å\".",
   "forms": [
    {
     "da": "et ar",
@@ -13726,7 +13726,7 @@
   }
  },
  "et auditorium": {
-  "explanation": "\"Et auditorium\" means \"an auditorium\" or \"lecture hall\", a big room with rows of rising seats, built so many students can see and hear one speaker. Rooms are often named by number: \"Auditorium 4\".",
+  "explanation": "\"Et auditorium\" means \"an auditorium\" or \"lecture hall\", a big room with rows of rising seats, built so many students can see and hear one speaker.",
   "forms": [
    {
     "da": "et auditorium",
