@@ -8,7 +8,7 @@ for (const l of readFileSync("src/data/words.tsv", "utf8").split("\n")) { const 
 const fronts = new Set(readFileSync("src/data/words.tsv", "utf8").split("\n").map((l) => frontKey(l.split("\t")[0])).filter(Boolean));
 let bad = 0, n = 0;
 // Reviewed: the example proves a usage claim made in the sentence before it (no article, reply, advice, two senses), so it stays.
-const KEEP_EXAMPLE = new Set(["antibiotika", "at forbyde", "forhåbentlig", "forresten", "jaså", "nemlig", "hvis jeg var dig", "at jage", "at søge", "et spor", "sikke noget"]);
+const KEEP_EXAMPLE = new Set(["antibiotika", "at forbyde", "forhåbentlig", "forresten", "jaså", "nemlig", "hvis jeg var dig", "at jage", "at søge", "et spor", "sikke noget", "at kommentere"]);
 const fail = (m) => { bad++; console.log("  problem: " + m); };
 for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
   const data = JSON.parse(readFileSync("lightbulb/" + f, "utf8"));
@@ -26,7 +26,7 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
     if (vague.test(e.explanation)) fail(k + ": explanation has a vague phrase");
     // Round 2 (owner): no "Compare X with Y", no vague wording, every Danish phrase or sentence in quotes.
     // Round 3 (owner): abstract labels and pointers that tell a learner nothing.
-    const vague3 = /which is (for|used for) (choices|situations|things|cases|people)|\b(group word|collective(?! agreement)|countable|uncountable|all the pieces|as a whole)\b|\bthe (exact|right|proper|correct|appropriate) (item|word|one|form|term)\b|a more specific (word|one|term)|\bin (other|some|certain) (contexts|cases|situations)\b|you do not count it|\bhas no plural\b|which looks (similar|close)|\bit looks (similar|close) to|\b(small|big|large|capital) letters?\b/i;
+    const vague3 = /which is (for|used for) (choices|situations|things|cases|people)|\b(group word|collective(?! agreement)|countable|uncountable|all the pieces|as a whole)\b|\bthe (exact|right|proper|correct|appropriate) (item|word|one|form|term)\b|a more specific (word|one|term)|\bin (other|some|certain) (contexts|cases|situations)\b|you do not count it|\bhas no plural\b|\byou put the (thing|word|action)\b|\ban action starting with\b|\bstarting with "at"|\bthe thing\b(?= \()|which looks (similar|close)|\bit looks (similar|close) to|\b(small|big|large|capital) letters?\b/i;
     if (vague3.test(e.explanation)) fail(k + ": explanation has an abstract label or vague pointer (see round 3 rules)");
     const vague2 = /(^|[.!?]\s)(Compare|Contrast|Look at)\b|rest of the sentence shows|\ba rough (number|figure|amount|guess|idea)|shows up in phrases|\bCareful:/;
     if (vague2.test(e.explanation)) fail(k + ": explanation has wording the owner rejected (Compare / rough / rest of the sentence shows)");

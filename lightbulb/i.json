@@ -500,7 +500,7 @@
   }
  },
  "at indeholde": {
-  "explanation": "\"At indeholde\" means \"to contain\". It is used on food labels, followed by what is inside: \"Produktet indeholder nødder\" (The product contains nuts).",
+  "explanation": "\"At indeholde\" means \"to contain\". It is used on food labels: \"Produktet indeholder nødder\" (The product contains nuts).",
   "forms": [
    {
     "da": "at indeholde",
@@ -1641,7 +1641,7 @@
   }
  },
  "at interessere": {
-  "explanation": "\"At interessere\" means \"to interest\", and the thing that interests you comes first: \"Fodbold interesserer mig\" (Soccer interests me). To say you are interested, use \"Jeg er interesseret i fodbold\" (I am interested in soccer).",
+  "explanation": "\"At interessere\" means \"to interest\". Danish turns it around: \"Fodbold interesserer mig\" (Soccer interests me). To say you are interested, use \"Jeg er interesseret i fodbold\" (I am interested in soccer).",
   "forms": [
    {
     "da": "at interessere",
@@ -1887,7 +1887,7 @@
   }
  },
  "at invitere": {
-  "explanation": "\"At invitere\" means \"to invite\". \"Jeg inviterer dig til min fødselsdag\" means \"I invite you to my birthday\". \"Til\" (to) goes before the event you invite someone to.",
+  "explanation": "\"At invitere\" means \"to invite\". \"Jeg inviterer dig til min fødselsdag\" means \"I invite you to my birthday\".",
   "forms": [
    {
     "da": "at invitere",
@@ -4329,7 +4329,7 @@
   }
  },
  "en interesse": {
-  "explanation": "\"En interesse\" means \"an interest\", something you like to spend time on. After \"interesse\", use \"for\" (in) to name the topic: \"Han har stor interesse for biler\" (He has a big interest in cars). To say you are interested, use \"at være interesseret i\" (to be interested in).",
+  "explanation": "\"En interesse\" means \"an interest\", something you like to spend time on. Add \"for\" (in) to say what you are interested in: \"Han har stor interesse for biler\" (He has a big interest in cars). To say you are interested, use \"at være interesseret i\" (to be interested in).",
   "forms": [
    {
     "da": "en interesse",
@@ -6046,7 +6046,7 @@
   }
  },
  "i gang med": {
-  "explanation": "\"I gang med\" means \"busy with\" or \"in the middle of\" something. It usually follows \"er\" (am / is / are), and an action after it takes \"at\" (to): \"i gang med at spise\" (in the middle of eating).",
+  "explanation": "\"I gang med\" means \"busy with\" or \"in the middle of\". It usually follows \"er\" (am / is / are): \"Jeg er i gang med lektierne\" (I am busy with the homework). To say what you are in the middle of doing, add \"at\" (to) before the action word: \"i gang med at spise\" (in the middle of eating).",
   "forms": [
    {
     "da": "Jeg er i gang med lektierne.",
@@ -6159,7 +6159,7 @@
   }
  },
  "i kraft af": {
-  "explanation": "\"I kraft af\" means \"by virtue of\" and is followed by the job or position that gives someone the right: \"i kraft af sin stilling som formand\" (by virtue of her position as chair). For ordinary causes such as weather, use \"på grund af\" (because of) instead.",
+  "explanation": "\"I kraft af\" means \"by virtue of\" and names the job or position that gives someone the right: \"i kraft af sin stilling som formand\" (by virtue of her position as chair). For ordinary causes such as weather, use \"på grund af\" (because of) instead.",
   "forms": [
    {
     "da": "i kraft af sin stilling",
@@ -6455,7 +6455,7 @@
   }
  },
  "i nærheden": {
-  "explanation": "\"I nærheden\" means \"nearby\". Add \"af\" (of) and a place to say near that place: \"i nærheden af banegården\" (near the train station).",
+  "explanation": "\"I nærheden\" means \"nearby\". To say near what, add \"af\" (of): \"i nærheden af banegården\" (near the train station).",
   "forms": [
    {
     "da": "i nærheden",
@@ -6755,7 +6755,7 @@
   }
  },
  "i stedet for": {
-  "explanation": "\"I stedet for\" means \"instead of\" and goes before the thing you drop. Before an action, put \"at\" (to) in front of the verb, and English uses -ing: \"i stedet for at vente\" (instead of waiting).",
+  "explanation": "\"I stedet for\" means \"instead of\": \"Jeg vil have te i stedet for kaffe\" (I want tea instead of coffee). To say instead of doing something, add \"at\" (to) before the action word, and English uses -ing: \"i stedet for at vente\" (instead of waiting).",
   "forms": [
    {
     "da": "i stedet for kaffe",
@@ -6872,7 +6872,7 @@
   }
  },
  "i tilfælde af": {
-  "explanation": "\"I tilfælde af\" means \"in case of\" and is followed by what might happen. To follow it with a whole sentence, add \"at\" (that): \"i tilfælde af at det regner\" (in case it rains).",
+  "explanation": "\"I tilfælde af\" means \"in case of\": \"i tilfælde af brand\" (in case of fire). To follow it with a whole sentence, add \"at\" (that): \"i tilfælde af at det regner\" (in case it rains).",
   "forms": [
    {
     "da": "i tilfælde af sygdom",
@@ -7168,7 +7168,7 @@
   }
  },
  "identisk": {
-  "explanation": "\"Identisk\" means \"identical\", exactly the same in every detail. It is followed by \"med\" (with) for what it matches: \"Svaret er identisk med mit\" (The answer is identical to mine).",
+  "explanation": "\"Identisk\" means \"identical\", exactly the same in every detail. To say what it matches, add \"med\" (with): \"Svaret er identisk med mit\" (The answer is identical to mine).",
   "forms": [
    {
     "da": "en identisk kopi",
@@ -7285,7 +7285,7 @@
   }
  },
  "ifølge": {
-  "explanation": "\"Ifølge\" means \"according to\". It is followed by where the information comes from: \"ifølge lægen\" (according to the doctor). For your own view, say \"efter min mening\" (in my opinion).",
+  "explanation": "\"Ifølge\" means \"according to\" and names where the information comes from: \"ifølge lægen\" (according to the doctor). For your own view, say \"efter min mening\" (in my opinion).",
   "forms": [
    {
     "da": "ifølge avisen",
@@ -7503,7 +7503,7 @@
   }
  },
  "ikke engang": {
-  "explanation": "\"Ikke engang\" means \"not even\" and goes right before the thing you least expected to be missing: \"Hun har ikke engang tid til en kop kaffe\" (She does not even have time for a cup of coffee).",
+  "explanation": "\"Ikke engang\" means \"not even\" and goes right before the surprising missing thing: \"Hun har ikke engang tid til en kop kaffe\" (She does not even have time for a cup of coffee).",
   "forms": [
    {
     "da": "Ikke engang min bror kom.",
@@ -8727,7 +8727,7 @@
   }
  },
  "indtil": {
-  "explanation": "\"Indtil\" means \"until\" and works before a time or before a full idea: \"Bliv, indtil du er rask\" (Stay until you are well). \"Indtil videre\" means \"for now\".",
+  "explanation": "\"Indtil\" means \"until\". It works with a time: \"indtil fredag\" (until Friday). It also works with a whole sentence: \"Bliv, indtil du er rask\" (Stay until you are well). \"Indtil videre\" means \"for now\".",
   "forms": [
    {
     "da": "indtil i morgen",
@@ -9078,7 +9078,7 @@
   }
  },
  "informeret": {
-  "explanation": "\"Informeret\" means \"informed\", knowing the facts you need before you decide or act. The topic comes after \"om\" (about): \"Er du informeret om ændringen?\" (Are you informed about the change?)",
+  "explanation": "\"Informeret\" means \"informed\", knowing the facts you need before you decide or act. To say what about, use \"om\" (about): \"Er du informeret om ændringen?\" (Are you informed about the change?)",
   "forms": [
    {
     "da": "en informeret borger",
@@ -9304,7 +9304,7 @@
   }
  },
  "inklusive": {
-  "explanation": "\"Inklusive\" means \"including\" and normally comes before what is counted. It can also come after it: \"Morgenmad inklusive\" (Breakfast included).",
+  "explanation": "\"Inklusive\" means \"including\". It can come before the price or item: \"inklusive moms\" (including tax). It can also come after: \"Morgenmad inklusive\" (Breakfast included).",
   "forms": [
    {
     "da": "inklusive moms",
@@ -9343,7 +9343,7 @@
   }
  },
  "inspireret": {
-  "explanation": "\"Inspireret\" means \"inspired\", full of ideas and energy after seeing or hearing something good. The source of the idea comes after \"af\" (by): \"inspireret af en bog\" (inspired by a book).",
+  "explanation": "\"Inspireret\" means \"inspired\", full of ideas and energy after seeing or hearing something good. To say what inspired you, add \"af\" (by): \"inspireret af en bog\" (inspired by a book).",
   "forms": [
    {
     "da": "en inspireret kunstner",
@@ -9581,7 +9581,7 @@
   }
  },
  "interesseret i": {
-  "explanation": "\"Interesseret i\" means \"interested in\". Before a verb, keep \"i\" and add \"at\" (to): \"interesseret i at lære\" (interested in learning).",
+  "explanation": "\"Interesseret i\" means \"interested in\". To say you are interested in doing something, add \"at\" (to) before the action word: \"interesseret i at lære\" (interested in learning).",
   "forms": [
    {
     "da": "Jeg er interesseret i musik.",
@@ -9803,7 +9803,7 @@
   }
  },
  "involveret": {
-  "explanation": "\"Involveret\" means \"involved\", taking part in something or tied up in it. The thing comes after \"i\" (in): \"Hun er involveret i projektet\" (She is involved in the project).",
+  "explanation": "\"Involveret\" means \"involved\", taking part in something or tied up in it. To say what you are involved in, add \"i\" (in): \"Hun er involveret i projektet\" (She is involved in the project).",
   "forms": [
    {
     "da": "en involveret person",

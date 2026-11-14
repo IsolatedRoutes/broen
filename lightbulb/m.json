@@ -39,7 +39,7 @@
   }
  },
  "at mangle": {
-  "explanation": "\"At mangle\" means \"to lack\" or \"to be missing\". What is missing comes after it: \"Jeg mangler en pen\" (I am missing a pen). With \"der\" (there) at the start, the missing thing comes after the verb: \"Der mangler en stol\" (A chair is missing).",
+  "explanation": "\"At mangle\" means \"to lack\" or \"to be missing\". \"Jeg mangler en pen\" (I am missing a pen). With \"der\" (there) at the start: \"Der mangler en stol\" (A chair is missing).",
   "forms": [
    {
     "da": "at mangle",
@@ -590,7 +590,7 @@
   }
  },
  "at melde sig til": {
-  "explanation": "\"At melde sig til\" means \"to sign up for\" something, such as a course, a team or an event. What you join comes after \"til\" (to): \"Jeg melder mig til kurset\" (I sign up for the course).",
+  "explanation": "\"At melde sig til\" means \"to sign up for\" something, such as a course, a team or an event.",
   "forms": [
    {
     "da": "at melde sig til",
@@ -758,7 +758,7 @@
   }
  },
  "at minde om": {
-  "explanation": "\"At minde om\" means \"to remind of\", and also \"to resemble\": \"Du minder mig om min bror\" (You remind me of my brother). To remind someone to do something, add \"at\" (to): \"Jeg minder dig om at ringe\" (I remind you to call).",
+  "explanation": "\"At minde om\" means \"to remind of\", and also \"to resemble\": \"Du minder mig om min bror\" (You remind me of my brother). To remind someone to call, add \"at\" (to) before the action word: \"Jeg minder dig om at ringe\" (I remind you to call).",
   "forms": [
    {
     "da": "at minde om",
@@ -1051,7 +1051,7 @@
   }
  },
  "at mistænke": {
-  "explanation": "\"At mistænke\" means \"to suspect\", to think that someone has done something wrong, without being sure. The thing they are suspected of comes after \"for\" (of): \"Hvem mistænker du for det?\" (Who do you suspect of it?)",
+  "explanation": "\"At mistænke\" means \"to suspect\", to think that someone has done something wrong, without being sure. Use \"for\" (of) for the offense: \"Jeg mistænker ham for tyveriet\" (I suspect him of the theft).",
   "forms": [
    {
     "da": "at mistænke",
@@ -1731,7 +1731,7 @@
   }
  },
  "at måtte": {
-  "explanation": "\"At måtte\" means \"may\" and \"must\": it covers being allowed to and having to. \"Må jeg gå?\" means \"May I go?\", while \"Jeg må gå nu\" means \"I have to go now\". You can tell which one it is from the context of the sentence. \"Du må ikke\" means \"You must not\", a strong warning. The next verb follows straight after it, with no \"at\" (to).",
+  "explanation": "\"At måtte\" means \"may\" and \"must\": it covers being allowed to and having to. \"Må jeg gå?\" means \"May I go?\", while \"Jeg må gå nu\" means \"I have to go now\". You can tell which one it is from the context of the sentence. \"Du må ikke\" means \"You must not\", a strong warning. Do not add \"at\" (to) before the action word.",
   "forms": [
    {
     "da": "at måtte",
@@ -2094,7 +2094,7 @@
   }
  },
  "en madkultur": {
-  "explanation": "\"En madkultur\" means \"a food culture\", the way people in a country or place cook, eat and think about food. Put the nationality or place in front: \"dansk madkultur\" (Danish food culture).",
+  "explanation": "\"En madkultur\" means \"a food culture\", the way people in a country or place cook, eat and think about food: \"dansk madkultur\" (Danish food culture), \"italiensk madkultur\" (Italian food culture).",
   "forms": [
    {
     "da": "en madkultur",
@@ -3441,7 +3441,7 @@
   }
  },
  "en masse": {
-  "explanation": "\"En masse\" means \"a lot\". Danish puts the thing straight after it, with no \"af\" (of) in between, unlike English \"a lot of\": \"en masse mennesker\" (a lot of people).",
+  "explanation": "\"En masse\" means \"a lot\". Unlike English \"a lot of\", Danish has no \"af\" (of) after it: \"en masse mennesker\" (a lot of people).",
   "forms": [
    {
     "da": "en masse",
@@ -3683,7 +3683,7 @@
   }
  },
  "en medalje": {
-  "explanation": "\"En medalje\" means \"a medal\", a prize for winning. Put the metal in front to name the kind: \"en sølvmedalje\" (a silver medal).",
+  "explanation": "\"En medalje\" means \"a medal\", a prize for winning. To name the kind, put the metal in front: \"en sølvmedalje\" (a silver medal), \"en guldmedalje\" (a gold medal).",
   "forms": [
    {
     "da": "en medalje",
@@ -3704,8 +3704,8 @@
   ],
   "related": [
    {
-    "da": "en guldmedalje",
-    "en": "a gold medal"
+    "da": "en præmie",
+    "en": "a prize"
    },
    {
     "da": "en bronzemedalje",
@@ -4140,7 +4140,7 @@
   }
  },
  "en melon": {
-  "explanation": "\"En melon\" means \"a melon\", a big round fruit with a thick skin and soft, juicy flesh. Other kinds add a word in front, like \"en honningmelon\" (a honeydew melon).",
+  "explanation": "\"En melon\" means \"a melon\", a big round fruit with a thick skin and soft, juicy flesh. One kind is \"en honningmelon\" (a honeydew melon).",
   "forms": [
    {
     "da": "en melon",
@@ -5030,7 +5030,7 @@
   }
  },
  "en minister": {
-  "explanation": "\"En minister\" means \"a minister\", a member of the government who leads one area. Put the area first to name the job: \"sundhedsminister\" (health minister).",
+  "explanation": "\"En minister\" means \"a minister\", a member of the government who leads one area. The area comes first in one word: \"en sundhedsminister\" (a health minister), \"en finansminister\" (a finance minister).",
   "forms": [
    {
     "da": "en minister",
@@ -9232,7 +9232,7 @@
   }
  },
  "et monster": {
-  "explanation": "\"Et monster\" means \"a monster\". Do not mix it up with \"et mønster\" (a pattern), which looks almost the same.",
+  "explanation": "\"Et monster\" means \"a monster\". Do not mix it up with \"et mønster\" (a pattern): \"et mønster på tøjet\" (a pattern on the cloth).",
   "forms": [
    {
     "da": "et monster",
@@ -10644,7 +10644,7 @@
   }
  },
  "mange": {
-  "explanation": "\"Mange\" means \"many\" and goes before more than one separate thing: \"mange biler\" (many cars). Before something you pour or measure, such as water, use \"meget\" (a lot, much): \"meget vand\" (a lot of water).",
+  "explanation": "\"Mange\" means \"many\", for things you can count: \"mange biler\" (many cars). For things you pour or measure, such as water, use \"meget\" (a lot, much): \"meget vand\" (a lot of water).",
   "forms": [
    {
     "da": "mange mennesker",
@@ -10683,7 +10683,7 @@
   }
  },
  "mange tak": {
-  "explanation": "\"Mange tak\" means \"many thanks\" and is stronger than \"tak\" (thanks). Add \"for\" (for) and what you are thankful for: \"Mange tak for hjælpen\" (Thank you very much for the help). People reply \"selv tak\" (you're welcome) or \"ingen årsag\" (no problem).",
+  "explanation": "\"Mange tak\" means \"many thanks\" and is stronger than \"tak\" (thanks). To say what for, add \"for\" (for): \"Mange tak for hjælpen\" (Thank you very much for the help). People reply \"selv tak\" (you're welcome) or \"ingen årsag\" (no problem).",
   "forms": [
    {
     "da": "Mange tak!",
@@ -11057,7 +11057,7 @@
   }
  },
  "masser af": {
-  "explanation": "\"Masser af\" means \"lots of\". Put it before the thing: \"masser af mad\" (lots of food), \"masser af venner\" (lots of friends).",
+  "explanation": "\"Masser af\" means \"lots of\": \"masser af mad\" (lots of food), \"masser af venner\" (lots of friends).",
   "forms": [
    {
     "da": "masser af penge",
@@ -12374,7 +12374,7 @@
   }
  },
  "mig": {
-  "explanation": "\"Mig\" means \"me\", used when something is done to you: \"Han ser mig\" (He sees me). Do not mix it up with \"jeg\" (I), which is for the one doing the action: \"Jeg ser ham\" (I see him). \"Mig\" also follows words like \"til\" (to) and \"med\" (with): \"til mig\" (to me), \"med mig\" (with me). With some verbs it means \"myself\": \"Jeg vasker mig\" (I wash myself).",
+  "explanation": "\"Mig\" means \"me\": \"Han ser mig\" (He sees me). Do not mix it up with \"jeg\" (I): \"Jeg ser ham\" (I see him). \"Mig\" is also the form after \"til\" (to) and \"med\" (with): \"til mig\" (to me), \"med mig\" (with me). With some verbs it means \"myself\": \"Jeg vasker mig\" (I wash myself).",
   "forms": [
    {
     "da": "Han ser mig.",
@@ -12487,7 +12487,7 @@
   }
  },
  "million": {
-  "explanation": "\"En million\" means \"a million\". The thing you count comes after it: \"to millioner mennesker\" (two million people). Do not mix it up with \"en milliard\" (a billion, which is 1,000 million).",
+  "explanation": "\"En million\" means \"a million\". With more than one, it becomes \"millioner\": \"to millioner mennesker\" (two million people). Do not mix it up with \"en milliard\" (a billion, which is 1,000 million).",
   "forms": [
    {
     "da": "en million",
@@ -12990,7 +12990,7 @@
   }
  },
  "mistænkt": {
-  "explanation": "\"Mistænkt\" means \"suspected\", for someone or something thought to be behind a crime or a problem. As a person word, \"en mistænkt\" is a suspect.",
+  "explanation": "\"Mistænkt\" means \"suspected\", for someone or something thought to be behind a crime or a problem. The noun \"en mistænkt\" means \"a suspect\".",
   "forms": [
    {
     "da": "en mistænkt person",
@@ -13029,7 +13029,7 @@
   }
  },
  "misundelig": {
-  "explanation": "\"Misundelig\" means \"envious\", wanting what someone else has. Add \"på\" (of) and the person: \"Han er misundelig på sin kollega\" (He is envious of his coworker).",
+  "explanation": "\"Misundelig\" means \"envious\", wanting what someone else has. To say of whom, add \"på\" (of): \"Han er misundelig på sin kollega\" (He is envious of his coworker).",
   "forms": [
    {
     "da": "en misundelig kollega",
@@ -14241,7 +14241,7 @@
   }
  },
  "må jeg bede om regningen?": {
-  "explanation": "\"Må jeg bede om regningen?\" means \"May I have the bill?\" and is a polite way to ask for it at a restaurant. \"Må jeg bede om\" means \"may I ask for\", so you can put another thing after it: \"Må jeg bede om et glas vand?\" (May I have a glass of water?).",
+  "explanation": "\"Må jeg bede om regningen?\" means \"May I have the bill?\" and is a polite way to ask for it at a restaurant. The same start works for other requests: \"Må jeg bede om et glas vand?\" (May I have a glass of water?).",
   "forms": [
    {
     "da": "Må jeg bede om regningen?",
@@ -14276,7 +14276,7 @@
   }
  },
  "må jeg få regningen?": {
-  "explanation": "\"Må jeg få regningen?\" means \"May I have the bill?\" After \"Må jeg få\" you just say what you want: \"Må jeg få en kop kaffe?\" (May I have a cup of coffee?).",
+  "explanation": "\"Må jeg få regningen?\" means \"May I have the bill?\" The same start works for other requests: \"Må jeg få en kop kaffe?\" (May I have a cup of coffee?).",
   "forms": [
    {
     "da": "Må jeg få regningen?",
