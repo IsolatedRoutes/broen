@@ -24,6 +24,13 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
     // Owner's wording rules: vague phrases a beginner cannot picture.
     const vague = /\bon its own\b|even for a single pair/i;
     if (vague.test(e.explanation)) fail(k + ": explanation has a vague phrase");
+    // Round 2 (owner): no "Compare X with Y", no vague wording, every Danish phrase or sentence in quotes.
+    const vague2 = /(^|[.!?]\s)(Compare|Contrast|Look at)\b|rest of the sentence shows|\ba rough (number|figure|amount|guess|idea)|shows up in phrases|\bCareful:/;
+    if (vague2.test(e.explanation)) fail(k + ": explanation has wording the owner rejected (Compare / rough / rest of the sentence shows)");
+    for (const m of e.explanation.matchAll(/(.)\s\(([A-Z][^()]*(?:\s[^()]*){2,}|[A-Z][^()]*[?!])\)/g)) {
+      // an English gloss that starts with a capital belongs to a phrase or sentence, which must be in quotes
+      if (m[1] !== '"' && m[1] !== '”') { fail(k + ": a Danish phrase or sentence is not in quotes before (" + m[2] + ")"); break; }
+    }
     // A plain second example (a sentence that only shows the meaning again) does not belong in the
     // explanation: the "In a sentence" box already has one. Pattern: `"X" means "..." ...: Danish (English).`
     {
