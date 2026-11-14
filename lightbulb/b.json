@@ -1,6 +1,6 @@
 {
  "at bade": {
-  "explanation": "\"At bade\" means \"to bathe\" and also \"to swim\", going into the sea or a lake for fun or to cool off. It is not for racing or training laps.",
+  "explanation": "\"At bade\" means \"to bathe\" and also \"to swim\", going into the sea or a lake for fun or to cool off: \"Vi bader i havet\" (We swim in the sea). For swimming as exercise, say \"at svømme\" (to swim): \"Hun svømmer hver morgen\" (She swims every morning).",
   "forms": [
    {
     "da": "at bade",
@@ -20,22 +20,10 @@
    }
   ],
   "related": [
-   {
-    "da": "et bad",
-    "en": "a bath"
-   },
-   {
-    "da": "en badedragt",
-    "en": "a swimsuit"
-   },
-   {
-    "da": "en strand",
-    "en": "a beach"
-   },
-   {
-    "da": "at svømme",
-    "en": "to swim"
-   }
+   "et bad",
+   "en badedragt",
+   "en strand",
+   "en bølge"
   ],
   "sentence": {
    "da": "Vi vil gerne **bade** i havet i dag.",
@@ -2118,7 +2106,7 @@
   }
  },
  "at beskatte": {
-  "explanation": "\"At beskatte\" means \"to tax\", to make people or goods pay money to the state: \"Staten beskatter alkohol hårdt\" (The state taxes alcohol heavily). It describes what the state does, not what you pay.",
+  "explanation": "\"At beskatte\" means \"to tax\", to make people or goods pay money to the state. What you pay is \"en skat\" (a tax).",
   "forms": [
    {
     "da": "at beskatte",
@@ -2548,7 +2536,7 @@
   }
  },
  "at bestige": {
-  "explanation": "\"At bestige\" means \"to climb\" a mountain: you set out to reach the summit. It takes the thing directly, with no extra word: \"Hun bestiger Mont Blanc\" (She climbs Mont Blanc). \"At klatre\" (to climb) is for climbing with hands and feet, such as a tree or a wall.",
+  "explanation": "\"At bestige\" means \"to climb\" a mountain: you set out to reach the summit. It takes the thing directly, with no extra word: \"Hun bestiger Mont Blanc\" (She climbs Mont Blanc). \"At klatre\" (to climb) is what you do with hands and feet, such as up a tree: \"Drengen klatrer i et træ\" (The boy climbs a tree).",
   "forms": [
    {
     "da": "at bestige",
@@ -3669,7 +3657,7 @@
   }
  },
  "at bide": {
-  "explanation": "\"At bide\" means \"to bite\", cutting into something with your teeth. It works for people, animals and insects: \"Myggen bed mig\" (The mosquito bit me).",
+  "explanation": "\"At bide\" means \"to bite\", cutting into something with your teeth, such as a person or an animal does: \"Hunden bed postbuddet\" (The dog bit the mail carrier). Insects bite too: \"Myggen bed mig\" (The mosquito bit me).",
   "forms": [
    {
     "da": "at bide",
@@ -4376,7 +4364,7 @@
   }
  },
  "at blive glad": {
-  "explanation": "\"At blive glad\" means \"to become happy\", the moment you feel pleased. Add \"for\" (about) to say what pleased you: \"Jeg blev glad for kagen\" (I was happy about the cake). \"Jeg er glad\" (I am happy) is about how you feel now.",
+  "explanation": "\"At blive glad\" means \"to become happy\", the moment you feel pleased. Add \"for\" (about) to say what pleased you: \"Jeg blev glad for kagen\" (I was happy about the cake). \"Jeg er glad\" (I am happy) says how you feel now.",
   "forms": [
    {
     "da": "at blive glad",
@@ -5704,7 +5692,7 @@
   }
  },
  "at bruge penge": {
-  "explanation": "\"At bruge penge\" means \"to spend money\". \"Penge\" (money) is always plural, so it never takes \"en\" or \"et\" (a).",
+  "explanation": "\"At bruge penge\" means \"to spend money\". You never put \"en\" or \"et\" before \"penge\" (money): \"Jeg bruger penge på bøger\" (I spend money on books).",
   "forms": [
    {
     "da": "at bruge penge",
@@ -6083,7 +6071,7 @@
   }
  },
  "at bukke sig": {
-  "explanation": "\"At bukke sig\" means \"to bend down\", to lower your body to reach something near the ground. Without \"sig\" (yourself), \"at bukke\" (to bow) is for showing respect.",
+  "explanation": "\"At bukke sig\" means \"to bend down\", to lower your body to reach something near the ground: \"Jeg bukker mig efter nøglen\" (I bend down for the key). Without \"sig\" (yourself), \"at bukke\" means \"to bow\": \"Han bukker for publikum\" (He bows to the audience).",
   "forms": [
    {
     "da": "at bukke sig",
@@ -6255,7 +6243,7 @@
   }
  },
  "at bygge": {
-  "explanation": "\"At bygge\" means \"to build\", for a big thing like a house or a small thing like a birdhouse.",
+  "explanation": "\"At bygge\" means \"to build\": \"at bygge et hus\" (to build a house). With \"på\" (on) it means \"to be based on\": \"Filmen bygger på en sand historie\" (The film is based on a true story).",
   "forms": [
    {
     "da": "at bygge",
@@ -6579,7 +6567,7 @@
   }
  },
  "bacon": {
-  "explanation": "\"Bacon\" means \"bacon\": salted pork cut in thin slices and fried. You count it in slices, \"skiver\" (slices), not in pieces.",
+  "explanation": "\"Bacon\" means \"bacon\": salted pork cut in thin slices and fried. You ask for it by the slice, \"skive\" (slice): \"Jeg vil have to skiver bacon\" (I want two slices of bacon).",
   "forms": [
    {
     "da": "to skiver bacon",
@@ -6614,7 +6602,7 @@
   }
  },
  "badebukser": {
-  "explanation": "\"Badebukser\" means \"swim trunks\", the short pants that men and boys swim in. The word has no singular, because Danish thinks of them as a pair.",
+  "explanation": "\"Badebukser\" means \"swim trunks\", the short pants that men and boys swim in. You say \"badebukser\" even for one pair: \"Jeg har glemt mine badebukser\" (I forgot my swim trunks).",
   "forms": [
    {
     "da": "mine badebukser",
@@ -6653,7 +6641,7 @@
   }
  },
  "badetøj": {
-  "explanation": "\"Badetøj\" means \"swimwear\": swimsuits, swim trunks and other clothes you swim in. It is built from bade (to swim) and tøj (clothes). Like tøj, it is a group word for all the pieces together, so it has no plural.",
+  "explanation": "\"Badetøj\" means \"swimwear\": swimsuits, swim trunks and other clothes you swim in. It is built from bade (to swim) and tøj (clothes). You do not use an article with it, so leave out \"en\" and \"et\": \"Jeg har badetøj med\" (I have swimwear with me).",
   "forms": [
    {
     "da": "badetøj",
@@ -6688,7 +6676,7 @@
   }
  },
  "badminton": {
-  "explanation": "\"Badminton\" means \"badminton\", spelled the same as in English. Like most sports in Danish, it goes with \"spille\" (to play).",
+  "explanation": "\"Badminton\" means \"badminton\", spelled the same as in English. Like most sports in Danish, it goes with \"spille\" (to play): \"Vi spiller badminton\" (We play badminton).",
   "forms": [
    {
     "da": "spille badminton",
@@ -6762,7 +6750,7 @@
   }
  },
  "bagage": {
-  "explanation": "\"Bagage\" means \"luggage\": all your bags and suitcases together, so it has no plural. For one single piece, say \"en kuffert\" (a suitcase) or \"en taske\" (a bag).",
+  "explanation": "\"Bagage\" means \"luggage\". You do not use an article with it, so leave out \"en\" and \"et\": \"Min bagage er tung\" (My luggage is heavy). For one single piece, say \"en kuffert\" (a suitcase) or \"en taske\" (a bag).",
   "forms": [
    {
     "da": "bagagen",
@@ -6988,7 +6976,7 @@
   }
  },
  "bagom": {
-  "explanation": "\"Bagom\" means \"behind\", with the idea of going around to the back. For a spot where something simply is, use \"bag\" (behind): \"Katten sidder bag døren\" (The cat sits behind the door).",
+  "explanation": "\"Bagom\" means \"behind\", with the idea of going around to the back: \"Vi går bagom huset\" (We walk around behind the house). For a spot where something simply is, use \"bag\" (behind): \"Katten sidder bag døren\" (The cat sits behind the door).",
   "forms": [
    {
     "da": "gå bagom bygningen",
@@ -7475,7 +7463,7 @@
   }
  },
  "barsel": {
-  "explanation": "\"Barsel\" means \"maternity or parental leave\", time off work when a child arrives. It is used for fathers too, not only mothers.",
+  "explanation": "\"Barsel\" means \"maternity or parental leave\", time off work when a child arrives: \"Hun er på barsel\" (She is on parental leave). It is used for fathers too, not only mothers.",
   "forms": [
    {
     "da": "på barsel",
@@ -7962,7 +7950,7 @@
   }
  },
  "begrænset": {
-  "explanation": "\"Begrænset\" means \"limited\": there is only a certain amount, or a point where it stops. It belongs to \"en grænse\" (a border), which is where something ends.",
+  "explanation": "\"Begrænset\" means \"limited\": there is only a certain amount, or a point where it stops: \"begrænset plads\" (limited space). It comes from \"en grænse\" (a border), which is where something ends.",
   "forms": [
    {
     "da": "en begrænset mulighed",
@@ -8297,7 +8285,7 @@
   }
  },
  "bemærkelsesværdig": {
-  "explanation": "\"Bemærkelsesværdig\" means \"remarkable\", worth noticing. It is built from at bemærke (to notice) and værdig (worthy), and it is used for results, achievements and facts that stand out.",
+  "explanation": "\"Bemærkelsesværdig\" means \"remarkable\", worth noticing: \"et bemærkelsesværdigt resultat\" (a remarkable result). It is built from at bemærke (to notice) and værdig (worthy).",
   "forms": [
    {
     "da": "en bemærkelsesværdig person",
@@ -8480,7 +8468,7 @@
   }
  },
  "berømt": {
-  "explanation": "\"Berømt\" means \"famous\" and is stronger than \"kendt\" (well-known). To say what someone or something is famous for, add \"for\" (for): \"Den er berømt for sin ost\" (It is famous for its cheese).",
+  "explanation": "\"Berømt\" means \"famous\". To say what someone or something is famous for, add \"for\" (for): \"Den er berømt for sin ost\" (It is famous for its cheese).",
   "forms": [
    {
     "da": "en berømt skuespiller",
@@ -8519,7 +8507,7 @@
   }
  },
  "beskadiget": {
-  "explanation": "\"Beskadiget\" means \"damaged\", used for things that have taken harm but can often still be used.",
+  "explanation": "\"Beskadiget\" means \"damaged\", for something that has been hurt but is not necessarily broken: \"Pakken er beskadiget\" (The package is damaged).",
   "forms": [
    {
     "da": "en beskadiget bil",
@@ -8675,7 +8663,7 @@
   }
  },
  "beskyttende": {
-  "explanation": "\"Beskyttende\" means \"protective\", used for things that keep harm away and also for people who watch over others. It comes from at beskytte (to protect).",
+  "explanation": "\"Beskyttende\" means \"protective\". It describes things that keep harm away, such as \"en beskyttende hjelm\" (a protective helmet), and people who watch over someone: \"en beskyttende far\" (a protective father). It comes from \"at beskytte\" (to protect).",
   "forms": [
    {
     "da": "en beskyttende hjelm",
@@ -8862,7 +8850,7 @@
   }
  },
  "bestik": {
-  "explanation": "\"Bestik\" means \"cutlery\": the knives, forks and spoons you eat with. It names the whole set, so for one piece say \"en kniv\" (a knife), \"en gaffel\" (a fork) or \"en ske\" (a spoon).",
+  "explanation": "\"Bestik\" means \"cutlery\": the knives, forks and spoons you eat with. For a single piece, say \"en kniv\" (a knife), \"en gaffel\" (a fork) or \"en ske\" (a spoon).",
   "forms": [
    {
     "da": "et bestik",
@@ -9088,7 +9076,7 @@
   }
  },
  "betydningsfuld": {
-  "explanation": "\"Betydningsfuld\" means \"significant\", full of meaning and weight, built from betydning (meaning) and fuld (full). It says something matters a lot, while \"betydelig\" (considerable) says something is large in amount.",
+  "explanation": "\"Betydningsfuld\" means \"significant\", full of meaning and weight, built from betydning (meaning) and fuld (full). You use it when something matters a lot: \"en betydningsfuld opdagelse\" (a significant discovery). Do not mix it up with \"betydelig\" (considerable), which says something is large in amount: \"en betydelig stigning\" (a considerable rise).",
   "forms": [
    {
     "da": "en betydningsfuld person",
@@ -9271,7 +9259,7 @@
   }
  },
  "bevismateriale": {
-  "explanation": "\"Et bevismateriale\" means \"evidence\", all the documents, photos and recordings collected to show what happened in a case. It names the whole collection at once.",
+  "explanation": "\"Et bevismateriale\" means \"evidence\", all the documents, photos and recordings collected to show what happened in a case.",
   "forms": [
    {
     "da": "et bevismateriale",
@@ -9423,7 +9411,7 @@
   }
  },
  "billedkunst": {
-  "explanation": "\"Billedkunst\" means \"art\", the school subject where pupils work with pictures and shapes. It also names visual art in general, as opposed to music or writing.",
+  "explanation": "\"Billedkunst\" means \"art\", the school subject where pupils draw, paint and make pictures.",
   "forms": [
    {
     "da": "billedkunst",
@@ -9462,7 +9450,7 @@
   }
  },
  "billig": {
-  "explanation": "\"Billig\" means \"cheap\", costing little. About quality, it can sound negative, as if the thing is poorly made. In a shop you can ask: \"Har du noget billigere?\" (Do you have something cheaper?)",
+  "explanation": "\"Billig\" means \"cheap\", costing little. About quality, it can sound negative, as if the thing is poorly made: \"Jakken ser billig ud\" (The jacket looks cheap). In a shop you can ask: \"Har du noget billigere?\" (Do you have something cheaper?)",
   "forms": [
    {
     "da": "en billig billet",
@@ -9930,7 +9918,7 @@
   }
  },
  "blodig": {
-  "explanation": "\"Blodig\" means \"bloody\", covered in blood or full of violence. Unlike English, it is not used as a mild curse: it describes real blood or a violent event.",
+  "explanation": "\"Blodig\" means \"bloody\", covered in blood or full of violence.",
   "forms": [
    {
     "da": "en blodig kniv",
@@ -10129,7 +10117,7 @@
   }
  },
  "blond": {
-  "explanation": "\"Blond\" means \"blond\", a light yellow hair color. It describes the hair itself or the person who has it.",
+  "explanation": "\"Blond\" means \"blond\", a light yellow hair color: \"blondt hår\" (blond hair), \"en blond kvinde\" (a blond woman).",
   "forms": [
    {
     "da": "en blond pige",
@@ -10511,7 +10499,7 @@
   }
  },
  "boligmarkedet": {
-  "explanation": "\"Boligmarkedet\" means \"the housing market\", the buying, selling and renting of apartments and houses, with the prices that go with it. It describes a whole country or city, not one single home.",
+  "explanation": "\"Boligmarkedet\" means \"the housing market\", the buying, selling and renting of apartments and houses, with the prices that go with it.",
   "forms": [
    {
     "da": "boligmarkedet",
@@ -10815,7 +10803,7 @@
   }
  },
  "briller": {
-  "explanation": "\"Briller\" means \"glasses\" (for your eyes) and is only used in the plural. To say you are wearing them, use \"at have briller på\" (to have glasses on).",
+  "explanation": "\"Briller\" means \"glasses\" (for your eyes). It always ends in \"r\", even for one pair: \"Jeg har nye briller\" (I have new glasses). To say you are wearing them, use \"at have briller på\" (to have glasses on).",
   "forms": [
    {
     "da": "briller",
@@ -10959,7 +10947,7 @@
   }
  },
  "brugbar": {
-  "explanation": "\"Brugbar\" means \"usable\" or \"useful\", for something that works well enough for the job. \"Nyttig\" (helpful) says more: it gives real value, while \"brugbar\" only says that it can be used.",
+  "explanation": "\"Brugbar\" means \"usable\" or \"useful\", for something that works well enough for the job: \"et brugbart forslag\" (a usable suggestion). Do not mix it up with \"nyttig\" (helpful), which you say about something that helps you a lot: \"en nyttig tip\" (a helpful tip).",
   "forms": [
    {
     "da": "en brugbar idé",
@@ -11232,7 +11220,7 @@
   }
  },
  "brød": {
-  "explanation": "\"Brød\" means \"bread\". With a number it stays the same: \"to brød\" (two loaves).",
+  "explanation": "\"Brød\" means \"bread\". To say how many loaves, put the number in front and add no ending: \"to brød\" (two loaves).",
   "forms": [
    {
     "da": "et brød",
@@ -11310,7 +11298,7 @@
   }
  },
  "bukser": {
-  "explanation": "\"Bukser\" means \"pants\" or \"trousers\". Like English pants, it is always plural, so for one pair say \"et par bukser\" (a pair of pants).",
+  "explanation": "\"Bukser\" means \"pants\" or \"trousers\". It always ends in \"r\", even for one pair, so you count pairs: \"to par bukser\" (two pairs of pants).",
   "forms": [
    {
     "da": "bukser",
@@ -11497,7 +11485,7 @@
   }
  },
  "byplanlægning": {
-  "explanation": "\"Byplanlægning\" means \"urban planning\", deciding how a town or city grows: where roads, buildings and green areas go. It is built from by (town) and planlægning (planning), and it is mostly handled by the council.",
+  "explanation": "\"Byplanlægning\" means \"urban planning\", deciding how a town or city grows: where roads, buildings and green areas go. It is built from by (town) and planlægning (planning).",
   "forms": [
    {
     "da": "byplanlægning",
@@ -11532,7 +11520,7 @@
   }
  },
  "byttepenge": {
-  "explanation": "\"Byttepenge\" means \"change\", the money you get back when you pay more than the price. Like \"penge\" (money), it is always plural. It comes from at bytte (to exchange).",
+  "explanation": "\"Byttepenge\" means \"change\", the money you get back when you pay more than the price. Like \"penge\" (money), it has no \"en\" or \"et\" in front: \"Her er dine byttepenge\" (Here is your change). It comes from \"at bytte\" (to exchange).",
   "forms": [
    {
     "da": "byttepenge",
@@ -11567,7 +11555,7 @@
   }
  },
  "både…og": {
-  "explanation": "\"Både … og\" means \"both … and\". Put \"både\" (both) before the first thing and \"og\" (and) before the second. It joins two things of the same kind.",
+  "explanation": "\"Både … og\" means \"both … and\". Put \"både\" (both) before the first thing and \"og\" (and) before the second: \"Det er både billigt og godt\" (It is both cheap and good).",
   "forms": [
    {
     "da": "både jeg og min bror",
@@ -11676,7 +11664,7 @@
   }
  },
  "bæredygtighed": {
-  "explanation": "\"Bæredygtighed\" means \"sustainability\", the idea of living and producing without using up what nature gives. It names the idea behind \"bæredygtig\" (sustainable), the word you use to describe a choice or a product.",
+  "explanation": "\"Bæredygtighed\" means \"sustainability\", the idea of living and producing without using up what nature gives. To describe a choice or a product, use \"bæredygtig\" (sustainable): \"en bæredygtig løsning\" (a sustainable solution).",
   "forms": [
    {
     "da": "bæredygtighed",
@@ -12117,7 +12105,7 @@
   }
  },
  "en badevægt": {
-  "explanation": "\"En badevægt\" means \"a bathroom scale\", used to check how heavy you are. It is built from bade (to bathe) and vægt (weight), and \"vægt\" is also a word by itself: \"Hvad er din vægt?\" (What is your weight?)",
+  "explanation": "\"En badevægt\" means \"a bathroom scale\", used to check how heavy you are. It is built from bade (to bathe) and vægt (weight). You can use \"vægt\" (weight) in other sentences too: \"Hvad er din vægt?\" (What is your weight?)",
   "forms": [
    {
     "da": "en badevægt",
@@ -13788,7 +13776,7 @@
   }
  },
  "en befolkning": {
-  "explanation": "\"En befolkning\" means \"a population\", all the people who live in a country, city or area. It is about people as a group; one person in it is \"en indbygger\" (an inhabitant).",
+  "explanation": "\"En befolkning\" means \"a population\", the people who live in a country, city or area. One person living there is \"en indbygger\" (an inhabitant).",
   "forms": [
    {
     "da": "en befolkning",
@@ -13874,7 +13862,7 @@
   }
  },
  "en begavelse": {
-  "explanation": "\"En begavelse\" means \"a talent\", natural mental ability that you are born with, not a skill learned by practice: \"en stor begavelse\" (a great mind). Do not mix it up with \"et talent\", which is a gift for one particular skill, like music.",
+  "explanation": "\"En begavelse\" means \"a talent\", natural mental ability that you are born with, not a skill learned by practice: \"en stor begavelse\" (a great mind). Do not mix it up with \"et talent\" (a talent), a gift for one skill, such as \"et talent for musik\" (a talent for music).",
   "forms": [
    {
     "da": "en begavelse",
@@ -13999,7 +13987,7 @@
   }
  },
  "en begrundelse": {
-  "explanation": "\"En begrundelse\" means \"a justification\" or \"a reason\", what you say to show why you did or decided something. It is used when someone asks you to defend an answer or a choice, for example at school or at work.",
+  "explanation": "\"En begrundelse\" means \"a justification\" or \"a reason\", what you say to show why you did or decided something. You give one when someone asks why: \"Hvad er begrundelsen?\" (What is the reason?)",
   "forms": [
    {
     "da": "en begrundelse",
@@ -14210,7 +14198,7 @@
   }
  },
  "en bekendt": {
-  "explanation": "\"En bekendt\" means \"an acquaintance\", a person you have met a few times but are not close to: \"Han er en bekendt, ikke en nær ven\" (He is an acquaintance, not a close friend). As a plain describing word, \"bekendt\" means \"familiar\": \"Sangen lyder bekendt\" (The song sounds familiar).",
+  "explanation": "\"En bekendt\" means \"an acquaintance\", a person you have met a few times but are not close to: \"Han er en bekendt, ikke en nær ven\" (He is an acquaintance, not a close friend). After \"lyder\" (sounds) or \"er\" (is), the word \"bekendt\" means \"familiar\": \"Sangen lyder bekendt\" (The song sounds familiar).",
   "forms": [
    {
     "da": "en bekendt",
@@ -14538,7 +14526,7 @@
   }
  },
  "en berøring": {
-  "explanation": "\"En berøring\" means \"a touch\", the moment when one thing meets another: \"en blid berøring\" (a gentle touch). It names the single touch itself, while the action is \"at berøre\" (to touch).",
+  "explanation": "\"En berøring\" means \"a touch\", the moment when one thing meets another: \"en blid berøring\" (a gentle touch). The verb is \"at berøre\" (to touch): \"Han berørte min arm\" (He touched my arm).",
   "forms": [
    {
     "da": "en berøring",
@@ -14749,7 +14737,7 @@
   }
  },
  "en beskæresaks": {
-  "explanation": "\"En beskæresaks\" means \"pruning shears\", strong scissors for cutting back branches and stems. Danish counts it as one tool, just as \"en saks\" (a pair of scissors) is one tool.",
+  "explanation": "\"En beskæresaks\" means \"pruning shears\", strong scissors for cutting back branches and stems. You use \"en\" with it, just as with \"en saks\" (a pair of scissors): \"Jeg har købt en beskæresaks\" (I have bought pruning shears).",
   "forms": [
    {
     "da": "en beskæresaks",
@@ -15706,7 +15694,7 @@
   }
  },
  "en biavler": {
-  "explanation": "\"En biavler\" means \"a beekeeper\", a person who looks after colonies and collects the honey. The ending comes from \"at avle\" (to breed or raise), so the job is about raising the colonies.",
+  "explanation": "\"En biavler\" means \"a beekeeper\", a person who looks after colonies and collects the honey. The ending comes from \"at avle\" (to breed or raise).",
   "forms": [
    {
     "da": "en biavler",
@@ -16995,7 +16983,7 @@
   }
  },
  "en blodåre": {
-  "explanation": "\"En blodåre\" means \"a blood vessel\" or \"a vein\", any tube that carries blood around the body. More exact words are \"en vene\" (a vein) for blood going to the heart and \"en pulsåre\" (an artery) for blood leaving it.",
+  "explanation": "\"En blodåre\" means \"a blood vessel\" or \"a vein\", any tube that carries blood around the body. Doctors separate two kinds: \"en vene\" (a vein) carries blood to the heart, and \"en pulsåre\" (an artery) carries it away from the heart.",
   "forms": [
    {
     "da": "en blodåre",
@@ -17694,7 +17682,7 @@
   }
  },
  "en boghandler": {
-  "explanation": "\"En boghandler\" means \"a bookseller\", the person who sells books, and in everyday speech also the shop itself: \"Jeg går forbi boghandleren\" (I am going past the bookstore). The more exact word for the shop is \"en boghandel\" (a bookstore).",
+  "explanation": "\"En boghandler\" means \"a bookseller\", the person who sells books, and in everyday speech also the shop itself: \"Jeg går forbi boghandleren\" (I am going past the bookstore). The shop is also called \"en boghandel\" (a bookstore).",
   "forms": [
    {
     "da": "en boghandler",
@@ -18928,7 +18916,7 @@
   }
  },
  "en bregne": {
-  "explanation": "\"En bregne\" means \"a fern\", a green plant with feathery leaves. It has no flowers, and it spreads with tiny spores. It likes shade and damp ground.",
+  "explanation": "\"En bregne\" means \"a fern\", a green plant with feathery leaves.",
   "forms": [
    {
     "da": "en bregne",
@@ -20189,7 +20177,7 @@
   }
  },
  "en bule": {
-  "explanation": "\"En bule\" means \"a dent\" in something hard, such as a car door, and also \"a bump\" on the body, for example on your forehead after a knock. In both cases, the surface is no longer smooth.",
+  "explanation": "\"En bule\" means \"a dent\" in something hard, such as a car door, and also \"a bump\" on the body, for example on your forehead after a knock.",
   "forms": [
    {
     "da": "en bule",
@@ -20474,7 +20462,7 @@
   }
  },
  "en busbillet": {
-  "explanation": "\"En busbillet\" means \"a bus ticket\", the ticket for riding the bus. It is built from bus (bus) and billet (ticket), and \"billet\" also appears in \"en biografbillet\" (a cinema ticket) and \"en koncertbillet\" (a concert ticket).",
+  "explanation": "\"En busbillet\" means \"a bus ticket\". It is built from bus (bus) and billet (ticket); \"billet\" is also in \"en biografbillet\" (a cinema ticket) and \"en koncertbillet\" (a concert ticket).",
   "forms": [
    {
     "da": "en busbillet",
@@ -20517,7 +20505,7 @@
   }
  },
  "en buschauffør": {
-  "explanation": "\"En buschauffør\" means \"a bus driver\". The word chauffør (driver) works for other vehicles too: en taxachauffør (a taxi driver), en lastbilchauffør (a truck driver).",
+  "explanation": "\"En buschauffør\" means \"a bus driver\". The word \"chauffør\" (driver) also builds \"en taxachauffør\" (a taxi driver) and \"en lastbilchauffør\" (a truck driver).",
   "forms": [
    {
     "da": "en buschauffør",
@@ -20681,7 +20669,7 @@
   }
  },
  "en butiksindehaver": {
-  "explanation": "\"En butiksindehaver\" means \"a shop owner\", the person who owns and runs a shop. It is built from butik (shop) and indehaver (holder), and \"indehaver\" is used for any holder: \"indehaveren af kortet\" (the holder of the card).",
+  "explanation": "\"En butiksindehaver\" means \"a shop owner\", the person who owns and runs a shop. It is built from butik (shop) and indehaver (holder); \"indehaver\" works for any holder: \"indehaveren af kortet\" (the holder of the card).",
   "forms": [
    {
     "da": "en butiksindehaver",
@@ -20845,7 +20833,7 @@
   }
  },
  "en bydel": {
-  "explanation": "\"En bydel\" means \"a district\", one part of a city. It is built from by (town) and del (part), and \"del\" also builds \"en landsdel\" (a region of a country) and \"en verdensdel\" (a continent).",
+  "explanation": "\"En bydel\" means \"a district\", one part of a city. It is built from by (town) and del (part); \"del\" also builds \"en landsdel\" (a region of a country) and \"en verdensdel\" (a continent).",
   "forms": [
    {
     "da": "en bydel",
@@ -20884,7 +20872,7 @@
   }
  },
  "en byfest": {
-  "explanation": "\"En byfest\" means \"a town festival\", an event where a whole town celebrates with music, food and stalls, for a few days in summer.",
+  "explanation": "\"En byfest\" means \"a town festival\", an event where a whole town celebrates with music, food and stalls.",
   "forms": [
    {
     "da": "en byfest",
@@ -21719,7 +21707,7 @@
   }
  },
  "en børnelæge": {
-  "explanation": "\"En børnelæge\" means \"a pediatrician\", a doctor who specializes in the health of babies and children. A child usually sees the family doctor first, who can send the family on to a pediatrician.",
+  "explanation": "\"En børnelæge\" means \"a pediatrician\", a doctor who specializes in the health of babies and children.",
   "forms": [
    {
     "da": "en børnelæge",
@@ -22941,7 +22929,7 @@
   }
  },
  "et billede": {
-  "explanation": "\"Et billede\" means \"a picture\", the wide word for a photo, a painting or an image on a screen. \"Et foto\" (a photo) is only a picture taken with a camera.",
+  "explanation": "\"Et billede\" means \"a picture\", and covers a photo, a painting or an image on a screen: \"Der hænger et billede på væggen\" (A picture hangs on the wall). \"Et foto\" (a photo) is only a picture taken with a camera.",
   "forms": [
    {
     "da": "et billede",
@@ -22980,7 +22968,7 @@
   }
  },
  "et bind": {
-  "explanation": "\"Et bind\" means \"a volume\", one of several printed parts that make up a big publication, such as \"bind 2\" (volume 2). The word comes from \"at binde\" (to tie): a volume is a set of pages bound together.",
+  "explanation": "\"Et bind\" means \"a volume\", one of the printed parts that together make up a big publication, such as \"bind 2\" (volume 2). The word comes from \"at binde\" (to tie): a volume is a set of pages bound together.",
   "forms": [
    {
     "da": "et bind",

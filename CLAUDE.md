@@ -343,3 +343,11 @@ Every card was read again; `WORD_INSIGHT_SYSTEM_PROMPT` and `CLARITY_RULES` carr
 - Never list a few specific uses as if they were all ("stærk ... for people, coffee, tea, wind"): general idea first, then "such as".
 - Plain wording: "you can tell which one it is from the context of the sentence", never "the rest of the sentence shows which one it is"; "Do not mix it up with", never "Careful"; literal translations: real meaning first, then (literally, "...").
 - Test: every English gloss that starts with a capital letter (a phrase or sentence) must follow a closing quote.
+
+### Round 3 wording rules (Nov 14, owner's examples: "det gør ikke noget", "badetøj")
+The writer sometimes adds sentences that sound like advice but point at an abstract label or at nothing ("which is for choices", "a group word for all the pieces together", "you do not count it", "say the exact item"). `WORD_INSIGHT_SYSTEM_PROMPT` / `CLARITY_RULES` and `tests/lightbulb_check.mjs` carry the rules; the sweep's instructions were `/home/claude/review3/RULES3.md`.
+- "So what" test for every sentence after the opening: after reading it, can the learner say, avoid or recognize something new? If not, delete it. Short cards are fine ("hvad" is the model).
+- Allowed sentence types: the moment (when you say it, plus a quoted exchange); what to do with the small words ("you do not use an article, so leave out "en" and "et"" plus an example); a mix-up (what each look-alike means, each with its own quoted example); one labeled example per use; how it is built (once); a literal translation after the real meaning. If none fits, stop.
+- Never describe how a word behaves with a grammar label ("group word", "collective", "has no plural", "countable", "as a whole") or an abstract category ("for choices", "for situations", "is about X"). Say what the learner does, with the actual small words.
+- A closing tip must name a real Danish word with English and an example, or be dropped ("the exact item", "the right word", "a more specific word" point at nothing).
+- The deck test bans the known shapes; it cannot judge meaning, so a human read stays part of any deck sweep.

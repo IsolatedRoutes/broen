@@ -25,6 +25,9 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
     const vague = /\bon its own\b|even for a single pair/i;
     if (vague.test(e.explanation)) fail(k + ": explanation has a vague phrase");
     // Round 2 (owner): no "Compare X with Y", no vague wording, every Danish phrase or sentence in quotes.
+    // Round 3 (owner): abstract labels and pointers that tell a learner nothing.
+    const vague3 = /which is (for|used for) (choices|situations|things|cases|people)|\b(group word|collective(?! agreement)|countable|uncountable|all the pieces|as a whole)\b|\bthe (exact|right|proper|correct|appropriate) (item|word|one|form|term)\b|a more specific (word|one|term)|\bin (other|some|certain) (contexts|cases|situations)\b|you do not count it|\bhas no plural\b/i;
+    if (vague3.test(e.explanation)) fail(k + ": explanation has an abstract label or vague pointer (see round 3 rules)");
     const vague2 = /(^|[.!?]\s)(Compare|Contrast|Look at)\b|rest of the sentence shows|\ba rough (number|figure|amount|guess|idea)|shows up in phrases|\bCareful:/;
     if (vague2.test(e.explanation)) fail(k + ": explanation has wording the owner rejected (Compare / rough / rest of the sentence shows)");
     for (const m of e.explanation.matchAll(/(.)\s\(([A-Z][^()]*(?:\s[^()]*){2,}|[A-Z][^()]*[?!])\)/g)) {
