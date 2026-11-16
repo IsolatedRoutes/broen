@@ -1,0 +1,4250 @@
+{
+ "at skubbe": {
+  "file": "s.json",
+  "explanation": "\"At skubbe\" means \"to push\", for things and for people. On a door, the sign says \"Skub\" (Push).",
+  "forms": [
+   {
+    "da": "at skubbe",
+    "en": "to push"
+   },
+   {
+    "da": "jeg skubber",
+    "en": "I push"
+   },
+   {
+    "da": "jeg skubbede",
+    "en": "I pushed"
+   },
+   {
+    "da": "jeg har skubbet",
+    "en": "I have pushed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at trække",
+    "en": "to pull"
+   },
+   {
+    "da": "at presse",
+    "en": "to press / squeeze"
+   },
+   {
+    "da": "at puffe",
+    "en": "to nudge"
+   },
+   {
+    "da": "at støde",
+    "en": "to bump"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **skubbe** bilen sammen med mig?",
+   "en": "Can you push the car together with me?"
+  }
+ },
+ "at skuffe": {
+  "file": "s.json",
+  "explanation": "\"At skuffe\" means \"to disappoint\". Do not add \"til\" (to) before the person: \"Jeg skuffede dig\" (I disappointed you).",
+  "forms": [
+   {
+    "da": "at skuffe",
+    "en": "to disappoint"
+   },
+   {
+    "da": "jeg skuffer",
+    "en": "I disappoint"
+   },
+   {
+    "da": "jeg skuffede",
+    "en": "I disappointed"
+   },
+   {
+    "da": "jeg har skuffet",
+    "en": "I have disappointed"
+   }
+  ],
+  "related": [
+   {
+    "da": "skuffet",
+    "en": "disappointed"
+   },
+   {
+    "da": "en skuffelse",
+    "en": "a disappointment"
+   },
+   {
+    "da": "at svigte",
+    "en": "to let down"
+   },
+   {
+    "da": "at såre",
+    "en": "to hurt (feelings)"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **skuffe** dig igen.",
+   "en": "I do not want to disappoint you again."
+  }
+ },
+ "at skulle": {
+  "file": "s.json",
+  "explanation": "\"At skulle\" means \"to have to\" or \"to be supposed to\": \"Jeg skal arbejde\" (I have to work). It is also used for plans: \"Jeg skal i skole\" (I am going to school).",
+  "forms": [
+   {
+    "da": "at skulle",
+    "en": "to have to / should"
+   },
+   {
+    "da": "jeg skal",
+    "en": "I have to / should"
+   },
+   {
+    "da": "jeg skulle",
+    "en": "I had to / should have"
+   },
+   {
+    "da": "jeg har skullet",
+    "en": "I have had to"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ville",
+    "en": "to want to / will"
+   },
+   {
+    "da": "at måtte",
+    "en": "may / must"
+   },
+   {
+    "da": "at kunne",
+    "en": "can / to be able to"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **skulle** arbejde i morgen.",
+   "en": "I don't want to have to work tomorrow."
+  }
+ },
+ "at skumme": {
+  "file": "s.json",
+  "explanation": "\"At skumme\" means \"to foam\" and \"to skim\". To foam is to form a white layer of tiny air pockets on top: \"Sæben skummer\" (The soap is foaming). To skim is to read something quickly without taking in every word: \"skumme en artikel\" (to skim an article).",
+  "forms": [
+   {
+    "da": "at skumme",
+    "en": "to foam / skim"
+   },
+   {
+    "da": "jeg skummer",
+    "en": "I foam / skim"
+   },
+   {
+    "da": "jeg skummede",
+    "en": "I foamed / skimmed"
+   },
+   {
+    "da": "jeg har skummet",
+    "en": "I have foamed / skimmed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at boble",
+    "en": "to bubble"
+   },
+   {
+    "da": "at bruse",
+    "en": "to fizz"
+   },
+   {
+    "da": "at fråde",
+    "en": "to froth"
+   }
+  ],
+  "sentence": {
+   "da": "Mælken begynder at **skumme**, når du varmer den op.",
+   "en": "The milk starts to foam when you heat it up."
+  }
+ },
+ "at skyde": {
+  "file": "s.json",
+  "explanation": "\"At skyde\" means \"to shoot\": \"Jægeren skyder en hare\" (The hunter shoots a hare). It is also used in sports: \"Han skød bolden i mål\" (He shot the ball into the goal).",
+  "forms": [
+   {
+    "da": "at skyde",
+    "en": "to shoot"
+   },
+   {
+    "da": "jeg skyder",
+    "en": "I shoot"
+   },
+   {
+    "da": "jeg skød",
+    "en": "I shot"
+   },
+   {
+    "da": "jeg har skudt",
+    "en": "I have shot"
+   }
+  ],
+  "related": [
+   {
+    "da": "et skud",
+    "en": "a shot"
+   },
+   {
+    "da": "en pistol",
+    "en": "a pistol"
+   },
+   {
+    "da": "at ramme",
+    "en": "to hit"
+   },
+   {
+    "da": "at sigte",
+    "en": "to aim"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kan **skyde** med bue og pil.",
+   "en": "She can shoot with a bow and arrow."
+  }
+ },
+ "at skylde": {
+  "file": "s.json",
+  "explanation": "\"At skylde\" means \"to owe\": \"Jeg skylder dig hundrede kroner\" (I owe you a hundred kroner). With \"på\" (on) it means \"to blame\": \"Han skylder på mig\" (He blames me).",
+  "forms": [
+   {
+    "da": "at skylde",
+    "en": "to owe"
+   },
+   {
+    "da": "jeg skylder",
+    "en": "I owe"
+   },
+   {
+    "da": "jeg skyldte",
+    "en": "I owed"
+   },
+   {
+    "da": "jeg har skyldt",
+    "en": "I have owed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gæld",
+    "en": "a debt"
+   },
+   {
+    "da": "en skyld",
+    "en": "a fault / guilt"
+   },
+   {
+    "da": "at betale tilbage",
+    "en": "to pay back"
+   },
+   {
+    "da": "at låne",
+    "en": "to borrow"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **skylde** nogen penge.",
+   "en": "I do not want to owe anyone money."
+  }
+ },
+ "at skyldes": {
+  "file": "s.json",
+  "explanation": "\"At skyldes\" means \"to be due to\", and it names the reason for something: \"Problemet skyldes en fejl i systemet\" (The problem is due to an error in the system). Do not mix it up with \"at skylde\" (to owe): \"Jeg skylder dig hundrede kroner\" (I owe you a hundred kroner).",
+  "forms": [
+   {
+    "da": "at skyldes",
+    "en": "to be due to"
+   },
+   {
+    "da": "det skyldes",
+    "en": "it is due to"
+   },
+   {
+    "da": "det skyldtes",
+    "en": "it was due to"
+   },
+   {
+    "da": "det har skyldtes",
+    "en": "it has been due to"
+   }
+  ],
+  "related": [
+   {
+    "da": "en årsag",
+    "en": "a cause"
+   },
+   {
+    "da": "at forårsage",
+    "en": "to cause"
+   },
+   {
+    "da": "på grund af",
+    "en": "because of"
+   },
+   {
+    "da": "at tilskrive",
+    "en": "to attribute"
+   }
+  ],
+  "sentence": {
+   "da": "Togets forsinkelse **skyldes** sne på skinnerne.",
+   "en": "The train's delay is due to snow on the tracks."
+  }
+ },
+ "at skylle": {
+  "file": "s.json",
+  "explanation": "\"At skylle\" means \"to rinse\", to run clean water over something to get soap or dirt off. With \"ud\" (out), it means to rinse out: \"Skyl munden ud\" (Rinse your mouth out).",
+  "forms": [
+   {
+    "da": "at skylle",
+    "en": "to rinse"
+   },
+   {
+    "da": "jeg skyller",
+    "en": "I rinse"
+   },
+   {
+    "da": "jeg skyllede",
+    "en": "I rinsed"
+   },
+   {
+    "da": "jeg har skyllet",
+    "en": "I have rinsed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vaske",
+    "en": "to wash"
+   },
+   {
+    "da": "at skrubbe",
+    "en": "to scrub"
+   },
+   {
+    "da": "at tørre",
+    "en": "to dry"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **skylle** grøntsagerne, før du skærer dem.",
+   "en": "You should rinse the vegetables before you cut them."
+  }
+ },
+ "at skynde sig": {
+  "file": "s.json",
+  "explanation": "\"At skynde sig\" means \"to hurry\". \"Sig\" (oneself) changes with who hurries: \"Jeg skynder mig\" (I hurry), \"Han skynder sig\" (He hurries). \"Skynd dig!\" means \"Hurry up!\"",
+  "forms": [
+   {
+    "da": "at skynde sig",
+    "en": "to hurry"
+   },
+   {
+    "da": "jeg skynder mig",
+    "en": "I hurry"
+   },
+   {
+    "da": "jeg skyndte mig",
+    "en": "I hurried"
+   },
+   {
+    "da": "jeg har skyndt mig",
+    "en": "I have hurried"
+   }
+  ],
+  "related": [
+   {
+    "da": "hurtig",
+    "en": "fast"
+   },
+   {
+    "da": "langsom",
+    "en": "slow"
+   },
+   {
+    "da": "i hast",
+    "en": "in a hurry"
+   },
+   {
+    "da": "at haste",
+    "en": "to rush"
+   }
+  ],
+  "sentence": {
+   "da": "Hun må **skynde sig**, fordi toget kører snart.",
+   "en": "She has to hurry because the train leaves soon."
+  }
+ },
+ "at skåle": {
+  "file": "s.json",
+  "explanation": "\"At skåle\" means \"to toast\", raising your glass and drinking together. To name the person you toast, use \"for\" (for): \"Vi skåler for dig\" (We toast you).",
+  "forms": [
+   {
+    "da": "at skåle",
+    "en": "to toast (with drinks)"
+   },
+   {
+    "da": "jeg skåler",
+    "en": "I toast (with drinks)"
+   },
+   {
+    "da": "jeg skålede",
+    "en": "I toasted (with drinks)"
+   },
+   {
+    "da": "jeg har skålet",
+    "en": "I have toasted (with drinks)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skål",
+    "en": "a bowl / a toast"
+   },
+   {
+    "da": "et glas",
+    "en": "a glass"
+   },
+   {
+    "da": "at klinke",
+    "en": "to clink glasses"
+   }
+  ],
+  "sentence": {
+   "da": "Nu skal vi alle **skåle** for fødselaren.",
+   "en": "Now we are all going to toast the birthday person."
+  }
+ },
+ "at skåne": {
+  "file": "s.json",
+  "explanation": "\"At skåne\" means \"to spare\", to treat someone or something gently so it is not hurt or worn out: \"skåne sit knæ\" (to go easy on your knee). It can also mean to keep someone from something unpleasant, with \"for\" (from): \"Jeg skåner dig for detaljerne\" (I spare you the details).",
+  "forms": [
+   {
+    "da": "at skåne",
+    "en": "to spare"
+   },
+   {
+    "da": "jeg skåner",
+    "en": "I spare"
+   },
+   {
+    "da": "jeg skånede",
+    "en": "I spared"
+   },
+   {
+    "da": "jeg har skånet",
+    "en": "I have spared"
+   }
+  ],
+  "related": [
+   {
+    "da": "at beskytte",
+    "en": "to protect"
+   },
+   {
+    "da": "at passe på",
+    "en": "to take care of"
+   },
+   {
+    "da": "at forskåne",
+    "en": "to shield from"
+   },
+   {
+    "da": "at tage hensyn til",
+    "en": "to show consideration for"
+   }
+  ],
+  "sentence": {
+   "da": "Du bør **skåne** din ryg og ikke løfte tungt.",
+   "en": "You should go easy on your back and not lift heavy things."
+  }
+ },
+ "at skælve": {
+  "file": "s.json",
+  "explanation": "\"At skælve\" means \"to tremble\", to shake from fear, cold or strong feeling. The ground can do it too: \"et jordskælv\" (an earthquake) is literally \"an earth trembling\".",
+  "forms": [
+   {
+    "da": "at skælve",
+    "en": "to tremble"
+   },
+   {
+    "da": "jeg skælver",
+    "en": "I tremble"
+   },
+   {
+    "da": "jeg skælvede",
+    "en": "I trembled"
+   },
+   {
+    "da": "jeg har skælvet",
+    "en": "I have trembled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vibrere",
+    "en": "to vibrate"
+   },
+   {
+    "da": "at dirre",
+    "en": "to quiver"
+   },
+   {
+    "da": "at bæve",
+    "en": "to quake"
+   },
+   {
+    "da": "et skælv",
+    "en": "a tremor"
+   }
+  ],
+  "sentence": {
+   "da": "Mine hænder kan **skælve**, når jeg er meget bange.",
+   "en": "My hands can tremble when I am very scared."
+  }
+ },
+ "at skændes": {
+  "file": "s.json",
+  "explanation": "\"At skændes\" means \"to argue\", and the verb needs two or more people: \"Vi skændes aldrig\" (We never argue). To name the person you argue with, add \"med\" (with): \"Jeg skændes med min bror\" (I am arguing with my brother).",
+  "forms": [
+   {
+    "da": "at skændes",
+    "en": "to argue"
+   },
+   {
+    "da": "vi skændes",
+    "en": "we argue"
+   },
+   {
+    "da": "vi skændtes",
+    "en": "we argued"
+   },
+   {
+    "da": "vi har skændtes",
+    "en": "we have argued"
+   }
+  ],
+  "related": [
+   {
+    "da": "et skænderi",
+    "en": "an argument"
+   },
+   {
+    "da": "at skælde ud",
+    "en": "to scold"
+   },
+   {
+    "da": "at blive enige",
+    "en": "to reach agreement"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene **skændes** hele tiden om legetøjet.",
+   "en": "The children argue all the time about the toy."
+  }
+ },
+ "at skænke": {
+  "file": "s.json",
+  "explanation": "\"At skænke\" means \"to pour\" a drink into a glass or cup for someone: \"Må jeg skænke en kop kaffe til dig?\" (May I pour you a cup of coffee?) It can also mean \"to donate\" or \"to give as a gift\": \"skænke et beløb til en god sag\" (to donate an amount to a good cause).",
+  "forms": [
+   {
+    "da": "at skænke",
+    "en": "to pour (a drink)"
+   },
+   {
+    "da": "jeg skænker",
+    "en": "I pour (a drink)"
+   },
+   {
+    "da": "jeg skænkede",
+    "en": "I poured (a drink)"
+   },
+   {
+    "da": "jeg har skænket",
+    "en": "I have poured (a drink)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at servere",
+    "en": "to serve"
+   },
+   {
+    "da": "at fylde",
+    "en": "to fill"
+   },
+   {
+    "da": "at hælde",
+    "en": "to pour out"
+   }
+  ],
+  "sentence": {
+   "da": "Tjeneren vil **skænke** vin til alle gæsterne.",
+   "en": "The waiter will pour wine for all the guests."
+  }
+ },
+ "at skære": {
+  "file": "s.json",
+  "explanation": "\"At skære\" means \"to cut\" with a knife: \"Jeg skærer brødet i stykker\" (I cut the bread into pieces). Cutting hair with scissors is a different word, \"at klippe\" (to cut with scissors).",
+  "forms": [
+   {
+    "da": "at skære",
+    "en": "to cut"
+   },
+   {
+    "da": "jeg skærer",
+    "en": "I cut"
+   },
+   {
+    "da": "jeg skar",
+    "en": "I cut"
+   },
+   {
+    "da": "jeg har skåret",
+    "en": "I have cut"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kniv",
+    "en": "a knife"
+   },
+   {
+    "da": "at hakke",
+    "en": "to chop"
+   },
+   {
+    "da": "en skive",
+    "en": "a slice"
+   },
+   {
+    "da": "et snit",
+    "en": "a cut"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **skære** løget for mig?",
+   "en": "Can you cut the onion for me?"
+  }
+ },
+ "at skærpe": {
+  "file": "s.json",
+  "explanation": "\"At skærpe\" means \"to sharpen\" and \"to tighten\": to make a knife or tool sharper, or to make a rule or a check stricter, as in \"skærpe reglerne\" (to make the rules stricter).",
+  "forms": [
+   {
+    "da": "at skærpe",
+    "en": "to sharpen / tighten"
+   },
+   {
+    "da": "jeg skærper",
+    "en": "I sharpen / tighten"
+   },
+   {
+    "da": "jeg skærpede",
+    "en": "I sharpened / tightened"
+   },
+   {
+    "da": "jeg har skærpet",
+    "en": "I have sharpened / tightened"
+   }
+  ],
+  "related": [
+   {
+    "da": "at slibe",
+    "en": "to grind"
+   },
+   {
+    "da": "at stramme op",
+    "en": "to tighten up"
+   },
+   {
+    "da": "at lempe",
+    "en": "to ease"
+   },
+   {
+    "da": "at svække",
+    "en": "to weaken"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet vil **skærpe** kontrollen i weekenden.",
+   "en": "The police will tighten the checks over the weekend."
+  }
+ },
+ "at sladre": {
+  "file": "s.json",
+  "explanation": "\"At sladre\" means \"to tell on\" and \"to gossip\". To tell on someone is to report what they did wrong to an adult in charge. A child who does it is called \"en sladrehank\" (a tattletale). To gossip is to talk about other people's private lives: \"Naboerne sladrer om alt\" (The neighbors gossip about everything).",
+  "forms": [
+   {
+    "da": "at sladre",
+    "en": "to gossip / tell on"
+   },
+   {
+    "da": "jeg sladrer",
+    "en": "I gossip / tell on"
+   },
+   {
+    "da": "jeg sladrede",
+    "en": "I gossiped / told on"
+   },
+   {
+    "da": "jeg har sladret",
+    "en": "I have gossiped / told on"
+   }
+  ],
+  "related": [
+   {
+    "da": "et rygte",
+    "en": "a rumor"
+   },
+   {
+    "da": "at angive",
+    "en": "to inform on"
+   },
+   {
+    "da": "at bagtale",
+    "en": "to badmouth"
+   }
+  ],
+  "sentence": {
+   "da": "Hun ville ikke **sladre** til læreren om sin bedste veninde.",
+   "en": "She did not want to tattle to the teacher about her best friend."
+  }
+ },
+ "at slanke sig": {
+  "file": "s.json",
+  "explanation": "\"At slanke sig\" means \"to diet\", to eat less or differently in order to get thinner. It always needs \"sig\" (yourself): \"Hun slanker sig\" (She is dieting).",
+  "forms": [
+   {
+    "da": "at slanke sig",
+    "en": "to diet"
+   },
+   {
+    "da": "jeg slanker mig",
+    "en": "I diet"
+   },
+   {
+    "da": "jeg slankede mig",
+    "en": "I dieted"
+   },
+   {
+    "da": "jeg har slanket mig",
+    "en": "I have dieted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tabe sig",
+    "en": "to lose weight"
+   },
+   {
+    "da": "at tage på",
+    "en": "to gain weight"
+   },
+   {
+    "da": "en slankekur",
+    "en": "a diet plan"
+   },
+   {
+    "da": "at spise sundt",
+    "en": "to eat healthy"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **slanke sig** og spiser derfor mindre brød og sukker.",
+   "en": "She wants to diet and therefore eats less bread and sugar."
+  }
+ },
+ "at slappe af": {
+  "file": "s.json",
+  "explanation": "\"At slappe af\" means \"to relax\" or \"to take it easy\", like resting on the sofa after a long day: \"Jeg slapper af på sofaen\" (I relax on the sofa). \"Slap af!\" (Relax!) can also tell someone to calm down.",
+  "forms": [
+   {
+    "da": "at slappe af",
+    "en": "to relax"
+   },
+   {
+    "da": "jeg slapper af",
+    "en": "I relax"
+   },
+   {
+    "da": "jeg slappede af",
+    "en": "I relaxed"
+   },
+   {
+    "da": "jeg har slappet af",
+    "en": "I have relaxed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hvile sig",
+    "en": "to rest"
+   },
+   {
+    "da": "afslappet",
+    "en": "relaxed"
+   },
+   {
+    "da": "at koble af",
+    "en": "to unwind"
+   },
+   {
+    "da": "en pause",
+    "en": "a break"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er træt og vil **slappe af**.",
+   "en": "I am tired and want to relax."
+  }
+ },
+ "at slentre": {
+  "file": "s.json",
+  "explanation": "\"At slentre\" means \"to stroll\", to go slowly and without hurry, just for the pleasure of it. Add \"rundt\" (around) for wandering with no goal: \"Vi slentrer rundt i byen\" (We stroll around town).",
+  "forms": [
+   {
+    "da": "at slentre",
+    "en": "to stroll"
+   },
+   {
+    "da": "jeg slentrer",
+    "en": "I stroll"
+   },
+   {
+    "da": "jeg slentrede",
+    "en": "I strolled"
+   },
+   {
+    "da": "jeg har slentret",
+    "en": "I have strolled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at spadsere",
+    "en": "to take a walk"
+   },
+   {
+    "da": "at vandre",
+    "en": "to hike"
+   },
+   {
+    "da": "at traske",
+    "en": "to trudge"
+   },
+   {
+    "da": "at drive rundt",
+    "en": "to drift around"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **slentre** langs havnen og kigge på bådene.",
+   "en": "We will stroll along the harbor and look at the boats."
+  }
+ },
+ "at slette": {
+  "file": "s.json",
+  "explanation": "\"At slette\" means \"to delete\", to remove something from a device, like a file or a message.",
+  "forms": [
+   {
+    "da": "at slette",
+    "en": "to delete"
+   },
+   {
+    "da": "jeg sletter",
+    "en": "I delete"
+   },
+   {
+    "da": "jeg slettede",
+    "en": "I deleted"
+   },
+   {
+    "da": "jeg har slettet",
+    "en": "I have deleted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fjerne",
+    "en": "to remove"
+   },
+   {
+    "da": "at viske ud",
+    "en": "to erase"
+   },
+   {
+    "da": "at gemme",
+    "en": "to save"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **slette** alle de gamle billeder.",
+   "en": "I want to delete all the old photos."
+  }
+ },
+ "at slibe": {
+  "file": "s.json",
+  "explanation": "\"At slibe\" means \"to sharpen\" and \"to sand\". For a knife, it is to drag the edge over a hard stone until it is sharp: \"Jeg sliber knivene\" (I am sharpening the knives). For wood, it is to rub it with rough paper until it is smooth: \"Jeg sliber bordet\" (I sand the table).",
+  "forms": [
+   {
+    "da": "at slibe",
+    "en": "to sharpen / sand"
+   },
+   {
+    "da": "jeg sliber",
+    "en": "I sharpen / sand"
+   },
+   {
+    "da": "jeg sleb",
+    "en": "I sharpened / sanded"
+   },
+   {
+    "da": "jeg har slebet",
+    "en": "I have sharpened / sanded"
+   }
+  ],
+  "related": [
+   {
+    "da": "at file",
+    "en": "to file"
+   },
+   {
+    "da": "at pudse",
+    "en": "to polish"
+   },
+   {
+    "da": "glat",
+    "en": "smooth"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **slibe** bordet med sandpapir, før du maler det.",
+   "en": "You have to sand the table with sandpaper before you paint it."
+  }
+ },
+ "at slide": {
+  "file": "s.json",
+  "explanation": "\"At slide\" means \"to wear out\" and \"to toil\". Things wear out from use: \"Skoene slides op, når man går meget i dem\" (The shoes wear out when you walk a lot in them). A person toils by working very hard for a long time, often for a family or a living.",
+  "forms": [
+   {
+    "da": "at slide",
+    "en": "to wear out / toil"
+   },
+   {
+    "da": "jeg slider",
+    "en": "I wear out / toil"
+   },
+   {
+    "da": "jeg sled",
+    "en": "I wore out / toiled"
+   },
+   {
+    "da": "jeg har slidt",
+    "en": "I have worn out / toiled"
+   }
+  ],
+  "related": [
+   {
+    "da": "slidt",
+    "en": "worn"
+   },
+   {
+    "da": "at knokle",
+    "en": "to work hard"
+   },
+   {
+    "da": "at slæbe",
+    "en": "to drag"
+   }
+  ],
+  "sentence": {
+   "da": "Han må **slide** hårdt for at brødføde sin store familie.",
+   "en": "He has to toil hard to feed his large family."
+  }
+ },
+ "at slikke": {
+  "file": "s.json",
+  "explanation": "\"At slikke\" means \"to lick\", to pass your tongue over something: \"at slikke en is\" (to lick an ice cream). Danes also say \"slikke sol\" (to soak up the sun) for lying in the sun.",
+  "forms": [
+   {
+    "da": "at slikke",
+    "en": "to lick"
+   },
+   {
+    "da": "jeg slikker",
+    "en": "I lick"
+   },
+   {
+    "da": "jeg slikkede",
+    "en": "I licked"
+   },
+   {
+    "da": "jeg har slikket",
+    "en": "I have licked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at smage",
+    "en": "to taste"
+   },
+   {
+    "da": "at bide",
+    "en": "to bite"
+   },
+   {
+    "da": "at suge",
+    "en": "to suck"
+   }
+  ],
+  "sentence": {
+   "da": "Katte bruger tungen til at **slikke** sig rene.",
+   "en": "Cats use their tongues to lick themselves clean."
+  }
+ },
+ "at slippe": {
+  "file": "s.json",
+  "explanation": "\"At slippe\" means \"to let go\" and \"to escape\": \"Slip mig!\" (Let go of me!) \"Han slap væk\" (He got away). \"Slippe for\" means \"to be spared from\": \"Jeg slap for at vaske op\" (I got out of doing the dishes).",
+  "forms": [
+   {
+    "da": "at slippe",
+    "en": "to let go / escape"
+   },
+   {
+    "da": "jeg slipper",
+    "en": "I let go / escape"
+   },
+   {
+    "da": "jeg slap",
+    "en": "I let go / escaped"
+   },
+   {
+    "da": "jeg har sluppet",
+    "en": "I have let go / escaped"
+   }
+  ],
+  "related": [
+   {
+    "da": "at holde",
+    "en": "to hold"
+   },
+   {
+    "da": "at flygte",
+    "en": "to flee"
+   },
+   {
+    "da": "at undgå",
+    "en": "to avoid"
+   },
+   {
+    "da": "at undslippe",
+    "en": "to escape"
+   }
+  ],
+  "sentence": {
+   "da": "Du må ikke **slippe** snoren nu.",
+   "en": "You must not let go of the string now."
+  }
+ },
+ "at slippe af med": {
+  "file": "s.json",
+  "explanation": "\"At slippe af med\" means \"to get rid of\": \"Hun slap af med sin forkølelse\" (She got rid of her cold).",
+  "forms": [
+   {
+    "da": "at slippe af med",
+    "en": "to get rid of"
+   },
+   {
+    "da": "jeg slipper af med",
+    "en": "I get rid of"
+   },
+   {
+    "da": "jeg slap af med",
+    "en": "I got rid of"
+   },
+   {
+    "da": "jeg er sluppet af med",
+    "en": "I have gotten rid of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at beholde",
+    "en": "to keep"
+   },
+   {
+    "da": "at fjerne",
+    "en": "to remove"
+   },
+   {
+    "da": "at blive af med",
+    "en": "to lose / get rid of"
+   },
+   {
+    "da": "at give væk",
+    "en": "to give away"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **slippe af med** min gamle sofa.",
+   "en": "I would like to get rid of my old sofa."
+  }
+ },
+ "at sludre": {
+  "file": "s.json",
+  "explanation": "\"At sludre\" means \"to chat\", to talk in a relaxed way about nothing important: \"sludre med naboen\" (to chat with the neighbor). \"Sludder\" (nonsense) is closely related, as in \"Det er sludder!\" (That is nonsense!)",
+  "forms": [
+   {
+    "da": "at sludre",
+    "en": "to chat"
+   },
+   {
+    "da": "jeg sludrer",
+    "en": "I chat"
+   },
+   {
+    "da": "jeg sludrede",
+    "en": "I chatted"
+   },
+   {
+    "da": "jeg har sludret",
+    "en": "I have chatted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tale",
+    "en": "to speak"
+   },
+   {
+    "da": "at småsnakke",
+    "en": "to make small talk"
+   },
+   {
+    "da": "at sladre",
+    "en": "to tell on someone"
+   },
+   {
+    "da": "at pjatte",
+    "en": "to goof around"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **sludre** over en kop kaffe i dag.",
+   "en": "We can chat over a cup of coffee today."
+  }
+ },
+ "at sluge": {
+  "file": "s.json",
+  "explanation": "\"At sluge\" means \"to swallow\", to send food or a pill down your throat: \"Hun slugte tabletten uden vand\" (She swallowed the pill without water). It can also mean \"to gulp down\": \"Han slugte maden på to minutter\" (He gulped the food down in two minutes).",
+  "forms": [
+   {
+    "da": "at sluge",
+    "en": "to swallow"
+   },
+   {
+    "da": "jeg sluger",
+    "en": "I swallow"
+   },
+   {
+    "da": "jeg slugte",
+    "en": "I swallowed"
+   },
+   {
+    "da": "jeg har slugt",
+    "en": "I have swallowed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at synke",
+    "en": "to swallow / sink"
+   },
+   {
+    "da": "at tygge",
+    "en": "to chew"
+   },
+   {
+    "da": "at drikke",
+    "en": "to drink"
+   },
+   {
+    "da": "at spytte",
+    "en": "to spit"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **sluge** den store tablet.",
+   "en": "I cannot swallow the big pill."
+  }
+ },
+ "at slukke": {
+  "file": "s.json",
+  "explanation": "\"At slukke\" means \"to turn off\" a light or \"to put out\" a fire: \"slukke lyset\" (turn off the light) and \"slukke en brand\" (put out a fire). For a TV or the radio, use \"slukke for\" (turn off): \"slukke for fjernsynet\" (turn off the TV).",
+  "forms": [
+   {
+    "da": "at slukke",
+    "en": "to turn off"
+   },
+   {
+    "da": "jeg slukker",
+    "en": "I turn off"
+   },
+   {
+    "da": "jeg slukkede",
+    "en": "I turned off"
+   },
+   {
+    "da": "jeg har slukket",
+    "en": "I have turned off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tænde",
+    "en": "to turn on"
+   },
+   {
+    "da": "slukket",
+    "en": "turned off"
+   },
+   {
+    "da": "at brænde",
+    "en": "to burn"
+   }
+  ],
+  "sentence": {
+   "da": "Husk at **slukke** lyset.",
+   "en": "Remember to turn off the light."
+  }
+ },
+ "at slukke for": {
+  "file": "s.json",
+  "explanation": "\"At slukke for\" means \"to turn off\" something like the TV, the radio or the heating: \"Jeg slukker for radioen\" (I turn off the radio). For a light, use \"slukke lyset\" (turn off the light), without \"for\". A fire is put out with plain \"slukke\": \"slukke en brand\" (to put out a fire).",
+  "forms": [
+   {
+    "da": "at slukke for",
+    "en": "to turn off"
+   },
+   {
+    "da": "jeg slukker for",
+    "en": "I turn off"
+   },
+   {
+    "da": "jeg slukkede for",
+    "en": "I turned off"
+   },
+   {
+    "da": "jeg har slukket for",
+    "en": "I have turned off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tænde for",
+    "en": "to turn on"
+   },
+   {
+    "da": "at skrue op for",
+    "en": "to turn up"
+   },
+   {
+    "da": "at skrue ned for",
+    "en": "to turn down"
+   },
+   {
+    "da": "en kontakt",
+    "en": "a switch"
+   }
+  ],
+  "sentence": {
+   "da": "Husk at **slukke for** fjernsynet.",
+   "en": "Remember to turn off the TV."
+  }
+ },
+ "at slutte": {
+  "file": "s.json",
+  "explanation": "\"At slutte\" means \"to end\" or \"to finish\": \"Skolen slutter klokken tre\" (School ends at three). With \"med\" (with) it means \"to stop doing something\": \"Jeg slutter med at ryge\" (I am quitting smoking).",
+  "forms": [
+   {
+    "da": "at slutte",
+    "en": "to end / finish"
+   },
+   {
+    "da": "jeg slutter",
+    "en": "I end / finish"
+   },
+   {
+    "da": "jeg sluttede",
+    "en": "I ended / finished"
+   },
+   {
+    "da": "jeg har sluttet",
+    "en": "I have ended / finished"
+   }
+  ],
+  "related": [
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   },
+   {
+    "da": "en slutning",
+    "en": "an ending"
+   }
+  ],
+  "sentence": {
+   "da": "Filmen skal **slutte** om en time.",
+   "en": "The movie is going to end in an hour."
+  }
+ },
+ "at slutte fred": {
+  "file": "s.json",
+  "explanation": "\"At slutte fred\" means \"to make peace\", to end a conflict between people or countries. To name the person you make peace with, add \"med\" (with): \"Jeg har sluttet fred med min bror\" (I have made peace with my brother). You can also use the phrase for an inner struggle: \"slutte fred med fortiden\" (to make peace with the past).",
+  "forms": [
+   {
+    "da": "at slutte fred",
+    "en": "to make peace"
+   },
+   {
+    "da": "jeg slutter fred",
+    "en": "I make peace"
+   },
+   {
+    "da": "jeg sluttede fred",
+    "en": "I made peace"
+   },
+   {
+    "da": "jeg har sluttet fred",
+    "en": "I have made peace"
+   }
+  ],
+  "related": [
+   {
+    "da": "en krig",
+    "en": "a war"
+   },
+   {
+    "da": "at forlige sig",
+    "en": "to reconcile"
+   },
+   {
+    "da": "en våbenhvile",
+    "en": "a ceasefire"
+   }
+  ],
+  "sentence": {
+   "da": "Efter mange års krig vil landene endelig **slutte fred**.",
+   "en": "After many years of war the countries finally want to make peace."
+  }
+ },
+ "at slå": {
+  "file": "s.json",
+  "explanation": "\"At slå\" means \"to hit\" and \"to beat\". To hit is to strike with your hand or a tool: \"Slå ikke din bror!\" (Do not hit your brother!) To beat is to win over someone: \"Hun slog mig i skak\" (She beat me at chess). It is also used for grass: \"slå græsset\" (mow the lawn).",
+  "forms": [
+   {
+    "da": "at slå",
+    "en": "to hit / beat"
+   },
+   {
+    "da": "jeg slår",
+    "en": "I hit / beat"
+   },
+   {
+    "da": "jeg slog",
+    "en": "I hit / beat"
+   },
+   {
+    "da": "jeg har slået",
+    "en": "I have hit / beaten"
+   }
+  ],
+  "related": [
+   {
+    "da": "et slag",
+    "en": "a blow"
+   },
+   {
+    "da": "at vinde",
+    "en": "to win"
+   },
+   {
+    "da": "at tabe",
+    "en": "to lose"
+   },
+   {
+    "da": "at banke",
+    "en": "to knock / beat"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **slå** et søm i væggen med en hammer.",
+   "en": "I can hit a nail into the wall with a hammer."
+  }
+ },
+ "at slå et smut forbi": {
+  "file": "s.json",
+  "explanation": "\"At slå et smut forbi\" means \"to drop by\", to stop at a place for a short time, often on your way somewhere else. Danes add \"lige\" (just) to sound casual: \"Vi slår lige et smut forbi bageren\" (We will just stop by the bakery).",
+  "forms": [
+   {
+    "da": "at slå et smut forbi",
+    "en": "to drop by"
+   },
+   {
+    "da": "jeg slår et smut forbi",
+    "en": "I drop by"
+   },
+   {
+    "da": "jeg slog et smut forbi",
+    "en": "I dropped by"
+   },
+   {
+    "da": "jeg har slået et smut forbi",
+    "en": "I have dropped by"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kigge forbi",
+    "en": "to look in"
+   },
+   {
+    "da": "at komme forbi",
+    "en": "to come by"
+   },
+   {
+    "da": "at besøge",
+    "en": "to visit"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **slå et smut forbi** dig på vej hjem.",
+   "en": "I can drop by your place on my way home."
+  }
+ },
+ "at slå græs": {
+  "file": "s.json",
+  "explanation": "\"At slå græs\" means \"to mow the lawn\". It is built from slå (hit) and græs (grass), so it literally means to hit grass. The same \"slå\" is used for hitting a ball: \"at slå en bold\" (to hit a ball).",
+  "forms": [
+   {
+    "da": "at slå græs",
+    "en": "to mow the lawn"
+   },
+   {
+    "da": "jeg slår græs",
+    "en": "I mow the lawn"
+   },
+   {
+    "da": "jeg slog græs",
+    "en": "I mowed the lawn"
+   },
+   {
+    "da": "jeg har slået græs",
+    "en": "I have mowed the lawn"
+   }
+  ],
+  "related": [
+   {
+    "da": "en plæne",
+    "en": "a lawn"
+   },
+   {
+    "da": "en græsslåmaskine",
+    "en": "a lawnmower"
+   },
+   {
+    "da": "at klippe hæk",
+    "en": "to trim the hedge"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **slå græs**, fordi græsset er blevet langt.",
+   "en": "I have to mow the lawn because the grass has gotten long."
+  }
+ },
+ "at slå igennem": {
+  "file": "s.json",
+  "explanation": "\"At slå igennem\" means \"to break through\", to become known and successful, for example as an artist or an athlete: \"Hun slog igennem som sangerinde\" (She became a star as a singer). It is also used for the sun coming out of the clouds: \"Solen slår igennem\" (The sun breaks through).",
+  "forms": [
+   {
+    "da": "at slå igennem",
+    "en": "to break through"
+   },
+   {
+    "da": "jeg slår igennem",
+    "en": "I break through"
+   },
+   {
+    "da": "jeg slog igennem",
+    "en": "I broke through"
+   },
+   {
+    "da": "jeg har slået igennem",
+    "en": "I have broken through"
+   }
+  ],
+  "related": [
+   {
+    "da": "et gennembrud",
+    "en": "a breakthrough"
+   },
+   {
+    "da": "at slå an",
+    "en": "to catch on"
+   },
+   {
+    "da": "at blive berømt",
+    "en": "to become famous"
+   },
+   {
+    "da": "at lykkes",
+    "en": "to succeed"
+   }
+  ],
+  "sentence": {
+   "da": "Mange unge musikere drømmer om at **slå igennem**.",
+   "en": "Many young musicians dream of breaking through."
+  }
+ },
+ "at slå op": {
+  "file": "s.json",
+  "explanation": "\"At slå op\" means \"to look up\" a word: \"Jeg slår ordet op\" (I look up the word). It can also mean to break up with a partner: \"Hun slog op med ham\" (She broke up with him).",
+  "forms": [
+   {
+    "da": "at slå op",
+    "en": "to look up"
+   },
+   {
+    "da": "jeg slår op",
+    "en": "I look up"
+   },
+   {
+    "da": "jeg slog op",
+    "en": "I looked up"
+   },
+   {
+    "da": "jeg har slået op",
+    "en": "I have looked up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at søge",
+    "en": "to search"
+   },
+   {
+    "da": "at finde",
+    "en": "to find"
+   },
+   {
+    "da": "et opslagsværk",
+    "en": "a reference book"
+   },
+   {
+    "da": "at gå fra hinanden",
+    "en": "to split up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **slå op** i ordbogen.",
+   "en": "I have to look it up in the dictionary."
+  }
+ },
+ "at slå sig ned": {
+  "file": "s.json",
+  "explanation": "\"At slå sig ned\" means \"to settle down\", to make a place your home or to stop moving around: \"Familien slog sig ned i Aarhus\" (The family settled in Aarhus). It can also mean to take a seat for a while: \"Vi slog os ned på en bænk\" (We took a seat on a bench).",
+  "forms": [
+   {
+    "da": "at slå sig ned",
+    "en": "to settle down"
+   },
+   {
+    "da": "jeg slår mig ned",
+    "en": "I settle down"
+   },
+   {
+    "da": "jeg slog mig ned",
+    "en": "I settled down"
+   },
+   {
+    "da": "jeg har slået mig ned",
+    "en": "I have settled down"
+   }
+  ],
+  "related": [
+   {
+    "da": "at flytte",
+    "en": "to relocate"
+   },
+   {
+    "da": "at bosætte sig",
+    "en": "to take up residence"
+   },
+   {
+    "da": "at falde til",
+    "en": "to fit in"
+   },
+   {
+    "da": "at blive boende",
+    "en": "to stay put"
+   }
+  ],
+  "sentence": {
+   "da": "Efter mange år i udlandet ville de **slå sig ned** i Danmark.",
+   "en": "After many years abroad they wanted to settle down in Denmark."
+  }
+ },
+ "at slå to fluer med et smæk": {
+  "file": "s.json",
+  "explanation": "\"At slå to fluer med et smæk\" means \"to kill two birds with one stone\", to solve two problems with one action. The Danish picture is two flies hit with one smack, not birds and a stone.",
+  "forms": [
+   {
+    "da": "Jeg vil slå to fluer med et smæk",
+    "en": "I want to kill two birds with one stone"
+   },
+   {
+    "da": "Her slår vi to fluer med et smæk",
+    "en": "Here we kill two birds with one stone"
+   },
+   {
+    "da": "at slå to fluer med et smæk",
+    "en": "to kill two birds with one stone"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kombinere",
+    "en": "to combine"
+   },
+   {
+    "da": "at spare tid",
+    "en": "to save time"
+   },
+   {
+    "da": "effektiv",
+    "en": "efficient"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **slå to fluer med et smæk** ved at cykle på arbejde.",
+   "en": "You can kill two birds with one stone by cycling to work."
+  }
+ },
+ "at slå ud": {
+  "file": "s.json",
+  "explanation": "\"At slå ud\" means \"to knock out\". In sport, it means to beat a team so that it leaves the competition: \"Danmark slog Tyskland ud\" (Denmark knocked Germany out). For trees and flowers it means to come into leaf or bloom: \"Træerne slår ud i maj\" (The trees come into leaf in May). For a fuse, it means to trip and cut the power: \"Sikringen slår ud\" (The fuse trips).",
+  "forms": [
+   {
+    "da": "at slå ud",
+    "en": "to knock out"
+   },
+   {
+    "da": "jeg slår ud",
+    "en": "I knock out"
+   },
+   {
+    "da": "jeg slog ud",
+    "en": "I knocked out"
+   },
+   {
+    "da": "jeg har slået ud",
+    "en": "I have knocked out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at besejre",
+    "en": "to defeat"
+   },
+   {
+    "da": "at eliminere",
+    "en": "to eliminate"
+   },
+   {
+    "da": "at slukke",
+    "en": "to switch off"
+   }
+  ],
+  "sentence": {
+   "da": "Hvis strømmen bliver for stærk, kan sikringen **slå ud**.",
+   "en": "If the current gets too strong, the fuse can trip."
+  }
+ },
+ "at slæbe": {
+  "file": "s.json",
+  "explanation": "\"At slæbe\" means \"to drag\". You use it when you carry or pull something heavy with effort: \"Han slæbte kufferten hen til bilen\" (He dragged the suitcase to the car). You also use it about yourself when you move on with no energy: \"Jeg slæber mig hjem\" (I drag myself home).",
+  "forms": [
+   {
+    "da": "at slæbe",
+    "en": "to drag"
+   },
+   {
+    "da": "jeg slæber",
+    "en": "I drag"
+   },
+   {
+    "da": "jeg slæbte",
+    "en": "I dragged"
+   },
+   {
+    "da": "jeg har slæbt",
+    "en": "I have dragged"
+   }
+  ],
+  "related": [
+   {
+    "da": "at trække",
+    "en": "to pull"
+   },
+   {
+    "da": "at bære",
+    "en": "to carry"
+   },
+   {
+    "da": "at hive",
+    "en": "to heave"
+   },
+   {
+    "da": "at flytte",
+    "en": "to move"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **slæbe** de tunge kasser op ad trappen.",
+   "en": "We have to haul the heavy boxes up the stairs."
+  }
+ },
+ "at smadre": {
+  "file": "s.json",
+  "explanation": "\"At smadre\" means \"to smash\", to break something into pieces with force. It is also used for a heavy defeat: \"Holdet smadrede modstanderen\" (The team beat the opponent badly).",
+  "forms": [
+   {
+    "da": "at smadre",
+    "en": "to smash"
+   },
+   {
+    "da": "jeg smadrer",
+    "en": "I smash"
+   },
+   {
+    "da": "jeg smadrede",
+    "en": "I smashed"
+   },
+   {
+    "da": "jeg har smadret",
+    "en": "I have smashed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at knuse",
+    "en": "to crush"
+   },
+   {
+    "da": "at ødelægge",
+    "en": "to destroy"
+   },
+   {
+    "da": "at knække",
+    "en": "to snap"
+   },
+   {
+    "da": "at splintre",
+    "en": "to shatter"
+   }
+  ],
+  "sentence": {
+   "da": "Glas kan **smadre**, når det rammer gulvet.",
+   "en": "Glass can smash when it hits the floor."
+  }
+ },
+ "at smage": {
+  "file": "s.json",
+  "explanation": "\"At smage\" means \"to taste\", both for trying food and for having a flavor: \"Det smager godt\" (It tastes good) and \"Det smager af citron\" (It tastes like lemon).",
+  "forms": [
+   {
+    "da": "at smage",
+    "en": "to taste"
+   },
+   {
+    "da": "jeg smager",
+    "en": "I taste"
+   },
+   {
+    "da": "jeg smagte",
+    "en": "I tasted"
+   },
+   {
+    "da": "jeg har smagt",
+    "en": "I have tasted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en smag",
+    "en": "a taste"
+   },
+   {
+    "da": "at lugte",
+    "en": "to smell"
+   },
+   {
+    "da": "en smagsprøve",
+    "en": "a taste sample"
+   }
+  ],
+  "sentence": {
+   "da": "Må jeg **smage** din suppe?",
+   "en": "May I taste your soup?"
+  }
+ },
+ "at smelte": {
+  "file": "s.json",
+  "explanation": "\"At smelte\" means \"to melt\", when something solid turns to liquid: \"Isen smelter i solen\" (The ice melts in the sun). You can also melt something yourself: \"Jeg smelter smør\" (I melt butter).",
+  "forms": [
+   {
+    "da": "at smelte",
+    "en": "to melt"
+   },
+   {
+    "da": "jeg smelter",
+    "en": "I melt"
+   },
+   {
+    "da": "jeg smeltede",
+    "en": "I melted"
+   },
+   {
+    "da": "jeg har smeltet",
+    "en": "I have melted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fryse",
+    "en": "to freeze"
+   },
+   {
+    "da": "at tø",
+    "en": "to thaw"
+   },
+   {
+    "da": "at koge",
+    "en": "to boil"
+   },
+   {
+    "da": "at varme",
+    "en": "to heat"
+   }
+  ],
+  "sentence": {
+   "da": "Sneen vil **smelte**, når det bliver varmt.",
+   "en": "The snow will melt when it gets warm."
+  }
+ },
+ "at smide": {
+  "file": "s.json",
+  "explanation": "\"At smide\" means \"to throw\", and also \"to throw away\": \"Jeg smider papiret i skraldespanden\" (I throw the paper in the trash can). When you throw something to someone, such as a ball, use \"at kaste\" (to throw): \"Han kaster bolden til mig\" (He throws the ball to me).",
+  "forms": [
+   {
+    "da": "at smide",
+    "en": "to throw (away)"
+   },
+   {
+    "da": "jeg smider",
+    "en": "I throw (away)"
+   },
+   {
+    "da": "jeg smed",
+    "en": "I threw (away)"
+   },
+   {
+    "da": "jeg har smidt",
+    "en": "I have thrown (away)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at smide ud",
+    "en": "to throw out"
+   },
+   {
+    "da": "at kassere",
+    "en": "to discard"
+   },
+   {
+    "da": "at beholde",
+    "en": "to keep"
+   },
+   {
+    "da": "at gemme",
+    "en": "to keep / save"
+   }
+  ],
+  "sentence": {
+   "da": "Du må ikke **smide** affald på gaden.",
+   "en": "You must not throw trash on the street."
+  }
+ },
+ "at smide ud": {
+  "file": "s.json",
+  "explanation": "\"At smide ud\" means \"to throw out\", like old food or things you no longer need: \"Jeg smider maden ud\" (I throw the food out). It also means \"to kick out\" of a place: \"De smed ham ud af baren\" (They threw him out of the bar).",
+  "forms": [
+   {
+    "da": "at smide ud",
+    "en": "to throw out"
+   },
+   {
+    "da": "jeg smider ud",
+    "en": "I throw out"
+   },
+   {
+    "da": "jeg smed ud",
+    "en": "I threw out"
+   },
+   {
+    "da": "jeg har smidt ud",
+    "en": "I have thrown out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kaste",
+    "en": "to throw"
+   },
+   {
+    "da": "at slippe af med",
+    "en": "to get rid of"
+   },
+   {
+    "da": "en skraldespand",
+    "en": "a trash can"
+   },
+   {
+    "da": "at beholde",
+    "en": "to keep"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **smide ud**, hvad vi ikke bruger.",
+   "en": "We have to throw out what we do not use."
+  }
+ },
+ "at smile": {
+  "file": "s.json",
+  "explanation": "\"At smile\" means \"to smile\". \"Hun smilede til mig\" (She smiled at me): you smile \"til\" (to) someone.",
+  "forms": [
+   {
+    "da": "at smile",
+    "en": "to smile"
+   },
+   {
+    "da": "jeg smiler",
+    "en": "I smile"
+   },
+   {
+    "da": "jeg smilede",
+    "en": "I smiled"
+   },
+   {
+    "da": "jeg har smilet",
+    "en": "I have smiled"
+   }
+  ],
+  "related": [
+   {
+    "da": "et smil",
+    "en": "a smile"
+   },
+   {
+    "da": "at grine",
+    "en": "to laugh"
+   },
+   {
+    "da": "at le",
+    "en": "to laugh"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er glad og kan **smile** til alle.",
+   "en": "She is happy and can smile at everyone."
+  }
+ },
+ "at sminke sig": {
+  "file": "s.json",
+  "explanation": "\"At sminke sig\" means \"to put on makeup\". The word \"sig\" (oneself) changes with the person: \"Hun sminker sig\" (She puts on makeup), \"Du sminker dig\" (You put on makeup).",
+  "forms": [
+   {
+    "da": "at sminke sig",
+    "en": "to put on makeup"
+   },
+   {
+    "da": "jeg sminker mig",
+    "en": "I put on makeup"
+   },
+   {
+    "da": "jeg sminkede mig",
+    "en": "I put on makeup"
+   },
+   {
+    "da": "jeg har sminket mig",
+    "en": "I have put on makeup"
+   }
+  ],
+  "related": [
+   {
+    "da": "en læbestift",
+    "en": "a lipstick"
+   },
+   {
+    "da": "mascara",
+    "en": "mascara"
+   },
+   {
+    "da": "en øjenskygge",
+    "en": "eye shadow"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **sminke sig** og tage en kjole på.",
+   "en": "She wants to put on makeup and put on a dress."
+  }
+ },
+ "at smitte": {
+  "file": "s.json",
+  "explanation": "\"At smitte\" means \"to infect\", to pass an illness on to someone. It also works for moods: \"Hendes latter smitter\" (Her laughter is catching).",
+  "forms": [
+   {
+    "da": "at smitte",
+    "en": "to infect"
+   },
+   {
+    "da": "jeg smitter",
+    "en": "I infect"
+   },
+   {
+    "da": "jeg smittede",
+    "en": "I infected"
+   },
+   {
+    "da": "jeg har smittet",
+    "en": "I have infected"
+   }
+  ],
+  "related": [
+   {
+    "da": "smitsom",
+    "en": "contagious"
+   },
+   {
+    "da": "en epidemi",
+    "en": "an epidemic"
+   },
+   {
+    "da": "et virus",
+    "en": "a virus"
+   },
+   {
+    "da": "en bakterie",
+    "en": "a bacterium"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **smitte** andre, når du er syg.",
+   "en": "You can infect others when you are sick."
+  }
+ },
+ "at smugle": {
+  "file": "s.json",
+  "explanation": "\"At smugle\" means \"to smuggle\", to bring goods across a border secretly and against the law. It also fits a small sneaky act: \"Han smuglede slik ind i biografen\" (He smuggled candy into the movie theater).",
+  "forms": [
+   {
+    "da": "at smugle",
+    "en": "to smuggle"
+   },
+   {
+    "da": "jeg smugler",
+    "en": "I smuggle"
+   },
+   {
+    "da": "jeg smuglede",
+    "en": "I smuggled"
+   },
+   {
+    "da": "jeg har smuglet",
+    "en": "I have smuggled"
+   }
+  ],
+  "related": [
+   {
+    "da": "en smugler",
+    "en": "a smuggler"
+   },
+   {
+    "da": "en told",
+    "en": "customs"
+   },
+   {
+    "da": "at gemme",
+    "en": "to hide"
+   },
+   {
+    "da": "forbudt",
+    "en": "forbidden"
+   }
+  ],
+  "sentence": {
+   "da": "Det er ulovligt at **smugle** varer over grænsen.",
+   "en": "It is illegal to smuggle goods across the border."
+  }
+ },
+ "at smuldre": {
+  "file": "s.json",
+  "explanation": "\"At smuldre\" means \"to crumble\", to come apart in small pieces, like dry bread, a cake or an old wall: \"Kagen smuldrer\" (The cake crumbles). It is also used for hopes: \"Hans håb smuldrede\" (His hopes crumbled).",
+  "forms": [
+   {
+    "da": "at smuldre",
+    "en": "to crumble"
+   },
+   {
+    "da": "jeg smuldrer",
+    "en": "I crumble"
+   },
+   {
+    "da": "jeg smuldrede",
+    "en": "I crumbled"
+   },
+   {
+    "da": "jeg har smuldret",
+    "en": "I have crumbled"
+   }
+  ],
+  "related": [
+   {
+    "da": "en krumme",
+    "en": "a crumb"
+   },
+   {
+    "da": "smuldrende",
+    "en": "crumbly"
+   },
+   {
+    "da": "at falde fra hinanden",
+    "en": "to fall apart"
+   },
+   {
+    "da": "at gå i stykker",
+    "en": "to break"
+   }
+  ],
+  "sentence": {
+   "da": "Murstenene i den gamle mur begynder at **smuldre**.",
+   "en": "The bricks in the old wall begin to crumble."
+  }
+ },
+ "at smutte": {
+  "file": "s.json",
+  "explanation": "\"At smutte\" means \"to pop out\" or \"to slip away\" quickly: \"Jeg smutter lige ud\" (I'll just pop out). It can also mean \"to slip\" by accident: \"Kniven smuttede\" (The knife slipped).",
+  "forms": [
+   {
+    "da": "at smutte",
+    "en": "to slip away / pop out"
+   },
+   {
+    "da": "jeg smutter",
+    "en": "I slip away / pop out"
+   },
+   {
+    "da": "jeg smuttede",
+    "en": "I slipped away / popped out"
+   },
+   {
+    "da": "jeg er smuttet",
+    "en": "I have slipped away / popped out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stikke af",
+    "en": "to run off"
+   },
+   {
+    "da": "at glide",
+    "en": "to slide"
+   },
+   {
+    "da": "at forsvinde",
+    "en": "to disappear"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil lige **smutte** ned i supermarkedet.",
+   "en": "I'll just pop down to the supermarket."
+  }
+ },
+ "at smøre": {
+  "file": "s.json",
+  "explanation": "\"At smøre\" means \"to spread\", for example butter on bread: \"Jeg smører brødet med smør\" (I spread butter on the bread). Danes also say \"at smøre en madpakke\" (to make a packed lunch).",
+  "forms": [
+   {
+    "da": "at smøre",
+    "en": "to spread / butter"
+   },
+   {
+    "da": "jeg smører",
+    "en": "I spread / butter"
+   },
+   {
+    "da": "jeg smurte",
+    "en": "I spread / buttered"
+   },
+   {
+    "da": "jeg har smurt",
+    "en": "I have spread / buttered"
+   }
+  ],
+  "related": [
+   {
+    "da": "en smørekniv",
+    "en": "a butter knife"
+   },
+   {
+    "da": "et smørrebrød",
+    "en": "an open sandwich"
+   },
+   {
+    "da": "et pålæg",
+    "en": "a sandwich topping"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **smøre** et stykke brød til mig?",
+   "en": "Can you butter a slice of bread for me?"
+  }
+ },
+ "at snakke": {
+  "file": "s.json",
+  "explanation": "\"At snakke\" means \"to talk\" or \"to chat\": \"Skal vi snakke sammen?\" (Shall we talk together?) \"At tale\" (to speak) is more formal and fits a speech or a meeting: \"Han taler på mødet\" (He speaks at the meeting).",
+  "forms": [
+   {
+    "da": "at snakke",
+    "en": "to talk / chat"
+   },
+   {
+    "da": "jeg snakker",
+    "en": "I talk / chat"
+   },
+   {
+    "da": "jeg snakkede",
+    "en": "I talked / chatted"
+   },
+   {
+    "da": "jeg har snakket",
+    "en": "I have talked / chatted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en snak",
+    "en": "a chat"
+   },
+   {
+    "da": "en samtale",
+    "en": "a conversation"
+   },
+   {
+    "da": "at sludre",
+    "en": "to chat"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har tid og kan **snakke** nu.",
+   "en": "I have time and can talk now."
+  }
+ },
+ "at snakke om": {
+  "file": "s.json",
+  "explanation": "\"At snakke om\" means \"to talk about\": \"Vi snakker om mad\" (We are talking about food). To talk with a person, use \"med\" (with): \"Jeg snakker med min mor\" (I talk with my mother).",
+  "forms": [
+   {
+    "da": "at snakke om",
+    "en": "to talk about"
+   },
+   {
+    "da": "jeg snakker om",
+    "en": "I talk about"
+   },
+   {
+    "da": "jeg snakkede om",
+    "en": "I talked about"
+   },
+   {
+    "da": "jeg har snakket om",
+    "en": "I have talked about"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tale om",
+    "en": "to talk about"
+   },
+   {
+    "da": "at snakke med",
+    "en": "to chat with"
+   },
+   {
+    "da": "en snak",
+    "en": "a chat"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **snakke om** vores ferie i aften.",
+   "en": "We want to talk about our vacation tonight."
+  }
+ },
+ "at snakke om vejret": {
+  "file": "s.json",
+  "explanation": "\"At snakke om vejret\" means \"to make small talk\", literally \"to talk about the weather\". It is chat where nothing important is said.",
+  "forms": [
+   {
+    "da": "at snakke om vejret",
+    "en": "to make small talk"
+   },
+   {
+    "da": "Vi snakker om vejret.",
+    "en": "We make small talk."
+   },
+   {
+    "da": "Han snakkede bare om vejret.",
+    "en": "He just made small talk."
+   }
+  ],
+  "related": [
+   {
+    "da": "at sludre",
+    "en": "to chat"
+   },
+   {
+    "da": "at småsnakke",
+    "en": "to chat lightly"
+   },
+   {
+    "da": "en samtale",
+    "en": "a conversation"
+   },
+   {
+    "da": "at tale",
+    "en": "to speak"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke bare **snakke om vejret** med dig.",
+   "en": "I don't just want to make small talk with you."
+  }
+ },
+ "at sne": {
+  "file": "s.json",
+  "explanation": "\"At sne\" means \"to snow\": \"Det sner\" (It is snowing). The noun is spelled the same, \"sne\" (snow): \"Der er sne\" (There is snow). The other words in the sentence tell you whether \"sne\" is the verb or the noun.",
+  "forms": [
+   {
+    "da": "at sne",
+    "en": "to snow"
+   },
+   {
+    "da": "det sner",
+    "en": "it snows"
+   },
+   {
+    "da": "det sneede",
+    "en": "it snowed"
+   },
+   {
+    "da": "det har sneet",
+    "en": "it has snowed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at regne",
+    "en": "to rain"
+   },
+   {
+    "da": "en snemand",
+    "en": "a snowman"
+   },
+   {
+    "da": "en snestorm",
+    "en": "a snowstorm"
+   }
+  ],
+  "sentence": {
+   "da": "I vinter kan det **sne** meget.",
+   "en": "In winter it can snow a lot."
+  }
+ },
+ "at snige sig": {
+  "file": "s.json",
+  "explanation": "\"At snige sig\" means \"to sneak\", to move quietly so nobody notices. To name the direction you sneak, add a direction word: \"at snige sig ind\" (to sneak in), \"at snige sig ud\" (to sneak out).",
+  "forms": [
+   {
+    "da": "at snige sig",
+    "en": "to sneak"
+   },
+   {
+    "da": "jeg sniger mig",
+    "en": "I sneak"
+   },
+   {
+    "da": "jeg sneg mig",
+    "en": "I snuck"
+   },
+   {
+    "da": "jeg har sneget mig",
+    "en": "I have snuck"
+   }
+  ],
+  "related": [
+   {
+    "da": "at liste sig",
+    "en": "to tiptoe"
+   },
+   {
+    "da": "at smutte",
+    "en": "to slip away"
+   },
+   {
+    "da": "at gemme sig",
+    "en": "to hide"
+   },
+   {
+    "da": "i hemmelighed",
+    "en": "in secret"
+   }
+  ],
+  "sentence": {
+   "da": "Katten vil **snige sig** hen til fuglen uden en lyd.",
+   "en": "The cat wants to sneak over to the bird without a sound."
+  }
+ },
+ "at snooze": {
+  "file": "s.json",
+  "explanation": "\"At snooze\" means \"to snooze\", to press the button on your alarm for a few more minutes of sleep. To sleep late on purpose, say \"at sove længe\" (to sleep in).",
+  "forms": [
+   {
+    "da": "at snooze",
+    "en": "to snooze"
+   },
+   {
+    "da": "jeg snoozer",
+    "en": "I snooze"
+   },
+   {
+    "da": "jeg snoozede",
+    "en": "I snoozed"
+   },
+   {
+    "da": "jeg har snoozet",
+    "en": "I have snoozed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vågne",
+    "en": "to wake up"
+   },
+   {
+    "da": "at stå op",
+    "en": "to get up"
+   },
+   {
+    "da": "et vækkeur",
+    "en": "an alarm clock"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **snooze** i fem minutter mere.",
+   "en": "I want to snooze for five more minutes."
+  }
+ },
+ "at snorke": {
+  "file": "s.json",
+  "explanation": "\"At snorke\" means \"to snore\". To tell someone to stop, say \"Hold op med at snorke!\" (Stop snoring!)",
+  "forms": [
+   {
+    "da": "at snorke",
+    "en": "to snore"
+   },
+   {
+    "da": "jeg snorker",
+    "en": "I snore"
+   },
+   {
+    "da": "jeg snorkede",
+    "en": "I snored"
+   },
+   {
+    "da": "jeg har snorket",
+    "en": "I have snored"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   },
+   {
+    "da": "at gabe",
+    "en": "to yawn"
+   },
+   {
+    "da": "at drømme",
+    "en": "to dream"
+   },
+   {
+    "da": "at vågne",
+    "en": "to wake up"
+   }
+  ],
+  "sentence": {
+   "da": "Min far plejer at **snorke** meget højt.",
+   "en": "My dad usually snores very loudly."
+  }
+ },
+ "at snuble": {
+  "file": "s.json",
+  "explanation": "\"At snuble\" means \"to stumble\" or \"to trip\", to knock your foot on something and nearly fall. To name the object you trip on, use \"over\" (over): \"snuble over et kabel\" (trip over a cable). You can also use it for a word you stumble on: \"snuble over et svært ord\" (stumble over a hard word).",
+  "forms": [
+   {
+    "da": "at snuble",
+    "en": "to stumble"
+   },
+   {
+    "da": "jeg snubler",
+    "en": "I stumble"
+   },
+   {
+    "da": "jeg snublede",
+    "en": "I stumbled"
+   },
+   {
+    "da": "jeg har snublet",
+    "en": "I have stumbled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at falde",
+    "en": "to fall"
+   },
+   {
+    "da": "at vælte",
+    "en": "to tip over"
+   },
+   {
+    "da": "at glide",
+    "en": "to slide"
+   },
+   {
+    "da": "at vakle",
+    "en": "to wobble"
+   }
+  ],
+  "sentence": {
+   "da": "Det er nemt at **snuble** på en våd trappe.",
+   "en": "It is easy to stumble on a wet staircase."
+  }
+ },
+ "at snuppe": {
+  "file": "s.json",
+  "explanation": "\"At snuppe\" means \"to grab\", to take something quickly, often without asking: \"Han snuppede min kuglepen\" (He grabbed my pen). It also means to do something small and quick: \"Skal vi snuppe en kop kaffe?\" (Shall we grab a cup of coffee?)",
+  "forms": [
+   {
+    "da": "at snuppe",
+    "en": "to snatch / grab"
+   },
+   {
+    "da": "jeg snupper",
+    "en": "I snatch / grab"
+   },
+   {
+    "da": "jeg snuppede",
+    "en": "I snatched / grabbed"
+   },
+   {
+    "da": "jeg har snuppet",
+    "en": "I have snatched / grabbed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hapse",
+    "en": "to snap up"
+   },
+   {
+    "da": "at nappe",
+    "en": "to nab"
+   },
+   {
+    "da": "at gribe",
+    "en": "to seize"
+   },
+   {
+    "da": "at stjæle",
+    "en": "to steal"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan lige **snuppe** en kage, og så går vi.",
+   "en": "You can quickly grab a cake, and then we go."
+  }
+ },
+ "at snyde": {
+  "file": "s.json",
+  "explanation": "\"At snyde\" means \"to cheat\", to break the rules to win or to trick someone. When you trick someone out of something, use \"for\" (of): \"Han snød mig for hundrede kroner\" (He cheated me out of a hundred kroner).",
+  "forms": [
+   {
+    "da": "at snyde",
+    "en": "to cheat"
+   },
+   {
+    "da": "jeg snyder",
+    "en": "I cheat"
+   },
+   {
+    "da": "jeg snød",
+    "en": "I cheated"
+   },
+   {
+    "da": "jeg har snydt",
+    "en": "I have cheated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bedrage",
+    "en": "to deceive"
+   },
+   {
+    "da": "at lyve",
+    "en": "to lie"
+   },
+   {
+    "da": "at svindle",
+    "en": "to swindle"
+   },
+   {
+    "da": "at narre",
+    "en": "to fool"
+   }
+  ],
+  "sentence": {
+   "da": "Man må ikke **snyde** til en eksamen.",
+   "en": "You must not cheat on an exam."
+  }
+ },
+ "at snøfte": {
+  "file": "s.json",
+  "explanation": "\"At snøfte\" means \"to sniffle\", to breathe in noisily through the nose, for example with a cold or after tears: \"Barnet snøftede længe bagefter\" (The child sniffled for a long time afterward).",
+  "forms": [
+   {
+    "da": "at snøfte",
+    "en": "to sniffle"
+   },
+   {
+    "da": "jeg snøfter",
+    "en": "I sniffle"
+   },
+   {
+    "da": "jeg snøftede",
+    "en": "I sniffled"
+   },
+   {
+    "da": "jeg har snøftet",
+    "en": "I have sniffled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hulke",
+    "en": "to sob"
+   },
+   {
+    "da": "at snive",
+    "en": "to snivel"
+   },
+   {
+    "da": "at snuse",
+    "en": "to sniff around"
+   },
+   {
+    "da": "at græde",
+    "en": "to cry"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **snøfte** hele dagen, fordi han er forkølet.",
+   "en": "He will sniffle all day because he has a cold."
+  }
+ },
+ "at sortere": {
+  "file": "s.json",
+  "explanation": "\"At sortere\" means \"to sort\", to put things into groups or an order, like trash into bins or mail into piles.",
+  "forms": [
+   {
+    "da": "at sortere",
+    "en": "to sort"
+   },
+   {
+    "da": "jeg sorterer",
+    "en": "I sort"
+   },
+   {
+    "da": "jeg sorterede",
+    "en": "I sorted"
+   },
+   {
+    "da": "jeg har sorteret",
+    "en": "I have sorted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ordne",
+    "en": "to arrange"
+   },
+   {
+    "da": "at dele op",
+    "en": "to divide up"
+   },
+   {
+    "da": "en sortering",
+    "en": "sorting"
+   },
+   {
+    "da": "at rydde op",
+    "en": "to tidy up"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **sortere** tøjet efter farve.",
+   "en": "We have to sort the clothes by color."
+  }
+ },
+ "at sove": {
+  "file": "s.json",
+  "explanation": "\"At sove\" means \"to sleep\": \"Jeg sover godt\" (I sleep well). Going to bed is a different phrase: \"at gå i seng\" (to go to bed).",
+  "forms": [
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   },
+   {
+    "da": "jeg sover",
+    "en": "I sleep"
+   },
+   {
+    "da": "jeg sov",
+    "en": "I slept"
+   },
+   {
+    "da": "jeg har sovet",
+    "en": "I have slept"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vågne",
+    "en": "to wake up"
+   },
+   {
+    "da": "en søvn",
+    "en": "sleep"
+   },
+   {
+    "da": "at drømme",
+    "en": "to dream"
+   },
+   {
+    "da": "søvnig",
+    "en": "sleepy"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene er trætte og vil **sove**.",
+   "en": "The children are tired and want to sleep."
+  }
+ },
+ "at sove længe": {
+  "file": "s.json",
+  "explanation": "\"At sove længe\" means \"to sleep in\", to stay in bed late: \"Jeg sov længe i går\" (I slept in yesterday). \"Længe\" means \"a long time\", so \"Jeg sov længe\" can mean either \"I slept in\" or \"I slept a long time\".",
+  "forms": [
+   {
+    "da": "at sove længe",
+    "en": "to sleep in"
+   },
+   {
+    "da": "jeg sover længe",
+    "en": "I sleep in"
+   },
+   {
+    "da": "jeg sov længe",
+    "en": "I slept in"
+   },
+   {
+    "da": "jeg har sovet længe",
+    "en": "I have slept in"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stå op",
+    "en": "to get up"
+   },
+   {
+    "da": "at vågne",
+    "en": "to wake up"
+   },
+   {
+    "da": "en lur",
+    "en": "a nap"
+   },
+   {
+    "da": "at stå tidligt op",
+    "en": "to get up early"
+   }
+  ],
+  "sentence": {
+   "da": "I morgen er det lørdag, og jeg vil **sove længe**.",
+   "en": "Tomorrow is Saturday, and I want to sleep in."
+  }
+ },
+ "at sove over sig": {
+  "file": "s.json",
+  "explanation": "\"At sove over sig\" means \"to oversleep\", to sleep past the time you meant to get up: \"Jeg sov over mig og kom for sent\" (I overslept and was late). To sleep late on purpose, say \"at sove længe\" (to sleep in).",
+  "forms": [
+   {
+    "da": "at sove over sig",
+    "en": "to oversleep"
+   },
+   {
+    "da": "jeg sover over mig",
+    "en": "I oversleep"
+   },
+   {
+    "da": "jeg sov over mig",
+    "en": "I overslept"
+   },
+   {
+    "da": "jeg har sovet over mig",
+    "en": "I have overslept"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vågne",
+    "en": "to wake up"
+   },
+   {
+    "da": "et vækkeur",
+    "en": "an alarm clock"
+   },
+   {
+    "da": "at stå op",
+    "en": "to get up"
+   },
+   {
+    "da": "at snooze",
+    "en": "to snooze"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil ikke **sove over sig** i morgen.",
+   "en": "She does not want to oversleep tomorrow."
+  }
+ },
+ "at spadsere": {
+  "file": "s.json",
+  "explanation": "\"At spadsere\" means \"to stroll\", to walk slowly for pleasure, not to get somewhere. For a plain walk, Danes often say \"at gå en tur\" (to go for a walk).",
+  "forms": [
+   {
+    "da": "at spadsere",
+    "en": "to stroll / walk"
+   },
+   {
+    "da": "jeg spadserer",
+    "en": "I stroll / walk"
+   },
+   {
+    "da": "jeg spadserede",
+    "en": "I strolled / walked"
+   },
+   {
+    "da": "jeg har spadseret",
+    "en": "I have strolled / walked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at slentre",
+    "en": "to saunter"
+   },
+   {
+    "da": "at vandre",
+    "en": "to hike"
+   },
+   {
+    "da": "at traske",
+    "en": "to trudge"
+   },
+   {
+    "da": "en promenade",
+    "en": "a promenade"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **spadsere** langs havnen og nyde solen.",
+   "en": "We want to stroll along the harbor and enjoy the sun."
+  }
+ },
+ "at spare": {
+  "file": "s.json",
+  "explanation": "\"At spare\" means \"to save\", mostly money: \"Vi sparer penge til en rejse\" (We are saving money for a trip). It also works for time: \"Det sparer tid\" (That saves time).",
+  "forms": [
+   {
+    "da": "at spare",
+    "en": "to save (money)"
+   },
+   {
+    "da": "jeg sparer",
+    "en": "I save (money)"
+   },
+   {
+    "da": "jeg sparede",
+    "en": "I saved (money)"
+   },
+   {
+    "da": "jeg har sparet",
+    "en": "I have saved (money)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at spare op",
+    "en": "to save up"
+   },
+   {
+    "da": "en sparegris",
+    "en": "a piggy bank"
+   },
+   {
+    "da": "at bruge",
+    "en": "to spend / use"
+   },
+   {
+    "da": "en besparelse",
+    "en": "a saving"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **spare** penge til en ny cykel.",
+   "en": "I want to save money for a new bike."
+  }
+ },
+ "at spare op": {
+  "file": "s.json",
+  "explanation": "\"At spare op\" means \"to save up\", to put money aside bit by bit for something: \"Jeg sparer op til en cykel\" (I am saving up for a bike). Without \"op\" (up), \"at spare\" (to save) covers other things too, such as \"at spare tid\" (to save time).",
+  "forms": [
+   {
+    "da": "at spare op",
+    "en": "to save up"
+   },
+   {
+    "da": "jeg sparer op",
+    "en": "I save up"
+   },
+   {
+    "da": "jeg sparede op",
+    "en": "I saved up"
+   },
+   {
+    "da": "jeg har sparet op",
+    "en": "I have saved up"
+   }
+  ],
+  "related": [
+   {
+    "da": "en opsparing",
+    "en": "savings"
+   },
+   {
+    "da": "en sparegris",
+    "en": "a piggy bank"
+   },
+   {
+    "da": "at bruge penge",
+    "en": "to spend money"
+   },
+   {
+    "da": "at låne",
+    "en": "to borrow"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **spare op**, så vi kan købe et hus.",
+   "en": "We want to save up so we can buy a house."
+  }
+ },
+ "at spare på": {
+  "file": "s.json",
+  "explanation": "\"At spare på\" means \"to save on\", as in using less of something: \"Vi sparer på varmen\" (We are saving on heat). It also means \"to be careful with\": \"Hun sparer på pengene\" (She is careful with the money).",
+  "forms": [
+   {
+    "da": "at spare på",
+    "en": "to save on"
+   },
+   {
+    "da": "jeg sparer på",
+    "en": "I save on"
+   },
+   {
+    "da": "jeg sparede på",
+    "en": "I saved on"
+   },
+   {
+    "da": "jeg har sparet på",
+    "en": "I have saved on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at spare op",
+    "en": "to save up"
+   },
+   {
+    "da": "en besparelse",
+    "en": "a saving"
+   },
+   {
+    "da": "at bruge",
+    "en": "to use"
+   },
+   {
+    "da": "sparsom",
+    "en": "thrifty"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **spare på** strømmen i vinter.",
+   "en": "We have to save on electricity this winter."
+  }
+ },
+ "at sparke": {
+  "file": "s.json",
+  "explanation": "\"At sparke\" means \"to kick\": \"Han sparkede bolden over hegnet\" (He kicked the ball over the fence). With \"til\" (to), you give something a kick: \"Hun sparkede til døren\" (She gave the door a kick).",
+  "forms": [
+   {
+    "da": "at sparke",
+    "en": "to kick"
+   },
+   {
+    "da": "jeg sparker",
+    "en": "I kick"
+   },
+   {
+    "da": "jeg sparkede",
+    "en": "I kicked"
+   },
+   {
+    "da": "jeg har sparket",
+    "en": "I have kicked"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spark",
+    "en": "a kick"
+   },
+   {
+    "da": "at slå",
+    "en": "to hit"
+   },
+   {
+    "da": "at kaste",
+    "en": "to throw"
+   },
+   {
+    "da": "at gribe",
+    "en": "to catch"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil **sparke** bolden i mål.",
+   "en": "The kids want to kick the ball into the goal."
+  }
+ },
+ "at specialisere sig": {
+  "file": "s.json",
+  "explanation": "\"At specialisere sig\" means \"to specialize\", to concentrate on one area. To say the field, use \"i\" (in): \"at specialisere sig i hjertekirurgi\" (to specialize in heart surgery).",
+  "forms": [
+   {
+    "da": "at specialisere sig",
+    "en": "to specialize"
+   },
+   {
+    "da": "jeg specialiserer mig",
+    "en": "I specialize"
+   },
+   {
+    "da": "jeg specialiserede mig",
+    "en": "I specialized"
+   },
+   {
+    "da": "jeg har specialiseret mig",
+    "en": "I have specialized"
+   }
+  ],
+  "related": [
+   {
+    "da": "en specialist",
+    "en": "a specialist"
+   },
+   {
+    "da": "en ekspert",
+    "en": "an expert"
+   },
+   {
+    "da": "at fokusere",
+    "en": "to focus"
+   },
+   {
+    "da": "generel",
+    "en": "general"
+   }
+  ],
+  "sentence": {
+   "da": "Efter studiet vil lægen **specialisere sig** i hjertesygdomme.",
+   "en": "After university, the doctor wants to specialize in heart disease."
+  }
+ },
+ "at spejle": {
+  "file": "s.json",
+  "explanation": "\"At spejle\" means \"to mirror\", to send back an image the way a smooth surface does. With \"sig\" (itself), the thing is seen in the surface: \"Hun spejler sig i vinduet\" (She sees herself in the window).",
+  "forms": [
+   {
+    "da": "at spejle",
+    "en": "to mirror"
+   },
+   {
+    "da": "jeg spejler",
+    "en": "I mirror"
+   },
+   {
+    "da": "jeg spejlede",
+    "en": "I mirrored"
+   },
+   {
+    "da": "jeg har spejlet",
+    "en": "I have mirrored"
+   }
+  ],
+  "related": [
+   {
+    "da": "at reflektere",
+    "en": "to reflect"
+   },
+   {
+    "da": "at afspejle",
+    "en": "to reflect / show"
+   },
+   {
+    "da": "blank",
+    "en": "shiny"
+   },
+   {
+    "da": "en spejling",
+    "en": "a reflection"
+   }
+  ],
+  "sentence": {
+   "da": "Bjergene kan **spejle** sig i den stille sø.",
+   "en": "The mountains can be mirrored in the quiet lake."
+  }
+ },
+ "at spekulere": {
+  "file": "s.json",
+  "explanation": "\"At spekulere\" means \"to speculate\" and, more often, \"to wonder\", to think hard about something. To name the topic you wonder about, use \"på\" (about): \"Jeg spekulerer på det\" (I wonder about it). With \"i\" (in), it means to put money into something: \"spekulere i aktier\" (to speculate in shares).",
+  "forms": [
+   {
+    "da": "at spekulere",
+    "en": "to speculate / wonder"
+   },
+   {
+    "da": "jeg spekulerer",
+    "en": "I speculate / wonder"
+   },
+   {
+    "da": "jeg spekulerede",
+    "en": "I speculated / wondered"
+   },
+   {
+    "da": "jeg har spekuleret",
+    "en": "I have speculated / wondered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fundere",
+    "en": "to ponder"
+   },
+   {
+    "da": "at gruble",
+    "en": "to brood"
+   },
+   {
+    "da": "at gætte",
+    "en": "to guess"
+   },
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   }
+  ],
+  "sentence": {
+   "da": "Hun begyndte at **spekulere** på, hvorfor han var så stille.",
+   "en": "She began to wonder why he was so quiet."
+  }
+ },
+ "at spilde": {
+  "file": "s.json",
+  "explanation": "\"At spilde\" means \"to spill\" and \"to waste\": \"Jeg spildte vand på bordet\" (I spilled water on the table). \"Vi må ikke spilde mad\" (We must not waste food).",
+  "forms": [
+   {
+    "da": "at spilde",
+    "en": "to waste / spill"
+   },
+   {
+    "da": "jeg spilder",
+    "en": "I waste / spill"
+   },
+   {
+    "da": "jeg spildte",
+    "en": "I wasted / spilled"
+   },
+   {
+    "da": "jeg har spildt",
+    "en": "I have wasted / spilled"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spild",
+    "en": "a waste"
+   },
+   {
+    "da": "at sløse",
+    "en": "to squander"
+   },
+   {
+    "da": "at vælte",
+    "en": "to knock over"
+   },
+   {
+    "da": "at hælde",
+    "en": "to pour"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **spilde** min tid på det.",
+   "en": "I do not want to waste my time on that."
+  }
+ },
+ "at spilde tid": {
+  "file": "s.json",
+  "explanation": "\"At spilde tid\" means \"to waste time\": \"Jeg spilder tid på telefonen\" (I waste time on the phone). The verb \"at spilde\" (to waste) is also used without \"tid\" (time), to mean \"to spill\": \"Jeg spildte kaffe\" (I spilled coffee).",
+  "forms": [
+   {
+    "da": "at spilde tid",
+    "en": "to waste time"
+   },
+   {
+    "da": "jeg spilder tid",
+    "en": "I waste time"
+   },
+   {
+    "da": "jeg spildte tid",
+    "en": "I wasted time"
+   },
+   {
+    "da": "jeg har spildt tid",
+    "en": "I have wasted time"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bruge tid",
+    "en": "to spend time"
+   },
+   {
+    "da": "et spild",
+    "en": "a waste"
+   },
+   {
+    "da": "at sløse",
+    "en": "to squander"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **spilde tid** på det her.",
+   "en": "I do not want to waste time on this."
+  }
+ },
+ "at spille": {
+  "file": "s.json",
+  "explanation": "\"At spille\" means \"to play\" a game, a sport or an instrument: \"Vi spiller fodbold\" (We play soccer). It also means \"to act\" a part: \"Hun spiller en prinsesse\" (She plays a princess). For children playing for fun, Danes say \"at lege\" (to play).",
+  "forms": [
+   {
+    "da": "at spille",
+    "en": "to play"
+   },
+   {
+    "da": "jeg spiller",
+    "en": "I play"
+   },
+   {
+    "da": "jeg spillede",
+    "en": "I played"
+   },
+   {
+    "da": "jeg har spillet",
+    "en": "I have played"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spil",
+    "en": "a game"
+   },
+   {
+    "da": "at vinde",
+    "en": "to win"
+   },
+   {
+    "da": "et skuespil",
+    "en": "a play"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror kan **spille** guitar og synge.",
+   "en": "My brother can play the guitar and sing."
+  }
+ },
+ "at spille en rolle": {
+  "file": "s.json",
+  "explanation": "\"At spille en rolle\" means \"to play a role\", on stage or in real life: \"Hun spiller en rolle i skolens teater\" (She plays a role in the school theater). It also means \"to matter\": \"Prisen spiller ikke nogen rolle\" (The price does not matter).",
+  "forms": [
+   {
+    "da": "at spille en rolle",
+    "en": "to play a role"
+   },
+   {
+    "da": "jeg spiller en rolle",
+    "en": "I play a role"
+   },
+   {
+    "da": "jeg spillede en rolle",
+    "en": "I played a role"
+   },
+   {
+    "da": "jeg har spillet en rolle",
+    "en": "I have played a role"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skuespiller",
+    "en": "an actor"
+   },
+   {
+    "da": "at betyde",
+    "en": "to mean"
+   },
+   {
+    "da": "en hovedrolle",
+    "en": "a leading role"
+   },
+   {
+    "da": "at have betydning",
+    "en": "to matter"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil gerne **spille en rolle** i filmen.",
+   "en": "He would like to play a role in the movie."
+  }
+ },
+ "at spille fodbold": {
+  "file": "s.json",
+  "explanation": "\"At spille fodbold\" means \"to play soccer\" (\"football\" in Britain). \"Spille\" (to play) is used for most games and sports. The word \"fodbold\" is built from fod (foot) and bold (ball).",
+  "forms": [
+   {
+    "da": "at spille fodbold",
+    "en": "to play soccer"
+   },
+   {
+    "da": "jeg spiller fodbold",
+    "en": "I play soccer"
+   },
+   {
+    "da": "jeg spillede fodbold",
+    "en": "I played soccer"
+   },
+   {
+    "da": "jeg har spillet fodbold",
+    "en": "I have played soccer"
+   }
+  ],
+  "related": [
+   {
+    "da": "håndbold",
+    "en": "handball"
+   },
+   {
+    "da": "tennis",
+    "en": "tennis"
+   },
+   {
+    "da": "en fodboldkamp",
+    "en": "a soccer match"
+   },
+   {
+    "da": "basketball",
+    "en": "basketball"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil **spille fodbold** i dag.",
+   "en": "The children want to play soccer today."
+  }
+ },
+ "at spise": {
+  "file": "s.json",
+  "explanation": "\"At spise\" means \"to eat\". \"At spise ude\" means \"to eat out\". For drinking, use \"at drikke\" (to drink).",
+  "forms": [
+   {
+    "da": "at spise",
+    "en": "to eat"
+   },
+   {
+    "da": "jeg spiser",
+    "en": "I eat"
+   },
+   {
+    "da": "jeg spiste",
+    "en": "I ate"
+   },
+   {
+    "da": "jeg har spist",
+    "en": "I have eaten"
+   }
+  ],
+  "related": [
+   {
+    "da": "et måltid",
+    "en": "a meal"
+   },
+   {
+    "da": "sulten",
+    "en": "hungry"
+   },
+   {
+    "da": "mæt",
+    "en": "full"
+   },
+   {
+    "da": "appetit",
+    "en": "appetite"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **spise** brød, ost og æbler.",
+   "en": "I want to eat bread, cheese and apples."
+  }
+ },
+ "at sponsorere": {
+  "file": "s.json",
+  "explanation": "\"At sponsorere\" means \"to sponsor\", to pay for an event, a team or a person, usually in return for advertising.",
+  "forms": [
+   {
+    "da": "at sponsorere",
+    "en": "to sponsor"
+   },
+   {
+    "da": "jeg sponsorerer",
+    "en": "I sponsor"
+   },
+   {
+    "da": "jeg sponsorerede",
+    "en": "I sponsored"
+   },
+   {
+    "da": "jeg har sponsoreret",
+    "en": "I have sponsored"
+   }
+  ],
+  "related": [
+   {
+    "da": "at finansiere",
+    "en": "to finance"
+   },
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "at donere",
+    "en": "to donate"
+   },
+   {
+    "da": "en mæcen",
+    "en": "a patron"
+   }
+  ],
+  "sentence": {
+   "da": "Et lokalt firma vil **sponsorere** fodboldholdets nye trøjer.",
+   "en": "A local company wants to sponsor the soccer team's new shirts."
+  }
+ },
+ "at spore": {
+  "file": "s.json",
+  "explanation": "\"At spore\" means \"to track\" or \"to trace\", to follow signs back to where something is or came from. It is built on \"et spor\" (a trail or footprint).",
+  "forms": [
+   {
+    "da": "at spore",
+    "en": "to track / trace"
+   },
+   {
+    "da": "jeg sporer",
+    "en": "I track / trace"
+   },
+   {
+    "da": "jeg sporede",
+    "en": "I tracked / traced"
+   },
+   {
+    "da": "jeg har sporet",
+    "en": "I have tracked / traced"
+   }
+  ],
+  "related": [
+   {
+    "da": "at finde",
+    "en": "to find"
+   },
+   {
+    "da": "at lokalisere",
+    "en": "to locate"
+   },
+   {
+    "da": "at afsløre",
+    "en": "to uncover"
+   },
+   {
+    "da": "at opdage",
+    "en": "to discover"
+   }
+  ],
+  "sentence": {
+   "da": "Med et nummer kan du **spore** din pakke på nettet.",
+   "en": "With a number you can track your package online."
+  }
+ },
+ "at sprede": {
+  "file": "s.json",
+  "explanation": "\"At sprede\" means \"to spread\", to make something cover a bigger area or reach more people. With \"sig\" (itself) it happens by itself: \"Rygtet spreder sig\" (The rumor spreads). Without \"sig\" someone does it: \"Han spreder rygtet\" (He spreads the rumor).",
+  "forms": [
+   {
+    "da": "at sprede",
+    "en": "to spread"
+   },
+   {
+    "da": "jeg spreder",
+    "en": "I spread"
+   },
+   {
+    "da": "jeg spredte",
+    "en": "I spread"
+   },
+   {
+    "da": "jeg har spredt",
+    "en": "I have spread"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fordele",
+    "en": "to distribute"
+   },
+   {
+    "da": "at strø",
+    "en": "to scatter"
+   },
+   {
+    "da": "at samle",
+    "en": "to gather"
+   },
+   {
+    "da": "at udbrede",
+    "en": "to spread widely"
+   }
+  ],
+  "sentence": {
+   "da": "Vinden kan **sprede** frøene over hele marken.",
+   "en": "The wind can spread the seeds over the whole field."
+  }
+ },
+ "at springe": {
+  "file": "s.json",
+  "explanation": "\"At springe\" means \"to jump\". With \"over\" (over) added, it means \"to skip\": \"Jeg springer en side over\" (I skip a page).",
+  "forms": [
+   {
+    "da": "at springe",
+    "en": "to jump"
+   },
+   {
+    "da": "jeg springer",
+    "en": "I jump"
+   },
+   {
+    "da": "jeg sprang",
+    "en": "I jumped"
+   },
+   {
+    "da": "jeg har sprunget",
+    "en": "I have jumped"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spring",
+    "en": "a jump"
+   },
+   {
+    "da": "at hoppe",
+    "en": "to hop"
+   },
+   {
+    "da": "at løbe",
+    "en": "to run"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden kan **springe** over hegnet.",
+   "en": "The dog can jump over the fence."
+  }
+ },
+ "at springe over": {
+  "file": "s.json",
+  "explanation": "\"At springe over\" means \"to skip\", to leave something out: \"Jeg springer frokosten over\" (I skip lunch). It can also mean \"to jump over\": \"Hunden sprang over hegnet\" (The dog jumped over the fence).",
+  "forms": [
+   {
+    "da": "at springe over",
+    "en": "to skip"
+   },
+   {
+    "da": "jeg springer over",
+    "en": "I skip"
+   },
+   {
+    "da": "jeg sprang over",
+    "en": "I skipped"
+   },
+   {
+    "da": "jeg har sprunget over",
+    "en": "I have skipped"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hoppe",
+    "en": "to hop / jump"
+   },
+   {
+    "da": "at udelade",
+    "en": "to leave out"
+   },
+   {
+    "da": "at gå glip af",
+    "en": "to miss"
+   },
+   {
+    "da": "at undgå",
+    "en": "to avoid"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil aldrig **springe over** morgenmaden.",
+   "en": "I will never skip breakfast."
+  }
+ },
+ "at sprænge": {
+  "file": "s.json",
+  "explanation": "\"At sprænge\" means \"to blow up\", to break something apart with explosives: \"at sprænge en bro\" (to blow up a bridge). It also means to go beyond a limit: \"at sprænge budgettet\" (to blow the budget).",
+  "forms": [
+   {
+    "da": "at sprænge",
+    "en": "to blow up"
+   },
+   {
+    "da": "jeg sprænger",
+    "en": "I blow up"
+   },
+   {
+    "da": "jeg sprængte",
+    "en": "I blew up"
+   },
+   {
+    "da": "jeg har sprængt",
+    "en": "I have blown up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at eksplodere",
+    "en": "to explode"
+   },
+   {
+    "da": "en bombe",
+    "en": "a bomb"
+   },
+   {
+    "da": "at splintre",
+    "en": "to shatter"
+   },
+   {
+    "da": "en sprængning",
+    "en": "a blast"
+   }
+  ],
+  "sentence": {
+   "da": "Arbejderne bruger dynamit til at **sprænge** klippen.",
+   "en": "The workers use dynamite to blow up the rock."
+  }
+ },
+ "at sprøjte": {
+  "file": "s.json",
+  "explanation": "\"At sprøjte\" means \"to spray\" or \"to squirt\". A doctor's needle is \"en sprøjte\" (a syringe), the same word.",
+  "forms": [
+   {
+    "da": "at sprøjte",
+    "en": "to spray"
+   },
+   {
+    "da": "jeg sprøjter",
+    "en": "I spray"
+   },
+   {
+    "da": "jeg sprøjtede",
+    "en": "I sprayed"
+   },
+   {
+    "da": "jeg har sprøjtet",
+    "en": "I have sprayed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stænke",
+    "en": "to splash"
+   },
+   {
+    "da": "at vande",
+    "en": "to water"
+   },
+   {
+    "da": "et sprøjtemiddel",
+    "en": "a pesticide"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil **sprøjte** vand på hinanden.",
+   "en": "The children want to spray water on each other."
+  }
+ },
+ "at spytte": {
+  "file": "s.json",
+  "explanation": "\"At spytte\" means \"to spit\", to force saliva or food out of the mouth. With \"på\" (on) it is aimed at something: \"spytte på gulvet\" (spit on the floor). It also fits things that shoot out: \"Dragen spytter ild\" (The dragon spits fire).",
+  "forms": [
+   {
+    "da": "at spytte",
+    "en": "to spit"
+   },
+   {
+    "da": "jeg spytter",
+    "en": "I spit"
+   },
+   {
+    "da": "jeg spyttede",
+    "en": "I spat"
+   },
+   {
+    "da": "jeg har spyttet",
+    "en": "I have spat"
+   }
+  ],
+  "related": [
+   {
+    "da": "at synke",
+    "en": "to swallow"
+   },
+   {
+    "da": "at spy",
+    "en": "to throw up"
+   },
+   {
+    "da": "at sprøjte",
+    "en": "to squirt"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet kan ikke lide smagen og vil **spytte** den ud.",
+   "en": "The child does not like the taste and wants to spit it out."
+  }
+ },
+ "at spænde": {
+  "file": "s.json",
+  "explanation": "\"At spænde\" means \"to tighten\" and \"to fasten\": \"Spænd remmen\" (Tighten the strap). It also means to tense up: \"Jeg spænder musklerne\" (I tense my muscles).",
+  "forms": [
+   {
+    "da": "at spænde",
+    "en": "to tighten / fasten"
+   },
+   {
+    "da": "jeg spænder",
+    "en": "I tighten / fasten"
+   },
+   {
+    "da": "jeg spændte",
+    "en": "I tightened / fastened"
+   },
+   {
+    "da": "jeg har spændt",
+    "en": "I have tightened / fastened"
+   }
+  ],
+  "related": [
+   {
+    "da": "en spænding",
+    "en": "tension / excitement"
+   },
+   {
+    "da": "spændende",
+    "en": "exciting"
+   },
+   {
+    "da": "at løsne",
+    "en": "to loosen"
+   },
+   {
+    "da": "en gesp",
+    "en": "a buckle"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal altid **spænde** sikkerhedsbæltet i bilen.",
+   "en": "You must always fasten the seat belt in the car."
+  }
+ },
+ "at spøge": {
+  "file": "s.json",
+  "explanation": "\"At spøge\" means \"to joke\", to say something for fun that is not meant for real: \"Jeg spøger kun\" (I am only joking). The same word is used for ghosts: \"Det spøger i huset\" (The house is haunted).",
+  "forms": [
+   {
+    "da": "at spøge",
+    "en": "to joke"
+   },
+   {
+    "da": "jeg spøger",
+    "en": "I joke"
+   },
+   {
+    "da": "jeg spøgte",
+    "en": "I joked"
+   },
+   {
+    "da": "jeg har spøgt",
+    "en": "I have joked"
+   }
+  ],
+  "related": [
+   {
+    "da": "sjov",
+    "en": "funny"
+   },
+   {
+    "da": "at drille",
+    "en": "to tease"
+   },
+   {
+    "da": "alvorlig",
+    "en": "serious"
+   },
+   {
+    "da": "at more sig",
+    "en": "to have fun"
+   }
+  ],
+  "sentence": {
+   "da": "Han kan godt **spøge** med sin egen fejl, og alle griner.",
+   "en": "He can joke about his own mistake, and everyone laughs."
+  }
+ },
+ "at spørge": {
+  "file": "s.json",
+  "explanation": "\"At spørge\" means \"to ask\" a question: \"Jeg spørger ham om vejen\" (I ask him for directions). To ask for something you want, use \"at bede om\" (to ask for): \"Jeg beder om en kop kaffe\" (I ask for a cup of coffee).",
+  "forms": [
+   {
+    "da": "at spørge",
+    "en": "to ask"
+   },
+   {
+    "da": "jeg spørger",
+    "en": "I ask"
+   },
+   {
+    "da": "jeg spurgte",
+    "en": "I asked"
+   },
+   {
+    "da": "jeg har spurgt",
+    "en": "I have asked"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spørgsmål",
+    "en": "a question"
+   },
+   {
+    "da": "at svare",
+    "en": "to answer"
+   },
+   {
+    "da": "at forhøre sig",
+    "en": "to inquire"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **spørge** læreren.",
+   "en": "I want to ask the teacher."
+  }
+ },
+ "at spørge om": {
+  "file": "s.json",
+  "explanation": "\"At spørge om\" means \"to ask about\" or \"to ask for\": \"spørge om prisen\" (ask about the price), \"spørge om vej\" (ask for directions).",
+  "forms": [
+   {
+    "da": "at spørge om",
+    "en": "to ask about"
+   },
+   {
+    "da": "jeg spørger om",
+    "en": "I ask about"
+   },
+   {
+    "da": "jeg spurgte om",
+    "en": "I asked about"
+   },
+   {
+    "da": "jeg har spurgt om",
+    "en": "I have asked about"
+   }
+  ],
+  "related": [
+   {
+    "da": "at svare",
+    "en": "to answer"
+   },
+   {
+    "da": "et spørgsmål",
+    "en": "a question"
+   },
+   {
+    "da": "at bede om",
+    "en": "to ask for / request"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **spørge om** hjælp.",
+   "en": "I want to ask for help."
+  }
+ },
+ "at spørge om vej": {
+  "file": "s.json",
+  "explanation": "\"At spørge om vej\" means \"to ask for directions\", literally \"to ask about way\": \"Undskyld, må jeg spørge om vej?\" (Excuse me, may I ask for directions?)",
+  "forms": [
+   {
+    "da": "at spørge om vej",
+    "en": "to ask for directions"
+   },
+   {
+    "da": "jeg spørger om vej",
+    "en": "I ask for directions"
+   },
+   {
+    "da": "jeg spurgte om vej",
+    "en": "I asked for directions"
+   },
+   {
+    "da": "jeg har spurgt om vej",
+    "en": "I have asked for directions"
+   }
+  ],
+  "related": [
+   {
+    "da": "at finde vej",
+    "en": "to find one's way"
+   },
+   {
+    "da": "at fare vild",
+    "en": "to get lost"
+   },
+   {
+    "da": "et kort",
+    "en": "a map"
+   },
+   {
+    "da": "at vise vej",
+    "en": "to show the way"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **spørge om vej** til banegården.",
+   "en": "I want to ask for directions to the station."
+  }
+ },
+ "at stabilisere": {
+  "file": "s.json",
+  "explanation": "\"At stabilisere\" means \"to stabilize\", to make something steady so it stops changing or shaking. With \"sig\" (itself) it happens by itself: \"Priserne stabiliserer sig\" (Prices settle).",
+  "forms": [
+   {
+    "da": "at stabilisere",
+    "en": "to stabilize"
+   },
+   {
+    "da": "jeg stabiliserer",
+    "en": "I stabilize"
+   },
+   {
+    "da": "jeg stabiliserede",
+    "en": "I stabilized"
+   },
+   {
+    "da": "jeg har stabiliseret",
+    "en": "I have stabilized"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sikre",
+    "en": "to secure"
+   },
+   {
+    "da": "at balancere",
+    "en": "to balance"
+   },
+   {
+    "da": "stabil",
+    "en": "stable"
+   },
+   {
+    "da": "at fastholde",
+    "en": "to keep in place"
+   }
+  ],
+  "sentence": {
+   "da": "Vi bruger en stang til at **stabilisere** det høje telt.",
+   "en": "We use a pole to stabilize the tall tent."
+  }
+ },
+ "at stadfæste": {
+  "file": "s.json",
+  "explanation": "\"At stadfæste\" means \"to confirm\" or \"to uphold\", to make a decision or a law official so that it stands: \"Retten stadfæstede dommen\" (The court upheld the verdict). It is used in law and government, not in everyday talk.",
+  "forms": [
+   {
+    "da": "at stadfæste",
+    "en": "to confirm / uphold"
+   },
+   {
+    "da": "jeg stadfæster",
+    "en": "I confirm / uphold"
+   },
+   {
+    "da": "jeg stadfæstede",
+    "en": "I confirmed / upheld"
+   },
+   {
+    "da": "jeg har stadfæstet",
+    "en": "I have confirmed / upheld"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bekræfte",
+    "en": "to confirm"
+   },
+   {
+    "da": "at godkende",
+    "en": "to approve"
+   },
+   {
+    "da": "at fastslå",
+    "en": "to establish"
+   },
+   {
+    "da": "at ophæve",
+    "en": "to repeal"
+   }
+  ],
+  "sentence": {
+   "da": "Kongen kan **stadfæste** en ny lov, og så gælder den.",
+   "en": "The king can formally approve a new law, and then it applies."
+  }
+ },
+ "at stamme": {
+  "file": "s.json",
+  "explanation": "\"At stamme\" means \"to stutter\" and also \"to come from\". For speech, no extra word is needed: \"Han stammer, når han er nervøs\" (He stutters when he is nervous). For origin, add \"fra\" (from): \"Min familie stammer fra Jylland\" (My family comes from Jutland).",
+  "forms": [
+   {
+    "da": "at stamme",
+    "en": "to stutter / come from"
+   },
+   {
+    "da": "jeg stammer",
+    "en": "I stutter / come from"
+   },
+   {
+    "da": "jeg stammede",
+    "en": "I stuttered / came from"
+   },
+   {
+    "da": "jeg har stammet",
+    "en": "I have stuttered / come from"
+   }
+  ],
+  "related": [
+   {
+    "da": "en oprindelse",
+    "en": "an origin"
+   },
+   {
+    "da": "en slægt",
+    "en": "a family line"
+   },
+   {
+    "da": "et ophav",
+    "en": "a source"
+   },
+   {
+    "da": "at tøve",
+    "en": "to hesitate"
+   }
+  ],
+  "sentence": {
+   "da": "Mange danske ord kan **stamme** fra tysk.",
+   "en": "Many Danish words can come from German."
+  }
+ },
+ "at standse": {
+  "file": "s.json",
+  "explanation": "\"At standse\" means \"to stop\", when something moving comes to a halt or you make it halt: \"Bilen standsede foran huset\" (The car stopped in front of the house). To quit doing something, say \"at holde op\" (to quit): \"Jeg holder op med at ryge\" (I am quitting smoking).",
+  "forms": [
+   {
+    "da": "at standse",
+    "en": "to stop"
+   },
+   {
+    "da": "jeg standser",
+    "en": "I stop"
+   },
+   {
+    "da": "jeg standsede",
+    "en": "I stopped"
+   },
+   {
+    "da": "jeg har standset",
+    "en": "I have stopped"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   },
+   {
+    "da": "at starte",
+    "en": "to start"
+   },
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   }
+  ],
+  "sentence": {
+   "da": "Bussen skal **standse** ved stationen.",
+   "en": "The bus has to stop at the station."
+  }
+ },
+ "at starte": {
+  "file": "s.json",
+  "explanation": "\"At starte\" means \"to start\", both for things that begin and for machines: \"Vi starter i morgen\" (We start tomorrow) and \"Bilen starter ikke\" (The car will not start). For a lesson or a film, \"at begynde\" (to begin) works too: \"Filmen begynder klokken otte\" (The film begins at eight).",
+  "forms": [
+   {
+    "da": "at starte",
+    "en": "to start"
+   },
+   {
+    "da": "jeg starter",
+    "en": "I start"
+   },
+   {
+    "da": "jeg startede",
+    "en": "I started"
+   },
+   {
+    "da": "jeg har startet",
+    "en": "I have started"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   },
+   {
+    "da": "at slutte",
+    "en": "to finish"
+   },
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   }
+  ],
+  "sentence": {
+   "da": "Filmen skal **starte** klokken otte.",
+   "en": "The movie is going to start at eight."
+  }
+ }
+}

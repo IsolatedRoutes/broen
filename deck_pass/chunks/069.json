@@ -1,0 +1,4226 @@
+{
+ "at tage noter": {
+  "file": "t.json",
+  "explanation": "\"At tage noter\" means \"to take notes\", putting the main points on paper while someone talks: \"Jeg tager noter i timen\" (I take notes in class).",
+  "forms": [
+   {
+    "da": "at tage noter",
+    "en": "to take notes"
+   },
+   {
+    "da": "jeg tager noter",
+    "en": "I take notes"
+   },
+   {
+    "da": "jeg tog noter",
+    "en": "I took notes"
+   },
+   {
+    "da": "jeg har taget noter",
+    "en": "I have taken notes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en notesbog",
+    "en": "a notebook"
+   },
+   {
+    "da": "en notesblok",
+    "en": "a notepad"
+   },
+   {
+    "da": "at skrive ned",
+    "en": "to write down"
+   },
+   {
+    "da": "et referat",
+    "en": "a summary of a meeting"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **tage noter**, fordi jeg glemmer alt.",
+   "en": "I want to take notes because I forget everything."
+  }
+ },
+ "at tage op": {
+  "file": "t.json",
+  "explanation": "\"At tage op\" means \"to pick up\" and also \"to take up\". To pick something up: \"Jeg tager bogen op fra gulvet\" (I pick the book up from the floor). To start a new activity: \"Hun tog golf op\" (She took up golf).",
+  "forms": [
+   {
+    "da": "at tage op",
+    "en": "to pick up / take up"
+   },
+   {
+    "da": "jeg tager op",
+    "en": "I pick up / take up"
+   },
+   {
+    "da": "jeg tog op",
+    "en": "I picked up / took up"
+   },
+   {
+    "da": "jeg har taget op",
+    "en": "I have picked up / taken up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at samle op",
+    "en": "to pick up"
+   },
+   {
+    "da": "at tage ned",
+    "en": "to take down"
+   },
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at nævne",
+    "en": "to mention"
+   }
+  ],
+  "sentence": {
+   "da": "Det vil jeg gerne **tage op** på mødet.",
+   "en": "I would like to take that up at the meeting."
+  }
+ },
+ "at tage på": {
+  "file": "t.json",
+  "explanation": "\"At tage på\" means \"to gain weight\": \"Jeg har taget på i vinter\" (I have gained weight this winter). It also means \"to go on a trip\", as in \"at tage på ferie\" (to go on vacation). You can tell which one it is from the context of the sentence.",
+  "forms": [
+   {
+    "da": "at tage på",
+    "en": "to gain weight"
+   },
+   {
+    "da": "jeg tager på",
+    "en": "I gain weight"
+   },
+   {
+    "da": "jeg tog på",
+    "en": "I gained weight"
+   },
+   {
+    "da": "jeg har taget på",
+    "en": "I have gained weight"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tabe sig",
+    "en": "to lose weight"
+   },
+   {
+    "da": "en vægt",
+    "en": "a weight / scale"
+   },
+   {
+    "da": "et kilo",
+    "en": "a kilo"
+   },
+   {
+    "da": "en kost",
+    "en": "a diet"
+   }
+  ],
+  "sentence": {
+   "da": "Hvis du spiser meget kage, kan du **tage på**.",
+   "en": "If you eat a lot of cake, you can gain weight."
+  }
+ },
+ "at tage på ferie": {
+  "file": "t.json",
+  "explanation": "\"At tage på ferie\" means \"to go on vacation\". To say you are already on vacation, use \"at være på ferie\" (to be on vacation).",
+  "forms": [
+   {
+    "da": "at tage på ferie",
+    "en": "to go on vacation"
+   },
+   {
+    "da": "jeg tager på ferie",
+    "en": "I go on vacation"
+   },
+   {
+    "da": "jeg tog på ferie",
+    "en": "I went on vacation"
+   },
+   {
+    "da": "jeg er taget på ferie",
+    "en": "I have gone on vacation"
+   }
+  ],
+  "related": [
+   {
+    "da": "at rejse",
+    "en": "to travel"
+   },
+   {
+    "da": "en ferierejse",
+    "en": "a vacation trip"
+   },
+   {
+    "da": "en feriedag",
+    "en": "a vacation day"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **tage på ferie** til Spanien.",
+   "en": "We want to go to Spain on vacation."
+  }
+ },
+ "at tage sig af": {
+  "file": "t.json",
+  "explanation": "\"At tage sig af\" means \"to take care of\". For people and animals: \"Hun tager sig af sin syge mor\" (She takes care of her sick mother). For jobs: \"Jeg tager mig af opvasken\" (I take care of the dishes).",
+  "forms": [
+   {
+    "da": "at tage sig af",
+    "en": "to take care of"
+   },
+   {
+    "da": "jeg tager mig af",
+    "en": "I take care of"
+   },
+   {
+    "da": "jeg tog mig af",
+    "en": "I took care of"
+   },
+   {
+    "da": "jeg har taget mig af",
+    "en": "I have taken care of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at passe",
+    "en": "to look after"
+   },
+   {
+    "da": "at sørge for",
+    "en": "to see to"
+   },
+   {
+    "da": "at tage vare på",
+    "en": "to look after"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **tage sig af** hunden i weekenden.",
+   "en": "He will take care of the dog on the weekend."
+  }
+ },
+ "at tage sig sammen": {
+  "file": "t.json",
+  "explanation": "\"At tage sig sammen\" means \"to pull oneself together\": you steady yourself and make an effort, often after being lazy or upset. It is often said as an order: \"Nu må du tage dig sammen!\" (Now you must pull yourself together!)",
+  "forms": [
+   {
+    "da": "at tage sig sammen",
+    "en": "to pull oneself together"
+   },
+   {
+    "da": "jeg tager mig sammen",
+    "en": "I pull myself together"
+   },
+   {
+    "da": "jeg tog mig sammen",
+    "en": "I pulled myself together"
+   },
+   {
+    "da": "jeg har taget mig sammen",
+    "en": "I have pulled myself together"
+   }
+  ],
+  "related": [
+   {
+    "da": "at beherske sig",
+    "en": "to control oneself"
+   },
+   {
+    "da": "at samle sig",
+    "en": "to collect oneself"
+   },
+   {
+    "da": "at skærpe sig",
+    "en": "to buck up"
+   },
+   {
+    "da": "at give op",
+    "en": "to give up"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil gerne **tage sig sammen** og begynde at træne.",
+   "en": "She wants to pull herself together and start working out."
+  }
+ },
+ "at tage sig tid": {
+  "file": "t.json",
+  "explanation": "\"At tage sig tid\" means \"to take one's time\": you do something without rushing. You can tell another person \"Tag dig tid!\" (Take your time!). To name the activity you take time for, add \"til at\" (to) before the verb: \"Han tager sig tid til at tænke\" (He takes his time to think).",
+  "forms": [
+   {
+    "da": "at tage sig tid",
+    "en": "to take one's time"
+   },
+   {
+    "da": "jeg tager mig tid",
+    "en": "I take my time"
+   },
+   {
+    "da": "jeg tog mig tid",
+    "en": "I took my time"
+   },
+   {
+    "da": "jeg har taget mig tid",
+    "en": "I have taken my time"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skynde sig",
+    "en": "to hurry"
+   },
+   {
+    "da": "langsom",
+    "en": "slow"
+   },
+   {
+    "da": "tålmodig",
+    "en": "patient"
+   },
+   {
+    "da": "at have god tid",
+    "en": "to have plenty of time"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **tage sig tid**, når der ikke er travlt.",
+   "en": "You can take your time when there is no rush."
+  }
+ },
+ "at tage skeen i den anden hånd": {
+  "file": "t.json",
+  "explanation": "\"At tage skeen i den anden hånd\" means \"to change your approach\": you start doing things in a stricter and more careful way because the old way is not working. Literally, it is \"to take the spoon in the other hand\".",
+  "forms": [
+   {
+    "da": "Han tog skeen i den anden hånd",
+    "en": "He changed his approach"
+   },
+   {
+    "da": "Vi må tage skeen i den anden hånd",
+    "en": "We must change our approach"
+   },
+   {
+    "da": "Nu tager hun skeen i den anden hånd",
+    "en": "Now she is changing her approach"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ændre kurs",
+    "en": "to change course"
+   },
+   {
+    "da": "at tage sig sammen",
+    "en": "to pull yourself together"
+   },
+   {
+    "da": "at stramme op",
+    "en": "to tighten up"
+   },
+   {
+    "da": "at stramme sig an",
+    "en": "to pull your socks up"
+   }
+  ],
+  "sentence": {
+   "da": "Vi bruger for mange penge og må **tage skeen i den anden hånd**.",
+   "en": "We spend too much money and must change our approach."
+  }
+ },
+ "at tage skraldet ud": {
+  "file": "t.json",
+  "explanation": "\"At tage skraldet ud\" means \"to take out the trash\": you carry the household garbage outside. The word \"ud\" (out) comes after \"skraldet\" (the trash).",
+  "forms": [
+   {
+    "da": "at tage skraldet ud",
+    "en": "to take out the trash"
+   },
+   {
+    "da": "jeg tager skraldet ud",
+    "en": "I take out the trash"
+   },
+   {
+    "da": "jeg tog skraldet ud",
+    "en": "I took out the trash"
+   },
+   {
+    "da": "jeg har taget skraldet ud",
+    "en": "I have taken out the trash"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skraldespand",
+    "en": "a trash can"
+   },
+   {
+    "da": "en skraldepose",
+    "en": "a trash bag"
+   },
+   {
+    "da": "at smide ud",
+    "en": "to throw out"
+   },
+   {
+    "da": "affald",
+    "en": "waste"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **tage skraldet ud**, når du går?",
+   "en": "Can you take out the trash when you leave?"
+  }
+ },
+ "at tage stilling til": {
+  "file": "t.json",
+  "explanation": "\"At tage stilling til\" means \"to take a position on\": you form a clear view about a matter that needs an answer: \"Jeg har ikke taget stilling endnu\" (I have not made up my mind yet). To name the matter you decide on, put it after \"til\" (on): \"at tage stilling til forslaget\" (to take a position on the proposal).",
+  "forms": [
+   {
+    "da": "at tage stilling til",
+    "en": "to take a position on"
+   },
+   {
+    "da": "jeg tager stilling til",
+    "en": "I take a position on"
+   },
+   {
+    "da": "jeg tog stilling til",
+    "en": "I took a position on"
+   },
+   {
+    "da": "jeg har taget stilling til",
+    "en": "I have taken a position on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at beslutte",
+    "en": "to decide"
+   },
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   },
+   {
+    "da": "en holdning",
+    "en": "a stance"
+   },
+   {
+    "da": "at mene",
+    "en": "to think"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **tage stilling til** tilbuddet i dag.",
+   "en": "You have to take a position on the offer today."
+  }
+ },
+ "at tage tid": {
+  "file": "t.json",
+  "explanation": "\"At tage tid\" means \"to take time\", and Danes usually start with \"det\" (it): \"Det tager tid at lære dansk\" (It takes time to learn Danish). To say it takes long, use \"det tager lang tid\" (it takes a long time).",
+  "forms": [
+   {
+    "da": "at tage tid",
+    "en": "to take time"
+   },
+   {
+    "da": "det tager tid",
+    "en": "it takes time"
+   },
+   {
+    "da": "det tog tid",
+    "en": "it took time"
+   },
+   {
+    "da": "det har taget tid",
+    "en": "it has taken time"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bruge tid",
+    "en": "to spend time"
+   },
+   {
+    "da": "at have tid",
+    "en": "to have time"
+   },
+   {
+    "da": "at spare tid",
+    "en": "to save time"
+   },
+   {
+    "da": "at spilde tid",
+    "en": "to waste time"
+   }
+  ],
+  "sentence": {
+   "da": "Det vil **tage tid** at bygge et hus.",
+   "en": "It will take time to build a house."
+  }
+ },
+ "at tage toget": {
+  "file": "t.json",
+  "explanation": "\"At tage toget\" means \"to take the train\" or \"to go by train\". The past form of \"at tage\" (to take), \"tog\", is spelled the same as the noun \"et tog\" (a train). In \"Jeg tog toget\" (I took the train), \"tog\" is the verb and \"toget\" is the noun.",
+  "forms": [
+   {
+    "da": "at tage toget",
+    "en": "to take the train"
+   },
+   {
+    "da": "jeg tager toget",
+    "en": "I take the train"
+   },
+   {
+    "da": "jeg tog toget",
+    "en": "I took the train"
+   },
+   {
+    "da": "jeg har taget toget",
+    "en": "I have taken the train"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage bussen",
+    "en": "to take the bus"
+   },
+   {
+    "da": "en togbillet",
+    "en": "a train ticket"
+   },
+   {
+    "da": "en togstation",
+    "en": "a train station"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **tage toget** til København.",
+   "en": "I want to take the train to Copenhagen."
+  }
+ },
+ "at tage tyren ved hornene": {
+  "file": "t.json",
+  "explanation": "\"At tage tyren ved hornene\" means \"to take the bull by the horns\": you face a difficult problem directly instead of waiting. You can say it about yourself just before you act: \"Nu tager jeg tyren ved hornene og ringer til banken\" (Now I will take the bull by the horns and call the bank).",
+  "forms": [
+   {
+    "da": "Hun tager tyren ved hornene",
+    "en": "She takes the bull by the horns"
+   },
+   {
+    "da": "Nu må vi tage tyren ved hornene",
+    "en": "Now we must take the bull by the horns"
+   },
+   {
+    "da": "Han tog tyren ved hornene",
+    "en": "He took the bull by the horns"
+   }
+  ],
+  "related": [
+   {
+    "da": "at udskyde",
+    "en": "to postpone"
+   },
+   {
+    "da": "at undvige",
+    "en": "to dodge"
+   },
+   {
+    "da": "at gribe ind",
+    "en": "to step in"
+   },
+   {
+    "da": "at tage fat",
+    "en": "to get to work"
+   }
+  ],
+  "sentence": {
+   "da": "Hun besluttede at **tage tyren ved hornene** og tale med chefen.",
+   "en": "She decided to take the bull by the horns and talk to the boss."
+  }
+ },
+ "at tage ud": {
+  "file": "t.json",
+  "explanation": "\"At tage ud\" means \"to go out\" and \"to take out\". To go out means to leave home for a meal or a trip: \"Vi tager ud til stranden\" (We go out to the beach). To take out means to remove something from inside: \"Jeg tager skraldet ud\" (I take the trash out).",
+  "forms": [
+   {
+    "da": "at tage ud",
+    "en": "to go out / take out"
+   },
+   {
+    "da": "jeg tager ud",
+    "en": "I go out"
+   },
+   {
+    "da": "jeg tog ud",
+    "en": "I went out"
+   },
+   {
+    "da": "jeg er taget ud",
+    "en": "I have gone out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage ind",
+    "en": "to go in (to town)"
+   },
+   {
+    "da": "at tage hjem",
+    "en": "to go home"
+   },
+   {
+    "da": "at gå ud",
+    "en": "to go out"
+   },
+   {
+    "da": "at tage med",
+    "en": "to take along"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **tage ud** og spise i aften.",
+   "en": "We want to go out and eat tonight."
+  }
+ },
+ "at takke": {
+  "file": "t.json",
+  "explanation": "\"At takke\" means \"to thank\": \"Jeg vil gerne takke dig for hjælpen\" (I would like to thank you for the help). It sounds formal. In daily life, people just say \"tak\" (thanks) or \"tusind tak\" (thank you very much).",
+  "forms": [
+   {
+    "da": "at takke",
+    "en": "to thank"
+   },
+   {
+    "da": "jeg takker",
+    "en": "I thank"
+   },
+   {
+    "da": "jeg takkede",
+    "en": "I thanked"
+   },
+   {
+    "da": "jeg har takket",
+    "en": "I have thanked"
+   }
+  ],
+  "related": [
+   {
+    "da": "taknemmelig",
+    "en": "grateful"
+   },
+   {
+    "da": "taknemmelighed",
+    "en": "gratitude"
+   },
+   {
+    "da": "værsgo",
+    "en": "you are welcome"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **takke** dig for hjælpen.",
+   "en": "I would like to thank you for the help."
+  }
+ },
+ "at tale": {
+  "file": "t.json",
+  "explanation": "\"At tale\" means \"to speak\", such as giving a speech: \"Han taler til holdet\" (He speaks to the team). For casual chatting, Danes prefer \"at snakke\" (to chat). Add \"med\" (with) for the person and \"om\" (about) for the topic: \"at tale med nogen\" (to speak with someone), \"at tale om noget\" (to talk about something).",
+  "forms": [
+   {
+    "da": "at tale",
+    "en": "to speak"
+   },
+   {
+    "da": "jeg taler",
+    "en": "I speak"
+   },
+   {
+    "da": "jeg talte",
+    "en": "I spoke"
+   },
+   {
+    "da": "jeg har talt",
+    "en": "I have spoken"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sige",
+    "en": "to say"
+   },
+   {
+    "da": "et sprog",
+    "en": "a language"
+   },
+   {
+    "da": "at tie",
+    "en": "to be silent"
+   },
+   {
+    "da": "et foredrag",
+    "en": "a lecture"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **tale** dansk?",
+   "en": "Can you speak Danish?"
+  }
+ },
+ "at tale med": {
+  "file": "t.json",
+  "explanation": "\"At tale med\" means \"to talk to\" or \"to talk with\" someone: \"Kan jeg tale med Anna?\" (Can I speak to Anna?)",
+  "forms": [
+   {
+    "da": "at tale med",
+    "en": "to talk to"
+   },
+   {
+    "da": "jeg taler med",
+    "en": "I talk to"
+   },
+   {
+    "da": "jeg talte med",
+    "en": "I talked to"
+   },
+   {
+    "da": "jeg har talt med",
+    "en": "I have talked to"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tale om",
+    "en": "to talk about"
+   },
+   {
+    "da": "at snakke med",
+    "en": "to chat with"
+   },
+   {
+    "da": "en samtale",
+    "en": "a conversation"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **tale med** dig.",
+   "en": "I would like to talk to you."
+  }
+ },
+ "at tale med store bogstaver": {
+  "file": "t.json",
+  "explanation": "\"At tale med store bogstaver\" means \"to speak bluntly\": you say something so plainly that nobody can misunderstand it. Literally, it is \"to speak with uppercase letters\".",
+  "forms": [
+   {
+    "da": "Nu taler vi med store bogstaver",
+    "en": "Now we are speaking bluntly"
+   },
+   {
+    "da": "Jeg må tale med store bogstaver",
+    "en": "I have to speak bluntly"
+   },
+   {
+    "da": "Hun talte med store bogstaver",
+    "en": "She spoke bluntly"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tale udenom",
+    "en": "to beat around the bush"
+   },
+   {
+    "da": "at sige det lige ud",
+    "en": "to say it straight out"
+   },
+   {
+    "da": "direkte",
+    "en": "direct"
+   }
+  ],
+  "sentence": {
+   "da": "Når han ikke forstår hints, må jeg **tale med store bogstaver**.",
+   "en": "When he does not get hints, I have to speak bluntly."
+  }
+ },
+ "at tale om": {
+  "file": "t.json",
+  "explanation": "\"At tale om\" means \"to talk about\" a topic. In a question, \"om\" (about) stays at the end: \"Hvad taler I om?\" (What are you talking about?)",
+  "forms": [
+   {
+    "da": "at tale om",
+    "en": "to talk about"
+   },
+   {
+    "da": "jeg taler om",
+    "en": "I talk about"
+   },
+   {
+    "da": "jeg talte om",
+    "en": "I talked about"
+   },
+   {
+    "da": "jeg har talt om",
+    "en": "I have talked about"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tale med",
+    "en": "to talk to"
+   },
+   {
+    "da": "en samtale",
+    "en": "a conversation"
+   },
+   {
+    "da": "at diskutere",
+    "en": "to discuss"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **tale om** vejret i dag.",
+   "en": "We want to talk about the weather today."
+  }
+ },
+ "at tale sammen": {
+  "file": "t.json",
+  "explanation": "\"At tale sammen\" means \"to talk (with each other)\", so it needs two or more people: \"Vi taler sammen hver dag\" (We talk to each other every day). To name the other person, use \"at tale med\" (to talk with): \"Jeg taler med min mor\" (I talk with my mother).",
+  "forms": [
+   {
+    "da": "at tale sammen",
+    "en": "to talk (with each other)"
+   },
+   {
+    "da": "vi taler sammen",
+    "en": "we talk (with each other)"
+   },
+   {
+    "da": "vi talte sammen",
+    "en": "we talked (with each other)"
+   },
+   {
+    "da": "vi har talt sammen",
+    "en": "we have talked (with each other)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at snakke",
+    "en": "to chat"
+   },
+   {
+    "da": "en samtale",
+    "en": "a conversation"
+   },
+   {
+    "da": "at diskutere",
+    "en": "to discuss"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **tale sammen** om det i morgen.",
+   "en": "We need to talk about it tomorrow."
+  }
+ },
+ "at tale sandt": {
+  "file": "t.json",
+  "explanation": "\"At tale sandt\" means \"to tell the truth\". More often, Danes say \"at sige sandheden\" (to tell the truth).",
+  "forms": [
+   {
+    "da": "at tale sandt",
+    "en": "to tell the truth"
+   },
+   {
+    "da": "jeg taler sandt",
+    "en": "I tell the truth"
+   },
+   {
+    "da": "jeg talte sandt",
+    "en": "I told the truth"
+   },
+   {
+    "da": "jeg har talt sandt",
+    "en": "I have told the truth"
+   }
+  ],
+  "related": [
+   {
+    "da": "en løgn",
+    "en": "a lie"
+   },
+   {
+    "da": "at lyve",
+    "en": "to lie"
+   },
+   {
+    "da": "ærlig",
+    "en": "honest"
+   },
+   {
+    "da": "sandfærdig",
+    "en": "truthful"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil altid **tale sandt**, også når det er svært.",
+   "en": "I will always tell the truth, even when it is hard."
+  }
+ },
+ "at tale ud": {
+  "file": "t.json",
+  "explanation": "\"At tale ud\" means \"to talk things through\": you say everything that bothers you until the matter is settled. The word \"ud\" (out) adds the idea of finishing completely: \"Lad mig tale ud!\" (Let me finish speaking!)",
+  "forms": [
+   {
+    "da": "at tale ud",
+    "en": "to talk things through"
+   },
+   {
+    "da": "jeg taler ud",
+    "en": "I talk things through"
+   },
+   {
+    "da": "jeg talte ud",
+    "en": "I talked things through"
+   },
+   {
+    "da": "jeg har talt ud",
+    "en": "I have talked things through"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tale udenom",
+    "en": "to beat around the bush"
+   },
+   {
+    "da": "at snakke",
+    "en": "to chat"
+   },
+   {
+    "da": "at forsone sig",
+    "en": "to make up"
+   },
+   {
+    "da": "en samtale",
+    "en": "a conversation"
+   }
+  ],
+  "sentence": {
+   "da": "Efter skænderiet ville parret **tale ud** med hinanden.",
+   "en": "After the argument, the couple wanted to talk it out with each other."
+  }
+ },
+ "at tale udenom": {
+  "file": "t.json",
+  "explanation": "\"At tale udenom\" means \"to beat around the bush\": you avoid the real point. \"Udenom\" means \"around the outside\", so the picture is circling the topic and never reaching it: \"Tal ikke udenom!\" (Do not beat around the bush!) Do not mix it up with \"at tale ud\" (to talk things through).",
+  "forms": [
+   {
+    "da": "Du taler udenom",
+    "en": "You are beating around the bush"
+   },
+   {
+    "da": "Hold op med at tale udenom",
+    "en": "Stop beating around the bush"
+   },
+   {
+    "da": "Han talte udenom hele tiden",
+    "en": "He beat around the bush the whole time"
+   }
+  ],
+  "related": [
+   {
+    "da": "at undvige",
+    "en": "to dodge"
+   },
+   {
+    "da": "at komme til sagen",
+    "en": "to get to the point"
+   },
+   {
+    "da": "at sige det lige ud",
+    "en": "to say it straight out"
+   },
+   {
+    "da": "at pakke ind",
+    "en": "to sugar-coat"
+   }
+  ],
+  "sentence": {
+   "da": "Hun bliver ved med at **tale udenom**, når jeg spørger om pengene.",
+   "en": "She keeps beating around the bush when I ask about the money."
+  }
+ },
+ "at tanke": {
+  "file": "t.json",
+  "explanation": "\"At tanke\" means \"to refuel\": you fill a car with fuel: \"Jeg tanker bilen\" (I fill up the car). For an electric car, use \"at lade\" (to charge): \"Jeg lader bilen\" (I charge the car).",
+  "forms": [
+   {
+    "da": "at tanke",
+    "en": "to refuel"
+   },
+   {
+    "da": "jeg tanker",
+    "en": "I refuel"
+   },
+   {
+    "da": "jeg tankede",
+    "en": "I refueled"
+   },
+   {
+    "da": "jeg har tanket",
+    "en": "I have refueled"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tankstation",
+    "en": "a gas station"
+   },
+   {
+    "da": "at fylde op",
+    "en": "to fill up"
+   },
+   {
+    "da": "en benzinstation",
+    "en": "a gasoline station"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen er næsten tom, og jeg skal **tanke**.",
+   "en": "The car is almost empty, and I have to refuel."
+  }
+ },
+ "at taste": {
+  "file": "t.json",
+  "explanation": "\"At taste\" means \"to type\" or \"to enter\" numbers and letters by tapping buttons on a device: \"Jeg taster telefonnummeret\" (I enter the phone number). For writing text, use \"at skrive\" (to write): \"Jeg skriver et brev\" (I write a letter).",
+  "forms": [
+   {
+    "da": "at taste",
+    "en": "to type / enter"
+   },
+   {
+    "da": "jeg taster",
+    "en": "I type / enter"
+   },
+   {
+    "da": "jeg tastede",
+    "en": "I typed / entered"
+   },
+   {
+    "da": "jeg har tastet",
+    "en": "I have typed / entered"
+   }
+  ],
+  "related": [
+   {
+    "da": "et tastatur",
+    "en": "a keyboard"
+   },
+   {
+    "da": "en tast",
+    "en": "a key"
+   },
+   {
+    "da": "at indtaste",
+    "en": "to key in"
+   },
+   {
+    "da": "et tastetryk",
+    "en": "a keystroke"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **taste** din pinkode og trykke OK.",
+   "en": "You have to enter your PIN and press OK."
+  }
+ },
+ "at tegne": {
+  "file": "t.json",
+  "explanation": "\"At tegne\" means \"to draw\" with a pencil or pen: \"Han tegner en hund\" (He draws a dog). For painting, use \"at male\" (to paint): \"Hun maler et billede\" (She paints a picture).",
+  "forms": [
+   {
+    "da": "at tegne",
+    "en": "to draw"
+   },
+   {
+    "da": "jeg tegner",
+    "en": "I draw"
+   },
+   {
+    "da": "jeg tegnede",
+    "en": "I drew"
+   },
+   {
+    "da": "jeg har tegnet",
+    "en": "I have drawn"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tegning",
+    "en": "a drawing"
+   },
+   {
+    "da": "en blyant",
+    "en": "a pencil"
+   },
+   {
+    "da": "en tegneserie",
+    "en": "a comic"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **tegne** et hus med en blyant.",
+   "en": "I want to draw a house with a pencil."
+  }
+ },
+ "at teste": {
+  "file": "t.json",
+  "explanation": "\"At teste\" means \"to test\": \"Vi tester den nye app\" (We are testing the new app). For a test at school, Danish uses the noun \"en prøve\" (a test or exam): \"Vi har en prøve i morgen\" (We have a test tomorrow).",
+  "forms": [
+   {
+    "da": "at teste",
+    "en": "to test"
+   },
+   {
+    "da": "jeg tester",
+    "en": "I test"
+   },
+   {
+    "da": "jeg testede",
+    "en": "I tested"
+   },
+   {
+    "da": "jeg har testet",
+    "en": "I have tested"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kontrollere",
+    "en": "to check"
+   },
+   {
+    "da": "at undersøge",
+    "en": "to examine"
+   },
+   {
+    "da": "at afprøve",
+    "en": "to try out"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren vil **teste** os i matematik i morgen.",
+   "en": "The teacher will test us in math tomorrow."
+  }
+ },
+ "at tigge": {
+  "file": "t.json",
+  "explanation": "\"At tigge\" means \"to beg\": you ask for money or food because you have nothing, or you ask again and again for something you want: \"Børnene tigger om slik\" (The children beg for candy).",
+  "forms": [
+   {
+    "da": "at tigge",
+    "en": "to beg"
+   },
+   {
+    "da": "jeg tigger",
+    "en": "I beg"
+   },
+   {
+    "da": "jeg tiggede",
+    "en": "I begged"
+   },
+   {
+    "da": "jeg har tigget",
+    "en": "I have begged"
+   }
+  ],
+  "related": [
+   {
+    "da": "at trygle",
+    "en": "to plead"
+   },
+   {
+    "da": "at plage",
+    "en": "to pester"
+   },
+   {
+    "da": "at bønfalde",
+    "en": "to implore"
+   },
+   {
+    "da": "en bøn",
+    "en": "a plea"
+   }
+  ],
+  "sentence": {
+   "da": "Han måtte **tigge** om mad, fordi han ingenting havde.",
+   "en": "He had to beg for food because he had nothing."
+  }
+ },
+ "at tilbagebetale": {
+  "file": "t.json",
+  "explanation": "\"At tilbagebetale\" means \"to pay back\": you return money. The one-word form sounds formal and fits banks and shops: \"Butikken tilbagebetaler beløbet\" (The store pays the amount back). Everyday speech prefers \"at betale tilbage\" (to pay back): \"Jeg betaler dig tilbage i morgen\" (I will pay you back tomorrow).",
+  "forms": [
+   {
+    "da": "at tilbagebetale",
+    "en": "to pay back"
+   },
+   {
+    "da": "jeg tilbagebetaler",
+    "en": "I pay back"
+   },
+   {
+    "da": "jeg tilbagebetalte",
+    "en": "I paid back"
+   },
+   {
+    "da": "jeg har tilbagebetalt",
+    "en": "I have paid back"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afdrage",
+    "en": "to pay off in installments"
+   },
+   {
+    "da": "at refundere",
+    "en": "to refund"
+   },
+   {
+    "da": "gæld",
+    "en": "debt"
+   },
+   {
+    "da": "at skylde",
+    "en": "to owe"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **tilbagebetale** hele lånet inden for fem år.",
+   "en": "You must pay back the whole loan within five years."
+  }
+ },
+ "at tilbagekalde": {
+  "file": "t.json",
+  "explanation": "\"At tilbagekalde\" means \"to recall\" or \"to revoke\", to take back something that was given or sold: \"Firmaet tilbagekalder produktet\" (The company recalls the product). It is built from tilbage (back) and kalde (call).",
+  "forms": [
+   {
+    "da": "at tilbagekalde",
+    "en": "to recall / revoke"
+   },
+   {
+    "da": "jeg tilbagekalder",
+    "en": "I recall / revoke"
+   },
+   {
+    "da": "jeg tilbagekaldte",
+    "en": "I recalled / revoked"
+   },
+   {
+    "da": "jeg har tilbagekaldt",
+    "en": "I have recalled / revoked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at trække tilbage",
+    "en": "to withdraw"
+   },
+   {
+    "da": "at ophæve",
+    "en": "to lift"
+   },
+   {
+    "da": "en tilbagekaldelse",
+    "en": "a recall"
+   },
+   {
+    "da": "at annullere",
+    "en": "to annul"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet måtte **tilbagekalde** bilerne, fordi bremserne ikke virkede.",
+   "en": "The company had to recall the cars because the brakes did not work."
+  }
+ },
+ "at tilbagevise": {
+  "file": "t.json",
+  "explanation": "\"At tilbagevise\" means \"to refute\", to say that a claim or an accusation is false and give reasons why: \"Han tilbageviste beskyldningen\" (He refuted the accusation). It is built from tilbage (back) and vise (show).",
+  "forms": [
+   {
+    "da": "at tilbagevise",
+    "en": "to refute"
+   },
+   {
+    "da": "jeg tilbageviser",
+    "en": "I refute"
+   },
+   {
+    "da": "jeg tilbageviste",
+    "en": "I refuted"
+   },
+   {
+    "da": "jeg har tilbagevist",
+    "en": "I have refuted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afvise",
+    "en": "to reject"
+   },
+   {
+    "da": "at modbevise",
+    "en": "to disprove"
+   },
+   {
+    "da": "at benægte",
+    "en": "to deny"
+   },
+   {
+    "da": "at bekræfte",
+    "en": "to confirm"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **tilbagevise** beskyldningen, fordi den ikke er sand.",
+   "en": "She will refute the accusation because it is not true."
+  }
+ },
+ "at tilbede": {
+  "file": "t.json",
+  "explanation": "\"At tilbede\" means \"to worship\": you show deep respect to a higher power in prayer. It also describes loving a person almost without limit: \"Fansene tilbeder hende\" (The fans adore her).",
+  "forms": [
+   {
+    "da": "at tilbede",
+    "en": "to worship"
+   },
+   {
+    "da": "jeg tilbeder",
+    "en": "I worship"
+   },
+   {
+    "da": "jeg tilbad",
+    "en": "I worshiped"
+   },
+   {
+    "da": "jeg har tilbedt",
+    "en": "I have worshiped"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forgude",
+    "en": "to idolize"
+   },
+   {
+    "da": "at beundre",
+    "en": "to admire"
+   },
+   {
+    "da": "at hylde",
+    "en": "to honor"
+   }
+  ],
+  "sentence": {
+   "da": "I kirken kan man **tilbede** Gud sammen med andre.",
+   "en": "In church, people can worship God together."
+  }
+ },
+ "at tilberede": {
+  "file": "t.json",
+  "explanation": "\"At tilberede\" means \"to prepare\" food: you turn raw ingredients into a meal by cooking. For getting ready for something else, use \"at forberede\" (to get ready): \"Jeg forbereder mig til eksamen\" (I am preparing for the exam).",
+  "forms": [
+   {
+    "da": "at tilberede",
+    "en": "to prepare (food)"
+   },
+   {
+    "da": "jeg tilbereder",
+    "en": "I prepare (food)"
+   },
+   {
+    "da": "jeg tilberedte",
+    "en": "I prepared (food)"
+   },
+   {
+    "da": "jeg har tilberedt",
+    "en": "I have prepared (food)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at koge",
+    "en": "to boil"
+   },
+   {
+    "da": "at stege",
+    "en": "to fry"
+   },
+   {
+    "da": "at lave mad",
+    "en": "to make food"
+   },
+   {
+    "da": "en opskrift",
+    "en": "a recipe"
+   }
+  ],
+  "sentence": {
+   "da": "Kokken vil **tilberede** fisken i ovnen og servere den.",
+   "en": "The chef will prepare the fish in the oven and serve it."
+  }
+ },
+ "at tilbringe": {
+  "file": "t.json",
+  "explanation": "\"At tilbringe\" means \"to spend (time)\", and it is only for time: \"Vi tilbringer sommeren i Skagen\" (We spend the summer in Skagen). For money, say \"at bruge\" (to spend): \"Jeg bruger 100 kroner\" (I spend 100 kroner).",
+  "forms": [
+   {
+    "da": "at tilbringe",
+    "en": "to spend (time)"
+   },
+   {
+    "da": "jeg tilbringer",
+    "en": "I spend (time)"
+   },
+   {
+    "da": "jeg tilbragte",
+    "en": "I spent (time)"
+   },
+   {
+    "da": "jeg har tilbragt",
+    "en": "I have spent (time)"
+   }
+  ],
+  "related": [
+   {
+    "da": "et ophold",
+    "en": "a stay"
+   },
+   {
+    "da": "at opholde sig",
+    "en": "to stay, to be somewhere"
+   },
+   {
+    "da": "at holde ferie",
+    "en": "to take a vacation"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **tilbringe** sommeren i Jylland.",
+   "en": "We want to spend the summer in Jutland."
+  }
+ },
+ "at tilbyde": {
+  "file": "t.json",
+  "explanation": "\"At tilbyde\" means \"to offer\": you hold something out for someone to accept, such as food, help or a job. You name the person first, then the thing offered: \"Jeg tilbyder dig kaffe\" (I offer you coffee).",
+  "forms": [
+   {
+    "da": "at tilbyde",
+    "en": "to offer"
+   },
+   {
+    "da": "jeg tilbyder",
+    "en": "I offer"
+   },
+   {
+    "da": "jeg tilbød",
+    "en": "I offered"
+   },
+   {
+    "da": "jeg har tilbudt",
+    "en": "I have offered"
+   }
+  ],
+  "related": [
+   {
+    "da": "et tilbud",
+    "en": "an offer / a deal"
+   },
+   {
+    "da": "at byde",
+    "en": "to bid / offer"
+   },
+   {
+    "da": "at afslå",
+    "en": "to decline"
+   },
+   {
+    "da": "at acceptere",
+    "en": "to accept"
+   }
+  ],
+  "sentence": {
+   "da": "Må jeg **tilbyde** dig en kop te?",
+   "en": "May I offer you a cup of tea?"
+  }
+ },
+ "at tildele": {
+  "file": "t.json",
+  "explanation": "\"At tildele\" means \"to assign\" or \"to award\": someone in charge decides who receives a task, a prize or a share of something. For a task: \"Chefen tildeler mig opgaven\" (The boss assigns me the task). For a prize: \"Hun blev tildelt prisen\" (She was awarded the prize).",
+  "forms": [
+   {
+    "da": "at tildele",
+    "en": "to assign / award"
+   },
+   {
+    "da": "jeg tildeler",
+    "en": "I assign / award"
+   },
+   {
+    "da": "jeg tildelte",
+    "en": "I assigned / awarded"
+   },
+   {
+    "da": "jeg har tildelt",
+    "en": "I have assigned / awarded"
+   }
+  ],
+  "related": [
+   {
+    "da": "at give",
+    "en": "to give"
+   },
+   {
+    "da": "en tildeling",
+    "en": "an allocation"
+   },
+   {
+    "da": "at fordele",
+    "en": "to distribute"
+   },
+   {
+    "da": "at uddele",
+    "en": "to hand out"
+   }
+  ],
+  "sentence": {
+   "da": "Skolen vil **tildele** prisen til den bedste elev.",
+   "en": "The school will award the prize to the best student."
+  }
+ },
+ "at tilføje": {
+  "file": "t.json",
+  "explanation": "\"At tilføje\" means \"to add\", to put something extra with what is already there. For numbers, say \"at lægge sammen\" (to add up): \"Jeg lægger tallene sammen\" (I add up the numbers).",
+  "forms": [
+   {
+    "da": "at tilføje",
+    "en": "to add"
+   },
+   {
+    "da": "jeg tilføjer",
+    "en": "I add"
+   },
+   {
+    "da": "jeg tilføjede",
+    "en": "I added"
+   },
+   {
+    "da": "jeg har tilføjet",
+    "en": "I have added"
+   }
+  ],
+  "related": [
+   {
+    "da": "et tillæg",
+    "en": "a supplement"
+   },
+   {
+    "da": "at fjerne",
+    "en": "to remove"
+   },
+   {
+    "da": "at inkludere",
+    "en": "to include"
+   },
+   {
+    "da": "at udvide",
+    "en": "to expand"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **tilføje** lidt salt til suppen.",
+   "en": "You can add a little salt to the soup."
+  }
+ },
+ "at tilgive": {
+  "file": "t.json",
+  "explanation": "\"At tilgive\" means \"to forgive\": you stop being angry at someone for what they did. You name the person first, then what you forgive: \"Hun tilgav ham alt\" (She forgave him everything).",
+  "forms": [
+   {
+    "da": "at tilgive",
+    "en": "to forgive"
+   },
+   {
+    "da": "jeg tilgiver",
+    "en": "I forgive"
+   },
+   {
+    "da": "jeg tilgav",
+    "en": "I forgave"
+   },
+   {
+    "da": "jeg har tilgivet",
+    "en": "I have forgiven"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tilgivelse",
+    "en": "forgiveness"
+   },
+   {
+    "da": "at undskylde",
+    "en": "to apologize"
+   },
+   {
+    "da": "en undskyldning",
+    "en": "an apology"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **tilgive** ham, når han siger undskyld.",
+   "en": "She will forgive him when he says sorry."
+  }
+ },
+ "at tilhøre": {
+  "file": "t.json",
+  "explanation": "\"At tilhøre\" means \"to belong to\". Unlike English, you add no word for \"to\" after it: \"Huset tilhører staten\" (The house belongs to the state).",
+  "forms": [
+   {
+    "da": "at tilhøre",
+    "en": "to belong to"
+   },
+   {
+    "da": "jeg tilhører",
+    "en": "I belong to"
+   },
+   {
+    "da": "jeg tilhørte",
+    "en": "I belonged to"
+   },
+   {
+    "da": "jeg har tilhørt",
+    "en": "I have belonged to"
+   }
+  ],
+  "related": [
+   {
+    "da": "at eje",
+    "en": "to own"
+   },
+   {
+    "da": "en ejer",
+    "en": "an owner"
+   },
+   {
+    "da": "at høre til",
+    "en": "to be part of"
+   },
+   {
+    "da": "at besidde",
+    "en": "to possess"
+   }
+  ],
+  "sentence": {
+   "da": "En bog kan **tilhøre** biblioteket eller en privat person.",
+   "en": "A book can belong to the library or to a private person."
+  }
+ },
+ "at tilintetgøre": {
+  "file": "t.json",
+  "explanation": "\"At tilintetgøre\" means \"to annihilate\": you ruin something so completely that nothing is left. It is built from til intet (to nothing) and gøre (make), so literally it is \"to make into nothing\".",
+  "forms": [
+   {
+    "da": "at tilintetgøre",
+    "en": "to annihilate"
+   },
+   {
+    "da": "jeg tilintetgør",
+    "en": "I annihilate"
+   },
+   {
+    "da": "jeg tilintetgjorde",
+    "en": "I annihilated"
+   },
+   {
+    "da": "jeg har tilintetgjort",
+    "en": "I have annihilated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ødelægge",
+    "en": "to destroy"
+   },
+   {
+    "da": "at udslette",
+    "en": "to wipe out"
+   },
+   {
+    "da": "at bevare",
+    "en": "to preserve"
+   }
+  ],
+  "sentence": {
+   "da": "Branden kunne **tilintetgøre** hele skoven på en nat.",
+   "en": "The fire could annihilate the whole forest in one night."
+  }
+ },
+ "at tilkalde": {
+  "file": "t.json",
+  "explanation": "\"At tilkalde\" means \"to summon\" or \"to call in\": you ask someone to come right away because you need them, such as a doctor or the police: \"Vi tilkalder lægen\" (We call in the doctor).",
+  "forms": [
+   {
+    "da": "at tilkalde",
+    "en": "to summon / call in"
+   },
+   {
+    "da": "jeg tilkalder",
+    "en": "I summon / call in"
+   },
+   {
+    "da": "jeg tilkaldte",
+    "en": "I summoned / called in"
+   },
+   {
+    "da": "jeg har tilkaldt",
+    "en": "I have summoned / called in"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hente",
+    "en": "to fetch"
+   },
+   {
+    "da": "at rekvirere",
+    "en": "to requisition"
+   },
+   {
+    "da": "at sende bud efter",
+    "en": "to send for"
+   }
+  ],
+  "sentence": {
+   "da": "Hvis det brænder, skal du **tilkalde** brandvæsenet med det samme.",
+   "en": "If there is a fire, you must call in the fire department right away."
+  }
+ },
+ "at tillade": {
+  "file": "t.json",
+  "explanation": "\"At tillade\" means \"to allow\". In everyday speech, Danes often use \"at have lov til\" (to be allowed to): \"Jeg har lov til at gå\" (I am allowed to go).",
+  "forms": [
+   {
+    "da": "at tillade",
+    "en": "to allow"
+   },
+   {
+    "da": "jeg tillader",
+    "en": "I allow"
+   },
+   {
+    "da": "jeg tillod",
+    "en": "I allowed"
+   },
+   {
+    "da": "jeg har tilladt",
+    "en": "I have allowed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tilladelse",
+    "en": "a permission"
+   },
+   {
+    "da": "at forbyde",
+    "en": "to forbid"
+   },
+   {
+    "da": "at lade",
+    "en": "to let"
+   }
+  ],
+  "sentence": {
+   "da": "Reglerne vil ikke **tillade** hunde i butikken.",
+   "en": "The rules will not allow dogs in the store."
+  }
+ },
+ "at tilmelde sig": {
+  "file": "t.json",
+  "explanation": "\"At tilmelde sig\" means \"to sign up\", for a course, a team or an event. The small word \"sig\" (oneself) changes with who signs up: \"Hun tilmelder sig\" (She signs up), \"Vi tilmelder os\" (We sign up).",
+  "forms": [
+   {
+    "da": "at tilmelde sig",
+    "en": "to sign up"
+   },
+   {
+    "da": "jeg tilmelder mig",
+    "en": "I sign up"
+   },
+   {
+    "da": "jeg tilmeldte mig",
+    "en": "I signed up"
+   },
+   {
+    "da": "jeg har tilmeldt mig",
+    "en": "I have signed up"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tilmelding",
+    "en": "a registration"
+   },
+   {
+    "da": "at afmelde sig",
+    "en": "to cancel a sign-up"
+   },
+   {
+    "da": "at melde sig",
+    "en": "to sign up / volunteer"
+   },
+   {
+    "da": "at deltage",
+    "en": "to take part"
+   }
+  ],
+  "sentence": {
+   "da": "Alle skal **tilmelde sig** inden fredag.",
+   "en": "Everyone has to sign up before Friday."
+  }
+ },
+ "at tilpasse": {
+  "file": "t.json",
+  "explanation": "\"At tilpasse\" means \"to adapt\": you change something so that it suits a person or a situation, such as a plan or a recipe. To change yourself instead, add \"sig\" (oneself): \"at tilpasse sig\" (to adapt yourself).",
+  "forms": [
+   {
+    "da": "at tilpasse",
+    "en": "to adapt"
+   },
+   {
+    "da": "jeg tilpasser",
+    "en": "I adapt"
+   },
+   {
+    "da": "jeg tilpassede",
+    "en": "I adapted"
+   },
+   {
+    "da": "jeg har tilpasset",
+    "en": "I have adapted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at justere",
+    "en": "to adjust"
+   },
+   {
+    "da": "at modificere",
+    "en": "to modify"
+   },
+   {
+    "da": "en tilpasning",
+    "en": "an adaptation"
+   },
+   {
+    "da": "at passe",
+    "en": "to fit"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **tilpasse** planen, så den passer til alle.",
+   "en": "We must adapt the plan so it suits everyone."
+  }
+ },
+ "at tilpasse sig": {
+  "file": "t.json",
+  "explanation": "\"At tilpasse sig\" means \"to adapt\": you or a group learn to live with new conditions, such as a new country or a new job. The word \"sig\" (oneself) turns the action back on the person doing it: \"Hun tilpasser sig hurtigt\" (She adapts quickly).",
+  "forms": [
+   {
+    "da": "at tilpasse sig",
+    "en": "to adapt"
+   },
+   {
+    "da": "jeg tilpasser mig",
+    "en": "I adapt"
+   },
+   {
+    "da": "jeg tilpassede mig",
+    "en": "I adapted"
+   },
+   {
+    "da": "jeg har tilpasset mig",
+    "en": "I have adapted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vænne sig til",
+    "en": "to get used to"
+   },
+   {
+    "da": "at omstille sig",
+    "en": "to adjust"
+   },
+   {
+    "da": "at finde sig til rette",
+    "en": "to settle in"
+   },
+   {
+    "da": "en tilpasning",
+    "en": "an adaptation"
+   }
+  ],
+  "sentence": {
+   "da": "Det er svært at **tilpasse sig**, når man flytter til et nyt land.",
+   "en": "It is hard to adapt when you move to a new country."
+  }
+ },
+ "at tilsidesætte": {
+  "file": "t.json",
+  "explanation": "\"At tilsidesætte\" means \"to disregard\" or \"to override\", to push a rule, a need or an opinion aside as if it did not matter: \"Chefen tilsidesatte reglerne\" (The boss disregarded the rules). It is built from til side (to the side) and sætte (put).",
+  "forms": [
+   {
+    "da": "at tilsidesætte",
+    "en": "to disregard / override"
+   },
+   {
+    "da": "jeg tilsidesætter",
+    "en": "I disregard / override"
+   },
+   {
+    "da": "jeg tilsidesatte",
+    "en": "I disregarded / overrode"
+   },
+   {
+    "da": "jeg har tilsidesat",
+    "en": "I have disregarded / overridden"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ignorere",
+    "en": "to ignore"
+   },
+   {
+    "da": "at overtræde",
+    "en": "to violate"
+   },
+   {
+    "da": "at respektere",
+    "en": "to respect"
+   },
+   {
+    "da": "at overse",
+    "en": "to overlook"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan ikke bare **tilsidesætte** reglerne, fordi du har travlt.",
+   "en": "You cannot just disregard the rules because you are busy."
+  }
+ },
+ "at tilskynde": {
+  "file": "t.json",
+  "explanation": "\"At tilskynde\" means \"to encourage\": you move someone to do something, often with a reason or a reward. Add \"til\" (to) before what you want them to do: \"Læreren tilskynder eleverne til at læse\" (The teacher encourages the students to read).",
+  "forms": [
+   {
+    "da": "at tilskynde",
+    "en": "to encourage"
+   },
+   {
+    "da": "jeg tilskynder",
+    "en": "I encourage"
+   },
+   {
+    "da": "jeg tilskyndede",
+    "en": "I encouraged"
+   },
+   {
+    "da": "jeg har tilskyndet",
+    "en": "I have encouraged"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opfordre",
+    "en": "to urge"
+   },
+   {
+    "da": "at motivere",
+    "en": "to motivate"
+   },
+   {
+    "da": "at afskrække",
+    "en": "to deter"
+   },
+   {
+    "da": "at opmuntre",
+    "en": "to cheer on"
+   }
+  ],
+  "sentence": {
+   "da": "Lærerne vil **tilskynde** eleverne til at læse mere.",
+   "en": "The teachers want to encourage the students to read more."
+  }
+ },
+ "at tilstræbe": {
+  "file": "t.json",
+  "explanation": "\"At tilstræbe\" means \"to strive for\": you work toward a goal and try hard to reach it. Unlike English, you add no word for \"for\" after it: \"tilstræbe fred\" (to strive for peace).",
+  "forms": [
+   {
+    "da": "at tilstræbe",
+    "en": "to strive for"
+   },
+   {
+    "da": "jeg tilstræber",
+    "en": "I strive for"
+   },
+   {
+    "da": "jeg tilstræbte",
+    "en": "I strove for"
+   },
+   {
+    "da": "jeg har tilstræbt",
+    "en": "I have striven for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stræbe efter",
+    "en": "to aspire to"
+   },
+   {
+    "da": "at sigte mod",
+    "en": "to aim for"
+   },
+   {
+    "da": "at opnå",
+    "en": "to achieve"
+   },
+   {
+    "da": "en ambition",
+    "en": "an ambition"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet vil **tilstræbe** en bedre kvalitet i år.",
+   "en": "The company will strive for better quality this year."
+  }
+ },
+ "at tilstå": {
+  "file": "t.json",
+  "explanation": "\"At tilstå\" means \"to confess\": you say openly that you did something wrong or illegal, especially to the police or in court. You can use the verb alone: \"Han tilstod\" (He confessed). Or name the crime directly after the verb: \"Han tilstod tyveriet\" (He confessed to the theft).",
+  "forms": [
+   {
+    "da": "at tilstå",
+    "en": "to confess"
+   },
+   {
+    "da": "jeg tilstår",
+    "en": "I confess"
+   },
+   {
+    "da": "jeg tilstod",
+    "en": "I confessed"
+   },
+   {
+    "da": "jeg har tilstået",
+    "en": "I have confessed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at indrømme",
+    "en": "to admit"
+   },
+   {
+    "da": "at nægte",
+    "en": "to deny"
+   },
+   {
+    "da": "at afsløre",
+    "en": "to reveal"
+   }
+  ],
+  "sentence": {
+   "da": "Tyven vil **tilstå**, fordi politiet har fundet billederne.",
+   "en": "The thief will confess because the police have found the pictures."
+  }
+ },
+ "at tiltrække": {
+  "file": "t.json",
+  "explanation": "\"At tiltrække\" means \"to attract\": you draw people or things toward something. Customers and forces can both be drawn: \"Butikken tiltrækker mange kunder\" (The store attracts many customers), \"Magneten tiltrækker jern\" (The magnet attracts iron).",
+  "forms": [
+   {
+    "da": "at tiltrække",
+    "en": "to attract"
+   },
+   {
+    "da": "jeg tiltrækker",
+    "en": "I attract"
+   },
+   {
+    "da": "jeg tiltrak",
+    "en": "I attracted"
+   },
+   {
+    "da": "jeg har tiltrukket",
+    "en": "I have attracted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lokke",
+    "en": "to lure"
+   },
+   {
+    "da": "at frastøde",
+    "en": "to repel"
+   },
+   {
+    "da": "en tiltrækning",
+    "en": "a pull"
+   },
+   {
+    "da": "attraktiv",
+    "en": "appealing"
+   }
+  ],
+  "sentence": {
+   "da": "Den nye park kan **tiltrække** mange turister om sommeren.",
+   "en": "The new park can attract many tourists in the summer."
+  }
+ },
+ "at tisse": {
+  "file": "t.json",
+  "explanation": "\"At tisse\" means \"to pee\". It is an informal, everyday word used by children, and by adults among friends and family: \"Jeg skal tisse\" (I need to pee). In a polite setting, say \"Jeg skal på toilettet\" (I need to go to the toilet).",
+  "forms": [
+   {
+    "da": "at tisse",
+    "en": "to pee"
+   },
+   {
+    "da": "jeg tisser",
+    "en": "I pee"
+   },
+   {
+    "da": "jeg tissede",
+    "en": "I peed"
+   },
+   {
+    "da": "jeg har tisset",
+    "en": "I have peed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå på toilettet",
+    "en": "to go to the toilet"
+   },
+   {
+    "da": "en potte",
+    "en": "a potty"
+   },
+   {
+    "da": "at bæse",
+    "en": "to poo"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet skal **tisse** på toilettet.",
+   "en": "The child has to pee in the toilet."
+  }
+ },
+ "at tjekke": {
+  "file": "t.json",
+  "explanation": "\"At tjekke\" means \"to check\": \"Jeg tjekker mine mails\" (I am checking my email). When someone looks into a problem more closely, Danes say \"at undersøge\" (to examine): \"Lægen undersøger mig\" (The doctor examines me).",
+  "forms": [
+   {
+    "da": "at tjekke",
+    "en": "to check"
+   },
+   {
+    "da": "jeg tjekker",
+    "en": "I check"
+   },
+   {
+    "da": "jeg tjekkede",
+    "en": "I checked"
+   },
+   {
+    "da": "jeg har tjekket",
+    "en": "I have checked"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kontrol",
+    "en": "a check"
+   },
+   {
+    "da": "at teste",
+    "en": "to test"
+   },
+   {
+    "da": "at se efter",
+    "en": "to look and check"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **tjekke** dækkene før turen.",
+   "en": "He wants to check the tires before the trip."
+  }
+ },
+ "at tjene": {
+  "file": "t.json",
+  "explanation": "\"At tjene\" means \"to earn\": you get money for work: \"Jeg tjener 300 kroner i timen\" (I earn 300 kroner an hour). It also means \"to serve\", being useful for something: \"Det tjener et formål\" (It serves a purpose).",
+  "forms": [
+   {
+    "da": "at tjene",
+    "en": "to earn / serve"
+   },
+   {
+    "da": "jeg tjener",
+    "en": "I earn / serve"
+   },
+   {
+    "da": "jeg tjente",
+    "en": "I earned / served"
+   },
+   {
+    "da": "jeg har tjent",
+    "en": "I have earned / served"
+   }
+  ],
+  "related": [
+   {
+    "da": "en løn",
+    "en": "a salary"
+   },
+   {
+    "da": "at spare",
+    "en": "to save"
+   },
+   {
+    "da": "at betjene",
+    "en": "to serve / operate"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **tjene** flere penge.",
+   "en": "I would like to earn more money."
+  }
+ },
+ "at tjene penge": {
+  "file": "t.json",
+  "explanation": "\"At tjene penge\" means \"to earn money\" by working. To spend money, say \"at bruge penge\" (to spend money).",
+  "forms": [
+   {
+    "da": "at tjene penge",
+    "en": "to earn money"
+   },
+   {
+    "da": "jeg tjener penge",
+    "en": "I earn money"
+   },
+   {
+    "da": "jeg tjente penge",
+    "en": "I earned money"
+   },
+   {
+    "da": "jeg har tjent penge",
+    "en": "I have earned money"
+   }
+  ],
+  "related": [
+   {
+    "da": "en løn",
+    "en": "a salary"
+   },
+   {
+    "da": "en indkomst",
+    "en": "an income"
+   },
+   {
+    "da": "at spare",
+    "en": "to save"
+   },
+   {
+    "da": "at betale",
+    "en": "to pay"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **tjene penge** i sommerferien.",
+   "en": "I want to earn money during the summer vacation."
+  }
+ },
+ "at tolerere": {
+  "file": "t.json",
+  "explanation": "\"At tolerere\" means \"to tolerate\". You use it for something you put up with or refuse to put up with: \"Jeg tolererer ikke støj om natten\" (I do not tolerate noise at night). When you mean what your body can take, use \"at tåle\" (to stand) instead: \"Jeg tåler ikke mælk\" (I cannot handle milk).",
+  "forms": [
+   {
+    "da": "at tolerere",
+    "en": "to tolerate"
+   },
+   {
+    "da": "jeg tolererer",
+    "en": "I tolerate"
+   },
+   {
+    "da": "jeg tolererede",
+    "en": "I tolerated"
+   },
+   {
+    "da": "jeg har tolereret",
+    "en": "I have tolerated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at acceptere",
+    "en": "to accept"
+   },
+   {
+    "da": "at finde sig i",
+    "en": "to put up with"
+   },
+   {
+    "da": "tolerant",
+    "en": "tolerant"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal **tolerere** andres meninger, også når man er uenig.",
+   "en": "You must tolerate other people's opinions, even when you disagree."
+  }
+ },
+ "at tordne": {
+  "file": "t.json",
+  "explanation": "\"At tordne\" means \"to thunder\" and is only used for the weather, with \"det\" (it) in front: \"Det tordner\" (It is thundering). The sound is \"en torden\" (thunder), and a storm with it is \"et tordenvejr\" (a thunderstorm).",
+  "forms": [
+   {
+    "da": "at tordne",
+    "en": "to thunder"
+   },
+   {
+    "da": "det tordner",
+    "en": "it thunders"
+   },
+   {
+    "da": "det tordnede",
+    "en": "it thundered"
+   },
+   {
+    "da": "det har tordnet",
+    "en": "it has thundered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lyne",
+    "en": "to flash with lightning"
+   },
+   {
+    "da": "et tordenskrald",
+    "en": "a thunderclap"
+   },
+   {
+    "da": "at regne",
+    "en": "to rain"
+   },
+   {
+    "da": "at sne",
+    "en": "to snow"
+   }
+  ],
+  "sentence": {
+   "da": "Det begynder at **tordne**, og himlen bliver helt mørk.",
+   "en": "It starts to thunder, and the sky gets completely dark."
+  }
+ },
+ "at trampe": {
+  "file": "t.json",
+  "explanation": "\"At trampe\" means \"to stomp\": you put your feet down hard and heavily, often from anger. Add \"på\" (on) and it means to flatten something underfoot: \"Børnene trampede på blomsterne\" (The children trampled the flowers).",
+  "forms": [
+   {
+    "da": "at trampe",
+    "en": "to stomp"
+   },
+   {
+    "da": "jeg tramper",
+    "en": "I stomp"
+   },
+   {
+    "da": "jeg trampede",
+    "en": "I stomped"
+   },
+   {
+    "da": "jeg har trampet",
+    "en": "I have stomped"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stampe",
+    "en": "to stamp"
+   },
+   {
+    "da": "at træde",
+    "en": "to step"
+   },
+   {
+    "da": "at dundre",
+    "en": "to thud"
+   },
+   {
+    "da": "at knuse",
+    "en": "to crush"
+   }
+  ],
+  "sentence": {
+   "da": "Den vrede dreng begynder at **trampe** i gulvet.",
+   "en": "The angry boy starts to stomp on the floor."
+  }
+ },
+ "at transportere": {
+  "file": "t.json",
+  "explanation": "\"At transportere\" means \"to transport\": you carry goods or people from one place to another, such as by truck, boat or plane: \"Firmaet transporterer varer med lastbil\" (The company transports goods by truck). For people, Danes usually say \"at køre\" (to drive): \"Jeg kører dig hjem\" (I will drive you home).",
+  "forms": [
+   {
+    "da": "at transportere",
+    "en": "to transport"
+   },
+   {
+    "da": "jeg transporterer",
+    "en": "I transport"
+   },
+   {
+    "da": "jeg transporterede",
+    "en": "I transported"
+   },
+   {
+    "da": "jeg har transporteret",
+    "en": "I have transported"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forsendelse",
+    "en": "a shipment"
+   },
+   {
+    "da": "et transportmiddel",
+    "en": "a vehicle"
+   },
+   {
+    "da": "at fragte",
+    "en": "to ship"
+   },
+   {
+    "da": "at flytte",
+    "en": "to move"
+   }
+  ],
+  "sentence": {
+   "da": "Lastbilen skal **transportere** frugt fra Spanien til Danmark.",
+   "en": "The truck must transport fruit from Spain to Denmark."
+  }
+ },
+ "at trives": {
+  "file": "t.json",
+  "explanation": "\"At trives\" means \"to thrive\": you feel happy and do well in a place, a job or a group: \"Jeg trives i Aarhus\" (I feel at home in Aarhus). It also fits plants: \"Planten trives i skygge\" (The plant thrives in shade).",
+  "forms": [
+   {
+    "da": "at trives",
+    "en": "to thrive"
+   },
+   {
+    "da": "jeg trives",
+    "en": "I thrive"
+   },
+   {
+    "da": "jeg trivedes",
+    "en": "I thrived"
+   },
+   {
+    "da": "jeg har trivedes",
+    "en": "I have thrived"
+   }
+  ],
+  "related": [
+   {
+    "da": "at have det godt",
+    "en": "to be doing fine"
+   },
+   {
+    "da": "at blomstre",
+    "en": "to bloom"
+   },
+   {
+    "da": "at passe ind",
+    "en": "to fit in"
+   },
+   {
+    "da": "at mistrives",
+    "en": "to do poorly"
+   }
+  ],
+  "sentence": {
+   "da": "Han kan **trives** i en lille by, fordi alle kender hinanden.",
+   "en": "He can thrive in a small town because everyone knows each other."
+  }
+ },
+ "at tro": {
+  "file": "t.json",
+  "explanation": "\"At tro\" means \"to believe\" or \"to think something is probably true\": \"Jeg tror, det er rigtigt\" (I think it is right). It is also used for faith: \"at tro på Gud\" (to believe in God). For your own taste, use \"at synes\" (to think): \"Jeg synes, det er godt\" (I think it is good).",
+  "forms": [
+   {
+    "da": "at tro",
+    "en": "to believe"
+   },
+   {
+    "da": "jeg tror",
+    "en": "I believe"
+   },
+   {
+    "da": "jeg troede",
+    "en": "I believed"
+   },
+   {
+    "da": "jeg har troet",
+    "en": "I have believed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tvivle",
+    "en": "to doubt"
+   },
+   {
+    "da": "at håbe",
+    "en": "to hope"
+   },
+   {
+    "da": "at mene",
+    "en": "to think / to be of the opinion"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **tro** det!",
+   "en": "I can't believe it!"
+  }
+ },
+ "at tro på": {
+  "file": "t.json",
+  "explanation": "\"At tro på\" means \"to believe in\" something or someone. Without \"på\" (in), \"at tro\" means \"to think\": \"Jeg tror, det regner\" (I think it is raining).",
+  "forms": [
+   {
+    "da": "at tro på",
+    "en": "to believe in"
+   },
+   {
+    "da": "jeg tror på",
+    "en": "I believe in"
+   },
+   {
+    "da": "jeg troede på",
+    "en": "I believed in"
+   },
+   {
+    "da": "jeg har troet på",
+    "en": "I have believed in"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tvivle på",
+    "en": "to doubt"
+   },
+   {
+    "da": "at stole på",
+    "en": "to trust"
+   },
+   {
+    "da": "at håbe på",
+    "en": "to hope for"
+   }
+  ],
+  "sentence": {
+   "da": "Børn vil gerne **tro på** julemanden.",
+   "en": "Children like to believe in Santa Claus."
+  }
+ },
+ "at trodse": {
+  "file": "t.json",
+  "explanation": "\"At trodse\" means \"to defy\": you refuse to follow an order or you stand up to something dangerous. A thing can defy force too: \"Huset trodsede stormen\" (The house held up against the storm).",
+  "forms": [
+   {
+    "da": "at trodse",
+    "en": "to defy"
+   },
+   {
+    "da": "jeg trodser",
+    "en": "I defy"
+   },
+   {
+    "da": "jeg trodsede",
+    "en": "I defied"
+   },
+   {
+    "da": "jeg har trodset",
+    "en": "I have defied"
+   }
+  ],
+  "related": [
+   {
+    "da": "at adlyde",
+    "en": "to obey"
+   },
+   {
+    "da": "at modstå",
+    "en": "to resist"
+   },
+   {
+    "da": "at udfordre",
+    "en": "to challenge"
+   },
+   {
+    "da": "at gøre modstand",
+    "en": "to put up resistance"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **trodse** forbuddet og tage derhen alligevel.",
+   "en": "She will defy the ban and go there anyway."
+  }
+ },
+ "at true": {
+  "file": "t.json",
+  "explanation": "\"At true\" means \"to threaten\": you say or show that something bad may happen. To name the threatened action, use \"med\" (with): \"Han truer med at sige op\" (He threatens to quit). You can use the verb for a person or for a danger: \"Det truer med regn\" (Rain is threatening).",
+  "forms": [
+   {
+    "da": "at true",
+    "en": "to threaten"
+   },
+   {
+    "da": "jeg truer",
+    "en": "I threaten"
+   },
+   {
+    "da": "jeg truede",
+    "en": "I threatened"
+   },
+   {
+    "da": "jeg har truet",
+    "en": "I have threatened"
+   }
+  ],
+  "related": [
+   {
+    "da": "en trussel",
+    "en": "a threat"
+   },
+   {
+    "da": "truende",
+    "en": "menacing"
+   },
+   {
+    "da": "at advare",
+    "en": "to warn"
+   },
+   {
+    "da": "at skræmme",
+    "en": "to scare"
+   }
+  ],
+  "sentence": {
+   "da": "Naboen kan **true** med at ringe til politiet.",
+   "en": "The neighbor can threaten to call the police."
+  }
+ },
+ "at trykke": {
+  "file": "t.json",
+  "explanation": "\"At trykke\" means \"to press\" and also \"to print\". For books and posters, it means printing: \"Vi trykker bogen\" (We print the book). For a button, it means pressing: \"Jeg trykker på knappen\" (I press the button).",
+  "forms": [
+   {
+    "da": "at trykke",
+    "en": "to press / print"
+   },
+   {
+    "da": "jeg trykker",
+    "en": "I press / print"
+   },
+   {
+    "da": "jeg trykkede",
+    "en": "I pressed / printed"
+   },
+   {
+    "da": "jeg har trykket",
+    "en": "I have pressed / printed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et tryk",
+    "en": "a press / pressure"
+   },
+   {
+    "da": "at presse",
+    "en": "to squeeze"
+   },
+   {
+    "da": "at udskrive",
+    "en": "to print out"
+   },
+   {
+    "da": "et trykkeri",
+    "en": "a print shop"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **trykke** på den grønne knap.",
+   "en": "You have to press the green button."
+  }
+ },
+ "at træde": {
+  "file": "t.json",
+  "explanation": "\"At træde\" means \"to step\": you put your foot down somewhere. It usually takes a small word after it, such as \"ind\" (in) or \"ud\" (out): \"Han trådte ind i huset\" (He stepped into the house).",
+  "forms": [
+   {
+    "da": "at træde",
+    "en": "to step"
+   },
+   {
+    "da": "jeg træder",
+    "en": "I step"
+   },
+   {
+    "da": "jeg trådte",
+    "en": "I stepped"
+   },
+   {
+    "da": "jeg har trådt",
+    "en": "I have stepped"
+   }
+  ],
+  "related": [
+   {
+    "da": "et skridt",
+    "en": "a step"
+   },
+   {
+    "da": "et trin",
+    "en": "a step (on stairs)"
+   },
+   {
+    "da": "at træde tilbage",
+    "en": "to step back"
+   }
+  ],
+  "sentence": {
+   "da": "Du må ikke **træde** på blomsterne.",
+   "en": "You must not step on the flowers."
+  }
+ },
+ "at træde i kraft": {
+  "file": "t.json",
+  "explanation": "\"At træde i kraft\" means \"to take effect\", used for laws, rules and agreements that start on a set date. Literally, it is \"to step into force\".",
+  "forms": [
+   {
+    "da": "at træde i kraft",
+    "en": "to take effect"
+   },
+   {
+    "da": "det træder i kraft",
+    "en": "it takes effect"
+   },
+   {
+    "da": "det trådte i kraft",
+    "en": "it took effect"
+   },
+   {
+    "da": "det er trådt i kraft",
+    "en": "it has taken effect"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gælde",
+    "en": "to apply"
+   },
+   {
+    "da": "at ophøre",
+    "en": "to cease"
+   },
+   {
+    "da": "at indføre",
+    "en": "to introduce"
+   },
+   {
+    "da": "at blive gældende",
+    "en": "to become valid"
+   }
+  ],
+  "sentence": {
+   "da": "Loven skal **træde i kraft** den første januar.",
+   "en": "The law must take effect on the first of January."
+  }
+ },
+ "at træde tilbage": {
+  "file": "t.json",
+  "explanation": "\"At træde tilbage\" means \"to step down\": you give up an important position, such as a minister, a chair or a coach. For an ordinary job, Danes say \"at sige op\" (to quit).",
+  "forms": [
+   {
+    "da": "at træde tilbage",
+    "en": "to step down / resign"
+   },
+   {
+    "da": "jeg træder tilbage",
+    "en": "I step down / resign"
+   },
+   {
+    "da": "jeg trådte tilbage",
+    "en": "I stepped down / resigned"
+   },
+   {
+    "da": "jeg er trådt tilbage",
+    "en": "I have stepped down / resigned"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå af",
+    "en": "to resign"
+   },
+   {
+    "da": "at fratræde",
+    "en": "to leave office"
+   },
+   {
+    "da": "at tiltræde",
+    "en": "to take office"
+   },
+   {
+    "da": "at blive fyret",
+    "en": "to be fired"
+   }
+  ],
+  "sentence": {
+   "da": "Ministeren vil **træde tilbage**, fordi hun har mistet støtten.",
+   "en": "The minister will step down because she has lost support."
+  }
+ },
+ "at træffe": {
+  "file": "t.json",
+  "explanation": "\"At træffe\" means \"to meet\" and \"to make (a decision)\". To meet: \"Jeg traf Anna i byen\" (I ran into Anna in town). To make a decision or an agreement: \"at træffe en aftale\" (to make an agreement).",
+  "forms": [
+   {
+    "da": "at træffe",
+    "en": "to meet / make (a decision)"
+   },
+   {
+    "da": "jeg træffer",
+    "en": "I meet / make (a decision)"
+   },
+   {
+    "da": "jeg traf",
+    "en": "I met / made (a decision)"
+   },
+   {
+    "da": "jeg har truffet",
+    "en": "I have met / made (a decision)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at møde",
+    "en": "to encounter"
+   },
+   {
+    "da": "at mødes",
+    "en": "to get together"
+   },
+   {
+    "da": "at beslutte",
+    "en": "to decide"
+   },
+   {
+    "da": "at afgøre",
+    "en": "to settle"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **træffe** mig på kontoret efter klokken tre.",
+   "en": "You can reach me at the office after three o'clock."
+  }
+ },
+ "at træffe en beslutning": {
+  "file": "t.json",
+  "explanation": "\"At træffe en beslutning\" means \"to make a decision\". Danes use \"træffe\" with \"beslutning\" (decision), not with \"lave\" (to make, to do): \"at lave en beslutning\" sounds wrong. \"At tage en beslutning\" (to take a decision) means the same.",
+  "forms": [
+   {
+    "da": "at træffe en beslutning",
+    "en": "to make a decision"
+   },
+   {
+    "da": "jeg træffer en beslutning",
+    "en": "I make a decision"
+   },
+   {
+    "da": "jeg traf en beslutning",
+    "en": "I made a decision"
+   },
+   {
+    "da": "jeg har truffet en beslutning",
+    "en": "I have made a decision"
+   }
+  ],
+  "related": [
+   {
+    "da": "at beslutte",
+    "en": "to decide"
+   },
+   {
+    "da": "at bestemme sig",
+    "en": "to settle on something"
+   },
+   {
+    "da": "et valg",
+    "en": "a choice"
+   },
+   {
+    "da": "en afgørelse",
+    "en": "a ruling"
+   }
+  ],
+  "sentence": {
+   "da": "Når vi er uenige, skal chefen **træffe en beslutning**.",
+   "en": "When we disagree, the boss must make a decision."
+  }
+ },
+ "at trække": {
+  "file": "t.json",
+  "explanation": "\"At trække\" means \"to pull\": you move something toward yourself, the opposite of pushing. It is also part of the phrase \"trække vejret\" (to breathe): \"Han trækker vejret dybt\" (He breathes deeply).",
+  "forms": [
+   {
+    "da": "at trække",
+    "en": "to pull"
+   },
+   {
+    "da": "jeg trækker",
+    "en": "I pull"
+   },
+   {
+    "da": "jeg trak",
+    "en": "I pulled"
+   },
+   {
+    "da": "jeg har trukket",
+    "en": "I have pulled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skubbe",
+    "en": "to push"
+   },
+   {
+    "da": "et træk",
+    "en": "a draft / a pull"
+   },
+   {
+    "da": "at hive",
+    "en": "to tug"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **trække** i rebet sammen.",
+   "en": "We have to pull on the rope together."
+  }
+ },
+ "at trække fra": {
+  "file": "t.json",
+  "explanation": "\"At trække fra\" means \"to subtract\". It also means \"to deduct\" an amount: \"Man kan trække det fra i skat\" (You can deduct it on your taxes).",
+  "forms": [
+   {
+    "da": "at trække fra",
+    "en": "to subtract"
+   },
+   {
+    "da": "jeg trækker fra",
+    "en": "I subtract"
+   },
+   {
+    "da": "jeg trak fra",
+    "en": "I subtracted"
+   },
+   {
+    "da": "jeg har trukket fra",
+    "en": "I have subtracted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lægge sammen",
+    "en": "to add (numbers)"
+   },
+   {
+    "da": "minus",
+    "en": "minus"
+   },
+   {
+    "da": "at fratrække",
+    "en": "to deduct"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **trække fra** og ikke lægge sammen.",
+   "en": "You have to subtract and not add."
+  }
+ },
+ "at trække på skuldrene": {
+  "file": "t.json",
+  "explanation": "\"At trække på skuldrene\" means \"to shrug\": you lift your shoulders to show that you do not know or do not care. The Danish is built word for word from trække (to pull), på (on), and skuldrene (the shoulders).",
+  "forms": [
+   {
+    "da": "at trække på skuldrene",
+    "en": "to shrug"
+   },
+   {
+    "da": "jeg trækker på skuldrene",
+    "en": "I shrug"
+   },
+   {
+    "da": "jeg trak på skuldrene",
+    "en": "I shrugged"
+   },
+   {
+    "da": "jeg har trukket på skuldrene",
+    "en": "I have shrugged"
+   }
+  ],
+  "related": [
+   {
+    "da": "at nikke",
+    "en": "to nod"
+   },
+   {
+    "da": "at ryste på hovedet",
+    "en": "to shake your head"
+   },
+   {
+    "da": "at vinke",
+    "en": "to wave"
+   },
+   {
+    "da": "at pege",
+    "en": "to point"
+   }
+  ],
+  "sentence": {
+   "da": "Når jeg spørger hvorfor, plejer hun at **trække på skuldrene**.",
+   "en": "When I ask why, she usually shrugs."
+  }
+ },
+ "at trække sig": {
+  "file": "t.json",
+  "explanation": "\"At trække sig\" means \"to withdraw\": you pull yourself out of something, such as a race, a deal or a team. To name the event you withdraw from, add \"fra\" (from): \"Hun trak sig fra valget\" (She withdrew from the election). An army also uses the phrase when it falls back.",
+  "forms": [
+   {
+    "da": "at trække sig",
+    "en": "to withdraw"
+   },
+   {
+    "da": "jeg trækker mig",
+    "en": "I withdraw"
+   },
+   {
+    "da": "jeg trak mig",
+    "en": "I withdrew"
+   },
+   {
+    "da": "jeg har trukket mig",
+    "en": "I have withdrawn"
+   }
+  ],
+  "related": [
+   {
+    "da": "at udtræde",
+    "en": "to leave a group"
+   },
+   {
+    "da": "at forlade",
+    "en": "to leave"
+   },
+   {
+    "da": "at melde afbud",
+    "en": "to cancel attendance"
+   },
+   {
+    "da": "at deltage",
+    "en": "to take part"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **trække sig** fra aftalen, fordi prisen er for høj.",
+   "en": "He wants to withdraw from the deal because the price is too high."
+  }
+ },
+ "at trække vejret": {
+  "file": "t.json",
+  "explanation": "\"At trække vejret\" means \"to breathe\". Literally, it is \"to pull the breath\", with \"vejret\" meaning \"the breath\". The same word \"vejret\" also means \"the weather\": \"Vejret er flot i dag\" (The weather is nice today).",
+  "forms": [
+   {
+    "da": "at trække vejret",
+    "en": "to breathe"
+   },
+   {
+    "da": "jeg trækker vejret",
+    "en": "I breathe"
+   },
+   {
+    "da": "jeg trak vejret",
+    "en": "I breathed"
+   },
+   {
+    "da": "jeg har trukket vejret",
+    "en": "I have breathed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et åndedræt",
+    "en": "a breath, breathing"
+   },
+   {
+    "da": "at ånde",
+    "en": "to breathe (formal)"
+   },
+   {
+    "da": "at puste",
+    "en": "to blow / puff"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **trække vejret** dybt.",
+   "en": "You must breathe deeply."
+  }
+ },
+ "at træne": {
+  "file": "t.json",
+  "explanation": "\"At træne\" means \"to train\", such as for sports and fitness. It also means \"to practice\" a skill: \"træne dansk\" (to practice Danish).",
+  "forms": [
+   {
+    "da": "at træne",
+    "en": "to train"
+   },
+   {
+    "da": "jeg træner",
+    "en": "I train"
+   },
+   {
+    "da": "jeg trænede",
+    "en": "I trained"
+   },
+   {
+    "da": "jeg har trænet",
+    "en": "I have trained"
+   }
+  ],
+  "related": [
+   {
+    "da": "træning",
+    "en": "exercise / training"
+   },
+   {
+    "da": "at øve",
+    "en": "to practice"
+   },
+   {
+    "da": "at motionere",
+    "en": "to exercise"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **træne** tre gange om ugen.",
+   "en": "I want to work out three times a week."
+  }
+ },
+ "at trænge": {
+  "file": "t.json",
+  "explanation": "\"At trænge\" means \"to push through\" and \"to need\". To push through, you force a way in or out: \"Vandet trænger ind\" (The water gets in). With \"til\" (for), it means \"to need\", and it sounds stronger than a wish: \"Jeg trænger til ferie\" (I really need a vacation).",
+  "forms": [
+   {
+    "da": "at trænge",
+    "en": "to need / push through"
+   },
+   {
+    "da": "jeg trænger",
+    "en": "I need / push through"
+   },
+   {
+    "da": "jeg trængte",
+    "en": "I needed / pushed through"
+   },
+   {
+    "da": "jeg har trængt",
+    "en": "I have needed / pushed through"
+   }
+  ],
+  "related": [
+   {
+    "da": "at presse",
+    "en": "to squeeze"
+   },
+   {
+    "da": "at mangle",
+    "en": "to lack"
+   },
+   {
+    "da": "at behøve",
+    "en": "to need"
+   },
+   {
+    "da": "en trængsel",
+    "en": "a crush of people"
+   }
+  ],
+  "sentence": {
+   "da": "Lyset kan **trænge** ind gennem de tynde gardiner.",
+   "en": "The light can get in through the thin curtains."
+  }
+ },
+ "at trøste": {
+  "file": "t.json",
+  "explanation": "\"At trøste\" means \"to comfort\": you help someone who is sad or hurt, with kind words, a hug or just by staying close. To name the way you comfort the person, add \"med\" (with): \"trøste med et kram\" (comfort with a hug).",
+  "forms": [
+   {
+    "da": "at trøste",
+    "en": "to comfort"
+   },
+   {
+    "da": "jeg trøster",
+    "en": "I comfort"
+   },
+   {
+    "da": "jeg trøstede",
+    "en": "I comforted"
+   },
+   {
+    "da": "jeg har trøstet",
+    "en": "I have comforted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en trøst",
+    "en": "a consolation"
+   },
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "at berolige",
+    "en": "to calm down"
+   },
+   {
+    "da": "at opmuntre",
+    "en": "to cheer up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **trøste** min ven, fordi han har mistet sit job.",
+   "en": "I want to comfort my friend because he has lost his job."
+  }
+ },
+ "at tude": {
+  "file": "t.json",
+  "explanation": "\"At tude\" means \"to cry\" in a loud, noisy way, like bawling. It is a casual word that fits a child or a close friend: \"Hold op med at tude!\" (Stop bawling!) It also means \"to howl\", for the long loud sound of a siren or a ship's horn: \"Sirenen tuder\" (The siren is wailing).",
+  "forms": [
+   {
+    "da": "at tude",
+    "en": "to cry / howl"
+   },
+   {
+    "da": "jeg tuder",
+    "en": "I cry / howl"
+   },
+   {
+    "da": "jeg tudede",
+    "en": "I cried / howled"
+   },
+   {
+    "da": "jeg har tudet",
+    "en": "I have cried / howled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at græde",
+    "en": "to weep"
+   },
+   {
+    "da": "at hulke",
+    "en": "to sob"
+   },
+   {
+    "da": "at hyle",
+    "en": "to wail"
+   },
+   {
+    "da": "at jamre",
+    "en": "to whine"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet begyndte at **tude**, da ballonen sprang.",
+   "en": "The child started to bawl when the balloon popped."
+  }
+ },
+ "at tvinge": {
+  "file": "t.json",
+  "explanation": "\"At tvinge\" means \"to force\". To name the action the person is forced to perform, add \"til at\" (to) before the verb: \"Hun tvang ham til at spise\" (She forced him to eat).",
+  "forms": [
+   {
+    "da": "at tvinge",
+    "en": "to force"
+   },
+   {
+    "da": "jeg tvinger",
+    "en": "I force"
+   },
+   {
+    "da": "jeg tvang",
+    "en": "I forced"
+   },
+   {
+    "da": "jeg har tvunget",
+    "en": "I have forced"
+   }
+  ],
+  "related": [
+   {
+    "da": "frivillig",
+    "en": "voluntary"
+   },
+   {
+    "da": "at presse",
+    "en": "to pressure"
+   },
+   {
+    "da": "at kræve",
+    "en": "to demand"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan ikke **tvinge** mig til at komme.",
+   "en": "You cannot force me to come."
+  }
+ },
+ "at tvivle": {
+  "file": "t.json",
+  "explanation": "\"At tvivle\" means \"to doubt\", usually with \"på\" (on): \"Jeg tvivler på, at han kommer\" (I doubt that he is coming).",
+  "forms": [
+   {
+    "da": "at tvivle",
+    "en": "to doubt"
+   },
+   {
+    "da": "jeg tvivler",
+    "en": "I doubt"
+   },
+   {
+    "da": "jeg tvivlede",
+    "en": "I doubted"
+   },
+   {
+    "da": "jeg har tvivlet",
+    "en": "I have doubted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tvivl",
+    "en": "a doubt"
+   },
+   {
+    "da": "sikker",
+    "en": "sure"
+   },
+   {
+    "da": "at stole på",
+    "en": "to trust"
+   },
+   {
+    "da": "at være i tvivl",
+    "en": "to be unsure"
+   }
+  ],
+  "sentence": {
+   "da": "Hun begynder at **tvivle** på sig selv.",
+   "en": "She is starting to doubt herself."
+  }
+ },
+ "at tvivle på": {
+  "file": "t.json",
+  "explanation": "\"At tvivle på\" means \"to doubt\": \"Jeg tvivler på, at han kommer\" (I doubt that he is coming).",
+  "forms": [
+   {
+    "da": "at tvivle på",
+    "en": "to doubt"
+   },
+   {
+    "da": "jeg tvivler på",
+    "en": "I doubt"
+   },
+   {
+    "da": "jeg tvivlede på",
+    "en": "I doubted"
+   },
+   {
+    "da": "jeg har tvivlet på",
+    "en": "I have doubted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at være i tvivl",
+    "en": "to be unsure"
+   },
+   {
+    "da": "at mistro",
+    "en": "to distrust"
+   },
+   {
+    "da": "at tro",
+    "en": "to believe"
+   },
+   {
+    "da": "at stole på",
+    "en": "to trust"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal ikke **tvivle på** mig.",
+   "en": "Do not doubt me."
+  }
+ },
+ "at tyde": {
+  "file": "t.json",
+  "explanation": "\"At tyde\" means \"to interpret\": you work out what something unclear means, such as old writing or a look on a face. Do not mix it up with \"at tyde på\" (to point to), which names what the facts lead to: \"Det tyder på regn\" (It points to rain).",
+  "forms": [
+   {
+    "da": "at tyde",
+    "en": "to interpret"
+   },
+   {
+    "da": "jeg tyder",
+    "en": "I interpret"
+   },
+   {
+    "da": "jeg tydede",
+    "en": "I interpreted"
+   },
+   {
+    "da": "jeg har tydet",
+    "en": "I have interpreted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dechifrere",
+    "en": "to decipher"
+   },
+   {
+    "da": "at forstå",
+    "en": "to understand"
+   },
+   {
+    "da": "at aflæse",
+    "en": "to read off"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan næsten ikke **tyde** hans håndskrift.",
+   "en": "I can hardly interpret his handwriting."
+  }
+ },
+ "at tyde på": {
+  "file": "t.json",
+  "explanation": "\"At tyde på\" means \"to suggest\" or \"to indicate\": the facts you see lead toward a conclusion: \"Alt tyder på, at det bliver koldt\" (Everything suggests that it will be cold).",
+  "forms": [
+   {
+    "da": "at tyde på",
+    "en": "to suggest / indicate"
+   },
+   {
+    "da": "det tyder på",
+    "en": "it suggests / indicates"
+   },
+   {
+    "da": "det tydede på",
+    "en": "it suggested / indicated"
+   },
+   {
+    "da": "det har tydet på",
+    "en": "it has suggested / indicated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at pege på",
+    "en": "to point to"
+   },
+   {
+    "da": "at antyde",
+    "en": "to hint"
+   },
+   {
+    "da": "at signalere",
+    "en": "to signal"
+   },
+   {
+    "da": "et tegn",
+    "en": "a sign"
+   }
+  ],
+  "sentence": {
+   "da": "Alle de mørke skyer kan **tyde på** regn.",
+   "en": "All the dark clouds can suggest rain."
+  }
+ },
+ "at tygge": {
+  "file": "t.json",
+  "explanation": "\"At tygge\" means \"to chew\". To name the food or object you chew on, add \"på\" (on): \"Hunden tygger på en pind\" (The dog chews on a stick). The word \"tyggegummi\" (chewing gum) is built from tygge (chew) and gummi (rubber).",
+  "forms": [
+   {
+    "da": "at tygge",
+    "en": "to chew"
+   },
+   {
+    "da": "jeg tygger",
+    "en": "I chew"
+   },
+   {
+    "da": "jeg tyggede",
+    "en": "I chewed"
+   },
+   {
+    "da": "jeg har tygget",
+    "en": "I have chewed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at synke",
+    "en": "to swallow"
+   },
+   {
+    "da": "at bide",
+    "en": "to bite"
+   },
+   {
+    "da": "at sluge",
+    "en": "to gulp down"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **tygge**, fordi min tand gør ondt.",
+   "en": "I cannot chew because my tooth hurts."
+  }
+ },
+ "at tåle": {
+  "file": "t.json",
+  "explanation": "\"At tåle\" means \"to stand\" or \"to tolerate\": you can take something without harm or trouble. You mostly use it with \"ikke\" (not): \"Jeg tåler ikke larm\" (I cannot stand noise). A material can take something too: \"Tøjet tåler vask\" (The clothes can take washing).",
+  "forms": [
+   {
+    "da": "at tåle",
+    "en": "to tolerate / stand"
+   },
+   {
+    "da": "jeg tåler",
+    "en": "I tolerate / stand"
+   },
+   {
+    "da": "jeg tålte",
+    "en": "I tolerated / stood"
+   },
+   {
+    "da": "jeg har tålt",
+    "en": "I have tolerated / stood"
+   }
+  ],
+  "related": [
+   {
+    "da": "at udholde",
+    "en": "to endure"
+   },
+   {
+    "da": "at holde ud",
+    "en": "to bear"
+   },
+   {
+    "da": "at klare",
+    "en": "to cope with"
+   },
+   {
+    "da": "tålmodig",
+    "en": "patient"
+   }
+  ],
+  "sentence": {
+   "da": "Min mave kan ikke **tåle** stærk mad.",
+   "en": "My stomach cannot handle spicy food."
+  }
+ },
+ "at tælle": {
+  "file": "t.json",
+  "explanation": "\"At tælle\" means \"to count\". Its past forms \"jeg talte\" (I counted) and \"jeg har talt\" (I have counted) are identical to the past forms of \"at tale\" (to speak). You can tell which one it is from the context of the sentence: \"Vi talte hele natten\" (We talked all night), \"Jeg talte pengene\" (I counted the money).",
+  "forms": [
+   {
+    "da": "at tælle",
+    "en": "to count"
+   },
+   {
+    "da": "jeg tæller",
+    "en": "I count"
+   },
+   {
+    "da": "jeg talte",
+    "en": "I counted"
+   },
+   {
+    "da": "jeg har talt",
+    "en": "I have counted"
+   }
+  ],
+  "related": [
+   {
+    "da": "et tal",
+    "en": "a number / digit"
+   },
+   {
+    "da": "at regne",
+    "en": "to calculate"
+   },
+   {
+    "da": "at fortælle",
+    "en": "to tell"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **tælle** til ti.",
+   "en": "I can count to ten."
+  }
+ },
+ "at tænde": {
+  "file": "t.json",
+  "explanation": "\"At tænde\" means \"to turn on\" a light and also \"to light\" a candle, a fire or a cigarette. For a TV, a radio or running water, Danes usually say \"tænde for\" (turn on) instead.",
+  "forms": [
+   {
+    "da": "at tænde",
+    "en": "to turn on"
+   },
+   {
+    "da": "jeg tænder",
+    "en": "I turn on"
+   },
+   {
+    "da": "jeg tændte",
+    "en": "I turned on"
+   },
+   {
+    "da": "jeg har tændt",
+    "en": "I have turned on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at slukke",
+    "en": "to turn off"
+   },
+   {
+    "da": "en tændstik",
+    "en": "a match"
+   },
+   {
+    "da": "en lighter",
+    "en": "a lighter"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **tænde** lyset i mørket.",
+   "en": "I want to turn on the light in the dark."
+  }
+ },
+ "at tænde for": {
+  "file": "t.json",
+  "explanation": "\"At tænde for\" means \"to turn on\" something that runs or plays, such as the TV, the radio, the water or the heating. For a light, a candle or a fire, use \"at tænde\" (to turn on, to light): \"tænde lyset\" (turn on the light).",
+  "forms": [
+   {
+    "da": "at tænde for",
+    "en": "to turn on"
+   },
+   {
+    "da": "jeg tænder for",
+    "en": "I turn on"
+   },
+   {
+    "da": "jeg tændte for",
+    "en": "I turned on"
+   },
+   {
+    "da": "jeg har tændt for",
+    "en": "I have turned on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at slukke for",
+    "en": "to turn off"
+   },
+   {
+    "da": "en kontakt",
+    "en": "a switch"
+   },
+   {
+    "da": "at skrue op",
+    "en": "to turn up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg fryser og vil **tænde for** varmen.",
+   "en": "I am cold and want to turn on the heating."
+  }
+ },
+ "at tænke": {
+  "file": "t.json",
+  "explanation": "\"At tænke\" means \"to think\" in the sense of using your mind: \"Jeg tænker på dig\" (I am thinking of you). It goes with \"på\" (about). It is not the word for giving an opinion, which is \"at synes\" (to think, to have an opinion): \"Jeg synes, det er godt\" (I think it is good).",
+  "forms": [
+   {
+    "da": "at tænke",
+    "en": "to think"
+   },
+   {
+    "da": "jeg tænker",
+    "en": "I think"
+   },
+   {
+    "da": "jeg tænkte",
+    "en": "I thought"
+   },
+   {
+    "da": "jeg har tænkt",
+    "en": "I have thought"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tanke",
+    "en": "a thought"
+   },
+   {
+    "da": "at tro",
+    "en": "to believe"
+   },
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   }
+  ],
+  "sentence": {
+   "da": "Lad mig **tænke** lidt.",
+   "en": "Let me think a little."
+  }
+ },
+ "at tænke over": {
+  "file": "t.json",
+  "explanation": "\"At tænke over\" means \"to think about\", in the sense of thinking something over carefully: \"Jeg tænker over det\" (I am thinking it over). To have someone in your mind, use \"at tænke på\" (to think of): \"Jeg tænker på dig\" (I am thinking of you).",
+  "forms": [
+   {
+    "da": "at tænke over",
+    "en": "to think about"
+   },
+   {
+    "da": "jeg tænker over",
+    "en": "I think about"
+   },
+   {
+    "da": "jeg tænkte over",
+    "en": "I thought about"
+   },
+   {
+    "da": "jeg har tænkt over",
+    "en": "I have thought about"
+   }
+  ],
+  "related": [
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   },
+   {
+    "da": "at gruble",
+    "en": "to brood"
+   },
+   {
+    "da": "en tanke",
+    "en": "a thought"
+   },
+   {
+    "da": "at fundere over",
+    "en": "to ponder"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **tænke over** dit tilbud.",
+   "en": "I would like to think about your offer."
+  }
+ },
+ "at tænke på": {
+  "file": "t.json",
+  "explanation": "\"At tænke på\" means \"to think of\": you have someone or something in your mind. To think something over carefully, use \"at tænke over\" (to think about): \"Jeg tænker over det\" (I am thinking it over).",
+  "forms": [
+   {
+    "da": "at tænke på",
+    "en": "to think of"
+   },
+   {
+    "da": "jeg tænker på",
+    "en": "I think of"
+   },
+   {
+    "da": "jeg tænkte på",
+    "en": "I thought of"
+   },
+   {
+    "da": "jeg har tænkt på",
+    "en": "I have thought of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at huske",
+    "en": "to remember"
+   },
+   {
+    "da": "at savne",
+    "en": "to miss"
+   },
+   {
+    "da": "en tanke",
+    "en": "a thought"
+   },
+   {
+    "da": "at drømme om",
+    "en": "to dream of"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke holde op med at **tænke på** ferien.",
+   "en": "I cannot stop thinking about the vacation."
+  }
+ },
+ "at tænke sig om": {
+  "file": "t.json",
+  "explanation": "\"At tænke sig om\" means \"to think carefully\" before you act or answer. The word \"sig\" (oneself) changes with who is thinking: \"jeg tænker mig om\" (I think carefully), \"han tænker sig om\" (he thinks carefully).",
+  "forms": [
+   {
+    "da": "at tænke sig om",
+    "en": "to think carefully"
+   },
+   {
+    "da": "jeg tænker mig om",
+    "en": "I think carefully"
+   },
+   {
+    "da": "jeg tænkte mig om",
+    "en": "I thought carefully"
+   },
+   {
+    "da": "jeg har tænkt mig om",
+    "en": "I have thought carefully"
+   }
+  ],
+  "related": [
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   },
+   {
+    "da": "at tænke efter",
+    "en": "to think it over"
+   },
+   {
+    "da": "at tøve",
+    "en": "to hesitate"
+   },
+   {
+    "da": "at reflektere",
+    "en": "to reflect"
+   }
+  ],
+  "sentence": {
+   "da": "Man bør **tænke sig om**, før man svarer.",
+   "en": "You should think carefully before you answer."
+  }
+ },
+ "at tø": {
+  "file": "t.json",
+  "explanation": "\"At tø\" means \"to thaw\": ice and snow turn to water as the weather gets warmer. You use it only for the weather, with \"det\" (it): \"Det tør\" (It is thawing). The same spelling \"tør\" also means \"dry\" in \"tør hud\" (dry skin) and \"dare\" in \"Jeg tør ikke\" (I do not dare).",
+  "forms": [
+   {
+    "da": "at tø",
+    "en": "to thaw"
+   },
+   {
+    "da": "det tør",
+    "en": "it thaws"
+   },
+   {
+    "da": "det tøede",
+    "en": "it thawed"
+   },
+   {
+    "da": "det har tøet",
+    "en": "it has thawed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at smelte",
+    "en": "to melt"
+   },
+   {
+    "da": "at fryse",
+    "en": "to freeze"
+   },
+   {
+    "da": "et tøvejr",
+    "en": "thaw weather"
+   }
+  ],
+  "sentence": {
+   "da": "Når det begynder at **tø**, bliver sneen til vand.",
+   "en": "When it starts to thaw, the snow turns to water."
+  }
+ },
+ "at tømme": {
+  "file": "t.json",
+  "explanation": "\"At tømme\" means \"to empty\": you take everything out of something, so a full thing becomes \"tom\" (empty): \"Jeg tømmer opvaskemaskinen\" (I empty the dishwasher).",
+  "forms": [
+   {
+    "da": "at tømme",
+    "en": "to empty"
+   },
+   {
+    "da": "jeg tømmer",
+    "en": "I empty"
+   },
+   {
+    "da": "jeg tømte",
+    "en": "I emptied"
+   },
+   {
+    "da": "jeg har tømt",
+    "en": "I have emptied"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fylde",
+    "en": "to fill"
+   },
+   {
+    "da": "at hælde ud",
+    "en": "to pour out"
+   },
+   {
+    "da": "at rydde",
+    "en": "to clear"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **tømme** opvaskemaskinen for mig?",
+   "en": "Can you empty the dishwasher for me?"
+  }
+ },
+ "at tørre": {
+  "file": "t.json",
+  "explanation": "\"At tørre\" means \"to dry\" and also \"to wipe\". To dry means that something loses its water. To wipe means rubbing a surface clean and dry: \"Jeg tørrer bordet af\" (I wipe the table off).",
+  "forms": [
+   {
+    "da": "at tørre",
+    "en": "to dry"
+   },
+   {
+    "da": "jeg tørrer",
+    "en": "I dry"
+   },
+   {
+    "da": "jeg tørrede",
+    "en": "I dried"
+   },
+   {
+    "da": "jeg har tørret",
+    "en": "I have dried"
+   }
+  ],
+  "related": [
+   {
+    "da": "tør",
+    "en": "dry"
+   },
+   {
+    "da": "våd",
+    "en": "wet"
+   },
+   {
+    "da": "at vaske",
+    "en": "to wash"
+   },
+   {
+    "da": "en tørretumbler",
+    "en": "a clothes dryer"
+   }
+  ],
+  "sentence": {
+   "da": "Håndklæderne skal **tørre** i solen.",
+   "en": "The towels have to dry in the sun."
+  }
+ },
+ "at tørre af": {
+  "file": "t.json",
+  "explanation": "\"At tørre af\" means \"to wipe\", for a table or shelf, and also \"to dry dishes\": \"Han tørrer bordet af\" (He wipes the table), \"Hun tørrer tallerkenerne af\" (She dries the plates). To mop up a spill, use \"at tørre op\" (to wipe up).",
+  "forms": [
+   {
+    "da": "at tørre af",
+    "en": "to wipe / dry (dishes)"
+   },
+   {
+    "da": "jeg tørrer af",
+    "en": "I wipe / dry (dishes)"
+   },
+   {
+    "da": "jeg tørrede af",
+    "en": "I wiped / dried (dishes)"
+   },
+   {
+    "da": "jeg har tørret af",
+    "en": "I have wiped / dried (dishes)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vaske op",
+    "en": "to do the dishes"
+   },
+   {
+    "da": "en karklud",
+    "en": "a dishcloth"
+   },
+   {
+    "da": "at gøre rent",
+    "en": "to clean"
+   },
+   {
+    "da": "et viskestykke",
+    "en": "a dish towel"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **tørre af** efter middagen.",
+   "en": "I have to dry the dishes after dinner."
+  }
+ },
+ "at tørre støv af": {
+  "file": "t.json",
+  "explanation": "\"At tørre støv af\" means \"to dust\": you wipe dust off shelves and tables. The word \"af\" (off) stays at the end: \"Han tørrer støv af hver uge\" (He dusts every week).",
+  "forms": [
+   {
+    "da": "at tørre støv af",
+    "en": "to dust"
+   },
+   {
+    "da": "jeg tørrer støv af",
+    "en": "I dust"
+   },
+   {
+    "da": "jeg tørrede støv af",
+    "en": "I dusted"
+   },
+   {
+    "da": "jeg har tørret støv af",
+    "en": "I have dusted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klud",
+    "en": "a cloth"
+   },
+   {
+    "da": "en fjerkost",
+    "en": "a feather duster"
+   },
+   {
+    "da": "at feje",
+    "en": "to sweep"
+   },
+   {
+    "da": "at støvsuge",
+    "en": "to vacuum"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **tørre støv af** på hylderne i dag.",
+   "en": "I have to dust the shelves today."
+  }
+ },
+ "en t-shirt": {
+  "file": "t.json",
+  "explanation": "\"En t-shirt\" means \"a t-shirt\". To say you are wearing one, use \"have ... på\": \"Jeg har en t-shirt på\" (I am wearing a t-shirt, literally \"I have a t-shirt on\").",
+  "forms": [
+   {
+    "da": "en t-shirt",
+    "en": "a t-shirt"
+   },
+   {
+    "da": "t-shirten",
+    "en": "the t-shirt"
+   },
+   {
+    "da": "t-shirts",
+    "en": "t-shirts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skjorte",
+    "en": "a shirt"
+   },
+   {
+    "da": "en trøje",
+    "en": "a sweater"
+   },
+   {
+    "da": "en bluse",
+    "en": "a blouse"
+   }
+  ],
+  "sentence": {
+   "da": "Om sommeren går jeg i **t-shirt** og shorts.",
+   "en": "In the summer I wear a t-shirt and shorts."
+  }
+ },
+ "en tabel": {
+  "file": "t.json",
+  "explanation": "\"En tabel\" means \"a table\" of rows and columns with information, not a piece of furniture. For furniture, use \"et bord\" (a table).",
+  "forms": [
+   {
+    "da": "en tabel",
+    "en": "a table"
+   },
+   {
+    "da": "tabellen",
+    "en": "the table"
+   },
+   {
+    "da": "tabeller",
+    "en": "tables"
+   },
+   {
+    "da": "tabellerne",
+    "en": "the tables"
+   }
+  ],
+  "related": [
+   {
+    "da": "et diagram",
+    "en": "a chart"
+   },
+   {
+    "da": "en liste",
+    "en": "a list"
+   },
+   {
+    "da": "en kolonne",
+    "en": "a column"
+   },
+   {
+    "da": "en celle",
+    "en": "a cell"
+   }
+  ],
+  "sentence": {
+   "da": "Tallene står i en **tabel** på side tre.",
+   "en": "The numbers are in a table on page three."
+  }
+ },
+ "en tablet": {
+  "file": "t.json",
+  "explanation": "\"En tablet\" means \"a tablet\", a flat touchscreen computer. It also means \"a pill\": \"Jeg tager en tablet mod smerter\" (I take a pill for pain).",
+  "forms": [
+   {
+    "da": "en tablet",
+    "en": "a tablet"
+   },
+   {
+    "da": "tabletten",
+    "en": "the tablet"
+   },
+   {
+    "da": "tabletter",
+    "en": "tablets"
+   },
+   {
+    "da": "tabletterne",
+    "en": "the tablets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pille",
+    "en": "a pill"
+   },
+   {
+    "da": "en smartphone",
+    "en": "a smartphone"
+   },
+   {
+    "da": "en bærbar computer",
+    "en": "a laptop"
+   },
+   {
+    "da": "en app",
+    "en": "an app"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg læser nyheder på min **tablet** hver morgen.",
+   "en": "I read the news on my tablet every morning."
+  }
+ }
+}

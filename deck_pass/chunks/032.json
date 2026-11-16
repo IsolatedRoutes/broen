@@ -1,0 +1,3926 @@
+{
+ "en istap": {
+  "file": "i.json",
+  "explanation": "\"En istap\" means \"an icicle\", a pointed piece of ice that hangs down. It is built from is (ice) and tap (a plug or peg).",
+  "forms": [
+   {
+    "da": "en istap",
+    "en": "an icicle"
+   },
+   {
+    "da": "istappen",
+    "en": "the icicle"
+   },
+   {
+    "da": "istapper",
+    "en": "icicles"
+   },
+   {
+    "da": "istapperne",
+    "en": "the icicles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en isblok",
+    "en": "a block of ice"
+   },
+   {
+    "da": "frost",
+    "en": "frost"
+   },
+   {
+    "da": "en snedrive",
+    "en": "a snowdrift"
+   },
+   {
+    "da": "at tø",
+    "en": "to thaw"
+   }
+  ],
+  "sentence": {
+   "da": "Der hænger en lang **istap** fra taget.",
+   "en": "A long icicle hangs from the roof."
+  }
+ },
+ "en isterning": {
+  "file": "i.json",
+  "explanation": "\"En isterning\" means \"an ice cube\", a small frozen block that you put in a drink. It is built from is (ice) and terning (cube). \"Terning\" is also \"a die\" for games: \"Slå en terning\" (Roll a die).",
+  "forms": [
+   {
+    "da": "en isterning",
+    "en": "an ice cube"
+   },
+   {
+    "da": "isterningen",
+    "en": "the ice cube"
+   },
+   {
+    "da": "isterninger",
+    "en": "ice cubes"
+   },
+   {
+    "da": "isterningerne",
+    "en": "the ice cubes"
+   }
+  ],
+  "related": [
+   {
+    "da": "isvand",
+    "en": "ice water"
+   },
+   {
+    "da": "en isbøtte",
+    "en": "an ice bucket"
+   },
+   {
+    "da": "en fryser",
+    "en": "a freezer"
+   }
+  ],
+  "sentence": {
+   "da": "En **isterning** gør min drik kold.",
+   "en": "An ice cube makes my drink cold."
+  }
+ },
+ "en isvaffel": {
+  "file": "i.json",
+  "explanation": "\"En isvaffel\" means \"an ice cream cone\", the crispy cone you hold ice cream in. It is built from is (ice cream) and vaffel (waffle). Do not mix it up with \"en vaffel\" (a waffle), the soft kind you eat with jam: \"en vaffel med syltetøj\" (a waffle with jam).",
+  "forms": [
+   {
+    "da": "en isvaffel",
+    "en": "an ice cream cone"
+   },
+   {
+    "da": "isvaflen",
+    "en": "the ice cream cone"
+   },
+   {
+    "da": "isvafler",
+    "en": "ice cream cones"
+   },
+   {
+    "da": "isvaflerne",
+    "en": "the ice cream cones"
+   }
+  ],
+  "related": [
+   {
+    "da": "en softice",
+    "en": "a soft serve"
+   },
+   {
+    "da": "en iskugle",
+    "en": "a scoop of ice cream"
+   },
+   {
+    "da": "en vandis",
+    "en": "a popsicle"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg får to kugler is i en **isvaffel**.",
+   "en": "I get two scoops of ice cream in an ice cream cone."
+  }
+ },
+ "en italiener": {
+  "file": "i.json",
+  "explanation": "\"En italiener\" means \"an Italian\", a person from Italy. For food and other things, use the matching word \"italiensk\": \"italiensk mad\" (Italian food).",
+  "forms": [
+   {
+    "da": "en italiener",
+    "en": "an Italian"
+   },
+   {
+    "da": "italieneren",
+    "en": "the Italian"
+   },
+   {
+    "da": "italienere",
+    "en": "Italians"
+   },
+   {
+    "da": "italienerne",
+    "en": "the Italians"
+   }
+  ],
+  "related": [
+   {
+    "da": "Italien",
+    "en": "Italy"
+   },
+   {
+    "da": "en spanier",
+    "en": "a Spaniard"
+   },
+   {
+    "da": "en franskmand",
+    "en": "a Frenchman"
+   }
+  ],
+  "sentence": {
+   "da": "Min kollega er **italiener** og elsker pasta.",
+   "en": "My coworker is Italian and loves pasta."
+  }
+ },
+ "en iværksætter": {
+  "file": "i.json",
+  "explanation": "\"En iværksætter\" means \"an entrepreneur\", someone who starts a new business. It comes from \"at iværksætte\" (to set going), so it carries the idea of getting something started.",
+  "forms": [
+   {
+    "da": "en iværksætter",
+    "en": "an entrepreneur"
+   },
+   {
+    "da": "iværksætteren",
+    "en": "the entrepreneur"
+   },
+   {
+    "da": "iværksættere",
+    "en": "entrepreneurs"
+   },
+   {
+    "da": "iværksætterne",
+    "en": "the entrepreneurs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gründer",
+    "en": "a founder"
+   },
+   {
+    "da": "en virksomhedsejer",
+    "en": "a business owner"
+   },
+   {
+    "da": "en opstart",
+    "en": "a startup"
+   },
+   {
+    "da": "en selvstændig",
+    "en": "a self-employed person"
+   }
+  ],
+  "sentence": {
+   "da": "Som **iværksætter** skal du selv finde kunder og betale dine regninger.",
+   "en": "As an entrepreneur, you must find customers yourself and pay your bills."
+  }
+ },
+ "et ildfast fad": {
+  "file": "i.json",
+  "explanation": "\"Et ildfast fad\" means \"an ovenproof dish\", a dish that can take strong heat. \"Ildfast\" (fireproof) means it stands up to fire and heat. A plain \"et fad\" (a platter) is for serving: \"Kagen står på et fad\" (The cake is on a platter).",
+  "forms": [
+   {
+    "da": "et ildfast fad",
+    "en": "an ovenproof dish"
+   },
+   {
+    "da": "det ildfaste fad",
+    "en": "the ovenproof dish"
+   },
+   {
+    "da": "ildfaste fade",
+    "en": "ovenproof dishes"
+   },
+   {
+    "da": "de ildfaste fade",
+    "en": "the ovenproof dishes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bageplade",
+    "en": "a baking sheet"
+   },
+   {
+    "da": "en gryde",
+    "en": "a pot"
+   },
+   {
+    "da": "en pande",
+    "en": "a pan"
+   },
+   {
+    "da": "en ovn",
+    "en": "an oven"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bager lasagnen i et **ildfast fad**.",
+   "en": "I bake the lasagna in an ovenproof dish."
+  }
+ },
+ "et imperium": {
+  "file": "i.json",
+  "explanation": "\"Et imperium\" means \"an empire\", a very large power that rules over many lands and peoples. Another Danish word for the same idea is \"et rige\" (a realm), as in \"Romerriget\" (the Roman Empire).",
+  "forms": [
+   {
+    "da": "et imperium",
+    "en": "an empire"
+   },
+   {
+    "da": "imperiet",
+    "en": "the empire"
+   },
+   {
+    "da": "imperier",
+    "en": "empires"
+   },
+   {
+    "da": "imperierne",
+    "en": "the empires"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kejserdømme",
+    "en": "an empire"
+   },
+   {
+    "da": "en kejser",
+    "en": "an emperor"
+   },
+   {
+    "da": "en koloni",
+    "en": "a colony"
+   },
+   {
+    "da": "et kongerige",
+    "en": "a kingdom"
+   }
+  ],
+  "sentence": {
+   "da": "Det romerske **imperium** erobrede store dele af Europa.",
+   "en": "The Roman Empire conquered large parts of Europe."
+  }
+ },
+ "et indbrud": {
+  "file": "i.json",
+  "explanation": "\"Et indbrud\" means \"a burglary\", when someone breaks into a home or shop. It is built from ind (in) and brud (a break). \"Brud\" also appears in \"et benbrud\" (a broken bone).",
+  "forms": [
+   {
+    "da": "et indbrud",
+    "en": "a burglary"
+   },
+   {
+    "da": "indbruddet",
+    "en": "the burglary"
+   },
+   {
+    "da": "indbrud",
+    "en": "burglaries"
+   },
+   {
+    "da": "indbruddene",
+    "en": "the burglaries"
+   }
+  ],
+  "related": [
+   {
+    "da": "en indbrudstyv",
+    "en": "a burglar"
+   },
+   {
+    "da": "at bryde ind",
+    "en": "to break in"
+   },
+   {
+    "da": "et tyveri",
+    "en": "a theft"
+   }
+  ],
+  "sentence": {
+   "da": "Ved et **indbrud** tager en tyv ting fra et hus.",
+   "en": "In a burglary, a thief takes things from a house."
+  }
+ },
+ "et indkøb": {
+  "file": "i.json",
+  "explanation": "\"Et indkøb\" means \"a purchase\". It is also used for everyday shopping: \"Jeg skal lave indkøb\" (I need to do the shopping).",
+  "forms": [
+   {
+    "da": "et indkøb",
+    "en": "a purchase"
+   },
+   {
+    "da": "indkøbet",
+    "en": "the purchase"
+   },
+   {
+    "da": "indkøb",
+    "en": "purchases"
+   },
+   {
+    "da": "indkøbene",
+    "en": "the purchases"
+   }
+  ],
+  "related": [
+   {
+    "da": "at købe",
+    "en": "to buy"
+   },
+   {
+    "da": "at handle",
+    "en": "to shop"
+   },
+   {
+    "da": "en indkøbsliste",
+    "en": "a shopping list"
+   },
+   {
+    "da": "en butik",
+    "en": "a store"
+   }
+  ],
+  "sentence": {
+   "da": "Et nyt fjernsyn er et stort **indkøb**.",
+   "en": "A new TV is a big purchase."
+  }
+ },
+ "et indkøbscenter": {
+  "file": "i.json",
+  "explanation": "\"Et indkøbscenter\" means \"a shopping mall\", a large building with many stores. It is made of indkøb (shopping) and et center (a center). People also say \"et shoppingcenter\" (a shopping mall), which means the same.",
+  "forms": [
+   {
+    "da": "et indkøbscenter",
+    "en": "a shopping mall"
+   },
+   {
+    "da": "indkøbscentret",
+    "en": "the shopping mall"
+   },
+   {
+    "da": "indkøbscentre",
+    "en": "shopping malls"
+   },
+   {
+    "da": "indkøbscentrene",
+    "en": "the shopping malls"
+   }
+  ],
+  "related": [
+   {
+    "da": "at købe ind",
+    "en": "to buy groceries"
+   },
+   {
+    "da": "en indkøbskurv",
+    "en": "a shopping basket"
+   },
+   {
+    "da": "et varehus",
+    "en": "a department store"
+   }
+  ],
+  "sentence": {
+   "da": "Der er mange butikker i et stort **indkøbscenter**.",
+   "en": "There are many stores in a big shopping mall."
+  }
+ },
+ "et indlæg": {
+  "file": "i.json",
+  "explanation": "\"Et indlæg\" means \"a post / contribution\", something you add to a discussion, such as a text you publish online or a short talk in a meeting: \"et indlæg på Facebook\" (a post on Facebook). It is also the word for an insole you put in a shoe.",
+  "forms": [
+   {
+    "da": "et indlæg",
+    "en": "a post / contribution"
+   },
+   {
+    "da": "indlægget",
+    "en": "the post / contribution"
+   },
+   {
+    "da": "indlæg",
+    "en": "posts / contributions"
+   },
+   {
+    "da": "indlæggene",
+    "en": "the posts / contributions"
+   }
+  ],
+  "related": [
+   {
+    "da": "et opslag",
+    "en": "a post / notice"
+   },
+   {
+    "da": "en kommentar",
+    "en": "a comment"
+   },
+   {
+    "da": "en debat",
+    "en": "a debate"
+   },
+   {
+    "da": "et læserbrev",
+    "en": "a letter to the editor"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skrev et langt **indlæg** i avisen om skolens fremtid.",
+   "en": "She wrote a long piece in the newspaper about the future of the school."
+  }
+ },
+ "et indtryk": {
+  "file": "i.json",
+  "explanation": "\"Et indtryk\" means \"an impression\", the picture you form in your mind of someone or something after meeting or seeing it. \"Det gjorde stort indtryk på mig\" (It made a big impression on me). Do not mix it up with \"et udtryk\" (an expression), which is a phrase that you say: \"et sjovt udtryk\" (a funny expression).",
+  "forms": [
+   {
+    "da": "et indtryk",
+    "en": "an impression"
+   },
+   {
+    "da": "indtrykket",
+    "en": "the impression"
+   },
+   {
+    "da": "indtryk",
+    "en": "impressions"
+   },
+   {
+    "da": "indtrykkene",
+    "en": "the impressions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en opfattelse",
+    "en": "a perception"
+   },
+   {
+    "da": "en følelse",
+    "en": "a feeling"
+   },
+   {
+    "da": "en fornemmelse",
+    "en": "a feeling / sense"
+   }
+  ],
+  "sentence": {
+   "da": "Mit første **indtryk** af byen var meget godt.",
+   "en": "My first impression of the city was very good."
+  }
+ },
+ "et initiativ": {
+  "file": "i.json",
+  "explanation": "\"Et initiativ\" means \"an initiative\", the first step that gets something started. To say that a person starts things on their own, use \"Han har meget initiativ\" (He has a lot of initiative).",
+  "forms": [
+   {
+    "da": "et initiativ",
+    "en": "an initiative"
+   },
+   {
+    "da": "initiativet",
+    "en": "the initiative"
+   },
+   {
+    "da": "initiativer",
+    "en": "initiatives"
+   },
+   {
+    "da": "initiativerne",
+    "en": "the initiatives"
+   }
+  ],
+  "related": [
+   {
+    "da": "et forslag",
+    "en": "a proposal"
+   },
+   {
+    "da": "en idé",
+    "en": "an idea"
+   },
+   {
+    "da": "at iværksætte",
+    "en": "to launch"
+   }
+  ],
+  "sentence": {
+   "da": "Naboerne tog **initiativ** til en fælles have i gården.",
+   "en": "The neighbors took the initiative for a shared garden in the yard."
+  }
+ },
+ "et insekt": {
+  "file": "i.json",
+  "explanation": "\"Et insekt\" means \"an insect\", a small animal with six legs. A spider is not an insect, because \"en edderkop\" (a spider) has eight legs.",
+  "forms": [
+   {
+    "da": "et insekt",
+    "en": "an insect"
+   },
+   {
+    "da": "insektet",
+    "en": "the insect"
+   },
+   {
+    "da": "insekter",
+    "en": "insects"
+   },
+   {
+    "da": "insekterne",
+    "en": "the insects"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bi",
+    "en": "a bee"
+   },
+   {
+    "da": "en myre",
+    "en": "an ant"
+   },
+   {
+    "da": "en flue",
+    "en": "a fly"
+   },
+   {
+    "da": "en bille",
+    "en": "a beetle"
+   }
+  ],
+  "sentence": {
+   "da": "En bi er et **insekt** med vinger.",
+   "en": "A bee is an insect with wings."
+  }
+ },
+ "et instinkt": {
+  "file": "i.json",
+  "explanation": "\"Et instinkt\" means \"an instinct\", a natural urge to act in a certain way that nobody has taught you, such as a newborn animal searching for its mother's milk. You can say \"Jeg gjorde det af instinkt\" (I did it by instinct) when you acted without thinking.",
+  "forms": [
+   {
+    "da": "et instinkt",
+    "en": "an instinct"
+   },
+   {
+    "da": "instinktet",
+    "en": "the instinct"
+   },
+   {
+    "da": "instinkter",
+    "en": "instincts"
+   },
+   {
+    "da": "instinkterne",
+    "en": "the instincts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en refleks",
+    "en": "a reflex"
+   },
+   {
+    "da": "en drift",
+    "en": "a drive"
+   },
+   {
+    "da": "en intuition",
+    "en": "an intuition"
+   },
+   {
+    "da": "en mavefornemmelse",
+    "en": "a gut feeling"
+   }
+  ],
+  "sentence": {
+   "da": "Fuglene flyver mod syd om efteråret af **instinkt**.",
+   "en": "The birds fly south in the autumn by instinct."
+  }
+ },
+ "et institut": {
+  "file": "i.json",
+  "explanation": "\"Et institut\" means \"an institute\", an organization that studies or teaches one particular subject. In higher education, a department is also called an \"institut\". A beauty salon is \"et skønhedsinstitut\" (a beauty institute).",
+  "forms": [
+   {
+    "da": "et institut",
+    "en": "an institute"
+   },
+   {
+    "da": "instituttet",
+    "en": "the institute"
+   },
+   {
+    "da": "institutter",
+    "en": "institutes"
+   },
+   {
+    "da": "institutterne",
+    "en": "the institutes"
+   }
+  ],
+  "related": [
+   {
+    "da": "et universitet",
+    "en": "a university"
+   },
+   {
+    "da": "et laboratorium",
+    "en": "a laboratory"
+   },
+   {
+    "da": "en forsker",
+    "en": "a researcher"
+   }
+  ],
+  "sentence": {
+   "da": "Forskerne på et **institut** studerer ét emne meget grundigt.",
+   "en": "The researchers at an institute study one topic very thoroughly."
+  }
+ },
+ "et instrument": {
+  "file": "i.json",
+  "explanation": "\"Et instrument\" means \"an instrument\", something you play music on. It is also a tool for measuring, such as \"et termometer\" (a thermometer).",
+  "forms": [
+   {
+    "da": "et instrument",
+    "en": "an instrument"
+   },
+   {
+    "da": "instrumentet",
+    "en": "the instrument"
+   },
+   {
+    "da": "instrumenter",
+    "en": "instruments"
+   },
+   {
+    "da": "instrumenterne",
+    "en": "the instruments"
+   }
+  ],
+  "related": [
+   {
+    "da": "en musiker",
+    "en": "a musician"
+   },
+   {
+    "da": "en guitar",
+    "en": "a guitar"
+   },
+   {
+    "da": "et orkester",
+    "en": "an orchestra"
+   },
+   {
+    "da": "en violin",
+    "en": "a violin"
+   }
+  ],
+  "sentence": {
+   "da": "Hun lærer et nyt **instrument**, og det er en violin.",
+   "en": "She is learning a new instrument, and it is a violin."
+  }
+ },
+ "et interview": {
+  "file": "i.json",
+  "explanation": "\"Et interview\" means \"an interview\", a talk where one person asks another about their work or life. For a job interview, say \"en jobsamtale\" (a job interview).",
+  "forms": [
+   {
+    "da": "et interview",
+    "en": "an interview"
+   },
+   {
+    "da": "interviewet",
+    "en": "the interview"
+   },
+   {
+    "da": "interviews",
+    "en": "interviews"
+   },
+   {
+    "da": "interviewene",
+    "en": "the interviews"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spørgsmål",
+    "en": "a question"
+   },
+   {
+    "da": "et svar",
+    "en": "an answer"
+   },
+   {
+    "da": "en journalist",
+    "en": "a journalist"
+   },
+   {
+    "da": "at interviewe",
+    "en": "to interview"
+   }
+  ],
+  "sentence": {
+   "da": "Hun giver et **interview** til avisen i dag.",
+   "en": "She is giving an interview to the newspaper today."
+  }
+ },
+ "i": {
+  "file": "i.json",
+  "explanation": "\"I\" means \"you\" when you talk to several people: \"I er søde\" (You are all nice). The little word \"i\" (in) sounds the same but is written with a lowercase letter: \"i huset\" (in the house).",
+  "forms": [
+   {
+    "da": "I er søde.",
+    "en": "You are all nice."
+   },
+   {
+    "da": "Hvor bor I?",
+    "en": "Where do you all live?"
+   },
+   {
+    "da": "Er I hjemme?",
+    "en": "Are you all home?"
+   }
+  ],
+  "related": [
+   {
+    "da": "du",
+    "en": "you (one person)"
+   },
+   {
+    "da": "jer",
+    "en": "you (all, object)"
+   },
+   {
+    "da": "jeres",
+    "en": "your (all)"
+   },
+   {
+    "da": "dig",
+    "en": "you (one person, object)"
+   }
+  ],
+  "sentence": {
+   "da": "Hvor bor **I**?",
+   "en": "Where do you all live?"
+  }
+ },
+ "i aften": {
+  "file": "i.json",
+  "explanation": "\"I aften\" means \"this evening\", an evening that is still to come: \"Jeg ser en film i aften\" (I am watching a movie this evening). Once it is over, say \"i aftes\" (last night): \"Jeg så en film i aftes\" (I watched a movie last night).",
+  "forms": [
+   {
+    "da": "i aften",
+    "en": "this evening"
+   },
+   {
+    "da": "Hvad skal du i aften?",
+    "en": "What are you doing this evening?"
+   },
+   {
+    "da": "Vi ses i aften.",
+    "en": "See you this evening."
+   }
+  ],
+  "related": [
+   {
+    "da": "i nat",
+    "en": "tonight, last night"
+   },
+   {
+    "da": "i dag",
+    "en": "today"
+   },
+   {
+    "da": "i morgen",
+    "en": "tomorrow"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal spise middag sammen **i aften**.",
+   "en": "We are having dinner together this evening."
+  }
+ },
+ "i aftes": {
+  "file": "i.json",
+  "explanation": "\"I aftes\" means \"last night\", meaning the evening that just ended: \"Jeg så en film i aftes\" (I watched a movie last night). For the evening still to come, say \"i aften\" (this evening). For the hours when you were asleep, say \"i nat\" (last night): \"Jeg sov dårligt i nat\" (I slept badly last night).",
+  "forms": [
+   {
+    "da": "i aftes",
+    "en": "last night / yesterday evening"
+   },
+   {
+    "da": "Jeg var hjemme i aftes.",
+    "en": "I was at home last night."
+   },
+   {
+    "da": "Vi spiste sent i aftes.",
+    "en": "We ate late last night."
+   }
+  ],
+  "related": [
+   {
+    "da": "i går",
+    "en": "yesterday"
+   },
+   {
+    "da": "i morges",
+    "en": "this morning"
+   },
+   {
+    "da": "i forgårs",
+    "en": "the day before yesterday"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiste pizza **i aftes**.",
+   "en": "We ate pizza last night."
+  }
+ },
+ "i dag": {
+  "file": "i.json",
+  "explanation": "\"I dag\" means \"today\". For the evening of today, say \"i aften\" (this evening).",
+  "forms": [
+   {
+    "da": "i dag",
+    "en": "today"
+   },
+   {
+    "da": "i dag er det mandag",
+    "en": "today it is Monday"
+   },
+   {
+    "da": "i dag og i morgen",
+    "en": "today and tomorrow"
+   }
+  ],
+  "related": [
+   {
+    "da": "i morgen",
+    "en": "tomorrow"
+   },
+   {
+    "da": "i går",
+    "en": "yesterday"
+   },
+   {
+    "da": "i overmorgen",
+    "en": "the day after tomorrow"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har fri **i dag**.",
+   "en": "I am off today."
+  }
+ },
+ "i det hele taget": {
+  "file": "i.json",
+  "explanation": "\"I det hele taget\" means \"on the whole\" or \"generally\". In a question it means \"at all\": \"Kan du i det hele taget svømme?\" (Can you swim at all?)",
+  "forms": [
+   {
+    "da": "i det hele taget",
+    "en": "on the whole"
+   },
+   {
+    "da": "Jeg kan i det hele taget godt lide det.",
+    "en": "I generally like it."
+   },
+   {
+    "da": "Hvorfor er du her i det hele taget?",
+    "en": "Why are you here at all?"
+   }
+  ],
+  "related": [
+   {
+    "da": "generelt",
+    "en": "generally"
+   },
+   {
+    "da": "overordnet",
+    "en": "overall"
+   },
+   {
+    "da": "egentlig",
+    "en": "actually"
+   },
+   {
+    "da": "overhovedet",
+    "en": "at all"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **i det hele taget** godt lide efteråret.",
+   "en": "I generally like fall."
+  }
+ },
+ "i det mindste": {
+  "file": "i.json",
+  "explanation": "\"I det mindste\" means \"at least\" and points to the smallest good thing you still have or can do: \"Hun er syg, men hun har i det mindste ikke feber\" (She is sick, but at least she has no fever).",
+  "forms": [
+   {
+    "da": "i det mindste en time",
+    "en": "at least an hour"
+   },
+   {
+    "da": "i det mindste i dag",
+    "en": "at least today"
+   },
+   {
+    "da": "i det mindste prøve",
+    "en": "at least try"
+   }
+  ],
+  "related": [
+   {
+    "da": "mindst",
+    "en": "at least, minimum"
+   },
+   {
+    "da": "højst",
+    "en": "at most"
+   },
+   {
+    "da": "i hvert fald",
+    "en": "in any case"
+   },
+   {
+    "da": "mindre",
+    "en": "smaller, less"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **i det mindste** prøve det.",
+   "en": "You can at least try it."
+  }
+ },
+ "i det store hele": {
+  "file": "i.json",
+  "explanation": "\"I det store hele\" means \"all in all\" and sums up what you think, even if a few details were bad: \"I det store hele var turen god, men hotellet var dårligt\" (All in all the trip was good, but the hotel was bad).",
+  "forms": [
+   {
+    "da": "I det store hele gik det godt",
+    "en": "All in all it went well"
+   },
+   {
+    "da": "Jeg er i det store hele enig",
+    "en": "I mostly agree"
+   },
+   {
+    "da": "Det er i det store hele rigtigt",
+    "en": "It is by and large right"
+   }
+  ],
+  "related": [
+   {
+    "da": "generelt",
+    "en": "generally"
+   },
+   {
+    "da": "stort set",
+    "en": "more or less"
+   },
+   {
+    "da": "overordnet",
+    "en": "overall"
+   },
+   {
+    "da": "på det hele taget",
+    "en": "on the whole"
+   }
+  ],
+  "sentence": {
+   "da": "Vi er **i det store hele** tilfredse, men maden kunne være bedre.",
+   "en": "All in all we are satisfied, but the food could be better."
+  }
+ },
+ "i eftermiddag": {
+  "file": "i.json",
+  "explanation": "\"I eftermiddag\" means \"this afternoon\", the afternoon of today. For something that happens every afternoon, say \"om eftermiddagen\" (in the afternoon): \"Jeg læser om eftermiddagen\" (I read in the afternoons).",
+  "forms": [
+   {
+    "da": "i eftermiddag",
+    "en": "this afternoon"
+   },
+   {
+    "da": "Vi ses i eftermiddag.",
+    "en": "See you this afternoon."
+   },
+   {
+    "da": "Hvad laver du i eftermiddag?",
+    "en": "What are you doing this afternoon?"
+   }
+  ],
+  "related": [
+   {
+    "da": "i morges",
+    "en": "this morning"
+   },
+   {
+    "da": "i aften",
+    "en": "this evening"
+   },
+   {
+    "da": "i dag",
+    "en": "today"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har fri **i eftermiddag**.",
+   "en": "I am off this afternoon."
+  }
+ },
+ "i forgårs": {
+  "file": "i.json",
+  "explanation": "\"I forgårs\" means \"the day before yesterday\". Count back: \"i dag\" (today), \"i går\" (yesterday), \"i forgårs\".",
+  "forms": [
+   {
+    "da": "i forgårs",
+    "en": "the day before yesterday"
+   },
+   {
+    "da": "Jeg var syg i forgårs.",
+    "en": "I was sick the day before yesterday."
+   },
+   {
+    "da": "Det skete i forgårs.",
+    "en": "It happened the day before yesterday."
+   }
+  ],
+  "related": [
+   {
+    "da": "i morgen",
+    "en": "tomorrow"
+   },
+   {
+    "da": "i overmorgen",
+    "en": "the day after tomorrow"
+   },
+   {
+    "da": "for to dage siden",
+    "en": "two days ago"
+   }
+  ],
+  "sentence": {
+   "da": "Det er onsdag. **I forgårs** var det mandag.",
+   "en": "It is Wednesday. The day before yesterday it was Monday."
+  }
+ },
+ "i forhold til": {
+  "file": "i.json",
+  "explanation": "\"I forhold til\" means \"in relation to\" and also \"compared to\": \"Det er billigt i forhold til Paris\" (It is cheap compared to Paris).",
+  "forms": [
+   {
+    "da": "i forhold til dig",
+    "en": "compared to you"
+   },
+   {
+    "da": "i forhold til sidste år",
+    "en": "compared to last year"
+   },
+   {
+    "da": "i forhold til prisen",
+    "en": "for the price"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sammenligne",
+    "en": "to compare"
+   },
+   {
+    "da": "sammenlignet med",
+    "en": "compared with"
+   },
+   {
+    "da": "i modsætning til",
+    "en": "unlike"
+   }
+  ],
+  "sentence": {
+   "da": "Huset er stort **i forhold til** prisen.",
+   "en": "The house is big for the price."
+  }
+ },
+ "i fortiden": {
+  "file": "i.json",
+  "explanation": "\"I fortiden\" means \"in the past\", before now or long ago. For what comes later, use \"i fremtiden\" (in the future).",
+  "forms": [
+   {
+    "da": "I fortiden boede folk anderledes.",
+    "en": "In the past, people lived differently."
+   },
+   {
+    "da": "Det skete i fortiden.",
+    "en": "It happened in the past."
+   },
+   {
+    "da": "Jeg tænker på fortiden.",
+    "en": "I think about the past."
+   }
+  ],
+  "related": [
+   {
+    "da": "tidligere",
+    "en": "earlier"
+   },
+   {
+    "da": "før i tiden",
+    "en": "in the old days"
+   },
+   {
+    "da": "dengang",
+    "en": "back then"
+   },
+   {
+    "da": "engang",
+    "en": "once"
+   }
+  ],
+  "sentence": {
+   "da": "Folk skrev mange breve **i fortiden**.",
+   "en": "People wrote many letters in the past."
+  }
+ },
+ "i forvejen": {
+  "file": "i.json",
+  "explanation": "\"I forvejen\" means \"beforehand\" and \"already\". For \"beforehand\": \"Du skal bestille bord i forvejen\" (You need to book a table beforehand). For \"already\": \"Jeg kender hende i forvejen\" (I already know her).",
+  "forms": [
+   {
+    "da": "Sig det i forvejen",
+    "en": "Say it beforehand"
+   },
+   {
+    "da": "Det har jeg i forvejen",
+    "en": "I already have that"
+   },
+   {
+    "da": "Jeg vidste det i forvejen",
+    "en": "I knew it beforehand"
+   }
+  ],
+  "related": [
+   {
+    "da": "på forhånd",
+    "en": "in advance"
+   },
+   {
+    "da": "forud",
+    "en": "ahead of time"
+   },
+   {
+    "da": "tidligere",
+    "en": "earlier"
+   },
+   {
+    "da": "bagefter",
+    "en": "afterwards"
+   }
+  ],
+  "sentence": {
+   "da": "Hun havde **i forvejen** købt billetter til os.",
+   "en": "She had already bought tickets for us."
+  }
+ },
+ "i fremtiden": {
+  "file": "i.json",
+  "explanation": "\"I fremtiden\" means \"in the future\". The opposite is \"i fortiden\" (in the past).",
+  "forms": [
+   {
+    "da": "Jeg vil rejse mere i fremtiden.",
+    "en": "I want to travel more in the future."
+   },
+   {
+    "da": "Hvad sker der i fremtiden?",
+    "en": "What will happen in the future?"
+   },
+   {
+    "da": "I fremtiden bliver det nemmere.",
+    "en": "In the future, it will be easier."
+   }
+  ],
+  "related": [
+   {
+    "da": "fremover",
+    "en": "from now on"
+   },
+   {
+    "da": "engang",
+    "en": "one day"
+   },
+   {
+    "da": "snart",
+    "en": "soon"
+   },
+   {
+    "da": "senere",
+    "en": "later"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil spare flere penge **i fremtiden**.",
+   "en": "I want to save more money in the future."
+  }
+ },
+ "i første omgang": {
+  "file": "i.json",
+  "explanation": "\"I første omgang\" means \"at first\", the first step of something that will go on. It often hints that more steps come later. \"Omgang\" here means a round or stage.",
+  "forms": [
+   {
+    "da": "i første omgang",
+    "en": "at first"
+   },
+   {
+    "da": "I første omgang venter vi",
+    "en": "At first, we wait"
+   },
+   {
+    "da": "Det er nok i første omgang",
+    "en": "That is enough at first"
+   }
+  ],
+  "related": [
+   {
+    "da": "til at begynde med",
+    "en": "to begin with"
+   },
+   {
+    "da": "derefter",
+    "en": "after that"
+   },
+   {
+    "da": "bagefter",
+    "en": "afterwards"
+   },
+   {
+    "da": "i starten",
+    "en": "at the start"
+   }
+  ],
+  "sentence": {
+   "da": "**I første omgang** skal vi bare finde et sted at bo.",
+   "en": "At first, we just have to find a place to live."
+  }
+ },
+ "i gang": {
+  "file": "i.json",
+  "explanation": "\"I gang\" means \"going\" or \"underway\", for something that has started and is still happening. With \"komme\" (to come), it means getting started: \"Vi kommer i gang klokken ti\" (We get started at ten).",
+  "forms": [
+   {
+    "da": "Filmen er i gang",
+    "en": "The movie is on"
+   },
+   {
+    "da": "Kom i gang!",
+    "en": "Get started!"
+   },
+   {
+    "da": "Jeg er i gang med at spise",
+    "en": "I am in the middle of eating"
+   }
+  ],
+  "related": [
+   {
+    "da": "at starte",
+    "en": "to start"
+   },
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "færdig",
+    "en": "finished"
+   },
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   }
+  ],
+  "sentence": {
+   "da": "Mødet er allerede **i gang**.",
+   "en": "The meeting is already underway."
+  }
+ },
+ "i gang med": {
+  "file": "i.json",
+  "explanation": "\"I gang med\" means \"busy with\" or \"in the middle of\". The phrase usually comes after \"er\" (am / is / are): \"Jeg er i gang med lektierne\" (I am busy with the homework). To name the verb you are in the middle of, add \"at\" (to) before it: \"i gang med at spise\" (in the middle of eating).",
+  "forms": [
+   {
+    "da": "Jeg er i gang med lektierne.",
+    "en": "I am busy with my homework."
+   },
+   {
+    "da": "Hun er i gang med at ringe.",
+    "en": "She is in the middle of calling."
+   }
+  ],
+  "related": [
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at være færdig med",
+    "en": "to be done with"
+   },
+   {
+    "da": "travl",
+    "en": "busy"
+   },
+   {
+    "da": "at starte",
+    "en": "to start"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **i gang med** at læse en bog.",
+   "en": "I am in the middle of reading a book."
+  }
+ },
+ "i går": {
+  "file": "i.json",
+  "explanation": "\"I går\" means \"yesterday\". Add a time of day for more detail: \"i går aftes\" (last night) and \"i går morges\" (yesterday morning).",
+  "forms": [
+   {
+    "da": "i går",
+    "en": "yesterday"
+   },
+   {
+    "da": "i går aftes",
+    "en": "last night"
+   },
+   {
+    "da": "Jeg så ham i går.",
+    "en": "I saw him yesterday."
+   }
+  ],
+  "related": [
+   {
+    "da": "i dag",
+    "en": "today"
+   },
+   {
+    "da": "i morgen",
+    "en": "tomorrow"
+   },
+   {
+    "da": "i forgårs",
+    "en": "the day before yesterday"
+   },
+   {
+    "da": "en dag",
+    "en": "a day"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg var hjemme **i går**.",
+   "en": "I was at home yesterday."
+  }
+ },
+ "i hvert fald": {
+  "file": "i.json",
+  "explanation": "\"I hvert fald\" means \"at least\" and \"in any case\". The second use says something stays true whatever happens: \"Jeg kommer i hvert fald\" (I am coming in any case).",
+  "forms": [
+   {
+    "da": "Jeg har i hvert fald prøvet",
+    "en": "At least I tried"
+   },
+   {
+    "da": "Det er i hvert fald godt",
+    "en": "At least it is good"
+   },
+   {
+    "da": "I hvert fald ikke i dag",
+    "en": "At least not today"
+   }
+  ],
+  "related": [
+   {
+    "da": "under alle omstændigheder",
+    "en": "in any case"
+   },
+   {
+    "da": "alligevel",
+    "en": "anyway"
+   },
+   {
+    "da": "i det mindste",
+    "en": "at least"
+   },
+   {
+    "da": "mindst",
+    "en": "at least"
+   }
+  ],
+  "sentence": {
+   "da": "Det regner, men det er **i hvert fald** varmt.",
+   "en": "It is raining, but at least it is warm."
+  }
+ },
+ "i kraft af": {
+  "file": "i.json",
+  "explanation": "\"I kraft af\" means \"by virtue of\" and names the job or position that gives someone the right: \"i kraft af sin stilling som formand\" (by virtue of her position as chair). For ordinary causes such as weather, use \"på grund af\" (because of) instead.",
+  "forms": [
+   {
+    "da": "i kraft af sin stilling",
+    "en": "by virtue of his position"
+   },
+   {
+    "da": "i kraft af loven",
+    "en": "by virtue of the law"
+   },
+   {
+    "da": "i kraft af sit navn",
+    "en": "by virtue of her name"
+   }
+  ],
+  "related": [
+   {
+    "da": "som følge af",
+    "en": "as a result of"
+   },
+   {
+    "da": "takket være",
+    "en": "thanks to"
+   },
+   {
+    "da": "ved hjælp af",
+    "en": "with the help of"
+   },
+   {
+    "da": "i egenskab af",
+    "en": "in the role of"
+   }
+  ],
+  "sentence": {
+   "da": "Borgmesteren kan beslutte det **i kraft af** sit embede.",
+   "en": "The mayor can decide it by virtue of his office."
+  }
+ },
+ "i lige måde": {
+  "file": "i.json",
+  "explanation": "\"I lige måde\" means \"likewise\" and answers a good wish by returning it. It stands in for the whole wish: after \"Hav en god dag!\" (Have a good day!) it means \"you have a good day too\".",
+  "forms": [
+   {
+    "da": "I lige måde!",
+    "en": "Likewise!"
+   },
+   {
+    "da": "Tak, i lige måde.",
+    "en": "Thanks, same to you."
+   },
+   {
+    "da": "Glædelig jul! I lige måde!",
+    "en": "Merry Christmas! You too!"
+   }
+  ],
+  "related": [
+   {
+    "da": "ligeledes",
+    "en": "likewise (more formal)"
+   },
+   {
+    "da": "også dig",
+    "en": "you too"
+   },
+   {
+    "da": "det samme",
+    "en": "the same to you"
+   }
+  ],
+  "sentence": {
+   "da": "Hav en god weekend! Tak, **i lige måde**!",
+   "en": "Have a good weekend! Thanks, you too!"
+  }
+ },
+ "i mangel af": {
+  "file": "i.json",
+  "explanation": "\"I mangel af\" means \"for lack of\". It names what was missing, so something else had to do instead. It often goes with \"bedre\" (better): \"i mangel af bedre\" (for lack of anything better).",
+  "forms": [
+   {
+    "da": "i mangel af tid",
+    "en": "for lack of time"
+   },
+   {
+    "da": "i mangel af penge",
+    "en": "for lack of money"
+   },
+   {
+    "da": "i mangel af beviser",
+    "en": "for lack of evidence"
+   }
+  ],
+  "related": [
+   {
+    "da": "i stedet for",
+    "en": "instead of"
+   },
+   {
+    "da": "i fravær af",
+    "en": "in the absence of"
+   },
+   {
+    "da": "uden",
+    "en": "without"
+   },
+   {
+    "da": "en erstatning",
+    "en": "a replacement"
+   }
+  ],
+  "sentence": {
+   "da": "**I mangel af** en bil gik vi hele vejen.",
+   "en": "For lack of a car we walked the whole way."
+  }
+ },
+ "i mellemtiden": {
+  "file": "i.json",
+  "explanation": "\"I mellemtiden\" means \"in the meantime\" and names what happens while you wait for something else. It is built from i (in), mellem (between) and tiden (the time), so it points to the gap before the other thing happens.",
+  "forms": [
+   {
+    "da": "i mellemtiden",
+    "en": "in the meantime"
+   },
+   {
+    "da": "i mellemtiden venter vi",
+    "en": "in the meantime we wait"
+   },
+   {
+    "da": "I mellemtiden læser jeg",
+    "en": "Meanwhile, I read"
+   }
+  ],
+  "related": [
+   {
+    "da": "imens",
+    "en": "meanwhile"
+   },
+   {
+    "da": "mens",
+    "en": "while"
+   },
+   {
+    "da": "imidlertid",
+    "en": "however"
+   },
+   {
+    "da": "i øjeblikket",
+    "en": "at the moment"
+   }
+  ],
+  "sentence": {
+   "da": "Vi venter, og **i mellemtiden** drikker vi kaffe.",
+   "en": "We wait, and in the meantime we drink coffee."
+  }
+ },
+ "i modsætning til": {
+  "file": "i.json",
+  "explanation": "\"I modsætning til\" means \"in contrast to\": \"Han er rolig, i modsætning til sin søster\" (He is calm, unlike his sister).",
+  "forms": [
+   {
+    "da": "i modsætning til mig",
+    "en": "unlike me"
+   },
+   {
+    "da": "i modsætning til før",
+    "en": "unlike before"
+   },
+   {
+    "da": "i modsætning til os",
+    "en": "in contrast to us"
+   }
+  ],
+  "related": [
+   {
+    "da": "modsat",
+    "en": "opposite"
+   },
+   {
+    "da": "derimod",
+    "en": "on the other hand"
+   },
+   {
+    "da": "sammenlignet med",
+    "en": "compared with"
+   },
+   {
+    "da": "ligesom",
+    "en": "just like"
+   }
+  ],
+  "sentence": {
+   "da": "Byen er stille om natten, **i modsætning til** om dagen.",
+   "en": "The city is quiet at night, in contrast to the day."
+  }
+ },
+ "i morgen": {
+  "file": "i.json",
+  "explanation": "\"I morgen\" means \"tomorrow\". It looks like \"i morges\" (this morning, already past), so watch the last letters: \"i morgen\" is still to come, \"i morges\" is already over. \"Hun ringede i morges\" (She called this morning).",
+  "forms": [
+   {
+    "da": "i morgen",
+    "en": "tomorrow"
+   },
+   {
+    "da": "i morgen tidlig",
+    "en": "tomorrow morning"
+   },
+   {
+    "da": "vi ses i morgen",
+    "en": "see you tomorrow"
+   }
+  ],
+  "related": [
+   {
+    "da": "i dag",
+    "en": "today"
+   },
+   {
+    "da": "i overmorgen",
+    "en": "the day after tomorrow"
+   },
+   {
+    "da": "i går",
+    "en": "yesterday"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har fri **i morgen**.",
+   "en": "I am off tomorrow."
+  }
+ },
+ "i morges": {
+  "file": "i.json",
+  "explanation": "\"I morges\" means \"this morning\", the morning of today that is already over. It looks like \"i morgen\" (tomorrow), so watch the last letters: \"i morges\" is behind you, \"i morgen\" is ahead.",
+  "forms": [
+   {
+    "da": "i morges",
+    "en": "this morning (earlier today)"
+   },
+   {
+    "da": "Jeg stod op tidligt i morges.",
+    "en": "I got up early this morning."
+   },
+   {
+    "da": "Hun ringede i morges.",
+    "en": "She called this morning."
+   }
+  ],
+  "related": [
+   {
+    "da": "om morgenen",
+    "en": "in the morning"
+   },
+   {
+    "da": "i aftes",
+    "en": "last night"
+   },
+   {
+    "da": "i går",
+    "en": "yesterday"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg drak kaffe **i morges**.",
+   "en": "I drank coffee this morning."
+  }
+ },
+ "i nat": {
+  "file": "i.json",
+  "explanation": "\"I nat\" means \"tonight\" or \"last night\". You can tell which one it is from the context of the sentence. \"Jeg sov dårligt i nat\" (I slept badly last night) is about the night just gone. \"Jeg sover hos Anna i nat\" (I am sleeping at Anna's tonight) is about the night to come.",
+  "forms": [
+   {
+    "da": "i nat",
+    "en": "tonight / last night"
+   },
+   {
+    "da": "Jeg sover godt i nat.",
+    "en": "I will sleep well tonight."
+   },
+   {
+    "da": "Jeg sov dårligt i nat.",
+    "en": "I slept badly last night."
+   }
+  ],
+  "related": [
+   {
+    "da": "i aften",
+    "en": "this evening"
+   },
+   {
+    "da": "i aftes",
+    "en": "last night (evening)"
+   },
+   {
+    "da": "om natten",
+    "en": "at night"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har sovet godt **i nat**.",
+   "en": "I slept well last night."
+  }
+ },
+ "i nærheden": {
+  "file": "i.json",
+  "explanation": "\"I nærheden\" means \"nearby\". To say near what, add \"af\" (of): \"i nærheden af banegården\" (near the train station).",
+  "forms": [
+   {
+    "da": "i nærheden",
+    "en": "nearby"
+   },
+   {
+    "da": "i nærheden af stationen",
+    "en": "near the station"
+   },
+   {
+    "da": "Er der en butik i nærheden?",
+    "en": "Is there a store nearby?"
+   }
+  ],
+  "related": [
+   {
+    "da": "tæt på",
+    "en": "close to"
+   },
+   {
+    "da": "langt væk",
+    "en": "far away"
+   },
+   {
+    "da": "lige ved",
+    "en": "right next to"
+   },
+   {
+    "da": "nær",
+    "en": "near"
+   }
+  ],
+  "sentence": {
+   "da": "Er der en bank **i nærheden**?",
+   "en": "Is there a bank nearby?"
+  }
+ },
+ "i og med": {
+  "file": "i.json",
+  "explanation": "\"I og med\" means \"since\" or \"given that\". It gives a reason that is already a known fact. It is nearly always followed by \"at\" (that): \"I og med at det regner, bliver vi hjemme\" (Since it is raining, we stay home).",
+  "forms": [
+   {
+    "da": "i og med at det er søndag",
+    "en": "since it is Sunday"
+   },
+   {
+    "da": "i og med at han er syg",
+    "en": "given that he is sick"
+   },
+   {
+    "da": "i og med at vi bor her",
+    "en": "since we live here"
+   }
+  ],
+  "related": [
+   {
+    "da": "fordi",
+    "en": "because"
+   },
+   {
+    "da": "eftersom",
+    "en": "seeing that"
+   },
+   {
+    "da": "på grund af",
+    "en": "because of"
+   },
+   {
+    "da": "derfor",
+    "en": "therefore"
+   }
+  ],
+  "sentence": {
+   "da": "**I og med** at vi bor tæt på, cykler vi til arbejde.",
+   "en": "Since we live close by, we bike to work."
+  }
+ },
+ "i orden": {
+  "file": "i.json",
+  "explanation": "\"I orden\" means \"all right\" or \"in order\". \"Det er i orden\" (That is all right) can answer an apology, like saying no problem. \"Er alt i orden?\" (Is everything all right?) checks that nothing is wrong.",
+  "forms": [
+   {
+    "da": "Det er i orden.",
+    "en": "That's all right."
+   },
+   {
+    "da": "Er alt i orden?",
+    "en": "Is everything all right?"
+   },
+   {
+    "da": "Alt er i orden.",
+    "en": "Everything is in order."
+   }
+  ],
+  "related": [
+   {
+    "da": "fint",
+    "en": "fine"
+   },
+   {
+    "da": "ingen problemer",
+    "en": "no problem"
+   },
+   {
+    "da": "okay",
+    "en": "okay"
+   }
+  ],
+  "sentence": {
+   "da": "Alt er **i orden**.",
+   "en": "Everything is all right."
+  }
+ },
+ "i overmorgen": {
+  "file": "i.json",
+  "explanation": "\"I overmorgen\" means \"the day after tomorrow\". Count forward: \"i dag\" (today), \"i morgen\" (tomorrow), \"i overmorgen\".",
+  "forms": [
+   {
+    "da": "i overmorgen",
+    "en": "the day after tomorrow"
+   },
+   {
+    "da": "Vi ses i overmorgen.",
+    "en": "See you the day after tomorrow."
+   },
+   {
+    "da": "Jeg rejser i overmorgen.",
+    "en": "I am leaving the day after tomorrow."
+   }
+  ],
+  "related": [
+   {
+    "da": "i forgårs",
+    "en": "the day before yesterday"
+   },
+   {
+    "da": "i går",
+    "en": "yesterday"
+   },
+   {
+    "da": "om to dage",
+    "en": "in two days"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ses **i overmorgen**.",
+   "en": "See you the day after tomorrow."
+  }
+ },
+ "i princippet": {
+  "file": "i.json",
+  "explanation": "\"I princippet\" means \"in principle\" and says something is true on paper, while real life may be different. That is why \"men\" (but) often follows it.",
+  "forms": [
+   {
+    "da": "i princippet",
+    "en": "in principle"
+   },
+   {
+    "da": "I princippet er det muligt.",
+    "en": "In principle it is possible."
+   },
+   {
+    "da": "I princippet har du ret.",
+    "en": "In principle you are right."
+   }
+  ],
+  "related": [
+   {
+    "da": "i teorien",
+    "en": "in theory"
+   },
+   {
+    "da": "i praksis",
+    "en": "in practice"
+   },
+   {
+    "da": "principielt",
+    "en": "in principle"
+   },
+   {
+    "da": "et princip",
+    "en": "a principle"
+   }
+  ],
+  "sentence": {
+   "da": "**I princippet** kan alle komme, men der er kun ti pladser.",
+   "en": "In principle everyone can come, but there are only ten places."
+  }
+ },
+ "i sidste ende": {
+  "file": "i.json",
+  "explanation": "\"I sidste ende\" means \"in the end\" or \"ultimately\" and says what decides things after everything else is considered: \"Jeg hører på alle, men i sidste ende bestemmer jeg selv\" (I listen to everyone, but in the end I decide myself). For the last step in a series, use \"til sidst\" (at the very end).",
+  "forms": [
+   {
+    "da": "i sidste ende",
+    "en": "in the end"
+   },
+   {
+    "da": "I sidste ende bestemmer du",
+    "en": "In the end, you decide"
+   },
+   {
+    "da": "I sidste ende handler det om penge",
+    "en": "In the end, it is about money"
+   }
+  ],
+  "related": [
+   {
+    "da": "alt i alt",
+    "en": "all in all"
+   },
+   {
+    "da": "i første omgang",
+    "en": "at first"
+   },
+   {
+    "da": "endelig",
+    "en": "finally"
+   },
+   {
+    "da": "i det lange løb",
+    "en": "in the long run"
+   }
+  ],
+  "sentence": {
+   "da": "**I sidste ende** er det dig, der skal vælge.",
+   "en": "In the end, it is you who has to choose."
+  }
+ },
+ "i skole": {
+  "file": "i.json",
+  "explanation": "\"I skole\" means \"in school\" or \"at school\", as a pupil with lessons. It covers being there and heading there: \"Jeg skal i skole\" (I am off to school).",
+  "forms": [
+   {
+    "da": "i skole",
+    "en": "in school"
+   },
+   {
+    "da": "Jeg er i skole.",
+    "en": "I am in school."
+   },
+   {
+    "da": "Børnene er i skole.",
+    "en": "The children are in school."
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå i skole",
+    "en": "to go to school"
+   },
+   {
+    "da": "i børnehave",
+    "en": "in kindergarten"
+   },
+   {
+    "da": "på arbejde",
+    "en": "at work"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene er **i skole** i dag.",
+   "en": "The children are in school today."
+  }
+ },
+ "i stedet": {
+  "file": "i.json",
+  "explanation": "\"I stedet\" means \"instead\" and can stand alone at the end. To say instead of what, use \"i stedet for\" (instead of): \"Jeg vil have te i stedet for kaffe\" (I want tea instead of coffee).",
+  "forms": [
+   {
+    "da": "Jeg drikker te i stedet",
+    "en": "I drink tea instead"
+   },
+   {
+    "da": "Kan vi gå i stedet?",
+    "en": "Can we walk instead?"
+   },
+   {
+    "da": "Hun kom i stedet",
+    "en": "She came instead"
+   }
+  ],
+  "related": [
+   {
+    "da": "et alternativ",
+    "en": "an alternative"
+   },
+   {
+    "da": "at erstatte",
+    "en": "to replace"
+   },
+   {
+    "da": "at bytte",
+    "en": "to swap"
+   },
+   {
+    "da": "snarere",
+    "en": "rather"
+   }
+  ],
+  "sentence": {
+   "da": "Det regner, men vi går i biografen **i stedet**.",
+   "en": "It is raining, but we go to the movies instead."
+  }
+ },
+ "i stedet for": {
+  "file": "i.json",
+  "explanation": "\"I stedet for\" means \"instead of\": \"Jeg vil have te i stedet for kaffe\" (I want tea instead of coffee). To say instead of doing something, add \"at\" (to) before the action word, and English uses -ing: \"i stedet for at vente\" (instead of waiting).",
+  "forms": [
+   {
+    "da": "i stedet for kaffe",
+    "en": "instead of coffee"
+   },
+   {
+    "da": "i stedet for mig",
+    "en": "instead of me"
+   },
+   {
+    "da": "i stedet for at gå",
+    "en": "instead of walking"
+   }
+  ],
+  "related": [
+   {
+    "da": "at erstatte",
+    "en": "to replace"
+   },
+   {
+    "da": "et alternativ",
+    "en": "an alternative"
+   },
+   {
+    "da": "snarere end",
+    "en": "rather than"
+   },
+   {
+    "da": "at bytte",
+    "en": "to swap"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager toget **i stedet for** bilen.",
+   "en": "I take the train instead of the car."
+  }
+ },
+ "i stykker": {
+  "file": "i.json",
+  "explanation": "\"I stykker\" means \"broken\" (literally, \"in pieces\"). You say it about something that has fallen apart or stopped working, with \"er\" (is): \"Min cykel er i stykker\" (My bike is broken).",
+  "forms": [
+   {
+    "da": "Glasset er i stykker.",
+    "en": "The glass is broken."
+   },
+   {
+    "da": "Min telefon er i stykker.",
+    "en": "My phone is broken."
+   },
+   {
+    "da": "Hvad er i stykker?",
+    "en": "What is broken?"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå i stykker",
+    "en": "to break"
+   },
+   {
+    "da": "ødelagt",
+    "en": "ruined / broken"
+   },
+   {
+    "da": "hel",
+    "en": "whole / unbroken"
+   },
+   {
+    "da": "et stykke",
+    "en": "a piece"
+   }
+  ],
+  "sentence": {
+   "da": "Glasset faldt og er nu **i stykker**.",
+   "en": "The glass fell and is now broken."
+  }
+ },
+ "i tide": {
+  "file": "i.json",
+  "explanation": "\"I tide\" means \"in time\", early enough for something to happen. For arriving at exactly the agreed time, say \"til tiden\" (on time): \"Toget kom til tiden\" (The train came on time).",
+  "forms": [
+   {
+    "da": "Vi kom i tide",
+    "en": "We got there in time"
+   },
+   {
+    "da": "Jeg nåede toget i tide",
+    "en": "I made the train in time"
+   },
+   {
+    "da": "Kom i tide!",
+    "en": "Be there in time!"
+   }
+  ],
+  "related": [
+   {
+    "da": "for sent",
+    "en": "too late"
+   },
+   {
+    "da": "tidlig",
+    "en": "early"
+   },
+   {
+    "da": "i god tid",
+    "en": "in good time"
+   },
+   {
+    "da": "at komme for tidligt",
+    "en": "to come too early"
+   }
+  ],
+  "sentence": {
+   "da": "Heldigvis kom jeg **i tide** til toget.",
+   "en": "Luckily, I got to the train in time."
+  }
+ },
+ "i tilfælde af": {
+  "file": "i.json",
+  "explanation": "\"I tilfælde af\" means \"in case of\": \"i tilfælde af brand\" (in case of fire). To follow it with a whole sentence, add \"at\" (that): \"i tilfælde af at det regner\" (in case it rains).",
+  "forms": [
+   {
+    "da": "i tilfælde af sygdom",
+    "en": "in case of illness"
+   },
+   {
+    "da": "i tilfælde af regn",
+    "en": "in case of rain"
+   },
+   {
+    "da": "i tilfælde af nødsituation",
+    "en": "in case of emergency"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvis",
+    "en": "if"
+   },
+   {
+    "da": "for en sikkerheds skyld",
+    "en": "just in case"
+   },
+   {
+    "da": "i så fald",
+    "en": "in that case"
+   },
+   {
+    "da": "i alle tilfælde",
+    "en": "in any case"
+   }
+  ],
+  "sentence": {
+   "da": "Ring til mig **i tilfælde af** problemer.",
+   "en": "Call me in case of problems."
+  }
+ },
+ "i udlandet": {
+  "file": "i.json",
+  "explanation": "\"I udlandet\" means \"abroad\", in another country. The small word in front shows the direction: \"i\" (in) for being there, \"til\" (to) for going there, \"fra\" (from) for coming from there. \"Jeg bor i udlandet\" (I live abroad), \"Jeg rejser til udlandet\" (I am traveling abroad), \"Han kommer fra udlandet\" (He comes from abroad).",
+  "forms": [
+   {
+    "da": "Jeg bor i udlandet.",
+    "en": "I live abroad."
+   },
+   {
+    "da": "rejse til udlandet",
+    "en": "to travel abroad"
+   },
+   {
+    "da": "fra udlandet",
+    "en": "from abroad"
+   }
+  ],
+  "related": [
+   {
+    "da": "et land",
+    "en": "a country"
+   },
+   {
+    "da": "en udlænding",
+    "en": "a foreigner"
+   },
+   {
+    "da": "udenlandsk",
+    "en": "foreign"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster bor **i udlandet**.",
+   "en": "My sister lives abroad."
+  }
+ },
+ "i virkeligheden": {
+  "file": "i.json",
+  "explanation": "\"I virkeligheden\" means \"in reality\" or \"actually\" and is used when the truth differs from how things look: \"Det ser nemt ud, men i virkeligheden er det svært\" (It looks easy, but in reality it is hard).",
+  "forms": [
+   {
+    "da": "i virkeligheden",
+    "en": "in reality"
+   },
+   {
+    "da": "I virkeligheden er det svært.",
+    "en": "In reality it is hard."
+   },
+   {
+    "da": "Hvad skete der i virkeligheden?",
+    "en": "What actually happened?"
+   }
+  ],
+  "related": [
+   {
+    "da": "faktisk",
+    "en": "in fact"
+   },
+   {
+    "da": "egentlig",
+    "en": "actually"
+   },
+   {
+    "da": "i teorien",
+    "en": "in theory"
+   },
+   {
+    "da": "rent faktisk",
+    "en": "as a matter of fact"
+   }
+  ],
+  "sentence": {
+   "da": "Han virker sur, men **i virkeligheden** er han meget sød.",
+   "en": "He seems grumpy, but in reality he is very nice."
+  }
+ },
+ "i weekenden": {
+  "file": "i.json",
+  "explanation": "\"I weekenden\" means \"this weekend\" or \"on the weekend\" and has three uses. For the coming weekend: \"Vi skal i biografen i weekenden\" (We are going to the movies this weekend). For the last one: \"Jeg var i Aarhus i weekenden\" (I was in Aarhus last weekend). For every weekend: \"Jeg sover længe i weekenden\" (I sleep late on weekends).",
+  "forms": [
+   {
+    "da": "i weekenden",
+    "en": "this weekend / on the weekend"
+   },
+   {
+    "da": "Hvad skal du i weekenden?",
+    "en": "What are you doing this weekend?"
+   },
+   {
+    "da": "Vi ses i weekenden.",
+    "en": "See you this weekend."
+   }
+  ],
+  "related": [
+   {
+    "da": "lørdag",
+    "en": "Saturday"
+   },
+   {
+    "da": "søndag",
+    "en": "Sunday"
+   },
+   {
+    "da": "fredag",
+    "en": "Friday"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg besøger min familie **i weekenden**.",
+   "en": "I am visiting my family this weekend."
+  }
+ },
+ "i år": {
+  "file": "i.json",
+  "explanation": "\"I år\" means \"this year\", the year we are in now. For something that repeats every year, say \"hvert år\" (every year): \"Vi rejser hvert år\" (We travel every year).",
+  "forms": [
+   {
+    "da": "i år",
+    "en": "this year"
+   },
+   {
+    "da": "Jeg rejser i år.",
+    "en": "I am traveling this year."
+   },
+   {
+    "da": "Det er varmt i år.",
+    "en": "It is warm this year."
+   }
+  ],
+  "related": [
+   {
+    "da": "sidste år",
+    "en": "last year"
+   },
+   {
+    "da": "næste år",
+    "en": "next year"
+   },
+   {
+    "da": "i dag",
+    "en": "today"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal på ferie **i år**.",
+   "en": "We are going on vacation this year."
+  }
+ },
+ "i øvrigt": {
+  "file": "i.json",
+  "explanation": "\"I øvrigt\" means \"by the way\" and \"moreover\". It adds a side remark or one more point and usually sits right after the verb: \"Bogen er god. Den er i øvrigt billig.\" (The book is good. It is also cheap, by the way.)",
+  "forms": [
+   {
+    "da": "Han er i øvrigt dansker",
+    "en": "By the way, he is Danish"
+   },
+   {
+    "da": "Det er i øvrigt rigtigt",
+    "en": "That is also true, by the way"
+   }
+  ],
+  "related": [
+   {
+    "da": "forresten",
+    "en": "by the way"
+   },
+   {
+    "da": "desuden",
+    "en": "besides"
+   },
+   {
+    "da": "endvidere",
+    "en": "furthermore"
+   },
+   {
+    "da": "øvrig",
+    "en": "remaining"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **i øvrigt** min bror.",
+   "en": "By the way, he is my brother."
+  }
+ },
+ "iblandt": {
+  "file": "i.json",
+  "explanation": "\"Iblandt\" means \"among\", inside a group. The shorter form \"blandt\" (among) is more common.",
+  "forms": [
+   {
+    "da": "iblandt os",
+    "en": "among us"
+   },
+   {
+    "da": "iblandt vennerne",
+    "en": "among the friends"
+   },
+   {
+    "da": "iblandt de bedste",
+    "en": "among the best"
+   }
+  ],
+  "related": [
+   {
+    "da": "imellem",
+    "en": "between"
+   },
+   {
+    "da": "midt i",
+    "en": "in the middle of"
+   },
+   {
+    "da": "en blanding",
+    "en": "a mix"
+   },
+   {
+    "da": "mellem",
+    "en": "between (two things)"
+   }
+  ],
+  "sentence": {
+   "da": "Min onkel er **iblandt** gæsterne til festen.",
+   "en": "My uncle is among the guests at the party."
+  }
+ },
+ "ideel": {
+  "file": "i.json",
+  "explanation": "\"Ideel\" means \"ideal\", the best possible for a certain purpose. The thing you aim for is \"et ideal\" (an ideal).",
+  "forms": [
+   {
+    "da": "en ideel løsning",
+    "en": "an ideal solution"
+   },
+   {
+    "da": "et ideelt sted",
+    "en": "an ideal place"
+   },
+   {
+    "da": "ideelle forhold",
+    "en": "ideal conditions"
+   }
+  ],
+  "related": [
+   {
+    "da": "perfekt",
+    "en": "perfect"
+   },
+   {
+    "da": "optimal",
+    "en": "optimal"
+   },
+   {
+    "da": "passende",
+    "en": "suitable"
+   },
+   {
+    "da": "bedst",
+    "en": "best"
+   }
+  ],
+  "sentence": {
+   "da": "En indhegnet have er en **ideel** legeplads for små børn.",
+   "en": "A fenced garden is an ideal playground for small children."
+  }
+ },
+ "identisk": {
+  "file": "i.json",
+  "explanation": "\"Identisk\" means \"identical\", exactly the same in every detail. To name the other item that is exactly the same, add \"med\" (with) after \"identisk\": \"Svaret er identisk med mit\" (The answer is identical to mine).",
+  "forms": [
+   {
+    "da": "en identisk kopi",
+    "en": "an identical copy"
+   },
+   {
+    "da": "et identisk svar",
+    "en": "an identical answer"
+   },
+   {
+    "da": "identiske tvillinger",
+    "en": "identical twins"
+   }
+  ],
+  "related": [
+   {
+    "da": "ens",
+    "en": "alike"
+   },
+   {
+    "da": "forskellig",
+    "en": "different"
+   },
+   {
+    "da": "lignende",
+    "en": "similar"
+   },
+   {
+    "da": "uens",
+    "en": "unlike each other"
+   }
+  ],
+  "sentence": {
+   "da": "Hans kopi af nøglen er **identisk** med originalen.",
+   "en": "His copy of the key is identical to the original."
+  }
+ },
+ "idet": {
+  "file": "i.json",
+  "explanation": "\"Idet\" means \"as\" or \"since\" and has two uses. For two things at the same moment, it means \"as\": \"Idet han gik ud, slukkede han lyset\" (As he went out, he turned off the light). For a reason, it means \"since\": \"Idet det regner, aflyser vi\" (Since it is raining, we cancel).",
+  "forms": [
+   {
+    "da": "idet han kom ind",
+    "en": "as he came in"
+   },
+   {
+    "da": "idet hun smilede",
+    "en": "as she smiled"
+   },
+   {
+    "da": "idet det blev mørkt",
+    "en": "as it got dark"
+   }
+  ],
+  "related": [
+   {
+    "da": "mens",
+    "en": "while"
+   },
+   {
+    "da": "da",
+    "en": "when"
+   },
+   {
+    "da": "fordi",
+    "en": "because"
+   },
+   {
+    "da": "i og med",
+    "en": "given that"
+   }
+  ],
+  "sentence": {
+   "da": "Han smilede, **idet** han åbnede døren.",
+   "en": "He smiled as he opened the door."
+  }
+ },
+ "idræt": {
+  "file": "i.json",
+  "explanation": "\"Idræt\" means \"PE\" or \"sports\". At school it is the gym class: \"Vi har idræt efter frokost\" (We have PE after lunch). Outside school it means sports as an activity: \"Hun elsker idræt\" (She loves sports).",
+  "forms": [
+   {
+    "da": "Vi har idræt i dag",
+    "en": "We have PE today"
+   },
+   {
+    "da": "Jeg elsker idræt",
+    "en": "I love sports"
+   },
+   {
+    "da": "en idrætslærer",
+    "en": "a PE teacher"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sport",
+    "en": "a sport"
+   },
+   {
+    "da": "gymnastik",
+    "en": "gymnastics"
+   },
+   {
+    "da": "en idrætshal",
+    "en": "a sports hall"
+   },
+   {
+    "da": "en idrætsmand",
+    "en": "an athlete"
+   }
+  ],
+  "sentence": {
+   "da": "Vi løber og spiller bold i **idræt**.",
+   "en": "We run and play ball in PE."
+  }
+ },
+ "ifølge": {
+  "file": "i.json",
+  "explanation": "\"Ifølge\" means \"according to\" and names where the information comes from: \"ifølge lægen\" (according to the doctor). For your own view, say \"efter min mening\" (in my opinion).",
+  "forms": [
+   {
+    "da": "ifølge avisen",
+    "en": "according to the paper"
+   },
+   {
+    "da": "ifølge loven",
+    "en": "according to the law"
+   },
+   {
+    "da": "ifølge mig",
+    "en": "according to me"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kilde",
+    "en": "a source"
+   },
+   {
+    "da": "angiveligt",
+    "en": "allegedly"
+   },
+   {
+    "da": "påstået",
+    "en": "claimed"
+   },
+   {
+    "da": "at hævde",
+    "en": "to claim"
+   }
+  ],
+  "sentence": {
+   "da": "**Ifølge** vejrudsigten bliver det koldt i morgen.",
+   "en": "According to the weather forecast, it will be cold tomorrow."
+  }
+ },
+ "igen": {
+  "file": "i.json",
+  "explanation": "\"Igen\" means \"again\" and usually comes at the end: \"Jeg kommer igen\" (I will come back). To say that one more person or thing is included, use \"også\" (too): \"Jeg kommer også\" (I am coming too).",
+  "forms": [
+   {
+    "da": "prøv igen",
+    "en": "try again"
+   },
+   {
+    "da": "vi ses igen",
+    "en": "we'll see each other again"
+   },
+   {
+    "da": "igen og igen",
+    "en": "again and again"
+   }
+  ],
+  "related": [
+   {
+    "da": "endnu en gang",
+    "en": "once more"
+   },
+   {
+    "da": "at gentage",
+    "en": "to repeat"
+   },
+   {
+    "da": "en gentagelse",
+    "en": "a repetition"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du sige det **igen**?",
+   "en": "Can you say that again?"
+  }
+ },
+ "igennem": {
+  "file": "i.json",
+  "explanation": "\"Igennem\" means \"through\", going from one side of something to the other. After a verb it can also mean \"from start to finish\": \"Jeg læste bogen igennem\" (I read the book all the way through).",
+  "forms": [
+   {
+    "da": "gå igennem skoven",
+    "en": "walk through the forest"
+   },
+   {
+    "da": "Jeg kører igennem byen.",
+    "en": "I drive through the town."
+   },
+   {
+    "da": "Læs det igennem.",
+    "en": "Read it through."
+   }
+  ],
+  "related": [
+   {
+    "da": "gennem",
+    "en": "through (short form)"
+   },
+   {
+    "da": "forbi",
+    "en": "past, by"
+   },
+   {
+    "da": "hen over",
+    "en": "across"
+   }
+  ],
+  "sentence": {
+   "da": "Vi går **igennem** parken.",
+   "en": "We walk through the park."
+  }
+ },
+ "ikke": {
+  "file": "i.json",
+  "explanation": "\"Ikke\" means \"not\" and goes right after words like \"er\" (is) and \"kan\" (can). It is not the answer no: that is \"nej\", as in \"Nej, jeg er ikke sulten\" (No, I am not hungry). Before a thing you do not have, Danish often uses \"ingen\" (no): \"Jeg har ingen penge\" (I have no money).",
+  "forms": [
+   {
+    "da": "Jeg ved det ikke.",
+    "en": "I do not know."
+   },
+   {
+    "da": "Det er ikke dyrt.",
+    "en": "It is not expensive."
+   },
+   {
+    "da": "Kommer du ikke?",
+    "en": "Aren't you coming?"
+   }
+  ],
+  "related": [
+   {
+    "da": "aldrig",
+    "en": "never"
+   },
+   {
+    "da": "ingenting",
+    "en": "nothing"
+   },
+   {
+    "da": "heller ikke",
+    "en": "neither / not either"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **ikke** sulten.",
+   "en": "I am not hungry."
+  }
+ },
+ "ikke desto mindre": {
+  "file": "i.json",
+  "explanation": "\"Ikke desto mindre\" means \"nevertheless\". It starts a statement that is still true despite what was just said: \"Det var dyrt. Ikke desto mindre købte vi det\" (It was expensive. Nevertheless, we bought it). In everyday speech, \"alligevel\" (anyway) is more common.",
+  "forms": [
+   {
+    "da": "ikke desto mindre",
+    "en": "nevertheless"
+   },
+   {
+    "da": "Ikke desto mindre kom han",
+    "en": "Nevertheless, he came"
+   },
+   {
+    "da": "men ikke desto mindre",
+    "en": "but nevertheless"
+   }
+  ],
+  "related": [
+   {
+    "da": "trods alt",
+    "en": "after all"
+   },
+   {
+    "da": "dog",
+    "en": "however"
+   },
+   {
+    "da": "men",
+    "en": "but"
+   },
+   {
+    "da": "på den anden side",
+    "en": "on the other hand"
+   }
+  ],
+  "sentence": {
+   "da": "Det regnede, men vi gik **ikke desto mindre** en tur.",
+   "en": "It rained, but we went for a walk nevertheless."
+  }
+ },
+ "ikke endnu": {
+  "file": "i.json",
+  "explanation": "\"Ikke endnu\" means \"not yet\" and answers a question like \"Are you ready?\" In a longer sentence \"endnu\" (yet) usually goes last: \"Jeg har ikke spist endnu\" (I have not eaten yet). Do not mix it up with \"ikke mere\" (not anymore), which says something has stopped: \"Jeg bor ikke her mere\" (I do not live here anymore).",
+  "forms": [
+   {
+    "da": "Ikke endnu.",
+    "en": "Not yet."
+   },
+   {
+    "da": "Jeg er ikke færdig endnu.",
+    "en": "I'm not finished yet."
+   },
+   {
+    "da": "Er du ikke klar endnu?",
+    "en": "Aren't you ready yet?"
+   }
+  ],
+  "related": [
+   {
+    "da": "allerede",
+    "en": "already"
+   },
+   {
+    "da": "ikke længere",
+    "en": "no longer"
+   },
+   {
+    "da": "stadig",
+    "en": "still"
+   }
+  ],
+  "sentence": {
+   "da": "Har du spist? – **Ikke endnu**.",
+   "en": "Have you eaten? – Not yet."
+  }
+ },
+ "ikke engang": {
+  "file": "i.json",
+  "explanation": "\"Ikke engang\" means \"not even\" and goes right before the surprising missing thing: \"Hun har ikke engang tid til en kop kaffe\" (She does not even have time for a cup of coffee).",
+  "forms": [
+   {
+    "da": "Ikke engang min bror kom.",
+    "en": "Not even my brother came."
+   },
+   {
+    "da": "Han sagde ikke engang tak.",
+    "en": "He did not even say thanks."
+   }
+  ],
+  "related": [
+   {
+    "da": "endda",
+    "en": "even"
+   },
+   {
+    "da": "selv",
+    "en": "even / self"
+   },
+   {
+    "da": "heller ikke",
+    "en": "not either"
+   },
+   {
+    "da": "slet ikke",
+    "en": "not at all"
+   }
+  ],
+  "sentence": {
+   "da": "Han har **ikke engang** en telefon.",
+   "en": "He does not even have a phone."
+  }
+ },
+ "ikke mere": {
+  "file": "i.json",
+  "explanation": "\"Ikke mere\" means \"no more\" or \"not anymore\". Use it when you have had enough, or when something has stopped. \"Ikke mere, tak\" (No more, thank you) is a polite way to refuse more food or drink.",
+  "forms": [
+   {
+    "da": "Ikke mere, tak.",
+    "en": "No more, thank you."
+   },
+   {
+    "da": "Jeg vil ikke mere.",
+    "en": "I don't want to anymore."
+   },
+   {
+    "da": "Han bor her ikke mere.",
+    "en": "He doesn't live here anymore."
+   }
+  ],
+  "related": [
+   {
+    "da": "ikke endnu",
+    "en": "not yet"
+   },
+   {
+    "da": "stadig",
+    "en": "still"
+   },
+   {
+    "da": "ikke længere",
+    "en": "no longer"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **ikke mere**, tak.",
+   "en": "I don't want any more, thank you."
+  }
+ },
+ "ild": {
+  "file": "i.json",
+  "explanation": "\"Ild\" means \"fire\" as in flames. Do not mix it up with \"en brand\" (a destructive fire), as in \"Der er brand i huset\" (The house is on fire), or \"et bål\" (a campfire), as in \"Vi sidder ved et bål\" (We sit by a campfire).",
+  "forms": [
+   {
+    "da": "ild",
+    "en": "fire"
+   },
+   {
+    "da": "ilden",
+    "en": "the fire"
+   },
+   {
+    "da": "ild og vand",
+    "en": "fire and water"
+   }
+  ],
+  "related": [
+   {
+    "da": "en flamme",
+    "en": "a flame"
+   },
+   {
+    "da": "at brænde",
+    "en": "to burn"
+   },
+   {
+    "da": "en gnist",
+    "en": "a spark"
+   },
+   {
+    "da": "røg",
+    "en": "smoke"
+   }
+  ],
+  "sentence": {
+   "da": "Man må ikke lege med **ild**.",
+   "en": "You must not play with fire."
+  }
+ },
+ "ilt": {
+  "file": "i.json",
+  "explanation": "\"Ilt\" means \"oxygen\", the part of the air that people and animals need in order to live.",
+  "forms": [
+   {
+    "da": "ilt",
+    "en": "oxygen"
+   },
+   {
+    "da": "ilten",
+    "en": "the oxygen"
+   },
+   {
+    "da": "ren ilt",
+    "en": "pure oxygen"
+   },
+   {
+    "da": "iltmangel",
+    "en": "lack of oxygen"
+   }
+  ],
+  "related": [
+   {
+    "da": "luft",
+    "en": "air"
+   },
+   {
+    "da": "en gas",
+    "en": "a gas"
+   },
+   {
+    "da": "kuldioxid",
+    "en": "carbon dioxide"
+   },
+   {
+    "da": "at trække vejret",
+    "en": "to breathe"
+   }
+  ],
+  "sentence": {
+   "da": "Bjergbestigere har brug for ekstra **ilt** højt oppe i bjergene.",
+   "en": "Mountain climbers need extra oxygen high up in the mountains."
+  }
+ },
+ "imellem": {
+  "file": "i.json",
+  "explanation": "\"Imellem\" means \"between\". In the phrase \"en gang imellem\" it means \"once in a while\". The shorter \"mellem\" (between) means the same and is more common.",
+  "forms": [
+   {
+    "da": "imellem os",
+    "en": "between us"
+   },
+   {
+    "da": "imellem to huse",
+    "en": "between two houses"
+   },
+   {
+    "da": "en gang imellem",
+    "en": "once in a while"
+   }
+  ],
+  "related": [
+   {
+    "da": "midt i",
+    "en": "in the middle of"
+   },
+   {
+    "da": "blandt",
+    "en": "among"
+   },
+   {
+    "da": "ved siden af",
+    "en": "next to"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sidder **imellem** Anna og Peter.",
+   "en": "I am sitting between Anna and Peter."
+  }
+ },
+ "imens": {
+  "file": "i.json",
+  "explanation": "\"Imens\" means \"while\", joining two things that happen together. It also means \"meanwhile\" between two sentences: \"Jeg laver mad. Imens dækker du bord\" (I am cooking. Meanwhile you set the table).",
+  "forms": [
+   {
+    "da": "Du læser, imens jeg laver mad",
+    "en": "You read while I cook"
+   },
+   {
+    "da": "Jeg venter imens",
+    "en": "I wait in the meantime"
+   },
+   {
+    "da": "Imens ser vi tv",
+    "en": "Meanwhile we watch TV"
+   }
+  ],
+  "related": [
+   {
+    "da": "mens",
+    "en": "while"
+   },
+   {
+    "da": "under",
+    "en": "during"
+   },
+   {
+    "da": "samtidig",
+    "en": "at the same time"
+   },
+   {
+    "da": "i mellemtiden",
+    "en": "in the meantime"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg laver mad, **imens** du dækker bord.",
+   "en": "I cook while you set the table."
+  }
+ },
+ "immunitet": {
+  "file": "i.json",
+  "explanation": "\"En immunitet\" means \"immunity\", the body's protection against a disease: \"Hun har immunitet mod influenza\" (She has immunity to the flu). It also means legal protection: \"diplomatisk immunitet\" (diplomatic immunity).",
+  "forms": [
+   {
+    "da": "en immunitet",
+    "en": "an immunity"
+   },
+   {
+    "da": "immuniteten",
+    "en": "the immunity"
+   },
+   {
+    "da": "immuniteter",
+    "en": "immunities"
+   },
+   {
+    "da": "immuniteterne",
+    "en": "the immunities"
+   }
+  ],
+  "related": [
+   {
+    "da": "et immunforsvar",
+    "en": "an immune system"
+   },
+   {
+    "da": "en vaccine",
+    "en": "a vaccine"
+   },
+   {
+    "da": "modstandskraft",
+    "en": "resistance"
+   },
+   {
+    "da": "en infektion",
+    "en": "an infection"
+   }
+  ],
+  "sentence": {
+   "da": "Efter vaccinen har børnene **immunitet** mod mæslinger.",
+   "en": "After the vaccine, the children have immunity to measles."
+  }
+ },
+ "imod": {
+  "file": "i.json",
+  "explanation": "\"Imod\" means \"against\" and \"toward\". Meaning \"against\": \"Vi spiller imod dem\" (We play against them). Meaning \"toward\": \"Hun gik imod døren\" (She walked toward the door).",
+  "forms": [
+   {
+    "da": "Jeg er imod det",
+    "en": "I am against it"
+   },
+   {
+    "da": "Det er imod reglerne",
+    "en": "It is against the rules"
+   },
+   {
+    "da": "Han kom imod mig",
+    "en": "He came toward me"
+   }
+  ],
+  "related": [
+   {
+    "da": "for",
+    "en": "for, in favor of"
+   },
+   {
+    "da": "med",
+    "en": "with"
+   },
+   {
+    "da": "modsat",
+    "en": "opposite"
+   },
+   {
+    "da": "en modstander",
+    "en": "an opponent"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **imod** den idé.",
+   "en": "I am against that idea."
+  }
+ },
+ "imponerende": {
+  "file": "i.json",
+  "explanation": "\"Imponerende\" means \"impressive\", for something that makes people admire the skill or effort behind it. The person who feels it is \"imponeret\" (impressed).",
+  "forms": [
+   {
+    "da": "en imponerende bygning",
+    "en": "an impressive building"
+   },
+   {
+    "da": "et imponerende resultat",
+    "en": "an impressive result"
+   },
+   {
+    "da": "imponerende ting",
+    "en": "impressive things"
+   }
+  ],
+  "related": [
+   {
+    "da": "at imponere",
+    "en": "to impress"
+   },
+   {
+    "da": "fantastisk",
+    "en": "fantastic"
+   },
+   {
+    "da": "storslået",
+    "en": "magnificent"
+   },
+   {
+    "da": "bemærkelsesværdig",
+    "en": "remarkable"
+   }
+  ],
+  "sentence": {
+   "da": "Du løb et maraton? Det er **imponerende**!",
+   "en": "You ran a marathon? That is impressive!"
+  }
+ },
+ "imponeret": {
+  "file": "i.json",
+  "explanation": "\"Imponeret\" means \"impressed\". Use \"over\" (about) for what impressed you: \"Jeg er meget imponeret over resultatet\" (I am very impressed with the result).",
+  "forms": [
+   {
+    "da": "en imponeret gæst",
+    "en": "an impressed guest"
+   },
+   {
+    "da": "et imponeret blik",
+    "en": "an impressed look"
+   },
+   {
+    "da": "imponerede tilskuere",
+    "en": "impressed spectators"
+   }
+  ],
+  "related": [
+   {
+    "da": "at imponere",
+    "en": "to impress"
+   },
+   {
+    "da": "imponerende",
+    "en": "impressive"
+   },
+   {
+    "da": "at beundre",
+    "en": "to admire"
+   },
+   {
+    "da": "forbløffet",
+    "en": "amazed"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren var **imponeret** over hendes arbejde.",
+   "en": "The teacher was impressed by her work."
+  }
+ },
+ "import": {
+  "file": "i.json",
+  "explanation": "\"En import\" means \"import\", goods that are bought abroad and brought into a country. The opposite is \"eksport\" (export).",
+  "forms": [
+   {
+    "da": "en import",
+    "en": "an import"
+   },
+   {
+    "da": "importen",
+    "en": "the import"
+   },
+   {
+    "da": "importer",
+    "en": "imports"
+   },
+   {
+    "da": "importerne",
+    "en": "the imports"
+   }
+  ],
+  "related": [
+   {
+    "da": "at indføre",
+    "en": "to bring in"
+   },
+   {
+    "da": "at importere",
+    "en": "to import"
+   },
+   {
+    "da": "en importør",
+    "en": "an importer"
+   },
+   {
+    "da": "en told",
+    "en": "a customs duty"
+   }
+  ],
+  "sentence": {
+   "da": "Danmark har stor **import** af frugt fra varme lande.",
+   "en": "Denmark has large imports of fruit from warm countries."
+  }
+ },
+ "impulsiv": {
+  "file": "i.json",
+  "explanation": "\"Impulsiv\" means \"impulsive\", acting on a sudden urge without thinking first. The urge is \"en impuls\" (an impulse), and \"et impulskøb\" (an impulse buy) is something you buy without planning.",
+  "forms": [
+   {
+    "da": "en impulsiv beslutning",
+    "en": "an impulsive decision"
+   },
+   {
+    "da": "et impulsivt køb",
+    "en": "an impulsive purchase"
+   },
+   {
+    "da": "impulsive mennesker",
+    "en": "impulsive people"
+   }
+  ],
+  "related": [
+   {
+    "da": "spontan",
+    "en": "spontaneous"
+   },
+   {
+    "da": "uovervejet",
+    "en": "ill-considered"
+   },
+   {
+    "da": "overvejet",
+    "en": "well thought out"
+   },
+   {
+    "da": "forsigtig",
+    "en": "careful"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **impulsiv** og køber ting uden at tænke over det.",
+   "en": "He is impulsive and buys things without thinking about it."
+  }
+ },
+ "ind": {
+  "file": "i.json",
+  "explanation": "\"Ind\" means \"in\" and is used for moving to the inside: \"Kom ind!\" (Come in!). For being inside already, use \"inde\" (inside): \"Han er inde\" (He is inside). \"Ind i\" means \"into\": \"Hun løber ind i butikken\" (She runs into the store).",
+  "forms": [
+   {
+    "da": "Kom ind!",
+    "en": "Come in!"
+   },
+   {
+    "da": "Han går ind i huset.",
+    "en": "He goes into the house."
+   },
+   {
+    "da": "Gå ind.",
+    "en": "Go in."
+   }
+  ],
+  "related": [
+   {
+    "da": "ud",
+    "en": "out"
+   },
+   {
+    "da": "indenfor",
+    "en": "indoors"
+   },
+   {
+    "da": "en indgang",
+    "en": "an entrance"
+   }
+  ],
+  "sentence": {
+   "da": "Kom **ind** i huset!",
+   "en": "Come into the house!"
+  }
+ },
+ "indadvendt": {
+  "file": "i.json",
+  "explanation": "\"Indadvendt\" means \"introverted\", someone who keeps to themselves and needs time alone. It is built from indad (inward) and vendt (turned), so it means \"turned inward\". The opposite is \"udadvendt\" (outgoing).",
+  "forms": [
+   {
+    "da": "en indadvendt dreng",
+    "en": "an introverted boy"
+   },
+   {
+    "da": "et indadvendt barn",
+    "en": "an introverted child"
+   },
+   {
+    "da": "indadvendte børn",
+    "en": "introverted children"
+   }
+  ],
+  "related": [
+   {
+    "da": "genert",
+    "en": "shy"
+   },
+   {
+    "da": "stille",
+    "en": "quiet"
+   },
+   {
+    "da": "reserveret",
+    "en": "reserved"
+   },
+   {
+    "da": "sky",
+    "en": "timid"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **indadvendt** og bliver hellere hjemme end at gå til fest.",
+   "en": "She is introverted and would rather stay home than go to a party."
+  }
+ },
+ "indbydende": {
+  "file": "i.json",
+  "explanation": "\"Indbydende\" means \"inviting\", something that looks so pleasant that you want to come in or try it. It is used about anything that looks welcoming, such as rooms, food and water: \"Vandet så indbydende ud\" (The water looked inviting).",
+  "forms": [
+   {
+    "da": "en indbydende stue",
+    "en": "an inviting living room"
+   },
+   {
+    "da": "et indbydende tilbud",
+    "en": "an inviting offer"
+   },
+   {
+    "da": "indbydende retter",
+    "en": "inviting dishes"
+   }
+  ],
+  "related": [
+   {
+    "da": "tiltalende",
+    "en": "appealing"
+   },
+   {
+    "da": "hyggelig",
+    "en": "cozy"
+   },
+   {
+    "da": "imødekommende",
+    "en": "welcoming"
+   },
+   {
+    "da": "afvisende",
+    "en": "off-putting"
+   }
+  ],
+  "sentence": {
+   "da": "Den nybagte kage på bordet ser **indbydende** ud.",
+   "en": "The freshly baked cake on the table looks inviting."
+  }
+ },
+ "indefra": {
+  "file": "i.json",
+  "explanation": "\"Indefra\" means \"from the inside\". It tells where something comes from or is done: \"Døren er låst indefra\" (The door is locked from the inside). The opposite is \"udefra\" (from the outside).",
+  "forms": [
+   {
+    "da": "låst indefra",
+    "en": "locked from the inside"
+   },
+   {
+    "da": "set indefra",
+    "en": "seen from the inside"
+   },
+   {
+    "da": "Lyset kommer indefra",
+    "en": "The light comes from inside"
+   }
+  ],
+  "related": [
+   {
+    "da": "ovenfra",
+    "en": "from above"
+   },
+   {
+    "da": "nedefra",
+    "en": "from below"
+   },
+   {
+    "da": "indad",
+    "en": "inward"
+   },
+   {
+    "da": "indendørs",
+    "en": "indoors"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kunne høre musik **indefra**.",
+   "en": "We could hear music from inside."
+  }
+ },
+ "inden": {
+  "file": "i.json",
+  "explanation": "\"Inden\" means \"before\" and links an action to one that comes after it. Do not mix it up with \"indenfor\" (inside), which is about a place: \"Vi er indenfor\" (We are inside).",
+  "forms": [
+   {
+    "da": "inden jeg går",
+    "en": "before I go"
+   },
+   {
+    "da": "inden da",
+    "en": "before then"
+   },
+   {
+    "da": "inden for en time",
+    "en": "within an hour"
+   }
+  ],
+  "related": [
+   {
+    "da": "før",
+    "en": "before"
+   },
+   {
+    "da": "efter",
+    "en": "after"
+   },
+   {
+    "da": "indtil",
+    "en": "until"
+   }
+  ],
+  "sentence": {
+   "da": "Ring til mig **inden** du kommer.",
+   "en": "Call me before you come."
+  }
+ },
+ "indenfor": {
+  "file": "i.json",
+  "explanation": "\"Indenfor\" means \"inside\". You say it at the door to invite someone in: \"Kom indenfor!\" (Come in!). With a time it means \"within\": \"indenfor en uge\" (within a week).",
+  "forms": [
+   {
+    "da": "kom indenfor!",
+    "en": "come in!"
+   },
+   {
+    "da": "indenfor i huset",
+    "en": "inside the house"
+   },
+   {
+    "da": "indenfor en time",
+    "en": "within an hour"
+   }
+  ],
+  "related": [
+   {
+    "da": "udenfor",
+    "en": "outside"
+   },
+   {
+    "da": "inde",
+    "en": "inside"
+   },
+   {
+    "da": "ind",
+    "en": "in (movement)"
+   },
+   {
+    "da": "inden",
+    "en": "before"
+   }
+  ],
+  "sentence": {
+   "da": "Kom **indenfor** i huset!",
+   "en": "Come inside the house!"
+  }
+ },
+ "indeni": {
+  "file": "i.json",
+  "explanation": "\"Indeni\" means \"inside\" and tells what is inside something: \"Æblet er råddent indeni\" (The apple is rotten inside). It can also be about feelings: \"Jeg er glad indeni\" (I am happy inside).",
+  "forms": [
+   {
+    "da": "Hvad er der indeni?",
+    "en": "What is inside?"
+   },
+   {
+    "da": "Pakken er tom indeni",
+    "en": "The package is empty inside"
+   },
+   {
+    "da": "Jeg er nervøs indeni",
+    "en": "I am nervous inside"
+   }
+  ],
+  "related": [
+   {
+    "da": "udenpå",
+    "en": "on the outside"
+   },
+   {
+    "da": "inde",
+    "en": "inside / indoors"
+   },
+   {
+    "da": "indenfor",
+    "en": "inside"
+   },
+   {
+    "da": "udenfor",
+    "en": "outside"
+   }
+  ],
+  "sentence": {
+   "da": "Kassen ser tom ud, men der er noget **indeni**.",
+   "en": "The box looks empty, but there is something inside."
+  }
+ },
+ "indenlandsk": {
+  "file": "i.json",
+  "explanation": "\"Indenlandsk\" means \"domestic\", something that stays within one country, such as flights and goods. For flights, Danes also say \"en indenrigsflyvning\" (a domestic flight).",
+  "forms": [
+   {
+    "da": "indenlandsk produktion",
+    "en": "domestic production"
+   },
+   {
+    "da": "et indenlandsk marked",
+    "en": "a domestic market"
+   },
+   {
+    "da": "indenlandske varer",
+    "en": "domestic goods"
+   }
+  ],
+  "related": [
+   {
+    "da": "udenlandsk",
+    "en": "foreign"
+   },
+   {
+    "da": "international",
+    "en": "international"
+   },
+   {
+    "da": "national",
+    "en": "national, of the whole country"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **indenlandsk** flyvning fra København til Aalborg.",
+   "en": "It is a domestic flight from Copenhagen to Aalborg."
+  }
+ },
+ "inderst": {
+  "file": "i.json",
+  "explanation": "\"Inderst\" means \"innermost\", the place furthest in. In \"inderst inde\" it means \"deep down\" and is about true feelings people may hide: \"Inderst inde er han bange\" (Deep down he is afraid).",
+  "forms": [
+   {
+    "da": "inderst i skabet",
+    "en": "at the very back of the closet"
+   },
+   {
+    "da": "det inderste rum",
+    "en": "the innermost room"
+   },
+   {
+    "da": "inderst i hjertet",
+    "en": "deep in the heart"
+   }
+  ],
+  "related": [
+   {
+    "da": "yderst",
+    "en": "outermost"
+   },
+   {
+    "da": "midterst",
+    "en": "in the very middle"
+   },
+   {
+    "da": "indvendig",
+    "en": "on the inside"
+   }
+  ],
+  "sentence": {
+   "da": "Passet ligger **inderst** i skuffen, bag alle papirerne.",
+   "en": "The passport is at the very back of the drawer, behind all the papers."
+  }
+ },
+ "indflydelsesrig": {
+  "file": "i.json",
+  "explanation": "\"Indflydelsesrig\" means \"influential\", having the power to change what others think or decide. It is built from indflydelse (influence) and rig (rich), so it means \"rich in influence\". The phrase \"at have indflydelse på\" means \"to have influence on\".",
+  "forms": [
+   {
+    "da": "en indflydelsesrig politiker",
+    "en": "an influential politician"
+   },
+   {
+    "da": "et indflydelsesrigt firma",
+    "en": "an influential company"
+   },
+   {
+    "da": "indflydelsesrige mennesker",
+    "en": "influential people"
+   }
+  ],
+  "related": [
+   {
+    "da": "magtfuld",
+    "en": "powerful"
+   },
+   {
+    "da": "betydningsfuld",
+    "en": "significant"
+   },
+   {
+    "da": "at påvirke",
+    "en": "to influence"
+   },
+   {
+    "da": "ubetydelig",
+    "en": "unimportant"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er en **indflydelsesrig** leder, og alle lytter til hende.",
+   "en": "She is an influential leader, and everyone listens to her."
+  }
+ },
+ "indfødsret": {
+  "file": "i.json",
+  "explanation": "\"En indfødsret\" means \"a citizenship\", the legal right to belong to a country as one of its own people. It is the formal word in law and news; in everyday talk people say \"statsborgerskab\" (citizenship).",
+  "forms": [
+   {
+    "da": "en indfødsret",
+    "en": "a citizenship"
+   },
+   {
+    "da": "indfødsretten",
+    "en": "the citizenship"
+   },
+   {
+    "da": "at få indfødsret",
+    "en": "to get citizenship"
+   }
+  ],
+  "related": [
+   {
+    "da": "en statsborger",
+    "en": "a citizen"
+   },
+   {
+    "da": "en udlænding",
+    "en": "a foreigner"
+   },
+   {
+    "da": "indfødt",
+    "en": "native"
+   },
+   {
+    "da": "et pas",
+    "en": "a passport"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal bo i landet i mange år for at få **indfødsret**.",
+   "en": "You have to live in the country for many years to get citizenship."
+  }
+ },
+ "indfødt": {
+  "file": "i.json",
+  "explanation": "\"Indfødt\" means \"native\", for a person born in a given place: \"en indfødt københavner\" (a native Copenhagener). It is about where someone was born, not where they live now.",
+  "forms": [
+   {
+    "da": "en indfødt jyde",
+    "en": "a native Jutlander"
+   },
+   {
+    "da": "et indfødt folk",
+    "en": "a native people"
+   },
+   {
+    "da": "indfødte nordmænd",
+    "en": "native Norwegians"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tilflytter",
+    "en": "a newcomer"
+   },
+   {
+    "da": "en indbygger",
+    "en": "an inhabitant"
+   },
+   {
+    "da": "udenlandsk",
+    "en": "foreign"
+   },
+   {
+    "da": "et fødested",
+    "en": "a birthplace"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **indfødt** dansker og har boet her hele livet.",
+   "en": "She is a native Dane and has lived here her whole life."
+  }
+ },
+ "indhold": {
+  "file": "i.json",
+  "explanation": "\"Et indhold\" means \"content\", what something holds, like the things in a box or the information in a text.",
+  "forms": [
+   {
+    "da": "indholdet",
+    "en": "the content"
+   },
+   {
+    "da": "indholdet af bogen",
+    "en": "the content of the book"
+   },
+   {
+    "da": "indhold og form",
+    "en": "content and form"
+   }
+  ],
+  "related": [
+   {
+    "da": "en indholdsfortegnelse",
+    "en": "a table of contents"
+   },
+   {
+    "da": "at indeholde",
+    "en": "to contain"
+   },
+   {
+    "da": "en beholder",
+    "en": "a container"
+   }
+  ],
+  "sentence": {
+   "da": "Alt **indhold** på siden er gratis at læse.",
+   "en": "All content on the page is free to read."
+  }
+ },
+ "indien": {
+  "file": "i.json",
+  "explanation": "\"Indien\" means \"India\". A person from India is \"en inder\" (an Indian); do not mix it up with \"en indianer\" (a Native American).",
+  "forms": [
+   {
+    "da": "Indien",
+    "en": "India"
+   },
+   {
+    "da": "i Indien",
+    "en": "in India"
+   },
+   {
+    "da": "til Indien",
+    "en": "to India"
+   }
+  ],
+  "related": [
+   {
+    "da": "indisk",
+    "en": "Indian"
+   },
+   {
+    "da": "Det Indiske Ocean",
+    "en": "the Indian Ocean"
+   },
+   {
+    "da": "hindi",
+    "en": "Hindi"
+   }
+  ],
+  "sentence": {
+   "da": "**Indien** er et stort land.",
+   "en": "India is a big country."
+  }
+ },
+ "indimellem": {
+  "file": "i.json",
+  "explanation": "\"Indimellem\" means \"now and then\", for things that happen from time to time but not on a fixed schedule.",
+  "forms": [
+   {
+    "da": "Jeg løber indimellem",
+    "en": "I run now and then"
+   },
+   {
+    "da": "Vi ses indimellem",
+    "en": "We see each other now and then"
+   },
+   {
+    "da": "Det sker indimellem",
+    "en": "It happens now and then"
+   }
+  ],
+  "related": [
+   {
+    "da": "ofte",
+    "en": "often"
+   },
+   {
+    "da": "sjældent",
+    "en": "rarely"
+   },
+   {
+    "da": "nogle gange",
+    "en": "sometimes"
+   },
+   {
+    "da": "engang imellem",
+    "en": "once in a while"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager **indimellem** på café, når jeg har fri.",
+   "en": "I go to a cafe now and then when I am off."
+  }
+ },
+ "indisk": {
+  "file": "i.json",
+  "explanation": "\"Indisk\" means \"Indian\", from \"Indien\" (India). It is written with a lowercase letter (\"indisk\"), while English \"Indian\" has an uppercase letter. Do not mix it up with \"en indianer\" (a Native American).",
+  "forms": [
+   {
+    "da": "en indisk restaurant",
+    "en": "an Indian restaurant"
+   },
+   {
+    "da": "et indisk krydderi",
+    "en": "an Indian spice"
+   },
+   {
+    "da": "indiske retter",
+    "en": "Indian dishes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en inder",
+    "en": "an Indian person"
+   },
+   {
+    "da": "kinesisk",
+    "en": "Chinese"
+   },
+   {
+    "da": "japansk",
+    "en": "Japanese"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser gerne **indisk** mad.",
+   "en": "I like eating Indian food."
+  }
+ }
+}

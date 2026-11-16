@@ -1,0 +1,4098 @@
+{
+ "usa": {
+  "file": "u.json",
+  "explanation": "\"USA\" means \"the USA\". You say \"Jeg bor i USA\" (I live in the USA), with no word for \"the\". It is said letter by letter, u-es-a.",
+  "forms": [
+   {
+    "da": "USA",
+    "en": "the USA"
+   },
+   {
+    "da": "i USA",
+    "en": "in the USA"
+   },
+   {
+    "da": "til USA",
+    "en": "to the USA"
+   }
+  ],
+  "related": [
+   {
+    "da": "en amerikaner",
+    "en": "an American"
+   },
+   {
+    "da": "amerikansk",
+    "en": "American"
+   },
+   {
+    "da": "Amerika",
+    "en": "America"
+   },
+   {
+    "da": "De Forenede Stater",
+    "en": "the United States"
+   }
+  ],
+  "sentence": {
+   "da": "New York ligger i **USA**.",
+   "en": "New York is in the USA."
+  }
+ },
+ "uselvisk": {
+  "file": "u.json",
+  "explanation": "\"Uselvisk\" means \"unselfish\", about someone who gives or helps without thinking of their own gain. It is the opposite of \"selvisk\" (selfish).",
+  "forms": [
+   {
+    "da": "en uselvisk handling",
+    "en": "an unselfish act"
+   },
+   {
+    "da": "et uselvisk menneske",
+    "en": "an unselfish person"
+   },
+   {
+    "da": "uselviske frivillige",
+    "en": "unselfish volunteers"
+   }
+  ],
+  "related": [
+   {
+    "da": "gavmild",
+    "en": "generous"
+   },
+   {
+    "da": "hjælpsom",
+    "en": "helpful"
+   },
+   {
+    "da": "omsorgsfuld",
+    "en": "caring"
+   },
+   {
+    "da": "egoistisk",
+    "en": "selfish"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **uselvisk** og hjælper altid andre før sig selv.",
+   "en": "She is unselfish and always helps others before herself."
+  }
+ },
+ "usikker": {
+  "file": "u.json",
+  "explanation": "\"Usikker\" means \"unsure\", not certain. It can also mean \"unsafe\": \"en usikker bro\" (an unsafe bridge).",
+  "forms": [
+   {
+    "da": "en usikker mand",
+    "en": "an unsure man"
+   },
+   {
+    "da": "et usikkert svar",
+    "en": "an unsure answer"
+   },
+   {
+    "da": "usikre svar",
+    "en": "unsure answers"
+   }
+  ],
+  "related": [
+   {
+    "da": "sikker",
+    "en": "sure / safe"
+   },
+   {
+    "da": "en tvivl",
+    "en": "a doubt"
+   },
+   {
+    "da": "at tvivle",
+    "en": "to doubt"
+   },
+   {
+    "da": "tøvende",
+    "en": "hesitant"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **usikker** på, hvad jeg skal sige.",
+   "en": "I am unsure what I should say."
+  }
+ },
+ "uskadt": {
+  "file": "u.json",
+  "explanation": "\"Uskadt\" means \"unhurt\" for a person and \"undamaged\" for a thing, after something such as an accident, a fall or a storm.",
+  "forms": [
+   {
+    "da": "Alle slap uskadt væk",
+    "en": "Everyone got away unhurt"
+   },
+   {
+    "da": "Huset står uskadt tilbage",
+    "en": "The house is left undamaged"
+   },
+   {
+    "da": "de uskadte passagerer",
+    "en": "the unhurt passengers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skade",
+    "en": "an injury"
+   },
+   {
+    "da": "skadet",
+    "en": "injured"
+   },
+   {
+    "da": "ubeskadiget",
+    "en": "intact"
+   },
+   {
+    "da": "uberørt",
+    "en": "untouched"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen er helt ødelagt, men føreren er **uskadt**.",
+   "en": "The car is completely wrecked, but the driver is unhurt."
+  }
+ },
+ "uskarp": {
+  "file": "u.json",
+  "explanation": "\"Uskarp\" means \"blurry\" or \"out of focus\", about things such as a photo, a screen or an edge that is not sharp. The opposite is \"skarp\" (sharp), which is also used for knives: \"en skarp kniv\" (a sharp knife).",
+  "forms": [
+   {
+    "da": "et uskarpt billede",
+    "en": "a blurry picture"
+   },
+   {
+    "da": "en uskarp skygge",
+    "en": "a blurry shadow"
+   },
+   {
+    "da": "uskarpe billeder",
+    "en": "blurry pictures"
+   }
+  ],
+  "related": [
+   {
+    "da": "sløret",
+    "en": "blurred"
+   },
+   {
+    "da": "uklar",
+    "en": "vague"
+   },
+   {
+    "da": "tåget",
+    "en": "foggy"
+   },
+   {
+    "da": "diffus",
+    "en": "hazy"
+   }
+  ],
+  "sentence": {
+   "da": "Min skærm er **uskarp**, så jeg kan ikke læse teksten.",
+   "en": "My screen is blurry, so I cannot read the text."
+  }
+ },
+ "uskyld": {
+  "file": "u.json",
+  "explanation": "\"En uskyld\" means \"innocence\", not having done anything wrong. It also means a childlike lack of experience, as in \"børns uskyld\" (the innocence of children).",
+  "forms": [
+   {
+    "da": "uskyld",
+    "en": "innocence"
+   },
+   {
+    "da": "uskylden",
+    "en": "the innocence"
+   },
+   {
+    "da": "i al uskyld",
+    "en": "in all innocence"
+   }
+  ],
+  "related": [
+   {
+    "da": "uskyldig",
+    "en": "innocent"
+   },
+   {
+    "da": "skyld",
+    "en": "blame"
+   },
+   {
+    "da": "skyldig",
+    "en": "guilty"
+   },
+   {
+    "da": "en frifindelse",
+    "en": "an acquittal"
+   }
+  ],
+  "sentence": {
+   "da": "Han kunne bevise sin **uskyld**, og retten løslod ham.",
+   "en": "He could prove his innocence, and the court released him."
+  }
+ },
+ "uskyldig": {
+  "file": "u.json",
+  "explanation": "\"Uskyldig\" means \"innocent\", for a person who did nothing wrong: \"Han er uskyldig\" (He is innocent). Use it also for something harmless: \"Det er en uskyldig joke\" (It is an innocent joke).",
+  "forms": [
+   {
+    "da": "en uskyldig mand",
+    "en": "an innocent man"
+   },
+   {
+    "da": "et uskyldigt spørgsmål",
+    "en": "an innocent question"
+   },
+   {
+    "da": "uskyldige børn",
+    "en": "innocent children"
+   }
+  ],
+  "related": [
+   {
+    "da": "skyldig",
+    "en": "guilty"
+   },
+   {
+    "da": "en uskyld",
+    "en": "innocence"
+   },
+   {
+    "da": "harmløs",
+    "en": "harmless"
+   },
+   {
+    "da": "frifundet",
+    "en": "acquitted"
+   }
+  ],
+  "sentence": {
+   "da": "Dommeren sagde, at han var **uskyldig**.",
+   "en": "The judge said that he was innocent."
+  }
+ },
+ "ustabil": {
+  "file": "u.json",
+  "explanation": "\"Ustabil\" means \"unstable\", for something that wobbles or cannot be trusted to stay as it is. It is the opposite of \"stabil\" (stable): \"Forbindelsen er ustabil\" (The connection is unstable).",
+  "forms": [
+   {
+    "da": "en ustabil stige",
+    "en": "an unstable ladder"
+   },
+   {
+    "da": "et ustabilt forhold",
+    "en": "an unstable relationship"
+   },
+   {
+    "da": "ustabile priser",
+    "en": "unstable prices"
+   }
+  ],
+  "related": [
+   {
+    "da": "vaklende",
+    "en": "wobbly"
+   },
+   {
+    "da": "usikker",
+    "en": "unsure, unsafe"
+   },
+   {
+    "da": "skrøbelig",
+    "en": "fragile"
+   },
+   {
+    "da": "foranderlig",
+    "en": "changeable"
+   }
+  ],
+  "sentence": {
+   "da": "Stolen er **ustabil**, fordi et ben er kort.",
+   "en": "The chair is unstable because one leg is short."
+  }
+ },
+ "usund": {
+  "file": "u.json",
+  "explanation": "\"Usund\" means \"unhealthy\". It is built from u (un-) and sund (healthy), like \"uvenlig\" (unfriendly). For example: \"usund mad\" (unhealthy food).",
+  "forms": [
+   {
+    "da": "en usund vane",
+    "en": "an unhealthy habit"
+   },
+   {
+    "da": "et usundt valg",
+    "en": "an unhealthy choice"
+   },
+   {
+    "da": "usunde snacks",
+    "en": "unhealthy snacks"
+   }
+  ],
+  "related": [
+   {
+    "da": "skadelig",
+    "en": "harmful"
+   },
+   {
+    "da": "sundhed",
+    "en": "health"
+   },
+   {
+    "da": "syg",
+    "en": "sick"
+   }
+  ],
+  "sentence": {
+   "da": "Slik og kage er **usund** mad.",
+   "en": "Candy and cake are unhealthy food."
+  }
+ },
+ "usympatisk": {
+  "file": "u.json",
+  "explanation": "\"Usympatisk\" means \"unlikeable\", about someone you do not warm to, such as a person who never smiles. Do not mix it up with the English \"sympathetic\": \"sympatisk\" means \"likeable\". To say someone feels for others, use \"medfølende\" (compassionate): \"Hun er medfølende\" (She is compassionate).",
+  "forms": [
+   {
+    "da": "en usympatisk mand",
+    "en": "an unlikeable man"
+   },
+   {
+    "da": "et usympatisk smil",
+    "en": "an unlikeable smile"
+   },
+   {
+    "da": "usympatiske mennesker",
+    "en": "unlikeable people"
+   }
+  ],
+  "related": [
+   {
+    "da": "uvenlig",
+    "en": "unfriendly"
+   },
+   {
+    "da": "ubehagelig",
+    "en": "disagreeable"
+   },
+   {
+    "da": "venlig",
+    "en": "friendly"
+   },
+   {
+    "da": "nedladende",
+    "en": "condescending"
+   }
+  ],
+  "sentence": {
+   "da": "Manden virkede **usympatisk**, fordi han aldrig smilede.",
+   "en": "The man seemed unlikeable because he never smiled."
+  }
+ },
+ "usynlig": {
+  "file": "u.json",
+  "explanation": "\"Usynlig\" means \"invisible\" and describes something you cannot see. The opposite is \"synlig\" (visible): \"Stjernen er synlig\" (The star is visible).",
+  "forms": [
+   {
+    "da": "en usynlig mur",
+    "en": "an invisible wall"
+   },
+   {
+    "da": "et usynligt spor",
+    "en": "an invisible trace"
+   },
+   {
+    "da": "usynlige stjerner",
+    "en": "invisible stars"
+   }
+  ],
+  "related": [
+   {
+    "da": "et syn",
+    "en": "a sight / view"
+   },
+   {
+    "da": "skjult",
+    "en": "hidden"
+   },
+   {
+    "da": "gennemsigtig",
+    "en": "transparent"
+   },
+   {
+    "da": "at forsvinde",
+    "en": "to disappear"
+   }
+  ],
+  "sentence": {
+   "da": "Luften er **usynlig**, men vi trækker vejret.",
+   "en": "The air is invisible, but we breathe."
+  }
+ },
+ "usædvanlig": {
+  "file": "u.json",
+  "explanation": "\"Usædvanlig\" means \"unusual\", for something that does not happen or appear often, so it stands out: \"et usædvanligt navn\" (an unusual name).",
+  "forms": [
+   {
+    "da": "en usædvanlig lyd",
+    "en": "an unusual sound"
+   },
+   {
+    "da": "et usædvanligt navn",
+    "en": "an unusual name"
+   },
+   {
+    "da": "usædvanlige ting",
+    "en": "unusual things"
+   }
+  ],
+  "related": [
+   {
+    "da": "sædvanlig",
+    "en": "usual"
+   },
+   {
+    "da": "almindelig",
+    "en": "ordinary"
+   },
+   {
+    "da": "mærkelig",
+    "en": "strange"
+   },
+   {
+    "da": "speciel",
+    "en": "special"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **usædvanlig** lyd, og jeg kender den ikke.",
+   "en": "It is an unusual sound, and I do not know it."
+  }
+ },
+ "utaknemmelig": {
+  "file": "u.json",
+  "explanation": "\"Utaknemmelig\" means \"ungrateful\", about a person who does not show gratitude. It also describes a job that brings little reward: \"en utaknemmelig opgave\" (a thankless task).",
+  "forms": [
+   {
+    "da": "en utaknemmelig gæst",
+    "en": "an ungrateful guest"
+   },
+   {
+    "da": "et utaknemmeligt barn",
+    "en": "an ungrateful child"
+   },
+   {
+    "da": "utaknemmelige elever",
+    "en": "ungrateful pupils"
+   }
+  ],
+  "related": [
+   {
+    "da": "taknemmelig",
+    "en": "thankful"
+   },
+   {
+    "da": "utaknemmelighed",
+    "en": "ingratitude"
+   },
+   {
+    "da": "at påskønne",
+    "en": "to appreciate"
+   },
+   {
+    "da": "at værdsætte",
+    "en": "to value"
+   }
+  ],
+  "sentence": {
+   "da": "Han var **utaknemmelig** og sagde aldrig tak for hjælpen.",
+   "en": "He was ungrateful and never said thanks for the help."
+  }
+ },
+ "utallige": {
+  "file": "u.json",
+  "explanation": "\"Utallige\" means \"countless\", so many that you cannot count them: \"utallige stjerner\" (countless stars). It always goes with more than one thing, so you never put \"en\" or \"et\" before it.",
+  "forms": [
+   {
+    "da": "utallige gange",
+    "en": "countless times"
+   },
+   {
+    "da": "utallige muligheder",
+    "en": "countless options"
+   },
+   {
+    "da": "utallige mennesker",
+    "en": "countless people"
+   }
+  ],
+  "related": [
+   {
+    "da": "talrig",
+    "en": "numerous"
+   },
+   {
+    "da": "et utal",
+    "en": "a countless number"
+   },
+   {
+    "da": "uendelig",
+    "en": "endless"
+   },
+   {
+    "da": "adskillige",
+    "en": "several"
+   }
+  ],
+  "sentence": {
+   "da": "Der er **utallige** stjerner på himlen en klar nat.",
+   "en": "There are countless stars in the sky on a clear night."
+  }
+ },
+ "utilfreds": {
+  "file": "u.json",
+  "explanation": "\"Utilfreds\" means \"dissatisfied\". It is the opposite of \"tilfreds\" (satisfied). To name the thing you are unhappy about, add \"med\" (with): \"Jeg er utilfreds med servicen\" (I am dissatisfied with the service).",
+  "forms": [
+   {
+    "da": "en utilfreds kunde",
+    "en": "a dissatisfied customer"
+   },
+   {
+    "da": "et utilfreds barn",
+    "en": "a dissatisfied child"
+   },
+   {
+    "da": "utilfredse kunder",
+    "en": "dissatisfied customers"
+   }
+  ],
+  "related": [
+   {
+    "da": "misfornøjet",
+    "en": "displeased"
+   },
+   {
+    "da": "skuffet",
+    "en": "disappointed"
+   },
+   {
+    "da": "fornøjet",
+    "en": "pleased"
+   }
+  ],
+  "sentence": {
+   "da": "Kunden er **utilfreds** med maden.",
+   "en": "The customer is dissatisfied with the food."
+  }
+ },
+ "utilfredshed": {
+  "file": "u.json",
+  "explanation": "\"En utilfredshed\" means \"dissatisfaction\", the feeling that something is not as good as it should be: \"Der er stor utilfredshed blandt kunderne\" (There is great dissatisfaction among the customers).",
+  "forms": [
+   {
+    "da": "utilfredshed",
+    "en": "dissatisfaction"
+   },
+   {
+    "da": "utilfredsheden",
+    "en": "the dissatisfaction"
+   },
+   {
+    "da": "udtrykke sin utilfredshed",
+    "en": "to express your dissatisfaction"
+   }
+  ],
+  "related": [
+   {
+    "da": "utilfreds",
+    "en": "unhappy with"
+   },
+   {
+    "da": "tilfredshed",
+    "en": "contentment"
+   },
+   {
+    "da": "en klage",
+    "en": "a complaint"
+   },
+   {
+    "da": "en frustration",
+    "en": "a frustration"
+   }
+  ],
+  "sentence": {
+   "da": "Der er **utilfredshed** blandt kunderne, fordi leveringen er sen.",
+   "en": "There is dissatisfaction among the customers because the delivery is late."
+  }
+ },
+ "utilstrækkelig": {
+  "file": "u.json",
+  "explanation": "\"Utilstrækkelig\" means \"inadequate\", not enough for what is needed. It also describes a person who feels not good enough: \"Jeg føler mig utilstrækkelig\" (I feel inadequate). In everyday speech, people often just say \"ikke nok\" (not enough).",
+  "forms": [
+   {
+    "da": "en utilstrækkelig forklaring",
+    "en": "an inadequate explanation"
+   },
+   {
+    "da": "et utilstrækkeligt svar",
+    "en": "an inadequate answer"
+   },
+   {
+    "da": "utilstrækkelige midler",
+    "en": "insufficient funds"
+   }
+  ],
+  "related": [
+   {
+    "da": "mangelfuld",
+    "en": "incomplete"
+   },
+   {
+    "da": "utilfredsstillende",
+    "en": "unsatisfactory"
+   },
+   {
+    "da": "for lidt",
+    "en": "too little"
+   },
+   {
+    "da": "en mangel",
+    "en": "a shortage"
+   }
+  ],
+  "sentence": {
+   "da": "Hjælpen var **utilstrækkelig**, fordi der kun kom én læge.",
+   "en": "The help was inadequate because only one doctor came."
+  }
+ },
+ "utro": {
+  "file": "u.json",
+  "explanation": "\"Utro\" means \"unfaithful\", about a partner who is romantically involved with someone else. It is built from u- (not) and tro (true). To name the person who is betrayed, add \"mod\" (toward): \"Han har været utro mod hende\" (He has been unfaithful to her).",
+  "forms": [
+   {
+    "da": "Han er utro.",
+    "en": "He is unfaithful."
+   },
+   {
+    "da": "Hun er utro.",
+    "en": "She is unfaithful."
+   },
+   {
+    "da": "De er utro.",
+    "en": "They are unfaithful."
+   }
+  ],
+  "related": [
+   {
+    "da": "trofast",
+    "en": "faithful"
+   },
+   {
+    "da": "et utroskab",
+    "en": "infidelity"
+   },
+   {
+    "da": "at snyde",
+    "en": "to cheat"
+   },
+   {
+    "da": "en affære",
+    "en": "an affair"
+   }
+  ],
+  "sentence": {
+   "da": "Han var **utro**, og hun blev meget ked af det.",
+   "en": "He was unfaithful, and she became very sad."
+  }
+ },
+ "utrolig": {
+  "file": "u.json",
+  "explanation": "\"Utrolig\" means \"unbelievable\", either amazing or hard to believe: \"Det er utroligt!\" (That is unbelievable!). It is built from at tro (to believe) and u- for the opposite.",
+  "forms": [
+   {
+    "da": "en utrolig historie",
+    "en": "an unbelievable story"
+   },
+   {
+    "da": "et utroligt held",
+    "en": "unbelievable luck"
+   },
+   {
+    "da": "utrolige ting",
+    "en": "unbelievable things"
+   }
+  ],
+  "related": [
+   {
+    "da": "fantastisk",
+    "en": "fantastic"
+   },
+   {
+    "da": "mærkelig",
+    "en": "strange"
+   },
+   {
+    "da": "troværdig",
+    "en": "believable"
+   },
+   {
+    "da": "forbløffende",
+    "en": "astonishing"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **utrolig** historie, men den er sand.",
+   "en": "It is an unbelievable story, but it is true."
+  }
+ },
+ "utroligt": {
+  "file": "u.json",
+  "explanation": "\"Utroligt\" means \"incredibly\" and makes the next word stronger: \"utroligt flot\" (incredibly beautiful). Say \"Utroligt!\" alone when something surprises you, like \"wow\" in English.",
+  "forms": [
+   {
+    "da": "utroligt stor",
+    "en": "incredibly big"
+   },
+   {
+    "da": "utroligt flot",
+    "en": "incredibly beautiful"
+   },
+   {
+    "da": "utroligt sjovt",
+    "en": "incredibly fun"
+   }
+  ],
+  "related": [
+   {
+    "da": "utrolig",
+    "en": "unbelievable"
+   },
+   {
+    "da": "uhyre",
+    "en": "immensely"
+   },
+   {
+    "da": "vildt",
+    "en": "wildly"
+   },
+   {
+    "da": "virkelig",
+    "en": "really"
+   }
+  ],
+  "sentence": {
+   "da": "Bjerget er **utroligt** højt.",
+   "en": "The mountain is incredibly high."
+  }
+ },
+ "utydelig": {
+  "file": "u.json",
+  "explanation": "\"Utydelig\" means \"unclear\", hard to see, hear or read: \"utydelig skrift\" (unclear handwriting).",
+  "forms": [
+   {
+    "da": "en utydelig stemme",
+    "en": "an unclear voice"
+   },
+   {
+    "da": "et utydeligt skilt",
+    "en": "an unclear sign"
+   },
+   {
+    "da": "utydelige bogstaver",
+    "en": "unclear letters"
+   }
+  ],
+  "related": [
+   {
+    "da": "tydelig",
+    "en": "clear"
+   },
+   {
+    "da": "uklar",
+    "en": "unclear, vague"
+   },
+   {
+    "da": "uskarp",
+    "en": "blurry"
+   },
+   {
+    "da": "at mumle",
+    "en": "to mumble"
+   }
+  ],
+  "sentence": {
+   "da": "Hans stemme er **utydelig**, fordi forbindelsen er dårlig.",
+   "en": "His voice is unclear because the connection is bad."
+  }
+ },
+ "utålmodig": {
+  "file": "u.json",
+  "explanation": "\"Utålmodig\" means \"impatient\", describing someone who hates waiting and wants things now. It is the opposite of \"tålmodig\" (patient).",
+  "forms": [
+   {
+    "da": "en utålmodig kunde",
+    "en": "an impatient customer"
+   },
+   {
+    "da": "et utålmodigt barn",
+    "en": "an impatient child"
+   },
+   {
+    "da": "utålmodige folk",
+    "en": "impatient people"
+   }
+  ],
+  "related": [
+   {
+    "da": "rastløs",
+    "en": "restless"
+   },
+   {
+    "da": "en utålmodighed",
+    "en": "impatience"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "irriteret",
+    "en": "annoyed"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **utålmodig**, for bussen er forsinket.",
+   "en": "I am impatient, because the bus is late."
+  }
+ },
+ "utålmodighed": {
+  "file": "u.json",
+  "explanation": "\"En utålmodighed\" means \"impatience\", the feeling of wanting something to happen faster. Its opposite is \"tålmodighed\" (patience).",
+  "forms": [
+   {
+    "da": "utålmodighed",
+    "en": "impatience"
+   },
+   {
+    "da": "utålmodigheden",
+    "en": "the impatience"
+   },
+   {
+    "da": "med utålmodighed",
+    "en": "with impatience"
+   }
+  ],
+  "related": [
+   {
+    "da": "utålmodig",
+    "en": "impatient"
+   },
+   {
+    "da": "rastløshed",
+    "en": "restlessness"
+   },
+   {
+    "da": "irritation",
+    "en": "irritation"
+   },
+   {
+    "da": "ivrig",
+    "en": "eager"
+   }
+  ],
+  "sentence": {
+   "da": "Børnenes **utålmodighed** vokser, fordi bilturen er lang.",
+   "en": "The children's impatience grows because the car trip is long."
+  }
+ },
+ "uundgåelig": {
+  "file": "u.json",
+  "explanation": "\"Uundgåelig\" means \"inevitable\", something that cannot be avoided: \"Forsinkelser er uundgåelige\" (Delays are inevitable). It is built on \"at undgå\" (to avoid).",
+  "forms": [
+   {
+    "da": "en uundgåelig konsekvens",
+    "en": "an unavoidable consequence"
+   },
+   {
+    "da": "et uundgåeligt tab",
+    "en": "an unavoidable loss"
+   },
+   {
+    "da": "uundgåelige ændringer",
+    "en": "unavoidable changes"
+   }
+  ],
+  "related": [
+   {
+    "da": "uafvendelig",
+    "en": "inescapable"
+   },
+   {
+    "da": "en konsekvens",
+    "en": "a consequence"
+   },
+   {
+    "da": "uomgængelig",
+    "en": "unavoidable"
+   }
+  ],
+  "sentence": {
+   "da": "Konflikten var **uundgåelig**, fordi ingen ville give sig.",
+   "en": "The conflict was inevitable because no one would give in."
+  }
+ },
+ "uundværlig": {
+  "file": "u.json",
+  "explanation": "\"Uundværlig\" means \"indispensable\", about a person or thing you cannot do without. It comes from \"at undvære\" (to do without) and is stronger than \"vigtig\" (important): without it, things stop working.",
+  "forms": [
+   {
+    "da": "en uundværlig medarbejder",
+    "en": "an indispensable employee"
+   },
+   {
+    "da": "et uundværligt værktøj",
+    "en": "an indispensable tool"
+   },
+   {
+    "da": "uundværlige redskaber",
+    "en": "indispensable tools"
+   }
+  ],
+  "related": [
+   {
+    "da": "nødvendig",
+    "en": "necessary"
+   },
+   {
+    "da": "væsentlig",
+    "en": "essential"
+   },
+   {
+    "da": "afgørende",
+    "en": "crucial"
+   },
+   {
+    "da": "overflødig",
+    "en": "superfluous"
+   }
+  ],
+  "sentence": {
+   "da": "Min kaffe er **uundværlig**, når jeg skal op tidligt.",
+   "en": "My coffee is indispensable when I have to get up early."
+  }
+ },
+ "uvant": {
+  "file": "u.json",
+  "explanation": "\"Uvant\" means \"unfamiliar\", about something you are not used to. To name the unfamiliar thing, add \"med\" (with): \"Jeg er uvant med kulden\" (I am not used to the cold).",
+  "forms": [
+   {
+    "da": "en uvant lyd",
+    "en": "an unfamiliar sound"
+   },
+   {
+    "da": "et uvant sted",
+    "en": "an unfamiliar place"
+   },
+   {
+    "da": "uvante vaner",
+    "en": "unfamiliar habits"
+   }
+  ],
+  "related": [
+   {
+    "da": "vant",
+    "en": "used to"
+   },
+   {
+    "da": "at vænne sig til",
+    "en": "to adjust to"
+   },
+   {
+    "da": "en vane",
+    "en": "a habit"
+   },
+   {
+    "da": "ukendt",
+    "en": "unknown"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **uvant** med at stå op så tidligt.",
+   "en": "I am not used to getting up so early."
+  }
+ },
+ "uvedkommende": {
+  "file": "u.json",
+  "explanation": "\"Uvedkommende\" means \"irrelevant\" about a point that has nothing to do with the matter, and \"unauthorized\" about people who have no business in a place. The sign \"Adgang forbudt for uvedkommende\" means \"No entry for unauthorized persons\".",
+  "forms": [
+   {
+    "da": "en uvedkommende person",
+    "en": "an unauthorized person"
+   },
+   {
+    "da": "et uvedkommende spørgsmål",
+    "en": "an irrelevant question"
+   },
+   {
+    "da": "uvedkommende gæster",
+    "en": "unauthorized guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "relevant",
+    "en": "relevant"
+   },
+   {
+    "da": "vedkommende",
+    "en": "the person concerned"
+   },
+   {
+    "da": "uvæsentlig",
+    "en": "unimportant"
+   },
+   {
+    "da": "en udenforstående",
+    "en": "an outsider"
+   }
+  ],
+  "sentence": {
+   "da": "Det, du siger, er **uvedkommende** for sagen.",
+   "en": "What you are saying is irrelevant to the case."
+  }
+ },
+ "uvenlig": {
+  "file": "u.json",
+  "explanation": "\"Uvenlig\" means \"unfriendly\", and is \"venlig\" (friendly) with u- in front. To name the person who receives the unfriendly behavior, add \"mod\" (toward): \"Hun var uvenlig mod mig\" (She was unfriendly to me).",
+  "forms": [
+   {
+    "da": "en uvenlig mand",
+    "en": "an unfriendly man"
+   },
+   {
+    "da": "et uvenligt svar",
+    "en": "an unfriendly answer"
+   },
+   {
+    "da": "uvenlige ord",
+    "en": "unfriendly words"
+   }
+  ],
+  "related": [
+   {
+    "da": "uhøflig",
+    "en": "rude"
+   },
+   {
+    "da": "sur",
+    "en": "grumpy"
+   },
+   {
+    "da": "kold",
+    "en": "cold"
+   },
+   {
+    "da": "ond",
+    "en": "mean"
+   }
+  ],
+  "sentence": {
+   "da": "Han var **uvenlig** og sagde ikke goddag.",
+   "en": "He was unfriendly and did not say hello."
+  }
+ },
+ "uventet": {
+  "file": "u.json",
+  "explanation": "\"Uventet\" means \"unexpected\" and describes something that comes as a surprise.",
+  "forms": [
+   {
+    "da": "en uventet gæst",
+    "en": "an unexpected guest"
+   },
+   {
+    "da": "et uventet svar",
+    "en": "an unexpected answer"
+   },
+   {
+    "da": "uventede nyheder",
+    "en": "unexpected news"
+   }
+  ],
+  "related": [
+   {
+    "da": "forventet",
+    "en": "expected"
+   },
+   {
+    "da": "at vente",
+    "en": "to wait"
+   },
+   {
+    "da": "pludselig",
+    "en": "sudden"
+   },
+   {
+    "da": "tilfældig",
+    "en": "random"
+   }
+  ],
+  "sentence": {
+   "da": "Besøget var **uventet**, fordi ingen havde ringet.",
+   "en": "The visit was unexpected because no one had called."
+  }
+ },
+ "uvidende": {
+  "file": "u.json",
+  "explanation": "\"Uvidende\" means \"unaware\" or \"ignorant\", not knowing about something. To name the subject you know nothing about, add \"om\" (about): \"Jeg er uvidende om reglerne\" (I am unaware of the rules).",
+  "forms": [
+   {
+    "da": "en uvidende turist",
+    "en": "an unaware tourist"
+   },
+   {
+    "da": "et uvidende barn",
+    "en": "a child who does not know"
+   },
+   {
+    "da": "uvidende mennesker",
+    "en": "people who do not know"
+   }
+  ],
+  "related": [
+   {
+    "da": "uvidenhed",
+    "en": "ignorance"
+   },
+   {
+    "da": "at vide",
+    "en": "to know"
+   },
+   {
+    "da": "bevidst",
+    "en": "conscious"
+   },
+   {
+    "da": "viden",
+    "en": "knowledge"
+   }
+  ],
+  "sentence": {
+   "da": "Hun var **uvidende** om planen, fordi ingen havde fortalt hende det.",
+   "en": "She was unaware of the plan because no one had told her."
+  }
+ },
+ "uvidenhed": {
+  "file": "u.json",
+  "explanation": "\"Uvidenhed\" means \"ignorance\", not knowing the facts. To name the subject you know nothing about, add \"om\" (about): \"uvidenhed om reglerne\" (ignorance of the rules).",
+  "forms": [
+   {
+    "da": "uvidenhed",
+    "en": "ignorance"
+   },
+   {
+    "da": "uvidenheden",
+    "en": "the ignorance"
+   },
+   {
+    "da": "i uvidenhed",
+    "en": "in ignorance"
+   }
+  ],
+  "related": [
+   {
+    "da": "uvidende",
+    "en": "unaware"
+   },
+   {
+    "da": "viden",
+    "en": "knowledge"
+   },
+   {
+    "da": "en oplysning",
+    "en": "a piece of information"
+   },
+   {
+    "da": "en misforståelse",
+    "en": "a misunderstanding"
+   }
+  ],
+  "sentence": {
+   "da": "Fejlen skyldtes **uvidenhed**, ikke ond vilje.",
+   "en": "The mistake was due to ignorance, not ill will."
+  }
+ },
+ "uærlig": {
+  "file": "u.json",
+  "explanation": "\"Uærlig\" means \"dishonest\", describing someone who deceives other people. It is built from u- (un-) and ærlig (honest). The prefix u- turns a word into its opposite, as in \"uvenlig\" (unfriendly).",
+  "forms": [
+   {
+    "da": "en uærlig sælger",
+    "en": "a dishonest seller"
+   },
+   {
+    "da": "et uærligt svar",
+    "en": "a dishonest answer"
+   },
+   {
+    "da": "uærlige folk",
+    "en": "dishonest people"
+   }
+  ],
+  "related": [
+   {
+    "da": "en løgn",
+    "en": "a lie"
+   },
+   {
+    "da": "falsk",
+    "en": "false"
+   },
+   {
+    "da": "troværdig",
+    "en": "trustworthy"
+   },
+   {
+    "da": "at lyve",
+    "en": "to lie"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **uærlig** og snyder tit i spil.",
+   "en": "He is dishonest and often cheats at games."
+  }
+ },
+ "at vaccinere": {
+  "file": "v.json",
+  "explanation": "\"At vaccinere\" means \"to vaccinate\": a doctor or nurse gives you protection so your body can fight a disease. To name the disease, add \"mod\" (against): \"vaccinere mod influenza\" (vaccinate against the flu). When you are the person who receives the shot, use \"at lade sig vaccinere\" (to let yourself be vaccinated): \"Jeg lader mig vaccinere\" (I am getting vaccinated).",
+  "forms": [
+   {
+    "da": "at vaccinere",
+    "en": "to vaccinate"
+   },
+   {
+    "da": "jeg vaccinerer",
+    "en": "I vaccinate"
+   },
+   {
+    "da": "jeg vaccinerede",
+    "en": "I vaccinated"
+   },
+   {
+    "da": "jeg har vaccineret",
+    "en": "I have vaccinated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vaccine",
+    "en": "a vaccine"
+   },
+   {
+    "da": "en vaccination",
+    "en": "a vaccination"
+   },
+   {
+    "da": "at immunisere",
+    "en": "to immunize"
+   },
+   {
+    "da": "immunitet",
+    "en": "immunity"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen vil **vaccinere** alle børn i klassen mod mæslinger.",
+   "en": "The doctor will vaccinate all the children in the class against measles."
+  }
+ },
+ "at vade": {
+  "file": "v.json",
+  "explanation": "\"At vade\" means \"to wade\", to walk through water or mud that reaches your legs: \"Vi vader ud i havet\" (We wade out into the sea). It is also used for walking through deep snow.",
+  "forms": [
+   {
+    "da": "at vade",
+    "en": "to wade"
+   },
+   {
+    "da": "jeg vader",
+    "en": "I wade"
+   },
+   {
+    "da": "jeg vadede",
+    "en": "I waded"
+   },
+   {
+    "da": "jeg har vadet",
+    "en": "I have waded"
+   }
+  ],
+  "related": [
+   {
+    "da": "at pjaske",
+    "en": "to splash"
+   },
+   {
+    "da": "et vadested",
+    "en": "a ford"
+   },
+   {
+    "da": "Vadehavet",
+    "en": "the Wadden Sea"
+   },
+   {
+    "da": "at svømme",
+    "en": "to swim"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **vade** over åen, fordi vandet ikke er dybt.",
+   "en": "We can wade across the stream because the water is not deep."
+  }
+ },
+ "at vakle": {
+  "file": "v.json",
+  "explanation": "\"At vakle\" means \"to wobble\" and \"to waver\". A tired person who walks unsteadily \"vakler\" (wobbles). About a decision or a belief, it means being unsure and close to changing your mind: \"Hans beslutning vakler\" (His decision is wavering).",
+  "forms": [
+   {
+    "da": "at vakle",
+    "en": "to wobble / waver"
+   },
+   {
+    "da": "jeg vakler",
+    "en": "I wobble / waver"
+   },
+   {
+    "da": "jeg vaklede",
+    "en": "I wobbled / wavered"
+   },
+   {
+    "da": "jeg har vaklet",
+    "en": "I have wobbled / wavered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at slingre",
+    "en": "to sway"
+   },
+   {
+    "da": "at tøve",
+    "en": "to hesitate"
+   },
+   {
+    "da": "at ryste",
+    "en": "to shake"
+   },
+   {
+    "da": "at stå fast",
+    "en": "to stand firm"
+   }
+  ],
+  "sentence": {
+   "da": "Stolen vil **vakle**, fordi det ene ben er kortere.",
+   "en": "The chair will wobble because one leg is shorter."
+  }
+ },
+ "at vande": {
+  "file": "v.json",
+  "explanation": "\"At vande\" means \"to water\": you give water to plants, flowers and lawns. It is also used for giving animals water to drink: \"at vande hestene\" (to water the horses). It comes from vand (water).",
+  "forms": [
+   {
+    "da": "at vande",
+    "en": "to water"
+   },
+   {
+    "da": "jeg vander",
+    "en": "I water"
+   },
+   {
+    "da": "jeg vandede",
+    "en": "I watered"
+   },
+   {
+    "da": "jeg har vandet",
+    "en": "I have watered"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vandkande",
+    "en": "a watering can"
+   },
+   {
+    "da": "en haveslange",
+    "en": "a garden hose"
+   },
+   {
+    "da": "at gøde",
+    "en": "to fertilize"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **vande** blomsterne, fordi det ikke har regnet.",
+   "en": "I have to water the flowers because it has not rained."
+  }
+ },
+ "at vandre": {
+  "file": "v.json",
+  "explanation": "\"At vandre\" means \"to hike\" and \"to wander\". To hike means to go on foot for a long time, often in nature, for the pleasure of it: \"Vi vandrer langs kysten hvert efterår\" (We hike along the coast every fall). To wander means to walk without hurry or goal: \"Han vandrede rundt i byen\" (He wandered around town).",
+  "forms": [
+   {
+    "da": "at vandre",
+    "en": "to wander / hike"
+   },
+   {
+    "da": "jeg vandrer",
+    "en": "I wander / hike"
+   },
+   {
+    "da": "jeg vandrede",
+    "en": "I wandered / hiked"
+   },
+   {
+    "da": "jeg har vandret",
+    "en": "I have wandered / hiked"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vandring",
+    "en": "a long walk"
+   },
+   {
+    "da": "at spadsere",
+    "en": "to stroll"
+   },
+   {
+    "da": "et vandrehjem",
+    "en": "a hostel"
+   },
+   {
+    "da": "en vandresti",
+    "en": "a hiking path"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **vandre** fem timer i bjergene og sove i telt.",
+   "en": "We want to hike five hours in the mountains and sleep in a tent."
+  }
+ },
+ "at vare": {
+  "file": "v.json",
+  "explanation": "\"At vare\" means \"to last\": you say how long something goes on: \"Filmen varer to timer\" (The movie lasts two hours).",
+  "forms": [
+   {
+    "da": "at vare",
+    "en": "to last"
+   },
+   {
+    "da": "det varer",
+    "en": "it lasts"
+   },
+   {
+    "da": "det varede",
+    "en": "it lasted"
+   },
+   {
+    "da": "det har varet",
+    "en": "it has lasted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en varighed",
+    "en": "a duration"
+   },
+   {
+    "da": "at holde",
+    "en": "to last / hold"
+   },
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   },
+   {
+    "da": "at slutte",
+    "en": "to end"
+   }
+  ],
+  "sentence": {
+   "da": "Mødet vil **vare** i cirka en time.",
+   "en": "The meeting will last about an hour."
+  }
+ },
+ "at variere": {
+  "file": "v.json",
+  "explanation": "\"At variere\" means \"to vary\". It works two ways. Something is not always the same: \"Prisen varierer\" (The price varies). Or you change something on purpose: \"Jeg varierer menuen\" (I vary the menu).",
+  "forms": [
+   {
+    "da": "at variere",
+    "en": "to vary"
+   },
+   {
+    "da": "jeg varierer",
+    "en": "I vary"
+   },
+   {
+    "da": "jeg varierede",
+    "en": "I varied"
+   },
+   {
+    "da": "jeg har varieret",
+    "en": "I have varied"
+   }
+  ],
+  "related": [
+   {
+    "da": "en afveksling",
+    "en": "a change of pace"
+   },
+   {
+    "da": "forskellig",
+    "en": "different"
+   },
+   {
+    "da": "ensartet",
+    "en": "uniform"
+   },
+   {
+    "da": "at skifte",
+    "en": "to switch"
+   }
+  ],
+  "sentence": {
+   "da": "Temperaturen kan **variere** meget fra dag til dag.",
+   "en": "The temperature can vary a lot from day to day."
+  }
+ },
+ "at vaske": {
+  "file": "v.json",
+  "explanation": "\"At vaske\" means \"to wash\", such as clothes, dishes, your hands or the car. To wash yourself, say \"at vaske sig\" (to wash oneself). For washing dishes, there is also \"at vaske op\" (to do the dishes).",
+  "forms": [
+   {
+    "da": "at vaske",
+    "en": "to wash"
+   },
+   {
+    "da": "jeg vasker",
+    "en": "I wash"
+   },
+   {
+    "da": "jeg vaskede",
+    "en": "I washed"
+   },
+   {
+    "da": "jeg har vasket",
+    "en": "I have washed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vaskemaskine",
+    "en": "a washing machine"
+   },
+   {
+    "da": "at skylle",
+    "en": "to rinse"
+   },
+   {
+    "da": "at tørre",
+    "en": "to dry"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **vaske** tøjet i dag.",
+   "en": "I want to wash the clothes today."
+  }
+ },
+ "at vaske gulv": {
+  "file": "v.json",
+  "explanation": "\"At vaske gulv\" means \"to mop the floor\" and is said without \"gulvet\" (the floor): \"Vi vasker gulv om lørdagen\" (We mop the floor on Saturdays). For one spill, use \"at tørre op\" (to wipe up).",
+  "forms": [
+   {
+    "da": "at vaske gulv",
+    "en": "to mop the floor"
+   },
+   {
+    "da": "jeg vasker gulv",
+    "en": "I mop the floor"
+   },
+   {
+    "da": "jeg vaskede gulv",
+    "en": "I mopped the floor"
+   },
+   {
+    "da": "jeg har vasket gulv",
+    "en": "I have mopped the floor"
+   }
+  ],
+  "related": [
+   {
+    "da": "at feje",
+    "en": "to sweep"
+   },
+   {
+    "da": "at støvsuge",
+    "en": "to vacuum"
+   },
+   {
+    "da": "at gøre rent",
+    "en": "to clean"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **vaske gulv**, fordi det er meget beskidt.",
+   "en": "I have to mop the floor because it is very dirty."
+  }
+ },
+ "at vaske op": {
+  "file": "v.json",
+  "explanation": "\"At vaske op\" means \"to do the dishes\" by hand: \"Hvem vasker op i dag?\" (Who is doing the dishes today?) Do not mix it up with \"at vaske\" (to wash), which you use for clothes, hands or the car: \"Jeg vasker bilen\" (I wash the car).",
+  "forms": [
+   {
+    "da": "at vaske op",
+    "en": "to do the dishes"
+   },
+   {
+    "da": "jeg vasker op",
+    "en": "I do the dishes"
+   },
+   {
+    "da": "jeg vaskede op",
+    "en": "I did the dishes"
+   },
+   {
+    "da": "jeg har vasket op",
+    "en": "I have done the dishes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en opvaskemaskine",
+    "en": "a dishwasher"
+   },
+   {
+    "da": "en opvask",
+    "en": "the dishes / dishwashing"
+   },
+   {
+    "da": "opvaskemiddel",
+    "en": "dish soap"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **vaske op** efter maden.",
+   "en": "I have to do the dishes after the meal."
+  }
+ },
+ "at vaske sig": {
+  "file": "v.json",
+  "explanation": "\"At vaske sig\" means \"to wash yourself\". The little word \"sig\" (oneself) becomes \"mig\" (myself) when you talk about yourself: \"jeg vasker mig\" (I wash myself). If you wash something else, you drop \"sig\": \"at vaske hænder\" (to wash hands) or \"at vaske tøj\" (to wash clothes).",
+  "forms": [
+   {
+    "da": "at vaske sig",
+    "en": "to wash (oneself)"
+   },
+   {
+    "da": "jeg vasker mig",
+    "en": "I wash myself"
+   },
+   {
+    "da": "jeg vaskede mig",
+    "en": "I washed myself"
+   },
+   {
+    "da": "jeg har vasket mig",
+    "en": "I have washed myself"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vaske op",
+    "en": "to do the dishes"
+   },
+   {
+    "da": "at tage bad",
+    "en": "to take a bath"
+   },
+   {
+    "da": "en sæbe",
+    "en": "a soap"
+   }
+  ],
+  "sentence": {
+   "da": "Han skal **vaske sig** før maden.",
+   "en": "He has to wash up before the meal."
+  }
+ },
+ "at vaske tøj": {
+  "file": "v.json",
+  "explanation": "\"At vaske tøj\" means \"to do laundry\". Literally, it is \"to wash clothes\". For dishes, say \"at vaske op\" (to wash the dishes).",
+  "forms": [
+   {
+    "da": "at vaske tøj",
+    "en": "to do laundry"
+   },
+   {
+    "da": "jeg vasker tøj",
+    "en": "I do laundry"
+   },
+   {
+    "da": "jeg vaskede tøj",
+    "en": "I did laundry"
+   },
+   {
+    "da": "jeg har vasket tøj",
+    "en": "I have done laundry"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vaskemaskine",
+    "en": "a washing machine"
+   },
+   {
+    "da": "at tørre tøj",
+    "en": "to dry clothes"
+   },
+   {
+    "da": "at stryge",
+    "en": "to iron"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **vaske tøj**, fordi jeg ikke har flere rene sokker.",
+   "en": "I have to do laundry because I have no more clean socks."
+  }
+ },
+ "at vedkende sig": {
+  "file": "v.json",
+  "explanation": "\"At vedkende sig\" means \"to acknowledge\", to say openly that something is yours or is true, such as a mistake or a responsibility: \"Han vedkender sig sin fejl\" (He acknowledges his mistake).",
+  "forms": [
+   {
+    "da": "at vedkende sig",
+    "en": "to acknowledge"
+   },
+   {
+    "da": "jeg vedkender mig",
+    "en": "I acknowledge"
+   },
+   {
+    "da": "jeg vedkendte mig",
+    "en": "I acknowledged"
+   },
+   {
+    "da": "jeg har vedkendt mig",
+    "en": "I have acknowledged"
+   }
+  ],
+  "related": [
+   {
+    "da": "at indrømme",
+    "en": "to admit"
+   },
+   {
+    "da": "at påtage sig",
+    "en": "to take on"
+   },
+   {
+    "da": "at nægte",
+    "en": "to deny"
+   }
+  ],
+  "sentence": {
+   "da": "Han har svært ved at **vedkende sig** sine fejl.",
+   "en": "He finds it hard to acknowledge his mistakes."
+  }
+ },
+ "at vedligeholde": {
+  "file": "v.json",
+  "explanation": "\"At vedligeholde\" means \"to maintain\": you keep something in good condition with regular care, such as a house, a garden, a road or a machine: \"Vi vedligeholder huset\" (We maintain the house). It is not used for claiming something. For that meaning of \"maintain\", Danes say \"at hævde\" (to claim).",
+  "forms": [
+   {
+    "da": "at vedligeholde",
+    "en": "to maintain"
+   },
+   {
+    "da": "jeg vedligeholder",
+    "en": "I maintain"
+   },
+   {
+    "da": "jeg vedligeholdt",
+    "en": "I maintained"
+   },
+   {
+    "da": "jeg har vedligeholdt",
+    "en": "I have maintained"
+   }
+  ],
+  "related": [
+   {
+    "da": "vedligeholdelse",
+    "en": "upkeep"
+   },
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   },
+   {
+    "da": "at passe",
+    "en": "to look after"
+   },
+   {
+    "da": "at forfalde",
+    "en": "to decay"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal **vedligeholde** træværket hvert år, fordi regn skader det.",
+   "en": "You must maintain the woodwork every year because rain damages it."
+  }
+ },
+ "at vedlægge": {
+  "file": "v.json",
+  "explanation": "\"At vedlægge\" means \"to enclose\": you put a document in with a letter, an email or an application: \"Jeg vedlægger mit CV\" (I enclose my CV). You see it in written Danish. In speech people more often say \"at sende med\" (to send along).",
+  "forms": [
+   {
+    "da": "at vedlægge",
+    "en": "to enclose"
+   },
+   {
+    "da": "jeg vedlægger",
+    "en": "I enclose"
+   },
+   {
+    "da": "jeg vedlagde",
+    "en": "I enclosed"
+   },
+   {
+    "da": "jeg har vedlagt",
+    "en": "I have enclosed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bilag",
+    "en": "an enclosure"
+   },
+   {
+    "da": "at vedhæfte",
+    "en": "to attach a file"
+   },
+   {
+    "da": "at indsende",
+    "en": "to submit"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **vedlægge** mit CV til ansøgningen.",
+   "en": "I would like to enclose my résumé with the application."
+  }
+ },
+ "at vedrøre": {
+  "file": "v.json",
+  "explanation": "\"At vedrøre\" means \"to concern\". You put the person or thing directly after it: \"Sagen vedrører dig\" (The matter concerns you). Letters and emails often start with \"Vedrørende\" (Regarding), a form of this word.",
+  "forms": [
+   {
+    "da": "at vedrøre",
+    "en": "to concern"
+   },
+   {
+    "da": "det vedrører",
+    "en": "it concerns"
+   },
+   {
+    "da": "det vedrørte",
+    "en": "it concerned"
+   },
+   {
+    "da": "det har vedrørt",
+    "en": "it has concerned"
+   }
+  ],
+  "related": [
+   {
+    "da": "at berøre",
+    "en": "to touch on"
+   },
+   {
+    "da": "at omhandle",
+    "en": "to deal with"
+   },
+   {
+    "da": "at angå",
+    "en": "to relate to"
+   }
+  ],
+  "sentence": {
+   "da": "Reglen kan **vedrøre** alle elever i skolen.",
+   "en": "The rule can concern all students in the school."
+  }
+ },
+ "at vedtage": {
+  "file": "v.json",
+  "explanation": "\"At vedtage\" means \"to pass (a law)\" or \"to adopt\": a group officially agrees on something. The group that decides officially, such as a parliament, a council or a board, is the one that passes: \"Folketinget vedtog loven\" (Parliament passed the law).",
+  "forms": [
+   {
+    "da": "at vedtage",
+    "en": "to pass (a law) / adopt"
+   },
+   {
+    "da": "jeg vedtager",
+    "en": "I pass (a law) / adopt"
+   },
+   {
+    "da": "jeg vedtog",
+    "en": "I passed (a law) / adopted"
+   },
+   {
+    "da": "jeg har vedtaget",
+    "en": "I have passed (a law) / adopted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stemme om",
+    "en": "to vote on"
+   },
+   {
+    "da": "at godkende",
+    "en": "to approve"
+   },
+   {
+    "da": "at forkaste",
+    "en": "to turn down"
+   }
+  ],
+  "sentence": {
+   "da": "Byrådet vil **vedtage** det nye budget i næste uge.",
+   "en": "The city council will pass the new budget next week."
+  }
+ },
+ "at veje": {
+  "file": "v.json",
+  "explanation": "\"At veje\" means \"to weigh\". To state your own weight, use the verb with a number: \"Jeg vejer 70 kilo\" (I weigh 70 kilos). To measure an object on a scale, name the object after the verb: \"Jeg vejer pakken\" (I weigh the package).",
+  "forms": [
+   {
+    "da": "at veje",
+    "en": "to weigh"
+   },
+   {
+    "da": "jeg vejer",
+    "en": "I weigh"
+   },
+   {
+    "da": "jeg vejede",
+    "en": "I weighed"
+   },
+   {
+    "da": "jeg har vejet",
+    "en": "I have weighed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vægt",
+    "en": "a scale, a weight"
+   },
+   {
+    "da": "at måle",
+    "en": "to measure"
+   },
+   {
+    "da": "tung",
+    "en": "heavy"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **veje** maden på en vægt.",
+   "en": "You can weigh the food on a scale."
+  }
+ },
+ "at vejlede": {
+  "file": "v.json",
+  "explanation": "\"At vejlede\" means \"to guide\" or \"to advise\", to help someone find the right way with explanations and tips, often as part of a job at a school or an employment office: \"Hun vejledte mig i valget\" (She advised me on the choice). It is built from vej (way) and lede (lead).",
+  "forms": [
+   {
+    "da": "at vejlede",
+    "en": "to guide / advise"
+   },
+   {
+    "da": "jeg vejleder",
+    "en": "I guide / advise"
+   },
+   {
+    "da": "jeg vejledte",
+    "en": "I guided / advised"
+   },
+   {
+    "da": "jeg har vejledt",
+    "en": "I have guided / advised"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vejleder",
+    "en": "an advisor"
+   },
+   {
+    "da": "en vejledning",
+    "en": "instructions"
+   },
+   {
+    "da": "at instruere",
+    "en": "to instruct"
+   },
+   {
+    "da": "at rådgive",
+    "en": "to counsel"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren vil **vejlede** eleverne, når de skriver opgaven.",
+   "en": "The teacher will guide the students when they write the assignment."
+  }
+ },
+ "at veksle": {
+  "file": "v.json",
+  "explanation": "\"At veksle\" means \"to exchange (money)\": you change it from one currency to another. It also means to break a big bill into smaller ones: \"Kan du veksle en hundredkroneseddel?\" (Can you break a hundred-krone bill?)",
+  "forms": [
+   {
+    "da": "at veksle",
+    "en": "to exchange (money)"
+   },
+   {
+    "da": "jeg veksler",
+    "en": "I exchange (money)"
+   },
+   {
+    "da": "jeg vekslede",
+    "en": "I exchanged (money)"
+   },
+   {
+    "da": "jeg har vekslet",
+    "en": "I have exchanged (money)"
+   }
+  ],
+  "related": [
+   {
+    "da": "et vekselkontor",
+    "en": "a money-changing office"
+   },
+   {
+    "da": "en vekselkurs",
+    "en": "an exchange rate"
+   },
+   {
+    "da": "at bytte",
+    "en": "to swap"
+   },
+   {
+    "da": "småpenge",
+    "en": "small change"
+   }
+  ],
+  "sentence": {
+   "da": "Hvor kan jeg **veksle** euro til danske kroner?",
+   "en": "Where can I exchange euros for Danish kroner?"
+  }
+ },
+ "at velsigne": {
+  "file": "v.json",
+  "explanation": "\"At velsigne\" means \"to bless\", to ask for good things for someone or to declare something holy, as is done in a church: \"Præsten velsigner brudeparret\" (The priest blesses the couple). It is built from vel (well) and signe (bless).",
+  "forms": [
+   {
+    "da": "at velsigne",
+    "en": "to bless"
+   },
+   {
+    "da": "jeg velsigner",
+    "en": "I bless"
+   },
+   {
+    "da": "jeg velsignede",
+    "en": "I blessed"
+   },
+   {
+    "da": "jeg har velsignet",
+    "en": "I have blessed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bande",
+    "en": "to curse"
+   },
+   {
+    "da": "at døbe",
+    "en": "to baptize"
+   },
+   {
+    "da": "at indvie",
+    "en": "to consecrate"
+   }
+  ],
+  "sentence": {
+   "da": "Præsten vil **velsigne** parret ved brylluppet.",
+   "en": "The priest will bless the couple at the wedding."
+  }
+ },
+ "at vende": {
+  "file": "v.json",
+  "explanation": "\"At vende\" means \"to turn\" something over or around: \"Jeg vender kortet\" (I turn the card over). For turning in a direction, say \"at dreje\" (to turn): \"Drej til venstre\" (Turn left).",
+  "forms": [
+   {
+    "da": "at vende",
+    "en": "to turn"
+   },
+   {
+    "da": "jeg vender",
+    "en": "I turn"
+   },
+   {
+    "da": "jeg vendte",
+    "en": "I turned"
+   },
+   {
+    "da": "jeg har vendt",
+    "en": "I have turned"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vende tilbage",
+    "en": "to come back"
+   },
+   {
+    "da": "omvendt",
+    "en": "reversed"
+   },
+   {
+    "da": "en vending",
+    "en": "a turn of phrase"
+   },
+   {
+    "da": "at rotere",
+    "en": "to rotate"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **vende** siden og læse videre.",
+   "en": "You can turn the page and read on."
+  }
+ },
+ "at vende sig": {
+  "file": "v.json",
+  "explanation": "\"At vende sig\" means \"to turn around\" with your own body: \"Han vendte sig og smilede\" (He turned around and smiled). Do not mix it up with \"at vænne sig til\" (to get used to): \"Jeg vænner mig til kulden\" (I am getting used to the cold).",
+  "forms": [
+   {
+    "da": "at vende sig",
+    "en": "to turn around"
+   },
+   {
+    "da": "jeg vender mig",
+    "en": "I turn around"
+   },
+   {
+    "da": "jeg vendte mig",
+    "en": "I turned around"
+   },
+   {
+    "da": "jeg har vendt mig",
+    "en": "I have turned around"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dreje",
+    "en": "to turn"
+   },
+   {
+    "da": "at kigge tilbage",
+    "en": "to look back"
+   },
+   {
+    "da": "at vende om",
+    "en": "to turn back"
+   },
+   {
+    "da": "at dreje rundt",
+    "en": "to spin around"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **vende sig** og se på mig.",
+   "en": "He wants to turn around and look at me."
+  }
+ },
+ "at vende tilbage": {
+  "file": "v.json",
+  "explanation": "\"At vende tilbage\" means \"to return\": you come back to a place or a topic: \"Han vender tilbage til byen\" (He returns to the city). It is also a polite way to say you will answer later: \"Jeg vender tilbage til dig\" (I will get back to you).",
+  "forms": [
+   {
+    "da": "at vende tilbage",
+    "en": "to return"
+   },
+   {
+    "da": "jeg vender tilbage",
+    "en": "I return"
+   },
+   {
+    "da": "jeg vendte tilbage",
+    "en": "I returned"
+   },
+   {
+    "da": "jeg er vendt tilbage",
+    "en": "I have returned"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme tilbage",
+    "en": "to come back"
+   },
+   {
+    "da": "at gå tilbage",
+    "en": "to go back"
+   },
+   {
+    "da": "at vende om",
+    "en": "to turn around"
+   },
+   {
+    "da": "at svare",
+    "en": "to answer"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **vende tilbage** til Danmark næste år.",
+   "en": "We want to return to Denmark next year."
+  }
+ },
+ "at vente": {
+  "file": "v.json",
+  "explanation": "\"At vente\" means \"to wait\": \"Jeg venter på bussen\" (I am waiting for the bus). It can also mean \"to expect\": \"Hun venter barn\" (She is expecting a baby).",
+  "forms": [
+   {
+    "da": "at vente",
+    "en": "to wait"
+   },
+   {
+    "da": "jeg venter",
+    "en": "I wait"
+   },
+   {
+    "da": "jeg ventede",
+    "en": "I waited"
+   },
+   {
+    "da": "jeg har ventet",
+    "en": "I have waited"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ventetid",
+    "en": "a waiting time"
+   },
+   {
+    "da": "at vente på",
+    "en": "to wait for"
+   },
+   {
+    "da": "et venteværelse",
+    "en": "a waiting room"
+   }
+  ],
+  "sentence": {
+   "da": "Børn kan ikke **vente** til jul.",
+   "en": "Kids cannot wait for Christmas."
+  }
+ },
+ "at vente på": {
+  "file": "v.json",
+  "explanation": "\"At vente på\" means \"to wait for\" someone or something. The small word \"på\" (for) stays at the end of a question: \"Hvem venter du på?\" (Who are you waiting for?)",
+  "forms": [
+   {
+    "da": "at vente på",
+    "en": "to wait for"
+   },
+   {
+    "da": "jeg venter på",
+    "en": "I wait for"
+   },
+   {
+    "da": "jeg ventede på",
+    "en": "I waited for"
+   },
+   {
+    "da": "jeg har ventet på",
+    "en": "I have waited for"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ventetid",
+    "en": "a waiting time"
+   },
+   {
+    "da": "et venteværelse",
+    "en": "a waiting room"
+   },
+   {
+    "da": "at forvente",
+    "en": "to expect"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **vente på** bussen.",
+   "en": "I have to wait for the bus."
+  }
+ },
+ "at verificere": {
+  "file": "v.json",
+  "explanation": "\"At verificere\" means \"to verify\": you make sure that something is true or correct, such as who a person is. Banks and websites use it for identity: \"at verificere sin identitet\" (to verify your identity).",
+  "forms": [
+   {
+    "da": "at verificere",
+    "en": "to verify"
+   },
+   {
+    "da": "jeg verificerer",
+    "en": "I verify"
+   },
+   {
+    "da": "jeg verificerede",
+    "en": "I verified"
+   },
+   {
+    "da": "jeg har verificeret",
+    "en": "I have verified"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bekræfte",
+    "en": "to confirm"
+   },
+   {
+    "da": "at kontrollere",
+    "en": "to check"
+   },
+   {
+    "da": "at godkende",
+    "en": "to approve"
+   }
+  ],
+  "sentence": {
+   "da": "Journalisten vil **verificere** kilderne, fordi nyheden kan være falsk.",
+   "en": "The journalist wants to verify the sources because the news may be false."
+  }
+ },
+ "at vide": {
+  "file": "v.json",
+  "explanation": "\"At vide\" means \"to know\" a fact: \"Jeg ved det ikke\" (I do not know). For knowing a person or a place, Danish uses a different word, \"at kende\" (to know someone): \"Jeg kender Anna\" (I know Anna).",
+  "forms": [
+   {
+    "da": "at vide",
+    "en": "to know (a fact)"
+   },
+   {
+    "da": "jeg ved",
+    "en": "I know"
+   },
+   {
+    "da": "jeg vidste",
+    "en": "I knew"
+   },
+   {
+    "da": "jeg har vidst",
+    "en": "I have known"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forstå",
+    "en": "to understand"
+   },
+   {
+    "da": "en viden",
+    "en": "knowledge"
+   },
+   {
+    "da": "at vise",
+    "en": "to show"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **vide** dit telefonnummer.",
+   "en": "You need to know your phone number."
+  }
+ },
+ "at videreføre": {
+  "file": "v.json",
+  "explanation": "\"At videreføre\" means \"to continue\", in the sense of carrying on something that already exists, such as a tradition or a project that others began. For simply keeping going, say \"at fortsætte\" (to continue): \"Jeg fortsætter med at læse\" (I keep on reading).",
+  "forms": [
+   {
+    "da": "at videreføre",
+    "en": "to continue"
+   },
+   {
+    "da": "jeg viderefører",
+    "en": "I continue"
+   },
+   {
+    "da": "jeg videreførte",
+    "en": "I continued"
+   },
+   {
+    "da": "jeg har videreført",
+    "en": "I have continued"
+   }
+  ],
+  "related": [
+   {
+    "da": "at overtage",
+    "en": "to take over"
+   },
+   {
+    "da": "at opretholde",
+    "en": "to maintain"
+   },
+   {
+    "da": "at afslutte",
+    "en": "to finish"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **videreføre** familiens firma, når hendes far går på pension.",
+   "en": "She wants to carry on the family business when her father retires."
+  }
+ },
+ "at videregive": {
+  "file": "v.json",
+  "explanation": "\"At videregive\" means \"to pass on\", to give information or an object on to another person: \"Jeg videregiver beskeden til chefen\" (I pass the message on to the boss).",
+  "forms": [
+   {
+    "da": "at videregive",
+    "en": "to pass on"
+   },
+   {
+    "da": "jeg videregiver",
+    "en": "I pass on"
+   },
+   {
+    "da": "jeg videregav",
+    "en": "I passed on"
+   },
+   {
+    "da": "jeg har videregivet",
+    "en": "I have passed on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dele",
+    "en": "to share"
+   },
+   {
+    "da": "at sende videre",
+    "en": "to forward"
+   },
+   {
+    "da": "at afsløre",
+    "en": "to reveal"
+   },
+   {
+    "da": "at overdrage",
+    "en": "to hand over"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen må ikke **videregive** dine oplysninger til andre.",
+   "en": "The doctor may not pass on your information to others."
+  }
+ },
+ "at vidne": {
+  "file": "v.json",
+  "explanation": "\"At vidne\" means \"to testify\": you tell a court what you saw or know. The same word also names the person: \"et vidne\" (a witness). With \"om\" (about) it means \"to show\": \"Resultatet vidner om hårdt arbejde\" (The result shows hard work).",
+  "forms": [
+   {
+    "da": "at vidne",
+    "en": "to testify"
+   },
+   {
+    "da": "jeg vidner",
+    "en": "I testify"
+   },
+   {
+    "da": "jeg vidnede",
+    "en": "I testified"
+   },
+   {
+    "da": "jeg har vidnet",
+    "en": "I have testified"
+   }
+  ],
+  "related": [
+   {
+    "da": "en retssag",
+    "en": "a trial"
+   },
+   {
+    "da": "en dommer",
+    "en": "a judge"
+   },
+   {
+    "da": "en forklaring",
+    "en": "a statement"
+   },
+   {
+    "da": "et bevis",
+    "en": "a piece of evidence"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skal **vidne** i retten, fordi hun så ulykken.",
+   "en": "She must testify in court because she saw the accident."
+  }
+ },
+ "at vifte": {
+  "file": "v.json",
+  "explanation": "\"At vifte\" means \"to wave\" something back and forth, usually with \"med\" (with): \"Han vifter med en avis\" (He waves a newspaper). To wave to a person, use \"at vinke\" (to wave to someone) instead. The noun \"en vifte\" means \"a fan\".",
+  "forms": [
+   {
+    "da": "at vifte",
+    "en": "to wave"
+   },
+   {
+    "da": "jeg vifter",
+    "en": "I wave"
+   },
+   {
+    "da": "jeg viftede",
+    "en": "I waved"
+   },
+   {
+    "da": "jeg har viftet",
+    "en": "I have waved"
+   }
+  ],
+  "related": [
+   {
+    "da": "at svinge",
+    "en": "to swing"
+   },
+   {
+    "da": "at ryste",
+    "en": "to shake"
+   },
+   {
+    "da": "at blafre",
+    "en": "to flap"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene skal **vifte** med små flag, når kongen kommer.",
+   "en": "The children will wave small flags when the king comes."
+  }
+ },
+ "at ville": {
+  "file": "v.json",
+  "explanation": "\"At ville\" means \"to want to\": \"Jeg vil have en kop kaffe\" (I want a cup of coffee). Adding \"gerne\" (gladly) makes it polite: \"Jeg vil gerne have en kop kaffe\" (I would like a cup of coffee). For a duty, use \"skal\" (have to) instead: \"Jeg skal gå\" (I have to go).",
+  "forms": [
+   {
+    "da": "at ville",
+    "en": "to want to / will"
+   },
+   {
+    "da": "jeg vil",
+    "en": "I want to / will"
+   },
+   {
+    "da": "jeg ville",
+    "en": "I wanted to / would"
+   },
+   {
+    "da": "jeg har villet",
+    "en": "I have wanted to"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skulle",
+    "en": "to have to / should"
+   },
+   {
+    "da": "at ønske",
+    "en": "to wish"
+   },
+   {
+    "da": "en vilje",
+    "en": "a will"
+   }
+  ],
+  "sentence": {
+   "da": "Børn kan altid **ville** have mere.",
+   "en": "Kids can always want more."
+  }
+ },
+ "at vinde": {
+  "file": "v.json",
+  "explanation": "\"At vinde\" means \"to win\". The one who wins is \"en vinder\" (a winner).",
+  "forms": [
+   {
+    "da": "at vinde",
+    "en": "to win"
+   },
+   {
+    "da": "jeg vinder",
+    "en": "I win"
+   },
+   {
+    "da": "jeg vandt",
+    "en": "I won"
+   },
+   {
+    "da": "jeg har vundet",
+    "en": "I have won"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tabe",
+    "en": "to lose"
+   },
+   {
+    "da": "en gevinst",
+    "en": "a prize / winnings"
+   },
+   {
+    "da": "en sejr",
+    "en": "a victory"
+   }
+  ],
+  "sentence": {
+   "da": "Holdet med flest mål vil **vinde** kampen.",
+   "en": "The team with the most goals will win the match."
+  }
+ },
+ "at vinke": {
+  "file": "v.json",
+  "explanation": "\"At vinke\" means \"to wave\" your hand. Name the person you wave at with \"til\" (to): \"Han vinkede til mig\" (He waved to me). To wave goodbye, add \"farvel\" (goodbye): \"Han vinkede farvel\" (He waved goodbye).",
+  "forms": [
+   {
+    "da": "at vinke",
+    "en": "to wave"
+   },
+   {
+    "da": "jeg vinker",
+    "en": "I wave"
+   },
+   {
+    "da": "jeg vinkede",
+    "en": "I waved"
+   },
+   {
+    "da": "jeg har vinket",
+    "en": "I have waved"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hilse",
+    "en": "to greet"
+   },
+   {
+    "da": "at vifte",
+    "en": "to fan / flap"
+   },
+   {
+    "da": "et vink",
+    "en": "a wave / hint"
+   },
+   {
+    "da": "at nikke",
+    "en": "to nod"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **vinke** til dig, når toget kører.",
+   "en": "I will wave to you when the train leaves."
+  }
+ },
+ "at vippe": {
+  "file": "v.json",
+  "explanation": "\"At vippe\" means \"to tip\" or \"to rock\": you move up on one side and down on the other. \"En vippe\" is a seesaw, and \"Vip ikke med stolen!\" (Do not rock the chair!) is said to children who lean back.",
+  "forms": [
+   {
+    "da": "at vippe",
+    "en": "to tip / rock"
+   },
+   {
+    "da": "jeg vipper",
+    "en": "I tip / rock"
+   },
+   {
+    "da": "jeg vippede",
+    "en": "I tipped / rocked"
+   },
+   {
+    "da": "jeg har vippet",
+    "en": "I have tipped / rocked"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gynge",
+    "en": "a swing"
+   },
+   {
+    "da": "at balancere",
+    "en": "to balance"
+   },
+   {
+    "da": "at vælte",
+    "en": "to fall over"
+   }
+  ],
+  "sentence": {
+   "da": "Hvis bordet står skævt, kan det **vippe**.",
+   "en": "If the table stands crooked, it can rock."
+  }
+ },
+ "at virke": {
+  "file": "v.json",
+  "explanation": "\"At virke\" means \"to work\" and also \"to seem\". To work means that something functions: \"Bilen virker ikke\" (The car does not work). To seem means that something gives a certain impression: \"Han virker træt\" (He seems tired).",
+  "forms": [
+   {
+    "da": "at virke",
+    "en": "to work / seem"
+   },
+   {
+    "da": "jeg virker",
+    "en": "I work / seem"
+   },
+   {
+    "da": "jeg virkede",
+    "en": "I worked / seemed"
+   },
+   {
+    "da": "jeg har virket",
+    "en": "I have worked / seemed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fungere",
+    "en": "to function"
+   },
+   {
+    "da": "at arbejde",
+    "en": "to work (have a job)"
+   },
+   {
+    "da": "virkelig",
+    "en": "really"
+   },
+   {
+    "da": "en virkning",
+    "en": "an effect"
+   }
+  ],
+  "sentence": {
+   "da": "Telefonen vil ikke **virke** i dag.",
+   "en": "The phone won't work today."
+  }
+ },
+ "at vise": {
+  "file": "v.json",
+  "explanation": "\"At vise\" means \"to show\": \"Jeg viser billedet\" (I show the picture). Danish needs no \"til\" (to) here: \"Hun viser mig bogen\" (She shows me the book).",
+  "forms": [
+   {
+    "da": "at vise",
+    "en": "to show"
+   },
+   {
+    "da": "jeg viser",
+    "en": "I show"
+   },
+   {
+    "da": "jeg viste",
+    "en": "I showed"
+   },
+   {
+    "da": "jeg har vist",
+    "en": "I have shown"
+   }
+  ],
+  "related": [
+   {
+    "da": "at se",
+    "en": "to see"
+   },
+   {
+    "da": "at skjule",
+    "en": "to hide"
+   },
+   {
+    "da": "en visning",
+    "en": "a showing"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **vise** mig vej?",
+   "en": "Can you show me the way?"
+  }
+ },
+ "at vise sig": {
+  "file": "v.json",
+  "explanation": "\"At vise sig\" means \"to turn out\": you find out how a person or situation really is. To name what the person turned out to be, add \"at\" (to) before the verb: \"Hun viste sig at være meget flink\" (She turned out to be very nice).",
+  "forms": [
+   {
+    "da": "at vise sig",
+    "en": "to turn out"
+   },
+   {
+    "da": "det viser sig",
+    "en": "it turns out"
+   },
+   {
+    "da": "det viste sig",
+    "en": "it turned out"
+   },
+   {
+    "da": "det har vist sig",
+    "en": "it has turned out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opdage",
+    "en": "to discover"
+   },
+   {
+    "da": "at ende med",
+    "en": "to end up with"
+   },
+   {
+    "da": "at fremgå",
+    "en": "to appear clearly"
+   },
+   {
+    "da": "at afsløre",
+    "en": "to reveal"
+   }
+  ],
+  "sentence": {
+   "da": "Det kan **vise sig**, at han har ret.",
+   "en": "It may turn out that he is right."
+  }
+ },
+ "at visne": {
+  "file": "v.json",
+  "explanation": "\"At visne\" means \"to wither\": a plant dries up and goes limp because it lacks water or is dying. Danes also use it for something fading away, such as a smile: \"Smilet visnede\" (The smile faded).",
+  "forms": [
+   {
+    "da": "at visne",
+    "en": "to wither"
+   },
+   {
+    "da": "blomsten visner",
+    "en": "the flower withers"
+   },
+   {
+    "da": "blomsten visnede",
+    "en": "the flower withered"
+   },
+   {
+    "da": "blomsten er visnet",
+    "en": "the flower has withered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tørre ud",
+    "en": "to dry out"
+   },
+   {
+    "da": "at dø",
+    "en": "to die"
+   },
+   {
+    "da": "at blomstre",
+    "en": "to bloom"
+   },
+   {
+    "da": "vissen",
+    "en": "wilted"
+   }
+  ],
+  "sentence": {
+   "da": "Blomsterne vil **visne**, når du glemmer at vande dem.",
+   "en": "The flowers will wither when you forget to water them."
+  }
+ },
+ "at visualisere": {
+  "file": "v.json",
+  "explanation": "\"At visualisere\" means \"to visualize\", to picture something in your mind or to show information as a drawing or graph.",
+  "forms": [
+   {
+    "da": "at visualisere",
+    "en": "to visualize"
+   },
+   {
+    "da": "jeg visualiserer",
+    "en": "I visualize"
+   },
+   {
+    "da": "jeg visualiserede",
+    "en": "I visualized"
+   },
+   {
+    "da": "jeg har visualiseret",
+    "en": "I have visualized"
+   }
+  ],
+  "related": [
+   {
+    "da": "en visualisering",
+    "en": "a visualization"
+   },
+   {
+    "da": "at forestille sig",
+    "en": "to imagine"
+   },
+   {
+    "da": "at illustrere",
+    "en": "to illustrate"
+   }
+  ],
+  "sentence": {
+   "da": "Vi bruger et diagram til at **visualisere** tallene.",
+   "en": "We use a chart to visualize the figures."
+  }
+ },
+ "at vokse": {
+  "file": "v.json",
+  "explanation": "\"At vokse\" means \"to grow\", for anything that gets bigger, such as children, plants and things: \"Børn vokser hurtigt\" (Children grow fast). To grow up is \"at vokse op\": \"Jeg voksede op i Odense\" (I grew up in Odense). To grow tomatoes, use \"at dyrke\" (to cultivate).",
+  "forms": [
+   {
+    "da": "at vokse",
+    "en": "to grow"
+   },
+   {
+    "da": "jeg vokser",
+    "en": "I grow"
+   },
+   {
+    "da": "jeg voksede",
+    "en": "I grew"
+   },
+   {
+    "da": "jeg er vokset",
+    "en": "I have grown"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vækst",
+    "en": "growth"
+   },
+   {
+    "da": "at skrumpe",
+    "en": "to shrink"
+   },
+   {
+    "da": "at blive større",
+    "en": "to get bigger"
+   }
+  ],
+  "sentence": {
+   "da": "Planterne kan **vokse** meget hurtigt.",
+   "en": "The plants can grow very fast."
+  }
+ },
+ "at vokse op": {
+  "file": "v.json",
+  "explanation": "\"At vokse op\" means \"to grow up\": you spend your childhood somewhere. Without \"op\" (up), \"at vokse\" means \"to grow\", for example for plants: \"Træet vokser hurtigt\" (The tree grows quickly).",
+  "forms": [
+   {
+    "da": "at vokse op",
+    "en": "to grow up"
+   },
+   {
+    "da": "jeg vokser op",
+    "en": "I grow up"
+   },
+   {
+    "da": "jeg voksede op",
+    "en": "I grew up"
+   },
+   {
+    "da": "jeg er vokset op",
+    "en": "I have grown up"
+   }
+  ],
+  "related": [
+   {
+    "da": "voksen",
+    "en": "grown-up"
+   },
+   {
+    "da": "en opvækst",
+    "en": "an upbringing"
+   },
+   {
+    "da": "en barndom",
+    "en": "a childhood"
+   }
+  ],
+  "sentence": {
+   "da": "Mine børn skal **vokse op** på landet.",
+   "en": "My children will grow up in the countryside."
+  }
+ },
+ "at vove": {
+  "file": "v.json",
+  "explanation": "\"At vove\" means \"to dare\": you do something even though it might go wrong. In everyday speech Danes mostly say \"at turde\" (to dare): \"Jeg tør ikke\" (I do not dare).",
+  "forms": [
+   {
+    "da": "at vove",
+    "en": "to dare"
+   },
+   {
+    "da": "jeg vover",
+    "en": "I dare"
+   },
+   {
+    "da": "jeg vovede",
+    "en": "I dared"
+   },
+   {
+    "da": "jeg har vovet",
+    "en": "I have dared"
+   }
+  ],
+  "related": [
+   {
+    "da": "dristig",
+    "en": "bold"
+   },
+   {
+    "da": "en fare",
+    "en": "a danger"
+   },
+   {
+    "da": "at risikere",
+    "en": "to risk"
+   },
+   {
+    "da": "modig",
+    "en": "brave"
+   }
+  ],
+  "sentence": {
+   "da": "Ingen vil **vove** at gå ind i det mørke hus.",
+   "en": "No one will dare to go into the dark house."
+  }
+ },
+ "at vride": {
+  "file": "v.json",
+  "explanation": "\"At vride\" means \"to twist\" or \"to wring\": you turn something hard with your hands, often to squeeze the water out. With \"sig\" (oneself) it means \"to writhe\": \"Han vred sig af smerte\" (He writhed in pain).",
+  "forms": [
+   {
+    "da": "at vride",
+    "en": "to twist / wring"
+   },
+   {
+    "da": "jeg vrider",
+    "en": "I twist / wring"
+   },
+   {
+    "da": "jeg vred",
+    "en": "I twisted / wrung"
+   },
+   {
+    "da": "jeg har vredet",
+    "en": "I have twisted / wrung"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dreje",
+    "en": "to turn"
+   },
+   {
+    "da": "at presse",
+    "en": "to squeeze"
+   },
+   {
+    "da": "at sno",
+    "en": "to wind"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **vride** vandet ud af håndklædet.",
+   "en": "You must wring the water out of the towel."
+  }
+ },
+ "at vrimle": {
+  "file": "v.json",
+  "explanation": "\"At vrimle\" means \"to swarm\" or \"to teem\": a place is full of many small things moving about, such as people or insects. It is followed by \"med\" (with): \"Gaden vrimler med mennesker\" (The street teems with people).",
+  "forms": [
+   {
+    "da": "at vrimle",
+    "en": "to swarm / teem"
+   },
+   {
+    "da": "det vrimler",
+    "en": "it swarms / teems"
+   },
+   {
+    "da": "det vrimlede",
+    "en": "it swarmed / teemed"
+   },
+   {
+    "da": "det har vrimlet",
+    "en": "it has swarmed / teemed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at myldre",
+    "en": "to throng"
+   },
+   {
+    "da": "at summe",
+    "en": "to buzz"
+   },
+   {
+    "da": "en menneskemængde",
+    "en": "a crowd"
+   },
+   {
+    "da": "at være fyldt med",
+    "en": "to be full of"
+   }
+  ],
+  "sentence": {
+   "da": "Om sommeren kan stranden **vrimle** med børn og turister.",
+   "en": "In the summer, the beach can swarm with children and tourists."
+  }
+ },
+ "at vurdere": {
+  "file": "v.json",
+  "explanation": "\"At vurdere\" means \"to evaluate\": you form an opinion about how good, big or valuable something is. It is also used for setting a price: \"Huset bliver vurderet til tre millioner\" (The house is valued at three million).",
+  "forms": [
+   {
+    "da": "at vurdere",
+    "en": "to evaluate"
+   },
+   {
+    "da": "jeg vurderer",
+    "en": "I evaluate"
+   },
+   {
+    "da": "jeg vurderede",
+    "en": "I evaluated"
+   },
+   {
+    "da": "jeg har vurderet",
+    "en": "I have evaluated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vurdering",
+    "en": "an assessment"
+   },
+   {
+    "da": "at bedømme",
+    "en": "to judge"
+   },
+   {
+    "da": "at skønne",
+    "en": "to estimate"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen skal **vurdere**, om skaden er alvorlig.",
+   "en": "The doctor must assess whether the injury is serious."
+  }
+ },
+ "at vågne": {
+  "file": "v.json",
+  "explanation": "\"At vågne\" means \"to wake up\" by yourself. When someone else wakes you, Danish uses \"at vække\" (to wake someone).",
+  "forms": [
+   {
+    "da": "at vågne",
+    "en": "to wake up"
+   },
+   {
+    "da": "jeg vågner",
+    "en": "I wake up"
+   },
+   {
+    "da": "jeg vågnede",
+    "en": "I woke up"
+   },
+   {
+    "da": "jeg er vågnet",
+    "en": "I have woken up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   },
+   {
+    "da": "at stå op",
+    "en": "to get up"
+   },
+   {
+    "da": "vågen",
+    "en": "awake"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **vågne** klokken syv.",
+   "en": "I have to wake up at seven."
+  }
+ },
+ "at vågne op": {
+  "file": "v.json",
+  "explanation": "\"At vågne op\" means \"to wake up\", the moment you become awake. People often just say \"at vågne\" (to wake up), so \"op\" (up) is optional.",
+  "forms": [
+   {
+    "da": "at vågne op",
+    "en": "to wake up"
+   },
+   {
+    "da": "jeg vågner op",
+    "en": "I wake up"
+   },
+   {
+    "da": "jeg vågnede op",
+    "en": "I woke up"
+   },
+   {
+    "da": "jeg er vågnet op",
+    "en": "I have woken up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   },
+   {
+    "da": "at falde i søvn",
+    "en": "to fall asleep"
+   },
+   {
+    "da": "vågen",
+    "en": "awake"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg plejer at **vågne op** klokken seks.",
+   "en": "I usually wake up at six."
+  }
+ },
+ "at vædde": {
+  "file": "v.json",
+  "explanation": "\"At vædde\" means \"to bet\". To name the event you bet on, use \"på\" (on): \"Vi vædder på vejret\" (We bet on the weather).",
+  "forms": [
+   {
+    "da": "at vædde",
+    "en": "to bet"
+   },
+   {
+    "da": "jeg vædder",
+    "en": "I bet"
+   },
+   {
+    "da": "jeg væddede",
+    "en": "I bet"
+   },
+   {
+    "da": "jeg har væddet",
+    "en": "I have bet"
+   }
+  ],
+  "related": [
+   {
+    "da": "et væddemål",
+    "en": "a bet (the wager)"
+   },
+   {
+    "da": "en gevinst",
+    "en": "winnings"
+   },
+   {
+    "da": "at satse",
+    "en": "to stake"
+   },
+   {
+    "da": "at gamble",
+    "en": "to gamble"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **vædde** på, at holdet vinder i aften.",
+   "en": "I will bet that the team wins tonight."
+  }
+ },
+ "at vække": {
+  "file": "v.json",
+  "explanation": "\"At vække\" means \"to wake someone\": \"Jeg vækker børnene\" (I wake the children). To wake up yourself, say \"at vågne\" (to wake up): \"Jeg vågnede tidligt\" (I woke up early).",
+  "forms": [
+   {
+    "da": "at vække",
+    "en": "to wake (someone)"
+   },
+   {
+    "da": "jeg vækker",
+    "en": "I wake (someone)"
+   },
+   {
+    "da": "jeg vækkede",
+    "en": "I woke (someone)"
+   },
+   {
+    "da": "jeg har vækket",
+    "en": "I have woken (someone)"
+   }
+  ],
+  "related": [
+   {
+    "da": "et vækkeur",
+    "en": "an alarm clock"
+   },
+   {
+    "da": "at stå op",
+    "en": "to get up"
+   },
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **vække** mig klokken seks?",
+   "en": "Can you wake me at six?"
+  }
+ },
+ "at vælge": {
+  "file": "v.json",
+  "explanation": "\"At vælge\" means \"to choose\" or \"to pick\". \"Et valg\" means both \"a choice\" and \"an election\".",
+  "forms": [
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   },
+   {
+    "da": "jeg vælger",
+    "en": "I choose"
+   },
+   {
+    "da": "jeg valgte",
+    "en": "I chose"
+   },
+   {
+    "da": "jeg har valgt",
+    "en": "I have chosen"
+   }
+  ],
+  "related": [
+   {
+    "da": "at foretrække",
+    "en": "to prefer"
+   },
+   {
+    "da": "en mulighed",
+    "en": "an option"
+   },
+   {
+    "da": "at udvælge",
+    "en": "to select"
+   }
+  ],
+  "sentence": {
+   "da": "Du må **vælge** rød eller blå.",
+   "en": "You may choose red or blue."
+  }
+ },
+ "at vælte": {
+  "file": "v.json",
+  "explanation": "\"At vælte\" means \"to knock over\" and \"to tip over\": \"Jeg vælter koppen\" (I knock over the cup). Something can also go over by itself: \"Træet væltede\" (The tree fell over).",
+  "forms": [
+   {
+    "da": "at vælte",
+    "en": "to knock over / tip over"
+   },
+   {
+    "da": "jeg vælter",
+    "en": "I knock over / tip over"
+   },
+   {
+    "da": "jeg væltede",
+    "en": "I knocked over / tipped over"
+   },
+   {
+    "da": "jeg har væltet",
+    "en": "I have knocked over / tipped over"
+   }
+  ],
+  "related": [
+   {
+    "da": "at falde",
+    "en": "to fall"
+   },
+   {
+    "da": "at vippe",
+    "en": "to tip"
+   },
+   {
+    "da": "at slå omkuld",
+    "en": "to knock over"
+   },
+   {
+    "da": "at tabe",
+    "en": "to drop"
+   }
+  ],
+  "sentence": {
+   "da": "Pas på, du kan **vælte** glasset!",
+   "en": "Be careful, you might knock over the glass!"
+  }
+ },
+ "at vænne sig af med": {
+  "file": "v.json",
+  "explanation": "\"At vænne sig af med\" means \"to get out of the habit of\": you stop doing something you used to do regularly: \"Han vænnede sig af med at ryge\" (He got out of the habit of smoking). It is the opposite of \"at vænne sig til\" (to get used to).",
+  "forms": [
+   {
+    "da": "at vænne sig af med",
+    "en": "to get out of the habit of"
+   },
+   {
+    "da": "jeg vænner mig af med",
+    "en": "I get out of the habit of"
+   },
+   {
+    "da": "jeg vænnede mig af med",
+    "en": "I got out of the habit of"
+   },
+   {
+    "da": "jeg har vænnet mig af med",
+    "en": "I have gotten out of the habit of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at holde op med",
+    "en": "to quit"
+   },
+   {
+    "da": "at droppe",
+    "en": "to drop"
+   },
+   {
+    "da": "at slippe af med",
+    "en": "to get rid of"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **vænne sig af med** at spise sukker hver dag.",
+   "en": "He wants to get out of the habit of eating sugar every day."
+  }
+ },
+ "at vænne sig til": {
+  "file": "v.json",
+  "explanation": "\"At vænne sig til\" means \"to get used to\": you slowly become used to something. To say you are already used to it, use \"vant til\" (used to): \"Jeg er vant til kulden\" (I am used to the cold).",
+  "forms": [
+   {
+    "da": "at vænne sig til",
+    "en": "to get used to"
+   },
+   {
+    "da": "jeg vænner mig til",
+    "en": "I get used to"
+   },
+   {
+    "da": "jeg vænnede mig til",
+    "en": "I got used to"
+   },
+   {
+    "da": "jeg har vænnet mig til",
+    "en": "I have gotten used to"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vane",
+    "en": "a habit"
+   },
+   {
+    "da": "at tilpasse sig",
+    "en": "to adapt"
+   },
+   {
+    "da": "at falde til",
+    "en": "to settle in"
+   }
+  ],
+  "sentence": {
+   "da": "Det tager tid at **vænne sig til** et nyt sted.",
+   "en": "It takes time to get used to a new place."
+  }
+ },
+ "at værdsætte": {
+  "file": "v.json",
+  "explanation": "\"At værdsætte\" means \"to appreciate\": you value something and are glad of it: \"Jeg værdsætter din hjælp\" (I appreciate your help). It never means to go up in value, as it can in English. For that, say \"at stige i værdi\" (to rise in value).",
+  "forms": [
+   {
+    "da": "at værdsætte",
+    "en": "to appreciate"
+   },
+   {
+    "da": "jeg værdsætter",
+    "en": "I appreciate"
+   },
+   {
+    "da": "jeg værdsatte",
+    "en": "I appreciated"
+   },
+   {
+    "da": "jeg har værdsat",
+    "en": "I have appreciated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sætte pris på",
+    "en": "to be thankful for"
+   },
+   {
+    "da": "at takke",
+    "en": "to thank"
+   },
+   {
+    "da": "at skatte",
+    "en": "to treasure"
+   },
+   {
+    "da": "taknemmelig",
+    "en": "grateful"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal kunne **værdsætte** de små ting i livet.",
+   "en": "You have to be able to appreciate the small things in life."
+  }
+ },
+ "at være": {
+  "file": "v.json",
+  "explanation": "\"At være\" means \"to be\": \"Jeg er glad\" (I am happy). The form \"er\" (am, is, are) is the same for everyone: \"jeg er\" (I am), \"han er\" (he is), \"vi er\" (we are).",
+  "forms": [
+   {
+    "da": "at være",
+    "en": "to be"
+   },
+   {
+    "da": "jeg er",
+    "en": "I am"
+   },
+   {
+    "da": "jeg var",
+    "en": "I was"
+   },
+   {
+    "da": "jeg har været",
+    "en": "I have been"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blive",
+    "en": "to become / stay"
+   },
+   {
+    "da": "at have",
+    "en": "to have"
+   },
+   {
+    "da": "at findes",
+    "en": "to exist"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **være** hjemme i dag.",
+   "en": "I want to be at home today."
+  }
+ },
+ "at være bange for": {
+  "file": "v.json",
+  "explanation": "\"At være bange for\" means \"to be afraid of\". To name the action you fear, add \"at\" (to) before the verb: \"Jeg er bange for at falde\" (I am afraid of falling).",
+  "forms": [
+   {
+    "da": "at være bange for",
+    "en": "to be afraid of"
+   },
+   {
+    "da": "jeg er bange for",
+    "en": "I am afraid of"
+   },
+   {
+    "da": "jeg var bange for",
+    "en": "I was afraid of"
+   },
+   {
+    "da": "jeg har været bange for",
+    "en": "I have been afraid of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at frygte",
+    "en": "to fear"
+   },
+   {
+    "da": "modig",
+    "en": "brave"
+   },
+   {
+    "da": "nervøs",
+    "en": "nervous"
+   },
+   {
+    "da": "angst",
+    "en": "anxiety"
+   }
+  ],
+  "sentence": {
+   "da": "Børn kan **være bange for** mørket.",
+   "en": "Children can be afraid of the dark."
+  }
+ },
+ "at være enig": {
+  "file": "v.json",
+  "explanation": "\"At være enig\" means \"to agree\" and literally says \"to be in agreement\": \"Jeg er enig med dig\" (I agree with you). To name the topic you agree on, add \"i\" (in): \"Vi er enige i det\" (We agree on that).",
+  "forms": [
+   {
+    "da": "at være enig",
+    "en": "to agree"
+   },
+   {
+    "da": "jeg er enig",
+    "en": "I agree"
+   },
+   {
+    "da": "jeg var enig",
+    "en": "I agreed"
+   },
+   {
+    "da": "jeg har været enig",
+    "en": "I have agreed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at være uenig",
+    "en": "to disagree"
+   },
+   {
+    "da": "enighed",
+    "en": "agreement"
+   },
+   {
+    "da": "at blive enige",
+    "en": "to reach an agreement"
+   },
+   {
+    "da": "at tilslutte sig",
+    "en": "to side with"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **være enig** i det.",
+   "en": "I can agree with that."
+  }
+ },
+ "at være i tvivl": {
+  "file": "v.json",
+  "explanation": "\"At være i tvivl\" means \"to be in doubt\" or \"to be unsure\": \"Jeg er i tvivl om svaret\" (I am unsure about the answer).",
+  "forms": [
+   {
+    "da": "at være i tvivl",
+    "en": "to be in doubt"
+   },
+   {
+    "da": "jeg er i tvivl",
+    "en": "I am in doubt"
+   },
+   {
+    "da": "jeg var i tvivl",
+    "en": "I was in doubt"
+   },
+   {
+    "da": "jeg har været i tvivl",
+    "en": "I have been in doubt"
+   }
+  ],
+  "related": [
+   {
+    "da": "usikker",
+    "en": "unsure"
+   },
+   {
+    "da": "sikker",
+    "en": "sure"
+   },
+   {
+    "da": "at tvivle på",
+    "en": "to doubt"
+   },
+   {
+    "da": "at vide",
+    "en": "to know"
+   }
+  ],
+  "sentence": {
+   "da": "Når man ikke ved svaret, kan man **være i tvivl**.",
+   "en": "When you do not know the answer, you can be in doubt."
+  }
+ },
+ "at være kærester": {
+  "file": "v.json",
+  "explanation": "\"At være kærester\" means \"to be dating\" or \"to be a couple\". One person in the couple is \"en kæreste\" (a boyfriend or girlfriend).",
+  "forms": [
+   {
+    "da": "at være kærester",
+    "en": "to be dating"
+   },
+   {
+    "da": "vi er kærester",
+    "en": "we are dating"
+   },
+   {
+    "da": "vi var kærester",
+    "en": "we were dating"
+   },
+   {
+    "da": "vi har været kærester",
+    "en": "we have been dating"
+   }
+  ],
+  "related": [
+   {
+    "da": "at date",
+    "en": "to date"
+   },
+   {
+    "da": "at forelske sig",
+    "en": "to fall in love"
+   },
+   {
+    "da": "at fri",
+    "en": "to propose"
+   },
+   {
+    "da": "at blive gift",
+    "en": "to get married"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **være kærester** med dig.",
+   "en": "I would like us to be a couple."
+  }
+ },
+ "at være med": {
+  "file": "v.json",
+  "explanation": "\"At være med\" means \"to take part\": you join what others are doing: \"Er du med?\" (Are you in?) It also means \"to follow along\": \"Jeg er ikke helt med\" (I am not quite following).",
+  "forms": [
+   {
+    "da": "at være med",
+    "en": "to take part / be in on it"
+   },
+   {
+    "da": "jeg er med",
+    "en": "I take part"
+   },
+   {
+    "da": "jeg var med",
+    "en": "I took part"
+   },
+   {
+    "da": "jeg har været med",
+    "en": "I have taken part"
+   }
+  ],
+  "related": [
+   {
+    "da": "at deltage",
+    "en": "to take part"
+   },
+   {
+    "da": "at melde sig",
+    "en": "to sign up"
+   },
+   {
+    "da": "at stå udenfor",
+    "en": "to stay out"
+   }
+  ],
+  "sentence": {
+   "da": "Vil du **være med**, når vi spiller fodbold?",
+   "en": "Do you want to join in when we play soccer?"
+  }
+ },
+ "at være nødt til": {
+  "file": "v.json",
+  "explanation": "\"At være nødt til\" means \"to have to\", when you have no other choice: \"Jeg er nødt til at gå nu\" (I have to go now). It is stronger than \"skal\" (must, am going to), which can be just a plan: \"Jeg skal på arbejde\" (I am going to work).",
+  "forms": [
+   {
+    "da": "at være nødt til",
+    "en": "to have to"
+   },
+   {
+    "da": "jeg er nødt til",
+    "en": "I have to"
+   },
+   {
+    "da": "jeg var nødt til",
+    "en": "I had to"
+   },
+   {
+    "da": "jeg har været nødt til",
+    "en": "I have had to"
+   }
+  ],
+  "related": [
+   {
+    "da": "at måtte",
+    "en": "to have to"
+   },
+   {
+    "da": "at tvinge",
+    "en": "to force"
+   },
+   {
+    "da": "nødvendig",
+    "en": "necessary"
+   }
+  ],
+  "sentence": {
+   "da": "Hvis bussen er væk, kan vi **være nødt til** at gå.",
+   "en": "If the bus is gone, we may have to walk."
+  }
+ },
+ "at være oppe at køre": {
+  "file": "v.json",
+  "explanation": "\"At være oppe at køre\" means \"to be worked up\", to be tense, excited and full of restless energy: \"Han er helt oppe at køre før eksamen\" (He is all worked up before the exam).",
+  "forms": [
+   {
+    "da": "Jeg er oppe at køre",
+    "en": "I am worked up"
+   },
+   {
+    "da": "Han var oppe at køre i går",
+    "en": "He was worked up yesterday"
+   },
+   {
+    "da": "Vær ikke så oppe at køre",
+    "en": "Do not be so worked up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at være stresset",
+    "en": "to be stressed"
+   },
+   {
+    "da": "at være ophidset",
+    "en": "to be agitated"
+   },
+   {
+    "da": "at tage den med ro",
+    "en": "to take it easy"
+   },
+   {
+    "da": "at falde til ro",
+    "en": "to calm down"
+   }
+  ],
+  "sentence": {
+   "da": "Han plejer at **være oppe at køre**, når der er eksamen.",
+   "en": "He tends to be worked up when there is an exam."
+  }
+ },
+ "at være på bar bund": {
+  "file": "v.json",
+  "explanation": "\"At være på bar bund\" means \"to be at a total loss\": you have no idea what to do or answer, with nothing to build on. Literally, it is \"to be on bare bottom\".",
+  "forms": [
+   {
+    "da": "Jeg er på bar bund",
+    "en": "I am at a total loss"
+   },
+   {
+    "da": "Hun var på bar bund",
+    "en": "She was at a total loss"
+   },
+   {
+    "da": "Vi står på bar bund",
+    "en": "We are at a total loss"
+   }
+  ],
+  "related": [
+   {
+    "da": "at være rådvild",
+    "en": "to be bewildered"
+   },
+   {
+    "da": "at tabe tråden",
+    "en": "to lose the thread"
+   },
+   {
+    "da": "at have styr på",
+    "en": "to have under control"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **være på bar bund** til eksamen, fordi han ikke har læst.",
+   "en": "He will be at a total loss at the exam because he has not studied."
+  }
+ },
+ "at være på herrens mark": {
+  "file": "v.json",
+  "explanation": "\"At være på Herrens mark\" means \"to be completely lost\": you are totally confused or wrong about something: \"Der er du helt på Herrens mark\" (You are completely off there). Literally, it is \"to be on the Lord's field\".",
+  "forms": [
+   {
+    "da": "Jeg er helt på Herrens mark",
+    "en": "I am completely lost"
+   },
+   {
+    "da": "Han var på Herrens mark",
+    "en": "He was completely lost"
+   },
+   {
+    "da": "Vi var helt på Herrens mark",
+    "en": "We were completely lost"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage fejl",
+    "en": "to be mistaken"
+   },
+   {
+    "da": "at være helt ude at svømme",
+    "en": "to be out of your depth"
+   },
+   {
+    "da": "at være på afveje",
+    "en": "to be astray"
+   },
+   {
+    "da": "at være på rette spor",
+    "en": "to be on the right track"
+   }
+  ],
+  "sentence": {
+   "da": "Han kan **være på Herrens mark**, når han ikke har læst opgaven.",
+   "en": "He can be completely lost when he has not read the assignment."
+  }
+ },
+ "at være på vej": {
+  "file": "v.json",
+  "explanation": "\"At være på vej\" means \"to be on the way\": \"Jeg er på vej hjem\" (I am on my way home). To name the place you are heading to, add \"til\" (to): \"Han er på vej til Aarhus\" (He is on his way to Aarhus).",
+  "forms": [
+   {
+    "da": "at være på vej",
+    "en": "to be on one's way"
+   },
+   {
+    "da": "jeg er på vej",
+    "en": "I am on my way"
+   },
+   {
+    "da": "jeg var på vej",
+    "en": "I was on my way"
+   },
+   {
+    "da": "jeg har været på vej",
+    "en": "I have been on my way"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ankomme",
+    "en": "to arrive"
+   },
+   {
+    "da": "at tage afsted",
+    "en": "to set off"
+   },
+   {
+    "da": "undervejs",
+    "en": "on the way"
+   },
+   {
+    "da": "at komme",
+    "en": "to come"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **være på vej** inden otte.",
+   "en": "We must be on our way before eight."
+  }
+ },
+ "at være syg": {
+  "file": "v.json",
+  "explanation": "\"At være syg\" means \"to be sick\" or \"to be ill\": \"Jeg er syg\" (I am sick). To get sick, say \"at blive syg\" (to become sick): \"Jeg bliver syg\" (I am getting sick).",
+  "forms": [
+   {
+    "da": "at være syg",
+    "en": "to be sick"
+   },
+   {
+    "da": "jeg er syg",
+    "en": "I am sick"
+   },
+   {
+    "da": "jeg var syg",
+    "en": "I was sick"
+   },
+   {
+    "da": "jeg har været syg",
+    "en": "I have been sick"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sygdom",
+    "en": "an illness"
+   },
+   {
+    "da": "at melde sig syg",
+    "en": "to call in sick"
+   },
+   {
+    "da": "rask",
+    "en": "healthy"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **være syg** i ferien.",
+   "en": "I do not want to be sick on vacation."
+  }
+ }
+}

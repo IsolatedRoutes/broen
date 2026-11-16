@@ -1,0 +1,4038 @@
+{
+ "kold": {
+  "file": "k.json",
+  "explanation": "\"Kold\" means \"cold\", for weather, drinks and food, and also for people who seem unfriendly. To say you feel cold, use \"Jeg fryser\" (I am freezing), not \"Jeg er kold\" (I am cold), which sounds as though you are an unfriendly person.",
+  "forms": [
+   {
+    "da": "en kold dag",
+    "en": "a cold day"
+   },
+   {
+    "da": "et koldt glas vand",
+    "en": "a cold glass of water"
+   },
+   {
+    "da": "kolde dage",
+    "en": "cold days"
+   }
+  ],
+  "related": [
+   {
+    "da": "varm",
+    "en": "warm"
+   },
+   {
+    "da": "kulde",
+    "en": "cold (the weather or feeling)"
+   },
+   {
+    "da": "iskold",
+    "en": "ice-cold"
+   },
+   {
+    "da": "kølig",
+    "en": "cool"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **kold** dag, og jeg fryser.",
+   "en": "It is a cold day, and I am freezing."
+  }
+ },
+ "kolesterol": {
+  "file": "k.json",
+  "explanation": "\"Kolesterol\" means \"cholesterol\", a waxy substance in the body. Doctors check it because too much can narrow the arteries.",
+  "forms": [
+   {
+    "da": "kolesterol",
+    "en": "cholesterol"
+   },
+   {
+    "da": "kolesterolet",
+    "en": "the cholesterol"
+   },
+   {
+    "da": "højt kolesterol",
+    "en": "high cholesterol"
+   }
+  ],
+  "related": [
+   {
+    "da": "et blodtryk",
+    "en": "blood pressure"
+   },
+   {
+    "da": "et fedt",
+    "en": "a fat"
+   },
+   {
+    "da": "en blodprøve",
+    "en": "a blood test"
+   },
+   {
+    "da": "en hjertesygdom",
+    "en": "a heart disease"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen siger, at for højt **kolesterol** kan skade hjertet.",
+   "en": "The doctor says that too high cholesterol can harm the heart."
+  }
+ },
+ "kom nu": {
+  "file": "k.json",
+  "explanation": "\"Kom nu\" means \"come on\", and literally \"come now\". It can encourage someone: \"Kom nu, du kan godt!\" (Come on, you can do it!). To say you do not believe something, use it with a doubtful tone: \"Kom nu, det passer ikke!\" (Come on, that is not true!).",
+  "forms": [
+   {
+    "da": "Kom nu!",
+    "en": "Come on!"
+   },
+   {
+    "da": "Kom nu, vi skal af sted.",
+    "en": "Come on, we have to go."
+   },
+   {
+    "da": "Åh, kom nu!",
+    "en": "Oh, come on!"
+   }
+  ],
+  "related": [
+   {
+    "da": "skynd dig",
+    "en": "hurry up"
+   },
+   {
+    "da": "vent lidt",
+    "en": "wait a bit"
+   },
+   {
+    "da": "at komme",
+    "en": "to come"
+   }
+  ],
+  "sentence": {
+   "da": "**Kom nu**, bussen kører snart!",
+   "en": "Come on, the bus leaves soon!"
+  }
+ },
+ "kommende": {
+  "file": "k.json",
+  "explanation": "\"Kommende\" means \"upcoming\" or \"future\", about something that will come: \"den kommende weekend\" (the coming weekend). It also fits a future role: \"mine kommende kolleger\" (my future colleagues).",
+  "forms": [
+   {
+    "da": "en kommende uge",
+    "en": "an upcoming week"
+   },
+   {
+    "da": "et kommende møde",
+    "en": "an upcoming meeting"
+   },
+   {
+    "da": "kommende gæster",
+    "en": "future guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "næste",
+    "en": "next"
+   },
+   {
+    "da": "fremtidig",
+    "en": "future"
+   },
+   {
+    "da": "forestående",
+    "en": "approaching"
+   },
+   {
+    "da": "tidligere",
+    "en": "former"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har et **kommende** møde på mandag.",
+   "en": "We have an upcoming meeting on Monday."
+  }
+ },
+ "kommunikation": {
+  "file": "k.json",
+  "explanation": "\"En kommunikation\" means \"communication\", how people share thoughts and news with each other in speech, writing or media. It is often used for how well people understand each other at work or at home: \"Vi har brug for bedre kommunikation\" (We need better communication).",
+  "forms": [
+   {
+    "da": "en kommunikation",
+    "en": "a communication"
+   },
+   {
+    "da": "kommunikationen",
+    "en": "the communication"
+   },
+   {
+    "da": "god kommunikation",
+    "en": "good communication"
+   }
+  ],
+  "related": [
+   {
+    "da": "en information",
+    "en": "a piece of information"
+   },
+   {
+    "da": "en samtale",
+    "en": "a conversation"
+   },
+   {
+    "da": "en besked",
+    "en": "a message"
+   },
+   {
+    "da": "et sprog",
+    "en": "a language"
+   }
+  ],
+  "sentence": {
+   "da": "God **kommunikation** i teamet gør arbejdet lettere for alle.",
+   "en": "Good communication in the team makes work easier for everyone."
+  }
+ },
+ "kompetent": {
+  "file": "k.json",
+  "explanation": "\"Kompetent\" means \"competent\", for someone who has the ability and knowledge to do a task well. It also fits the help or advice such a person gives: \"kompetent hjælp\" (competent help).",
+  "forms": [
+   {
+    "da": "en kompetent læge",
+    "en": "a competent doctor"
+   },
+   {
+    "da": "et kompetent team",
+    "en": "a competent team"
+   },
+   {
+    "da": "kompetente medarbejdere",
+    "en": "competent employees"
+   }
+  ],
+  "related": [
+   {
+    "da": "dygtig",
+    "en": "skilled"
+   },
+   {
+    "da": "erfaren",
+    "en": "experienced"
+   },
+   {
+    "da": "kvalificeret",
+    "en": "qualified"
+   },
+   {
+    "da": "ukompetent",
+    "en": "incompetent"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen er meget **kompetent** og forklarer tingene godt.",
+   "en": "The doctor is very competent and explains things well."
+  }
+ },
+ "kompleks": {
+  "file": "k.json",
+  "explanation": "\"Kompleks\" means \"complex\", something with many connected parts that is hard to understand fully. The everyday word for something hard to do is \"kompliceret\" (complicated).",
+  "forms": [
+   {
+    "da": "en kompleks situation",
+    "en": "a complex situation"
+   },
+   {
+    "da": "et komplekst system",
+    "en": "a complex system"
+   },
+   {
+    "da": "komplekse regler",
+    "en": "complex rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "enkel",
+    "en": "simple"
+   },
+   {
+    "da": "indviklet",
+    "en": "intricate"
+   },
+   {
+    "da": "sammensat",
+    "en": "composite"
+   },
+   {
+    "da": "overskuelig",
+    "en": "manageable"
+   }
+  ],
+  "sentence": {
+   "da": "Sagen er **kompleks**, fordi mange mennesker er involveret.",
+   "en": "The case is complex because many people are involved."
+  }
+ },
+ "komplet": {
+  "file": "k.json",
+  "explanation": "\"Komplet\" means \"complete\", with all the parts. It can also mean \"completely\": \"komplet umuligt\" (completely impossible).",
+  "forms": [
+   {
+    "da": "en komplet liste",
+    "en": "a complete list"
+   },
+   {
+    "da": "et komplet program",
+    "en": "a complete program"
+   },
+   {
+    "da": "komplette sæt",
+    "en": "complete sets"
+   }
+  ],
+  "related": [
+   {
+    "da": "færdig",
+    "en": "finished"
+   },
+   {
+    "da": "hel",
+    "en": "whole"
+   },
+   {
+    "da": "ufuldstændig",
+    "en": "incomplete"
+   },
+   {
+    "da": "at komplettere",
+    "en": "to complete"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har nu et **komplet** sæt tallerkener.",
+   "en": "We now have a complete set of plates."
+  }
+ },
+ "kompliceret": {
+  "file": "k.json",
+  "explanation": "\"Kompliceret\" means \"complicated\", for a matter, rules or a situation that is hard to follow. It is the opposite of \"enkel\" (simple).",
+  "forms": [
+   {
+    "da": "en kompliceret sag",
+    "en": "a complicated matter"
+   },
+   {
+    "da": "et kompliceret system",
+    "en": "a complicated system"
+   },
+   {
+    "da": "komplicerede regler",
+    "en": "complicated rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "indviklet",
+    "en": "intricate"
+   },
+   {
+    "da": "svær",
+    "en": "difficult"
+   },
+   {
+    "da": "nem",
+    "en": "easy"
+   },
+   {
+    "da": "at komplicere",
+    "en": "to complicate"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **kompliceret** situation, og ingen forstår den.",
+   "en": "It is a complicated situation, and no one understands it."
+  }
+ },
+ "kompost": {
+  "file": "k.json",
+  "explanation": "\"En kompost\" means \"compost\", rotted food scraps, leaves and cuttings that turn into rich soil for plants. It is also the bin or heap where this happens: \"Madaffald kommer i komposten\" (Food scraps go in the compost).",
+  "forms": [
+   {
+    "da": "en kompost",
+    "en": "compost"
+   },
+   {
+    "da": "komposten",
+    "en": "the compost"
+   },
+   {
+    "da": "komposter",
+    "en": "composts"
+   },
+   {
+    "da": "komposterne",
+    "en": "the composts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gødning",
+    "en": "a fertilizer"
+   },
+   {
+    "da": "muldjord",
+    "en": "topsoil"
+   },
+   {
+    "da": "at kompostere",
+    "en": "to compost"
+   }
+  ],
+  "sentence": {
+   "da": "Kartoffelskræller og blade kan blive til **kompost** i haven.",
+   "en": "Potato peels and leaves can turn into compost in the garden."
+  }
+ },
+ "koncentreret": {
+  "file": "k.json",
+  "explanation": "\"Koncentreret\" means \"focused\", for a person who gives full attention to something, and \"concentrated\", for a liquid that is strong because there is little water in it. To say that you focus, use \"at koncentrere sig\" (to concentrate): \"Jeg koncentrerer mig\" (I am concentrating).",
+  "forms": [
+   {
+    "da": "en koncentreret elev",
+    "en": "a focused student"
+   },
+   {
+    "da": "koncentreret saft",
+    "en": "concentrated juice"
+   },
+   {
+    "da": "et koncentreret blik",
+    "en": "a focused look"
+   }
+  ],
+  "related": [
+   {
+    "da": "opmærksom",
+    "en": "attentive"
+   },
+   {
+    "da": "adspredt",
+    "en": "scattered"
+   },
+   {
+    "da": "fortyndet",
+    "en": "diluted"
+   },
+   {
+    "da": "distraheret",
+    "en": "distracted"
+   }
+  ],
+  "sentence": {
+   "da": "Han sidder **koncentreret** og læser hele eftermiddagen.",
+   "en": "He sits focused and reads all afternoon."
+  }
+ },
+ "kondition": {
+  "file": "k.json",
+  "explanation": "\"En kondition\" means \"fitness\", how long you can run, swim or bike before you are out of breath. Do not use it for the general state of something, as English \"condition\" can: for that Danes say \"tilstand\" (condition): \"bilens tilstand\" (the condition of the car).",
+  "forms": [
+   {
+    "da": "kondition",
+    "en": "fitness"
+   },
+   {
+    "da": "god kondition",
+    "en": "good fitness"
+   },
+   {
+    "da": "at træne sin kondition",
+    "en": "to train your fitness"
+   }
+  ],
+  "related": [
+   {
+    "da": "udholdenhed",
+    "en": "endurance"
+   },
+   {
+    "da": "styrke",
+    "en": "strength"
+   },
+   {
+    "da": "at være i form",
+    "en": "to be in shape"
+   },
+   {
+    "da": "en træning",
+    "en": "training"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg løber hver dag for at få bedre **kondition**.",
+   "en": "I run every day to improve my fitness."
+  }
+ },
+ "konfetti": {
+  "file": "k.json",
+  "explanation": "\"Konfetti\" means \"confetti\", small colorful pieces of paper thrown to celebrate. This word has no article, so leave out \"en\": \"Vi kaster konfetti\" (We throw confetti).",
+  "forms": [
+   {
+    "da": "konfetti",
+    "en": "confetti"
+   },
+   {
+    "da": "konfettien",
+    "en": "the confetti"
+   },
+   {
+    "da": "noget konfetti",
+    "en": "some confetti"
+   },
+   {
+    "da": "konfetti i luften",
+    "en": "confetti in the air"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ballon",
+    "en": "a balloon"
+   },
+   {
+    "da": "en fest",
+    "en": "a party"
+   },
+   {
+    "da": "et bryllup",
+    "en": "a wedding"
+   },
+   {
+    "da": "en serpentine",
+    "en": "a streamer"
+   }
+  ],
+  "sentence": {
+   "da": "Brudeparret fik **konfetti** over hovedet.",
+   "en": "The bride and groom got confetti over their heads."
+  }
+ },
+ "kongelig": {
+  "file": "k.json",
+  "explanation": "\"Kongelig\" means \"royal\", for what belongs to the monarch or the royal family. Many Danish institutions carry it in their name, for example \"Det Kongelige Teater\" (The Royal Theater).",
+  "forms": [
+   {
+    "da": "en kongelig gæst",
+    "en": "a royal guest"
+   },
+   {
+    "da": "et kongeligt bryllup",
+    "en": "a royal wedding"
+   },
+   {
+    "da": "kongelige slotte",
+    "en": "royal palaces"
+   }
+  ],
+  "related": [
+   {
+    "da": "en konge",
+    "en": "a king"
+   },
+   {
+    "da": "en dronning",
+    "en": "a queen"
+   },
+   {
+    "da": "en prins",
+    "en": "a prince"
+   },
+   {
+    "da": "en prinsesse",
+    "en": "a princess"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **kongelig** og bor på Amalienborg i København.",
+   "en": "She is royal and lives at Amalienborg in Copenhagen."
+  }
+ },
+ "konkret": {
+  "file": "k.json",
+  "explanation": "\"Konkret\" means \"concrete\" in the sense of clear and specific, not general: \"et konkret forslag\" (a specific proposal). It is not the building material, which is called \"beton\" (concrete).",
+  "forms": [
+   {
+    "da": "en konkret plan",
+    "en": "a concrete plan"
+   },
+   {
+    "da": "et konkret eksempel",
+    "en": "a concrete example"
+   },
+   {
+    "da": "konkrete tal",
+    "en": "concrete numbers"
+   }
+  ],
+  "related": [
+   {
+    "da": "abstrakt",
+    "en": "abstract"
+   },
+   {
+    "da": "præcis",
+    "en": "precise"
+   },
+   {
+    "da": "håndgribelig",
+    "en": "tangible"
+   },
+   {
+    "da": "vag",
+    "en": "vague"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du give et **konkret** eksempel, så jeg forstår det?",
+   "en": "Can you give a concrete example so that I understand it?"
+  }
+ },
+ "konkurs": {
+  "file": "k.json",
+  "explanation": "\"Konkurs\" means \"bankrupt\" and \"bankruptcy\", when a firm cannot pay what it owes and has to close. A common phrase is \"at gå konkurs\" (to go bankrupt): \"Firmaet gik konkurs\" (The company went bankrupt).",
+  "forms": [
+   {
+    "da": "Butikken er konkurs.",
+    "en": "The shop is bankrupt."
+   },
+   {
+    "da": "en konkurs",
+    "en": "a bankruptcy"
+   },
+   {
+    "da": "efter konkursen",
+    "en": "after the bankruptcy"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gæld",
+    "en": "a debt"
+   },
+   {
+    "da": "en kreditor",
+    "en": "a creditor"
+   },
+   {
+    "da": "insolvent",
+    "en": "insolvent"
+   },
+   {
+    "da": "en likvidation",
+    "en": "a liquidation"
+   }
+  ],
+  "sentence": {
+   "da": "Butikken måtte lukke, fordi ejeren ikke kunne betale og var **konkurs**.",
+   "en": "The shop had to close because the owner could not pay and was bankrupt."
+  }
+ },
+ "konservativ": {
+  "file": "k.json",
+  "explanation": "\"Konservativ\" means \"conservative\", for people or views that like traditions and prefer things to stay as they are. In Denmark it is also the name of a party, \"Det Konservative Folkeparti\" (The Conservative People's Party).",
+  "forms": [
+   {
+    "da": "en konservativ politiker",
+    "en": "a conservative politician"
+   },
+   {
+    "da": "et konservativt parti",
+    "en": "a conservative party"
+   },
+   {
+    "da": "konservative holdninger",
+    "en": "conservative views"
+   }
+  ],
+  "related": [
+   {
+    "da": "progressiv",
+    "en": "progressive"
+   },
+   {
+    "da": "moderne",
+    "en": "modern"
+   },
+   {
+    "da": "venstreorienteret",
+    "en": "left-wing"
+   },
+   {
+    "da": "højreorienteret",
+    "en": "right-wing"
+   }
+  ],
+  "sentence": {
+   "da": "Min bedstefar er meget **konservativ** og kan ikke lide forandringer.",
+   "en": "My grandfather is very conservative and does not like changes."
+  }
+ },
+ "konstant": {
+  "file": "k.json",
+  "explanation": "\"Konstant\" means \"constant\", something that keeps going without change: \"Der er konstant larm\" (There is constant noise). It also works for something that stays the same: \"en konstant temperatur\" (a constant temperature).",
+  "forms": [
+   {
+    "da": "en konstant lyd",
+    "en": "a constant sound"
+   },
+   {
+    "da": "et konstant tryk",
+    "en": "a constant pressure"
+   },
+   {
+    "da": "konstante problemer",
+    "en": "constant problems"
+   }
+  ],
+  "related": [
+   {
+    "da": "vedvarende",
+    "en": "ongoing"
+   },
+   {
+    "da": "evig",
+    "en": "eternal"
+   },
+   {
+    "da": "foranderlig",
+    "en": "changeable"
+   },
+   {
+    "da": "uforanderlig",
+    "en": "unchanging"
+   }
+  ],
+  "sentence": {
+   "da": "Telefonen ringer **konstant**, og det stopper aldrig.",
+   "en": "The phone rings constantly, and it never stops."
+  }
+ },
+ "kontant": {
+  "file": "k.json",
+  "explanation": "\"Kontant\" means \"cash\" or \"in cash\". To pay by card, say \"Jeg betaler med kort\" (I pay by card).",
+  "forms": [
+   {
+    "da": "kontant betaling",
+    "en": "cash payment"
+   },
+   {
+    "da": "betale kontant",
+    "en": "to pay in cash"
+   },
+   {
+    "da": "Kun kontant",
+    "en": "Cash only"
+   }
+  ],
+  "related": [
+   {
+    "da": "kontanter",
+    "en": "cash (the money)"
+   },
+   {
+    "da": "et betalingskort",
+    "en": "a payment card"
+   },
+   {
+    "da": "et kreditkort",
+    "en": "a credit card"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har ikke kort og betaler **kontant**.",
+   "en": "I have no card and pay in cash."
+  }
+ },
+ "kontanthjælp": {
+  "file": "k.json",
+  "explanation": "\"En kontanthjælp\" means \"a welfare benefit\", money from the municipality (\"kommunen\") to adults who have no work or other income. It is built from kontant (cash) and hjælp (help).",
+  "forms": [
+   {
+    "da": "at modtage kontanthjælp",
+    "en": "to receive welfare"
+   },
+   {
+    "da": "kontanthjælpen",
+    "en": "the welfare benefit"
+   },
+   {
+    "da": "på kontanthjælp",
+    "en": "on welfare"
+   }
+  ],
+  "related": [
+   {
+    "da": "dagpenge",
+    "en": "unemployment benefits"
+   },
+   {
+    "da": "SU",
+    "en": "student grant"
+   },
+   {
+    "da": "en pension",
+    "en": "a pension"
+   },
+   {
+    "da": "en førtidspension",
+    "en": "an early disability pension"
+   }
+  ],
+  "sentence": {
+   "da": "Hun får **kontanthjælp**, når hun hverken har job eller penge.",
+   "en": "She gets welfare when she has neither a job nor money."
+  }
+ },
+ "korrekt": {
+  "file": "k.json",
+  "explanation": "\"Korrekt\" means \"correct\", and sounds a bit formal: \"Svaret er korrekt\" (The answer is correct). In everyday talk, people often say \"rigtig\" (right) instead: \"Svaret er rigtigt\" (The answer is right).",
+  "forms": [
+   {
+    "da": "et korrekt svar",
+    "en": "a correct answer"
+   },
+   {
+    "da": "en korrekt løsning",
+    "en": "a correct solution"
+   },
+   {
+    "da": "korrekte oplysninger",
+    "en": "correct information"
+   }
+  ],
+  "related": [
+   {
+    "da": "forkert",
+    "en": "wrong"
+   },
+   {
+    "da": "præcis",
+    "en": "exact"
+   },
+   {
+    "da": "fejlfri",
+    "en": "flawless"
+   },
+   {
+    "da": "nøjagtig",
+    "en": "accurate"
+   }
+  ],
+  "sentence": {
+   "da": "Du får point, fordi dit svar er **korrekt**.",
+   "en": "You get points because your answer is correct."
+  }
+ },
+ "korrupt": {
+  "file": "k.json",
+  "explanation": "\"Korrupt\" means \"corrupt\", for people or systems that misuse power for personal gain. The matching word for the thing itself is \"korruption\" (corruption).",
+  "forms": [
+   {
+    "da": "en korrupt politiker",
+    "en": "a corrupt politician"
+   },
+   {
+    "da": "et korrupt system",
+    "en": "a corrupt system"
+   },
+   {
+    "da": "korrupte embedsmænd",
+    "en": "corrupt officials"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bestikkelse",
+    "en": "a bribe"
+   },
+   {
+    "da": "uærlig",
+    "en": "dishonest"
+   },
+   {
+    "da": "svindel",
+    "en": "fraud"
+   },
+   {
+    "da": "ærlig",
+    "en": "honest"
+   }
+  ],
+  "sentence": {
+   "da": "Dommeren tog imod penge og var derfor **korrupt**.",
+   "en": "The judge accepted money and was therefore corrupt."
+  }
+ },
+ "kort": {
+  "file": "k.json",
+  "explanation": "\"Kort\" means \"short\", for length and for time. There is also a different word \"et kort\", which means \"a card\" or \"a map\": \"et kort over byen\" (a map of the city).",
+  "forms": [
+   {
+    "da": "en kort tur",
+    "en": "a short trip"
+   },
+   {
+    "da": "et kort brev",
+    "en": "a short letter"
+   },
+   {
+    "da": "korte dage",
+    "en": "short days"
+   }
+  ],
+  "related": [
+   {
+    "da": "lang",
+    "en": "long"
+   },
+   {
+    "da": "kortere",
+    "en": "shorter"
+   },
+   {
+    "da": "at forkorte",
+    "en": "to shorten"
+   }
+  ],
+  "sentence": {
+   "da": "Hans hår er **kort**, ikke langt.",
+   "en": "His hair is short, not long."
+  }
+ },
+ "kort sagt": {
+  "file": "k.json",
+  "explanation": "\"Kort sagt\" means \"in short\" and comes before the main point of what you have been saying. It is built from kort (short) and sagt (said).",
+  "forms": [
+   {
+    "da": "kort sagt",
+    "en": "in short"
+   },
+   {
+    "da": "Kort sagt, det virker.",
+    "en": "In short, it works."
+   },
+   {
+    "da": "kort sagt nej",
+    "en": "in short, no"
+   }
+  ],
+  "related": [
+   {
+    "da": "alt i alt",
+    "en": "all in all"
+   },
+   {
+    "da": "med andre ord",
+    "en": "in other words"
+   },
+   {
+    "da": "for at sige det kort",
+    "en": "to put it briefly"
+   },
+   {
+    "da": "kort fortalt",
+    "en": "briefly told"
+   }
+  ],
+  "sentence": {
+   "da": "**Kort sagt**, jeg kan ikke komme i morgen.",
+   "en": "In short, I cannot come tomorrow."
+  }
+ },
+ "kortvarig": {
+  "file": "k.json",
+  "explanation": "\"Kortvarig\" means \"short-lived\", for an effect, a visit or a feeling that is over quickly.",
+  "forms": [
+   {
+    "da": "en kortvarig glæde",
+    "en": "a brief joy"
+   },
+   {
+    "da": "et kortvarigt besøg",
+    "en": "a brief visit"
+   },
+   {
+    "da": "kortvarige problemer",
+    "en": "short-lived problems"
+   }
+  ],
+  "related": [
+   {
+    "da": "langvarig",
+    "en": "long-lasting"
+   },
+   {
+    "da": "midlertidig",
+    "en": "temporary"
+   },
+   {
+    "da": "forbigående",
+    "en": "passing"
+   },
+   {
+    "da": "flygtig",
+    "en": "fleeting"
+   }
+  ],
+  "sentence": {
+   "da": "Smerten var **kortvarig**, og efter en time var den væk.",
+   "en": "The pain was short-lived, and after an hour it was gone."
+  }
+ },
+ "kostbar": {
+  "file": "k.json",
+  "explanation": "\"Kostbar\" means \"costly\" or \"precious\", for something worth a lot. It can be about money, but it also fits what matters to you: \"kostbare minder\" (precious memories).",
+  "forms": [
+   {
+    "da": "en kostbar vase",
+    "en": "a costly vase"
+   },
+   {
+    "da": "et kostbart maleri",
+    "en": "a costly painting"
+   },
+   {
+    "da": "kostbare smykker",
+    "en": "precious jewelry"
+   }
+  ],
+  "related": [
+   {
+    "da": "dyr",
+    "en": "expensive"
+   },
+   {
+    "da": "værdifuld",
+    "en": "valuable"
+   },
+   {
+    "da": "uvurderlig",
+    "en": "priceless"
+   },
+   {
+    "da": "billig",
+    "en": "cheap"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må ikke spilde tiden, fordi den er **kostbar**.",
+   "en": "We must not waste time because it is precious."
+  }
+ },
+ "kraftig": {
+  "file": "k.json",
+  "explanation": "\"Kraftig\" means \"strong\" in the sense of powerful or heavy, such as wind, rain, blows and sounds. About a person's body it means heavily built: \"en kraftig mand\" (a heavily built man). For muscles and strength, Danes say \"stærk\" (strong) instead: \"en stærk mand\" (a strong man).",
+  "forms": [
+   {
+    "da": "en kraftig vind",
+    "en": "a strong wind"
+   },
+   {
+    "da": "et kraftigt slag",
+    "en": "a hard blow"
+   },
+   {
+    "da": "kraftige regnskyl",
+    "en": "heavy downpours"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kraft",
+    "en": "a force"
+   },
+   {
+    "da": "voldsom",
+    "en": "intense"
+   },
+   {
+    "da": "svag",
+    "en": "weak"
+   },
+   {
+    "da": "solid",
+    "en": "solid"
+   }
+  ],
+  "sentence": {
+   "da": "Der var **kraftig** regn hele natten, så gaden stod under vand.",
+   "en": "There was heavy rain all night, so the street was flooded."
+  }
+ },
+ "kraftigt": {
+  "file": "k.json",
+  "explanation": "\"Kraftigt\" means \"strongly\" or \"heavily\", and tells how hard or how much something happens. In the news it often goes with change: \"Valutaen faldt kraftigt\" (The currency fell sharply).",
+  "forms": [
+   {
+    "da": "Det regner kraftigt",
+    "en": "It is raining heavily"
+   },
+   {
+    "da": "Hun rystede kraftigt på hovedet",
+    "en": "She shook her head hard"
+   },
+   {
+    "da": "kraftigt forandret",
+    "en": "greatly changed"
+   }
+  ],
+  "related": [
+   {
+    "da": "voldsomt",
+    "en": "violently"
+   },
+   {
+    "da": "meget",
+    "en": "a lot"
+   },
+   {
+    "da": "betydeligt",
+    "en": "considerably"
+   },
+   {
+    "da": "svagt",
+    "en": "weakly"
+   }
+  ],
+  "sentence": {
+   "da": "Priserne steg **kraftigt**, og mange har svært ved at betale.",
+   "en": "Prices rose sharply, and many have trouble paying."
+  }
+ },
+ "kreativ": {
+  "file": "k.json",
+  "explanation": "\"Kreativ\" means \"creative\", full of new and different ideas. You can also say it about a way of solving a problem: \"en kreativ løsning\" (a creative solution).",
+  "forms": [
+   {
+    "da": "en kreativ idé",
+    "en": "a creative idea"
+   },
+   {
+    "da": "et kreativt job",
+    "en": "a creative job"
+   },
+   {
+    "da": "kreative idéer",
+    "en": "creative ideas"
+   }
+  ],
+  "related": [
+   {
+    "da": "kreativitet",
+    "en": "creativity"
+   },
+   {
+    "da": "opfindsom",
+    "en": "inventive"
+   },
+   {
+    "da": "fantasifuld",
+    "en": "imaginative"
+   },
+   {
+    "da": "at skabe",
+    "en": "to create"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **kreativ** og tegner mange flotte billeder.",
+   "en": "She is creative and draws many nice pictures."
+  }
+ },
+ "kreativitet": {
+  "file": "k.json",
+  "explanation": "\"Kreativitet\" means \"creativity\", the ability to think up new ideas or make something original. It is used for art, but also for solving problems at work: \"Vi har brug for kreativitet i løsningen\" (We need creativity in the solution).",
+  "forms": [
+   {
+    "da": "kreativitet",
+    "en": "creativity"
+   },
+   {
+    "da": "kreativiteten",
+    "en": "the creativity"
+   },
+   {
+    "da": "stor kreativitet",
+    "en": "great creativity"
+   }
+  ],
+  "related": [
+   {
+    "da": "fantasi",
+    "en": "imagination"
+   },
+   {
+    "da": "opfindsomhed",
+    "en": "inventiveness"
+   },
+   {
+    "da": "originalitet",
+    "en": "originality"
+   },
+   {
+    "da": "innovativ",
+    "en": "innovative"
+   }
+  ],
+  "sentence": {
+   "da": "Børn har masser af **kreativitet**, når de tegner og leger.",
+   "en": "Children have lots of creativity when they draw and play."
+  }
+ },
+ "kredit": {
+  "file": "k.json",
+  "explanation": "\"En kredit\" means \"credit\", the right to take goods or money now and pay for them later. A shop or a bank can give it to you.",
+  "forms": [
+   {
+    "da": "en kredit",
+    "en": "a credit"
+   },
+   {
+    "da": "krediten",
+    "en": "the credit"
+   },
+   {
+    "da": "at give kredit",
+    "en": "to give credit"
+   }
+  ],
+  "related": [
+   {
+    "da": "et lån",
+    "en": "a loan"
+   },
+   {
+    "da": "en rente",
+    "en": "an interest rate"
+   },
+   {
+    "da": "et kreditkort",
+    "en": "a credit card"
+   },
+   {
+    "da": "kontant",
+    "en": "in cash"
+   }
+  ],
+  "sentence": {
+   "da": "Hun købte sofaen på **kredit** og betaler hver måned.",
+   "en": "She bought the sofa on credit and pays every month."
+  }
+ },
+ "kriminalitet": {
+  "file": "k.json",
+  "explanation": "\"Kriminalitet\" means \"crime\", all the illegal acts in a place or a time, and you use it with no \"en\": \"Der er lidt kriminalitet her\" (There is little crime here). For one act, say \"en forbrydelse\" (a crime): \"Tyveriet var en forbrydelse\" (The theft was a crime).",
+  "forms": [
+   {
+    "da": "kriminaliteten",
+    "en": "the crime"
+   },
+   {
+    "da": "lav kriminalitet",
+    "en": "low crime"
+   },
+   {
+    "da": "kriminalitet i byen",
+    "en": "crime in the city"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forbryder",
+    "en": "a criminal"
+   },
+   {
+    "da": "en straf",
+    "en": "a punishment"
+   },
+   {
+    "da": "en lovovertræder",
+    "en": "a lawbreaker"
+   },
+   {
+    "da": "kriminel",
+    "en": "criminal"
+   }
+  ],
+  "sentence": {
+   "da": "Der er meget lidt **kriminalitet** i vores lille by.",
+   "en": "There is very little crime in our small town."
+  }
+ },
+ "kriminel": {
+  "file": "k.json",
+  "explanation": "\"Kriminel\" means \"criminal\", about crime or breaking the law: \"kriminel adfærd\" (criminal behavior). With \"en\" in front, \"en kriminel\" (a criminal) is the person who breaks the law.",
+  "forms": [
+   {
+    "da": "en kriminel handling",
+    "en": "a criminal act"
+   },
+   {
+    "da": "et kriminelt miljø",
+    "en": "a criminal environment"
+   },
+   {
+    "da": "kriminelle bander",
+    "en": "criminal gangs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forbryder",
+    "en": "a criminal"
+   },
+   {
+    "da": "ulovlig",
+    "en": "illegal"
+   },
+   {
+    "da": "kriminalitet",
+    "en": "crime"
+   },
+   {
+    "da": "lovlig",
+    "en": "legal"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet fandt en **kriminel** bande i byen.",
+   "en": "The police found a criminal gang in the city."
+  }
+ },
+ "kristen": {
+  "file": "k.json",
+  "explanation": "\"Kristen\" means \"Christian\", about the faith that follows Jesus Christ. It is written with a lowercase letter. A Christian person is \"en kristen\" (a Christian).",
+  "forms": [
+   {
+    "da": "en kristen familie",
+    "en": "a Christian family"
+   },
+   {
+    "da": "et kristent land",
+    "en": "a Christian country"
+   },
+   {
+    "da": "kristne mennesker",
+    "en": "Christian people"
+   }
+  ],
+  "related": [
+   {
+    "da": "kristendom",
+    "en": "Christianity"
+   },
+   {
+    "da": "muslimsk",
+    "en": "Muslim"
+   },
+   {
+    "da": "jødisk",
+    "en": "Jewish"
+   },
+   {
+    "da": "buddhistisk",
+    "en": "Buddhist"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **kristen** og går i kirke hver søndag.",
+   "en": "She is Christian and goes to church every Sunday."
+  }
+ },
+ "kristendom": {
+  "file": "k.json",
+  "explanation": "\"Kristendom\" means \"Christianity\", the religion based on the life and teaching of Jesus. This word has no article, so leave out \"en\": \"Jeg læser om kristendom\" (I am reading about Christianity).",
+  "forms": [
+   {
+    "da": "kristendom",
+    "en": "Christianity"
+   },
+   {
+    "da": "kristendommen i Danmark",
+    "en": "Christianity in Denmark"
+   },
+   {
+    "da": "kristendommens historie",
+    "en": "the history of Christianity"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kristen",
+    "en": "a Christian"
+   },
+   {
+    "da": "islam",
+    "en": "Islam"
+   },
+   {
+    "da": "jødedom",
+    "en": "Judaism"
+   },
+   {
+    "da": "Bibelen",
+    "en": "the Bible"
+   }
+  ],
+  "sentence": {
+   "da": "**Kristendom** er den største religion i Danmark.",
+   "en": "Christianity is the biggest religion in Denmark."
+  }
+ },
+ "kritik": {
+  "file": "k.json",
+  "explanation": "\"Kritik\" means \"criticism\". This word has no article, so leave out \"en\": \"Der kom meget kritik\" (There was a lot of criticism).",
+  "forms": [
+   {
+    "da": "Han fik meget kritik.",
+    "en": "He got a lot of criticism."
+   },
+   {
+    "da": "en skarp kritik",
+    "en": "a sharp criticism"
+   },
+   {
+    "da": "Kritikken var rimelig.",
+    "en": "The criticism was fair."
+   }
+  ],
+  "related": [
+   {
+    "da": "at kritisere",
+    "en": "to criticize"
+   },
+   {
+    "da": "kritisk",
+    "en": "critical"
+   },
+   {
+    "da": "ros",
+    "en": "praise"
+   },
+   {
+    "da": "en anmeldelse",
+    "en": "a review"
+   }
+  ],
+  "sentence": {
+   "da": "Hun fik meget **kritik** for sin tale.",
+   "en": "She got a lot of criticism for her speech."
+  }
+ },
+ "kritisk": {
+  "file": "k.json",
+  "explanation": "\"Kritisk\" means \"critical\" in two ways: judging carefully and asking questions, as in \"kritisk tænkning\" (critical thinking), and serious or dangerous, as in \"en kritisk situation\" (a critical situation).",
+  "forms": [
+   {
+    "da": "en kritisk læser",
+    "en": "a critical reader"
+   },
+   {
+    "da": "et kritisk øjeblik",
+    "en": "a critical moment"
+   },
+   {
+    "da": "kritiske spørgsmål",
+    "en": "critical questions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kritik",
+    "en": "a criticism"
+   },
+   {
+    "da": "at kritisere",
+    "en": "to criticize"
+   },
+   {
+    "da": "skeptisk",
+    "en": "skeptical"
+   },
+   {
+    "da": "afgørende",
+    "en": "decisive"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal være **kritisk**, når man læser nyheder på nettet.",
+   "en": "You should be critical when you read news online."
+  }
+ },
+ "krudt": {
+  "file": "k.json",
+  "explanation": "\"Krudt\" means \"gunpowder\", the explosive powder that was used in old guns and cannons. In the saying \"Han har ikke opfundet krudtet\" (He did not invent gunpowder), it means someone is not very clever.",
+  "forms": [
+   {
+    "da": "krudt",
+    "en": "gunpowder"
+   },
+   {
+    "da": "krudtet",
+    "en": "the gunpowder"
+   },
+   {
+    "da": "tørt krudt",
+    "en": "dry gunpowder"
+   }
+  ],
+  "related": [
+   {
+    "da": "en krudttønde",
+    "en": "a powder keg"
+   },
+   {
+    "da": "et fyrværkeri",
+    "en": "a firework"
+   },
+   {
+    "da": "en dynamit",
+    "en": "dynamite"
+   },
+   {
+    "da": "en lunte",
+    "en": "a fuse"
+   }
+  ],
+  "sentence": {
+   "da": "Fyrværkeri indeholder **krudt**, og det brænder meget hurtigt.",
+   "en": "Fireworks contain gunpowder, and it burns very fast."
+  }
+ },
+ "krydderier": {
+  "file": "k.json",
+  "explanation": "\"Krydderier\" means \"spices\", the dry things that add taste to food. Fresh green ones are \"urter\" (herbs).",
+  "forms": [
+   {
+    "da": "et krydderi",
+    "en": "a spice"
+   },
+   {
+    "da": "krydderiet",
+    "en": "the spice"
+   },
+   {
+    "da": "krydderier",
+    "en": "spices"
+   },
+   {
+    "da": "krydderierne",
+    "en": "the spices"
+   }
+  ],
+  "related": [
+   {
+    "da": "peber",
+    "en": "pepper"
+   },
+   {
+    "da": "salt",
+    "en": "salt"
+   },
+   {
+    "da": "kanel",
+    "en": "cinnamon"
+   },
+   {
+    "da": "karry",
+    "en": "curry"
+   }
+  ],
+  "sentence": {
+   "da": "Kanel og karry er **krydderier**.",
+   "en": "Cinnamon and curry are spices."
+  }
+ },
+ "krydret": {
+  "file": "k.json",
+  "explanation": "\"Krydret\" means \"spicy\" or \"seasoned\", with lots of flavor from herbs and spices. Burning hot like chili is \"stærk\" (hot): \"Den er for stærk\" (It is too hot).",
+  "forms": [
+   {
+    "da": "en krydret ret",
+    "en": "a spicy dish"
+   },
+   {
+    "da": "et krydret måltid",
+    "en": "a spicy meal"
+   },
+   {
+    "da": "krydrede retter",
+    "en": "spicy dishes"
+   }
+  ],
+  "related": [
+   {
+    "da": "mild",
+    "en": "mild"
+   },
+   {
+    "da": "et krydderi",
+    "en": "a spice"
+   },
+   {
+    "da": "at krydre",
+    "en": "to season"
+   }
+  ],
+  "sentence": {
+   "da": "Karry og peber gør maden **krydret**.",
+   "en": "Curry and pepper make the food spicy."
+  }
+ },
+ "kræft": {
+  "file": "k.json",
+  "explanation": "\"Kræft\" means \"cancer\", the illness where body cells grow out of control. To name the kind, put the body part in front: \"hudkræft\" (skin cancer).",
+  "forms": [
+   {
+    "da": "kræft",
+    "en": "cancer"
+   },
+   {
+    "da": "kræften",
+    "en": "the cancer"
+   },
+   {
+    "da": "lungekræft",
+    "en": "lung cancer"
+   },
+   {
+    "da": "brystkræft",
+    "en": "breast cancer"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sygdom",
+    "en": "a disease"
+   },
+   {
+    "da": "en tumor",
+    "en": "a tumor"
+   },
+   {
+    "da": "rask",
+    "en": "healthy / well"
+   },
+   {
+    "da": "en behandling",
+    "en": "a treatment"
+   }
+  ],
+  "sentence": {
+   "da": "Hun havde **kræft**, men blev rask efter behandlingen.",
+   "en": "She had cancer but got well after the treatment."
+  }
+ },
+ "krøllet": {
+  "file": "k.json",
+  "explanation": "\"Krøllet\" means \"curly\" for hair, and \"wrinkled\" for cloth or paper that is not smooth.",
+  "forms": [
+   {
+    "da": "krøllet hår",
+    "en": "curly hair"
+   },
+   {
+    "da": "en krøllet skjorte",
+    "en": "a wrinkled shirt"
+   },
+   {
+    "da": "krøllede papirer",
+    "en": "crumpled papers"
+   }
+  ],
+  "related": [
+   {
+    "da": "glat",
+    "en": "straight / smooth"
+   },
+   {
+    "da": "en krølle",
+    "en": "a curl"
+   },
+   {
+    "da": "bølget",
+    "en": "wavy"
+   },
+   {
+    "da": "rynket",
+    "en": "wrinkled"
+   }
+  ],
+  "sentence": {
+   "da": "Min lillesøster har **krøllet** hår, mens jeg har lige hår.",
+   "en": "My little sister has curly hair, while I have straight hair."
+  }
+ },
+ "kul": {
+  "file": "k.json",
+  "explanation": "\"Kul\" means \"coal\", the black rock that is dug out of the ground and burned for heat and electricity. Charcoal for the grill is called \"trækul\" (charcoal).",
+  "forms": [
+   {
+    "da": "kul",
+    "en": "coal"
+   },
+   {
+    "da": "kullet",
+    "en": "the coal"
+   },
+   {
+    "da": "et stykke kul",
+    "en": "a piece of coal"
+   }
+  ],
+  "related": [
+   {
+    "da": "stenkul",
+    "en": "hard coal"
+   },
+   {
+    "da": "brunkul",
+    "en": "lignite"
+   },
+   {
+    "da": "olie",
+    "en": "oil"
+   },
+   {
+    "da": "naturgas",
+    "en": "natural gas"
+   }
+  ],
+  "sentence": {
+   "da": "Før i tiden fyrede man i ovnen med **kul** for at få varme.",
+   "en": "In the past people fired the stove with coal to get warmth."
+  }
+ },
+ "kulde": {
+  "file": "k.json",
+  "explanation": "\"Kulde\" means \"cold\", the low temperature itself. Do not mix it up with \"kold\" (cold), which describes something: \"koldt vand\" (cold water).",
+  "forms": [
+   {
+    "da": "kulde",
+    "en": "cold"
+   },
+   {
+    "da": "kulden",
+    "en": "the cold"
+   },
+   {
+    "da": "i kulden",
+    "en": "in the cold"
+   }
+  ],
+  "related": [
+   {
+    "da": "varme",
+    "en": "heat"
+   },
+   {
+    "da": "kølig",
+    "en": "chilly"
+   },
+   {
+    "da": "frost",
+    "en": "frost"
+   }
+  ],
+  "sentence": {
+   "da": "Om vinteren er der sne og **kulde**.",
+   "en": "In winter there is snow and cold."
+  }
+ },
+ "kulhydrat": {
+  "file": "k.json",
+  "explanation": "\"Et kulhydrat\" means \"a carbohydrate\", the part of food such as bread, pasta, rice and potatoes that gives the body energy.",
+  "forms": [
+   {
+    "da": "et kulhydrat",
+    "en": "a carbohydrate"
+   },
+   {
+    "da": "kulhydratet",
+    "en": "the carbohydrate"
+   },
+   {
+    "da": "kulhydrater",
+    "en": "carbohydrates"
+   },
+   {
+    "da": "kulhydraterne",
+    "en": "the carbohydrates"
+   }
+  ],
+  "related": [
+   {
+    "da": "et protein",
+    "en": "a protein"
+   },
+   {
+    "da": "et fedtstof",
+    "en": "a fat"
+   },
+   {
+    "da": "en vitamin",
+    "en": "a vitamin"
+   },
+   {
+    "da": "et sukker",
+    "en": "a sugar"
+   }
+  ],
+  "sentence": {
+   "da": "Der er meget **kulhydrat** i pasta og ris.",
+   "en": "There is a lot of carbohydrate in pasta and rice."
+  }
+ },
+ "kulstof": {
+  "file": "k.json",
+  "explanation": "\"Kulstof\" means \"carbon\", the chemical element that all living things contain. It is built from kul (coal) and stof (substance), so literally \"coal stuff\".",
+  "forms": [
+   {
+    "da": "kulstof",
+    "en": "carbon"
+   },
+   {
+    "da": "kulstoffet",
+    "en": "the carbon"
+   },
+   {
+    "da": "et atom af kulstof",
+    "en": "an atom of carbon"
+   }
+  ],
+  "related": [
+   {
+    "da": "kvælstof",
+    "en": "nitrogen"
+   },
+   {
+    "da": "en diamant",
+    "en": "a diamond"
+   },
+   {
+    "da": "grafit",
+    "en": "graphite"
+   },
+   {
+    "da": "svovl",
+    "en": "sulfur"
+   }
+  ],
+  "sentence": {
+   "da": "Planter og dyr består blandt andet af **kulstof**.",
+   "en": "Plants and animals consist partly of carbon."
+  }
+ },
+ "kun": {
+  "file": "k.json",
+  "explanation": "\"Kun\" means \"only\" or \"just\", and it limits the word that comes after it. \"Kun jeg ved det\" means \"Only I know it\", while \"Jeg ved kun det\" means \"That is all I know\".",
+  "forms": [
+   {
+    "da": "Jeg har kun én bror.",
+    "en": "I only have one brother."
+   },
+   {
+    "da": "Kun i dag.",
+    "en": "Only today."
+   },
+   {
+    "da": "Det koster kun ti kroner.",
+    "en": "It only costs ten kroner."
+   }
+  ],
+  "related": [
+   {
+    "da": "bare",
+    "en": "just / only (casual)"
+   },
+   {
+    "da": "blot",
+    "en": "merely / just"
+   },
+   {
+    "da": "udelukkende",
+    "en": "solely"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **kun** to kroner.",
+   "en": "I only have two kroner."
+  }
+ },
+ "kundeservice": {
+  "file": "k.json",
+  "explanation": "\"Kundeservice\" means \"customer service\", the part of a company that helps customers. It is built from en kunde (a customer) and service.",
+  "forms": [
+   {
+    "da": "Kontakt kundeservice.",
+    "en": "Contact customer service."
+   },
+   {
+    "da": "dårlig kundeservice",
+    "en": "poor customer service"
+   },
+   {
+    "da": "Kundeservicen er lukket.",
+    "en": "Customer service is closed."
+   }
+  ],
+  "related": [
+   {
+    "da": "en klage",
+    "en": "a complaint"
+   },
+   {
+    "da": "en reklamation",
+    "en": "a claim about faulty goods"
+   },
+   {
+    "da": "en medarbejder",
+    "en": "an employee"
+   },
+   {
+    "da": "et callcenter",
+    "en": "a call center"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg ringede til **kundeservice**, men ingen svarede.",
+   "en": "I called customer service, but nobody answered."
+  }
+ },
+ "kundskab": {
+  "file": "k.json",
+  "explanation": "\"En kundskab\" means \"knowledge\", what you have learned about a subject. The plural \"kundskaber\" is common for what someone knows in school or work: \"gode kundskaber i matematik\" (good knowledge of math).",
+  "forms": [
+   {
+    "da": "en kundskab",
+    "en": "a piece of knowledge"
+   },
+   {
+    "da": "kundskaben",
+    "en": "the knowledge"
+   },
+   {
+    "da": "kundskaber",
+    "en": "pieces of knowledge"
+   },
+   {
+    "da": "kundskaberne",
+    "en": "the pieces of knowledge"
+   }
+  ],
+  "related": [
+   {
+    "da": "en færdighed",
+    "en": "a skill"
+   },
+   {
+    "da": "en uddannelse",
+    "en": "an education"
+   },
+   {
+    "da": "en erfaring",
+    "en": "an experience"
+   },
+   {
+    "da": "en lærdom",
+    "en": "a lesson learned"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen har stor **kundskab** om kroppen og sygdomme.",
+   "en": "The doctor has great knowledge about the body and diseases."
+  }
+ },
+ "kunst": {
+  "file": "k.json",
+  "explanation": "\"Kunst\" means \"art\", the things people make to look at. A work of art is \"et kunstværk\", and a person who makes art is \"en kunstner\" (an artist).",
+  "forms": [
+   {
+    "da": "Jeg elsker kunst",
+    "en": "I love art"
+   },
+   {
+    "da": "moderne kunst",
+    "en": "modern art"
+   },
+   {
+    "da": "et kunstmuseum",
+    "en": "an art museum"
+   }
+  ],
+  "related": [
+   {
+    "da": "et maleri",
+    "en": "a painting"
+   },
+   {
+    "da": "en skulptur",
+    "en": "a sculpture"
+   },
+   {
+    "da": "et museum",
+    "en": "a museum"
+   },
+   {
+    "da": "billedkunst",
+    "en": "visual art / art class"
+   }
+  ],
+  "sentence": {
+   "da": "Hun elsker **kunst** og maler hver weekend.",
+   "en": "She loves art and paints every weekend."
+  }
+ },
+ "kunstig intelligens": {
+  "file": "k.json",
+  "explanation": "\"Kunstig intelligens\" means \"artificial intelligence\", software that can write, translate or recognize pictures. It is built from kunstig (artificial) and intelligens (intelligence), and people often say AI for short.",
+  "forms": [
+   {
+    "da": "kunstig intelligens",
+    "en": "artificial intelligence"
+   },
+   {
+    "da": "Jeg bruger kunstig intelligens",
+    "en": "I use artificial intelligence"
+   },
+   {
+    "da": "AI",
+    "en": "AI (the short form)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en computer",
+    "en": "a computer"
+   },
+   {
+    "da": "en robot",
+    "en": "a robot"
+   },
+   {
+    "da": "maskinlæring",
+    "en": "machine learning"
+   },
+   {
+    "da": "en chatbot",
+    "en": "a chatbot"
+   }
+  ],
+  "sentence": {
+   "da": "Mange bruger **kunstig intelligens** til at skrive tekster.",
+   "en": "Many people use artificial intelligence to write texts."
+  }
+ },
+ "kvalificeret": {
+  "file": "k.json",
+  "explanation": "\"Kvalificeret\" means \"qualified\", for someone with the education or experience a job needs. It is also used for a guess or an opinion that rests on real knowledge: \"et kvalificeret gæt\" (an informed guess).",
+  "forms": [
+   {
+    "da": "en kvalificeret ansøger",
+    "en": "a qualified applicant"
+   },
+   {
+    "da": "kvalificeret arbejdskraft",
+    "en": "qualified workers"
+   },
+   {
+    "da": "kvalificerede lærere",
+    "en": "qualified teachers"
+   }
+  ],
+  "related": [
+   {
+    "da": "uddannet",
+    "en": "trained"
+   },
+   {
+    "da": "egnet",
+    "en": "suitable"
+   },
+   {
+    "da": "ukvalificeret",
+    "en": "unqualified"
+   },
+   {
+    "da": "en kvalifikation",
+    "en": "a qualification"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **kvalificeret** til jobbet, fordi hun har studeret i fem år.",
+   "en": "She is qualified for the job because she has studied for five years."
+  }
+ },
+ "kvalm": {
+  "file": "k.json",
+  "explanation": "\"Kvalm\" means \"nauseous\", how you feel when your stomach is upset and you might vomit. For being sick, use \"syg\" (sick): \"Jeg er syg\" (I am sick).",
+  "forms": [
+   {
+    "da": "en kvalm pige",
+    "en": "a nauseous girl"
+   },
+   {
+    "da": "et kvalmt barn",
+    "en": "a nauseous child"
+   },
+   {
+    "da": "kvalme børn",
+    "en": "nauseous children"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kvalme",
+    "en": "nausea"
+   },
+   {
+    "da": "at kaste op",
+    "en": "to throw up"
+   },
+   {
+    "da": "utilpas",
+    "en": "unwell"
+   },
+   {
+    "da": "svimmel",
+    "en": "dizzy"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **kvalm**, og jeg har ondt i maven.",
+   "en": "I am nauseous and my stomach hurts."
+  }
+ },
+ "kvalme": {
+  "file": "k.json",
+  "explanation": "\"En kvalme\" means \"nausea\", the sick feeling you get before you throw up. It is also used about things you find disgusting: \"Det giver mig kvalme\" (It makes me sick).",
+  "forms": [
+   {
+    "da": "en kvalme",
+    "en": "nausea"
+   },
+   {
+    "da": "kvalmen",
+    "en": "the nausea"
+   },
+   {
+    "da": "Jeg har kvalme.",
+    "en": "I feel nauseous."
+   }
+  ],
+  "related": [
+   {
+    "da": "en opkastning",
+    "en": "vomiting"
+   },
+   {
+    "da": "svimmelhed",
+    "en": "dizziness"
+   },
+   {
+    "da": "kvalm",
+    "en": "nauseous"
+   },
+   {
+    "da": "en mavepine",
+    "en": "a stomachache"
+   }
+  ],
+  "sentence": {
+   "da": "Efter turen på båden fik jeg **kvalme** og måtte sidde ned.",
+   "en": "After the boat trip I felt nauseous and had to sit down."
+  }
+ },
+ "kvart": {
+  "file": "k.json",
+  "explanation": "\"Kvart\" means \"quarter\" and is used when telling the time. \"Kvart over tre\" (a quarter past three) is 3:15, and \"kvart i fire\" (a quarter to four) is 3:45. A quarter of an hour is \"et kvarter\" (15 minutes).",
+  "forms": [
+   {
+    "da": "kvart",
+    "en": "quarter"
+   },
+   {
+    "da": "kvart over tre",
+    "en": "a quarter past three"
+   },
+   {
+    "da": "kvart i fire",
+    "en": "a quarter to four"
+   }
+  ],
+  "related": [
+   {
+    "da": "halv",
+    "en": "half"
+   },
+   {
+    "da": "et sekund",
+    "en": "a second"
+   },
+   {
+    "da": "et minut",
+    "en": "a minute"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ses **kvart** over tre.",
+   "en": "See you at a quarter past three."
+  }
+ },
+ "kvart i": {
+  "file": "k.json",
+  "explanation": "\"Kvart i\" means \"quarter to\". \"Kvart i tre\" is 2:45, fifteen minutes before three. Do not mix it up with \"kvart over\" (quarter past): \"kvart over tre\" is 3:15.",
+  "forms": [
+   {
+    "da": "kvart i tre",
+    "en": "quarter to three"
+   },
+   {
+    "da": "Klokken er kvart i fem.",
+    "en": "It's quarter to five."
+   },
+   {
+    "da": "kvart i otte",
+    "en": "quarter to eight"
+   }
+  ],
+  "related": [
+   {
+    "da": "ti i",
+    "en": "ten to"
+   },
+   {
+    "da": "halv tre",
+    "en": "half past two"
+   },
+   {
+    "da": "fem i",
+    "en": "five to"
+   },
+   {
+    "da": "et kvarter",
+    "en": "a quarter of an hour"
+   }
+  ],
+  "sentence": {
+   "da": "Filmen starter **kvart i** syv.",
+   "en": "The movie starts at a quarter to seven."
+  }
+ },
+ "kvart over": {
+  "file": "k.json",
+  "explanation": "\"Kvart over\" means \"quarter past\", so \"kvart over tre\" is 3:15. Here \"over\" means \"past\". Do not mix it up with \"kvart i\" (quarter to): \"kvart i tre\" is 2:45.",
+  "forms": [
+   {
+    "da": "kvart over tre",
+    "en": "quarter past three"
+   },
+   {
+    "da": "Klokken er kvart over fem.",
+    "en": "It's quarter past five."
+   },
+   {
+    "da": "kvart over otte",
+    "en": "quarter past eight"
+   }
+  ],
+  "related": [
+   {
+    "da": "ti over",
+    "en": "ten past"
+   },
+   {
+    "da": "halv tre",
+    "en": "half past two"
+   },
+   {
+    "da": "fem over",
+    "en": "five past"
+   },
+   {
+    "da": "et kvarter",
+    "en": "a quarter of an hour"
+   }
+  ],
+  "sentence": {
+   "da": "Bussen kommer **kvart over** otte.",
+   "en": "The bus comes at a quarter past eight."
+  }
+ },
+ "kvik": {
+  "file": "k.json",
+  "explanation": "\"Kvik\" means \"quick\", but about thinking and speaking, not about running: a person who understands fast and answers well. For speed in movement, Danes use \"hurtig\" (fast): \"en hurtig bil\" (a fast car).",
+  "forms": [
+   {
+    "da": "en kvik pige",
+    "en": "a quick-witted girl"
+   },
+   {
+    "da": "et kvikt svar",
+    "en": "a quick answer"
+   },
+   {
+    "da": "kvikke børn",
+    "en": "bright children"
+   }
+  ],
+  "related": [
+   {
+    "da": "opvakt",
+    "en": "bright"
+   },
+   {
+    "da": "vittig",
+    "en": "witty"
+   },
+   {
+    "da": "skarp",
+    "en": "sharp"
+   },
+   {
+    "da": "langsom",
+    "en": "slow"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **kvik** og forstår det med det samme.",
+   "en": "She is quick and understands it right away."
+  }
+ },
+ "kvindelig": {
+  "file": "k.json",
+  "explanation": "\"Kvindelig\" means \"female\", and also \"feminine\", as in a feminine quality. It is built from kvinde (woman).",
+  "forms": [
+   {
+    "da": "en kvindelig læge",
+    "en": "a female doctor"
+   },
+   {
+    "da": "et kvindeligt navn",
+    "en": "a female name"
+   },
+   {
+    "da": "kvindelige lærere",
+    "en": "female teachers"
+   }
+  ],
+  "related": [
+   {
+    "da": "mandlig",
+    "en": "male"
+   },
+   {
+    "da": "en pige",
+    "en": "a girl"
+   },
+   {
+    "da": "en dame",
+    "en": "a lady"
+   }
+  ],
+  "sentence": {
+   "da": "Min læge er **kvindelig**, ikke mandlig.",
+   "en": "My doctor is female, not male."
+  }
+ },
+ "kvit": {
+  "file": "k.json",
+  "explanation": "\"Kvit\" means \"even\" or \"quits\", when nobody owes the other person anything, for example after paying back money or returning a favor. In the phrase \"blive kvit med\" (get rid of), it means getting rid of something: \"Jeg vil blive kvit med min forkølelse\" (I want to get rid of my cold).",
+  "forms": [
+   {
+    "da": "Nu er vi kvit",
+    "en": "Now we are even"
+   },
+   {
+    "da": "Er vi kvit?",
+    "en": "Are we even?"
+   },
+   {
+    "da": "Så er vi kvit",
+    "en": "Then we are quits"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gæld",
+    "en": "a debt"
+   },
+   {
+    "da": "skyldig",
+    "en": "owing"
+   },
+   {
+    "da": "at kvittere",
+    "en": "to acknowledge"
+   },
+   {
+    "da": "en kvittering",
+    "en": "a receipt"
+   }
+  ],
+  "sentence": {
+   "da": "Nu har jeg betalt min gæld, og vi er **kvit**.",
+   "en": "Now I have paid my debt and we are even."
+  }
+ },
+ "kvæg": {
+  "file": "k.json",
+  "explanation": "\"Kvæg\" means \"cattle\", the farm animals kept for milk and meat. This word has no article, so leave out \"et\": \"Vi har kvæg på gården\" (We have cattle on the farm). For one animal, say \"en ko\" (a cow) or \"en tyr\" (a bull).",
+  "forms": [
+   {
+    "da": "kvæg",
+    "en": "cattle"
+   },
+   {
+    "da": "kvæget",
+    "en": "the cattle"
+   },
+   {
+    "da": "en flok kvæg",
+    "en": "a herd of cattle"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kalv",
+    "en": "a calf"
+   },
+   {
+    "da": "en okse",
+    "en": "an ox / bull"
+   },
+   {
+    "da": "en kvægbesætning",
+    "en": "a herd of cattle"
+   },
+   {
+    "da": "kvægavl",
+    "en": "cattle farming"
+   }
+  ],
+  "sentence": {
+   "da": "Landmanden har hundrede stykker **kvæg** på marken.",
+   "en": "The farmer has a hundred head of cattle in the field."
+  }
+ },
+ "kylling": {
+  "file": "k.json",
+  "explanation": "\"Kylling\" means \"chicken\", both the bird and the meat you eat. For the meat, you say just \"kylling\" with no \"en\" in front, as in \"kylling med ris\" (chicken with rice).",
+  "forms": [
+   {
+    "da": "en kylling",
+    "en": "a chicken"
+   },
+   {
+    "da": "kyllingen",
+    "en": "the chicken"
+   },
+   {
+    "da": "to kyllinger",
+    "en": "two chickens"
+   }
+  ],
+  "related": [
+   {
+    "da": "en høne",
+    "en": "a hen"
+   },
+   {
+    "da": "kyllingebryst",
+    "en": "chicken breast"
+   },
+   {
+    "da": "en kalkun",
+    "en": "a turkey"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiser **kylling** til aftensmad.",
+   "en": "We are eating chicken for dinner."
+  }
+ },
+ "kål": {
+  "file": "k.json",
+  "explanation": "\"Kål\" means \"cabbage\", a round vegetable that is eaten raw or cooked. It is part of many words, such as \"hvidkål\" (white cabbage) and \"rødkål\" (red cabbage).",
+  "forms": [
+   {
+    "da": "en kål",
+    "en": "a cabbage"
+   },
+   {
+    "da": "kålen",
+    "en": "the cabbage"
+   },
+   {
+    "da": "kålsorter",
+    "en": "kinds of cabbage"
+   },
+   {
+    "da": "kålsorterne",
+    "en": "the kinds of cabbage"
+   }
+  ],
+  "related": [
+   {
+    "da": "blomkål",
+    "en": "cauliflower"
+   },
+   {
+    "da": "grønkål",
+    "en": "kale"
+   },
+   {
+    "da": "rosenkål",
+    "en": "Brussels sprouts"
+   },
+   {
+    "da": "broccoli",
+    "en": "broccoli"
+   }
+  ],
+  "sentence": {
+   "da": "**Kål** er en grøn grøntsag med mange blade.",
+   "en": "Cabbage is a green vegetable with many leaves."
+  }
+ },
+ "kær": {
+  "file": "k.json",
+  "explanation": "\"Kær\" means \"dear\", for someone you love or care about. Letters start with it: \"Kære Anna\" (Dear Anna), and \"Kære alle\" means \"Dear everyone\".",
+  "forms": [
+   {
+    "da": "en kær ven",
+    "en": "a dear friend"
+   },
+   {
+    "da": "et kært minde",
+    "en": "a dear memory"
+   },
+   {
+    "da": "kære venner",
+    "en": "dear friends"
+   }
+  ],
+  "related": [
+   {
+    "da": "kærlighed",
+    "en": "love"
+   },
+   {
+    "da": "en kæreste",
+    "en": "a boyfriend or girlfriend"
+   },
+   {
+    "da": "elsket",
+    "en": "loved"
+   },
+   {
+    "da": "at elske",
+    "en": "to love"
+   }
+  ],
+  "sentence": {
+   "da": "Han er en **kær** ven, og jeg savner ham.",
+   "en": "He is a dear friend, and I miss him."
+  }
+ },
+ "kærlig": {
+  "file": "k.json",
+  "explanation": "\"Kærlig\" means \"loving\" or \"affectionate\", warm and caring toward others. At the end of a letter, \"Kærlig hilsen\" means \"With love\".",
+  "forms": [
+   {
+    "da": "en kærlig mor",
+    "en": "a loving mother"
+   },
+   {
+    "da": "et kærligt ord",
+    "en": "a loving word"
+   },
+   {
+    "da": "kærlige forældre",
+    "en": "loving parents"
+   }
+  ],
+  "related": [
+   {
+    "da": "kærlighed",
+    "en": "love"
+   },
+   {
+    "da": "at elske",
+    "en": "to love"
+   },
+   {
+    "da": "kær",
+    "en": "dear"
+   },
+   {
+    "da": "øm",
+    "en": "tender"
+   }
+  ],
+  "sentence": {
+   "da": "Min bedstemor er altid så **kærlig** mod os.",
+   "en": "My grandmother is always so loving toward us."
+  }
+ },
+ "kærlighed": {
+  "file": "k.json",
+  "explanation": "\"Kærlighed\" means \"love\", the main word for the feeling. To say \"I love you\", Danes use \"at elske\" (to love) instead: \"Jeg elsker dig\" (I love you).",
+  "forms": [
+   {
+    "da": "kærlighed",
+    "en": "love"
+   },
+   {
+    "da": "kærligheden",
+    "en": "the love"
+   }
+  ],
+  "related": [
+   {
+    "da": "had",
+    "en": "hate"
+   },
+   {
+    "da": "en kæreste",
+    "en": "a boyfriend/girlfriend"
+   },
+   {
+    "da": "at holde af",
+    "en": "to be fond of"
+   },
+   {
+    "da": "kærlig",
+    "en": "loving"
+   }
+  ],
+  "sentence": {
+   "da": "Mor viser sin **kærlighed** med et kram.",
+   "en": "Mom shows her love with a hug."
+  }
+ },
+ "kærnemælk": {
+  "file": "k.json",
+  "explanation": "\"Kærnemælk\" means \"buttermilk\", a sour, slightly thick milk drink. It is built from kærne (churn) and mælk (milk), because it was traditionally the liquid left when cream is churned into butter.",
+  "forms": [
+   {
+    "da": "kærnemælk",
+    "en": "buttermilk"
+   },
+   {
+    "da": "kærnemælken",
+    "en": "the buttermilk"
+   },
+   {
+    "da": "et glas kærnemælk",
+    "en": "a glass of buttermilk"
+   }
+  ],
+  "related": [
+   {
+    "da": "koldskål",
+    "en": "cold buttermilk dessert"
+   },
+   {
+    "da": "tykmælk",
+    "en": "soured milk"
+   },
+   {
+    "da": "yoghurt",
+    "en": "yogurt"
+   },
+   {
+    "da": "sødmælk",
+    "en": "whole milk"
+   }
+  ],
+  "sentence": {
+   "da": "**Kærnemælk** smager surt, men jeg kan godt lide den.",
+   "en": "Buttermilk tastes sour, but I like it."
+  }
+ },
+ "kød": {
+  "file": "k.json",
+  "explanation": "\"Kød\" means \"meat\" of any kind, and you use it with no \"et\": \"Jeg spiser kød\" (I eat meat). To name the kind of meat, put a word in front, as in \"oksekød\" (beef) or \"svinekød\" (pork).",
+  "forms": [
+   {
+    "da": "kød",
+    "en": "meat"
+   },
+   {
+    "da": "kødet",
+    "en": "the meat"
+   },
+   {
+    "da": "lidt kød",
+    "en": "some meat"
+   }
+  ],
+  "related": [
+   {
+    "da": "lammekød",
+    "en": "lamb"
+   },
+   {
+    "da": "hakket kød",
+    "en": "ground meat"
+   },
+   {
+    "da": "en bøf",
+    "en": "a steak"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser gerne **kød** og fisk.",
+   "en": "I like eating meat and fish."
+  }
+ },
+ "kølig": {
+  "file": "k.json",
+  "explanation": "\"Kølig\" means \"cool\", slightly cold but not unpleasant. For truly cold, use \"kold\" (cold): \"Vandet er koldt\" (The water is cold).",
+  "forms": [
+   {
+    "da": "en kølig aften",
+    "en": "a cool evening"
+   },
+   {
+    "da": "et køligt vejr",
+    "en": "cool weather"
+   },
+   {
+    "da": "kølige dage",
+    "en": "cool days"
+   }
+  ],
+  "related": [
+   {
+    "da": "sval",
+    "en": "cool / fresh"
+   },
+   {
+    "da": "varm",
+    "en": "warm"
+   },
+   {
+    "da": "at køle",
+    "en": "to cool"
+   },
+   {
+    "da": "et køleskab",
+    "en": "a refrigerator"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tog en jakke på, fordi aftenen var **kølig**.",
+   "en": "I put on a jacket because the evening was cool."
+  }
+ },
+ "køn": {
+  "file": "k.json",
+  "explanation": "\"Køn\" means \"pretty\", usually about a person, a face or a place. Do not mix it up with \"et køn\", a different word that means \"gender\" (male or female).",
+  "forms": [
+   {
+    "da": "en køn pige",
+    "en": "a pretty girl"
+   },
+   {
+    "da": "et kønt hus",
+    "en": "a pretty house"
+   },
+   {
+    "da": "kønne piger",
+    "en": "pretty girls"
+   }
+  ],
+  "related": [
+   {
+    "da": "smuk",
+    "en": "beautiful"
+   },
+   {
+    "da": "flot",
+    "en": "good-looking"
+   },
+   {
+    "da": "pæn",
+    "en": "neat / nice"
+   },
+   {
+    "da": "grim",
+    "en": "ugly"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er en **køn** pige med langt hår.",
+   "en": "She is a pretty girl with long hair."
+  }
+ },
+ "at lade": {
+  "file": "l.json",
+  "explanation": "\"At lade\" means \"to let\", to allow someone to do something. It can also mean \"to leave something as it is\": \"Jeg lader nøglen ligge\" (I leave the key lying there).",
+  "forms": [
+   {
+    "da": "at lade",
+    "en": "to let"
+   },
+   {
+    "da": "jeg lader",
+    "en": "I let"
+   },
+   {
+    "da": "jeg lod",
+    "en": "I let"
+   },
+   {
+    "da": "jeg har ladet",
+    "en": "I have let"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tillade",
+    "en": "to allow"
+   },
+   {
+    "da": "at forbyde",
+    "en": "to forbid"
+   },
+   {
+    "da": "at lade være",
+    "en": "to leave alone"
+   },
+   {
+    "da": "at oplade",
+    "en": "to charge"
+   }
+  ],
+  "sentence": {
+   "da": "Mor vil ikke **lade** os gå alene.",
+   "en": "Mom won't let us go alone."
+  }
+ },
+ "at lade som om": {
+  "file": "l.json",
+  "explanation": "\"At lade som om\" means \"to pretend\". To state what you pretend, add a full sentence after \"som om\" (as if): \"Han lader som om han sover\" (He pretends he is sleeping).",
+  "forms": [
+   {
+    "da": "at lade som om",
+    "en": "to pretend"
+   },
+   {
+    "da": "jeg lader som om",
+    "en": "I pretend"
+   },
+   {
+    "da": "jeg lod som om",
+    "en": "I pretended"
+   },
+   {
+    "da": "jeg har ladet som om",
+    "en": "I have pretended"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lege",
+    "en": "to play"
+   },
+   {
+    "da": "at foregive",
+    "en": "to pretend / claim"
+   },
+   {
+    "da": "en fantasi",
+    "en": "a fantasy"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil **lade som om** de er pirater.",
+   "en": "The children want to pretend they are pirates."
+  }
+ },
+ "at lade være": {
+  "file": "l.json",
+  "explanation": "\"At lade være\" means \"to refrain from\" doing something. To name the activity you refrain from, add \"med at\" (with to) and a verb: \"Jeg lader være med at ryge\" (I refrain from smoking). As a short command, \"Lad være!\" means \"Don't!\".",
+  "forms": [
+   {
+    "da": "at lade være",
+    "en": "to not do / refrain"
+   },
+   {
+    "da": "jeg lader være",
+    "en": "I refrain (don't do it)"
+   },
+   {
+    "da": "jeg lod være",
+    "en": "I refrained (didn't do it)"
+   },
+   {
+    "da": "jeg har ladet være",
+    "en": "I have refrained (haven't done it)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at undlade",
+    "en": "to leave out"
+   },
+   {
+    "da": "at holde op",
+    "en": "to stop"
+   },
+   {
+    "da": "at afstå",
+    "en": "to refrain from"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **lade være** med at spise slik.",
+   "en": "I will refrain from eating candy."
+  }
+ },
+ "at lande": {
+  "file": "l.json",
+  "explanation": "\"At lande\" means \"to land\", when a plane or a bird comes down and touches the ground.",
+  "forms": [
+   {
+    "da": "at lande",
+    "en": "to land"
+   },
+   {
+    "da": "jeg lander",
+    "en": "I land"
+   },
+   {
+    "da": "jeg landede",
+    "en": "I landed"
+   },
+   {
+    "da": "jeg er landet",
+    "en": "I have landed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lette",
+    "en": "to take off"
+   },
+   {
+    "da": "en landing",
+    "en": "a landing"
+   },
+   {
+    "da": "at flyve",
+    "en": "to fly"
+   }
+  ],
+  "sentence": {
+   "da": "Flyet skal **lande** om en time.",
+   "en": "The plane will land in an hour."
+  }
+ },
+ "at lappe": {
+  "file": "l.json",
+  "explanation": "\"At lappe\" means \"to patch / mend\", to fix a hole by putting a piece of cloth or rubber over it, as on a bike tire or a pair of trousers.",
+  "forms": [
+   {
+    "da": "at lappe",
+    "en": "to patch / mend"
+   },
+   {
+    "da": "jeg lapper",
+    "en": "I patch / mend"
+   },
+   {
+    "da": "jeg lappede",
+    "en": "I patched / mended"
+   },
+   {
+    "da": "jeg har lappet",
+    "en": "I have patched / mended"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lap",
+    "en": "a patch"
+   },
+   {
+    "da": "at sy",
+    "en": "to sew"
+   },
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   },
+   {
+    "da": "at stoppe",
+    "en": "to darn"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **lappe** hullet i cykelslangen i aften.",
+   "en": "I have to patch the hole in the bike tube tonight."
+  }
+ },
+ "at larme": {
+  "file": "l.json",
+  "explanation": "\"At larme\" means \"to make noise\": \"Børnene larmer\" (The children are making noise).",
+  "forms": [
+   {
+    "da": "at larme",
+    "en": "to make noise"
+   },
+   {
+    "da": "jeg larmer",
+    "en": "I make noise"
+   },
+   {
+    "da": "jeg larmede",
+    "en": "I made noise"
+   },
+   {
+    "da": "jeg har larmet",
+    "en": "I have made noise"
+   }
+  ],
+  "related": [
+   {
+    "da": "en larm",
+    "en": "a racket / noise"
+   },
+   {
+    "da": "støj",
+    "en": "noise"
+   },
+   {
+    "da": "at råbe",
+    "en": "to shout"
+   },
+   {
+    "da": "stille",
+    "en": "quiet"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene må ikke **larme** efter klokken ti.",
+   "en": "The children must not make noise after ten o'clock."
+  }
+ },
+ "at lave": {
+  "file": "l.json",
+  "explanation": "\"At lave\" means \"to make\" or \"to do\". It is used for creating something, such as \"Jeg laver en kage\" (I am making a cake), and for what you are busy with: \"Hvad laver du?\" (What are you doing?).",
+  "forms": [
+   {
+    "da": "at lave",
+    "en": "to make / to do"
+   },
+   {
+    "da": "jeg laver",
+    "en": "I make / I do"
+   },
+   {
+    "da": "jeg lavede",
+    "en": "I made / I did"
+   },
+   {
+    "da": "jeg har lavet",
+    "en": "I have made / I have done"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gøre",
+    "en": "to do"
+   },
+   {
+    "da": "at lave mad",
+    "en": "to cook"
+   },
+   {
+    "da": "at lave lektier",
+    "en": "to do homework"
+   }
+  ],
+  "sentence": {
+   "da": "Hvad skal vi **lave** i aften?",
+   "en": "What are we going to do tonight?"
+  }
+ },
+ "at lave en fejl": {
+  "file": "l.json",
+  "explanation": "\"At lave en fejl\" means \"to make a mistake\". For more than one mistake, drop \"en\": \"Alle laver fejl\" (Everyone makes mistakes).",
+  "forms": [
+   {
+    "da": "at lave en fejl",
+    "en": "to make a mistake"
+   },
+   {
+    "da": "jeg laver en fejl",
+    "en": "I make a mistake"
+   },
+   {
+    "da": "jeg lavede en fejl",
+    "en": "I made a mistake"
+   },
+   {
+    "da": "jeg har lavet en fejl",
+    "en": "I have made a mistake"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage fejl",
+    "en": "to be wrong"
+   },
+   {
+    "da": "at rette",
+    "en": "to correct"
+   },
+   {
+    "da": "en brøler",
+    "en": "a blunder"
+   },
+   {
+    "da": "et uheld",
+    "en": "a mishap"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er bange for at **lave en fejl**.",
+   "en": "I am afraid of making a mistake."
+  }
+ },
+ "at lave lektier": {
+  "file": "l.json",
+  "explanation": "\"At lave lektier\" means \"to do homework\". Danish says \"lave\" (to make) where English says \"do\": \"Har du lavet dine lektier?\" (Have you done your homework?).",
+  "forms": [
+   {
+    "da": "at lave lektier",
+    "en": "to do homework"
+   },
+   {
+    "da": "jeg laver lektier",
+    "en": "I do homework"
+   },
+   {
+    "da": "jeg lavede lektier",
+    "en": "I did homework"
+   },
+   {
+    "da": "jeg har lavet lektier",
+    "en": "I have done homework"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lektie",
+    "en": "a piece of homework"
+   },
+   {
+    "da": "lektiehjælp",
+    "en": "homework help"
+   },
+   {
+    "da": "en opgave",
+    "en": "an assignment"
+   },
+   {
+    "da": "at øve sig",
+    "en": "to practice"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene skal **lave lektier** nu.",
+   "en": "The children have to do homework now."
+  }
+ },
+ "at lave mad": {
+  "file": "l.json",
+  "explanation": "\"At lave mad\" means \"to cook\". It is built from lave (to make) and mad (food), so literally it is \"to make food\". To name the dish, drop \"mad\": \"Jeg laver pasta\" (I am making pasta).",
+  "forms": [
+   {
+    "da": "at lave mad",
+    "en": "to cook"
+   },
+   {
+    "da": "jeg laver mad",
+    "en": "I cook"
+   },
+   {
+    "da": "jeg lavede mad",
+    "en": "I cooked"
+   },
+   {
+    "da": "jeg har lavet mad",
+    "en": "I have cooked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at koge",
+    "en": "to boil"
+   },
+   {
+    "da": "at stege",
+    "en": "to fry"
+   },
+   {
+    "da": "at bage",
+    "en": "to bake"
+   },
+   {
+    "da": "madlavning",
+    "en": "cooking"
+   }
+  ],
+  "sentence": {
+   "da": "Min far vil **lave mad** i aften.",
+   "en": "My father will cook tonight."
+  }
+ },
+ "at lave om": {
+  "file": "l.json",
+  "explanation": "\"At lave om\" means \"to change\" or \"to redo\" something you already made. To change only part of something, add \"på\" (on): \"Jeg laver om på planen\" (I am changing the plan).",
+  "forms": [
+   {
+    "da": "at lave om",
+    "en": "to change / redo"
+   },
+   {
+    "da": "jeg laver om",
+    "en": "I change / redo"
+   },
+   {
+    "da": "jeg lavede om",
+    "en": "I changed / redid"
+   },
+   {
+    "da": "jeg har lavet om",
+    "en": "I have changed / redone"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ændre",
+    "en": "to change"
+   },
+   {
+    "da": "at gøre om",
+    "en": "to redo"
+   },
+   {
+    "da": "at starte forfra",
+    "en": "to start over"
+   },
+   {
+    "da": "at rette",
+    "en": "to correct"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skal **lave om** på hele rapporten.",
+   "en": "She has to change the whole report."
+  }
+ },
+ "at lave sjov": {
+  "file": "l.json",
+  "explanation": "\"At lave sjov\" means \"to joke around\". To tease someone, add \"med\" (with): \"Hun laver sjov med mig\" (She is teasing me).",
+  "forms": [
+   {
+    "da": "at lave sjov",
+    "en": "to joke around"
+   },
+   {
+    "da": "jeg laver sjov",
+    "en": "I joke around"
+   },
+   {
+    "da": "jeg lavede sjov",
+    "en": "I joked around"
+   },
+   {
+    "da": "jeg har lavet sjov",
+    "en": "I have joked around"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vittighed",
+    "en": "a joke"
+   },
+   {
+    "da": "at drille",
+    "en": "to tease"
+   },
+   {
+    "da": "alvorlig",
+    "en": "serious"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror elsker at **lave sjov**, og alle griner.",
+   "en": "My brother loves to joke around, and everyone laughs."
+  }
+ },
+ "at le": {
+  "file": "l.json",
+  "explanation": "\"At le\" means \"to laugh\". To laugh at someone, add \"af\" (at): \"Han ler af mig\" (He is laughing at me).",
+  "forms": [
+   {
+    "da": "at le",
+    "en": "to laugh"
+   },
+   {
+    "da": "jeg ler",
+    "en": "I laugh"
+   },
+   {
+    "da": "jeg lo",
+    "en": "I laughed"
+   },
+   {
+    "da": "jeg har leet",
+    "en": "I have laughed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at grine",
+    "en": "to laugh (same meaning)"
+   },
+   {
+    "da": "latter",
+    "en": "laughter"
+   },
+   {
+    "da": "at smile",
+    "en": "to smile"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil **le** af den sjove film.",
+   "en": "The children want to laugh at the funny movie."
+  }
+ },
+ "at lede": {
+  "file": "l.json",
+  "explanation": "\"At lede\" means \"to lead\": \"Hun leder holdet\" (She leads the team). With \"efter\" (for) it means \"to search\": \"Jeg leder efter mine nøgler\" (I'm looking for my keys).",
+  "forms": [
+   {
+    "da": "at lede",
+    "en": "to search / lead"
+   },
+   {
+    "da": "jeg leder",
+    "en": "I search / lead"
+   },
+   {
+    "da": "jeg ledte",
+    "en": "I searched / led"
+   },
+   {
+    "da": "jeg har ledt",
+    "en": "I have searched / led"
+   }
+  ],
+  "related": [
+   {
+    "da": "at finde",
+    "en": "to find"
+   },
+   {
+    "da": "at søge",
+    "en": "to search"
+   },
+   {
+    "da": "at føre",
+    "en": "to lead / guide"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **lede** efter min hat.",
+   "en": "I have to look for my hat."
+  }
+ },
+ "at lede efter": {
+  "file": "l.json",
+  "explanation": "\"At lede efter\" means \"to look for\" something you cannot find yet. For something you can already see, use \"at se på\" (to look at): \"Jeg ser på billedet\" (I am looking at the picture).",
+  "forms": [
+   {
+    "da": "at lede efter",
+    "en": "to look for"
+   },
+   {
+    "da": "jeg leder efter",
+    "en": "I look for"
+   },
+   {
+    "da": "jeg ledte efter",
+    "en": "I looked for"
+   },
+   {
+    "da": "jeg har ledt efter",
+    "en": "I have looked for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at finde",
+    "en": "to find"
+   },
+   {
+    "da": "at søge",
+    "en": "to search"
+   },
+   {
+    "da": "at kigge efter",
+    "en": "to look out for"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **lede efter** mine nøgler.",
+   "en": "I want to look for my keys."
+  }
+ },
+ "at legalisere": {
+  "file": "l.json",
+  "explanation": "\"At legalisere\" means \"to legalize\", to make something allowed that was not allowed before. For a document, it means to have it confirmed as official: \"at legalisere et dokument\" (to have a document certified).",
+  "forms": [
+   {
+    "da": "at legalisere",
+    "en": "to legalize"
+   },
+   {
+    "da": "jeg legaliserer",
+    "en": "I legalize"
+   },
+   {
+    "da": "jeg legaliserede",
+    "en": "I legalized"
+   },
+   {
+    "da": "jeg har legaliseret",
+    "en": "I have legalized"
+   }
+  ],
+  "related": [
+   {
+    "da": "lovlig",
+    "en": "lawful"
+   },
+   {
+    "da": "ulovlig",
+    "en": "illegal"
+   },
+   {
+    "da": "at forbyde",
+    "en": "to ban"
+   },
+   {
+    "da": "en lov",
+    "en": "a law"
+   }
+  ],
+  "sentence": {
+   "da": "Nogle lande vil **legalisere** cannabis til medicinsk brug.",
+   "en": "Some countries want to legalize cannabis for medical use."
+  }
+ },
+ "at lege": {
+  "file": "l.json",
+  "explanation": "\"At lege\" means \"to play\" the way children do, just for fun. For sports, games and instruments, Danish uses \"at spille\" (to play).",
+  "forms": [
+   {
+    "da": "at lege",
+    "en": "to play (for fun)"
+   },
+   {
+    "da": "jeg leger",
+    "en": "I play (for fun)"
+   },
+   {
+    "da": "jeg legede",
+    "en": "I played (for fun)"
+   },
+   {
+    "da": "jeg har leget",
+    "en": "I have played (for fun)"
+   }
+  ],
+  "related": [
+   {
+    "da": "et legetøj",
+    "en": "a toy"
+   },
+   {
+    "da": "en legeplads",
+    "en": "a playground"
+   },
+   {
+    "da": "en legekammerat",
+    "en": "a playmate"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil **lege** med bolden i haven.",
+   "en": "The children want to play with the ball in the garden."
+  }
+ },
+ "at legitimere": {
+  "file": "l.json",
+  "explanation": "\"At legitimere\" means \"to legitimize\", to make something accepted as right. With \"sig\" (oneself) it means \"to show ID\": \"Du skal legitimere dig i banken\" (You must show ID at the bank).",
+  "forms": [
+   {
+    "da": "at legitimere",
+    "en": "to legitimize / show ID"
+   },
+   {
+    "da": "jeg legitimerer",
+    "en": "I legitimize / show ID"
+   },
+   {
+    "da": "jeg legitimerede",
+    "en": "I legitimized / showed ID"
+   },
+   {
+    "da": "jeg har legitimeret",
+    "en": "I have legitimized / shown ID"
+   }
+  ],
+  "related": [
+   {
+    "da": "en legitimation",
+    "en": "an ID"
+   },
+   {
+    "da": "legitim",
+    "en": "legitimate"
+   },
+   {
+    "da": "at identificere",
+    "en": "to identify"
+   },
+   {
+    "da": "at godkende",
+    "en": "to approve"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **legitimere** dig med pas eller kørekort.",
+   "en": "You must show ID with a passport or driver's license."
+  }
+ },
+ "at leje": {
+  "file": "l.json",
+  "explanation": "\"At leje\" means \"to rent\", when you pay to use something. For the owner who rents it out, use \"at udleje\" (to rent out).",
+  "forms": [
+   {
+    "da": "at leje",
+    "en": "to rent"
+   },
+   {
+    "da": "jeg lejer",
+    "en": "I rent"
+   },
+   {
+    "da": "jeg lejede",
+    "en": "I rented"
+   },
+   {
+    "da": "jeg har lejet",
+    "en": "I have rented"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lejebil",
+    "en": "a rental car"
+   },
+   {
+    "da": "en husleje",
+    "en": "house rent"
+   },
+   {
+    "da": "en udlejer",
+    "en": "a landlord"
+   },
+   {
+    "da": "at låne",
+    "en": "to borrow"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **leje** en bil i weekenden.",
+   "en": "We want to rent a car for the weekend."
+  }
+ },
+ "at lempe": {
+  "file": "l.json",
+  "explanation": "\"At lempe\" means \"to ease\" or \"to relax\" a rule or a requirement so it becomes less strict: \"lempe kravene\" (ease the requirements). For pain, use \"at lindre\" (to relieve).",
+  "forms": [
+   {
+    "da": "at lempe",
+    "en": "to ease / relax (rules)"
+   },
+   {
+    "da": "jeg lemper",
+    "en": "I ease / relax (rules)"
+   },
+   {
+    "da": "jeg lempede",
+    "en": "I eased / relaxed (rules)"
+   },
+   {
+    "da": "jeg har lempet",
+    "en": "I have eased / relaxed (rules)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lempelse",
+    "en": "an easing"
+   },
+   {
+    "da": "at stramme",
+    "en": "to tighten"
+   },
+   {
+    "da": "at løsne",
+    "en": "to loosen"
+   }
+  ],
+  "sentence": {
+   "da": "Regeringen vil **lempe** reglerne for rejser til udlandet.",
+   "en": "The government will relax the rules for travel abroad."
+  }
+ },
+ "at lette": {
+  "file": "l.json",
+  "explanation": "\"At lette\" means \"to take off\", for a plane. With a task, it means \"to make easier\": \"Det letter arbejdet\" (That makes the work easier).",
+  "forms": [
+   {
+    "da": "at lette",
+    "en": "to take off"
+   },
+   {
+    "da": "flyet letter",
+    "en": "the plane takes off"
+   },
+   {
+    "da": "flyet lettede",
+    "en": "the plane took off"
+   },
+   {
+    "da": "flyet er lettet",
+    "en": "the plane has taken off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lande",
+    "en": "to land"
+   },
+   {
+    "da": "let",
+    "en": "light / easy"
+   },
+   {
+    "da": "at flyve",
+    "en": "to fly"
+   }
+  ],
+  "sentence": {
+   "da": "Flyet skal **lette** om fem minutter.",
+   "en": "The plane takes off in five minutes."
+  }
+ },
+ "at leve": {
+  "file": "l.json",
+  "explanation": "\"At leve\" means \"to live (be alive)\": \"Hun lever stadig\" (She is still alive). It also means how you live your life: \"leve et godt liv\" (to live a good life). For where your home is, use \"at bo\" (to live somewhere).",
+  "forms": [
+   {
+    "da": "at leve",
+    "en": "to live (be alive)"
+   },
+   {
+    "da": "jeg lever",
+    "en": "I live"
+   },
+   {
+    "da": "jeg levede",
+    "en": "I lived"
+   },
+   {
+    "da": "jeg har levet",
+    "en": "I have lived"
+   }
+  ],
+  "related": [
+   {
+    "da": "levende",
+    "en": "alive"
+   },
+   {
+    "da": "at overleve",
+    "en": "to survive"
+   },
+   {
+    "da": "død",
+    "en": "dead"
+   }
+  ],
+  "sentence": {
+   "da": "Fisk kan ikke **leve** uden vand.",
+   "en": "Fish cannot live without water."
+  }
+ },
+ "at lide": {
+  "file": "l.json",
+  "explanation": "\"At lide\" means \"to suffer\", usually with \"af\" (from): \"Han lider af hovedpine\" (He suffers from headaches). Do not mix it up with \"kan lide\" (like): \"Jeg kan lide kaffe\" (I like coffee).",
+  "forms": [
+   {
+    "da": "at lide",
+    "en": "to suffer"
+   },
+   {
+    "da": "jeg lider",
+    "en": "I suffer"
+   },
+   {
+    "da": "jeg led",
+    "en": "I suffered"
+   },
+   {
+    "da": "jeg har lidt",
+    "en": "I have suffered"
+   }
+  ],
+  "related": [
+   {
+    "da": "en smerte",
+    "en": "a pain"
+   },
+   {
+    "da": "en lidelse",
+    "en": "a suffering"
+   },
+   {
+    "da": "at have ondt",
+    "en": "to hurt"
+   },
+   {
+    "da": "at udholde",
+    "en": "to endure"
+   }
+  ],
+  "sentence": {
+   "da": "Dyrene vil **lide**, når der ikke er mere vand.",
+   "en": "The animals will suffer when there is no more water."
+  }
+ },
+ "at ligge": {
+  "file": "l.json",
+  "explanation": "\"At ligge\" means \"to lie (be lying)\", to be lying down or placed flat: \"Bogen ligger på bordet\" (The book is lying on the table). It is also used for where places are located: \"Byen ligger ved havet\" (The town is by the sea). Do not mix it up with \"at lægge\" (to put something down).",
+  "forms": [
+   {
+    "da": "at ligge",
+    "en": "to lie (be lying)"
+   },
+   {
+    "da": "jeg ligger",
+    "en": "I lie / am lying"
+   },
+   {
+    "da": "jeg lå",
+    "en": "I lay / was lying"
+   },
+   {
+    "da": "jeg har ligget",
+    "en": "I have lain"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sidde",
+    "en": "to sit"
+   },
+   {
+    "da": "at stå",
+    "en": "to stand"
+   },
+   {
+    "da": "liggende",
+    "en": "lying"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **ligge** i sengen og sove.",
+   "en": "I want to lie in bed and sleep."
+  }
+ },
+ "at ligge syg": {
+  "file": "l.json",
+  "explanation": "\"At ligge syg\" means \"to be ill in bed\", too sick to get up. To say simply that you are sick, use \"at være syg\" (to be sick).",
+  "forms": [
+   {
+    "da": "at ligge syg",
+    "en": "to be ill in bed"
+   },
+   {
+    "da": "jeg ligger syg",
+    "en": "I am ill in bed"
+   },
+   {
+    "da": "jeg lå syg",
+    "en": "I was ill in bed"
+   },
+   {
+    "da": "jeg har ligget syg",
+    "en": "I have been ill in bed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blive rask",
+    "en": "to get well"
+   },
+   {
+    "da": "at holde sengen",
+    "en": "to stay in bed"
+   },
+   {
+    "da": "at blive syg",
+    "en": "to get sick"
+   },
+   {
+    "da": "en sygedag",
+    "en": "a sick day"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **ligge syg** hele ugen.",
+   "en": "I cannot lie in bed sick all week."
+  }
+ },
+ "at ligne": {
+  "file": "l.json",
+  "explanation": "\"At ligne\" means \"to look like\", and it always compares two things: \"Drengen ligner sin far\" (The boy looks like his father). To describe how someone looks, use \"at se ud\" (to look): \"Du ser træt ud\" (You look tired).",
+  "forms": [
+   {
+    "da": "at ligne",
+    "en": "to look like"
+   },
+   {
+    "da": "jeg ligner",
+    "en": "I look like"
+   },
+   {
+    "da": "jeg lignede",
+    "en": "I looked like"
+   },
+   {
+    "da": "jeg har lignet",
+    "en": "I have looked like"
+   }
+  ],
+  "related": [
+   {
+    "da": "lignende",
+    "en": "similar"
+   },
+   {
+    "da": "ens",
+    "en": "the same"
+   },
+   {
+    "da": "ligesom",
+    "en": "just like"
+   },
+   {
+    "da": "forskellig",
+    "en": "different"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kan **ligne** sin mor, når hun smiler.",
+   "en": "She can look like her mother when she smiles."
+  }
+ },
+ "at like": {
+  "file": "l.json",
+  "explanation": "\"At like\" means \"to like (online)\": \"Hun liker alle mine opslag\" (She likes all my posts). For liking something outside the internet, such as a person or food, use \"at kunne lide\" (to like).",
+  "forms": [
+   {
+    "da": "at like",
+    "en": "to like (online)"
+   },
+   {
+    "da": "jeg liker",
+    "en": "I like (online)"
+   },
+   {
+    "da": "jeg likede",
+    "en": "I liked (online)"
+   },
+   {
+    "da": "jeg har liket",
+    "en": "I have liked (online)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at synes om",
+    "en": "to like, to approve of"
+   },
+   {
+    "da": "at dele",
+    "en": "to share"
+   },
+   {
+    "da": "at følge",
+    "en": "to follow"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **like** dit billede på Instagram.",
+   "en": "I want to like your picture on Instagram."
+  }
+ },
+ "at lindre": {
+  "file": "l.json",
+  "explanation": "\"At lindre\" means \"to relieve\" pain or suffering, so that it hurts less, though it may not go away completely: \"Tabletten lindrer hovedpinen\" (The pill relieves the headache).",
+  "forms": [
+   {
+    "da": "at lindre",
+    "en": "to relieve"
+   },
+   {
+    "da": "jeg lindrer",
+    "en": "I relieve"
+   },
+   {
+    "da": "jeg lindrede",
+    "en": "I relieved"
+   },
+   {
+    "da": "jeg har lindret",
+    "en": "I have relieved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lindring",
+    "en": "a relief"
+   },
+   {
+    "da": "at helbrede",
+    "en": "to cure"
+   },
+   {
+    "da": "at dulme",
+    "en": "to numb"
+   },
+   {
+    "da": "at mildne",
+    "en": "to soften"
+   }
+  ],
+  "sentence": {
+   "da": "Varme kan **lindre** smerten i ryggen.",
+   "en": "Heat can relieve the pain in the back."
+  }
+ },
+ "at logge ind": {
+  "file": "l.json",
+  "explanation": "\"At logge ind\" means \"to log in\", to get into an app or website by showing who you are. The opposite is \"at logge ud\" (to log out).",
+  "forms": [
+   {
+    "da": "at logge ind",
+    "en": "to log in"
+   },
+   {
+    "da": "jeg logger ind",
+    "en": "I log in"
+   },
+   {
+    "da": "jeg loggede ind",
+    "en": "I logged in"
+   },
+   {
+    "da": "jeg har logget ind",
+    "en": "I have logged in"
+   }
+  ],
+  "related": [
+   {
+    "da": "at logge på",
+    "en": "to log on"
+   },
+   {
+    "da": "en adgangskode",
+    "en": "a password"
+   },
+   {
+    "da": "et brugernavn",
+    "en": "a username"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **logge ind** for at se dine beskeder.",
+   "en": "You have to log in to see your messages."
+  }
+ },
+ "at logge ud": {
+  "file": "l.json",
+  "explanation": "\"At logge ud\" means \"to log out\", to leave an app or website when you are finished so that nobody else can use it.",
+  "forms": [
+   {
+    "da": "at logge ud",
+    "en": "to log out"
+   },
+   {
+    "da": "jeg logger ud",
+    "en": "I log out"
+   },
+   {
+    "da": "jeg loggede ud",
+    "en": "I logged out"
+   },
+   {
+    "da": "jeg har logget ud",
+    "en": "I have logged out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at logge ind",
+    "en": "to log in"
+   },
+   {
+    "da": "at logge af",
+    "en": "to log off"
+   },
+   {
+    "da": "en konto",
+    "en": "an account"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **logge ud** på en fælles computer.",
+   "en": "You should log out on a shared computer."
+  }
+ }
+}

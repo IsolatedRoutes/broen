@@ -1,0 +1,4006 @@
+{
+ "opførsel": {
+  "file": "o.json",
+  "explanation": "\"Opførsel\" means \"behavior\", how a person acts around others. For good or bad manners, Danes say \"manerer\" (manners): \"gode manerer\" (good manners).",
+  "forms": [
+   {
+    "da": "en opførsel",
+    "en": "a behavior"
+   },
+   {
+    "da": "opførslen",
+    "en": "the behavior"
+   },
+   {
+    "da": "god opførsel",
+    "en": "good behavior"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opføre sig",
+    "en": "to behave"
+   },
+   {
+    "da": "adfærd",
+    "en": "conduct"
+   },
+   {
+    "da": "høflig",
+    "en": "polite"
+   },
+   {
+    "da": "uhøflig",
+    "en": "rude"
+   }
+  ],
+  "sentence": {
+   "da": "Hans **opførsel** over for børnene var meget pæn.",
+   "en": "His behavior toward the children was very nice."
+  }
+ },
+ "ophidset": {
+  "file": "o.json",
+  "explanation": "\"Ophidset\" means \"agitated\" or \"excited\", very worked up and tense, as in \"en ophidset debat\" (a heated debate). It can also mean sexually aroused, so it is not the word for happy excitement.",
+  "forms": [
+   {
+    "da": "en ophidset mand",
+    "en": "an agitated man"
+   },
+   {
+    "da": "et ophidset publikum",
+    "en": "an excited crowd"
+   },
+   {
+    "da": "ophidsede stemmer",
+    "en": "agitated voices"
+   }
+  ],
+  "related": [
+   {
+    "da": "spændt",
+    "en": "eager"
+   },
+   {
+    "da": "rasende",
+    "en": "furious"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "at ophidse",
+    "en": "to stir up"
+   }
+  ],
+  "sentence": {
+   "da": "Hun blev **ophidset** og råbte højt til dommeren.",
+   "en": "She got worked up and shouted loudly at the referee."
+  }
+ },
+ "opkast": {
+  "file": "o.json",
+  "explanation": "\"Opkast\" means \"vomit\", the substance that comes up, not the act. The act is \"at kaste op\" (to throw up), and opkast is built from the same two parts.",
+  "forms": [
+   {
+    "da": "et opkast",
+    "en": "vomit"
+   },
+   {
+    "da": "opkastet",
+    "en": "the vomit"
+   },
+   {
+    "da": "opkast og diarré",
+    "en": "vomit and diarrhea"
+   }
+  ],
+  "related": [
+   {
+    "da": "at brække sig",
+    "en": "to puke"
+   },
+   {
+    "da": "en mavesyge",
+    "en": "a stomach bug"
+   },
+   {
+    "da": "en opkastning",
+    "en": "an act of vomiting"
+   }
+  ],
+  "sentence": {
+   "da": "Der var **opkast** på gulvet.",
+   "en": "There was vomit on the floor."
+  }
+ },
+ "opladning": {
+  "file": "o.json",
+  "explanation": "\"Opladning\" means \"charging\", filling a battery up again. The action is \"at oplade\" (to charge).",
+  "forms": [
+   {
+    "da": "opladning",
+    "en": "charging"
+   },
+   {
+    "da": "opladningen",
+    "en": "the charging"
+   },
+   {
+    "da": "Telefonen er på opladning",
+    "en": "The phone is charging"
+   }
+  ],
+  "related": [
+   {
+    "da": "et ladekabel",
+    "en": "a charging cable"
+   },
+   {
+    "da": "en oplader",
+    "en": "a charger"
+   },
+   {
+    "da": "strøm",
+    "en": "power"
+   }
+  ],
+  "sentence": {
+   "da": "Min telefon er på **opladning** lige nu.",
+   "en": "My phone is charging right now."
+  }
+ },
+ "oplagt": {
+  "file": "o.json",
+  "explanation": "\"Oplagt\" means \"obvious\", for a choice or an answer that anyone can see. About a person, it means \"in good form\", full of energy and ready for the day: \"Hun er godt oplagt i dag\" (She is in good form today).",
+  "forms": [
+   {
+    "da": "et oplagt valg",
+    "en": "an obvious choice"
+   },
+   {
+    "da": "en oplagt løsning",
+    "en": "an obvious solution"
+   },
+   {
+    "da": "oplagte fejl",
+    "en": "obvious mistakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "indlysende",
+    "en": "evident"
+   },
+   {
+    "da": "åbenlys",
+    "en": "plain to see"
+   },
+   {
+    "da": "veloplagt",
+    "en": "in high spirits"
+   },
+   {
+    "da": "træt",
+    "en": "tired"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **oplagt** idé, fordi det er billigt og tæt på.",
+   "en": "It is an obvious idea, because it is cheap and close by."
+  }
+ },
+ "opmærksom": {
+  "file": "o.json",
+  "explanation": "\"Opmærksom\" means \"attentive\" or \"aware\". With \"på\" (on) it means aware of something: \"Jeg er opmærksom på problemet\" (I am aware of the problem).",
+  "forms": [
+   {
+    "da": "en opmærksom elev",
+    "en": "an attentive student"
+   },
+   {
+    "da": "et opmærksomt barn",
+    "en": "an attentive child"
+   },
+   {
+    "da": "opmærksomme gæster",
+    "en": "attentive guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "en opmærksomhed",
+    "en": "attention"
+   },
+   {
+    "da": "uopmærksom",
+    "en": "inattentive"
+   },
+   {
+    "da": "at mærke",
+    "en": "to notice"
+   },
+   {
+    "da": "koncentreret",
+    "en": "focused"
+   }
+  ],
+  "sentence": {
+   "da": "Min datter er **opmærksom** og lytter godt.",
+   "en": "My daughter is attentive and listens well."
+  }
+ },
+ "opmærksom på": {
+  "file": "o.json",
+  "explanation": "\"Opmærksom på\" means \"aware of\" or \"paying attention to\". To point something out to someone, use \"at gøre nogen opmærksom på\" (to make someone aware of): \"Jeg gjorde ham opmærksom på fejlen\" (I pointed out the mistake to him).",
+  "forms": [
+   {
+    "da": "Jeg er opmærksom på det.",
+    "en": "I am aware of it."
+   },
+   {
+    "da": "Vær opmærksom på trafikken.",
+    "en": "Pay attention to the traffic."
+   },
+   {
+    "da": "Hun var ikke opmærksom på tiden.",
+    "en": "She was not aware of the time."
+   }
+  ],
+  "related": [
+   {
+    "da": "bevidst om",
+    "en": "conscious of"
+   },
+   {
+    "da": "at lægge mærke til",
+    "en": "to notice"
+   },
+   {
+    "da": "uopmærksom",
+    "en": "inattentive"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal være **opmærksom på** cyklister, når du drejer.",
+   "en": "You must pay attention to cyclists when you turn."
+  }
+ },
+ "opmærksomhed": {
+  "file": "o.json",
+  "explanation": "\"Opmærksomhed\" means \"attention\", the focus you give to someone or something. To pay attention, say \"at være opmærksom\" (to be attentive).",
+  "forms": [
+   {
+    "da": "opmærksomhed",
+    "en": "attention"
+   },
+   {
+    "da": "opmærksomheden",
+    "en": "the attention"
+   },
+   {
+    "da": "få opmærksomhed",
+    "en": "to get attention"
+   }
+  ],
+  "related": [
+   {
+    "da": "en koncentration",
+    "en": "concentration"
+   },
+   {
+    "da": "et fokus",
+    "en": "focus"
+   },
+   {
+    "da": "at lægge mærke til",
+    "en": "to notice"
+   }
+  ],
+  "sentence": {
+   "da": "Babyen græder for at få **opmærksomhed**.",
+   "en": "The baby cries to get attention."
+  }
+ },
+ "oppe": {
+  "file": "o.json",
+  "explanation": "\"Oppe\" means \"up there\", for where something already is: \"Katten er oppe på bordet\" (The cat is up on the table). For moving up, use \"op\" (up): \"Katten hopper op på bordet\" (The cat jumps up onto the table). \"Oppe\" also means out of bed, as when you ask if someone is already awake.",
+  "forms": [
+   {
+    "da": "oppe på bordet",
+    "en": "up on the table"
+   },
+   {
+    "da": "oppe i træet",
+    "en": "up in the tree"
+   },
+   {
+    "da": "er du oppe?",
+    "en": "are you up (awake)?"
+   }
+  ],
+  "related": [
+   {
+    "da": "nede",
+    "en": "down (there)"
+   },
+   {
+    "da": "ovenpå",
+    "en": "upstairs"
+   },
+   {
+    "da": "ovenover",
+    "en": "above"
+   }
+  ],
+  "sentence": {
+   "da": "Bogen ligger **oppe** på hylden.",
+   "en": "The book is up on the shelf."
+  }
+ },
+ "oprevet": {
+  "file": "o.json",
+  "explanation": "\"Oprevet\" means \"upset\", emotionally thrown off after something unpleasant such as bad news or an argument: \"Hun var meget oprevet efter skænderiet\" (She was very upset after the argument). It is stronger than just being sad.",
+  "forms": [
+   {
+    "da": "en oprevet kvinde",
+    "en": "an upset woman"
+   },
+   {
+    "da": "et oprevet barn",
+    "en": "an upset child"
+   },
+   {
+    "da": "oprevne følelser",
+    "en": "upset feelings"
+   }
+  ],
+  "related": [
+   {
+    "da": "oprørt",
+    "en": "stirred up"
+   },
+   {
+    "da": "rystet",
+    "en": "shaken"
+   },
+   {
+    "da": "forskrækket",
+    "en": "frightened"
+   },
+   {
+    "da": "bekymret",
+    "en": "worried"
+   }
+  ],
+  "sentence": {
+   "da": "Hun var **oprevet** efter skænderiet med sin bror.",
+   "en": "She was upset after the quarrel with her brother."
+  }
+ },
+ "oprigtig": {
+  "file": "o.json",
+  "explanation": "\"Oprigtig\" means \"sincere\", meaning what you say and feel without pretending: \"en oprigtig undskyldning\" (a sincere apology). For telling the truth, use \"ærlig\" (honest): \"Vær ærlig\" (Be honest).",
+  "forms": [
+   {
+    "da": "en oprigtig undskyldning",
+    "en": "a sincere apology"
+   },
+   {
+    "da": "et oprigtigt ønske",
+    "en": "a sincere wish"
+   },
+   {
+    "da": "oprigtige venner",
+    "en": "sincere friends"
+   }
+  ],
+  "related": [
+   {
+    "da": "uoprigtig",
+    "en": "insincere"
+   },
+   {
+    "da": "ægte",
+    "en": "genuine"
+   },
+   {
+    "da": "hjertelig",
+    "en": "heartfelt"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes tak var **oprigtig**, og alle kunne mærke det.",
+   "en": "Her thanks were sincere, and everyone could feel it."
+  }
+ },
+ "oprindelig": {
+  "file": "o.json",
+  "explanation": "\"Oprindelig\" means \"original\" in the sense of how it was at the start, before anything was changed: \"den oprindelige plan\" (the original plan). For something new and creative, Danes say \"original\" instead: \"en original idé\" (an original idea).",
+  "forms": [
+   {
+    "da": "en oprindelig plan",
+    "en": "an original plan"
+   },
+   {
+    "da": "et oprindeligt navn",
+    "en": "an original name"
+   },
+   {
+    "da": "oprindelige ejere",
+    "en": "original owners"
+   }
+  ],
+  "related": [
+   {
+    "da": "først",
+    "en": "first"
+   },
+   {
+    "da": "tidligere",
+    "en": "earlier"
+   },
+   {
+    "da": "en oprindelse",
+    "en": "an origin"
+   },
+   {
+    "da": "autentisk",
+    "en": "authentic"
+   }
+  ],
+  "sentence": {
+   "da": "Den gamle bro er stadig **oprindelig**, og ingen har ændret den.",
+   "en": "The old bridge is still original, and no one has changed it."
+  }
+ },
+ "oprørsk": {
+  "file": "o.json",
+  "explanation": "\"Oprørsk\" means \"rebellious\": refusing to obey rules or people in charge: \"en oprørsk teenager\" (a rebellious teenager).",
+  "forms": [
+   {
+    "da": "en oprørsk fase",
+    "en": "a rebellious phase"
+   },
+   {
+    "da": "et oprørsk barn",
+    "en": "a rebellious child"
+   },
+   {
+    "da": "oprørske unge",
+    "en": "rebellious young people"
+   }
+  ],
+  "related": [
+   {
+    "da": "et oprør",
+    "en": "a revolt"
+   },
+   {
+    "da": "en oprører",
+    "en": "a rebel"
+   },
+   {
+    "da": "genstridig",
+    "en": "stubborn"
+   },
+   {
+    "da": "lydig",
+    "en": "obedient"
+   }
+  ],
+  "sentence": {
+   "da": "Teenageren blev **oprørsk** og ville ikke følge reglerne derhjemme.",
+   "en": "The teenager became rebellious and would not follow the rules at home."
+  }
+ },
+ "oprørt": {
+  "file": "o.json",
+  "explanation": "\"Oprørt\" means \"upset\" or \"stirred up\", about feelings and also about water: \"et oprørt hav\" (a stormy sea). For the cause, use \"over\" (about): \"oprørt over nyheden\" (upset about the news).",
+  "forms": [
+   {
+    "da": "en oprørt mand",
+    "en": "an upset man"
+   },
+   {
+    "da": "et oprørt barn",
+    "en": "an upset child"
+   },
+   {
+    "da": "oprørte stemmer",
+    "en": "upset voices"
+   }
+  ],
+  "related": [
+   {
+    "da": "oprevet",
+    "en": "shaken up"
+   },
+   {
+    "da": "forarget",
+    "en": "outraged"
+   },
+   {
+    "da": "vred",
+    "en": "angry"
+   },
+   {
+    "da": "et oprør",
+    "en": "a rebellion"
+   }
+  ],
+  "sentence": {
+   "da": "Hun blev **oprørt** over, at ingen havde ringet til hende.",
+   "en": "She got upset that no one had called her."
+  }
+ },
+ "opsyn": {
+  "file": "o.json",
+  "explanation": "\"Et opsyn\" means \"supervision\": someone keeping an eye on people, animals or things so that nothing goes wrong: \"Børnene er under opsyn\" (The children are being supervised).",
+  "forms": [
+   {
+    "da": "opsynet",
+    "en": "the supervision"
+   },
+   {
+    "da": "under opsyn",
+    "en": "under supervision"
+   },
+   {
+    "da": "at føre opsyn med børnene",
+    "en": "to supervise the children"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vagt",
+    "en": "a guard"
+   },
+   {
+    "da": "overvågning",
+    "en": "surveillance"
+   },
+   {
+    "da": "kontrol",
+    "en": "control"
+   },
+   {
+    "da": "en opsynsmand",
+    "en": "a supervisor"
+   }
+  ],
+  "sentence": {
+   "da": "Børn under ti år må ikke bade uden **opsyn**.",
+   "en": "Children under ten must not swim without supervision."
+  }
+ },
+ "optaget": {
+  "file": "o.json",
+  "explanation": "\"Optaget\" means \"busy\", \"taken\" or \"occupied\". Use it for a phone line, a toilet or a seat that is in use. For a person it means no time right now: \"Jeg er optaget lige nu\" (I am busy right now).",
+  "forms": [
+   {
+    "da": "en optaget linje",
+    "en": "a busy line"
+   },
+   {
+    "da": "et optaget bord",
+    "en": "a taken table"
+   },
+   {
+    "da": "optagne pladser",
+    "en": "taken seats"
+   }
+  ],
+  "related": [
+   {
+    "da": "ledig",
+    "en": "free / available"
+   },
+   {
+    "da": "travl",
+    "en": "busy"
+   },
+   {
+    "da": "fri",
+    "en": "free"
+   }
+  ],
+  "sentence": {
+   "da": "Toilettet er **optaget** lige nu.",
+   "en": "The toilet is occupied right now."
+  }
+ },
+ "optimistisk": {
+  "file": "o.json",
+  "explanation": "\"Optimistisk\" means \"optimistic\", for someone who expects things to go well: \"Jeg er optimistisk\" (I am optimistic). The opposite is \"pessimistisk\" (pessimistic).",
+  "forms": [
+   {
+    "da": "en optimistisk mand",
+    "en": "an optimistic man"
+   },
+   {
+    "da": "et optimistisk svar",
+    "en": "an optimistic answer"
+   },
+   {
+    "da": "optimistiske folk",
+    "en": "optimistic people"
+   }
+  ],
+  "related": [
+   {
+    "da": "en optimist",
+    "en": "an optimist"
+   },
+   {
+    "da": "positiv",
+    "en": "positive"
+   },
+   {
+    "da": "håbefuld",
+    "en": "hopeful"
+   },
+   {
+    "da": "negativ",
+    "en": "negative"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **optimistisk** og tror altid på det bedste.",
+   "en": "She is optimistic and always believes in the best."
+  }
+ },
+ "opvaskemiddel": {
+  "file": "o.json",
+  "explanation": "\"Opvaskemiddel\" means \"dish soap\". It is not for clothes; for those you use \"vaskepulver\" (laundry detergent).",
+  "forms": [
+   {
+    "da": "opvaskemidlet",
+    "en": "the dish soap"
+   },
+   {
+    "da": "lidt opvaskemiddel",
+    "en": "a little dish soap"
+   },
+   {
+    "da": "en flaske opvaskemiddel",
+    "en": "a bottle of dish soap"
+   }
+  ],
+  "related": [
+   {
+    "da": "en opvaskemaskine",
+    "en": "a dishwasher"
+   },
+   {
+    "da": "et rengøringsmiddel",
+    "en": "a cleaning product"
+   },
+   {
+    "da": "at vaske op",
+    "en": "to wash dishes"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bruger **opvaskemiddel**, når jeg vasker op.",
+   "en": "I use dish soap when I wash dishes."
+  }
+ },
+ "orange": {
+  "file": "o.json",
+  "explanation": "\"Orange\" means \"orange\", the color. For the fruit, Danes say \"en appelsin\" (an orange), not orange. It never changes its ending: \"en orange bil\" (an orange car), \"et orange hus\" (an orange house).",
+  "forms": [
+   {
+    "da": "en orange bil",
+    "en": "an orange car"
+   },
+   {
+    "da": "et orange hus",
+    "en": "an orange house"
+   },
+   {
+    "da": "orange biler",
+    "en": "orange cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "gul",
+    "en": "yellow"
+   },
+   {
+    "da": "rød",
+    "en": "red"
+   },
+   {
+    "da": "lilla",
+    "en": "purple"
+   },
+   {
+    "da": "grøn",
+    "en": "green"
+   }
+  ],
+  "sentence": {
+   "da": "Gulerødder er **orange**.",
+   "en": "Carrots are orange."
+  }
+ },
+ "ordblind": {
+  "file": "o.json",
+  "explanation": "\"Ordblind\" means \"dyslexic\", having a lasting difficulty with reading and spelling, which has nothing to do with intelligence. It is built from ord (word) and blind (blind), so it is literally word-blind.",
+  "forms": [
+   {
+    "da": "en ordblind elev",
+    "en": "a dyslexic pupil"
+   },
+   {
+    "da": "et ordblindt barn",
+    "en": "a dyslexic child"
+   },
+   {
+    "da": "ordblinde børn",
+    "en": "dyslexic children"
+   }
+  ],
+  "related": [
+   {
+    "da": "ordblindhed",
+    "en": "dyslexia"
+   },
+   {
+    "da": "dysleksi",
+    "en": "dyslexia (the medical term)"
+   },
+   {
+    "da": "farveblind",
+    "en": "colorblind"
+   },
+   {
+    "da": "en ordblindetest",
+    "en": "a dyslexia test"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **ordblind** og har svært ved at stave.",
+   "en": "She is dyslexic and finds it hard to spell."
+  }
+ },
+ "ordentlig": {
+  "file": "o.json",
+  "explanation": "\"Ordentlig\" means \"proper\" or \"decent\", done well and as it should be. For a person it means well-behaved: \"en ordentlig mand\" (a respectable man).",
+  "forms": [
+   {
+    "da": "en ordentlig jakke",
+    "en": "a proper jacket"
+   },
+   {
+    "da": "et ordentligt svar",
+    "en": "a proper answer"
+   },
+   {
+    "da": "ordentlige sko",
+    "en": "proper shoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "rigtig",
+    "en": "real, proper"
+   },
+   {
+    "da": "anstændig",
+    "en": "decent"
+   },
+   {
+    "da": "grundig",
+    "en": "thorough"
+   },
+   {
+    "da": "sjusket",
+    "en": "sloppy"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal have **ordentlig** mad, ikke bare chips.",
+   "en": "You must have proper food, not just chips."
+  }
+ },
+ "organiseret": {
+  "file": "o.json",
+  "explanation": "\"Organiseret\" means \"organized\", with everything in order and in its place. Add \"vel\" (well) in front to get \"velorganiseret\" (well organized).",
+  "forms": [
+   {
+    "da": "en organiseret kollega",
+    "en": "an organized coworker"
+   },
+   {
+    "da": "et organiseret skab",
+    "en": "an organized cupboard"
+   },
+   {
+    "da": "organiserede møder",
+    "en": "organized meetings"
+   }
+  ],
+  "related": [
+   {
+    "da": "struktureret",
+    "en": "structured"
+   },
+   {
+    "da": "rodet",
+    "en": "messy"
+   },
+   {
+    "da": "planlagt",
+    "en": "planned"
+   },
+   {
+    "da": "at organisere",
+    "en": "to organize"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **organiseret** og kommer aldrig for sent.",
+   "en": "She is organized and never comes late."
+  }
+ },
+ "original": {
+  "file": "o.json",
+  "explanation": "\"Original\" means \"original\": the first real one, not a copy. It can also mean \"creative and new\": \"en original idé\" (an original idea).",
+  "forms": [
+   {
+    "da": "en original tegning",
+    "en": "an original drawing"
+   },
+   {
+    "da": "et originalt maleri",
+    "en": "an original painting"
+   },
+   {
+    "da": "originale malerier",
+    "en": "original paintings"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kopi",
+    "en": "a copy"
+   },
+   {
+    "da": "ægte",
+    "en": "genuine"
+   },
+   {
+    "da": "falsk",
+    "en": "fake"
+   },
+   {
+    "da": "uoriginal",
+    "en": "unoriginal"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **original** tegning, ikke en kopi.",
+   "en": "It is an original drawing, not a copy."
+  }
+ },
+ "os": {
+  "file": "o.json",
+  "explanation": "\"Os\" means \"us\", used when we are the ones the action happens to: \"Han ser os\" (He sees us). It is also used after words like \"med\" (with): \"med os\" (with us). When we are the ones doing the action, use \"vi\" (we): \"Vi ser ham\" (We see him).",
+  "forms": [
+   {
+    "da": "Han ser os.",
+    "en": "He sees us."
+   },
+   {
+    "da": "Kom med os!",
+    "en": "Come with us!"
+   },
+   {
+    "da": "Giv os brød.",
+    "en": "Give us bread."
+   }
+  ],
+  "related": [
+   {
+    "da": "vores",
+    "en": "our / ours"
+   },
+   {
+    "da": "mig",
+    "en": "me"
+   },
+   {
+    "da": "jer",
+    "en": "you (all, object)"
+   },
+   {
+    "da": "dem",
+    "en": "them"
+   }
+  ],
+  "sentence": {
+   "da": "Vil du komme med **os**?",
+   "en": "Do you want to come with us?"
+  }
+ },
+ "ost": {
+  "file": "o.json",
+  "explanation": "\"Ost\" means \"cheese\". When you mean one kind of cheese, say \"en ost\": \"en fransk ost\" (a French cheese). Without \"en\" it means the food itself.",
+  "forms": [
+   {
+    "da": "ost",
+    "en": "cheese"
+   },
+   {
+    "da": "osten",
+    "en": "the cheese"
+   },
+   {
+    "da": "en skive ost",
+    "en": "a slice of cheese"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ostemad",
+    "en": "a cheese sandwich"
+   },
+   {
+    "da": "smør",
+    "en": "butter"
+   },
+   {
+    "da": "mælk",
+    "en": "milk"
+   }
+  ],
+  "sentence": {
+   "da": "**Ost** er lavet af mælk.",
+   "en": "Cheese is made from milk."
+  }
+ },
+ "otte": {
+  "file": "o.json",
+  "explanation": "\"Otte\" means \"eight\". Do not mix it up with \"atten\" (eighteen): \"otte børn\" (eight children), \"atten børn\" (eighteen children).",
+  "forms": [
+   {
+    "da": "otte æbler",
+    "en": "eight apples"
+   },
+   {
+    "da": "klokken otte",
+    "en": "eight o'clock"
+   },
+   {
+    "da": "otte gange",
+    "en": "eight times"
+   }
+  ],
+  "related": [
+   {
+    "da": "syv",
+    "en": "seven"
+   },
+   {
+    "da": "ni",
+    "en": "nine"
+   },
+   {
+    "da": "ottende",
+    "en": "eighth"
+   },
+   {
+    "da": "ti",
+    "en": "ten"
+   }
+  ],
+  "sentence": {
+   "da": "Efter syv kommer **otte**.",
+   "en": "After seven comes eight."
+  }
+ },
+ "ottende": {
+  "file": "o.json",
+  "explanation": "\"Ottende\" means \"eighth\". It is also used for dates: \"den ottende marts\" (the eighth of March).",
+  "forms": [
+   {
+    "da": "ottende",
+    "en": "eighth"
+   },
+   {
+    "da": "den ottende dag",
+    "en": "the eighth day"
+   },
+   {
+    "da": "det ottende hus",
+    "en": "the eighth house"
+   }
+  ],
+  "related": [
+   {
+    "da": "syvende",
+    "en": "seventh"
+   },
+   {
+    "da": "niende",
+    "en": "ninth"
+   },
+   {
+    "da": "otte",
+    "en": "eight"
+   },
+   {
+    "da": "første",
+    "en": "first"
+   }
+  ],
+  "sentence": {
+   "da": "Efter den syvende dag kommer den **ottende** dag.",
+   "en": "After the seventh day comes the eighth day."
+  }
+ },
+ "ovenover": {
+  "file": "o.json",
+  "explanation": "\"Ovenover\" means \"above\", directly overhead or on the floor higher up in the same building: \"Naboen bor ovenover\" (The neighbor lives above us). The opposite is \"nedenunder\" (below).",
+  "forms": [
+   {
+    "da": "Naboen bor ovenover",
+    "en": "The neighbor lives upstairs"
+   },
+   {
+    "da": "ovenover os",
+    "en": "above us"
+   },
+   {
+    "da": "Det står på hylden ovenover",
+    "en": "It is on the shelf above"
+   }
+  ],
+  "related": [
+   {
+    "da": "ovenpå",
+    "en": "upstairs"
+   },
+   {
+    "da": "ovenfor",
+    "en": "above, earlier in a text"
+   },
+   {
+    "da": "øverst",
+    "en": "at the top"
+   },
+   {
+    "da": "nederst",
+    "en": "at the bottom"
+   }
+  ],
+  "sentence": {
+   "da": "Vi hører skridt fra lejligheden **ovenover**, når naboen går rundt.",
+   "en": "We hear steps from the apartment above when the neighbor walks around."
+  }
+ },
+ "ovenpå": {
+  "file": "o.json",
+  "explanation": "\"Ovenpå\" means \"upstairs\", on the floor above you. It works for where something is and for going there: \"Jeg bor ovenpå\" (I live upstairs), \"Jeg går ovenpå\" (I go upstairs). The opposite is \"nedenunder\" (downstairs).",
+  "forms": [
+   {
+    "da": "ovenpå",
+    "en": "upstairs"
+   },
+   {
+    "da": "gå ovenpå",
+    "en": "go upstairs"
+   },
+   {
+    "da": "bo ovenpå",
+    "en": "live upstairs"
+   }
+  ],
+  "related": [
+   {
+    "da": "oppe",
+    "en": "up (there)"
+   },
+   {
+    "da": "ovenover",
+    "en": "above"
+   },
+   {
+    "da": "nede",
+    "en": "down (there)"
+   }
+  ],
+  "sentence": {
+   "da": "**Ovenpå** er der to soveværelser.",
+   "en": "Upstairs there are two bedrooms."
+  }
+ },
+ "over": {
+  "file": "o.json",
+  "explanation": "\"Over\" means \"over\", \"above\", \"across\" or \"more than\". Above: \"Flyet flyver over byen\" (The plane flies over the city). Across: \"Vi går over gaden\" (We walk across the street). More than: \"over tyve mennesker\" (more than twenty people).",
+  "forms": [
+   {
+    "da": "over bordet",
+    "en": "over the table"
+   },
+   {
+    "da": "gå over gaden",
+    "en": "cross the street"
+   },
+   {
+    "da": "over to timer",
+    "en": "more than two hours"
+   }
+  ],
+  "related": [
+   {
+    "da": "under",
+    "en": "under"
+   },
+   {
+    "da": "på",
+    "en": "on"
+   },
+   {
+    "da": "mere end",
+    "en": "more than"
+   }
+  ],
+  "sentence": {
+   "da": "Lampen hænger **over** bordet.",
+   "en": "The lamp hangs over the table."
+  }
+ },
+ "overalt": {
+  "file": "o.json",
+  "explanation": "\"Overalt\" means \"everywhere\", in every place. It can also start a sentence for emphasis: \"Overalt er der blomster\" (Everywhere there are flowers). The opposite is \"ingen steder\" (nowhere).",
+  "forms": [
+   {
+    "da": "overalt i byen",
+    "en": "everywhere in the town"
+   },
+   {
+    "da": "der er blomster overalt",
+    "en": "there are flowers everywhere"
+   },
+   {
+    "da": "han leder overalt",
+    "en": "he looks everywhere"
+   }
+  ],
+  "related": [
+   {
+    "da": "et sted",
+    "en": "somewhere"
+   },
+   {
+    "da": "alle steder",
+    "en": "all places"
+   },
+   {
+    "da": "hvor som helst",
+    "en": "anywhere"
+   },
+   {
+    "da": "et andet sted",
+    "en": "somewhere else"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg leder **overalt** efter nøglen.",
+   "en": "I look everywhere for the key."
+  }
+ },
+ "overarbejde": {
+  "file": "o.json",
+  "explanation": "\"Overarbejde\" means \"overtime\", the work done beyond your normal hours. To do it, Danes say \"at arbejde over\" (to work overtime).",
+  "forms": [
+   {
+    "da": "et overarbejde",
+    "en": "overtime"
+   },
+   {
+    "da": "overarbejdet",
+    "en": "the overtime"
+   },
+   {
+    "da": "meget overarbejde",
+    "en": "a lot of overtime"
+   },
+   {
+    "da": "betalt overarbejde",
+    "en": "paid overtime"
+   }
+  ],
+  "related": [
+   {
+    "da": "merarbejde",
+    "en": "extra work"
+   },
+   {
+    "da": "arbejdstid",
+    "en": "working hours"
+   },
+   {
+    "da": "fyraften",
+    "en": "quitting time"
+   },
+   {
+    "da": "en vagt",
+    "en": "a shift"
+   }
+  ],
+  "sentence": {
+   "da": "Når jeg arbejder ud over min normale tid, er det **overarbejde**.",
+   "en": "When I work beyond my normal time, it is overtime."
+  }
+ },
+ "overbevisende": {
+  "file": "o.json",
+  "explanation": "\"Overbevisende\" means \"convincing\", good at making people believe or accept something. It comes from \"at overbevise\" (to convince), the same way convincing comes from convince.",
+  "forms": [
+   {
+    "da": "et overbevisende argument",
+    "en": "a convincing argument"
+   },
+   {
+    "da": "en overbevisende forklaring",
+    "en": "a convincing explanation"
+   },
+   {
+    "da": "overbevisende svar",
+    "en": "convincing answers"
+   }
+  ],
+  "related": [
+   {
+    "da": "troværdig",
+    "en": "credible"
+   },
+   {
+    "da": "uoverbevisende",
+    "en": "unconvincing"
+   },
+   {
+    "da": "en overbevisning",
+    "en": "a conviction"
+   },
+   {
+    "da": "et bevis",
+    "en": "a proof"
+   }
+  ],
+  "sentence": {
+   "da": "Forklaringen var **overbevisende**, og alle troede på hende.",
+   "en": "The explanation was convincing, and everyone believed her."
+  }
+ },
+ "overdreven": {
+  "file": "o.json",
+  "explanation": "\"Overdreven\" means \"exaggerated\" or \"excessive\", more than is reasonable or true. It can describe an amount or a way of telling something: \"overdreven høflighed\" (excessive politeness).",
+  "forms": [
+   {
+    "da": "en overdreven reaktion",
+    "en": "an exaggerated reaction"
+   },
+   {
+    "da": "et overdrevet krav",
+    "en": "an exaggerated demand"
+   },
+   {
+    "da": "overdrevne forventninger",
+    "en": "exaggerated expectations"
+   }
+  ],
+  "related": [
+   {
+    "da": "at overdrive",
+    "en": "to exaggerate"
+   },
+   {
+    "da": "en overdrivelse",
+    "en": "an exaggeration"
+   },
+   {
+    "da": "moderat",
+    "en": "moderate"
+   },
+   {
+    "da": "for meget",
+    "en": "too much"
+   }
+  ],
+  "sentence": {
+   "da": "Reaktionen var **overdreven**, fordi fejlen kun var lille.",
+   "en": "The reaction was exaggerated because the mistake was only small."
+  }
+ },
+ "overfladisk": {
+  "file": "o.json",
+  "explanation": "\"Overfladisk\" means \"superficial\", touching only the outside of something. You can say it about what you know or about a person: \"overfladisk viden\" (superficial knowledge), \"Han er meget overfladisk\" (He is very superficial).",
+  "forms": [
+   {
+    "da": "en overfladisk samtale",
+    "en": "a superficial conversation"
+   },
+   {
+    "da": "et overfladisk indtryk",
+    "en": "a superficial impression"
+   },
+   {
+    "da": "overfladiske venner",
+    "en": "superficial friends"
+   }
+  ],
+  "related": [
+   {
+    "da": "en overflade",
+    "en": "a surface"
+   },
+   {
+    "da": "dyb",
+    "en": "deep"
+   },
+   {
+    "da": "grundig",
+    "en": "thorough"
+   },
+   {
+    "da": "flygtig",
+    "en": "brief"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kender kun hinanden **overfladisk**, men vi hilser altid.",
+   "en": "We only know each other superficially, but we always say hello."
+  }
+ },
+ "overfor": {
+  "file": "o.json",
+  "explanation": "\"Overfor\" means \"opposite\" or \"across from\", for something on the other side of a street or room. It can also mean \"facing\" a problem or choice: \"Jeg står overfor et valg\" (I am facing a choice).",
+  "forms": [
+   {
+    "da": "overfor skolen",
+    "en": "across from the school"
+   },
+   {
+    "da": "overfor mig",
+    "en": "opposite me"
+   },
+   {
+    "da": "overfor huset",
+    "en": "opposite the house"
+   }
+  ],
+  "related": [
+   {
+    "da": "ved siden af",
+    "en": "next to"
+   },
+   {
+    "da": "foran",
+    "en": "in front of"
+   },
+   {
+    "da": "bag",
+    "en": "behind"
+   },
+   {
+    "da": "mellem",
+    "en": "between"
+   }
+  ],
+  "sentence": {
+   "da": "Min ven bor **overfor** biblioteket.",
+   "en": "My friend lives across from the library."
+  }
+ },
+ "overfyldt": {
+  "file": "o.json",
+  "explanation": "\"Overfyldt\" means \"overcrowded\" or \"overfull\", with more in it than there is room for. It also fits things, not just places with people: \"en overfyldt skuffe\" (a stuffed drawer).",
+  "forms": [
+   {
+    "da": "en overfyldt bus",
+    "en": "an overcrowded bus"
+   },
+   {
+    "da": "et overfyldt rum",
+    "en": "an overcrowded room"
+   },
+   {
+    "da": "overfyldte butikker",
+    "en": "overcrowded stores"
+   }
+  ],
+  "related": [
+   {
+    "da": "fyldt",
+    "en": "filled"
+   },
+   {
+    "da": "propfuld",
+    "en": "crammed"
+   },
+   {
+    "da": "tætpakket",
+    "en": "packed tight"
+   },
+   {
+    "da": "tom",
+    "en": "empty"
+   }
+  ],
+  "sentence": {
+   "da": "Bussen var **overfyldt**, og mange måtte stå op hele vejen.",
+   "en": "The bus was overcrowded, and many had to stand all the way."
+  }
+ },
+ "overhovedet": {
+  "file": "o.json",
+  "explanation": "\"Overhovedet\" means \"at all\" and is used with \"ikke\" (not) or in questions: \"Jeg forstår overhovedet ikke\" (I do not understand at all).",
+  "forms": [
+   {
+    "da": "Er han overhovedet hjemme?",
+    "en": "Is he home at all?"
+   },
+   {
+    "da": "Det er overhovedet ikke svært.",
+    "en": "It is not difficult at all."
+   },
+   {
+    "da": "Har du overhovedet spist?",
+    "en": "Have you eaten at all?"
+   }
+  ],
+  "related": [
+   {
+    "da": "slet ikke",
+    "en": "not at all"
+   },
+   {
+    "da": "i det hele taget",
+    "en": "at all"
+   },
+   {
+    "da": "slet ingenting",
+    "en": "nothing at all"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **overhovedet** ikke tid i dag.",
+   "en": "I have no time at all today."
+  }
+ },
+ "overlegen": {
+  "file": "o.json",
+  "explanation": "\"Overlegen\" means \"superior\": clearly better or stronger than others. About a person's manner, it means looking down on others: \"Han talte med en overlegen tone\" (He spoke in a superior tone).",
+  "forms": [
+   {
+    "da": "en overlegen sejr",
+    "en": "a commanding victory"
+   },
+   {
+    "da": "et overlegent smil",
+    "en": "a superior smile"
+   },
+   {
+    "da": "overlegne modstandere",
+    "en": "superior opponents"
+   }
+  ],
+  "related": [
+   {
+    "da": "underlegen",
+    "en": "inferior"
+   },
+   {
+    "da": "arrogant",
+    "en": "arrogant"
+   },
+   {
+    "da": "nedladende",
+    "en": "condescending"
+   },
+   {
+    "da": "dominerende",
+    "en": "dominant"
+   }
+  ],
+  "sentence": {
+   "da": "Holdet var **overlegen** og vandt kampen med lethed.",
+   "en": "The team was superior and won the match with ease."
+  }
+ },
+ "overlevelse": {
+  "file": "o.json",
+  "explanation": "\"En overlevelse\" means \"survival\", staying alive despite danger or hardship. It comes from \"at overleve\" (to survive): \"Vi overlevede\" (We survived).",
+  "forms": [
+   {
+    "da": "en overlevelse",
+    "en": "survival"
+   },
+   {
+    "da": "overlevelsen",
+    "en": "the survival"
+   },
+   {
+    "da": "kampen for overlevelse",
+    "en": "the fight for survival"
+   },
+   {
+    "da": "chancen for overlevelse",
+    "en": "the chance of survival"
+   }
+  ],
+  "related": [
+   {
+    "da": "en overlevende",
+    "en": "a survivor"
+   },
+   {
+    "da": "et liv",
+    "en": "a life"
+   },
+   {
+    "da": "at klare sig",
+    "en": "to get by"
+   },
+   {
+    "da": "døden",
+    "en": "death"
+   }
+  ],
+  "sentence": {
+   "da": "Uden vand og mad er der ingen **overlevelse** i ørkenen.",
+   "en": "Without water and food there is no survival in the desert."
+  }
+ },
+ "overmodig": {
+  "file": "o.json",
+  "explanation": "\"Overmodig\" means \"overconfident\": so sure of yourself that you take risks or ignore danger. It is built from over (too much) and mod (courage), so it is courage that has gone too far.",
+  "forms": [
+   {
+    "da": "en overmodig dreng",
+    "en": "an overconfident boy"
+   },
+   {
+    "da": "et overmodigt svar",
+    "en": "an overconfident answer"
+   },
+   {
+    "da": "overmodige unge",
+    "en": "overconfident young people"
+   }
+  ],
+  "related": [
+   {
+    "da": "dumdristig",
+    "en": "foolhardy"
+   },
+   {
+    "da": "selvsikker",
+    "en": "self-assured"
+   },
+   {
+    "da": "hovmodig",
+    "en": "arrogant"
+   },
+   {
+    "da": "forsigtig",
+    "en": "cautious"
+   }
+  ],
+  "sentence": {
+   "da": "Han var **overmodig** og gik ud på den tynde is.",
+   "en": "He was overconfident and went out onto the thin ice."
+  }
+ },
+ "overordnet": {
+  "file": "o.json",
+  "explanation": "\"Overordnet\" means \"overall\" and \"superior\". For the big picture: \"overordnet set\" (broadly speaking). For rank, \"en overordnet\" (a superior) is a person above you at work.",
+  "forms": [
+   {
+    "da": "en overordnet plan",
+    "en": "an overall plan"
+   },
+   {
+    "da": "et overordnet mål",
+    "en": "an overall goal"
+   },
+   {
+    "da": "overordnede principper",
+    "en": "overall principles"
+   }
+  ],
+  "related": [
+   {
+    "da": "generel",
+    "en": "general"
+   },
+   {
+    "da": "en chef",
+    "en": "a boss"
+   },
+   {
+    "da": "underordnet",
+    "en": "subordinate"
+   },
+   {
+    "da": "samlet",
+    "en": "combined"
+   }
+  ],
+  "sentence": {
+   "da": "Planen er **overordnet** og har ikke alle detaljerne med.",
+   "en": "The plan is general and does not include every detail."
+  }
+ },
+ "overraskende": {
+  "file": "o.json",
+  "explanation": "\"Overraskende\" means \"surprising\" and describes news or events that you did not expect. To describe your own feeling, use \"overrasket\" (surprised): \"Jeg er overrasket\" (I am surprised).",
+  "forms": [
+   {
+    "da": "en overraskende nyhed",
+    "en": "a surprising piece of news"
+   },
+   {
+    "da": "et overraskende svar",
+    "en": "a surprising answer"
+   },
+   {
+    "da": "overraskende resultater",
+    "en": "surprising results"
+   }
+  ],
+  "related": [
+   {
+    "da": "en overraskelse",
+    "en": "a surprise"
+   },
+   {
+    "da": "at overraske",
+    "en": "to surprise"
+   },
+   {
+    "da": "forudsigelig",
+    "en": "predictable"
+   },
+   {
+    "da": "uventet",
+    "en": "unexpected"
+   }
+  ],
+  "sentence": {
+   "da": "Resultatet var **overraskende**.",
+   "en": "The result was surprising."
+  }
+ },
+ "overskuelig": {
+  "file": "o.json",
+  "explanation": "\"Overskuelig\" means \"manageable\", easy to take in at one glance because it is small or well organized: \"et overskueligt budget\" (a manageable budget). The opposite is \"uoverskuelig\" (confusing, hard to take in at a glance).",
+  "forms": [
+   {
+    "da": "en overskuelig plan",
+    "en": "a clear plan"
+   },
+   {
+    "da": "et overskueligt budget",
+    "en": "a manageable budget"
+   },
+   {
+    "da": "overskuelige tal",
+    "en": "clear figures"
+   }
+  ],
+  "related": [
+   {
+    "da": "et overblik",
+    "en": "an overview"
+   },
+   {
+    "da": "tydelig",
+    "en": "distinct"
+   },
+   {
+    "da": "enkel",
+    "en": "simple"
+   },
+   {
+    "da": "kaotisk",
+    "en": "chaotic"
+   }
+  ],
+  "sentence": {
+   "da": "En **overskuelig** plan med få trin er lettere at følge.",
+   "en": "A clear plan with few steps is easier to follow."
+  }
+ },
+ "overskyet": {
+  "file": "o.json",
+  "explanation": "\"Overskyet\" means \"overcast\", with the whole sky covered by clouds: \"Himlen er overskyet\" (The sky is overcast). It is stronger than \"skyet\" (cloudy), which can mean just a few clouds.",
+  "forms": [
+   {
+    "da": "en overskyet dag",
+    "en": "an overcast day"
+   },
+   {
+    "da": "et overskyet vejr",
+    "en": "overcast weather"
+   },
+   {
+    "da": "overskyede dage",
+    "en": "overcast days"
+   }
+  ],
+  "related": [
+   {
+    "da": "solrig",
+    "en": "sunny"
+   },
+   {
+    "da": "skyfri",
+    "en": "cloudless"
+   },
+   {
+    "da": "tåget",
+    "en": "foggy"
+   }
+  ],
+  "sentence": {
+   "da": "Himlen er **overskyet** i dag.",
+   "en": "The sky is overcast today."
+  }
+ },
+ "overvågning": {
+  "file": "o.json",
+  "explanation": "\"En overvågning\" means \"surveillance\", careful watching of people, places or systems, often by cameras. It is also used for watching a patient in a hospital: \"overvågning af patienten\" (watching over the patient).",
+  "forms": [
+   {
+    "da": "en overvågning",
+    "en": "surveillance"
+   },
+   {
+    "da": "overvågningen",
+    "en": "the surveillance"
+   },
+   {
+    "da": "under overvågning",
+    "en": "under surveillance"
+   },
+   {
+    "da": "et overvågningskamera",
+    "en": "a surveillance camera"
+   }
+  ],
+  "related": [
+   {
+    "da": "at overvåge",
+    "en": "to monitor"
+   },
+   {
+    "da": "kontrol",
+    "en": "control"
+   },
+   {
+    "da": "tilsyn",
+    "en": "supervision"
+   },
+   {
+    "da": "en vagt",
+    "en": "a guard"
+   }
+  ],
+  "sentence": {
+   "da": "Kameraerne i butikken er en slags **overvågning**.",
+   "en": "The cameras in the store are a kind of surveillance."
+  }
+ },
+ "overvægt": {
+  "file": "o.json",
+  "explanation": "\"En overvægt\" means \"overweight\", carrying more body weight than is healthy. Danes say \"at have overvægt\" (to be overweight). At the airport it also means baggage over the weight limit: \"Kufferten har overvægt\" (The suitcase is overweight).",
+  "forms": [
+   {
+    "da": "en overvægt",
+    "en": "overweight"
+   },
+   {
+    "da": "overvægten",
+    "en": "the overweight"
+   },
+   {
+    "da": "overvægt i kufferten",
+    "en": "excess weight in the suitcase"
+   },
+   {
+    "da": "at have overvægt",
+    "en": "to be overweight"
+   }
+  ],
+  "related": [
+   {
+    "da": "fedme",
+    "en": "obesity"
+   },
+   {
+    "da": "undervægt",
+    "en": "underweight"
+   },
+   {
+    "da": "normalvægt",
+    "en": "normal weight"
+   }
+  ],
+  "sentence": {
+   "da": "**Overvægt** kan give problemer med hjertet og leddene.",
+   "en": "Overweight can cause problems with the heart and joints."
+  }
+ },
+ "overvældende": {
+  "file": "o.json",
+  "explanation": "\"Overvældende\" means \"overwhelming\", so big or intense that it is hard to take in. You can use it for good things and bad: \"en overvældende opgave\" (an overwhelming task), \"en overvældende støtte\" (overwhelming support). For how you feel, say \"overvældet\" (overwhelmed): \"Jeg er overvældet\" (I am overwhelmed).",
+  "forms": [
+   {
+    "da": "en overvældende følelse",
+    "en": "an overwhelming feeling"
+   },
+   {
+    "da": "et overvældende flertal",
+    "en": "an overwhelming majority"
+   },
+   {
+    "da": "overvældende resultater",
+    "en": "overwhelming results"
+   }
+  ],
+  "related": [
+   {
+    "da": "enorm",
+    "en": "enormous"
+   },
+   {
+    "da": "voldsom",
+    "en": "fierce"
+   },
+   {
+    "da": "at overvælde",
+    "en": "to overwhelm"
+   }
+  ],
+  "sentence": {
+   "da": "Udsigten fra toppen var **overvældende**, og vi blev stille.",
+   "en": "The view from the top was overwhelming, and we went quiet."
+  }
+ },
+ "overvældet": {
+  "file": "o.json",
+  "explanation": "\"Overvældet\" means \"overwhelmed\", the feeling of being hit by something too big or too much, whether good or bad. Say it about yourself: \"Jeg er overvældet\" (I am overwhelmed). For the thing that overwhelms you, say \"overvældende\" (overwhelming): \"en overvældende opgave\" (an overwhelming task).",
+  "forms": [
+   {
+    "da": "en overvældet gæst",
+    "en": "an overwhelmed guest"
+   },
+   {
+    "da": "et overvældet barn",
+    "en": "an overwhelmed child"
+   },
+   {
+    "da": "overvældede forældre",
+    "en": "overwhelmed parents"
+   }
+  ],
+  "related": [
+   {
+    "da": "at overvælde",
+    "en": "to overwhelm"
+   },
+   {
+    "da": "rørt",
+    "en": "moved"
+   },
+   {
+    "da": "stresset",
+    "en": "stressed"
+   },
+   {
+    "da": "rystet",
+    "en": "shaken"
+   }
+  ],
+  "sentence": {
+   "da": "Hun var helt **overvældet** af alle gaverne og kortene.",
+   "en": "She was completely overwhelmed by all the gifts and cards."
+  }
+ },
+ "at ødelægge": {
+  "file": "oe.json",
+  "explanation": "\"At ødelægge\" means \"to destroy\" or \"to break\" something so it no longer works: \"Jeg ødelagde min telefon\" (I broke my phone). If a thing just stops working by itself, say \"Den gik i stykker\" (It broke).",
+  "forms": [
+   {
+    "da": "at ødelægge",
+    "en": "to destroy / break"
+   },
+   {
+    "da": "jeg ødelægger",
+    "en": "I destroy / break"
+   },
+   {
+    "da": "jeg ødelagde",
+    "en": "I destroyed / broke"
+   },
+   {
+    "da": "jeg har ødelagt",
+    "en": "I have destroyed / broken"
+   }
+  ],
+  "related": [
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   },
+   {
+    "da": "at knuse",
+    "en": "to smash"
+   },
+   {
+    "da": "at bygge",
+    "en": "to build"
+   },
+   {
+    "da": "en ødelæggelse",
+    "en": "destruction"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene må ikke **ødelægge** den gamle vase.",
+   "en": "The children must not break the old vase."
+  }
+ },
+ "at øge": {
+  "file": "oe.json",
+  "explanation": "\"At øge\" means \"to increase\": you make something bigger or more: \"Vi øger farten\" (We increase the speed). When something goes up by itself, use \"at stige\" (to rise): \"Prisen stiger\" (The price is rising).",
+  "forms": [
+   {
+    "da": "at øge",
+    "en": "to increase"
+   },
+   {
+    "da": "jeg øger",
+    "en": "I increase"
+   },
+   {
+    "da": "jeg øgede",
+    "en": "I increased"
+   },
+   {
+    "da": "jeg har øget",
+    "en": "I have increased"
+   }
+  ],
+  "related": [
+   {
+    "da": "at mindske",
+    "en": "to reduce"
+   },
+   {
+    "da": "at vokse",
+    "en": "to grow"
+   },
+   {
+    "da": "at sænke",
+    "en": "to lower"
+   },
+   {
+    "da": "en stigning",
+    "en": "an increase"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet vil **øge** prisen næste år.",
+   "en": "The company will increase the price next year."
+  }
+ },
+ "at ønske": {
+  "file": "oe.json",
+  "explanation": "\"At ønske\" means \"to wish\", often to wish someone something: \"Jeg ønsker dig en god tur\" (I wish you a good trip). With \"sig\" (oneself) it means \"to wish for\" something: \"Jeg ønsker mig en cykel\" (I wish for a bike).",
+  "forms": [
+   {
+    "da": "at ønske",
+    "en": "to wish"
+   },
+   {
+    "da": "jeg ønsker",
+    "en": "I wish"
+   },
+   {
+    "da": "jeg ønskede",
+    "en": "I wished"
+   },
+   {
+    "da": "jeg har ønsket",
+    "en": "I have wished"
+   }
+  ],
+  "related": [
+   {
+    "da": "at håbe",
+    "en": "to hope"
+   },
+   {
+    "da": "at ville",
+    "en": "to want"
+   },
+   {
+    "da": "at længes efter",
+    "en": "to long for"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **ønske** hende tillykke i morgen.",
+   "en": "We will wish her congratulations tomorrow."
+  }
+ },
+ "at ønske sig": {
+  "file": "oe.json",
+  "explanation": "\"At ønske sig\" means \"to wish for\" something you would like to get, such as a gift: \"Jeg ønsker mig en cykel\" (I wish for a bike). Without \"sig\", \"at ønske\" (to wish) is for wishing something to another person: \"Jeg ønsker dig held og lykke\" (I wish you good luck).",
+  "forms": [
+   {
+    "da": "at ønske sig",
+    "en": "to wish for"
+   },
+   {
+    "da": "jeg ønsker mig",
+    "en": "I wish for"
+   },
+   {
+    "da": "jeg ønskede mig",
+    "en": "I wished for"
+   },
+   {
+    "da": "jeg har ønsket mig",
+    "en": "I have wished for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at håbe",
+    "en": "to hope"
+   },
+   {
+    "da": "at drømme om",
+    "en": "to dream of"
+   },
+   {
+    "da": "at længes efter",
+    "en": "to long for"
+   }
+  ],
+  "sentence": {
+   "da": "Børn plejer at **ønske sig** en hund til jul.",
+   "en": "Kids usually wish for a dog for Christmas."
+  }
+ },
+ "at øse": {
+  "file": "oe.json",
+  "explanation": "\"At øse\" means \"to scoop\" or \"to pour\": you move a liquid or loose things with a ladle, a scoop or a bucket. It can mean to bail water out of a boat: \"at øse vand ud af båden\" (to bail water out of the boat). \"Det øser ned!\" (It is pouring down!) is said about heavy rain.",
+  "forms": [
+   {
+    "da": "at øse",
+    "en": "to scoop / pour"
+   },
+   {
+    "da": "jeg øser",
+    "en": "I scoop / pour"
+   },
+   {
+    "da": "jeg øste",
+    "en": "I scooped / poured"
+   },
+   {
+    "da": "jeg har øst",
+    "en": "I have scooped / poured"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skovle",
+    "en": "to shovel"
+   },
+   {
+    "da": "at tømme",
+    "en": "to empty"
+   },
+   {
+    "da": "at fylde",
+    "en": "to fill"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **øse** suppen op i skålene.",
+   "en": "I will ladle the soup into the bowls."
+  }
+ },
+ "at øve": {
+  "file": "oe.json",
+  "explanation": "\"At øve\" means \"to practice\". Danish usually adds \"mig\" (myself): \"Jeg øver mig i dansk\" (I am practicing Danish).",
+  "forms": [
+   {
+    "da": "at øve",
+    "en": "to practice"
+   },
+   {
+    "da": "jeg øver",
+    "en": "I practice"
+   },
+   {
+    "da": "jeg øvede",
+    "en": "I practiced"
+   },
+   {
+    "da": "jeg har øvet",
+    "en": "I have practiced"
+   }
+  ],
+  "related": [
+   {
+    "da": "en øvelse",
+    "en": "an exercise"
+   },
+   {
+    "da": "at træne",
+    "en": "to train"
+   },
+   {
+    "da": "at lære",
+    "en": "to learn"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skal **øve** sig i at spille klaver.",
+   "en": "She has to practice playing the piano."
+  }
+ },
+ "at øve sig": {
+  "file": "oe.json",
+  "explanation": "\"At øve sig\" means \"to practice\" to get better: \"Jeg øver mig hver dag\" (I practice every day). The word after \"øve\" changes with who practices: \"mig\" (myself), \"dig\" (yourself), \"sig\" (himself, herself).",
+  "forms": [
+   {
+    "da": "at øve sig",
+    "en": "to practice"
+   },
+   {
+    "da": "jeg øver mig",
+    "en": "I practice"
+   },
+   {
+    "da": "jeg øvede mig",
+    "en": "I practiced"
+   },
+   {
+    "da": "jeg har øvet mig",
+    "en": "I have practiced"
+   }
+  ],
+  "related": [
+   {
+    "da": "en øvelse",
+    "en": "an exercise"
+   },
+   {
+    "da": "at træne",
+    "en": "to train"
+   },
+   {
+    "da": "at lære",
+    "en": "to learn"
+   },
+   {
+    "da": "at gentage",
+    "en": "to repeat"
+   }
+  ],
+  "sentence": {
+   "da": "Han skal **øve sig** i dansk hver dag.",
+   "en": "He has to practice Danish every day."
+  }
+ },
+ "en ø": {
+  "file": "oe.json",
+  "explanation": "\"En ø\" means \"an island\", land with water all around it.",
+  "forms": [
+   {
+    "da": "en ø",
+    "en": "an island"
+   },
+   {
+    "da": "øen",
+    "en": "the island"
+   },
+   {
+    "da": "øer",
+    "en": "islands"
+   },
+   {
+    "da": "øerne",
+    "en": "the islands"
+   }
+  ],
+  "related": [
+   {
+    "da": "en halvø",
+    "en": "a peninsula"
+   },
+   {
+    "da": "et fastland",
+    "en": "a mainland"
+   },
+   {
+    "da": "en holm",
+    "en": "a small island"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager færgen til en lille **ø**.",
+   "en": "We take the ferry to a small island."
+  }
+ },
+ "en øjenfarve": {
+  "file": "oe.json",
+  "explanation": "\"En øjenfarve\" means \"an eye color\", built from øje (eye) and farve (color). Ask \"Hvad er din øjenfarve?\" (What is your eye color?) and answer \"Jeg har brune øjne\" (I have brown eyes).",
+  "forms": [
+   {
+    "da": "en øjenfarve",
+    "en": "an eye color"
+   },
+   {
+    "da": "øjenfarven",
+    "en": "the eye color"
+   },
+   {
+    "da": "øjenfarver",
+    "en": "eye colors"
+   },
+   {
+    "da": "øjenfarverne",
+    "en": "the eye colors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hårfarve",
+    "en": "a hair color"
+   },
+   {
+    "da": "en hudfarve",
+    "en": "a skin color"
+   },
+   {
+    "da": "et øjenbryn",
+    "en": "an eyebrow"
+   },
+   {
+    "da": "et øjenlåg",
+    "en": "an eyelid"
+   }
+  ],
+  "sentence": {
+   "da": "Min **øjenfarve** er grøn, og min fars er blå.",
+   "en": "My eye color is green, and my father's is blue."
+  }
+ },
+ "en øjenlæge": {
+  "file": "oe.json",
+  "explanation": "\"En øjenlæge\" means \"an eye doctor\", a medical specialist who treats eye diseases and checks your sight. For a simple sight check, Danes often go to \"en optiker\" (an optician) instead.",
+  "forms": [
+   {
+    "da": "en øjenlæge",
+    "en": "an eye doctor"
+   },
+   {
+    "da": "øjenlægen",
+    "en": "the eye doctor"
+   },
+   {
+    "da": "øjenlæger",
+    "en": "eye doctors"
+   },
+   {
+    "da": "øjenlægerne",
+    "en": "the eye doctors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tandlæge",
+    "en": "a dentist"
+   },
+   {
+    "da": "en hudlæge",
+    "en": "a skin doctor"
+   },
+   {
+    "da": "en synsprøve",
+    "en": "an eye test"
+   },
+   {
+    "da": "briller",
+    "en": "glasses"
+   }
+  ],
+  "sentence": {
+   "da": "En **øjenlæge** undersøger dine øjne og dit syn.",
+   "en": "An eye doctor examines your eyes and your sight."
+  }
+ },
+ "en øjenvippe": {
+  "file": "oe.json",
+  "explanation": "\"En øjenvippe\" means \"an eyelash\", one of the short hairs along the edge of your eyelid.",
+  "forms": [
+   {
+    "da": "en øjenvippe",
+    "en": "an eyelash"
+   },
+   {
+    "da": "øjenvippen",
+    "en": "the eyelash"
+   },
+   {
+    "da": "øjenvipper",
+    "en": "eyelashes"
+   },
+   {
+    "da": "øjenvipperne",
+    "en": "the eyelashes"
+   }
+  ],
+  "related": [
+   {
+    "da": "et øjenlåg",
+    "en": "an eyelid"
+   },
+   {
+    "da": "et øjenbryn",
+    "en": "an eyebrow"
+   },
+   {
+    "da": "en mascara",
+    "en": "a mascara"
+   }
+  ],
+  "sentence": {
+   "da": "Hver **øjenvippe** hjælper med at holde støv ude af øjet.",
+   "en": "Each eyelash helps keep dust out of the eye."
+  }
+ },
+ "en økonom": {
+  "file": "oe.json",
+  "explanation": "\"En økonom\" means \"an economist\", a person who has studied economics, often working in a bank, a company or the government. The subject itself is \"økonomi\" (economics).",
+  "forms": [
+   {
+    "da": "en økonom",
+    "en": "an economist"
+   },
+   {
+    "da": "økonomen",
+    "en": "the economist"
+   },
+   {
+    "da": "økonomer",
+    "en": "economists"
+   },
+   {
+    "da": "økonomerne",
+    "en": "the economists"
+   }
+  ],
+  "related": [
+   {
+    "da": "en revisor",
+    "en": "an accountant"
+   },
+   {
+    "da": "en analytiker",
+    "en": "an analyst"
+   },
+   {
+    "da": "en bankrådgiver",
+    "en": "a bank adviser"
+   },
+   {
+    "da": "en erhvervsøkonom",
+    "en": "a business economist"
+   }
+  ],
+  "sentence": {
+   "da": "En **økonom** kan forklare, hvorfor priserne stiger.",
+   "en": "An economist can explain why prices rise."
+  }
+ },
+ "en økonomi": {
+  "file": "oe.json",
+  "explanation": "\"En økonomi\" means \"an economy\", how a country or a household handles its finances.",
+  "forms": [
+   {
+    "da": "en økonomi",
+    "en": "an economy"
+   },
+   {
+    "da": "økonomien",
+    "en": "the economy"
+   },
+   {
+    "da": "økonomier",
+    "en": "economies"
+   },
+   {
+    "da": "økonomierne",
+    "en": "the economies"
+   }
+  ],
+  "related": [
+   {
+    "da": "økonomisk",
+    "en": "economic / financial"
+   },
+   {
+    "da": "penge",
+    "en": "money"
+   },
+   {
+    "da": "en økonom",
+    "en": "an economist"
+   },
+   {
+    "da": "et budget",
+    "en": "a budget"
+   }
+  ],
+  "sentence": {
+   "da": "Landets **økonomi** er stærk.",
+   "en": "The country's economy is strong."
+  }
+ },
+ "en økse": {
+  "file": "oe.json",
+  "explanation": "\"En økse\" means \"an axe\", the tool for chopping wood. The matching verb is \"at hugge\" (to chop): \"Jeg hugger brænde\" (I chop firewood).",
+  "forms": [
+   {
+    "da": "en økse",
+    "en": "an axe"
+   },
+   {
+    "da": "øksen",
+    "en": "the axe"
+   },
+   {
+    "da": "økser",
+    "en": "axes"
+   },
+   {
+    "da": "øksene",
+    "en": "the axes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sav",
+    "en": "a saw"
+   },
+   {
+    "da": "en hammer",
+    "en": "a hammer"
+   },
+   {
+    "da": "en skovl",
+    "en": "a shovel"
+   }
+  ],
+  "sentence": {
+   "da": "Vi hugger træ med en skarp **økse**.",
+   "en": "We chop wood with a sharp axe."
+  }
+ },
+ "en øl": {
+  "file": "oe.json",
+  "explanation": "\"En øl\" means \"a beer\". In a bar you can add the size: \"en stor øl\" (a large beer) or \"en lille øl\" (a small beer).",
+  "forms": [
+   {
+    "da": "en øl",
+    "en": "a beer"
+   },
+   {
+    "da": "ølen",
+    "en": "the beer"
+   },
+   {
+    "da": "øl",
+    "en": "beers"
+   },
+   {
+    "da": "ølene",
+    "en": "the beers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vin",
+    "en": "a wine"
+   },
+   {
+    "da": "en fadøl",
+    "en": "a draft beer"
+   },
+   {
+    "da": "en cider",
+    "en": "a cider"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg drikker en kold **øl**.",
+   "en": "I drink a cold beer."
+  }
+ },
+ "en ølflaske": {
+  "file": "oe.json",
+  "explanation": "\"En ølflaske\" means \"a beer bottle\". It is built from øl (beer) and flaske (bottle). Most beer bottles carry \"pant\" (a refundable deposit) that you get back when you return them.",
+  "forms": [
+   {
+    "da": "en ølflaske",
+    "en": "a beer bottle"
+   },
+   {
+    "da": "ølflasken",
+    "en": "the beer bottle"
+   },
+   {
+    "da": "ølflasker",
+    "en": "beer bottles"
+   },
+   {
+    "da": "ølflaskerne",
+    "en": "the beer bottles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vinflaske",
+    "en": "a wine bottle"
+   },
+   {
+    "da": "en ølkasse",
+    "en": "a beer crate"
+   },
+   {
+    "da": "et ølglas",
+    "en": "a beer glass"
+   }
+  ],
+  "sentence": {
+   "da": "Øl er i en **ølflaske**, og vin er i en vinflaske.",
+   "en": "Beer is in a beer bottle, and wine is in a wine bottle."
+  }
+ },
+ "en ønskeseddel": {
+  "file": "oe.json",
+  "explanation": "\"En ønskeseddel\" means \"a wish list\", a list of presents you hope to get. It is built from ønske (wish) and seddel (note). \"Seddel\" also means a banknote: \"en hundredkroneseddel\" (a hundred-krone banknote).",
+  "forms": [
+   {
+    "da": "en ønskeseddel",
+    "en": "a wish list"
+   },
+   {
+    "da": "ønskesedlen",
+    "en": "the wish list"
+   },
+   {
+    "da": "ønskesedler",
+    "en": "wish lists"
+   },
+   {
+    "da": "ønskesedlerne",
+    "en": "the wish lists"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gave",
+    "en": "a gift"
+   },
+   {
+    "da": "en indkøbsseddel",
+    "en": "a shopping list"
+   },
+   {
+    "da": "en julegave",
+    "en": "a Christmas present"
+   },
+   {
+    "da": "en fødselsdagsgave",
+    "en": "a birthday present"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skrev en lang **ønskeseddel** til jul.",
+   "en": "She wrote a long wish list for Christmas."
+  }
+ },
+ "en ørering": {
+  "file": "oe.json",
+  "explanation": "\"En ørering\" means \"an earring\". For both earrings together, say \"et par øreringe\" (a pair of earrings).",
+  "forms": [
+   {
+    "da": "en ørering",
+    "en": "an earring"
+   },
+   {
+    "da": "øreringen",
+    "en": "the earring"
+   },
+   {
+    "da": "øreringe",
+    "en": "earrings"
+   },
+   {
+    "da": "øreringene",
+    "en": "the earrings"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ring",
+    "en": "a ring"
+   },
+   {
+    "da": "et smykke",
+    "en": "a piece of jewelry"
+   },
+   {
+    "da": "en halskæde",
+    "en": "a necklace"
+   },
+   {
+    "da": "et armbånd",
+    "en": "a bracelet"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har mistet min venstre **ørering**.",
+   "en": "I have lost my left earring."
+  }
+ },
+ "en ørken": {
+  "file": "oe.json",
+  "explanation": "\"En ørken\" means \"a desert\", a dry, sandy land.",
+  "forms": [
+   {
+    "da": "en ørken",
+    "en": "a desert"
+   },
+   {
+    "da": "ørkenen",
+    "en": "the desert"
+   },
+   {
+    "da": "ørkener",
+    "en": "deserts"
+   },
+   {
+    "da": "ørkenerne",
+    "en": "the deserts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en oase",
+    "en": "an oasis"
+   },
+   {
+    "da": "en kamel",
+    "en": "a camel"
+   },
+   {
+    "da": "en sandstorm",
+    "en": "a sandstorm"
+   }
+  ],
+  "sentence": {
+   "da": "Der er næsten ingen regn i en **ørken**.",
+   "en": "There is almost no rain in a desert."
+  }
+ },
+ "en ørn": {
+  "file": "oe.json",
+  "explanation": "\"En ørn\" means \"an eagle\", a large bird that hunts other animals and flies very high.",
+  "forms": [
+   {
+    "da": "en ørn",
+    "en": "an eagle"
+   },
+   {
+    "da": "ørnen",
+    "en": "the eagle"
+   },
+   {
+    "da": "ørne",
+    "en": "eagles"
+   },
+   {
+    "da": "ørnene",
+    "en": "the eagles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en høg",
+    "en": "a hawk"
+   },
+   {
+    "da": "en glente",
+    "en": "a kite"
+   },
+   {
+    "da": "en rovfugl",
+    "en": "a bird of prey"
+   },
+   {
+    "da": "en falk",
+    "en": "a falcon"
+   }
+  ],
+  "sentence": {
+   "da": "En **ørn** flyver højt over bjergene.",
+   "en": "An eagle flies high over the mountains."
+  }
+ },
+ "en ørred": {
+  "file": "oe.json",
+  "explanation": "\"En ørred\" means \"a trout\", a fish found in cold rivers and lakes, and also in the sea.",
+  "forms": [
+   {
+    "da": "en ørred",
+    "en": "a trout"
+   },
+   {
+    "da": "ørreden",
+    "en": "the trout"
+   },
+   {
+    "da": "ørreder",
+    "en": "trout"
+   },
+   {
+    "da": "ørrederne",
+    "en": "the trout"
+   }
+  ],
+  "related": [
+   {
+    "da": "en laks",
+    "en": "a salmon"
+   },
+   {
+    "da": "en gedde",
+    "en": "a pike"
+   },
+   {
+    "da": "en aborre",
+    "en": "a perch"
+   },
+   {
+    "da": "en karpe",
+    "en": "a carp"
+   }
+  ],
+  "sentence": {
+   "da": "En **ørred** ligner en laks, men den er mindre.",
+   "en": "A trout looks like a salmon, but it is smaller."
+  }
+ },
+ "en øse": {
+  "file": "oe.json",
+  "explanation": "\"En øse\" means \"a ladle\", a deep scoop with a long handle for serving food from a pot. The action is \"at øse op\" (to scoop out): \"Han øser maden op\" (He scoops out the food). The word \"op\" (up) adds the idea of lifting out of the pot.",
+  "forms": [
+   {
+    "da": "en øse",
+    "en": "a ladle"
+   },
+   {
+    "da": "øsen",
+    "en": "the ladle"
+   },
+   {
+    "da": "øser",
+    "en": "ladles"
+   },
+   {
+    "da": "øserne",
+    "en": "the ladles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en grydeske",
+    "en": "a cooking spoon"
+   },
+   {
+    "da": "en suppeske",
+    "en": "a soup spoon"
+   },
+   {
+    "da": "en spatel",
+    "en": "a spatula"
+   }
+  ],
+  "sentence": {
+   "da": "Han tager suppe op af gryden med en **øse**.",
+   "en": "He takes soup out of the pot with a ladle."
+  }
+ },
+ "en østers": {
+  "file": "oe.json",
+  "explanation": "\"En østers\" means \"an oyster\", a shellfish that lives in the sea inside a rough, hard shell.",
+  "forms": [
+   {
+    "da": "en østers",
+    "en": "an oyster"
+   },
+   {
+    "da": "østersen",
+    "en": "the oyster"
+   },
+   {
+    "da": "østers",
+    "en": "oysters"
+   },
+   {
+    "da": "østersene",
+    "en": "the oysters"
+   }
+  ],
+  "related": [
+   {
+    "da": "en musling",
+    "en": "a mussel"
+   },
+   {
+    "da": "en hummer",
+    "en": "a lobster"
+   },
+   {
+    "da": "en krabbe",
+    "en": "a crab"
+   },
+   {
+    "da": "en kammusling",
+    "en": "a scallop"
+   }
+  ],
+  "sentence": {
+   "da": "En **østers** er en musling, som man ofte spiser rå.",
+   "en": "An oyster is a kind of shellfish that people often eat raw."
+  }
+ },
+ "en øvelse": {
+  "file": "oe.json",
+  "explanation": "\"En øvelse\" means \"an exercise\", a task for practicing. It also means a workout move: \"Gør denne øvelse ti gange\" (Do this exercise ten times).",
+  "forms": [
+   {
+    "da": "en øvelse",
+    "en": "an exercise"
+   },
+   {
+    "da": "øvelsen",
+    "en": "the exercise"
+   },
+   {
+    "da": "øvelser",
+    "en": "exercises"
+   },
+   {
+    "da": "øvelserne",
+    "en": "the exercises"
+   }
+  ],
+  "related": [
+   {
+    "da": "en opgave",
+    "en": "a task"
+   },
+   {
+    "da": "træning",
+    "en": "training"
+   },
+   {
+    "da": "en lektie",
+    "en": "a homework assignment"
+   },
+   {
+    "da": "en prøve",
+    "en": "a test"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene laver en **øvelse** i matematik hver dag.",
+   "en": "The children do a math exercise every day."
+  }
+ },
+ "et øje": {
+  "file": "oe.json",
+  "explanation": "\"Et øje\" means \"an eye\", the part of the body you see with.",
+  "forms": [
+   {
+    "da": "et øje",
+    "en": "an eye"
+   },
+   {
+    "da": "øjet",
+    "en": "the eye"
+   },
+   {
+    "da": "øjne",
+    "en": "eyes"
+   },
+   {
+    "da": "øjnene",
+    "en": "the eyes"
+   }
+  ],
+  "related": [
+   {
+    "da": "et øre",
+    "en": "an ear"
+   },
+   {
+    "da": "en næse",
+    "en": "a nose"
+   },
+   {
+    "da": "et øjenbryn",
+    "en": "an eyebrow"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har noget i mit **øje**.",
+   "en": "I have something in my eye."
+  }
+ },
+ "et øjeblik": {
+  "file": "oe.json",
+  "explanation": "\"Et øjeblik\" means \"a moment\", a very short time. The word is made of øje (eye) and blik (glance). Danes also say \"i øjeblikket\" (right now): \"Jeg læser i øjeblikket\" (I am reading right now).",
+  "forms": [
+   {
+    "da": "et øjeblik",
+    "en": "a moment"
+   },
+   {
+    "da": "øjeblikket",
+    "en": "the moment"
+   },
+   {
+    "da": "øjeblikke",
+    "en": "moments"
+   },
+   {
+    "da": "øjeblikkene",
+    "en": "the moments"
+   }
+  ],
+  "related": [
+   {
+    "da": "et sekund",
+    "en": "a second"
+   },
+   {
+    "da": "et minut",
+    "en": "a minute"
+   },
+   {
+    "da": "en stund",
+    "en": "a while"
+   }
+  ],
+  "sentence": {
+   "da": "Vent et **øjeblik**, tak.",
+   "en": "Wait a moment, please."
+  }
+ },
+ "et øjekast": {
+  "file": "oe.json",
+  "explanation": "\"Et øjekast\" means \"a glance\", a very quick look at something. It is made of øje (an eye) and kast (a throw), so it is a throw of the eyes. It is mostly used in set phrases such as \"ved første øjekast\" (at first glance).",
+  "forms": [
+   {
+    "da": "et øjekast",
+    "en": "a glance"
+   },
+   {
+    "da": "øjekastet",
+    "en": "the glance"
+   },
+   {
+    "da": "øjekast",
+    "en": "glances"
+   },
+   {
+    "da": "øjekastene",
+    "en": "the glances"
+   }
+  ],
+  "related": [
+   {
+    "da": "et blik",
+    "en": "a gaze"
+   },
+   {
+    "da": "et kig",
+    "en": "a peek"
+   },
+   {
+    "da": "et glimt",
+    "en": "a glimpse"
+   }
+  ],
+  "sentence": {
+   "da": "Et hurtigt **øjekast** på kortet var nok til at finde vej.",
+   "en": "A quick glance at the map was enough to find the way."
+  }
+ },
+ "et øjenbryn": {
+  "file": "oe.json",
+  "explanation": "\"Et øjenbryn\" means \"an eyebrow\", the line of hair above your eye. Danish uses the same picture as English for showing surprise: \"Han løftede et øjenbryn\" (He raised an eyebrow).",
+  "forms": [
+   {
+    "da": "et øjenbryn",
+    "en": "an eyebrow"
+   },
+   {
+    "da": "øjenbrynet",
+    "en": "the eyebrow"
+   },
+   {
+    "da": "øjenbryn",
+    "en": "eyebrows"
+   },
+   {
+    "da": "øjenbrynene",
+    "en": "the eyebrows"
+   }
+  ],
+  "related": [
+   {
+    "da": "en øjenvippe",
+    "en": "an eyelash"
+   },
+   {
+    "da": "en pande",
+    "en": "a forehead"
+   },
+   {
+    "da": "et øjenlåg",
+    "en": "an eyelid"
+   },
+   {
+    "da": "en øjenskygge",
+    "en": "eye shadow"
+   }
+  ],
+  "sentence": {
+   "da": "Han har et ar over det venstre **øjenbryn**.",
+   "en": "He has a scar over his left eyebrow."
+  }
+ },
+ "et øjenlåg": {
+  "file": "oe.json",
+  "explanation": "\"Et øjenlåg\" means \"an eyelid\", the thin skin that closes over the eye. It is built from et øje (an eye) and et låg (a lid), the same \"låg\" as on a pot: \"et låg på en gryde\" (a lid on a pot).",
+  "forms": [
+   {
+    "da": "et øjenlåg",
+    "en": "an eyelid"
+   },
+   {
+    "da": "øjenlåget",
+    "en": "the eyelid"
+   },
+   {
+    "da": "øjenlåg",
+    "en": "eyelids"
+   },
+   {
+    "da": "øjenlågene",
+    "en": "the eyelids"
+   }
+  ],
+  "related": [
+   {
+    "da": "et øjenbryn",
+    "en": "an eyebrow"
+   },
+   {
+    "da": "en øjenvippe",
+    "en": "an eyelash"
+   },
+   {
+    "da": "en pupil",
+    "en": "a pupil"
+   },
+   {
+    "da": "at blinke",
+    "en": "to blink"
+   }
+  ],
+  "sentence": {
+   "da": "Når du sover, er dine **øjenlåg** lukkede.",
+   "en": "When you sleep, your eyelids are closed."
+  }
+ },
+ "et økosystem": {
+  "file": "oe.json",
+  "explanation": "\"Et økosystem\" means \"an ecosystem\", the plants, animals and soil in one area, which all depend on each other, like a forest or a lake.",
+  "forms": [
+   {
+    "da": "et økosystem",
+    "en": "an ecosystem"
+   },
+   {
+    "da": "økosystemet",
+    "en": "the ecosystem"
+   },
+   {
+    "da": "økosystemer",
+    "en": "ecosystems"
+   },
+   {
+    "da": "økosystemerne",
+    "en": "the ecosystems"
+   }
+  ],
+  "related": [
+   {
+    "da": "et miljø",
+    "en": "an environment"
+   },
+   {
+    "da": "biodiversitet",
+    "en": "biodiversity"
+   },
+   {
+    "da": "en fødekæde",
+    "en": "a food chain"
+   },
+   {
+    "da": "et levested",
+    "en": "a habitat"
+   }
+  ],
+  "sentence": {
+   "da": "Når der er for få bier, ødelægger det et helt **økosystem**.",
+   "en": "When there are too few bees, it ruins a whole ecosystem."
+  }
+ },
+ "et ønske": {
+  "file": "oe.json",
+  "explanation": "\"Et ønske\" means \"a wish\", something you want to happen. The same word also works as \"at ønske\" (to wish): \"Jeg ønsker dig held og lykke\" (I wish you good luck).",
+  "forms": [
+   {
+    "da": "et ønske",
+    "en": "a wish"
+   },
+   {
+    "da": "ønsket",
+    "en": "the wish"
+   },
+   {
+    "da": "ønsker",
+    "en": "wishes"
+   },
+   {
+    "da": "ønskerne",
+    "en": "the wishes"
+   }
+  ],
+  "related": [
+   {
+    "da": "at håbe",
+    "en": "to hope"
+   },
+   {
+    "da": "et håb",
+    "en": "a hope"
+   },
+   {
+    "da": "en drøm",
+    "en": "a dream"
+   },
+   {
+    "da": "en lyst",
+    "en": "a desire"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes største **ønske** er en hund.",
+   "en": "Her biggest wish is a dog."
+  }
+ },
+ "et øre": {
+  "file": "oe.json",
+  "explanation": "\"Et øre\" means \"an ear\", the part of the body you hear with. The same word is also a small unit of money worth a hundredth of a krone.",
+  "forms": [
+   {
+    "da": "et øre",
+    "en": "an ear"
+   },
+   {
+    "da": "øret",
+    "en": "the ear"
+   },
+   {
+    "da": "ører",
+    "en": "ears"
+   },
+   {
+    "da": "ørerne",
+    "en": "the ears"
+   }
+  ],
+  "related": [
+   {
+    "da": "et øje",
+    "en": "an eye"
+   },
+   {
+    "da": "en næse",
+    "en": "a nose"
+   },
+   {
+    "da": "en ørering",
+    "en": "an earring"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har ondt i mit **øre**.",
+   "en": "My ear hurts."
+  }
+ },
+ "øde": {
+  "file": "oe.json",
+  "explanation": "\"Øde\" means \"deserted\", with no people where you would expect some. For a place that is just calm and peaceful, use \"stille\" (quiet).",
+  "forms": [
+   {
+    "da": "en øde ø",
+    "en": "a deserted island"
+   },
+   {
+    "da": "et øde sted",
+    "en": "a deserted place"
+   },
+   {
+    "da": "øde gader",
+    "en": "deserted streets"
+   }
+  ],
+  "related": [
+   {
+    "da": "tom",
+    "en": "empty"
+   },
+   {
+    "da": "forladt",
+    "en": "abandoned"
+   },
+   {
+    "da": "ensom",
+    "en": "lonely"
+   },
+   {
+    "da": "en ødemark",
+    "en": "a wasteland"
+   }
+  ],
+  "sentence": {
+   "da": "Om natten er den lille by helt **øde**, og ingen er ude.",
+   "en": "At night the small town is completely deserted, and nobody is out."
+  }
+ },
+ "ødelagt": {
+  "file": "oe.json",
+  "explanation": "\"Ødelagt\" means \"broken\" or \"ruined\", for something that no longer works at all or cannot be saved. You can also say it about a day or a plan: \"Dagen er ødelagt\" (The day is ruined).",
+  "forms": [
+   {
+    "da": "en ødelagt cykel",
+    "en": "a broken bike"
+   },
+   {
+    "da": "et ødelagt tag",
+    "en": "a ruined roof"
+   },
+   {
+    "da": "ødelagte planer",
+    "en": "ruined plans"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ødelægge",
+    "en": "to destroy, ruin"
+   },
+   {
+    "da": "defekt",
+    "en": "defective"
+   },
+   {
+    "da": "i stykker",
+    "en": "broken, in pieces"
+   },
+   {
+    "da": "hel",
+    "en": "whole, unbroken"
+   }
+  ],
+  "sentence": {
+   "da": "Min telefon er **ødelagt**, fordi jeg tabte den.",
+   "en": "My phone is broken because I dropped it."
+  }
+ },
+ "ødelæggelse": {
+  "file": "oe.json",
+  "explanation": "\"En ødelæggelse\" means \"destruction\", the harm and ruin left when something has been wrecked. It is the thing left behind after \"at ødelægge\" (to destroy).",
+  "forms": [
+   {
+    "da": "en ødelæggelse",
+    "en": "a destruction"
+   },
+   {
+    "da": "ødelæggelsen",
+    "en": "the destruction"
+   },
+   {
+    "da": "ødelæggelser",
+    "en": "destructions"
+   },
+   {
+    "da": "ødelæggelserne",
+    "en": "the destructions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skade",
+    "en": "damage"
+   },
+   {
+    "da": "et forfald",
+    "en": "decay"
+   },
+   {
+    "da": "en tilintetgørelse",
+    "en": "an annihilation"
+   },
+   {
+    "da": "en genopbygning",
+    "en": "a rebuilding"
+   }
+  ],
+  "sentence": {
+   "da": "Stormen forårsagede stor **ødelæggelse** i byen.",
+   "en": "The storm caused great destruction in the town."
+  }
+ },
+ "ødelæggende": {
+  "file": "oe.json",
+  "explanation": "\"Ødelæggende\" means \"destructive\". It is made from the verb \"at ødelægge\" (to destroy) and describes something that does the destroying. Use it for something that does great damage: \"en ødelæggende brand\" (a destructive fire).",
+  "forms": [
+   {
+    "da": "en ødelæggende kritik",
+    "en": "destructive criticism"
+   },
+   {
+    "da": "et ødelæggende angreb",
+    "en": "a destructive attack"
+   },
+   {
+    "da": "ødelæggende konsekvenser",
+    "en": "destructive consequences"
+   }
+  ],
+  "related": [
+   {
+    "da": "skadelig",
+    "en": "harmful"
+   },
+   {
+    "da": "katastrofal",
+    "en": "disastrous"
+   },
+   {
+    "da": "opbyggende",
+    "en": "constructive"
+   }
+  ],
+  "sentence": {
+   "da": "Den **ødelæggende** orkan lagde mange huse i ruiner.",
+   "en": "The destructive hurricane left many houses in ruins."
+  }
+ },
+ "øjeblikkelig": {
+  "file": "oe.json",
+  "explanation": "\"Øjeblikkelig\" means \"immediate\", with no delay. Put it before a noun: \"øjeblikkelig hjælp\" (immediate help). It is built from et øjeblik (a moment). After a verb, use \"øjeblikkeligt\": \"Han svarede øjeblikkeligt\" (He answered immediately).",
+  "forms": [
+   {
+    "da": "en øjeblikkelig reaktion",
+    "en": "an immediate reaction"
+   },
+   {
+    "da": "et øjeblikkeligt svar",
+    "en": "an immediate answer"
+   },
+   {
+    "da": "øjeblikkelige resultater",
+    "en": "immediate results"
+   }
+  ],
+  "related": [
+   {
+    "da": "omgående",
+    "en": "at once"
+   },
+   {
+    "da": "straks",
+    "en": "right away"
+   },
+   {
+    "da": "akut",
+    "en": "urgent"
+   },
+   {
+    "da": "forsinket",
+    "en": "delayed"
+   }
+  ],
+  "sentence": {
+   "da": "Han fik **øjeblikkelig** hjælp, fordi det var meget alvorligt.",
+   "en": "He got immediate help because it was very serious."
+  }
+ },
+ "øjeblikkeligt": {
+  "file": "oe.json",
+  "explanation": "\"Øjeblikkeligt\" means \"immediately\", with no waiting at all. Use it after a verb to describe how quickly a person acts: \"Han svarede øjeblikkeligt\" (He answered immediately). Before a noun such as help, Danes say \"øjeblikkelig\" (immediate): \"øjeblikkelig hjælp\" (immediate help).",
+  "forms": [
+   {
+    "da": "Kom øjeblikkeligt!",
+    "en": "Come immediately!"
+   },
+   {
+    "da": "Svar øjeblikkeligt",
+    "en": "Answer immediately"
+   },
+   {
+    "da": "Det virker øjeblikkeligt",
+    "en": "It works immediately"
+   }
+  ],
+  "related": [
+   {
+    "da": "straks",
+    "en": "right away"
+   },
+   {
+    "da": "omgående",
+    "en": "promptly"
+   },
+   {
+    "da": "med det samme",
+    "en": "at once"
+   }
+  ],
+  "sentence": {
+   "da": "Brandalarmen går, og alle forlader bygningen **øjeblikkeligt**.",
+   "en": "The fire alarm goes off, and everyone leaves the building immediately."
+  }
+ },
+ "øjensynligt": {
+  "file": "oe.json",
+  "explanation": "\"Øjensynligt\" means \"apparently\". Use it when you can see signs of something with your own eyes: \"Han er øjensynligt træt\" (He is apparently tired).",
+  "forms": [
+   {
+    "da": "Hun er øjensynligt træt",
+    "en": "She is apparently tired"
+   },
+   {
+    "da": "Det regner øjensynligt",
+    "en": "It is apparently raining"
+   },
+   {
+    "da": "Han har øjensynligt glemt det",
+    "en": "He has apparently forgotten it"
+   }
+  ],
+  "related": [
+   {
+    "da": "tilsyneladende",
+    "en": "seemingly"
+   },
+   {
+    "da": "åbenbart",
+    "en": "evidently"
+   },
+   {
+    "da": "synligt",
+    "en": "visibly"
+   },
+   {
+    "da": "tydeligvis",
+    "en": "clearly"
+   }
+  ],
+  "sentence": {
+   "da": "Vinduet er åbent, så han er **øjensynligt** hjemme.",
+   "en": "The window is open, so he is apparently home."
+  }
+ },
+ "økologisk": {
+  "file": "oe.json",
+  "explanation": "\"Økologisk\" means \"organic\", mostly for food and farms. In shops it is often shortened to \"øko\" on labels: \"øko-æg\" (organic eggs).",
+  "forms": [
+   {
+    "da": "en økologisk gård",
+    "en": "an organic farm"
+   },
+   {
+    "da": "et økologisk æble",
+    "en": "an organic apple"
+   },
+   {
+    "da": "økologiske grøntsager",
+    "en": "organic vegetables"
+   }
+  ],
+  "related": [
+   {
+    "da": "naturlig",
+    "en": "natural"
+   },
+   {
+    "da": "bæredygtig",
+    "en": "sustainable"
+   },
+   {
+    "da": "konventionel",
+    "en": "conventional"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg køber helst **økologisk** mælk.",
+   "en": "I prefer to buy organic milk."
+  }
+ },
+ "økonomisk": {
+  "file": "oe.json",
+  "explanation": "\"Økonomisk\" means \"economic\" and \"financial\", about money. It can also mean \"cheap to run\": \"en økonomisk bil\" (an economical car).",
+  "forms": [
+   {
+    "da": "en økonomisk fordel",
+    "en": "an economic advantage"
+   },
+   {
+    "da": "et økonomisk problem",
+    "en": "a financial problem"
+   },
+   {
+    "da": "økonomiske problemer",
+    "en": "financial problems"
+   }
+  ],
+  "related": [
+   {
+    "da": "en økonomi",
+    "en": "an economy"
+   },
+   {
+    "da": "en økonom",
+    "en": "an economist"
+   },
+   {
+    "da": "finansiel",
+    "en": "financial"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har brug for **økonomisk** hjælp.",
+   "en": "We need financial help."
+  }
+ },
+ "øm": {
+  "file": "oe.json",
+  "explanation": "\"Øm\" means \"sore\" or \"tender\", when a part of the body hurts a little, especially when touched: \"Min arm er øm\" (My arm is sore). It is milder than \"ondt\" (pain), as in \"Jeg har ondt i armen\" (My arm hurts).",
+  "forms": [
+   {
+    "da": "en øm arm",
+    "en": "a sore arm"
+   },
+   {
+    "da": "et ømt knæ",
+    "en": "a sore knee"
+   },
+   {
+    "da": "ømme arme",
+    "en": "sore arms"
+   }
+  ],
+  "related": [
+   {
+    "da": "en smerte",
+    "en": "a pain"
+   },
+   {
+    "da": "at gøre ondt",
+    "en": "to hurt"
+   },
+   {
+    "da": "stiv",
+    "en": "stiff"
+   }
+  ],
+  "sentence": {
+   "da": "Min skulder er **øm** efter træning.",
+   "en": "My shoulder is sore after exercise."
+  }
+ },
+ "ønskelig": {
+  "file": "oe.json",
+  "explanation": "\"Ønskelig\" means \"desirable\", something that would be good to have or hoped for. It is common in reports and official texts to name the best outcome: \"Det er ønskeligt, at alle kommer\" (It is desirable that everyone comes).",
+  "forms": [
+   {
+    "da": "en ønskelig løsning",
+    "en": "a desirable solution"
+   },
+   {
+    "da": "et ønskeligt resultat",
+    "en": "a desirable result"
+   },
+   {
+    "da": "ønskelige forhold",
+    "en": "desirable conditions"
+   }
+  ],
+  "related": [
+   {
+    "da": "et ønske",
+    "en": "a wish"
+   },
+   {
+    "da": "at ønske",
+    "en": "to wish"
+   },
+   {
+    "da": "uønsket",
+    "en": "unwanted"
+   },
+   {
+    "da": "eftertragtet",
+    "en": "sought-after"
+   }
+  ],
+  "sentence": {
+   "da": "En **ønskelig** løsning er både billig og nem.",
+   "en": "A desirable solution is both cheap and easy."
+  }
+ },
+ "øreringe": {
+  "file": "oe.json",
+  "explanation": "\"Øreringe\" means \"earrings\", jewelry you wear in your ears.",
+  "forms": [
+   {
+    "da": "en ørering",
+    "en": "an earring"
+   },
+   {
+    "da": "øreringen",
+    "en": "the earring"
+   },
+   {
+    "da": "øreringe",
+    "en": "earrings"
+   },
+   {
+    "da": "øreringene",
+    "en": "the earrings"
+   }
+  ],
+  "related": [
+   {
+    "da": "et smykke",
+    "en": "a piece of jewelry"
+   },
+   {
+    "da": "en ring",
+    "en": "a ring"
+   },
+   {
+    "da": "en halskæde",
+    "en": "a necklace"
+   },
+   {
+    "da": "et armbånd",
+    "en": "a bracelet"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har små **øreringe** i ørerne.",
+   "en": "She has small earrings in her ears."
+  }
+ },
+ "øst": {
+  "file": "oe.json",
+  "explanation": "\"Øst\" means \"east\". It is also part of place names such as \"Østjylland\" (eastern Jutland).",
+  "forms": [
+   {
+    "da": "øst",
+    "en": "east"
+   },
+   {
+    "da": "i øst",
+    "en": "in the east"
+   },
+   {
+    "da": "mod øst",
+    "en": "towards the east"
+   }
+  ],
+  "related": [
+   {
+    "da": "vest",
+    "en": "west"
+   },
+   {
+    "da": "nord",
+    "en": "north"
+   },
+   {
+    "da": "syd",
+    "en": "south"
+   }
+  ],
+  "sentence": {
+   "da": "Solen står op i **øst**.",
+   "en": "The sun rises in the east."
+  }
+ },
+ "østersøen": {
+  "file": "oe.json",
+  "explanation": "\"Østersøen\" means \"the Baltic Sea\", the sea east of Denmark. The name has \"øst\" (east) in it because of where the sea lies.",
+  "forms": [
+   {
+    "da": "i Østersøen",
+    "en": "in the Baltic Sea"
+   },
+   {
+    "da": "ved Østersøen",
+    "en": "by the Baltic Sea"
+   },
+   {
+    "da": "Østersøen er stor",
+    "en": "The Baltic Sea is big"
+   }
+  ],
+  "related": [
+   {
+    "da": "Nordsøen",
+    "en": "the North Sea"
+   },
+   {
+    "da": "Kattegat",
+    "en": "the Kattegat"
+   },
+   {
+    "da": "Skagerrak",
+    "en": "the Skagerrak"
+   },
+   {
+    "da": "Øresund",
+    "en": "the Øresund strait"
+   }
+  ],
+  "sentence": {
+   "da": "Færgen sejler over **Østersøen** til Polen.",
+   "en": "The ferry sails across the Baltic Sea to Poland."
+  }
+ },
+ "østpå": {
+  "file": "oe.json",
+  "explanation": "\"Østpå\" means \"eastward\", toward the east, for movement. For a place, use \"øst for\" (east of): \"København ligger øst for Roskilde\" (Copenhagen is east of Roskilde).",
+  "forms": [
+   {
+    "da": "at køre østpå",
+    "en": "to drive east"
+   },
+   {
+    "da": "at tage østpå",
+    "en": "to head east"
+   },
+   {
+    "da": "at flyve østpå",
+    "en": "to fly east"
+   }
+  ],
+  "related": [
+   {
+    "da": "nordpå",
+    "en": "northward"
+   },
+   {
+    "da": "sydpå",
+    "en": "southward"
+   },
+   {
+    "da": "vestpå",
+    "en": "westward"
+   },
+   {
+    "da": "østlig",
+    "en": "eastern"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager **østpå** efter frokost.",
+   "en": "We are heading east after lunch."
+  }
+ },
+ "øvelse gør mester": {
+  "file": "oe.json",
+  "explanation": "\"Øvelse gør mester\" means \"practice makes perfect\", said to encourage someone who is learning something. Word for word, it says that exercise makes a \"mester\" (master), and a \"mester\" is someone fully skilled.",
+  "forms": [
+   {
+    "da": "Øvelse gør mester",
+    "en": "Practice makes perfect"
+   },
+   {
+    "da": "Husk: øvelse gør mester",
+    "en": "Remember: practice makes perfect"
+   },
+   {
+    "da": "Øvelse gør mester, så bliv ved",
+    "en": "Practice makes perfect, so keep going"
+   }
+  ],
+  "related": [
+   {
+    "da": "at træne",
+    "en": "to train"
+   },
+   {
+    "da": "en lærling",
+    "en": "an apprentice"
+   },
+   {
+    "da": "tålmodighed",
+    "en": "patience"
+   },
+   {
+    "da": "det kommer med tiden",
+    "en": "it comes with time"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg læser højt hver dag, fordi **øvelse gør mester**.",
+   "en": "I read aloud every day because practice makes perfect."
+  }
+ },
+ "øverst": {
+  "file": "oe.json",
+  "explanation": "\"Øverst\" means \"at the top\", the very highest spot.",
+  "forms": [
+   {
+    "da": "øverst på listen",
+    "en": "at the top of the list"
+   },
+   {
+    "da": "øverst til højre",
+    "en": "at the top right"
+   },
+   {
+    "da": "øverst på siden",
+    "en": "at the top of the page"
+   }
+  ],
+  "related": [
+   {
+    "da": "nederst",
+    "en": "at the bottom"
+   },
+   {
+    "da": "over",
+    "en": "above"
+   },
+   {
+    "da": "øvre",
+    "en": "upper"
+   },
+   {
+    "da": "foroven",
+    "en": "up above"
+   }
+  ],
+  "sentence": {
+   "da": "Min yndlingsbog står **øverst** på hylden.",
+   "en": "My favorite book is at the top of the shelf."
+  }
+ },
+ "en / et": {
+  "file": "other.json",
+  "explanation": "\"En\" and \"et\" mean \"a\" or \"an\". Each Danish word takes only one of them: \"en bil\" (a car) but \"et hus\" (a house), never \"et bil\". When you mean the number one, write it with an accent: \"Jeg har én bil\" (I have one car).",
+  "forms": [
+   {
+    "da": "en bil",
+    "en": "a car (en-word)"
+   },
+   {
+    "da": "et hus",
+    "en": "a house (et-word)"
+   },
+   {
+    "da": "en / et",
+    "en": "one"
+   }
+  ],
+  "related": [
+   {
+    "da": "ingen",
+    "en": "no / none"
+   },
+   {
+    "da": "en gang",
+    "en": "once"
+   },
+   {
+    "da": "to",
+    "en": "two"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **en** bil og **et** hus.",
+   "en": "I have a car and a house."
+  }
+ },
+ "at padle": {
+  "file": "p.json",
+  "explanation": "\"At padle\" means \"to paddle\", to move a small boat by pushing the water with a paddle. When you paddle, you face forward. For rowing, use \"at ro\" (to row): with oars you sit with your back to where you are going.",
+  "forms": [
+   {
+    "da": "at padle",
+    "en": "to paddle"
+   },
+   {
+    "da": "jeg padler",
+    "en": "I paddle"
+   },
+   {
+    "da": "jeg padlede",
+    "en": "I paddled"
+   },
+   {
+    "da": "jeg har padlet",
+    "en": "I have paddled"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kano",
+    "en": "a canoe"
+   },
+   {
+    "da": "en kajak",
+    "en": "a kayak"
+   },
+   {
+    "da": "at sejle",
+    "en": "to sail"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **padle** hen over søen i en kano.",
+   "en": "We can paddle across the lake in a canoe."
+  }
+ }
+}

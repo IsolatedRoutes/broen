@@ -1,0 +1,4282 @@
+{
+ "at forudse": {
+  "file": "f.json",
+  "explanation": "\"At forudse\" means \"to foresee\": to see beforehand what is going to happen: \"Vi forudser en prisstigning\" (We foresee a price increase).",
+  "forms": [
+   {
+    "da": "at forudse",
+    "en": "to foresee"
+   },
+   {
+    "da": "jeg forudser",
+    "en": "I foresee"
+   },
+   {
+    "da": "jeg forudså",
+    "en": "I foresaw"
+   },
+   {
+    "da": "jeg har forudset",
+    "en": "I have foreseen"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forudsige",
+    "en": "to predict"
+   },
+   {
+    "da": "at forvente",
+    "en": "to expect"
+   },
+   {
+    "da": "forudsigelig",
+    "en": "predictable"
+   },
+   {
+    "da": "uforudset",
+    "en": "unforeseen"
+   }
+  ],
+  "sentence": {
+   "da": "Ingen kan **forudse** vejret om en måned.",
+   "en": "No one can foresee the weather in a month."
+  }
+ },
+ "at forudsige": {
+  "file": "f.json",
+  "explanation": "\"At forudsige\" means \"to predict\", to say what will happen before it happens. It is built from forud (ahead) and sige (to say), so it is literally \"to say ahead\".",
+  "forms": [
+   {
+    "da": "at forudsige",
+    "en": "to predict"
+   },
+   {
+    "da": "jeg forudsiger",
+    "en": "I predict"
+   },
+   {
+    "da": "jeg forudsagde",
+    "en": "I predicted"
+   },
+   {
+    "da": "jeg har forudsagt",
+    "en": "I have predicted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at spå",
+    "en": "to foretell"
+   },
+   {
+    "da": "at forvente",
+    "en": "to expect"
+   },
+   {
+    "da": "at gætte",
+    "en": "to guess"
+   },
+   {
+    "da": "en profeti",
+    "en": "a prophecy"
+   }
+  ],
+  "sentence": {
+   "da": "Ingen kan **forudsige**, hvordan vejret bliver i næste måned.",
+   "en": "No one can predict what the weather will be next month."
+  }
+ },
+ "at forurene": {
+  "file": "f.json",
+  "explanation": "\"At forurene\" means \"to pollute\", to make air, water or soil dirty and harmful with waste or chemicals: \"Fabrikken forurener floden\" (The factory pollutes the river).",
+  "forms": [
+   {
+    "da": "at forurene",
+    "en": "to pollute"
+   },
+   {
+    "da": "jeg forurener",
+    "en": "I pollute"
+   },
+   {
+    "da": "jeg forurenede",
+    "en": "I polluted"
+   },
+   {
+    "da": "jeg har forurenet",
+    "en": "I have polluted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forurening",
+    "en": "pollution"
+   },
+   {
+    "da": "at rense",
+    "en": "to clean"
+   },
+   {
+    "da": "at forgifte",
+    "en": "to poison"
+   },
+   {
+    "da": "et udslip",
+    "en": "a spill or discharge"
+   }
+  ],
+  "sentence": {
+   "da": "Biler og fabrikker kan **forurene** luften i store byer.",
+   "en": "Cars and factories can pollute the air in big cities."
+  }
+ },
+ "at forvandle": {
+  "file": "f.json",
+  "explanation": "\"At forvandle\" means \"to transform\", to turn something completely into something else. To name the result of the change, add \"til\" (into): \"Heksen forvandlede prinsen til en frø\" (The witch turned the prince into a frog).",
+  "forms": [
+   {
+    "da": "at forvandle",
+    "en": "to transform"
+   },
+   {
+    "da": "jeg forvandler",
+    "en": "I transform"
+   },
+   {
+    "da": "jeg forvandlede",
+    "en": "I transformed"
+   },
+   {
+    "da": "jeg har forvandlet",
+    "en": "I have transformed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ændre",
+    "en": "to change"
+   },
+   {
+    "da": "at omdanne",
+    "en": "to convert"
+   },
+   {
+    "da": "en metamorfose",
+    "en": "a metamorphosis"
+   },
+   {
+    "da": "at skifte",
+    "en": "to switch"
+   }
+  ],
+  "sentence": {
+   "da": "Maling kan **forvandle** et gammelt værelse til et nyt.",
+   "en": "Paint can transform an old room into a new one."
+  }
+ },
+ "at forvente": {
+  "file": "f.json",
+  "explanation": "\"At forvente\" means \"to expect\", when you think something will happen. It can also mean requiring something of someone: \"Vi forventer, at du kommer til tiden\" (We expect you to be on time).",
+  "forms": [
+   {
+    "da": "at forvente",
+    "en": "to expect"
+   },
+   {
+    "da": "jeg forventer",
+    "en": "I expect"
+   },
+   {
+    "da": "jeg forventede",
+    "en": "I expected"
+   },
+   {
+    "da": "jeg har forventet",
+    "en": "I have expected"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vente",
+    "en": "to wait"
+   },
+   {
+    "da": "at håbe",
+    "en": "to hope"
+   },
+   {
+    "da": "at regne med",
+    "en": "to count on"
+   },
+   {
+    "da": "en forventning",
+    "en": "an expectation"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **forvente** regn i morgen.",
+   "en": "We can expect rain tomorrow."
+  }
+ },
+ "at forvirre": {
+  "file": "f.json",
+  "explanation": "\"At forvirre\" means \"to confuse\", to make someone unsure or unable to think clearly.",
+  "forms": [
+   {
+    "da": "at forvirre",
+    "en": "to confuse"
+   },
+   {
+    "da": "jeg forvirrer",
+    "en": "I confuse"
+   },
+   {
+    "da": "jeg forvirrede",
+    "en": "I confused"
+   },
+   {
+    "da": "jeg har forvirret",
+    "en": "I have confused"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forveksle",
+    "en": "to mix up"
+   },
+   {
+    "da": "forvirret",
+    "en": "confused"
+   },
+   {
+    "da": "en forvirring",
+    "en": "a confusion"
+   },
+   {
+    "da": "at vildlede",
+    "en": "to mislead"
+   }
+  ],
+  "sentence": {
+   "da": "Alle de nye regler kan **forvirre** gæsterne.",
+   "en": "All the new rules can confuse the guests."
+  }
+ },
+ "at forværre": {
+  "file": "f.json",
+  "explanation": "\"At forværre\" means \"to worsen\", making something worse: \"Regnen forværrer situationen\" (The rain makes the situation worse). It is the opposite of \"at forbedre\" (to improve).",
+  "forms": [
+   {
+    "da": "at forværre",
+    "en": "to worsen"
+   },
+   {
+    "da": "jeg forværrer",
+    "en": "I worsen"
+   },
+   {
+    "da": "jeg forværrede",
+    "en": "I worsened"
+   },
+   {
+    "da": "jeg har forværret",
+    "en": "I have worsened"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blive værre",
+    "en": "to get worse"
+   },
+   {
+    "da": "en forværring",
+    "en": "a worsening"
+   },
+   {
+    "da": "at lindre",
+    "en": "to ease"
+   }
+  ],
+  "sentence": {
+   "da": "Dårlig søvn kan **forværre** smerterne.",
+   "en": "Poor sleep can worsen the pain."
+  }
+ },
+ "at forårsage": {
+  "file": "f.json",
+  "explanation": "\"At forårsage\" means \"to cause\", to make something happen, most often something bad. It sounds formal. When speaking, Danes more often say \"fører til\" (leads to): \"Is fører til ulykker\" (Ice leads to accidents).",
+  "forms": [
+   {
+    "da": "at forårsage",
+    "en": "to cause"
+   },
+   {
+    "da": "jeg forårsager",
+    "en": "I cause"
+   },
+   {
+    "da": "jeg forårsagede",
+    "en": "I caused"
+   },
+   {
+    "da": "jeg har forårsaget",
+    "en": "I have caused"
+   }
+  ],
+  "related": [
+   {
+    "da": "en årsag",
+    "en": "a reason"
+   },
+   {
+    "da": "at medføre",
+    "en": "to bring about"
+   },
+   {
+    "da": "at udløse",
+    "en": "to trigger"
+   },
+   {
+    "da": "en følge",
+    "en": "a consequence"
+   }
+  ],
+  "sentence": {
+   "da": "Is på vejene kan **forårsage** mange ulykker om vinteren.",
+   "en": "Ice on the roads can cause many accidents in the winter."
+  }
+ },
+ "at forære": {
+  "file": "f.json",
+  "explanation": "\"At forære\" means \"to give (as a gift)\": to give something freely, with nothing wanted back. Leave out \"til\" (to) before the receiver: \"Han forærede hende en ring\" (He gave her a ring as a gift).",
+  "forms": [
+   {
+    "da": "at forære",
+    "en": "to give (as a gift)"
+   },
+   {
+    "da": "jeg forærer",
+    "en": "I give (as a gift)"
+   },
+   {
+    "da": "jeg forærede",
+    "en": "I gave (as a gift)"
+   },
+   {
+    "da": "jeg har foræret",
+    "en": "I have given (as a gift)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en foræring",
+    "en": "a present"
+   },
+   {
+    "da": "at skænke",
+    "en": "to bestow"
+   },
+   {
+    "da": "at donere",
+    "en": "to donate"
+   },
+   {
+    "da": "at overrække",
+    "en": "to hand over"
+   }
+  ],
+  "sentence": {
+   "da": "Farfar vil **forære** mig sit gamle ur.",
+   "en": "Grandpa wants to give me his old watch as a gift."
+  }
+ },
+ "at fotografere": {
+  "file": "f.json",
+  "explanation": "\"At fotografere\" means \"to photograph\". Danes more often say \"at tage et billede af\" (to take a picture of): \"Jeg tager et billede af huset\" (I take a picture of the house).",
+  "forms": [
+   {
+    "da": "at fotografere",
+    "en": "to photograph"
+   },
+   {
+    "da": "jeg fotograferer",
+    "en": "I photograph"
+   },
+   {
+    "da": "jeg fotograferede",
+    "en": "I photographed"
+   },
+   {
+    "da": "jeg har fotograferet",
+    "en": "I have photographed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et foto",
+    "en": "a photo"
+   },
+   {
+    "da": "en fotograf",
+    "en": "a photographer"
+   },
+   {
+    "da": "et kamera",
+    "en": "a camera"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **fotografere** solnedgangen med min telefon.",
+   "en": "I want to photograph the sunset with my phone."
+  }
+ },
+ "at fremføre": {
+  "file": "f.json",
+  "explanation": "\"At fremføre\" means \"to present\" or \"to put forward\": to say a view or an argument out loud so others hear it. It also means to perform a song or a piece of music before an audience: \"Koret fremførte en salme\" (The choir performed a hymn).",
+  "forms": [
+   {
+    "da": "at fremføre",
+    "en": "to present / put forward"
+   },
+   {
+    "da": "jeg fremfører",
+    "en": "I present / put forward"
+   },
+   {
+    "da": "jeg fremførte",
+    "en": "I presented / put forward"
+   },
+   {
+    "da": "jeg har fremført",
+    "en": "I have presented / put forward"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fremførelse",
+    "en": "a performance"
+   },
+   {
+    "da": "at fremsætte",
+    "en": "to propose"
+   },
+   {
+    "da": "at opføre",
+    "en": "to stage"
+   },
+   {
+    "da": "at argumentere",
+    "en": "to argue"
+   }
+  ],
+  "sentence": {
+   "da": "Eleverne skal **fremføre** et teaterstykke for forældrene.",
+   "en": "The students are going to perform a play for the parents."
+  }
+ },
+ "at fremhæve": {
+  "file": "f.json",
+  "explanation": "\"At fremhæve\" means \"to emphasize\" or \"to highlight\", to make something stand out so people notice it.",
+  "forms": [
+   {
+    "da": "at fremhæve",
+    "en": "to emphasize"
+   },
+   {
+    "da": "jeg fremhæver",
+    "en": "I emphasize"
+   },
+   {
+    "da": "jeg fremhævede",
+    "en": "I emphasized"
+   },
+   {
+    "da": "jeg har fremhævet",
+    "en": "I have emphasized"
+   }
+  ],
+  "related": [
+   {
+    "da": "at understrege",
+    "en": "to underline"
+   },
+   {
+    "da": "at markere",
+    "en": "to mark"
+   },
+   {
+    "da": "at betone",
+    "en": "to accentuate"
+   },
+   {
+    "da": "at overse",
+    "en": "to overlook"
+   }
+  ],
+  "sentence": {
+   "da": "Den røde farve kan **fremhæve** dine øjne.",
+   "en": "The red color can make your eyes stand out."
+  }
+ },
+ "at fremkalde": {
+  "file": "f.json",
+  "explanation": "\"At fremkalde\" means \"to cause\": to make a reaction or a feeling appear, like laughter or anger. It also means \"to develop\" a photo from film: \"Jeg fremkalder billederne i aften\" (I am developing the pictures tonight).",
+  "forms": [
+   {
+    "da": "at fremkalde",
+    "en": "to cause / develop (film)"
+   },
+   {
+    "da": "jeg fremkalder",
+    "en": "I cause / develop (film)"
+   },
+   {
+    "da": "jeg fremkaldte",
+    "en": "I caused / developed (film)"
+   },
+   {
+    "da": "jeg har fremkaldt",
+    "en": "I have caused / developed (film)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at udløse",
+    "en": "to trigger"
+   },
+   {
+    "da": "at vække",
+    "en": "to awaken"
+   },
+   {
+    "da": "at skabe",
+    "en": "to create"
+   }
+  ],
+  "sentence": {
+   "da": "Stærk sol kan **fremkalde** hovedpine hos nogle mennesker.",
+   "en": "Strong sun can cause headaches in some people."
+  }
+ },
+ "at fremkomme": {
+  "file": "f.json",
+  "explanation": "\"At fremkomme\" means \"to emerge\" or \"to appear\": to come into view or become known, often about facts, results and ideas. With \"med\" (with), it means to come up with a claim: \"Han fremkom med en ny teori\" (He came up with a new theory).",
+  "forms": [
+   {
+    "da": "at fremkomme",
+    "en": "to emerge / appear"
+   },
+   {
+    "da": "jeg fremkommer",
+    "en": "I emerge / appear"
+   },
+   {
+    "da": "jeg fremkom",
+    "en": "I emerged / appeared"
+   },
+   {
+    "da": "jeg er fremkommet",
+    "en": "I have emerged / appeared"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme frem",
+    "en": "to come forward"
+   },
+   {
+    "da": "at opstå",
+    "en": "to arise"
+   },
+   {
+    "da": "at dukke op",
+    "en": "to pop up"
+   },
+   {
+    "da": "at træde frem",
+    "en": "to step forward"
+   }
+  ],
+  "sentence": {
+   "da": "Nye fakta kan **fremkomme** under retssagen.",
+   "en": "New facts can emerge during the trial."
+  }
+ },
+ "at fremlægge": {
+  "file": "f.json",
+  "explanation": "\"At fremlægge\" means \"to present\": to put a plan, a report or a proposal before others so they can read it or decide. At school, students also use it for giving a talk about their work: \"Vi skal fremlægge i morgen\" (We are presenting tomorrow).",
+  "forms": [
+   {
+    "da": "at fremlægge",
+    "en": "to present"
+   },
+   {
+    "da": "jeg fremlægger",
+    "en": "I present"
+   },
+   {
+    "da": "jeg fremlagde",
+    "en": "I presented"
+   },
+   {
+    "da": "jeg har fremlagt",
+    "en": "I have presented"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fremlæggelse",
+    "en": "a presentation"
+   },
+   {
+    "da": "at forelægge",
+    "en": "to submit"
+   },
+   {
+    "da": "at redegøre",
+    "en": "to give an account"
+   },
+   {
+    "da": "et forslag",
+    "en": "a suggestion"
+   }
+  ],
+  "sentence": {
+   "da": "Direktøren skal **fremlægge** årsregnskabet på mødet.",
+   "en": "The director is going to present the annual accounts at the meeting."
+  }
+ },
+ "at fremme": {
+  "file": "f.json",
+  "explanation": "\"At fremme\" means \"to promote\" or \"to further\": to help something develop or succeed: \"at fremme sundhed\" (to promote health).",
+  "forms": [
+   {
+    "da": "at fremme",
+    "en": "to promote / further"
+   },
+   {
+    "da": "jeg fremmer",
+    "en": "I promote / further"
+   },
+   {
+    "da": "jeg fremmede",
+    "en": "I promoted / furthered"
+   },
+   {
+    "da": "jeg har fremmet",
+    "en": "I have promoted / furthered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hæmme",
+    "en": "to hinder"
+   },
+   {
+    "da": "at styrke",
+    "en": "to strengthen"
+   },
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "et fremskridt",
+    "en": "progress"
+   }
+  ],
+  "sentence": {
+   "da": "Kommunen vil **fremme** cykling med flere cykelstier.",
+   "en": "The town wants to promote cycling with more bike lanes."
+  }
+ },
+ "at fremskynde": {
+  "file": "f.json",
+  "explanation": "\"At fremskynde\" means \"to speed up\": to make a process or a decision happen sooner. For a vehicle going faster, use \"at accelerere\" (to accelerate).",
+  "forms": [
+   {
+    "da": "at fremskynde",
+    "en": "to speed up"
+   },
+   {
+    "da": "jeg fremskynder",
+    "en": "I speed up"
+   },
+   {
+    "da": "jeg fremskyndede",
+    "en": "I sped up"
+   },
+   {
+    "da": "jeg har fremskyndet",
+    "en": "I have sped up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forsinke",
+    "en": "to delay"
+   },
+   {
+    "da": "at udskyde",
+    "en": "to postpone"
+   },
+   {
+    "da": "at forcere",
+    "en": "to force / rush"
+   }
+  ],
+  "sentence": {
+   "da": "Flere hænder kan **fremskynde** arbejdet og spare os tid.",
+   "en": "More hands can speed up the work and save us time."
+  }
+ },
+ "at fremstille": {
+  "file": "f.json",
+  "explanation": "\"At fremstille\" means \"to produce\" or \"to portray\". For things, it is to make them, often in a factory or workshop. For a person or event, it is to show them in a certain way: \"Avisen fremstiller ham som en helt\" (The newspaper portrays him as a hero).",
+  "forms": [
+   {
+    "da": "at fremstille",
+    "en": "to produce / portray"
+   },
+   {
+    "da": "jeg fremstiller",
+    "en": "I produce / portray"
+   },
+   {
+    "da": "jeg fremstillede",
+    "en": "I produced / portrayed"
+   },
+   {
+    "da": "jeg har fremstillet",
+    "en": "I have produced / portrayed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at producere",
+    "en": "to manufacture"
+   },
+   {
+    "da": "at skabe",
+    "en": "to create"
+   },
+   {
+    "da": "at skildre",
+    "en": "to depict"
+   },
+   {
+    "da": "at forestille",
+    "en": "to represent"
+   }
+  ],
+  "sentence": {
+   "da": "Fabrikken kan **fremstille** tusind cykler om dagen.",
+   "en": "The factory can produce a thousand bikes per day."
+  }
+ },
+ "at fremvise": {
+  "file": "f.json",
+  "explanation": "\"At fremvise\" means \"to display\" or \"to show\": to hold something up for others to look at or check, such as a ticket, a passport or a collection. \"At vise\" (to show) is the plainer word for everyday use: \"Vis mig billedet\" (Show me the picture).",
+  "forms": [
+   {
+    "da": "at fremvise",
+    "en": "to display / show"
+   },
+   {
+    "da": "jeg fremviser",
+    "en": "I display / show"
+   },
+   {
+    "da": "jeg fremviste",
+    "en": "I displayed / showed"
+   },
+   {
+    "da": "jeg har fremvist",
+    "en": "I have displayed / shown"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fremvisning",
+    "en": "a showing"
+   },
+   {
+    "da": "at udstille",
+    "en": "to exhibit"
+   },
+   {
+    "da": "at forevise",
+    "en": "to produce for inspection"
+   },
+   {
+    "da": "at skjule",
+    "en": "to hide"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **fremvise** din billet, når kontrolløren spørger.",
+   "en": "You must show your ticket when the inspector asks."
+  }
+ },
+ "at fri": {
+  "file": "f.json",
+  "explanation": "\"At fri\" means \"to propose\", as in asking someone to marry you. To name the person you ask to marry you, add \"til\" (to): \"Han friede til hende\" (He proposed to her).",
+  "forms": [
+   {
+    "da": "at fri",
+    "en": "to propose"
+   },
+   {
+    "da": "jeg frier",
+    "en": "I propose"
+   },
+   {
+    "da": "jeg friede",
+    "en": "I proposed"
+   },
+   {
+    "da": "jeg har friet",
+    "en": "I have proposed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et frieri",
+    "en": "a proposal"
+   },
+   {
+    "da": "en forlovelse",
+    "en": "an engagement"
+   },
+   {
+    "da": "at blive forlovet",
+    "en": "to get engaged"
+   },
+   {
+    "da": "et bryllup",
+    "en": "a wedding"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **fri** til hende i aften.",
+   "en": "He is going to propose to her tonight."
+  }
+ },
+ "at frifinde": {
+  "file": "f.json",
+  "explanation": "\"At frifinde\" means \"to acquit\": when a court decides that someone is not guilty and may go free. The opposite is \"at dømme\" (to convict).",
+  "forms": [
+   {
+    "da": "at frifinde",
+    "en": "to acquit"
+   },
+   {
+    "da": "jeg frifinder",
+    "en": "I acquit"
+   },
+   {
+    "da": "jeg frifandt",
+    "en": "I acquitted"
+   },
+   {
+    "da": "jeg har frifundet",
+    "en": "I have acquitted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en frifindelse",
+    "en": "an acquittal"
+   },
+   {
+    "da": "en dom",
+    "en": "a verdict"
+   },
+   {
+    "da": "en anklaget",
+    "en": "an accused person"
+   },
+   {
+    "da": "en retssag",
+    "en": "a trial"
+   }
+  ],
+  "sentence": {
+   "da": "Retten vil **frifinde** ham, fordi der ikke er nogen beviser.",
+   "en": "The court will acquit him because there is no evidence."
+  }
+ },
+ "at frigive": {
+  "file": "f.json",
+  "explanation": "\"At frigive\" means \"to release\", to let go of something that was held back, such as a person, money or secret documents. For a book or an album, Danes say \"at udgive\" (to publish).",
+  "forms": [
+   {
+    "da": "at frigive",
+    "en": "to release"
+   },
+   {
+    "da": "jeg frigiver",
+    "en": "I release"
+   },
+   {
+    "da": "jeg frigav",
+    "en": "I released"
+   },
+   {
+    "da": "jeg har frigivet",
+    "en": "I have released"
+   }
+  ],
+  "related": [
+   {
+    "da": "at løslade",
+    "en": "to set free"
+   },
+   {
+    "da": "at offentliggøre",
+    "en": "to make public"
+   },
+   {
+    "da": "at tilbageholde",
+    "en": "to detain"
+   }
+  ],
+  "sentence": {
+   "da": "Retten vil **frigive** fangen, fordi der ikke er beviser.",
+   "en": "The court will release the prisoner because there is no evidence."
+  }
+ },
+ "at fritage": {
+  "file": "f.json",
+  "explanation": "\"At fritage\" means \"to exempt\": to free someone from a duty, a rule or a payment. To name the duty, rule or payment the person is freed from, add \"for\" or \"fra\" (both: from): \"Han blev fritaget for gymnastik\" (He was exempted from gym).",
+  "forms": [
+   {
+    "da": "at fritage",
+    "en": "to exempt"
+   },
+   {
+    "da": "jeg fritager",
+    "en": "I exempt"
+   },
+   {
+    "da": "jeg fritog",
+    "en": "I exempted"
+   },
+   {
+    "da": "jeg har fritaget",
+    "en": "I have exempted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fritagelse",
+    "en": "an exemption"
+   },
+   {
+    "da": "at undtage",
+    "en": "to leave out"
+   },
+   {
+    "da": "en dispensation",
+    "en": "a special permission"
+   },
+   {
+    "da": "en undtagelse",
+    "en": "an exception"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen kan **fritage** dig fra arbejde, når du er syg.",
+   "en": "The doctor can exempt you from work when you are sick."
+  }
+ },
+ "at frygte": {
+  "file": "f.json",
+  "explanation": "\"At frygte\" means \"to fear\", which sounds more serious than being scared. For everyday fear, Danes say \"at være bange for\" (to be afraid of): \"Jeg er bange for hunde\" (I am afraid of dogs).",
+  "forms": [
+   {
+    "da": "at frygte",
+    "en": "to fear"
+   },
+   {
+    "da": "jeg frygter",
+    "en": "I fear"
+   },
+   {
+    "da": "jeg frygtede",
+    "en": "I feared"
+   },
+   {
+    "da": "jeg har frygtet",
+    "en": "I have feared"
+   }
+  ],
+  "related": [
+   {
+    "da": "en frygt",
+    "en": "a fear"
+   },
+   {
+    "da": "frygtelig",
+    "en": "terrible"
+   },
+   {
+    "da": "frygtløs",
+    "en": "fearless"
+   },
+   {
+    "da": "angst",
+    "en": "anxiety"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må ikke **frygte** fremtiden.",
+   "en": "We must not fear the future."
+  }
+ },
+ "at fryse": {
+  "file": "f.json",
+  "explanation": "\"At fryse\" means \"to freeze\" and also \"to feel cold\": \"Jeg fryser\" (I am cold; literally, \"I freeze\"). It also describes water turning to ice: \"Vandet fryser\" (The water freezes). Do not mix it up with \"en fryser\" (a freezer).",
+  "forms": [
+   {
+    "da": "at fryse",
+    "en": "to freeze"
+   },
+   {
+    "da": "jeg fryser",
+    "en": "I freeze"
+   },
+   {
+    "da": "jeg frøs",
+    "en": "I froze"
+   },
+   {
+    "da": "jeg har frosset",
+    "en": "I have frozen"
+   }
+  ],
+  "related": [
+   {
+    "da": "kold",
+    "en": "cold"
+   },
+   {
+    "da": "frossen",
+    "en": "frozen"
+   },
+   {
+    "da": "at tø",
+    "en": "to thaw"
+   }
+  ],
+  "sentence": {
+   "da": "Uden jakke vil du **fryse**.",
+   "en": "Without a jacket you will freeze."
+  }
+ },
+ "at fuldende": {
+  "file": "f.json",
+  "explanation": "\"At fuldende\" means \"to complete\", to finish something fully, often a big or careful piece of work: \"Hun fuldendte maleriet\" (She completed the painting). For simply ending something, use \"at afslutte\" (to end): \"Vi afslutter mødet\" (We end the meeting).",
+  "forms": [
+   {
+    "da": "at fuldende",
+    "en": "to complete"
+   },
+   {
+    "da": "jeg fuldender",
+    "en": "I complete"
+   },
+   {
+    "da": "jeg fuldendte",
+    "en": "I completed"
+   },
+   {
+    "da": "jeg har fuldendt",
+    "en": "I have completed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at færdiggøre",
+    "en": "to finish off"
+   },
+   {
+    "da": "ufuldendt",
+    "en": "unfinished"
+   },
+   {
+    "da": "fuldkommen",
+    "en": "perfect"
+   },
+   {
+    "da": "en fuldendelse",
+    "en": "a completion"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **fuldende** romanen, før han bliver halvfjerds.",
+   "en": "He wants to complete the novel before he turns seventy."
+  }
+ },
+ "at fuldføre": {
+  "file": "f.json",
+  "explanation": "\"At fuldføre\" means \"to complete\", to take something you started all the way to the end, such as a course or a project.",
+  "forms": [
+   {
+    "da": "at fuldføre",
+    "en": "to complete"
+   },
+   {
+    "da": "jeg fuldfører",
+    "en": "I complete"
+   },
+   {
+    "da": "jeg fuldførte",
+    "en": "I completed"
+   },
+   {
+    "da": "jeg har fuldført",
+    "en": "I have completed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afslutte",
+    "en": "to end"
+   },
+   {
+    "da": "at påbegynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at færdiggøre",
+    "en": "to finish off"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **fuldføre** sin uddannelse og blive lærer.",
+   "en": "He wants to complete his education and become a teacher."
+  }
+ },
+ "at fungere": {
+  "file": "f.json",
+  "explanation": "\"At fungere\" means \"to work\", when a thing, a plan or a system does what it should. For a person at a job, use \"at arbejde\" (to work).",
+  "forms": [
+   {
+    "da": "at fungere",
+    "en": "to work / function"
+   },
+   {
+    "da": "jeg fungerer",
+    "en": "I work / function"
+   },
+   {
+    "da": "jeg fungerede",
+    "en": "I worked / functioned"
+   },
+   {
+    "da": "jeg har fungeret",
+    "en": "I have worked / functioned"
+   }
+  ],
+  "related": [
+   {
+    "da": "at virke",
+    "en": "to work / seem"
+   },
+   {
+    "da": "en funktion",
+    "en": "a function"
+   },
+   {
+    "da": "ødelagt",
+    "en": "broken"
+   },
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   }
+  ],
+  "sentence": {
+   "da": "Tror du, at planen kan **fungere**?",
+   "en": "Do you think the plan can work?"
+  }
+ },
+ "at fylde": {
+  "file": "f.json",
+  "explanation": "\"At fylde\" means \"to fill\": \"Jeg fylder glasset med vand\" (I fill the glass with water). It also means \"to take up space\": \"Sofaen fylder meget\" (The sofa takes up a lot of space). For a birthday, it means \"to turn\": \"Jeg fylder 30 i dag\" (I turn 30 today).",
+  "forms": [
+   {
+    "da": "at fylde",
+    "en": "to fill / take up space"
+   },
+   {
+    "da": "jeg fylder",
+    "en": "I fill / take up space"
+   },
+   {
+    "da": "jeg fyldte",
+    "en": "I filled / took up space"
+   },
+   {
+    "da": "jeg har fyldt",
+    "en": "I have filled / taken up space"
+   }
+  ],
+  "related": [
+   {
+    "da": "fuld",
+    "en": "full"
+   },
+   {
+    "da": "tom",
+    "en": "empty"
+   },
+   {
+    "da": "at tømme",
+    "en": "to empty"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene må **fylde** posen med slik.",
+   "en": "The children may fill the bag with candy."
+  }
+ },
+ "at fylde op": {
+  "file": "f.json",
+  "explanation": "\"At fylde op\" means \"to fill up\". The \"op\" (up) means you fill it all the way to the top: \"Jeg fylder tanken op\" (I fill up the tank).",
+  "forms": [
+   {
+    "da": "at fylde op",
+    "en": "to fill up"
+   },
+   {
+    "da": "jeg fylder op",
+    "en": "I fill up"
+   },
+   {
+    "da": "jeg fyldte op",
+    "en": "I filled up"
+   },
+   {
+    "da": "jeg har fyldt op",
+    "en": "I have filled up"
+   }
+  ],
+  "related": [
+   {
+    "da": "fuld",
+    "en": "full"
+   },
+   {
+    "da": "tom",
+    "en": "empty"
+   },
+   {
+    "da": "at tømme",
+    "en": "to empty"
+   },
+   {
+    "da": "at påfylde",
+    "en": "to refill"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **fylde op** med benzin i morgen.",
+   "en": "We have to fill up with gas tomorrow."
+  }
+ },
+ "at fylde år": {
+  "file": "f.json",
+  "explanation": "\"At fylde år\" means \"to have a birthday\", in the sense of turning a certain age. You can add the age: \"Jeg fylder tredive år\" (I am turning thirty). \"At have fødselsdag\" (to have a birthday) just says it is your birthday, without the age.",
+  "forms": [
+   {
+    "da": "at fylde år",
+    "en": "to have a birthday"
+   },
+   {
+    "da": "jeg fylder år",
+    "en": "I have a birthday"
+   },
+   {
+    "da": "jeg fyldte år",
+    "en": "I had a birthday"
+   },
+   {
+    "da": "jeg har fyldt år",
+    "en": "I have had a birthday"
+   }
+  ],
+  "related": [
+   {
+    "da": "en alder",
+    "en": "an age"
+   },
+   {
+    "da": "tillykke",
+    "en": "congratulations"
+   },
+   {
+    "da": "gammel",
+    "en": "old"
+   }
+  ],
+  "sentence": {
+   "da": "Min far skal **fylde år** i morgen.",
+   "en": "My dad has a birthday tomorrow."
+  }
+ },
+ "at fyre": {
+  "file": "f.json",
+  "explanation": "\"At fyre\" means \"to fire\" someone from a job: \"Chefen fyrede ham\" (The boss fired him). It also means \"to make a fire\": \"Vi fyrer i brændeovnen\" (We light the wood stove).",
+  "forms": [
+   {
+    "da": "at fyre",
+    "en": "to fire (dismiss)"
+   },
+   {
+    "da": "jeg fyrer",
+    "en": "I fire"
+   },
+   {
+    "da": "jeg fyrede",
+    "en": "I fired"
+   },
+   {
+    "da": "jeg har fyret",
+    "en": "I have fired"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afskedige",
+    "en": "to dismiss"
+   },
+   {
+    "da": "at ansætte",
+    "en": "to hire"
+   },
+   {
+    "da": "at sige op",
+    "en": "to quit"
+   },
+   {
+    "da": "en fyring",
+    "en": "a dismissal"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet må **fyre** ti medarbejdere.",
+   "en": "The company has to fire ten employees."
+  }
+ },
+ "at få": {
+  "file": "f.json",
+  "explanation": "\"At få\" means \"to get\" or \"to receive\". It also appears in \"få lov\" (to be allowed): \"Jeg fik lov\" (I was allowed). It does not mean to go and fetch something; for that, use \"at hente\" (to fetch).",
+  "forms": [
+   {
+    "da": "at få",
+    "en": "to get"
+   },
+   {
+    "da": "jeg får",
+    "en": "I get"
+   },
+   {
+    "da": "jeg fik",
+    "en": "I got"
+   },
+   {
+    "da": "jeg har fået",
+    "en": "I have gotten"
+   }
+  ],
+  "related": [
+   {
+    "da": "at give",
+    "en": "to give"
+   },
+   {
+    "da": "at modtage",
+    "en": "to receive"
+   },
+   {
+    "da": "at skaffe",
+    "en": "to obtain"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **få** en gave til min fødselsdag.",
+   "en": "I am going to get a present for my birthday."
+  }
+ },
+ "at få besked": {
+  "file": "f.json",
+  "explanation": "\"At få besked\" means \"to be notified\", to be told something you need to know. For telling someone, use \"at give besked\" (to let someone know): \"Jeg giver dig besked\" (I will let you know).",
+  "forms": [
+   {
+    "da": "at få besked",
+    "en": "to be notified"
+   },
+   {
+    "da": "jeg får besked",
+    "en": "I am notified"
+   },
+   {
+    "da": "jeg fik besked",
+    "en": "I was notified"
+   },
+   {
+    "da": "jeg har fået besked",
+    "en": "I have been notified"
+   }
+  ],
+  "related": [
+   {
+    "da": "at høre",
+    "en": "to hear"
+   },
+   {
+    "da": "at modtage",
+    "en": "to receive"
+   },
+   {
+    "da": "at blive informeret",
+    "en": "to be informed"
+   },
+   {
+    "da": "at få at vide",
+    "en": "to be told"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **få besked**, når pakken kommer.",
+   "en": "I will be notified when the package arrives."
+  }
+ },
+ "at få besøg": {
+  "file": "f.json",
+  "explanation": "\"At få besøg\" means \"to have visitors\", when someone comes to see you. To go see someone yourself, say \"at være på besøg\" (to be visiting): \"Jeg er på besøg hos min mor\" (I am visiting my mother).",
+  "forms": [
+   {
+    "da": "at få besøg",
+    "en": "to have visitors"
+   },
+   {
+    "da": "jeg får besøg",
+    "en": "I have visitors"
+   },
+   {
+    "da": "jeg fik besøg",
+    "en": "I had visitors"
+   },
+   {
+    "da": "jeg har fået besøg",
+    "en": "I have had visitors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gæst",
+    "en": "a guest"
+   },
+   {
+    "da": "at invitere",
+    "en": "to invite"
+   },
+   {
+    "da": "at besøge",
+    "en": "to visit"
+   },
+   {
+    "da": "at tage imod gæster",
+    "en": "to host guests"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg rydder op, fordi jeg skal **få besøg**.",
+   "en": "I am tidying up because I am having visitors."
+  }
+ },
+ "at få det bedre": {
+  "file": "f.json",
+  "explanation": "\"At få det bedre\" means \"to feel better\" after being sick or sad. To wish someone well, say \"God bedring!\" (Get well soon!)",
+  "forms": [
+   {
+    "da": "at få det bedre",
+    "en": "to feel better"
+   },
+   {
+    "da": "jeg får det bedre",
+    "en": "I am getting better"
+   },
+   {
+    "da": "jeg fik det bedre",
+    "en": "I got better"
+   },
+   {
+    "da": "jeg har fået det bedre",
+    "en": "I have gotten better"
+   }
+  ],
+  "related": [
+   {
+    "da": "at få det værre",
+    "en": "to get worse"
+   },
+   {
+    "da": "at blive rask",
+    "en": "to get well"
+   },
+   {
+    "da": "at have det dårligt",
+    "en": "to feel bad"
+   }
+  ],
+  "sentence": {
+   "da": "Med lidt hvile vil du **få det bedre**.",
+   "en": "With some rest, you will feel better."
+  }
+ },
+ "at få et barn": {
+  "file": "f.json",
+  "explanation": "\"At få et barn\" means \"to have a baby\", literally \"to get a child\". Both parents can say it: \"Vi får et barn\" (We are having a baby).",
+  "forms": [
+   {
+    "da": "at få et barn",
+    "en": "to have a baby"
+   },
+   {
+    "da": "jeg får et barn",
+    "en": "I have a baby"
+   },
+   {
+    "da": "jeg fik et barn",
+    "en": "I had a baby"
+   },
+   {
+    "da": "jeg har fået et barn",
+    "en": "I have had a baby"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vente barn",
+    "en": "to be expecting a baby"
+   },
+   {
+    "da": "at føde",
+    "en": "to give birth"
+   },
+   {
+    "da": "en fødsel",
+    "en": "a birth"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster er gravid og skal **få et barn**.",
+   "en": "My sister is pregnant and is going to have a baby."
+  }
+ },
+ "at få fat i": {
+  "file": "f.json",
+  "explanation": "\"At få fat i\" means \"to get hold of\", for grabbing a thing or reaching a person: \"Jeg fik fat i rebet\" (I grabbed the rope). \"Jeg kunne ikke få fat i ham\" (I could not reach him).",
+  "forms": [
+   {
+    "da": "at få fat i",
+    "en": "to get hold of"
+   },
+   {
+    "da": "jeg får fat i",
+    "en": "I get hold of"
+   },
+   {
+    "da": "jeg fik fat i",
+    "en": "I got hold of"
+   },
+   {
+    "da": "jeg har fået fat i",
+    "en": "I have gotten hold of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fange",
+    "en": "to catch"
+   },
+   {
+    "da": "at nå",
+    "en": "to reach"
+   },
+   {
+    "da": "at ringe til",
+    "en": "to call"
+   },
+   {
+    "da": "at gribe",
+    "en": "to grab"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet kan ikke **få fat i** kagen på hylden.",
+   "en": "The child cannot get hold of the cake on the shelf."
+  }
+ },
+ "at få fri": {
+  "file": "f.json",
+  "explanation": "\"At få fri\" means \"to get off\", to be allowed to leave work or school. When you decide to take a day yourself, use \"at tage fri\" (to take time off).",
+  "forms": [
+   {
+    "da": "at få fri",
+    "en": "to get off (work or school)"
+   },
+   {
+    "da": "jeg får fri",
+    "en": "I get off (work or school)"
+   },
+   {
+    "da": "jeg fik fri",
+    "en": "I got off (work or school)"
+   },
+   {
+    "da": "jeg har fået fri",
+    "en": "I have gotten off (work or school)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fridag",
+    "en": "a day off"
+   },
+   {
+    "da": "en pause",
+    "en": "a break"
+   },
+   {
+    "da": "en ferie",
+    "en": "a vacation"
+   },
+   {
+    "da": "at arbejde",
+    "en": "to work"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **få fri** tidligt i dag.",
+   "en": "I would like to get off early today."
+  }
+ },
+ "at få hjælp": {
+  "file": "f.json",
+  "explanation": "\"At få hjælp\" means \"to get help\". Danish says \"hjælp\" (help) with no \"en\" (a) in front: \"Jeg har brug for hjælp\" (I need help).",
+  "forms": [
+   {
+    "da": "at få hjælp",
+    "en": "to get help"
+   },
+   {
+    "da": "jeg får hjælp",
+    "en": "I get help"
+   },
+   {
+    "da": "jeg fik hjælp",
+    "en": "I got help"
+   },
+   {
+    "da": "jeg har fået hjælp",
+    "en": "I have gotten help"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hjælpe",
+    "en": "to help"
+   },
+   {
+    "da": "hjælpsom",
+    "en": "helpful"
+   },
+   {
+    "da": "at bede om hjælp",
+    "en": "to ask for help"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er syg og vil **få hjælp**.",
+   "en": "I am sick and want to get help."
+  }
+ },
+ "at få kolde fødder": {
+  "file": "f.json",
+  "explanation": "\"At få kolde fødder\" means \"to get cold feet\": to suddenly feel afraid or unsure just before doing something big, like a wedding or signing a contract. It is only about nerves, not about being cold.",
+  "forms": [
+   {
+    "da": "Jeg fik kolde fødder",
+    "en": "I got cold feet"
+   },
+   {
+    "da": "Hun får kolde fødder",
+    "en": "She gets cold feet"
+   },
+   {
+    "da": "Han har fået kolde fødder",
+    "en": "He has gotten cold feet"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tøve",
+    "en": "to hesitate"
+   },
+   {
+    "da": "at blive nervøs",
+    "en": "to get nervous"
+   },
+   {
+    "da": "at betænke sig",
+    "en": "to have second thoughts"
+   },
+   {
+    "da": "at bakke ud",
+    "en": "to back out"
+   }
+  ],
+  "sentence": {
+   "da": "Mange kan **få kolde fødder**, når bryllupsdagen nærmer sig.",
+   "en": "Many people can get cold feet when the wedding day gets close."
+  }
+ },
+ "at få lov til": {
+  "file": "f.json",
+  "explanation": "\"At få lov til\" means \"to be allowed to\", when someone gives you permission. To name what you are allowed to do, add \"at\" (to) before the verb: \"Jeg fik lov til at gå hjem\" (I was allowed to go home).",
+  "forms": [
+   {
+    "da": "at få lov til",
+    "en": "to be allowed to"
+   },
+   {
+    "da": "jeg får lov til",
+    "en": "I am allowed to"
+   },
+   {
+    "da": "jeg fik lov til",
+    "en": "I was allowed to"
+   },
+   {
+    "da": "jeg har fået lov til",
+    "en": "I have been allowed to"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tillade",
+    "en": "to allow"
+   },
+   {
+    "da": "at forbyde",
+    "en": "to forbid"
+   },
+   {
+    "da": "en tilladelse",
+    "en": "a permission"
+   },
+   {
+    "da": "at måtte",
+    "en": "to be allowed to"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil gerne **få lov til** at blive længe.",
+   "en": "The children would like to be allowed to stay longer."
+  }
+ },
+ "at få lyst til": {
+  "file": "f.json",
+  "explanation": "\"At få lyst til\" means \"to feel like\", when a wish suddenly appears. To name what you feel like doing, add \"at\" (to) before the verb: \"Jeg fik lyst til at gå en tur\" (I felt like going for a walk).",
+  "forms": [
+   {
+    "da": "at få lyst til",
+    "en": "to feel like"
+   },
+   {
+    "da": "jeg får lyst til",
+    "en": "I feel like"
+   },
+   {
+    "da": "jeg fik lyst til",
+    "en": "I felt like"
+   },
+   {
+    "da": "jeg har fået lyst til",
+    "en": "I have felt like"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ønske",
+    "en": "to wish"
+   },
+   {
+    "da": "at trænge til",
+    "en": "to need"
+   },
+   {
+    "da": "at længes efter",
+    "en": "to long for"
+   },
+   {
+    "da": "at savne",
+    "en": "to miss"
+   }
+  ],
+  "sentence": {
+   "da": "Når solen skinner, kan man **få lyst til** is.",
+   "en": "When the sun shines, you can feel like having ice cream."
+  }
+ },
+ "at få nok": {
+  "file": "f.json",
+  "explanation": "\"At få nok\" means \"to have had enough\", or \"to get fed up\": \"Nu har jeg fået nok!\" (Now I have had enough!) It can also be about food: \"Har du fået nok at spise?\" (Have you had enough to eat?)",
+  "forms": [
+   {
+    "da": "at få nok",
+    "en": "to have had enough"
+   },
+   {
+    "da": "jeg får nok",
+    "en": "I get fed up (have had enough)"
+   },
+   {
+    "da": "jeg fik nok",
+    "en": "I got fed up"
+   },
+   {
+    "da": "jeg har fået nok",
+    "en": "I have gotten fed up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at være træt af",
+    "en": "to be tired of"
+   },
+   {
+    "da": "irriteret",
+    "en": "annoyed"
+   },
+   {
+    "da": "at være færdig med",
+    "en": "to be done with"
+   },
+   {
+    "da": "tilstrækkelig",
+    "en": "sufficient"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg begynder at **få nok** af støjen.",
+   "en": "I am starting to get fed up with the noise."
+  }
+ },
+ "at få ondt af": {
+  "file": "f.json",
+  "explanation": "\"At få ondt af\" means \"to feel sorry for\" someone: \"Jeg får ondt af hende\" (I feel sorry for her). Do not mix it up with \"at have ondt i\" (to have pain in): \"Jeg har ondt i maven\" (My stomach hurts).",
+  "forms": [
+   {
+    "da": "at få ondt af",
+    "en": "to feel sorry for"
+   },
+   {
+    "da": "jeg får ondt af",
+    "en": "I feel sorry for"
+   },
+   {
+    "da": "jeg fik ondt af",
+    "en": "I felt sorry for"
+   },
+   {
+    "da": "jeg har fået ondt af",
+    "en": "I have felt sorry for"
+   }
+  ],
+  "related": [
+   {
+    "da": "stakkels",
+    "en": "poor"
+   },
+   {
+    "da": "medfølende",
+    "en": "sympathetic"
+   },
+   {
+    "da": "at ynke",
+    "en": "to pity"
+   },
+   {
+    "da": "at trøste",
+    "en": "to comfort"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan ikke andet end **få ondt af** ham.",
+   "en": "You cannot help feeling sorry for him."
+  }
+ },
+ "at få ret": {
+  "file": "f.json",
+  "explanation": "\"At få ret\" means \"to be proven right\", when events show you were correct. Being right all along is \"at have ret\" (to be right): \"Du har ret\" (You are right).",
+  "forms": [
+   {
+    "da": "at få ret",
+    "en": "to be proven right"
+   },
+   {
+    "da": "jeg får ret",
+    "en": "I am proven right"
+   },
+   {
+    "da": "jeg fik ret",
+    "en": "I was proven right"
+   },
+   {
+    "da": "jeg har fået ret",
+    "en": "I have been proven right"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage fejl",
+    "en": "to be wrong"
+   },
+   {
+    "da": "at give nogen ret",
+    "en": "to say someone is right"
+   },
+   {
+    "da": "at bevise",
+    "en": "to prove"
+   },
+   {
+    "da": "rigtig",
+    "en": "correct"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tror, hun vil **få ret** til sidst.",
+   "en": "I think she will be proven right in the end."
+  }
+ },
+ "at få styr på": {
+  "file": "f.json",
+  "explanation": "\"At få styr på\" means \"to get control of\", or \"to sort out\", something messy. The result is \"at have styr på\" (to have it under control).",
+  "forms": [
+   {
+    "da": "at få styr på",
+    "en": "to get control of / sort out"
+   },
+   {
+    "da": "jeg får styr på",
+    "en": "I get control of / sort out"
+   },
+   {
+    "da": "jeg fik styr på",
+    "en": "I got control of / sorted out"
+   },
+   {
+    "da": "jeg har fået styr på",
+    "en": "I have gotten control of / sorted out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at rydde op",
+    "en": "to tidy up"
+   },
+   {
+    "da": "at organisere",
+    "en": "to organize"
+   },
+   {
+    "da": "at ordne",
+    "en": "to sort out"
+   },
+   {
+    "da": "kaos",
+    "en": "chaos"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **få styr på** rodet i garagen.",
+   "en": "We have to sort out the mess in the garage."
+  }
+ },
+ "at få tid": {
+  "file": "f.json",
+  "explanation": "\"At få tid\" means \"to find time\": \"Jeg fik tid til at læse\" (I found time to read). It also means \"to get an appointment\", for example at the doctor or the hairdresser. To be free right now, use \"at have tid\" (to have time).",
+  "forms": [
+   {
+    "da": "at få tid",
+    "en": "to find time"
+   },
+   {
+    "da": "jeg får tid",
+    "en": "I find time"
+   },
+   {
+    "da": "jeg fik tid",
+    "en": "I found time"
+   },
+   {
+    "da": "jeg har fået tid",
+    "en": "I have found time"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bestille tid",
+    "en": "to book an appointment"
+   },
+   {
+    "da": "ledig",
+    "en": "free / available"
+   },
+   {
+    "da": "at nå",
+    "en": "to have time to / make it"
+   },
+   {
+    "da": "en aftale",
+    "en": "an appointment / agreement"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **få tid** hos lægen før mandag.",
+   "en": "I cannot get an appointment with the doctor before Monday."
+  }
+ },
+ "at få travlt": {
+  "file": "f.json",
+  "explanation": "\"At få travlt\" means \"to get busy\". When you are already busy, use \"at have travlt\" (to be busy): \"Jeg har travlt\" (I am busy).",
+  "forms": [
+   {
+    "da": "at få travlt",
+    "en": "to get busy"
+   },
+   {
+    "da": "jeg får travlt",
+    "en": "I get busy"
+   },
+   {
+    "da": "jeg fik travlt",
+    "en": "I got busy"
+   },
+   {
+    "da": "jeg har fået travlt",
+    "en": "I have gotten busy"
+   }
+  ],
+  "related": [
+   {
+    "da": "travl",
+    "en": "busy"
+   },
+   {
+    "da": "at skynde sig",
+    "en": "to hurry"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "at stresse",
+    "en": "to stress / rush"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **få travlt**, når gæsterne kommer.",
+   "en": "We will get busy when the guests arrive."
+  }
+ },
+ "at få øje på": {
+  "file": "f.json",
+  "explanation": "\"At få øje på\" means \"to catch sight of\", the moment you first notice something: \"Jeg fik øje på en ræv\" (I caught sight of a fox).",
+  "forms": [
+   {
+    "da": "at få øje på",
+    "en": "to catch sight of"
+   },
+   {
+    "da": "jeg får øje på",
+    "en": "I catch sight of"
+   },
+   {
+    "da": "jeg fik øje på",
+    "en": "I caught sight of"
+   },
+   {
+    "da": "jeg har fået øje på",
+    "en": "I have caught sight of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at se",
+    "en": "to see"
+   },
+   {
+    "da": "at opdage",
+    "en": "to discover"
+   },
+   {
+    "da": "at lægge mærke til",
+    "en": "to notice"
+   },
+   {
+    "da": "at kigge på",
+    "en": "to look at"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **få øje på** bussen endnu.",
+   "en": "I can't spot the bus yet."
+  }
+ },
+ "at føde": {
+  "file": "f.json",
+  "explanation": "\"At føde\" means \"to give birth\", for a woman or an animal having a baby: \"Hun føder en datter\" (She gives birth to a daughter). To say you were born, use \"at blive født\" (to be born): \"Jeg blev født i Aarhus\" (I was born in Aarhus).",
+  "forms": [
+   {
+    "da": "at føde",
+    "en": "to give birth"
+   },
+   {
+    "da": "jeg føder",
+    "en": "I give birth"
+   },
+   {
+    "da": "jeg fødte",
+    "en": "I gave birth"
+   },
+   {
+    "da": "jeg har født",
+    "en": "I have given birth"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fødsel",
+    "en": "a birth"
+   },
+   {
+    "da": "et fødested",
+    "en": "a birthplace"
+   },
+   {
+    "da": "en fødselsdag",
+    "en": "a birthday"
+   }
+  ],
+  "sentence": {
+   "da": "Kvinden skal **føde** barnet på hospitalet.",
+   "en": "The woman is going to give birth to the baby at the hospital."
+  }
+ },
+ "at fødes": {
+  "file": "f.json",
+  "explanation": "\"At fødes\" means \"to be born\". People more often say \"at blive født\" (to be born): \"Jeg blev født i 1990\" (I was born in 1990).",
+  "forms": [
+   {
+    "da": "at fødes",
+    "en": "to be born"
+   },
+   {
+    "da": "jeg fødes",
+    "en": "I am born"
+   },
+   {
+    "da": "jeg fødtes",
+    "en": "I was born"
+   },
+   {
+    "da": "jeg er født",
+    "en": "I was born"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fødsel",
+    "en": "a birth"
+   },
+   {
+    "da": "en fødselsdag",
+    "en": "a birthday"
+   },
+   {
+    "da": "at føde",
+    "en": "to give birth"
+   },
+   {
+    "da": "at dø",
+    "en": "to die"
+   }
+  ],
+  "sentence": {
+   "da": "Vores barn skal **fødes** i maj.",
+   "en": "Our child is due to be born in May."
+  }
+ },
+ "at føle": {
+  "file": "f.json",
+  "explanation": "\"At føle\" means \"to feel\", both emotions and things you touch. To describe your emotional state, add \"mig\" (myself): \"Jeg føler mig glad\" (I feel happy).",
+  "forms": [
+   {
+    "da": "at føle",
+    "en": "to feel"
+   },
+   {
+    "da": "jeg føler",
+    "en": "I feel"
+   },
+   {
+    "da": "jeg følte",
+    "en": "I felt"
+   },
+   {
+    "da": "jeg har følt",
+    "en": "I have felt"
+   }
+  ],
+  "related": [
+   {
+    "da": "en følelse",
+    "en": "a feeling"
+   },
+   {
+    "da": "at mærke",
+    "en": "to feel (sense)"
+   },
+   {
+    "da": "følsom",
+    "en": "sensitive"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **føle** vinden på min hud.",
+   "en": "I can feel the wind on my skin."
+  }
+ },
+ "at føle sig": {
+  "file": "f.json",
+  "explanation": "\"At føle sig\" means \"to feel (a certain way)\": \"Jeg føler mig glad\" (I feel happy). The word \"sig\" changes with the person: \"du føler dig\" (you feel), \"han føler sig\" (he feels).",
+  "forms": [
+   {
+    "da": "at føle sig",
+    "en": "to feel (a certain way)"
+   },
+   {
+    "da": "jeg føler mig",
+    "en": "I feel (a certain way)"
+   },
+   {
+    "da": "jeg følte mig",
+    "en": "I felt (a certain way)"
+   },
+   {
+    "da": "jeg har følt mig",
+    "en": "I have felt (a certain way)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en følelse",
+    "en": "a feeling"
+   },
+   {
+    "da": "at mærke",
+    "en": "to sense"
+   },
+   {
+    "da": "at have det",
+    "en": "to feel / be doing"
+   },
+   {
+    "da": "følsom",
+    "en": "sensitive"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **føle sig** ensom i en ny by.",
+   "en": "You can feel lonely in a new city."
+  }
+ },
+ "at føles": {
+  "file": "f.json",
+  "explanation": "\"At føles\" means \"to feel\", about how something seems to you. When a person feels, say \"Jeg føler mig træt\" (I feel tired).",
+  "forms": [
+   {
+    "da": "at føles",
+    "en": "to feel (seem)"
+   },
+   {
+    "da": "det føles",
+    "en": "it feels"
+   },
+   {
+    "da": "det føltes",
+    "en": "it felt"
+   },
+   {
+    "da": "det har føltes",
+    "en": "it has felt"
+   }
+  ],
+  "related": [
+   {
+    "da": "en følelse",
+    "en": "a feeling"
+   },
+   {
+    "da": "at mærke",
+    "en": "to feel / notice"
+   },
+   {
+    "da": "at synes",
+    "en": "to think"
+   },
+   {
+    "da": "at virke",
+    "en": "to seem"
+   }
+  ],
+  "sentence": {
+   "da": "Det kan **føles** underligt at flytte.",
+   "en": "It can feel strange to move."
+  }
+ },
+ "at følge": {
+  "file": "f.json",
+  "explanation": "\"At følge\" means \"to follow\" a person, a road or a rule: \"Hunden følger mig\" (The dog follows me). It also means \"to go along with\", like walking someone somewhere: \"Jeg følger dig hjem\" (I will walk you home).",
+  "forms": [
+   {
+    "da": "at følge",
+    "en": "to follow"
+   },
+   {
+    "da": "jeg følger",
+    "en": "I follow"
+   },
+   {
+    "da": "jeg fulgte",
+    "en": "I followed"
+   },
+   {
+    "da": "jeg har fulgt",
+    "en": "I have followed"
+   }
+  ],
+  "related": [
+   {
+    "da": "følgende",
+    "en": "following"
+   },
+   {
+    "da": "at forfølge",
+    "en": "to pursue"
+   },
+   {
+    "da": "at lede",
+    "en": "to lead"
+   },
+   {
+    "da": "at ledsage",
+    "en": "to accompany"
+   }
+  ],
+  "sentence": {
+   "da": "Alle skal **følge** reglerne i skolen.",
+   "en": "Everyone has to follow the rules at school."
+  }
+ },
+ "at følge med": {
+  "file": "f.json",
+  "explanation": "\"At følge med\" means \"to keep up\" and \"to come along\": \"Kan du følge med?\" (Can you keep up?) \"Jeg følger med\" (I will come along). Without \"med\" (along), \"at følge\" means \"to follow\".",
+  "forms": [
+   {
+    "da": "at følge med",
+    "en": "to keep up / come along"
+   },
+   {
+    "da": "jeg følger med",
+    "en": "I keep up / come along"
+   },
+   {
+    "da": "jeg fulgte med",
+    "en": "I kept up / came along"
+   },
+   {
+    "da": "jeg har fulgt med",
+    "en": "I have kept up / come along"
+   }
+  ],
+  "related": [
+   {
+    "da": "at holde trit med",
+    "en": "to keep pace with"
+   },
+   {
+    "da": "at falde bagud",
+    "en": "to fall behind"
+   },
+   {
+    "da": "at komme med",
+    "en": "to come along"
+   },
+   {
+    "da": "at gå med",
+    "en": "to go along"
+   }
+  ],
+  "sentence": {
+   "da": "Hun går hurtigt, og jeg kan ikke **følge med**.",
+   "en": "She walks fast, and I can't keep up."
+  }
+ },
+ "at føre": {
+  "file": "f.json",
+  "explanation": "\"At føre\" means \"to lead\" and \"to conduct\": \"Han fører samtalen\" (He is leading the conversation). It also means \"to keep\" accounts or records: \"Vi fører regnskab\" (We keep the accounts).",
+  "forms": [
+   {
+    "da": "at føre",
+    "en": "to lead / conduct"
+   },
+   {
+    "da": "jeg fører",
+    "en": "I lead / conduct"
+   },
+   {
+    "da": "jeg førte",
+    "en": "I led / conducted"
+   },
+   {
+    "da": "jeg har ført",
+    "en": "I have led / conducted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lede",
+    "en": "to lead"
+   },
+   {
+    "da": "at styre",
+    "en": "to steer"
+   },
+   {
+    "da": "at vise vej",
+    "en": "to show the way"
+   },
+   {
+    "da": "at bringe",
+    "en": "to bring"
+   }
+  ],
+  "sentence": {
+   "da": "Vejen kan **føre** dig til stranden.",
+   "en": "The road can lead you to the beach."
+  }
+ },
+ "en fabel": {
+  "file": "f.json",
+  "explanation": "\"En fabel\" means \"a fable\", a short story with a lesson, usually about animals.",
+  "forms": [
+   {
+    "da": "en fabel",
+    "en": "a fable"
+   },
+   {
+    "da": "fablen",
+    "en": "the fable"
+   },
+   {
+    "da": "fabler",
+    "en": "fables"
+   },
+   {
+    "da": "fablerne",
+    "en": "the fables"
+   }
+  ],
+  "related": [
+   {
+    "da": "et eventyr",
+    "en": "a fairy tale"
+   },
+   {
+    "da": "en myte",
+    "en": "a myth"
+   },
+   {
+    "da": "en morale",
+    "en": "a moral"
+   },
+   {
+    "da": "en legende",
+    "en": "a legend"
+   }
+  ],
+  "sentence": {
+   "da": "I en **fabel** taler dyrene som mennesker og lærer os noget.",
+   "en": "In a fable the animals talk like people and teach us something."
+  }
+ },
+ "en fabrik": {
+  "file": "f.json",
+  "explanation": "\"En fabrik\" means \"a factory\", where things are made in large amounts.",
+  "forms": [
+   {
+    "da": "en fabrik",
+    "en": "a factory"
+   },
+   {
+    "da": "fabrikken",
+    "en": "the factory"
+   },
+   {
+    "da": "fabrikker",
+    "en": "factories"
+   },
+   {
+    "da": "fabrikkerne",
+    "en": "the factories"
+   }
+  ],
+  "related": [
+   {
+    "da": "at producere",
+    "en": "to produce"
+   },
+   {
+    "da": "en maskine",
+    "en": "a machine"
+   },
+   {
+    "da": "en producent",
+    "en": "a producer"
+   },
+   {
+    "da": "et værksted",
+    "en": "a workshop"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror arbejder på en **fabrik** og laver møbler.",
+   "en": "My brother works at a factory and makes furniture."
+  }
+ },
+ "en fabriksarbejder": {
+  "file": "f.json",
+  "explanation": "\"En fabriksarbejder\" means \"a factory worker\", someone who works with machines or on a production line. The ending \"-arbejder\" (worker) also gives \"en havnearbejder\" (a dock worker).",
+  "forms": [
+   {
+    "da": "en fabriksarbejder",
+    "en": "a factory worker"
+   },
+   {
+    "da": "fabriksarbejderen",
+    "en": "the factory worker"
+   },
+   {
+    "da": "fabriksarbejdere",
+    "en": "factory workers"
+   },
+   {
+    "da": "fabriksarbejderne",
+    "en": "the factory workers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en maskinoperatør",
+    "en": "a machine operator"
+   },
+   {
+    "da": "en lagerarbejder",
+    "en": "a warehouse worker"
+   },
+   {
+    "da": "en håndværker",
+    "en": "a craftsman"
+   }
+  ],
+  "sentence": {
+   "da": "En **fabriksarbejder** står ved et samlebånd og pakker varer.",
+   "en": "A factory worker stands at an assembly line and packs goods."
+  }
+ },
+ "en facade": {
+  "file": "f.json",
+  "explanation": "\"En facade\" means \"a facade\", the front of a building, the side you see from the street. It is also used for an appearance that hides what is behind it: \"en facade af venlighed\" (a facade of friendliness).",
+  "forms": [
+   {
+    "da": "en facade",
+    "en": "a facade"
+   },
+   {
+    "da": "facaden",
+    "en": "the facade"
+   },
+   {
+    "da": "facader",
+    "en": "facades"
+   },
+   {
+    "da": "facaderne",
+    "en": "the facades"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bagside",
+    "en": "a back side"
+   },
+   {
+    "da": "en gavl",
+    "en": "a gable"
+   },
+   {
+    "da": "en mur",
+    "en": "a wall"
+   }
+  ],
+  "sentence": {
+   "da": "Husets **facade** er gul og vender ud mod gaden.",
+   "en": "The house's facade is yellow and faces the street."
+  }
+ },
+ "en fagbog": {
+  "file": "f.json",
+  "explanation": "\"En fagbog\" means \"a nonfiction book\", a book that teaches about a subject or a profession, such as medicine, law or history. \"Fag\" means \"subject\" or \"trade\", so \"en fagbog\" is a book for that subject.",
+  "forms": [
+   {
+    "da": "en fagbog",
+    "en": "a nonfiction book"
+   },
+   {
+    "da": "fagbogen",
+    "en": "the nonfiction book"
+   },
+   {
+    "da": "fagbøger",
+    "en": "nonfiction books"
+   },
+   {
+    "da": "fagbøgerne",
+    "en": "the nonfiction books"
+   }
+  ],
+  "related": [
+   {
+    "da": "en roman",
+    "en": "a novel"
+   },
+   {
+    "da": "en lærebog",
+    "en": "a textbook"
+   },
+   {
+    "da": "en håndbog",
+    "en": "a handbook"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg læser en **fagbog** om økonomi, fordi jeg skal til eksamen.",
+   "en": "I am reading a nonfiction book about economics because I have an exam."
+  }
+ },
+ "en fagforening": {
+  "file": "f.json",
+  "explanation": "\"En fagforening\" means \"a trade union\", an organization for workers in the same profession that helps with pay and contracts.",
+  "forms": [
+   {
+    "da": "en fagforening",
+    "en": "a trade union"
+   },
+   {
+    "da": "fagforeningen",
+    "en": "the trade union"
+   },
+   {
+    "da": "fagforeninger",
+    "en": "trade unions"
+   },
+   {
+    "da": "fagforeningerne",
+    "en": "the trade unions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en overenskomst",
+    "en": "a collective agreement"
+   },
+   {
+    "da": "en strejke",
+    "en": "a strike"
+   },
+   {
+    "da": "en a-kasse",
+    "en": "an unemployment fund"
+   },
+   {
+    "da": "et medlem",
+    "en": "a member"
+   }
+  ],
+  "sentence": {
+   "da": "Min **fagforening** hjælper mig, hvis jeg får problemer på arbejdet.",
+   "en": "My union helps me if I have problems at work."
+  }
+ },
+ "en faktor": {
+  "file": "f.json",
+  "explanation": "\"En faktor\" means \"a factor\", one of several things that influence a result. In math it also means a number that you multiply with another.",
+  "forms": [
+   {
+    "da": "en faktor",
+    "en": "a factor"
+   },
+   {
+    "da": "faktoren",
+    "en": "the factor"
+   },
+   {
+    "da": "faktorer",
+    "en": "factors"
+   },
+   {
+    "da": "faktorerne",
+    "en": "the factors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en årsag",
+    "en": "a cause"
+   },
+   {
+    "da": "en indflydelse",
+    "en": "an influence"
+   },
+   {
+    "da": "et element",
+    "en": "an element"
+   },
+   {
+    "da": "en betingelse",
+    "en": "a condition"
+   }
+  ],
+  "sentence": {
+   "da": "Vejret er en **faktor**, som man ikke selv kan styre.",
+   "en": "The weather is a factor that you cannot control yourself."
+  }
+ },
+ "en faktura": {
+  "file": "f.json",
+  "explanation": "\"En faktura\" means \"an invoice\", a document a business sends to say how much you owe for goods or work. It lists what was sold and the VAT, while \"en regning\" (a bill) is the everyday word for any bill.",
+  "forms": [
+   {
+    "da": "en faktura",
+    "en": "an invoice"
+   },
+   {
+    "da": "fakturaen",
+    "en": "the invoice"
+   },
+   {
+    "da": "fakturaer",
+    "en": "invoices"
+   },
+   {
+    "da": "fakturaerne",
+    "en": "the invoices"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kvittering",
+    "en": "a receipt"
+   },
+   {
+    "da": "et beløb",
+    "en": "an amount"
+   },
+   {
+    "da": "en forfaldsdato",
+    "en": "a due date"
+   },
+   {
+    "da": "at betale",
+    "en": "to pay"
+   }
+  ],
+  "sentence": {
+   "da": "Vi sender en **faktura**, og du betaler inden fjorten dage.",
+   "en": "We send an invoice, and you pay within fourteen days."
+  }
+ },
+ "en familie": {
+  "file": "f.json",
+  "explanation": "\"En familie\" means \"a family\", the people closest to you, such as parents, children, brothers and sisters.",
+  "forms": [
+   {
+    "da": "en familie",
+    "en": "a family"
+   },
+   {
+    "da": "familien",
+    "en": "the family"
+   },
+   {
+    "da": "familier",
+    "en": "families"
+   },
+   {
+    "da": "familierne",
+    "en": "the families"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mor",
+    "en": "a mother"
+   },
+   {
+    "da": "en far",
+    "en": "a father"
+   },
+   {
+    "da": "et barn",
+    "en": "a child"
+   },
+   {
+    "da": "en slægtning",
+    "en": "a relative"
+   }
+  ],
+  "sentence": {
+   "da": "Min **familie** er mor, far og søster.",
+   "en": "My family is my mom, my dad and my sister."
+  }
+ },
+ "en familiefest": {
+  "file": "f.json",
+  "explanation": "\"En familiefest\" means \"a family party\", where relatives come together for a birthday or another special day.",
+  "forms": [
+   {
+    "da": "en familiefest",
+    "en": "a family party"
+   },
+   {
+    "da": "familiefesten",
+    "en": "the family party"
+   },
+   {
+    "da": "familiefester",
+    "en": "family parties"
+   },
+   {
+    "da": "familiefesterne",
+    "en": "the family parties"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fødselsdag",
+    "en": "a birthday"
+   },
+   {
+    "da": "et bryllup",
+    "en": "a wedding"
+   },
+   {
+    "da": "en konfirmation",
+    "en": "a confirmation"
+   },
+   {
+    "da": "en dåb",
+    "en": "a christening"
+   }
+  ],
+  "sentence": {
+   "da": "Vi holder en **familiefest** for farmor.",
+   "en": "We are having a family party for grandma."
+  }
+ },
+ "en fan": {
+  "file": "f.json",
+  "explanation": "\"En fan\" means \"a fan\", someone who loves a team, singer or band. For a fan that cools a room, use \"en ventilator\" (a fan).",
+  "forms": [
+   {
+    "da": "en fan",
+    "en": "a fan"
+   },
+   {
+    "da": "fanen",
+    "en": "the fan"
+   },
+   {
+    "da": "fans",
+    "en": "fans"
+   },
+   {
+    "da": "fansene",
+    "en": "the fans"
+   }
+  ],
+  "related": [
+   {
+    "da": "en supporter",
+    "en": "a supporter"
+   },
+   {
+    "da": "en tilhænger",
+    "en": "a follower / supporter"
+   },
+   {
+    "da": "en beundrer",
+    "en": "an admirer"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror er **fan** af det danske landshold.",
+   "en": "My brother is a fan of the Danish national team."
+  }
+ },
+ "en fange": {
+  "file": "f.json",
+  "explanation": "\"En fange\" means \"a prisoner\", a person who is locked up in a jail or held captive. It looks like the verb \"at fange\" (to catch) and comes from the same root: the prisoner is the one who has been caught.",
+  "forms": [
+   {
+    "da": "en fange",
+    "en": "a prisoner"
+   },
+   {
+    "da": "fangen",
+    "en": "the prisoner"
+   },
+   {
+    "da": "fanger",
+    "en": "prisoners"
+   },
+   {
+    "da": "fangerne",
+    "en": "the prisoners"
+   }
+  ],
+  "related": [
+   {
+    "da": "en celle",
+    "en": "a cell"
+   },
+   {
+    "da": "en straf",
+    "en": "a punishment"
+   },
+   {
+    "da": "en indsat",
+    "en": "an inmate"
+   },
+   {
+    "da": "et gidsel",
+    "en": "a hostage"
+   }
+  ],
+  "sentence": {
+   "da": "Den **fange**, der flygtede, blev fanget igen næste dag.",
+   "en": "The prisoner who escaped was caught again the next day."
+  }
+ },
+ "en fanklub": {
+  "file": "f.json",
+  "explanation": "\"En fanklub\" means \"a fan club\", a group of people who support the same team, singer or other favorite.",
+  "forms": [
+   {
+    "da": "en fanklub",
+    "en": "a fan club"
+   },
+   {
+    "da": "fanklubben",
+    "en": "the fan club"
+   },
+   {
+    "da": "fanklubber",
+    "en": "fan clubs"
+   },
+   {
+    "da": "fanklubberne",
+    "en": "the fan clubs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tilhænger",
+    "en": "a supporter"
+   },
+   {
+    "da": "et medlem",
+    "en": "a member"
+   },
+   {
+    "da": "en fodboldklub",
+    "en": "a soccer club"
+   },
+   {
+    "da": "en støtteforening",
+    "en": "a supporters' association"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er medlem af en **fanklub** for sit yndlingsband.",
+   "en": "She is a member of a fan club for her favorite band."
+  }
+ },
+ "en fantasi": {
+  "file": "f.json",
+  "explanation": "\"En fantasi\" means \"an imagination\" or \"a fantasy\". It is the ability to imagine things. It is also something imagined that is not real: \"Det er bare en fantasi\" (It is just a fantasy).",
+  "forms": [
+   {
+    "da": "en fantasi",
+    "en": "a fantasy"
+   },
+   {
+    "da": "fantasien",
+    "en": "the fantasy"
+   },
+   {
+    "da": "fantasier",
+    "en": "fantasies"
+   },
+   {
+    "da": "fantasierne",
+    "en": "the fantasies"
+   }
+  ],
+  "related": [
+   {
+    "da": "fantasifuld",
+    "en": "imaginative"
+   },
+   {
+    "da": "at forestille sig",
+    "en": "to imagine"
+   },
+   {
+    "da": "en drøm",
+    "en": "a dream"
+   },
+   {
+    "da": "et eventyr",
+    "en": "a fairy tale"
+   }
+  ],
+  "sentence": {
+   "da": "Børn har ofte meget **fantasi**.",
+   "en": "Children often have a lot of imagination."
+  }
+ },
+ "en far": {
+  "file": "f.json",
+  "explanation": "\"En far\" means \"a father\". Danish uses \"far\" for both \"father\" and \"dad\", and children also use it as a name: \"Hej, far!\" (Hi, Dad!).",
+  "forms": [
+   {
+    "da": "en far",
+    "en": "a father"
+   },
+   {
+    "da": "faren",
+    "en": "the father"
+   },
+   {
+    "da": "fædre",
+    "en": "fathers"
+   },
+   {
+    "da": "fædrene",
+    "en": "the fathers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mor",
+    "en": "a mother"
+   },
+   {
+    "da": "en forælder",
+    "en": "a parent"
+   },
+   {
+    "da": "en bedstefar",
+    "en": "a grandfather"
+   },
+   {
+    "da": "en farfar",
+    "en": "a grandfather (father's father)"
+   }
+  ],
+  "sentence": {
+   "da": "Min mor og min **far** har to børn.",
+   "en": "My mother and my father have two children."
+  }
+ },
+ "en farbror": {
+  "file": "f.json",
+  "explanation": "\"En farbror\" means \"an uncle\", your father's brother. Your mother's brother is \"en morbror\" (an uncle).",
+  "forms": [
+   {
+    "da": "en farbror",
+    "en": "an uncle (father's brother)"
+   },
+   {
+    "da": "farbroren",
+    "en": "the uncle"
+   },
+   {
+    "da": "farbrødre",
+    "en": "uncles"
+   },
+   {
+    "da": "farbrødrene",
+    "en": "the uncles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en onkel",
+    "en": "an uncle"
+   },
+   {
+    "da": "en faster",
+    "en": "an aunt (father's sister)"
+   },
+   {
+    "da": "en farfar",
+    "en": "a grandfather (father's father)"
+   },
+   {
+    "da": "en fætter",
+    "en": "a male cousin"
+   }
+  ],
+  "sentence": {
+   "da": "Min **farbror** er min fars bror og bor i Aarhus.",
+   "en": "My uncle is my father's brother and lives in Aarhus."
+  }
+ },
+ "en fare": {
+  "file": "f.json",
+  "explanation": "\"En fare\" means \"a danger\". \"Fare for\" means \"danger of\": \"Der er fare for brand\" (There is a danger of fire). Without \"en\", \"i fare\" means \"in danger\".",
+  "forms": [
+   {
+    "da": "en fare",
+    "en": "a danger"
+   },
+   {
+    "da": "faren",
+    "en": "the danger"
+   },
+   {
+    "da": "farer",
+    "en": "dangers"
+   },
+   {
+    "da": "farerne",
+    "en": "the dangers"
+   }
+  ],
+  "related": [
+   {
+    "da": "farlig",
+    "en": "dangerous"
+   },
+   {
+    "da": "sikker",
+    "en": "safe"
+   },
+   {
+    "da": "en risiko",
+    "en": "a risk"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene er i **fare** på den tynde is.",
+   "en": "The children are in danger on the thin ice."
+  }
+ },
+ "en farfar": {
+  "file": "f.json",
+  "explanation": "\"En farfar\" means \"a grandfather\" on your father's side, literally father's father. On your mother's side he is \"en morfar\" (a maternal grandfather).",
+  "forms": [
+   {
+    "da": "en farfar",
+    "en": "a grandfather (father's father)"
+   },
+   {
+    "da": "farfaren",
+    "en": "the grandfather (father's father)"
+   },
+   {
+    "da": "farfædre",
+    "en": "grandfathers (father's father)"
+   },
+   {
+    "da": "farfædrene",
+    "en": "the grandfathers (father's father)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en farmor",
+    "en": "a grandmother (father's mother)"
+   },
+   {
+    "da": "bedsteforældre",
+    "en": "grandparents"
+   },
+   {
+    "da": "en bedstefar",
+    "en": "a grandfather"
+   },
+   {
+    "da": "et barnebarn",
+    "en": "a grandchild"
+   }
+  ],
+  "sentence": {
+   "da": "Min **farfar** er min fars far.",
+   "en": "My grandfather is my father's father."
+  }
+ },
+ "en farmaceut": {
+  "file": "f.json",
+  "explanation": "\"En farmaceut\" means \"a pharmacist\", a person with a university degree who works in a pharmacy and knows about drugs. \"En farmakonom\" (a pharmacy technician) has a shorter education and also works there.",
+  "forms": [
+   {
+    "da": "en farmaceut",
+    "en": "a pharmacist"
+   },
+   {
+    "da": "farmaceuten",
+    "en": "the pharmacist"
+   },
+   {
+    "da": "farmaceuter",
+    "en": "pharmacists"
+   },
+   {
+    "da": "farmaceuterne",
+    "en": "the pharmacists"
+   }
+  ],
+  "related": [
+   {
+    "da": "en apoteker",
+    "en": "a pharmacy owner"
+   },
+   {
+    "da": "en læge",
+    "en": "a doctor"
+   },
+   {
+    "da": "en medicin",
+    "en": "a medicine"
+   },
+   {
+    "da": "en recept",
+    "en": "a prescription"
+   }
+  ],
+  "sentence": {
+   "da": "En **farmaceut** kan forklare, hvordan man tager sin medicin.",
+   "en": "A pharmacist can explain how to take your medicine."
+  }
+ },
+ "en farmor": {
+  "file": "f.json",
+  "explanation": "\"En farmor\" means \"a grandmother\" on your father's side. It is built from far (father) and mor (mother): father's mother. You can call her \"farmor\" directly: \"Farmor kommer i dag\" (Grandma is coming today).",
+  "forms": [
+   {
+    "da": "en farmor",
+    "en": "a grandmother (father's mother)"
+   },
+   {
+    "da": "farmoren",
+    "en": "the grandmother (father's mother)"
+   },
+   {
+    "da": "farmødre",
+    "en": "grandmothers (father's mother)"
+   },
+   {
+    "da": "farmødrene",
+    "en": "the grandmothers (father's mother)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mormor",
+    "en": "a grandmother (mother's mother)"
+   },
+   {
+    "da": "en farfar",
+    "en": "a grandfather (father's father)"
+   },
+   {
+    "da": "bedsteforældre",
+    "en": "grandparents"
+   },
+   {
+    "da": "en bedstemor",
+    "en": "a grandmother"
+   }
+  ],
+  "sentence": {
+   "da": "Min **farmor** er min fars mor.",
+   "en": "My grandmother is my father's mother."
+  }
+ },
+ "en fart": {
+  "file": "f.json",
+  "explanation": "\"En fart\" means \"a speed\", how quickly something moves. It is also used for pace and energy: \"Der er fart på\" (Things are really moving).",
+  "forms": [
+   {
+    "da": "i høj fart",
+    "en": "at high speed"
+   },
+   {
+    "da": "med lav fart",
+    "en": "at low speed"
+   },
+   {
+    "da": "at sætte farten ned",
+    "en": "to slow down"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hastighed",
+    "en": "a speed"
+   },
+   {
+    "da": "en fartgrænse",
+    "en": "a speed limit"
+   },
+   {
+    "da": "hurtig",
+    "en": "fast"
+   },
+   {
+    "da": "langsom",
+    "en": "slow"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen kørte i høj **fart** gennem byen.",
+   "en": "The car drove at high speed through the town."
+  }
+ },
+ "en fartbøde": {
+  "file": "f.json",
+  "explanation": "\"En fartbøde\" means \"a speeding ticket\", the fine for driving too fast. It is built from fart (speed) and bøde (fine). A fine for anything else is just \"en bøde\" (a fine): \"Jeg fik en bøde\" (I got a fine).",
+  "forms": [
+   {
+    "da": "en fartbøde",
+    "en": "a speeding ticket"
+   },
+   {
+    "da": "fartbøden",
+    "en": "the speeding ticket"
+   },
+   {
+    "da": "fartbøder",
+    "en": "speeding tickets"
+   },
+   {
+    "da": "fartbøderne",
+    "en": "the speeding tickets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en parkeringsbøde",
+    "en": "a parking ticket"
+   },
+   {
+    "da": "en fartgrænse",
+    "en": "a speed limit"
+   },
+   {
+    "da": "en fartkontrol",
+    "en": "a speed check"
+   }
+  ],
+  "sentence": {
+   "da": "Han fik en **fartbøde** på motorvejen.",
+   "en": "He got a speeding ticket on the highway."
+  }
+ },
+ "en fartgrænse": {
+  "file": "f.json",
+  "explanation": "\"En fartgrænse\" means \"a speed limit\". If you go too fast, you break it: \"at overskride fartgrænsen\" (to exceed the speed limit).",
+  "forms": [
+   {
+    "da": "en fartgrænse",
+    "en": "a speed limit"
+   },
+   {
+    "da": "fartgrænsen",
+    "en": "the speed limit"
+   },
+   {
+    "da": "fartgrænser",
+    "en": "speed limits"
+   },
+   {
+    "da": "fartgrænserne",
+    "en": "the speed limits"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hastighed",
+    "en": "a speed"
+   },
+   {
+    "da": "et fartkamera",
+    "en": "a speed camera"
+   },
+   {
+    "da": "en bøde",
+    "en": "a fine"
+   },
+   {
+    "da": "en fartbøde",
+    "en": "a speeding ticket"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en **fartgrænse** på 50 i byen.",
+   "en": "There is a speed limit of 50 in town."
+  }
+ },
+ "en farve": {
+  "file": "f.json",
+  "explanation": "\"En farve\" means \"a color\", the look of something that you can name, such as the shade of a shirt or a wall.",
+  "forms": [
+   {
+    "da": "en farve",
+    "en": "a color"
+   },
+   {
+    "da": "farven",
+    "en": "the color"
+   },
+   {
+    "da": "farver",
+    "en": "colors"
+   },
+   {
+    "da": "farverne",
+    "en": "the colors"
+   }
+  ],
+  "related": [
+   {
+    "da": "rød",
+    "en": "red"
+   },
+   {
+    "da": "blå",
+    "en": "blue"
+   },
+   {
+    "da": "gul",
+    "en": "yellow"
+   },
+   {
+    "da": "grøn",
+    "en": "green"
+   }
+  ],
+  "sentence": {
+   "da": "Hvilken **farve** har din bil? Den er rød.",
+   "en": "What color is your car? It is red."
+  }
+ },
+ "en fase": {
+  "file": "f.json",
+  "explanation": "\"En fase\" means \"a phase\", a part of a process or of someone's life that has its own character and later ends.",
+  "forms": [
+   {
+    "da": "en fase",
+    "en": "a phase"
+   },
+   {
+    "da": "fasen",
+    "en": "the phase"
+   },
+   {
+    "da": "faser",
+    "en": "phases"
+   },
+   {
+    "da": "faserne",
+    "en": "the phases"
+   }
+  ],
+  "related": [
+   {
+    "da": "et stadie",
+    "en": "a stage"
+   },
+   {
+    "da": "et trin",
+    "en": "a step"
+   },
+   {
+    "da": "en periode",
+    "en": "a period"
+   },
+   {
+    "da": "en overgang",
+    "en": "a transition"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet er i en svær **fase** lige nu.",
+   "en": "The child is in a hard phase right now."
+  }
+ },
+ "en fastelavnsbolle": {
+  "file": "f.json",
+  "explanation": "\"En fastelavnsbolle\" means \"a Shrovetide bun\", a sweet bun with cream and icing that Danes eat around Fastelavn, a holiday in February or March when children dress up in costumes.",
+  "forms": [
+   {
+    "da": "en fastelavnsbolle",
+    "en": "a Shrovetide bun"
+   },
+   {
+    "da": "fastelavnsbollen",
+    "en": "the Shrovetide bun"
+   },
+   {
+    "da": "fastelavnsboller",
+    "en": "Shrovetide buns"
+   },
+   {
+    "da": "fastelavnsbollerne",
+    "en": "the Shrovetide buns"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kanelsnegl",
+    "en": "a cinnamon roll"
+   },
+   {
+    "da": "et wienerbrød",
+    "en": "a Danish pastry"
+   },
+   {
+    "da": "en tebirkes",
+    "en": "a poppy-seed pastry"
+   },
+   {
+    "da": "en fastelavnstønde",
+    "en": "a Shrovetide barrel"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser en **fastelavnsbolle** med fløde.",
+   "en": "I am eating a Shrovetide bun with cream."
+  }
+ },
+ "en faster": {
+  "file": "f.json",
+  "explanation": "\"En faster\" means \"an aunt\", your father's sister. Your mother's sister is \"en moster\" (an aunt).",
+  "forms": [
+   {
+    "da": "en faster",
+    "en": "an aunt (father's sister)"
+   },
+   {
+    "da": "fasteren",
+    "en": "the aunt"
+   },
+   {
+    "da": "fastre",
+    "en": "aunts"
+   },
+   {
+    "da": "fastrene",
+    "en": "the aunts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tante",
+    "en": "an aunt"
+   },
+   {
+    "da": "en farbror",
+    "en": "an uncle (father's brother)"
+   },
+   {
+    "da": "en farmor",
+    "en": "a grandmother (father's mother)"
+   },
+   {
+    "da": "en kusine",
+    "en": "a female cousin"
+   }
+  ],
+  "sentence": {
+   "da": "Min **faster** er min fars søster og bor i Aalborg.",
+   "en": "My aunt is my father's sister and lives in Aalborg."
+  }
+ },
+ "en favorit": {
+  "file": "f.json",
+  "explanation": "\"En favorit\" means \"a favorite\", the one you like best. It also starts compounds such as \"favoritsang\" (favorite song).",
+  "forms": [
+   {
+    "da": "en favorit",
+    "en": "a favorite"
+   },
+   {
+    "da": "favoritten",
+    "en": "the favorite"
+   },
+   {
+    "da": "favoritter",
+    "en": "favorites"
+   },
+   {
+    "da": "favoritterne",
+    "en": "the favorites"
+   }
+  ],
+  "related": [
+   {
+    "da": "at foretrække",
+    "en": "to prefer"
+   },
+   {
+    "da": "en yndling",
+    "en": "a favorite / darling"
+   },
+   {
+    "da": "en yndlingsfarve",
+    "en": "a favorite color"
+   },
+   {
+    "da": "populær",
+    "en": "popular"
+   }
+  ],
+  "sentence": {
+   "da": "Pizza er min **favorit** blandt alle retter.",
+   "en": "Pizza is my favorite of all dishes."
+  }
+ },
+ "en feber": {
+  "file": "f.json",
+  "explanation": "\"En feber\" means \"a fever\", a high body temperature when you are sick. Danes say \"Jeg har feber\" (I have a fever), leaving out \"en\".",
+  "forms": [
+   {
+    "da": "en feber",
+    "en": "a fever"
+   },
+   {
+    "da": "feberen",
+    "en": "the fever"
+   },
+   {
+    "da": "febre",
+    "en": "fevers"
+   },
+   {
+    "da": "febrene",
+    "en": "the fevers"
+   }
+  ],
+  "related": [
+   {
+    "da": "syg",
+    "en": "sick"
+   },
+   {
+    "da": "en forkølelse",
+    "en": "a cold (illness)"
+   },
+   {
+    "da": "influenza",
+    "en": "the flu"
+   },
+   {
+    "da": "en sygdom",
+    "en": "a disease"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har **feber** og bliver i sengen.",
+   "en": "She has a fever and stays in bed."
+  }
+ },
+ "en fejebakke": {
+  "file": "f.json",
+  "explanation": "\"En fejebakke\" means \"a dustpan\", the small flat tray you sweep dust into. It is built from feje (to sweep) and bakke (a tray). \"En bakke\" also means \"a hill\": \"en stor bakke\" (a big hill).",
+  "forms": [
+   {
+    "da": "en fejebakke",
+    "en": "a dustpan"
+   },
+   {
+    "da": "fejebakken",
+    "en": "the dustpan"
+   },
+   {
+    "da": "fejebakker",
+    "en": "dustpans"
+   },
+   {
+    "da": "fejebakkerne",
+    "en": "the dustpans"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kost",
+    "en": "a broom"
+   },
+   {
+    "da": "en støvsuger",
+    "en": "a vacuum cleaner"
+   },
+   {
+    "da": "en moppe",
+    "en": "a mop"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg samler støvet op med en **fejebakke**.",
+   "en": "I pick up the dust with a dustpan."
+  }
+ },
+ "en fejl": {
+  "file": "f.json",
+  "explanation": "\"En fejl\" means \"an error\" or \"a bug\", and also \"a mistake\": \"Der er en fejl i programmet\" (There is an error in the program). \"Jeg lavede en fejl\" (I made a mistake).",
+  "forms": [
+   {
+    "da": "en fejl",
+    "en": "an error / bug"
+   },
+   {
+    "da": "fejlen",
+    "en": "the error / bug"
+   },
+   {
+    "da": "fejl",
+    "en": "errors / bugs"
+   },
+   {
+    "da": "fejlene",
+    "en": "the errors / bugs"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fejle",
+    "en": "to fail"
+   },
+   {
+    "da": "en brøler",
+    "en": "a blunder"
+   },
+   {
+    "da": "en rettelse",
+    "en": "a correction"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg fandt en **fejl** i din tekst.",
+   "en": "I found a mistake in your text."
+  }
+ },
+ "en fejltagelse": {
+  "file": "f.json",
+  "explanation": "\"En fejltagelse\" means \"a mistake\", usually something you did or believed wrongly by accident. For a fault in a machine or a text, use \"en fejl\" (an error).",
+  "forms": [
+   {
+    "da": "en fejltagelse",
+    "en": "a mistake"
+   },
+   {
+    "da": "fejltagelsen",
+    "en": "the mistake"
+   },
+   {
+    "da": "fejltagelser",
+    "en": "mistakes"
+   },
+   {
+    "da": "fejltagelserne",
+    "en": "the mistakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en misforståelse",
+    "en": "a misunderstanding"
+   },
+   {
+    "da": "en bommert",
+    "en": "a blunder"
+   },
+   {
+    "da": "at tage fejl",
+    "en": "to be wrong"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en **fejltagelse**, at jeg sendte mailen til dig.",
+   "en": "It was a mistake that I sent the email to you."
+  }
+ },
+ "en fejring": {
+  "file": "f.json",
+  "explanation": "\"En fejring\" means \"a celebration\", the act of celebrating an event. Add \"af\" (of) before the event: \"fejringen af jul\" (the celebration of Christmas). For the party itself, use \"en fest\" (a party).",
+  "forms": [
+   {
+    "da": "en fejring",
+    "en": "a celebration"
+   },
+   {
+    "da": "fejringen",
+    "en": "the celebration"
+   },
+   {
+    "da": "fejringer",
+    "en": "celebrations"
+   },
+   {
+    "da": "fejringerne",
+    "en": "the celebrations"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fejre",
+    "en": "to celebrate"
+   },
+   {
+    "da": "et jubilæum",
+    "en": "an anniversary"
+   },
+   {
+    "da": "en højtid",
+    "en": "a festival"
+   },
+   {
+    "da": "en tradition",
+    "en": "a tradition"
+   }
+  ],
+  "sentence": {
+   "da": "Familien holder en lille **fejring** af hendes fødselsdag.",
+   "en": "The family holds a small celebration of her birthday."
+  }
+ },
+ "en ferie": {
+  "file": "f.json",
+  "explanation": "\"En ferie\" means \"a vacation\" or holiday, a time away from work or school. You say \"på ferie\" (on vacation). \"I ferien\" means \"during the vacation\".",
+  "forms": [
+   {
+    "da": "en ferie",
+    "en": "a vacation"
+   },
+   {
+    "da": "ferien",
+    "en": "the vacation"
+   },
+   {
+    "da": "ferier",
+    "en": "vacations"
+   },
+   {
+    "da": "ferierne",
+    "en": "the vacations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sommerferie",
+    "en": "a summer vacation"
+   },
+   {
+    "da": "en feriedag",
+    "en": "a vacation day"
+   },
+   {
+    "da": "en feriebolig",
+    "en": "a vacation home"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har fri og tager på **ferie**.",
+   "en": "I have time off and am going on vacation."
+  }
+ },
+ "en fersken": {
+  "file": "f.json",
+  "explanation": "\"En fersken\" means \"a peach\", a round fruit with soft, fuzzy skin.",
+  "forms": [
+   {
+    "da": "en fersken",
+    "en": "a peach"
+   },
+   {
+    "da": "ferskenen",
+    "en": "the peach"
+   },
+   {
+    "da": "ferskner",
+    "en": "peaches"
+   },
+   {
+    "da": "fersknerne",
+    "en": "the peaches"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nektarin",
+    "en": "a nectarine"
+   },
+   {
+    "da": "en abrikos",
+    "en": "an apricot"
+   },
+   {
+    "da": "en blomme",
+    "en": "a plum"
+   }
+  ],
+  "sentence": {
+   "da": "En **fersken** er sød og saftig, og den har en sten.",
+   "en": "A peach is sweet and juicy, and it has a pit."
+  }
+ },
+ "en fest": {
+  "file": "f.json",
+  "explanation": "\"En fest\" means \"a party\" or a celebration. You say \"at holde fest\" (to have a party) or \"at gå til fest\" (to go to a party). \"God fest!\" means \"Have a good party!\".",
+  "forms": [
+   {
+    "da": "en fest",
+    "en": "a party"
+   },
+   {
+    "da": "festen",
+    "en": "the party"
+   },
+   {
+    "da": "fester",
+    "en": "parties"
+   },
+   {
+    "da": "festerne",
+    "en": "the parties"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fejre",
+    "en": "to celebrate"
+   },
+   {
+    "da": "en fødselsdagsfest",
+    "en": "a birthday party"
+   },
+   {
+    "da": "et festmåltid",
+    "en": "a feast"
+   }
+  ],
+  "sentence": {
+   "da": "Vi holder **fest** med musik og kage.",
+   "en": "We are having a party with music and cake."
+  }
+ },
+ "en festdag": {
+  "file": "f.json",
+  "explanation": "\"En festdag\" means \"a festive day\", a day that is celebrated, such as Christmas Eve or a confirmation day. It is not the same as \"en helligdag\" (a public holiday), which is a day when most people do not work.",
+  "forms": [
+   {
+    "da": "en festdag",
+    "en": "a festive day"
+   },
+   {
+    "da": "festdagen",
+    "en": "the festive day"
+   },
+   {
+    "da": "festdage",
+    "en": "festive days"
+   },
+   {
+    "da": "festdagene",
+    "en": "the festive days"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fridag",
+    "en": "a day off"
+   },
+   {
+    "da": "en mærkedag",
+    "en": "a special day"
+   },
+   {
+    "da": "en fødselsdag",
+    "en": "a birthday"
+   },
+   {
+    "da": "et jubilæum",
+    "en": "an anniversary"
+   }
+  ],
+  "sentence": {
+   "da": "Bryllupsdagen er en stor **festdag** for hele familien.",
+   "en": "The wedding day is a big festive day for the whole family."
+  }
+ },
+ "en festival": {
+  "file": "f.json",
+  "explanation": "\"En festival\" means \"a festival\", usually for music or film.",
+  "forms": [
+   {
+    "da": "en festival",
+    "en": "a festival"
+   },
+   {
+    "da": "festivalen",
+    "en": "the festival"
+   },
+   {
+    "da": "festivaler",
+    "en": "festivals"
+   },
+   {
+    "da": "festivalerne",
+    "en": "the festivals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en koncert",
+    "en": "a concert"
+   },
+   {
+    "da": "en fest",
+    "en": "a party"
+   },
+   {
+    "da": "en musikfestival",
+    "en": "a music festival"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal på **festival** i sommer og sove i telt.",
+   "en": "We are going to a festival this summer and sleeping in a tent."
+  }
+ },
+ "en festsal": {
+  "file": "f.json",
+  "explanation": "\"En festsal\" means \"a banquet hall\", a big room for parties, weddings and school events.",
+  "forms": [
+   {
+    "da": "en festsal",
+    "en": "a banquet hall"
+   },
+   {
+    "da": "festsalen",
+    "en": "the banquet hall"
+   },
+   {
+    "da": "festsale",
+    "en": "banquet halls"
+   },
+   {
+    "da": "festsalene",
+    "en": "the banquet halls"
+   }
+  ],
+  "related": [
+   {
+    "da": "et festlokale",
+    "en": "a party venue"
+   },
+   {
+    "da": "en balsal",
+    "en": "a ballroom"
+   },
+   {
+    "da": "et mødelokale",
+    "en": "a meeting room"
+   },
+   {
+    "da": "et selskab",
+    "en": "a party / gathering"
+   }
+  ],
+  "sentence": {
+   "da": "Bryllupsgæsterne spiser og danser i den store **festsal**.",
+   "en": "The wedding guests eat and dance in the big banquet hall."
+  }
+ },
+ "en festtale": {
+  "file": "f.json",
+  "explanation": "\"En festtale\" means \"a celebratory speech\", given by someone at a party. It is built from fest (party) and tale (speech). Danish uses \"at holde\" (to hold) for giving a speech: \"at holde en tale\" (to give a speech).",
+  "forms": [
+   {
+    "da": "en festtale",
+    "en": "a celebratory speech"
+   },
+   {
+    "da": "festtalen",
+    "en": "the celebratory speech"
+   },
+   {
+    "da": "festtaler",
+    "en": "celebratory speeches"
+   },
+   {
+    "da": "festtalerne",
+    "en": "the celebratory speeches"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skål",
+    "en": "a toast"
+   },
+   {
+    "da": "en taler",
+    "en": "a speaker"
+   },
+   {
+    "da": "at skåle",
+    "en": "to toast"
+   },
+   {
+    "da": "en bryllupstale",
+    "en": "a wedding speech"
+   }
+  ],
+  "sentence": {
+   "da": "Hun holdt en kort **festtale** for sin bedste ven.",
+   "en": "She gave a short speech for her best friend."
+  }
+ },
+ "en fiasko": {
+  "file": "f.json",
+  "explanation": "\"En fiasko\" means \"a failure\", a plan or event that goes badly wrong in a big, public way. It is stronger than a small mistake: a whole project or show can be \"en fiasko\".",
+  "forms": [
+   {
+    "da": "en fiasko",
+    "en": "a failure"
+   },
+   {
+    "da": "fiaskoen",
+    "en": "the failure"
+   },
+   {
+    "da": "fiaskoer",
+    "en": "failures"
+   },
+   {
+    "da": "fiaskoerne",
+    "en": "the failures"
+   }
+  ],
+  "related": [
+   {
+    "da": "et nederlag",
+    "en": "a defeat"
+   },
+   {
+    "da": "en succes",
+    "en": "a success"
+   },
+   {
+    "da": "en katastrofe",
+    "en": "a disaster"
+   },
+   {
+    "da": "et sammenbrud",
+    "en": "a breakdown"
+   }
+  ],
+  "sentence": {
+   "da": "Festen blev en **fiasko**, fordi maden slet ikke kom.",
+   "en": "The party became a fiasco because the food never came."
+  }
+ },
+ "en figur": {
+  "file": "f.json",
+  "explanation": "\"En figur\" means \"a figure\", such as a shape, a drawing or a character in a story: \"en figur i bogen\" (a character in the book). It also means a person's body shape: \"Hun har en flot figur\" (She has a nice figure).",
+  "forms": [
+   {
+    "da": "en figur",
+    "en": "a figure"
+   },
+   {
+    "da": "figuren",
+    "en": "the figure"
+   },
+   {
+    "da": "figurer",
+    "en": "figures"
+   },
+   {
+    "da": "figurerne",
+    "en": "the figures"
+   }
+  ],
+  "related": [
+   {
+    "da": "en form",
+    "en": "a shape"
+   },
+   {
+    "da": "en tegning",
+    "en": "a drawing"
+   },
+   {
+    "da": "en skikkelse",
+    "en": "a character"
+   },
+   {
+    "da": "en tegneseriefigur",
+    "en": "a cartoon character"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene tegner en sjov **figur** på papiret.",
+   "en": "The children draw a funny figure on the paper."
+  }
+ }
+}

@@ -1,0 +1,3874 @@
+{
+ "et ur": {
+  "file": "u.json",
+  "explanation": "\"Et ur\" means \"a clock\" or \"a watch\". For a watch on your wrist, say \"et armbåndsur\" (a wristwatch), and for one on the wall, \"et vægur\" (a wall clock). Do not mix it up with \"klokken\" (o'clock), which is used for telling the time: \"Hvad er klokken?\" (What time is it?)",
+  "forms": [
+   {
+    "da": "et ur",
+    "en": "a clock / watch"
+   },
+   {
+    "da": "uret",
+    "en": "the clock / watch"
+   },
+   {
+    "da": "ure",
+    "en": "clocks / watches"
+   },
+   {
+    "da": "urene",
+    "en": "the clocks / watches"
+   }
+  ],
+  "related": [
+   {
+    "da": "et vækkeur",
+    "en": "an alarm clock"
+   },
+   {
+    "da": "et stopur",
+    "en": "a stopwatch"
+   },
+   {
+    "da": "en urmager",
+    "en": "a watchmaker"
+   }
+  ],
+  "sentence": {
+   "da": "Mit **ur** viser klokken ti.",
+   "en": "My watch shows ten o'clock."
+  }
+ },
+ "uacceptabel": {
+  "file": "u.json",
+  "explanation": "\"Uacceptabel\" means \"unacceptable\", too bad to put up with, such as behavior, results and conditions. The u- gives the opposite of \"acceptabel\" (acceptable).",
+  "forms": [
+   {
+    "da": "en uacceptabel adfærd",
+    "en": "unacceptable behavior"
+   },
+   {
+    "da": "et uacceptabelt svar",
+    "en": "an unacceptable answer"
+   },
+   {
+    "da": "uacceptable forhold",
+    "en": "unacceptable conditions"
+   }
+  ],
+  "related": [
+   {
+    "da": "at acceptere",
+    "en": "to accept"
+   },
+   {
+    "da": "uholdbar",
+    "en": "untenable"
+   },
+   {
+    "da": "tilladt",
+    "en": "allowed"
+   },
+   {
+    "da": "forbudt",
+    "en": "forbidden"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **uacceptabel** opførsel at slå en anden.",
+   "en": "It is unacceptable behavior to hit someone."
+  }
+ },
+ "uafgjort": {
+  "file": "u.json",
+  "explanation": "\"Uafgjort\" means \"drawn\" or \"tied\", when the score is level. It is the opposite of \"afgjort\" (decided).",
+  "forms": [
+   {
+    "da": "Kampen er uafgjort.",
+    "en": "The game is tied."
+   },
+   {
+    "da": "Det blev uafgjort.",
+    "en": "It ended in a draw."
+   },
+   {
+    "da": "Det står uafgjort.",
+    "en": "The score is tied."
+   }
+  ],
+  "related": [
+   {
+    "da": "en sejr",
+    "en": "a victory"
+   },
+   {
+    "da": "et nederlag",
+    "en": "a defeat"
+   },
+   {
+    "da": "at vinde",
+    "en": "to win"
+   }
+  ],
+  "sentence": {
+   "da": "Kampen endte **uafgjort**.",
+   "en": "The match ended in a draw."
+  }
+ },
+ "uafhængig": {
+  "file": "u.json",
+  "explanation": "\"Uafhængig\" means \"independent\", not controlled by anyone and not relying on anyone else: \"Hun er uafhængig af sine forældre\" (She is independent of her parents). The u- gives the opposite of \"afhængig\" (dependent).",
+  "forms": [
+   {
+    "da": "en uafhængig avis",
+    "en": "an independent newspaper"
+   },
+   {
+    "da": "et uafhængigt land",
+    "en": "an independent country"
+   },
+   {
+    "da": "uafhængige medier",
+    "en": "independent media"
+   }
+  ],
+  "related": [
+   {
+    "da": "en uafhængighed",
+    "en": "independence"
+   },
+   {
+    "da": "selvstændig",
+    "en": "self-reliant"
+   },
+   {
+    "da": "fri",
+    "en": "free"
+   },
+   {
+    "da": "suveræn",
+    "en": "sovereign"
+   }
+  ],
+  "sentence": {
+   "da": "En **uafhængig** avis tager ikke penge fra politiske partier.",
+   "en": "An independent newspaper does not take money from political parties."
+  }
+ },
+ "uafhængighed": {
+  "file": "u.json",
+  "explanation": "\"Uafhængighed\" means \"independence\", the state of not being ruled or controlled by others, especially a country that governs itself. To describe a person, use \"uafhængig\" (independent): \"Hun er uafhængig\" (She is independent).",
+  "forms": [
+   {
+    "da": "uafhængighed",
+    "en": "independence"
+   },
+   {
+    "da": "uafhængigheden",
+    "en": "the independence"
+   },
+   {
+    "da": "at kæmpe for uafhængighed",
+    "en": "to fight for independence"
+   }
+  ],
+  "related": [
+   {
+    "da": "selvstændighed",
+    "en": "independence / self-reliance"
+   },
+   {
+    "da": "en frihed",
+    "en": "a freedom"
+   },
+   {
+    "da": "en afhængighed",
+    "en": "a dependence"
+   }
+  ],
+  "sentence": {
+   "da": "Landet fik sin **uafhængighed**, og nu bestemmer det selv.",
+   "en": "The country got its independence, and now it decides for itself."
+  }
+ },
+ "uanset": {
+  "file": "u.json",
+  "explanation": "\"Uanset\" means \"regardless of\", used before something that makes no difference to the result: \"uanset alder\" (regardless of age). It also goes before a question word: \"uanset hvad\" (no matter what), \"uanset hvem\" (no matter who).",
+  "forms": [
+   {
+    "da": "uanset hvem",
+    "en": "no matter who"
+   },
+   {
+    "da": "uanset hvor",
+    "en": "no matter where"
+   },
+   {
+    "da": "uanset prisen",
+    "en": "regardless of the price"
+   }
+  ],
+  "related": [
+   {
+    "da": "trods",
+    "en": "despite"
+   },
+   {
+    "da": "alligevel",
+    "en": "anyway"
+   },
+   {
+    "da": "ligegyldigt",
+    "en": "does not matter"
+   },
+   {
+    "da": "selvom",
+    "en": "even though"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiller fodbold hver søndag, **uanset** om det regner.",
+   "en": "We play soccer every Sunday regardless of whether it rains."
+  }
+ },
+ "uanstændig": {
+  "file": "u.json",
+  "explanation": "\"Uanstændig\" means \"indecent\", for behavior, words or pictures that offend what most people see as proper. It can also mean \"shamefully large\": \"uanstændigt høje priser\" (shamefully high prices).",
+  "forms": [
+   {
+    "da": "en uanstændig vittighed",
+    "en": "an indecent joke"
+   },
+   {
+    "da": "et uanstændigt tilbud",
+    "en": "an indecent offer"
+   },
+   {
+    "da": "uanstændige billeder",
+    "en": "indecent pictures"
+   }
+  ],
+  "related": [
+   {
+    "da": "anstændig",
+    "en": "decent"
+   },
+   {
+    "da": "upassende",
+    "en": "inappropriate"
+   },
+   {
+    "da": "usømmelig",
+    "en": "unseemly"
+   },
+   {
+    "da": "uhøflig",
+    "en": "impolite"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **uanstændig** opførsel at råbe af en gammel dame.",
+   "en": "It is indecent behavior to shout at an old lady."
+  }
+ },
+ "uansvarlig": {
+  "file": "u.json",
+  "explanation": "\"Uansvarlig\" means \"irresponsible\", not thinking about what your actions may cause for yourself or others: \"Det er uansvarligt at køre så hurtigt\" (It is irresponsible to drive that fast).",
+  "forms": [
+   {
+    "da": "en uansvarlig chauffør",
+    "en": "an irresponsible driver"
+   },
+   {
+    "da": "et uansvarligt valg",
+    "en": "an irresponsible choice"
+   },
+   {
+    "da": "uansvarlige forældre",
+    "en": "irresponsible parents"
+   }
+  ],
+  "related": [
+   {
+    "da": "ansvarlig",
+    "en": "responsible"
+   },
+   {
+    "da": "et ansvar",
+    "en": "a responsibility"
+   },
+   {
+    "da": "hensynsløs",
+    "en": "inconsiderate"
+   },
+   {
+    "da": "skødesløs",
+    "en": "careless"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en **uansvarlig** beslutning at lade børnene være alene.",
+   "en": "It was an irresponsible decision to leave the children alone."
+  }
+ },
+ "uartig": {
+  "file": "u.json",
+  "explanation": "\"Uartig\" means \"naughty\", for a child or a pet that does not behave. It is the opposite of \"artig\" (well-behaved).",
+  "forms": [
+   {
+    "da": "en uartig dreng",
+    "en": "a naughty boy"
+   },
+   {
+    "da": "et uartigt barn",
+    "en": "a naughty child"
+   },
+   {
+    "da": "uartige hunde",
+    "en": "naughty dogs"
+   }
+  ],
+  "related": [
+   {
+    "da": "slem",
+    "en": "bad / naughty"
+   },
+   {
+    "da": "fræk",
+    "en": "cheeky"
+   },
+   {
+    "da": "ulydig",
+    "en": "disobedient"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden var **uartig** og tyggede på sofaen.",
+   "en": "The dog was naughty and chewed on the sofa."
+  }
+ },
+ "ubegribelig": {
+  "file": "u.json",
+  "explanation": "\"Ubegribelig\" means \"incomprehensible\", something you cannot make sense of, such as a tragedy or someone's behavior. It is built from u- (not), at begribe (to grasp) and -elig (can be), so literally it cannot be grasped.",
+  "forms": [
+   {
+    "da": "en ubegribelig tragedie",
+    "en": "an incomprehensible tragedy"
+   },
+   {
+    "da": "et ubegribeligt valg",
+    "en": "an incomprehensible choice"
+   },
+   {
+    "da": "ubegribelige handlinger",
+    "en": "incomprehensible actions"
+   }
+  ],
+  "related": [
+   {
+    "da": "begribelig",
+    "en": "comprehensible"
+   },
+   {
+    "da": "uforståelig",
+    "en": "unintelligible"
+   },
+   {
+    "da": "uforklarlig",
+    "en": "inexplicable"
+   },
+   {
+    "da": "uudgrundelig",
+    "en": "unfathomable"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg finder hans handling **ubegribelig**, fordi den ikke giver mening.",
+   "en": "I find his action incomprehensible because it makes no sense."
+  }
+ },
+ "ubehagelig": {
+  "file": "u.json",
+  "explanation": "\"Ubehagelig\" means \"unpleasant\" and is used for things that feel bad, such as a smell, a situation or a person: \"en ubehagelig person\" (an unpleasant person). It also means \"uncomfortable\" when you feel awkward: \"Det er ubehageligt\" (It is uncomfortable).",
+  "forms": [
+   {
+    "da": "en ubehagelig lugt",
+    "en": "an unpleasant smell"
+   },
+   {
+    "da": "et ubehageligt øjeblik",
+    "en": "an unpleasant moment"
+   },
+   {
+    "da": "ubehagelige nyheder",
+    "en": "unpleasant news"
+   }
+  ],
+  "related": [
+   {
+    "da": "behagelig",
+    "en": "comfortable / pleasant"
+   },
+   {
+    "da": "ækel",
+    "en": "disgusting"
+   },
+   {
+    "da": "pinlig",
+    "en": "embarrassing"
+   },
+   {
+    "da": "irriterende",
+    "en": "annoying"
+   }
+  ],
+  "sentence": {
+   "da": "En **ubehagelig** lugt kom fra køkkenet.",
+   "en": "An unpleasant smell came from the kitchen."
+  }
+ },
+ "ubekymret": {
+  "file": "u.json",
+  "explanation": "\"Ubekymret\" means \"carefree\", with nothing weighing on your mind: \"en ubekymret barndom\" (a carefree childhood).",
+  "forms": [
+   {
+    "da": "en ubekymret sommer",
+    "en": "a carefree summer"
+   },
+   {
+    "da": "et ubekymret smil",
+    "en": "a carefree smile"
+   },
+   {
+    "da": "ubekymrede børn",
+    "en": "carefree children"
+   }
+  ],
+  "related": [
+   {
+    "da": "bekymret",
+    "en": "worried"
+   },
+   {
+    "da": "en bekymring",
+    "en": "a worry"
+   },
+   {
+    "da": "bekymringsfri",
+    "en": "worry-free"
+   },
+   {
+    "da": "afslappet",
+    "en": "relaxed"
+   }
+  ],
+  "sentence": {
+   "da": "Som barn levede hun et **ubekymret** liv uden regninger.",
+   "en": "As a child she lived a carefree life without bills."
+  }
+ },
+ "ubelejlig": {
+  "file": "u.json",
+  "explanation": "\"Ubelejlig\" means \"inconvenient\", for a time that suits you badly. To ask whether you are interrupting, say \"Kommer jeg ubelejligt?\" (Is this a bad time?)",
+  "forms": [
+   {
+    "da": "en ubelejlig placering",
+    "en": "an inconvenient location"
+   },
+   {
+    "da": "et ubelejligt besøg",
+    "en": "an inconvenient visit"
+   },
+   {
+    "da": "ubelejlige gæster",
+    "en": "inconvenient guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "belejlig",
+    "en": "convenient"
+   },
+   {
+    "da": "uheldig",
+    "en": "unfortunate"
+   },
+   {
+    "da": "ubekvem",
+    "en": "uncomfortable"
+   },
+   {
+    "da": "uhensigtsmæssig",
+    "en": "impractical"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **ubelejlig** tid at ringe på, fordi vi spiser.",
+   "en": "It is an inconvenient time to ring the doorbell, because we are eating."
+  }
+ },
+ "ubestemt": {
+  "file": "u.json",
+  "explanation": "\"Ubestemt\" means \"vague\" or \"unspecified\", not fixed or not clearly marked. You see it in \"på ubestemt tid\" (for an unspecified time). It also describes a feeling you cannot name: \"en ubestemt følelse\" (a vague feeling).",
+  "forms": [
+   {
+    "da": "en ubestemt farve",
+    "en": "a vague color"
+   },
+   {
+    "da": "et ubestemt svar",
+    "en": "a vague answer"
+   },
+   {
+    "da": "ubestemte datoer",
+    "en": "vague dates"
+   }
+  ],
+  "related": [
+   {
+    "da": "bestemt",
+    "en": "certain / specific"
+   },
+   {
+    "da": "uklar",
+    "en": "unclear"
+   },
+   {
+    "da": "uvis",
+    "en": "uncertain"
+   },
+   {
+    "da": "ubegrænset",
+    "en": "unlimited"
+   }
+  ],
+  "sentence": {
+   "da": "Han gav kun et **ubestemt** svar på spørgsmålet.",
+   "en": "He only gave a vague answer to the question."
+  }
+ },
+ "ubestemt form": {
+  "file": "u.json",
+  "explanation": "\"Ubestemt form\" means \"the form without the\", a word as it appears with a or an: \"en bil\" (a car), \"et hus\" (a house). The ending \"-en\" gives the form with the: \"bilen\" (the car).",
+  "forms": [
+   {
+    "da": "en ubestemt form",
+    "en": "an indefinite form"
+   },
+   {
+    "da": "den ubestemte form",
+    "en": "the indefinite form"
+   },
+   {
+    "da": "de ubestemte former",
+    "en": "the indefinite forms"
+   }
+  ],
+  "related": [
+   {
+    "da": "bestemt form",
+    "en": "a definite form"
+   },
+   {
+    "da": "en artikel",
+    "en": "an article"
+   },
+   {
+    "da": "et navneord",
+    "en": "a noun"
+   },
+   {
+    "da": "et flertal",
+    "en": "a plural"
+   }
+  ],
+  "sentence": {
+   "da": "En hund og et hus står i **ubestemt form**.",
+   "en": "A dog and a house are in the indefinite form."
+  }
+ },
+ "ubetydelig": {
+  "file": "u.json",
+  "explanation": "\"Ubetydelig\" means \"insignificant\", so small or minor that it changes nothing.",
+  "forms": [
+   {
+    "da": "en ubetydelig fejl",
+    "en": "an insignificant mistake"
+   },
+   {
+    "da": "et ubetydeligt beløb",
+    "en": "an insignificant amount"
+   },
+   {
+    "da": "ubetydelige detaljer",
+    "en": "insignificant details"
+   }
+  ],
+  "related": [
+   {
+    "da": "betydelig",
+    "en": "significant"
+   },
+   {
+    "da": "uvæsentlig",
+    "en": "unimportant"
+   },
+   {
+    "da": "minimal",
+    "en": "minimal"
+   }
+  ],
+  "sentence": {
+   "da": "Forskellen mellem de to priser er **ubetydelig**, kun to kroner.",
+   "en": "The difference between the two prices is insignificant, only two kroner."
+  }
+ },
+ "ubevæbnet": {
+  "file": "u.json",
+  "explanation": "\"Ubevæbnet\" means \"unarmed\", without any weapon on you: \"en ubevæbnet vagt\" (an unarmed guard). The opposite is \"bevæbnet\" (armed).",
+  "forms": [
+   {
+    "da": "en ubevæbnet mand",
+    "en": "an unarmed man"
+   },
+   {
+    "da": "et ubevæbnet menneske",
+    "en": "an unarmed person"
+   },
+   {
+    "da": "ubevæbnede soldater",
+    "en": "unarmed soldiers"
+   }
+  ],
+  "related": [
+   {
+    "da": "forsvarsløs",
+    "en": "defenseless"
+   },
+   {
+    "da": "ubeskyttet",
+    "en": "unprotected"
+   },
+   {
+    "da": "at afvæbne",
+    "en": "to disarm"
+   }
+  ],
+  "sentence": {
+   "da": "Betjenten var **ubevæbnet** og bar kun en lommelygte.",
+   "en": "The officer was unarmed and only carried a flashlight."
+  }
+ },
+ "ubrugelig": {
+  "file": "u.json",
+  "explanation": "\"Ubrugelig\" means \"useless\" and describes things that do not work or help. It is the opposite of \"brugbar\" (usable).",
+  "forms": [
+   {
+    "da": "en ubrugelig plan",
+    "en": "a useless plan"
+   },
+   {
+    "da": "et ubrugeligt værktøj",
+    "en": "a useless tool"
+   },
+   {
+    "da": "ubrugelige ting",
+    "en": "useless things"
+   }
+  ],
+  "related": [
+   {
+    "da": "nyttig",
+    "en": "useful"
+   },
+   {
+    "da": "værdiløs",
+    "en": "worthless"
+   },
+   {
+    "da": "unyttig",
+    "en": "of no use"
+   },
+   {
+    "da": "nytteløs",
+    "en": "pointless"
+   }
+  ],
+  "sentence": {
+   "da": "Den gamle telefon er helt **ubrugelig**.",
+   "en": "The old phone is completely useless."
+  }
+ },
+ "ud": {
+  "file": "u.json",
+  "explanation": "\"Ud\" means \"out\" and is used for going from inside to outside: \"Vi går ud\" (We go out). To name the place where you are, Danish uses \"ude\" (outside): \"Vi er ude\" (We are outside). \"Ud\" is also part of \"se ud\" (to look, to appear): \"Hvordan ser det ud?\" (What does it look like?)",
+  "forms": [
+   {
+    "da": "Gå ud!",
+    "en": "Go out!"
+   },
+   {
+    "da": "Han går ud af huset.",
+    "en": "He goes out of the house."
+   },
+   {
+    "da": "Jeg går ud i haven.",
+    "en": "I go out into the garden."
+   }
+  ],
+  "related": [
+   {
+    "da": "ind",
+    "en": "in"
+   },
+   {
+    "da": "en udgang",
+    "en": "an exit"
+   },
+   {
+    "da": "udenfor",
+    "en": "outdoors"
+   }
+  ],
+  "sentence": {
+   "da": "Vi går **ud** i haven.",
+   "en": "We go out into the garden."
+  }
+ },
+ "ud over": {
+  "file": "u.json",
+  "explanation": "\"Ud over\" means \"besides\" and adds something to what you already named: \"Ud over kaffe har vi te\" (Besides coffee, we have tea). It is built from ud (out) and over (over).",
+  "forms": [
+   {
+    "da": "ud over mig",
+    "en": "besides me"
+   },
+   {
+    "da": "ud over det",
+    "en": "besides that"
+   },
+   {
+    "da": "ud over prisen",
+    "en": "besides the price"
+   }
+  ],
+  "related": [
+   {
+    "da": "udover",
+    "en": "besides (also written as one word)"
+   },
+   {
+    "da": "foruden",
+    "en": "besides"
+   },
+   {
+    "da": "undtagen",
+    "en": "except"
+   },
+   {
+    "da": "inklusive",
+    "en": "including"
+   }
+  ],
+  "sentence": {
+   "da": "**Ud over** mig kommer der to andre gæster.",
+   "en": "Besides me, two other guests are coming."
+  }
+ },
+ "ud over det": {
+  "file": "u.json",
+  "explanation": "\"Ud over det\" means \"besides that\". It adds one more point to what you just said: \"Ud over det er det for dyrt\" (Besides that, it is too expensive). It is ud over (besides) plus det (that).",
+  "forms": [
+   {
+    "da": "Ud over det er alt fint.",
+    "en": "Besides that, everything is fine."
+   },
+   {
+    "da": "Ud over det har jeg ingen planer.",
+    "en": "Besides that, I have no plans."
+   }
+  ],
+  "related": [
+   {
+    "da": "desuden",
+    "en": "besides"
+   },
+   {
+    "da": "derudover",
+    "en": "in addition"
+   },
+   {
+    "da": "ellers",
+    "en": "otherwise"
+   },
+   {
+    "da": "foruden",
+    "en": "in addition to"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har ondt i hovedet, og **ud over det** er jeg træt.",
+   "en": "I have a headache, and besides that I am tired."
+  }
+ },
+ "udadvendt": {
+  "file": "u.json",
+  "explanation": "\"Udadvendt\" means \"outgoing\", someone who likes to meet people and speaks up easily. Literally it means \"turned outward\". The opposite is \"indadvendt\" (withdrawn, quiet), literally \"turned inward\".",
+  "forms": [
+   {
+    "da": "en udadvendt pige",
+    "en": "an outgoing girl"
+   },
+   {
+    "da": "et udadvendt barn",
+    "en": "an outgoing child"
+   },
+   {
+    "da": "udadvendte mennesker",
+    "en": "outgoing people"
+   }
+  ],
+  "related": [
+   {
+    "da": "selskabelig",
+    "en": "sociable"
+   },
+   {
+    "da": "åben",
+    "en": "open"
+   },
+   {
+    "da": "genert",
+    "en": "shy"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **udadvendt** og får nemt nye venner.",
+   "en": "She is outgoing and easily makes new friends."
+  }
+ },
+ "uddannet": {
+  "file": "u.json",
+  "explanation": "\"Uddannet\" means \"educated\" or \"qualified\", having finished the training for a job. Say the job right after it: \"Hun er uddannet tømrer\" (She is a trained carpenter).",
+  "forms": [
+   {
+    "da": "en uddannet læge",
+    "en": "a qualified doctor"
+   },
+   {
+    "da": "et uddannet menneske",
+    "en": "an educated person"
+   },
+   {
+    "da": "uddannede lærere",
+    "en": "qualified teachers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en uddannelse",
+    "en": "an education"
+   },
+   {
+    "da": "ufaglært",
+    "en": "unskilled"
+   },
+   {
+    "da": "faglært",
+    "en": "skilled in a trade"
+   },
+   {
+    "da": "udlært",
+    "en": "fully trained"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **uddannet** sygeplejerske og arbejder på et hospital.",
+   "en": "He is a trained nurse and works at a hospital."
+  }
+ },
+ "ude af øje, ude af sind": {
+  "file": "u.json",
+  "explanation": "\"Ude af øje, ude af sind\" means \"out of sight, out of mind\", said when you stop thinking about something or someone once you no longer see them.",
+  "forms": [
+   {
+    "da": "ude af øje",
+    "en": "out of sight"
+   },
+   {
+    "da": "ude af sind",
+    "en": "out of mind"
+   },
+   {
+    "da": "Ude af øje, ude af sind, siger man.",
+    "en": "Out of sight, out of mind, as they say."
+   }
+  ],
+  "related": [
+   {
+    "da": "et ordsprog",
+    "en": "a proverb"
+   },
+   {
+    "da": "at glemme",
+    "en": "to forget"
+   },
+   {
+    "da": "at savne",
+    "en": "to miss"
+   },
+   {
+    "da": "at huske",
+    "en": "to remember"
+   }
+  ],
+  "sentence": {
+   "da": "Han flyttede til udlandet, og nu er det **ude af øje, ude af sind**.",
+   "en": "He moved abroad, and now it is out of sight, out of mind."
+  }
+ },
+ "udefra": {
+  "file": "u.json",
+  "explanation": "\"Udefra\" means \"from outside\", coming in from beyond a house, a group or a country. It also means looking at something as an outsider: \"Set udefra ser det nemt ud\" (Seen from outside, it looks easy).",
+  "forms": [
+   {
+    "da": "hjælp udefra",
+    "en": "help from outside"
+   },
+   {
+    "da": "Lyden kom udefra",
+    "en": "The sound came from outside"
+   },
+   {
+    "da": "set udefra",
+    "en": "seen from outside"
+   }
+  ],
+  "related": [
+   {
+    "da": "indefra",
+    "en": "from inside"
+   },
+   {
+    "da": "ydre",
+    "en": "outer"
+   },
+   {
+    "da": "udenlands",
+    "en": "abroad"
+   }
+  ],
+  "sentence": {
+   "da": "Larmen kommer **udefra**, og vinduet står åbent.",
+   "en": "The noise comes from outside, and the window is open."
+  }
+ },
+ "udelukkende": {
+  "file": "u.json",
+  "explanation": "\"Udelukkende\" means \"exclusively\", only that and nothing else: \"Butikken sælger udelukkende økologisk mad\" (The shop sells exclusively organic food). In everyday speech Danes say \"kun\" (only).",
+  "forms": [
+   {
+    "da": "udelukkende på dansk",
+    "en": "only in Danish"
+   },
+   {
+    "da": "udelukkende for børn",
+    "en": "exclusively for children"
+   },
+   {
+    "da": "Det handler udelukkende om penge.",
+    "en": "It is only about money."
+   }
+  ],
+  "related": [
+   {
+    "da": "ene og alene",
+    "en": "solely"
+   },
+   {
+    "da": "at udelukke",
+    "en": "to exclude"
+   },
+   {
+    "da": "blot",
+    "en": "merely"
+   }
+  ],
+  "sentence": {
+   "da": "Suppen består **udelukkende** af grøntsager og vand.",
+   "en": "The soup consists only of vegetables and water."
+  }
+ },
+ "udelukket": {
+  "file": "u.json",
+  "explanation": "\"Udelukket\" means \"ruled out\" or \"excluded\", meaning something cannot happen or is shut out. \"Det er udelukket\" (It is out of the question) is a firm answer to a suggestion.",
+  "forms": [
+   {
+    "da": "udelukket fra holdet",
+    "en": "excluded from the team"
+   },
+   {
+    "da": "Fejl er ikke udelukket.",
+    "en": "Mistakes are not ruled out."
+   },
+   {
+    "da": "Det er næsten udelukket.",
+    "en": "It is almost out of the question."
+   }
+  ],
+  "related": [
+   {
+    "da": "at udelukke",
+    "en": "to exclude"
+   },
+   {
+    "da": "umulig",
+    "en": "impossible"
+   },
+   {
+    "da": "en mulighed",
+    "en": "a possibility"
+   },
+   {
+    "da": "at inkludere",
+    "en": "to include"
+   }
+  ],
+  "sentence": {
+   "da": "Hun blev **udelukket** fra konkurrencen, fordi hun snød.",
+   "en": "She was excluded from the competition because she cheated."
+  }
+ },
+ "uden": {
+  "file": "u.json",
+  "explanation": "\"Uden\" means \"without\", the opposite of \"med\" (with): \"kaffe med mælk\" (coffee with milk), \"kaffe uden mælk\" (coffee without milk). To say you do without doing something, add \"at\" before the action word: \"uden at spise\" (without eating).",
+  "forms": [
+   {
+    "da": "uden sukker",
+    "en": "without sugar"
+   },
+   {
+    "da": "uden dig",
+    "en": "without you"
+   },
+   {
+    "da": "uden at sige noget",
+    "en": "without saying anything"
+   }
+  ],
+  "related": [
+   {
+    "da": "bortset fra",
+    "en": "except for"
+   },
+   {
+    "da": "undtagen",
+    "en": "except"
+   },
+   {
+    "da": "inklusive",
+    "en": "including"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil have kaffe **uden** sukker.",
+   "en": "I want coffee without sugar."
+  }
+ },
+ "uden tvivl": {
+  "file": "u.json",
+  "explanation": "\"Uden tvivl\" means \"without a doubt\". Use it when you are sure, or to agree strongly: \"Er det en god idé?\" \"Uden tvivl!\" (Is it a good idea? Without a doubt!) It is made of uden (without) and tvivl (doubt).",
+  "forms": [
+   {
+    "da": "Det er uden tvivl godt.",
+    "en": "It is without a doubt good."
+   },
+   {
+    "da": "Hun vinder uden tvivl.",
+    "en": "She will win without a doubt."
+   }
+  ],
+  "related": [
+   {
+    "da": "sikkert",
+    "en": "probably"
+   },
+   {
+    "da": "bestemt",
+    "en": "definitely"
+   },
+   {
+    "da": "at tvivle",
+    "en": "to doubt"
+   },
+   {
+    "da": "selvfølgelig",
+    "en": "of course"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **uden tvivl** den bedste kage.",
+   "en": "It is without a doubt the best cake."
+  }
+ },
+ "udenad": {
+  "file": "u.json",
+  "explanation": "\"Udenad\" means \"by heart\", from memory without looking at any text.",
+  "forms": [
+   {
+    "da": "kunne sangen udenad",
+    "en": "to know the song by heart"
+   },
+   {
+    "da": "sige digtet udenad",
+    "en": "to recite the poem by heart"
+   },
+   {
+    "da": "Hun kan tabellerne udenad",
+    "en": "She knows the tables by heart"
+   }
+  ],
+  "related": [
+   {
+    "da": "at huske",
+    "en": "to remember"
+   },
+   {
+    "da": "at øve",
+    "en": "to practice"
+   },
+   {
+    "da": "at gentage",
+    "en": "to repeat"
+   },
+   {
+    "da": "at recitere",
+    "en": "to recite"
+   }
+  ],
+  "sentence": {
+   "da": "Skuespilleren kan sin rolle **udenad** og behøver ikke noget manuskript.",
+   "en": "The actor knows her role by heart and does not need a script."
+  }
+ },
+ "udenfor": {
+  "file": "u.json",
+  "explanation": "\"Udenfor\" means \"outside\". It works both for being there and for going there: \"Børnene leger udenfor\" (The children play outside), \"Vi går udenfor\" (We go outside).",
+  "forms": [
+   {
+    "da": "gå udenfor",
+    "en": "go outside"
+   },
+   {
+    "da": "udenfor døren",
+    "en": "outside the door"
+   },
+   {
+    "da": "lege udenfor",
+    "en": "play outside"
+   }
+  ],
+  "related": [
+   {
+    "da": "indenfor",
+    "en": "inside"
+   },
+   {
+    "da": "ude",
+    "en": "out / outside"
+   },
+   {
+    "da": "ud",
+    "en": "out (movement)"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene leger **udenfor** i haven.",
+   "en": "The children play outside in the garden."
+  }
+ },
+ "udenlands": {
+  "file": "u.json",
+  "explanation": "\"Udenlands\" means \"abroad\" and names where you are or where you go: \"Hun bor udenlands\" (She lives abroad). Do not mix it up with \"udenlandsk\" (foreign), which describes a thing: \"en udenlandsk bil\" (a foreign car).",
+  "forms": [
+   {
+    "da": "udenlands",
+    "en": "abroad"
+   },
+   {
+    "da": "Jeg rejser udenlands.",
+    "en": "I travel abroad."
+   },
+   {
+    "da": "Hun studerer udenlands.",
+    "en": "She studies abroad."
+   },
+   {
+    "da": "Han arbejder udenlands.",
+    "en": "He works abroad."
+   }
+  ],
+  "related": [
+   {
+    "da": "i udlandet",
+    "en": "abroad"
+   },
+   {
+    "da": "hjemme",
+    "en": "at home"
+   },
+   {
+    "da": "en udlænding",
+    "en": "a foreigner"
+   },
+   {
+    "da": "en udlandsrejse",
+    "en": "a trip abroad"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har studeret **udenlands** i to år.",
+   "en": "She has studied abroad for two years."
+  }
+ },
+ "udenlandsk": {
+  "file": "u.json",
+  "explanation": "\"Udenlandsk\" means \"foreign\", coming from another country. Do not mix it up with \"udenlands\" (abroad), which says where someone goes or is, as in \"rejse udenlands\" (travel abroad).",
+  "forms": [
+   {
+    "da": "en udenlandsk bil",
+    "en": "a foreign car"
+   },
+   {
+    "da": "et udenlandsk firma",
+    "en": "a foreign company"
+   },
+   {
+    "da": "udenlandske film",
+    "en": "foreign films"
+   }
+  ],
+  "related": [
+   {
+    "da": "indenlandsk",
+    "en": "domestic"
+   },
+   {
+    "da": "udlandet",
+    "en": "abroad"
+   },
+   {
+    "da": "fremmed",
+    "en": "foreign / strange"
+   }
+  ],
+  "sentence": {
+   "da": "Min far arbejder for et **udenlandsk** firma.",
+   "en": "My father works for a foreign company."
+  }
+ },
+ "udholdenhed": {
+  "file": "u.json",
+  "explanation": "\"En udholdenhed\" means \"endurance\", the ability to keep going for a long time despite effort or hardship.",
+  "forms": [
+   {
+    "da": "en udholdenhed",
+    "en": "endurance"
+   },
+   {
+    "da": "udholdenheden",
+    "en": "the endurance"
+   },
+   {
+    "da": "at træne sin udholdenhed",
+    "en": "to train your endurance"
+   }
+  ],
+  "related": [
+   {
+    "da": "udholdende",
+    "en": "enduring"
+   },
+   {
+    "da": "en kondition",
+    "en": "fitness / stamina"
+   },
+   {
+    "da": "en styrke",
+    "en": "a strength"
+   },
+   {
+    "da": "en vedholdenhed",
+    "en": "perseverance"
+   }
+  ],
+  "sentence": {
+   "da": "Maratonløb kræver stor **udholdenhed**, fordi man løber i mange timer.",
+   "en": "Marathon running requires great endurance because you run for many hours."
+  }
+ },
+ "udkig": {
+  "file": "u.json",
+  "explanation": "\"Et udkig\" means \"lookout\", a high place where you can look far, or the act of watching for something. Do not mix it up with \"en udsigt\" (a view): the view is what you see, the lookout is where or how you look.",
+  "forms": [
+   {
+    "da": "et udkig",
+    "en": "a lookout"
+   },
+   {
+    "da": "udkiget",
+    "en": "the lookout"
+   },
+   {
+    "da": "på udkig efter",
+    "en": "on the lookout for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at spejde",
+    "en": "to scout"
+   },
+   {
+    "da": "at holde øje med",
+    "en": "to keep an eye on"
+   },
+   {
+    "da": "en vagt",
+    "en": "a guard"
+   }
+  ],
+  "sentence": {
+   "da": "Fra det høje **udkig** kunne vi se hele byen.",
+   "en": "From the high lookout we could see the whole city."
+  }
+ },
+ "udlændingepolitik": {
+  "file": "u.json",
+  "explanation": "\"En udlændingepolitik\" means \"an immigration policy\", a country's rules for which foreigners may enter, live and work there. It is built from udlænding (foreigner) and politik (policy).",
+  "forms": [
+   {
+    "da": "en udlændingepolitik",
+    "en": "an immigration policy"
+   },
+   {
+    "da": "udlændingepolitikken",
+    "en": "the immigration policy"
+   },
+   {
+    "da": "en stram udlændingepolitik",
+    "en": "a strict immigration policy"
+   }
+  ],
+  "related": [
+   {
+    "da": "en indvandrer",
+    "en": "an immigrant"
+   },
+   {
+    "da": "en asylpolitik",
+    "en": "an asylum policy"
+   },
+   {
+    "da": "en integrationspolitik",
+    "en": "an integration policy"
+   },
+   {
+    "da": "en opholdstilladelse",
+    "en": "a residence permit"
+   }
+  ],
+  "sentence": {
+   "da": "Regler om visum og ophold hører til **udlændingepolitik**.",
+   "en": "Rules about visas and residence belong to immigration policy."
+  }
+ },
+ "udmattet": {
+  "file": "u.json",
+  "explanation": "\"Udmattet\" means \"exhausted\", so tired that you have no energy left, usually after hard work or a long effort. It is much stronger than \"træt\" (tired).",
+  "forms": [
+   {
+    "da": "en udmattet løber",
+    "en": "an exhausted runner"
+   },
+   {
+    "da": "et udmattet barn",
+    "en": "an exhausted child"
+   },
+   {
+    "da": "udmattede soldater",
+    "en": "exhausted soldiers"
+   }
+  ],
+  "related": [
+   {
+    "da": "udkørt",
+    "en": "worn out"
+   },
+   {
+    "da": "en udmattelse",
+    "en": "an exhaustion"
+   },
+   {
+    "da": "at udmatte",
+    "en": "to wear out"
+   },
+   {
+    "da": "frisk",
+    "en": "fresh"
+   }
+  ],
+  "sentence": {
+   "da": "Hun var **udmattet** efter maratonløbet og kunne næsten ikke gå.",
+   "en": "She was exhausted after the marathon and could hardly walk."
+  }
+ },
+ "udmærket": {
+  "file": "u.json",
+  "explanation": "\"Udmærket\" means \"excellent\" and \"fine\". Said alone, it answers a suggestion: \"Kan vi mødes klokken ti?\" (Can we meet at ten?) \"Udmærket!\" (Fine!)",
+  "forms": [
+   {
+    "da": "en udmærket læge",
+    "en": "an excellent doctor"
+   },
+   {
+    "da": "et udmærket resultat",
+    "en": "an excellent result"
+   },
+   {
+    "da": "udmærkede resultater",
+    "en": "excellent results"
+   }
+  ],
+  "related": [
+   {
+    "da": "fremragende",
+    "en": "outstanding"
+   },
+   {
+    "da": "fin",
+    "en": "fine"
+   },
+   {
+    "da": "god",
+    "en": "good"
+   },
+   {
+    "da": "perfekt",
+    "en": "perfect"
+   }
+  ],
+  "sentence": {
+   "da": "Det er et **udmærket** sted at bo.",
+   "en": "It is an excellent place to live."
+  }
+ },
+ "udover": {
+  "file": "u.json",
+  "explanation": "\"Udover\" means \"besides\", adding something to what you already named. It can also mean \"beyond\", as in \"udover det sædvanlige\" (beyond the usual).",
+  "forms": [
+   {
+    "da": "udover mig",
+    "en": "besides me"
+   },
+   {
+    "da": "udover det",
+    "en": "besides that"
+   },
+   {
+    "da": "udover prisen",
+    "en": "besides the price"
+   }
+  ],
+  "related": [
+   {
+    "da": "ud over",
+    "en": "besides"
+   },
+   {
+    "da": "foruden",
+    "en": "besides"
+   },
+   {
+    "da": "derudover",
+    "en": "in addition"
+   },
+   {
+    "da": "også",
+    "en": "also"
+   }
+  ],
+  "sentence": {
+   "da": "**Udover** dansk taler hun også engelsk.",
+   "en": "Besides Danish, she also speaks English."
+  }
+ },
+ "udsat": {
+  "file": "u.json",
+  "explanation": "\"Udsat\" means \"exposed\", often with \"for\" (to): \"udsat for kulde\" (exposed to cold). It also means \"postponed\", for something moved to a later time: \"Mødet er udsat\" (The meeting is postponed). \"En udsat gruppe\" is a vulnerable group, one that is open to harm.",
+  "forms": [
+   {
+    "da": "en udsat gruppe",
+    "en": "a vulnerable group"
+   },
+   {
+    "da": "et udsat møde",
+    "en": "a postponed meeting"
+   },
+   {
+    "da": "udsatte børn",
+    "en": "vulnerable children"
+   }
+  ],
+  "related": [
+   {
+    "da": "sårbar",
+    "en": "vulnerable"
+   },
+   {
+    "da": "beskyttet",
+    "en": "protected"
+   },
+   {
+    "da": "at aflyse",
+    "en": "to cancel"
+   }
+  ],
+  "sentence": {
+   "da": "Fyret ligger helt ude i havet og er **udsat** for storm.",
+   "en": "The lighthouse lies far out in the sea and is exposed to storms."
+  }
+ },
+ "udsolgt": {
+  "file": "u.json",
+  "explanation": "\"Udsolgt\" means \"sold out\", with none left to buy: \"Koncerten er udsolgt\" (The concert is sold out). It is made of ud (out) and solgt (sold).",
+  "forms": [
+   {
+    "da": "en udsolgt vare",
+    "en": "a sold-out item"
+   },
+   {
+    "da": "et udsolgt show",
+    "en": "a sold-out show"
+   },
+   {
+    "da": "udsolgte billetter",
+    "en": "sold-out tickets"
+   }
+  ],
+  "related": [
+   {
+    "da": "på lager",
+    "en": "in stock"
+   },
+   {
+    "da": "at sælge",
+    "en": "to sell"
+   },
+   {
+    "da": "et udsalg",
+    "en": "a sale"
+   }
+  ],
+  "sentence": {
+   "da": "Der er ingen billetter. De er **udsolgt**.",
+   "en": "There are no tickets. They are sold out."
+  }
+ },
+ "udstyr": {
+  "file": "u.json",
+  "explanation": "\"Udstyr\" means \"equipment\", the things you need for an activity. You do not use an article with it, so leave out \"et\": \"Jeg har mit eget udstyr med\" (I have my own equipment with me).",
+  "forms": [
+   {
+    "da": "udstyr",
+    "en": "equipment"
+   },
+   {
+    "da": "udstyret",
+    "en": "the equipment"
+   },
+   {
+    "da": "godt udstyr",
+    "en": "good equipment"
+   },
+   {
+    "da": "en del af udstyret",
+    "en": "part of the equipment"
+   }
+  ],
+  "related": [
+   {
+    "da": "at udstyre",
+    "en": "to equip"
+   },
+   {
+    "da": "en udrustning",
+    "en": "equipment, gear"
+   },
+   {
+    "da": "et redskab",
+    "en": "a tool"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har telt og andet **udstyr** med.",
+   "en": "We brought a tent and other equipment."
+  }
+ },
+ "uduelig": {
+  "file": "u.json",
+  "explanation": "\"Uduelig\" means \"incompetent\", about someone who cannot do a task or a job properly. It is harsh about a person, so Danes often soften it: \"Han er ikke så god til det\" (He is not so good at it).",
+  "forms": [
+   {
+    "da": "en uduelig leder",
+    "en": "an incompetent leader"
+   },
+   {
+    "da": "uduelige ledere",
+    "en": "incompetent leaders"
+   },
+   {
+    "da": "et udueligt team",
+    "en": "an incompetent team"
+   }
+  ],
+  "related": [
+   {
+    "da": "duelig",
+    "en": "capable"
+   },
+   {
+    "da": "dygtig",
+    "en": "skilled"
+   },
+   {
+    "da": "udygtig",
+    "en": "unskilled"
+   },
+   {
+    "da": "klodset",
+    "en": "clumsy"
+   }
+  ],
+  "sentence": {
+   "da": "Han blev fyret, fordi han var **uduelig** som chef.",
+   "en": "He was fired because he was incompetent as a boss."
+  }
+ },
+ "udødelig": {
+  "file": "u.json",
+  "explanation": "\"Udødelig\" means \"immortal\", never dying. You also use it for a name or work that will never be forgotten: \"Shakespeares værker er udødelige\" (Shakespeare's works are immortal).",
+  "forms": [
+   {
+    "da": "en udødelig sjæl",
+    "en": "an immortal soul"
+   },
+   {
+    "da": "et udødeligt værk",
+    "en": "an immortal work"
+   },
+   {
+    "da": "udødelige guder",
+    "en": "immortal gods"
+   }
+  ],
+  "related": [
+   {
+    "da": "dødelig",
+    "en": "mortal"
+   },
+   {
+    "da": "en udødelighed",
+    "en": "immortality"
+   },
+   {
+    "da": "evig",
+    "en": "eternal"
+   }
+  ],
+  "sentence": {
+   "da": "I myten var guden **udødelig** og kunne aldrig dø.",
+   "en": "In the myth the god was immortal and could never die."
+  }
+ },
+ "uendelig": {
+  "file": "u.json",
+  "explanation": "\"Uendelig\" means \"infinite\" or \"endless\", without an end in space, time or amount. It can also strengthen a feeling: \"Jeg er uendelig taknemmelig\" (I am endlessly grateful).",
+  "forms": [
+   {
+    "da": "en uendelig kø",
+    "en": "an endless line"
+   },
+   {
+    "da": "et uendeligt hav",
+    "en": "an endless sea"
+   },
+   {
+    "da": "uendelige muligheder",
+    "en": "endless possibilities"
+   }
+  ],
+  "related": [
+   {
+    "da": "evig",
+    "en": "eternal"
+   },
+   {
+    "da": "grænseløs",
+    "en": "boundless"
+   },
+   {
+    "da": "en uendelighed",
+    "en": "an infinity"
+   }
+  ],
+  "sentence": {
+   "da": "Ventetiden føltes **uendelig**, fordi vi frøs i kulden.",
+   "en": "The wait felt endless because we were freezing in the cold."
+  }
+ },
+ "uenig": {
+  "file": "u.json",
+  "explanation": "\"Uenig\" means \"in disagreement\" and is used for people who do not think the same: \"Vi er uenige\" (We disagree). To say with whom, add \"med\" (with): \"Jeg er uenig med dig\" (I disagree with you). To say about what, add \"om\" (about): \"uenig om prisen\" (in disagreement about the price).",
+  "forms": [
+   {
+    "da": "en uenig kollega",
+    "en": "a colleague who disagrees"
+   },
+   {
+    "da": "et uenigt par",
+    "en": "a couple who disagree"
+   },
+   {
+    "da": "uenige politikere",
+    "en": "politicians who disagree"
+   }
+  ],
+  "related": [
+   {
+    "da": "enig",
+    "en": "in agreement"
+   },
+   {
+    "da": "en uenighed",
+    "en": "a disagreement"
+   },
+   {
+    "da": "at diskutere",
+    "en": "to discuss / argue"
+   },
+   {
+    "da": "en strid",
+    "en": "a quarrel"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **uenig** med dig i det.",
+   "en": "I disagree with you on that."
+  }
+ },
+ "uerfaren": {
+  "file": "u.json",
+  "explanation": "\"Uerfaren\" means \"inexperienced\", having little practice in something, so more likely to make mistakes.",
+  "forms": [
+   {
+    "da": "en uerfaren chauffør",
+    "en": "an inexperienced driver"
+   },
+   {
+    "da": "et uerfarent team",
+    "en": "an inexperienced team"
+   },
+   {
+    "da": "uerfarne elever",
+    "en": "inexperienced students"
+   }
+  ],
+  "related": [
+   {
+    "da": "erfaren",
+    "en": "experienced"
+   },
+   {
+    "da": "en erfaring",
+    "en": "an experience"
+   },
+   {
+    "da": "en nybegynder",
+    "en": "a beginner"
+   },
+   {
+    "da": "en lærling",
+    "en": "an apprentice"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **uerfaren** og har aldrig kørt på motorvej.",
+   "en": "He is inexperienced and has never driven on a highway."
+  }
+ },
+ "ufattelig": {
+  "file": "u.json",
+  "explanation": "\"Ufattelig\" means \"incredible\" or \"unbelievable\", too big, strange or shocking to take in. It can be good, as in \"ufattelig smuk\" (unbelievably beautiful), or sad, as in \"en ufattelig ulykke\" (an unthinkable accident).",
+  "forms": [
+   {
+    "da": "en ufattelig sorg",
+    "en": "an unthinkable sorrow"
+   },
+   {
+    "da": "et ufatteligt tal",
+    "en": "an incredible number"
+   },
+   {
+    "da": "ufattelige mængder",
+    "en": "incredible amounts"
+   }
+  ],
+  "related": [
+   {
+    "da": "fantastisk",
+    "en": "fantastic"
+   },
+   {
+    "da": "enorm",
+    "en": "huge"
+   },
+   {
+    "da": "forfærdelig",
+    "en": "terrible"
+   },
+   {
+    "da": "uforståelig",
+    "en": "incomprehensible"
+   }
+  ],
+  "sentence": {
+   "da": "Han tabte en **ufattelig** sum penge på én aften.",
+   "en": "He lost an incredible sum of money in one evening."
+  }
+ },
+ "uforglemmelig": {
+  "file": "u.json",
+  "explanation": "\"Uforglemmelig\" means \"unforgettable\", so special that you will remember it for a long time, such as a trip, a meal or a person.",
+  "forms": [
+   {
+    "da": "en uforglemmelig tur",
+    "en": "an unforgettable trip"
+   },
+   {
+    "da": "et uforglemmeligt øjeblik",
+    "en": "an unforgettable moment"
+   },
+   {
+    "da": "uforglemmelige ferier",
+    "en": "unforgettable vacations"
+   }
+  ],
+  "related": [
+   {
+    "da": "mindeværdig",
+    "en": "memorable"
+   },
+   {
+    "da": "et minde",
+    "en": "a memory"
+   },
+   {
+    "da": "enestående",
+    "en": "unique"
+   }
+  ],
+  "sentence": {
+   "da": "Hun gav os en **uforglemmelig** aften med god mad og musik.",
+   "en": "She gave us an unforgettable evening with good food and music."
+  }
+ },
+ "uformel": {
+  "file": "u.json",
+  "explanation": "\"Uformel\" means \"informal\", easygoing and without strict rules or fixed steps. \"Uformelt tøj\" means everyday clothes instead of a suit.",
+  "forms": [
+   {
+    "da": "en uformel samtale",
+    "en": "an informal conversation"
+   },
+   {
+    "da": "et uformelt møde",
+    "en": "an informal meeting"
+   },
+   {
+    "da": "uformelle regler",
+    "en": "informal rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "formel",
+    "en": "formal"
+   },
+   {
+    "da": "afslappet",
+    "en": "relaxed"
+   },
+   {
+    "da": "officiel",
+    "en": "official"
+   }
+  ],
+  "sentence": {
+   "da": "Til en **uformel** middag må man gerne komme i jeans.",
+   "en": "At an informal dinner you may come in jeans."
+  }
+ },
+ "uforskammet": {
+  "file": "u.json",
+  "explanation": "\"Uforskammet\" means \"rude\" or \"impertinent\", for someone who shows no respect, especially to an older person or to someone in charge. It can also stress a price: \"uforskammet dyrt\" (outrageously expensive).",
+  "forms": [
+   {
+    "da": "en uforskammet dreng",
+    "en": "a rude boy"
+   },
+   {
+    "da": "et uforskammet svar",
+    "en": "an impertinent answer"
+   },
+   {
+    "da": "uforskammede bemærkninger",
+    "en": "impertinent remarks"
+   }
+  ],
+  "related": [
+   {
+    "da": "fræk",
+    "en": "cheeky"
+   },
+   {
+    "da": "respektløs",
+    "en": "disrespectful"
+   },
+   {
+    "da": "uhøflig",
+    "en": "impolite"
+   },
+   {
+    "da": "en uforskammethed",
+    "en": "an impertinence"
+   }
+  ],
+  "sentence": {
+   "da": "Det var **uforskammet** af ham at svare sin mor sådan.",
+   "en": "It was impertinent of him to answer his mother like that."
+  }
+ },
+ "uforudsigelig": {
+  "file": "u.json",
+  "explanation": "\"Uforudsigelig\" means \"unpredictable\", so hard to know in advance what it will do.",
+  "forms": [
+   {
+    "da": "en uforudsigelig chef",
+    "en": "an unpredictable boss"
+   },
+   {
+    "da": "et uforudsigeligt vejr",
+    "en": "unpredictable weather"
+   },
+   {
+    "da": "uforudsigelige tider",
+    "en": "unpredictable times"
+   }
+  ],
+  "related": [
+   {
+    "da": "forudsigelig",
+    "en": "predictable"
+   },
+   {
+    "da": "en forudsigelse",
+    "en": "a prediction"
+   },
+   {
+    "da": "uventet",
+    "en": "unexpected"
+   },
+   {
+    "da": "tilfældig",
+    "en": "random"
+   }
+  ],
+  "sentence": {
+   "da": "En **uforudsigelig** hund kan skifte humør på et sekund.",
+   "en": "An unpredictable dog can change mood in a second."
+  }
+ },
+ "ugen efter": {
+  "file": "u.json",
+  "explanation": "\"Ugen efter\" means \"the week after\" something: \"Ugen efter festen var jeg syg\" (The week after the party I was sick). For the day after, say \"dagen efter\" (the day after).",
+  "forms": [
+   {
+    "da": "ugen efter ferien",
+    "en": "the week after the vacation"
+   },
+   {
+    "da": "Ugen efter rejste hun",
+    "en": "The week after, she left"
+   },
+   {
+    "da": "ugen efter jul",
+    "en": "the week after Christmas"
+   }
+  ],
+  "related": [
+   {
+    "da": "ugen før",
+    "en": "the week before"
+   },
+   {
+    "da": "året efter",
+    "en": "the year after"
+   },
+   {
+    "da": "næste uge",
+    "en": "next week"
+   },
+   {
+    "da": "måneden efter",
+    "en": "the month after"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er tilbage på arbejde **ugen efter** ferien.",
+   "en": "I am back at work the week after the vacation."
+  }
+ },
+ "ugevis": {
+  "file": "u.json",
+  "explanation": "\"Ugevis\" means \"for weeks\", used when something lasts a long time and you do not count the exact number of weeks: \"Vi ventede ugevis\" (We waited for weeks). It is built from en uge (a week) and the ending -vis, which makes it mean \"week after week\".",
+  "forms": [
+   {
+    "da": "vente ugevis",
+    "en": "to wait for weeks"
+   },
+   {
+    "da": "ugevis af regn",
+    "en": "weeks of rain"
+   },
+   {
+    "da": "ugevis uden svar",
+    "en": "weeks without an answer"
+   }
+  ],
+  "related": [
+   {
+    "da": "dagevis",
+    "en": "for days"
+   },
+   {
+    "da": "månedsvis",
+    "en": "for months"
+   },
+   {
+    "da": "årevis",
+    "en": "for years"
+   },
+   {
+    "da": "timevis",
+    "en": "for hours"
+   }
+  ],
+  "sentence": {
+   "da": "Når noget varer **ugevis**, tæller man ikke længere dagene.",
+   "en": "When something lasts for weeks, you stop counting the days."
+  }
+ },
+ "ugift": {
+  "file": "u.json",
+  "explanation": "\"Ugift\" means \"unmarried\", the opposite of \"gift\" (married). Putting u- in front of a word often makes its opposite, as in \"uvenlig\" (unfriendly), the opposite of \"venlig\" (friendly).",
+  "forms": [
+   {
+    "da": "en ugift mand",
+    "en": "an unmarried man"
+   },
+   {
+    "da": "et ugift par",
+    "en": "an unmarried couple"
+   },
+   {
+    "da": "ugifte mennesker",
+    "en": "unmarried people"
+   }
+  ],
+  "related": [
+   {
+    "da": "forlovet",
+    "en": "engaged"
+   },
+   {
+    "da": "single",
+    "en": "single (not in a relationship)"
+   },
+   {
+    "da": "skilt",
+    "en": "divorced"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **ugift** og har ingen kone.",
+   "en": "He is unmarried and has no wife."
+  }
+ },
+ "ugyldig": {
+  "file": "u.json",
+  "explanation": "\"Ugyldig\" means \"invalid\", not accepted because it breaks the rules or has run out of time: \"Billetten er ugyldig\" (The ticket is invalid).",
+  "forms": [
+   {
+    "da": "en ugyldig kode",
+    "en": "an invalid code"
+   },
+   {
+    "da": "et ugyldigt kørekort",
+    "en": "an invalid driver's license"
+   },
+   {
+    "da": "ugyldige stemmer",
+    "en": "invalid votes"
+   }
+  ],
+  "related": [
+   {
+    "da": "gyldig",
+    "en": "valid"
+   },
+   {
+    "da": "at annullere",
+    "en": "to cancel"
+   },
+   {
+    "da": "udløbet",
+    "en": "expired"
+   },
+   {
+    "da": "ulovlig",
+    "en": "illegal"
+   }
+  ],
+  "sentence": {
+   "da": "Billetten er **ugyldig**, fordi datoen er passeret.",
+   "en": "The ticket is invalid because the date has passed."
+  }
+ },
+ "uha": {
+  "file": "u.json",
+  "explanation": "\"Uha\" means \"oh dear\" and shows worry or unease: \"Uha, det ser dyrt ud!\" (Oh dear, that looks expensive!)",
+  "forms": [
+   {
+    "da": "Uha!",
+    "en": "Oh dear!"
+   },
+   {
+    "da": "Uha, det er koldt!",
+    "en": "Oh dear, it is cold!"
+   },
+   {
+    "da": "Uha, det ser svært ud.",
+    "en": "Oh dear, that looks hard."
+   }
+  ],
+  "related": [
+   {
+    "da": "av",
+    "en": "ouch"
+   },
+   {
+    "da": "ups",
+    "en": "oops"
+   },
+   {
+    "da": "føj",
+    "en": "yuck"
+   }
+  ],
+  "sentence": {
+   "da": "**Uha**, det her ser svært ud.",
+   "en": "Oh dear, this looks hard."
+  }
+ },
+ "uheldig": {
+  "file": "u.json",
+  "explanation": "\"Uheldig\" means \"unlucky\" when it is about a person's luck, and \"unfortunate\" when it is about something that turns out badly, such as a choice or a remark.",
+  "forms": [
+   {
+    "da": "en uheldig dag",
+    "en": "an unlucky day"
+   },
+   {
+    "da": "et uheldigt valg",
+    "en": "an unfortunate choice"
+   },
+   {
+    "da": "uheldige mennesker",
+    "en": "unlucky people"
+   }
+  ],
+  "related": [
+   {
+    "da": "heldig",
+    "en": "lucky"
+   },
+   {
+    "da": "held",
+    "en": "luck"
+   },
+   {
+    "da": "et uheld",
+    "en": "an accident, a mishap"
+   },
+   {
+    "da": "uheldigvis",
+    "en": "unfortunately"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg var **uheldig** og mistede min nøgle i går.",
+   "en": "I was unlucky and lost my key yesterday."
+  }
+ },
+ "uhyggelig": {
+  "file": "u.json",
+  "explanation": "\"Uhyggelig\" means \"creepy\" or \"scary\", making you feel uneasy. The opposite is \"hyggelig\" (cozy).",
+  "forms": [
+   {
+    "da": "en uhyggelig film",
+    "en": "a creepy movie"
+   },
+   {
+    "da": "et uhyggeligt sted",
+    "en": "a creepy place"
+   },
+   {
+    "da": "uhyggelige lyde",
+    "en": "creepy sounds"
+   }
+  ],
+  "related": [
+   {
+    "da": "ubehagelig",
+    "en": "unpleasant"
+   },
+   {
+    "da": "skræmmende",
+    "en": "frightening"
+   },
+   {
+    "da": "en uhygge",
+    "en": "a creepy feeling"
+   }
+  ],
+  "sentence": {
+   "da": "Skoven er mørk og **uhyggelig** om natten.",
+   "en": "The forest is dark and creepy at night."
+  }
+ },
+ "uhyre": {
+  "file": "u.json",
+  "explanation": "\"Uhyre\" means \"immensely\" and makes the word after it much stronger: \"uhyre vigtig\" (immensely important). As \"et uhyre\" it also means \"a monster\", a huge, frightening creature.",
+  "forms": [
+   {
+    "da": "uhyre stor",
+    "en": "immensely big"
+   },
+   {
+    "da": "uhyre sjælden",
+    "en": "extremely rare"
+   },
+   {
+    "da": "uhyre glad",
+    "en": "immensely happy"
+   }
+  ],
+  "related": [
+   {
+    "da": "overordentlig",
+    "en": "exceedingly"
+   },
+   {
+    "da": "ekstremt",
+    "en": "extremely"
+   },
+   {
+    "da": "uhyggelig",
+    "en": "creepy"
+   },
+   {
+    "da": "vældig",
+    "en": "tremendously"
+   }
+  ],
+  "sentence": {
+   "da": "Eventyret handler om et **uhyre** med tre hoveder.",
+   "en": "The fairy tale is about a monster with three heads."
+  }
+ },
+ "uhøflig": {
+  "file": "u.json",
+  "explanation": "\"Uhøflig\" means \"rude\", the opposite of \"høflig\" (polite).",
+  "forms": [
+   {
+    "da": "en uhøflig mand",
+    "en": "a rude man"
+   },
+   {
+    "da": "et uhøfligt svar",
+    "en": "a rude answer"
+   },
+   {
+    "da": "uhøflige børn",
+    "en": "rude children"
+   }
+  ],
+  "related": [
+   {
+    "da": "grov",
+    "en": "coarse, rude"
+   },
+   {
+    "da": "uforskammet",
+    "en": "impudent"
+   },
+   {
+    "da": "en uhøflighed",
+    "en": "a rudeness"
+   }
+  ],
+  "sentence": {
+   "da": "Han var meget **uhøflig** mod tjeneren.",
+   "en": "He was very rude to the waiter."
+  }
+ },
+ "ukendt": {
+  "file": "u.json",
+  "explanation": "\"Ukendt\" means \"unknown\", used for a person, place or thing you have no information about. It is \"kendt\" (known) with u- (un-) in front.",
+  "forms": [
+   {
+    "da": "en ukendt mand",
+    "en": "an unknown man"
+   },
+   {
+    "da": "et ukendt sted",
+    "en": "an unknown place"
+   },
+   {
+    "da": "ukendte navne",
+    "en": "unknown names"
+   }
+  ],
+  "related": [
+   {
+    "da": "fremmed",
+    "en": "foreign, unfamiliar"
+   },
+   {
+    "da": "anonym",
+    "en": "anonymous"
+   },
+   {
+    "da": "navnløs",
+    "en": "nameless"
+   },
+   {
+    "da": "bekendt",
+    "en": "familiar"
+   }
+  ],
+  "sentence": {
+   "da": "Brevet kom fra en **ukendt** afsender.",
+   "en": "The letter came from an unknown sender."
+  }
+ },
+ "ukraine": {
+  "file": "u.json",
+  "explanation": "\"Ukraine\" means \"Ukraine\". Countries take \"i\" (in) for being there and \"til\" (to) for going there: \"Jeg bor i Ukraine\" (I live in Ukraine), \"Vi rejser til Ukraine\" (We travel to Ukraine).",
+  "forms": [
+   {
+    "da": "Ukraine",
+    "en": "Ukraine"
+   },
+   {
+    "da": "i Ukraine",
+    "en": "in Ukraine"
+   },
+   {
+    "da": "til Ukraine",
+    "en": "to Ukraine"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ukrainer",
+    "en": "a Ukrainian"
+   },
+   {
+    "da": "ukrainsk",
+    "en": "Ukrainian"
+   },
+   {
+    "da": "Kyiv",
+    "en": "Kyiv (the capital)"
+   }
+  ],
+  "sentence": {
+   "da": "Kyiv er en stor by i **Ukraine**.",
+   "en": "Kyiv is a big city in Ukraine."
+  }
+ },
+ "ukrainsk": {
+  "file": "u.json",
+  "explanation": "\"Ukrainsk\" means \"Ukrainian\", for people, things and the language. It is written with a lowercase letter, where English uses an uppercase letter.",
+  "forms": [
+   {
+    "da": "en ukrainsk by",
+    "en": "a Ukrainian city"
+   },
+   {
+    "da": "et ukrainsk sprog",
+    "en": "a Ukrainian language"
+   },
+   {
+    "da": "ukrainske flygtninge",
+    "en": "Ukrainian refugees"
+   }
+  ],
+  "related": [
+   {
+    "da": "Ukraine",
+    "en": "Ukraine"
+   },
+   {
+    "da": "en ukrainer",
+    "en": "a Ukrainian"
+   },
+   {
+    "da": "russisk",
+    "en": "Russian"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kommer fra Ukraine og taler **ukrainsk**.",
+   "en": "She comes from Ukraine and speaks Ukrainian."
+  }
+ },
+ "ukrudt": {
+  "file": "u.json",
+  "explanation": "\"Ukrudt\" means \"weeds\", plants that grow where you do not want them, for example in a garden or between paving stones. You do not use an article with it, so leave out \"et\": \"Der er meget ukrudt i haven\" (There are a lot of weeds in the garden).",
+  "forms": [
+   {
+    "da": "ukrudt",
+    "en": "weeds"
+   },
+   {
+    "da": "ukrudtet",
+    "en": "the weeds"
+   },
+   {
+    "da": "at luge ukrudt",
+    "en": "to pull weeds"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mælkebøtte",
+    "en": "a dandelion"
+   },
+   {
+    "da": "en brændenælde",
+    "en": "a nettle"
+   },
+   {
+    "da": "et græs",
+    "en": "a grass"
+   },
+   {
+    "da": "at luge",
+    "en": "to weed"
+   }
+  ],
+  "sentence": {
+   "da": "Vi fjernede **ukrudt** fra bedene, så blomsterne fik plads.",
+   "en": "We removed weeds from the beds so the flowers got room."
+  }
+ },
+ "uld": {
+  "file": "u.json",
+  "explanation": "\"Uld\" means \"wool\", the warm material that is used for winter clothes and blankets.",
+  "forms": [
+   {
+    "da": "en uldtrøje",
+    "en": "a wool sweater"
+   },
+   {
+    "da": "ren uld",
+    "en": "pure wool"
+   },
+   {
+    "da": "en uldsok",
+    "en": "a wool sock"
+   }
+  ],
+  "related": [
+   {
+    "da": "et får",
+    "en": "a sheep"
+   },
+   {
+    "da": "bomuld",
+    "en": "cotton"
+   },
+   {
+    "da": "silke",
+    "en": "silk"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil have en trøje af **uld**, fordi den er varm.",
+   "en": "I want a sweater made of wool because it is warm."
+  }
+ },
+ "ulige": {
+  "file": "u.json",
+  "explanation": "\"Ulige\" means \"odd\" for a number that cannot be split into two equal halves, such as 3 and 7. It also means \"unequal\", for example when two sides are far from equal in strength.",
+  "forms": [
+   {
+    "da": "et ulige tal",
+    "en": "an odd number"
+   },
+   {
+    "da": "ulige tal",
+    "en": "odd numbers"
+   },
+   {
+    "da": "en ulige kamp",
+    "en": "an unequal fight"
+   }
+  ],
+  "related": [
+   {
+    "da": "lige",
+    "en": "even (number)"
+   },
+   {
+    "da": "ens",
+    "en": "identical"
+   },
+   {
+    "da": "forskellig",
+    "en": "different"
+   },
+   {
+    "da": "en ulighed",
+    "en": "a disparity"
+   }
+  ],
+  "sentence": {
+   "da": "Tallene tre og fem er **ulige**, men fire er lige.",
+   "en": "The numbers three and five are odd, but four is even."
+  }
+ },
+ "ulovlig": {
+  "file": "u.json",
+  "explanation": "\"Ulovlig\" means \"illegal\", against the law. The u- in front makes it the opposite of \"lovlig\" (legal).",
+  "forms": [
+   {
+    "da": "en ulovlig handling",
+    "en": "an illegal act"
+   },
+   {
+    "da": "et ulovligt køb",
+    "en": "an illegal purchase"
+   },
+   {
+    "da": "ulovlige våben",
+    "en": "illegal weapons"
+   }
+  ],
+  "related": [
+   {
+    "da": "forbudt",
+    "en": "forbidden"
+   },
+   {
+    "da": "en lov",
+    "en": "a law"
+   },
+   {
+    "da": "kriminel",
+    "en": "criminal"
+   },
+   {
+    "da": "tilladt",
+    "en": "allowed"
+   }
+  ],
+  "sentence": {
+   "da": "En **ulovlig** handling kan give en bøde.",
+   "en": "An illegal act can lead to a fine."
+  }
+ },
+ "ultimativ": {
+  "file": "u.json",
+  "explanation": "\"Ultimativ\" means \"ultimate\", the best or most complete version of something. You also use it for a demand that leaves no room to negotiate: \"et ultimativt krav\" (a final demand).",
+  "forms": [
+   {
+    "da": "en ultimativ test",
+    "en": "an ultimate test"
+   },
+   {
+    "da": "et ultimativt krav",
+    "en": "a final demand"
+   },
+   {
+    "da": "ultimative løsninger",
+    "en": "ultimate solutions"
+   }
+  ],
+  "related": [
+   {
+    "da": "et ultimatum",
+    "en": "an ultimatum"
+   },
+   {
+    "da": "endelig",
+    "en": "final"
+   },
+   {
+    "da": "afgørende",
+    "en": "decisive"
+   },
+   {
+    "da": "perfekt",
+    "en": "perfect"
+   }
+  ],
+  "sentence": {
+   "da": "Et maratonløb er en **ultimativ** test af, hvor meget man kan holde ud.",
+   "en": "A marathon is the ultimate test of how much you can endure."
+  }
+ },
+ "ulydig": {
+  "file": "u.json",
+  "explanation": "\"Ulydig\" means \"disobedient\", about someone who does not do what they are told, such as a child or a dog. It is the opposite of \"lydig\" (obedient), and u- at the start of a word often gives the opposite meaning.",
+  "forms": [
+   {
+    "da": "en ulydig hund",
+    "en": "a disobedient dog"
+   },
+   {
+    "da": "et ulydigt barn",
+    "en": "a disobedient child"
+   },
+   {
+    "da": "ulydige elever",
+    "en": "disobedient pupils"
+   }
+  ],
+  "related": [
+   {
+    "da": "at adlyde",
+    "en": "to obey"
+   },
+   {
+    "da": "uartig",
+    "en": "naughty"
+   },
+   {
+    "da": "stædig",
+    "en": "stubborn"
+   },
+   {
+    "da": "genstridig",
+    "en": "defiant"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden er **ulydig** og kommer ikke, når jeg kalder.",
+   "en": "The dog is disobedient and does not come when I call."
+  }
+ },
+ "ulykkelig": {
+  "file": "u.json",
+  "explanation": "\"Ulykkelig\" means \"unhappy\", and it is a strong word for deep sadness, not just a bad mood. You say it about being miserable after a breakup: \"Han er ulykkelig efter bruddet\" (He is unhappy after the breakup).",
+  "forms": [
+   {
+    "da": "en ulykkelig mand",
+    "en": "an unhappy man"
+   },
+   {
+    "da": "et ulykkeligt barn",
+    "en": "an unhappy child"
+   },
+   {
+    "da": "ulykkelige mennesker",
+    "en": "unhappy people"
+   }
+  ],
+  "related": [
+   {
+    "da": "lykkelig",
+    "en": "happy"
+   },
+   {
+    "da": "trist",
+    "en": "sad"
+   },
+   {
+    "da": "ked af det",
+    "en": "sad, upset"
+   },
+   {
+    "da": "en ulykke",
+    "en": "an accident / misfortune"
+   }
+  ],
+  "sentence": {
+   "da": "Hun var **ulykkelig**, fordi hun savnede sin familie.",
+   "en": "She was unhappy because she missed her family."
+  }
+ },
+ "ulækker": {
+  "file": "u.json",
+  "explanation": "\"Ulækker\" means \"disgusting\", for things such as food, smells and anything that makes you feel sick. Its opposite is \"lækker\" (tasty, nice).",
+  "forms": [
+   {
+    "da": "en ulækker lugt",
+    "en": "a disgusting smell"
+   },
+   {
+    "da": "et ulækkert syn",
+    "en": "a disgusting sight"
+   },
+   {
+    "da": "ulækre sko",
+    "en": "disgusting shoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "klam",
+    "en": "gross"
+   },
+   {
+    "da": "ækel",
+    "en": "nasty"
+   },
+   {
+    "da": "væmmelig",
+    "en": "revolting"
+   },
+   {
+    "da": "appetitlig",
+    "en": "appetizing"
+   }
+  ],
+  "sentence": {
+   "da": "Den gamle mælk er **ulækker**, og jeg drikker den ikke.",
+   "en": "The old milk is disgusting, and I do not drink it."
+  }
+ },
+ "umiddelbart": {
+  "file": "u.json",
+  "explanation": "\"Umiddelbart\" means \"at first sight\", before you look closer. Before \"efter\" (after), it means \"right\": \"umiddelbart efter mødet\" (right after the meeting).",
+  "forms": [
+   {
+    "da": "Umiddelbart virker det fint",
+    "en": "At first sight it seems fine"
+   },
+   {
+    "da": "umiddelbart efter mødet",
+    "en": "right after the meeting"
+   },
+   {
+    "da": "umiddelbart før jul",
+    "en": "right before Christmas"
+   }
+  ],
+  "related": [
+   {
+    "da": "tilsyneladende",
+    "en": "apparently"
+   },
+   {
+    "da": "straks",
+    "en": "at once"
+   },
+   {
+    "da": "med det samme",
+    "en": "instantly"
+   },
+   {
+    "da": "direkte",
+    "en": "directly"
+   }
+  ],
+  "sentence": {
+   "da": "**Umiddelbart** ser huset pænt ud, men taget er gammelt.",
+   "en": "At first sight the house looks nice, but the roof is old."
+  }
+ },
+ "umoden": {
+  "file": "u.json",
+  "explanation": "\"Umoden\" means \"immature\", about a person who acts younger than their age, and \"unripe\" about fruit that is not ready to eat.",
+  "forms": [
+   {
+    "da": "en umoden adfærd",
+    "en": "immature behavior"
+   },
+   {
+    "da": "et umodent æble",
+    "en": "an unripe apple"
+   },
+   {
+    "da": "umodne frugter",
+    "en": "unripe fruit"
+   }
+  ],
+  "related": [
+   {
+    "da": "moden",
+    "en": "ripe / grown-up"
+   },
+   {
+    "da": "barnlig",
+    "en": "childish"
+   },
+   {
+    "da": "uerfaren",
+    "en": "inexperienced"
+   },
+   {
+    "da": "en modenhed",
+    "en": "maturity"
+   }
+  ],
+  "sentence": {
+   "da": "Den grønne pære er **umoden**, så den smager surt.",
+   "en": "The green pear is unripe, so it tastes sour."
+  }
+ },
+ "umulig": {
+  "file": "u.json",
+  "explanation": "\"Umulig\" means \"impossible\". For a person, it means hard to deal with: \"Du er umulig!\" (You are impossible!)",
+  "forms": [
+   {
+    "da": "en umulig plan",
+    "en": "an impossible plan"
+   },
+   {
+    "da": "et umuligt mål",
+    "en": "an impossible goal"
+   },
+   {
+    "da": "umulige krav",
+    "en": "impossible demands"
+   }
+  ],
+  "related": [
+   {
+    "da": "mulig",
+    "en": "possible"
+   },
+   {
+    "da": "svær",
+    "en": "difficult"
+   },
+   {
+    "da": "håbløs",
+    "en": "hopeless"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **umulig** opgave på én dag.",
+   "en": "It is an impossible task in one day."
+  }
+ },
+ "under": {
+  "file": "u.json",
+  "explanation": "\"Under\" means \"under\" or \"during\". For a place: \"Katten sover under sengen\" (The cat sleeps under the bed). For a time: \"under ferien\" (during the holiday). With numbers, it means \"less than\": \"under ti\" (under ten).",
+  "forms": [
+   {
+    "da": "under bordet",
+    "en": "under the table"
+   },
+   {
+    "da": "under ferien",
+    "en": "during the holiday"
+   },
+   {
+    "da": "under ti",
+    "en": "under ten"
+   }
+  ],
+  "related": [
+   {
+    "da": "over",
+    "en": "over"
+   },
+   {
+    "da": "nedenunder",
+    "en": "underneath"
+   },
+   {
+    "da": "i løbet af",
+    "en": "during"
+   }
+  ],
+  "sentence": {
+   "da": "Katten sover **under** sengen.",
+   "en": "The cat sleeps under the bed."
+  }
+ },
+ "under alle omstændigheder": {
+  "file": "u.json",
+  "explanation": "\"Under alle omstændigheder\" means \"in any case\", whatever happens. To forbid something, Danes say \"under ingen omstændigheder\" (under no circumstances).",
+  "forms": [
+   {
+    "da": "Jeg kommer under alle omstændigheder",
+    "en": "I am coming in any case"
+   },
+   {
+    "da": "Det skal ske under alle omstændigheder",
+    "en": "It must happen no matter what"
+   },
+   {
+    "da": "under alle omstændigheder skal du ringe",
+    "en": "in any case you must call"
+   }
+  ],
+  "related": [
+   {
+    "da": "i hvert fald",
+    "en": "at least / anyway"
+   },
+   {
+    "da": "uanset",
+    "en": "regardless"
+   },
+   {
+    "da": "alligevel",
+    "en": "still"
+   },
+   {
+    "da": "for enhver pris",
+    "en": "at any price"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **under alle omstændigheder** nå flyet i morgen.",
+   "en": "We must catch the plane tomorrow no matter what."
+  }
+ },
+ "underbukser": {
+  "file": "u.json",
+  "explanation": "\"Underbukser\" means \"underpants\". It is built from under (under) and bukser (pants), and like \"bukser\" it is usually used in the plural.",
+  "forms": [
+   {
+    "da": "underbukser",
+    "en": "underpants"
+   },
+   {
+    "da": "underbukserne",
+    "en": "the underpants"
+   },
+   {
+    "da": "et par underbukser",
+    "en": "a pair of underpants"
+   }
+  ],
+  "related": [
+   {
+    "da": "boxershorts",
+    "en": "boxer shorts"
+   },
+   {
+    "da": "trusser",
+    "en": "panties (women's)"
+   },
+   {
+    "da": "undertøj",
+    "en": "underwear"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **underbukser** på under bukserne.",
+   "en": "I wear underpants under my pants."
+  }
+ },
+ "underholdende": {
+  "file": "u.json",
+  "explanation": "\"Underholdende\" means \"entertaining\", about something that is fun to watch, hear or read, or someone who is fun to be around. It comes from \"at underholde\" (to entertain).",
+  "forms": [
+   {
+    "da": "en underholdende film",
+    "en": "an entertaining film"
+   },
+   {
+    "da": "et underholdende show",
+    "en": "an entertaining show"
+   },
+   {
+    "da": "underholdende bøger",
+    "en": "entertaining books"
+   }
+  ],
+  "related": [
+   {
+    "da": "en underholdning",
+    "en": "entertainment"
+   },
+   {
+    "da": "morsom",
+    "en": "funny"
+   },
+   {
+    "da": "spændende",
+    "en": "exciting"
+   },
+   {
+    "da": "kedelig",
+    "en": "boring"
+   }
+  ],
+  "sentence": {
+   "da": "Bogen er **underholdende**, så jeg læste den på én dag.",
+   "en": "The book is entertaining, so I read it in one day."
+  }
+ },
+ "underholdning": {
+  "file": "u.json",
+  "explanation": "\"En underholdning\" means \"entertainment\", things made to be watched or heard for fun, such as films, music and shows. It is usually said without \"en\": \"Der er gratis underholdning\" (There is free entertainment).",
+  "forms": [
+   {
+    "da": "en underholdning",
+    "en": "entertainment"
+   },
+   {
+    "da": "underholdningen",
+    "en": "the entertainment"
+   },
+   {
+    "da": "underholdninger",
+    "en": "entertainments"
+   },
+   {
+    "da": "underholdningerne",
+    "en": "the entertainments"
+   }
+  ],
+  "related": [
+   {
+    "da": "at underholde",
+    "en": "to entertain"
+   },
+   {
+    "da": "underholdende",
+    "en": "entertaining"
+   },
+   {
+    "da": "en forlystelse",
+    "en": "an amusement"
+   },
+   {
+    "da": "en fornøjelse",
+    "en": "a pleasure"
+   }
+  ],
+  "sentence": {
+   "da": "Musik og dans er god **underholdning** til festen.",
+   "en": "Music and dance are good entertainment for the party."
+  }
+ },
+ "underlig": {
+  "file": "u.json",
+  "explanation": "\"Underlig\" means \"strange\" or \"weird\", for things and people that feel wrong or hard to explain.",
+  "forms": [
+   {
+    "da": "en underlig lugt",
+    "en": "a weird smell"
+   },
+   {
+    "da": "et underligt navn",
+    "en": "a strange name"
+   },
+   {
+    "da": "underlige folk",
+    "en": "weird people"
+   }
+  ],
+  "related": [
+   {
+    "da": "mærkelig",
+    "en": "strange"
+   },
+   {
+    "da": "sær",
+    "en": "odd"
+   },
+   {
+    "da": "mystisk",
+    "en": "mysterious"
+   },
+   {
+    "da": "normal",
+    "en": "normal"
+   }
+  ],
+  "sentence": {
+   "da": "Min nabo er **underlig**, fordi han aldrig taler.",
+   "en": "My neighbor is strange because he never talks."
+  }
+ },
+ "undertøj": {
+  "file": "u.json",
+  "explanation": "\"Undertøj\" means \"underwear\". It is built from under (under) and tøj (clothes). You do not use an article with it, so leave out \"et\": \"Jeg har købt nyt undertøj\" (I bought new underwear).",
+  "forms": [
+   {
+    "da": "undertøj",
+    "en": "underwear"
+   },
+   {
+    "da": "mit undertøj",
+    "en": "my underwear"
+   },
+   {
+    "da": "undertøjet",
+    "en": "the underwear"
+   }
+  ],
+  "related": [
+   {
+    "da": "nattøj",
+    "en": "nightwear"
+   },
+   {
+    "da": "underbukser",
+    "en": "underpants"
+   },
+   {
+    "da": "trusser",
+    "en": "panties / briefs"
+   },
+   {
+    "da": "badetøj",
+    "en": "swimwear"
+   }
+  ],
+  "sentence": {
+   "da": "Man har **undertøj** på under tøjet.",
+   "en": "You wear underwear under your clothes."
+  }
+ },
+ "undervejs": {
+  "file": "u.json",
+  "explanation": "\"Undervejs\" means \"along the way\", while you are traveling or in the middle of a process. When you name where you are going, Danes use \"på vej\" (on the way): \"på vej til skolen\" (on the way to school).",
+  "forms": [
+   {
+    "da": "Vi spiser undervejs",
+    "en": "We eat along the way"
+   },
+   {
+    "da": "Pakken er undervejs",
+    "en": "The package is on its way"
+   },
+   {
+    "da": "Jeg lærer meget undervejs",
+    "en": "I learn a lot along the way"
+   }
+  ],
+  "related": [
+   {
+    "da": "midtvejs",
+    "en": "halfway"
+   },
+   {
+    "da": "hele vejen",
+    "en": "all the way"
+   },
+   {
+    "da": "på farten",
+    "en": "on the go"
+   },
+   {
+    "da": "en omvej",
+    "en": "a detour"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiste frokost **undervejs**, fordi turen var lang.",
+   "en": "We ate lunch along the way because the trip was long."
+  }
+ },
+ "undervisning": {
+  "file": "u.json",
+  "explanation": "\"Undervisning\" means \"teaching\", the work a teacher does with students in a school or a training program. It is used without \"en\": \"Undervisningen begynder klokken otte\" (Classes begin at eight).",
+  "forms": [
+   {
+    "da": "undervisning",
+    "en": "teaching"
+   },
+   {
+    "da": "undervisningen",
+    "en": "the teaching"
+   },
+   {
+    "da": "undervisning i dansk",
+    "en": "Danish lessons"
+   }
+  ],
+  "related": [
+   {
+    "da": "at undervise",
+    "en": "to teach"
+   },
+   {
+    "da": "et kursus",
+    "en": "a course"
+   },
+   {
+    "da": "en uddannelse",
+    "en": "an education"
+   },
+   {
+    "da": "en elev",
+    "en": "a pupil"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren giver **undervisning** i dansk hver mandag.",
+   "en": "The teacher gives Danish lessons every Monday."
+  }
+ },
+ "undskyld": {
+  "file": "u.json",
+  "explanation": "\"Undskyld\" means both \"sorry\" and \"excuse me\". You use it to apologize: \"Undskyld, jeg kom for sent\" (Sorry, I came too late). You also use it to get someone's attention politely: \"Undskyld, må jeg komme forbi?\" (Excuse me, may I get past?). Said as a question, \"Undskyld?\" means \"Pardon?\" when you did not hear.",
+  "forms": [
+   {
+    "da": "Undskyld!",
+    "en": "Sorry! / Excuse me!"
+   },
+   {
+    "da": "Undskyld, hvor er stationen?",
+    "en": "Excuse me, where is the station?"
+   },
+   {
+    "da": "Undskyld, jeg er for sen.",
+    "en": "Sorry, I am late."
+   }
+  ],
+  "related": [
+   {
+    "da": "beklager",
+    "en": "I'm sorry (more formal)"
+   },
+   {
+    "da": "en undskyldning",
+    "en": "an apology"
+   },
+   {
+    "da": "undskyld mig",
+    "en": "excuse me"
+   }
+  ],
+  "sentence": {
+   "da": "**Undskyld**, hvor er toilettet?",
+   "en": "Excuse me, where is the toilet?"
+  }
+ },
+ "undskyld mig": {
+  "file": "u.json",
+  "explanation": "\"Undskyld mig\" means \"excuse me\" and is used to get someone's attention or to pass by. Danes often shorten it to \"undskyld\" (sorry), which works for apologizing too.",
+  "forms": [
+   {
+    "da": "Undskyld mig!",
+    "en": "Excuse me!"
+   },
+   {
+    "da": "Undskyld mig, hvor er stationen?",
+    "en": "Excuse me, where is the station?"
+   },
+   {
+    "da": "Undskyld, jeg kom for sent.",
+    "en": "Sorry, I was late."
+   }
+  ],
+  "related": [
+   {
+    "da": "beklager",
+    "en": "I'm sorry (formal)"
+   },
+   {
+    "da": "en undskyldning",
+    "en": "an apology"
+   },
+   {
+    "da": "det gør ikke noget",
+    "en": "it doesn't matter"
+   }
+  ],
+  "sentence": {
+   "da": "**Undskyld mig**, må jeg komme forbi?",
+   "en": "Excuse me, may I get past?"
+  }
+ },
+ "undtagen": {
+  "file": "u.json",
+  "explanation": "\"Undtagen\" means \"except\".",
+  "forms": [
+   {
+    "da": "undtagen mig",
+    "en": "except me"
+   },
+   {
+    "da": "undtagen søndag",
+    "en": "except Sunday"
+   },
+   {
+    "da": "undtagen ham",
+    "en": "except him"
+   }
+  ],
+  "related": [
+   {
+    "da": "en undtagelse",
+    "en": "an exception"
+   },
+   {
+    "da": "bortset fra",
+    "en": "apart from"
+   },
+   {
+    "da": "uden",
+    "en": "without"
+   },
+   {
+    "da": "ud over",
+    "en": "besides"
+   }
+  ],
+  "sentence": {
+   "da": "Alle kom, **undtagen** min bror.",
+   "en": "Everyone came, except my brother."
+  }
+ },
+ "undvigende": {
+  "file": "u.json",
+  "explanation": "\"Undvigende\" means \"evasive\", about a person or a reply that avoids getting to the point. It comes from \"at undvige\" (to dodge).",
+  "forms": [
+   {
+    "da": "et undvigende svar",
+    "en": "an evasive answer"
+   },
+   {
+    "da": "en undvigende holdning",
+    "en": "an evasive attitude"
+   },
+   {
+    "da": "undvigende blikke",
+    "en": "evasive looks"
+   }
+  ],
+  "related": [
+   {
+    "da": "direkte",
+    "en": "direct"
+   },
+   {
+    "da": "ligefrem",
+    "en": "straightforward"
+   },
+   {
+    "da": "åbenhjertig",
+    "en": "candid"
+   },
+   {
+    "da": "tøvende",
+    "en": "hesitant"
+   }
+  ],
+  "sentence": {
+   "da": "Han var **undvigende**, da jeg spurgte, hvor han havde været.",
+   "en": "He was evasive when I asked where he had been."
+  }
+ },
+ "ung": {
+  "file": "u.json",
+  "explanation": "\"Ung\" means \"young\".",
+  "forms": [
+   {
+    "da": "en ung pige",
+    "en": "a young girl"
+   },
+   {
+    "da": "et ungt menneske",
+    "en": "a young person"
+   },
+   {
+    "da": "unge mennesker",
+    "en": "young people"
+   }
+  ],
+  "related": [
+   {
+    "da": "gammel",
+    "en": "old"
+   },
+   {
+    "da": "en ungdom",
+    "en": "youth"
+   },
+   {
+    "da": "yngre",
+    "en": "younger"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er femten år. Hun er **ung**.",
+   "en": "She is fifteen years old. She is young."
+  }
+ },
+ "ungdom": {
+  "file": "u.json",
+  "explanation": "\"Ungdom\" means \"youth\", the years between being a child and being an adult.",
+  "forms": [
+   {
+    "da": "i min ungdom",
+    "en": "in my youth"
+   },
+   {
+    "da": "ungdomsårene",
+    "en": "the years of youth"
+   },
+   {
+    "da": "ungdommen i dag",
+    "en": "the youth of today"
+   }
+  ],
+  "related": [
+   {
+    "da": "ung",
+    "en": "young"
+   },
+   {
+    "da": "en teenager",
+    "en": "a teenager"
+   },
+   {
+    "da": "at vokse op",
+    "en": "to grow up"
+   },
+   {
+    "da": "alderdom",
+    "en": "old age"
+   }
+  ],
+  "sentence": {
+   "da": "I min **ungdom** spillede jeg meget fodbold.",
+   "en": "In my youth I played a lot of soccer."
+  }
+ },
+ "unik": {
+  "file": "u.json",
+  "explanation": "\"Unik\" means \"unique\", something that exists only once or has no equal. Use it as praise for something that stands out: \"Det er en unik chance\" (It is a unique chance).",
+  "forms": [
+   {
+    "da": "en unik chance",
+    "en": "a unique chance"
+   },
+   {
+    "da": "et unikt hus",
+    "en": "a unique house"
+   },
+   {
+    "da": "unikke ting",
+    "en": "unique things"
+   }
+  ],
+  "related": [
+   {
+    "da": "enestående",
+    "en": "outstanding"
+   },
+   {
+    "da": "sjælden",
+    "en": "rare"
+   },
+   {
+    "da": "speciel",
+    "en": "special"
+   },
+   {
+    "da": "et unikum",
+    "en": "a one-of-a-kind person"
+   }
+  ],
+  "sentence": {
+   "da": "Din stemme er **unik**, fordi ingen andre lyder som dig.",
+   "en": "Your voice is unique because no one else sounds like you."
+  }
+ },
+ "unødvendig": {
+  "file": "u.json",
+  "explanation": "\"Unødvendig\" means \"unnecessary\", about something you could do without.",
+  "forms": [
+   {
+    "da": "en unødvendig risiko",
+    "en": "an unnecessary risk"
+   },
+   {
+    "da": "et unødvendigt køb",
+    "en": "an unnecessary purchase"
+   },
+   {
+    "da": "unødvendige ting",
+    "en": "unnecessary things"
+   }
+  ],
+  "related": [
+   {
+    "da": "nødvendig",
+    "en": "necessary"
+   },
+   {
+    "da": "unødig",
+    "en": "needless"
+   },
+   {
+    "da": "en nødvendighed",
+    "en": "a necessity"
+   },
+   {
+    "da": "uundværlig",
+    "en": "indispensable"
+   }
+  ],
+  "sentence": {
+   "da": "Din bekymring er **unødvendig**, fordi alt er i orden.",
+   "en": "Your worry is unnecessary because everything is fine."
+  }
+ },
+ "uovervindelig": {
+  "file": "u.json",
+  "explanation": "\"Uovervindelig\" means \"invincible\", so strong that nothing can beat it. It is built from u- (not), at overvinde (to overcome) and -elig (can be), and the same -elig is in \"ubegribelig\" (incomprehensible).",
+  "forms": [
+   {
+    "da": "en uovervindelig hær",
+    "en": "an invincible army"
+   },
+   {
+    "da": "et uovervindeligt hold",
+    "en": "an invincible team"
+   },
+   {
+    "da": "uovervindelige mure",
+    "en": "invincible walls"
+   }
+  ],
+  "related": [
+   {
+    "da": "ubesejret",
+    "en": "undefeated"
+   },
+   {
+    "da": "usårlig",
+    "en": "invulnerable"
+   },
+   {
+    "da": "uslåelig",
+    "en": "unbeatable"
+   },
+   {
+    "da": "svag",
+    "en": "weak"
+   }
+  ],
+  "sentence": {
+   "da": "Hæren virkede **uovervindelig**, fordi den aldrig havde tabt.",
+   "en": "The army seemed invincible because it had never lost."
+  }
+ },
+ "upassende": {
+  "file": "u.json",
+  "explanation": "\"Upassende\" means \"inappropriate\", not right for the situation or the people there: \"upassende tøj til en begravelse\" (inappropriate clothes for a funeral).",
+  "forms": [
+   {
+    "da": "en upassende joke",
+    "en": "an inappropriate joke"
+   },
+   {
+    "da": "et upassende svar",
+    "en": "an inappropriate answer"
+   },
+   {
+    "da": "upassende kommentarer",
+    "en": "inappropriate comments"
+   }
+  ],
+  "related": [
+   {
+    "da": "passende",
+    "en": "suitable"
+   },
+   {
+    "da": "uhøflig",
+    "en": "rude"
+   },
+   {
+    "da": "pinlig",
+    "en": "embarrassing"
+   },
+   {
+    "da": "uanstændig",
+    "en": "indecent"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **upassende** at bære festtøj til en begravelse.",
+   "en": "It is inappropriate to wear party clothes to a funeral."
+  }
+ },
+ "upopulær": {
+  "file": "u.json",
+  "explanation": "\"Upopulær\" means \"unpopular\", for people or things that many dislike.",
+  "forms": [
+   {
+    "da": "en upopulær lærer",
+    "en": "an unpopular teacher"
+   },
+   {
+    "da": "et upopulært forslag",
+    "en": "an unpopular proposal"
+   },
+   {
+    "da": "upopulære regler",
+    "en": "unpopular rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "populær",
+    "en": "popular"
+   },
+   {
+    "da": "afholdt",
+    "en": "well-liked"
+   },
+   {
+    "da": "udskældt",
+    "en": "much criticized"
+   },
+   {
+    "da": "forhadt",
+    "en": "hated"
+   }
+  ],
+  "sentence": {
+   "da": "Den nye regel er **upopulær**, og mange klager.",
+   "en": "The new rule is unpopular, and many people complain."
+  }
+ },
+ "upraktisk": {
+  "file": "u.json",
+  "explanation": "\"Upraktisk\" means \"impractical\", hard to use in daily life: \"Skoene er upraktiske\" (The shoes are impractical).",
+  "forms": [
+   {
+    "da": "en upraktisk løsning",
+    "en": "an impractical solution"
+   },
+   {
+    "da": "et upraktisk værelse",
+    "en": "an impractical room"
+   },
+   {
+    "da": "upraktiske sko",
+    "en": "impractical shoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "praktisk",
+    "en": "handy"
+   },
+   {
+    "da": "besværlig",
+    "en": "troublesome"
+   },
+   {
+    "da": "ubekvem",
+    "en": "uncomfortable"
+   },
+   {
+    "da": "hensigtsmæssig",
+    "en": "fit for purpose"
+   }
+  ],
+  "sentence": {
+   "da": "En hvid sofa er **upraktisk**, når man har små børn.",
+   "en": "A white sofa is impractical when you have small children."
+  }
+ },
+ "upålidelig": {
+  "file": "u.json",
+  "explanation": "\"Upålidelig\" means \"unreliable\", about a person or thing you cannot count on, such as a friend who forgets promises. Use it also for news you cannot trust: \"Kilden er upålidelig\" (The source is unreliable).",
+  "forms": [
+   {
+    "da": "en upålidelig kollega",
+    "en": "an unreliable colleague"
+   },
+   {
+    "da": "et upålideligt system",
+    "en": "an unreliable system"
+   },
+   {
+    "da": "upålidelige kilder",
+    "en": "unreliable sources"
+   }
+  ],
+  "related": [
+   {
+    "da": "pålidelig",
+    "en": "dependable"
+   },
+   {
+    "da": "troværdig",
+    "en": "credible"
+   },
+   {
+    "da": "ustabil",
+    "en": "unstable"
+   },
+   {
+    "da": "uærlig",
+    "en": "dishonest"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **upålidelig**, fordi han ofte kommer for sent.",
+   "en": "He is unreliable because he often comes too late."
+  }
+ },
+ "urealistisk": {
+  "file": "u.json",
+  "explanation": "\"Urealistisk\" means \"unrealistic\", not likely to happen or work in real life: \"et urealistisk mål\" (an unrealistic goal). The opposite is \"realistisk\" (realistic).",
+  "forms": [
+   {
+    "da": "en urealistisk plan",
+    "en": "an unrealistic plan"
+   },
+   {
+    "da": "et urealistisk mål",
+    "en": "an unrealistic goal"
+   },
+   {
+    "da": "urealistiske forventninger",
+    "en": "unrealistic expectations"
+   }
+  ],
+  "related": [
+   {
+    "da": "umulig",
+    "en": "impossible"
+   },
+   {
+    "da": "overdrevet",
+    "en": "exaggerated"
+   },
+   {
+    "da": "naiv",
+    "en": "naive"
+   },
+   {
+    "da": "en illusion",
+    "en": "an illusion"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **urealistisk** at lære dansk perfekt på en måned.",
+   "en": "It is unrealistic to learn Danish perfectly in a month."
+  }
+ },
+ "urimelig": {
+  "file": "u.json",
+  "explanation": "\"Urimelig\" means \"unreasonable\", used when something is too much or not fair. The opposite is \"rimelig\" (reasonable), which you also say about a fair price: \"en rimelig pris\" (a reasonable price).",
+  "forms": [
+   {
+    "da": "en urimelig pris",
+    "en": "an unreasonable price"
+   },
+   {
+    "da": "et urimeligt krav",
+    "en": "an unreasonable demand"
+   },
+   {
+    "da": "urimelige regler",
+    "en": "unreasonable rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "uretfærdig",
+    "en": "unjust"
+   },
+   {
+    "da": "overdreven",
+    "en": "excessive"
+   },
+   {
+    "da": "uacceptabel",
+    "en": "unacceptable"
+   },
+   {
+    "da": "absurd",
+    "en": "absurd"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **urimelig** regel, at børn ikke må lege her.",
+   "en": "It is an unreasonable rule that children may not play here."
+  }
+ },
+ "urolig": {
+  "file": "u.json",
+  "explanation": "\"Urolig\" means \"uneasy\" or \"restless\", for a person who cannot settle. It also describes a night with bad sleep: \"en urolig nat\" (a restless night).",
+  "forms": [
+   {
+    "da": "en urolig mand",
+    "en": "an uneasy man"
+   },
+   {
+    "da": "et uroligt barn",
+    "en": "a restless child"
+   },
+   {
+    "da": "urolige tider",
+    "en": "uneasy times"
+   }
+  ],
+  "related": [
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "bekymret",
+    "en": "worried"
+   },
+   {
+    "da": "nervøs",
+    "en": "nervous"
+   },
+   {
+    "da": "en uro",
+    "en": "unrest, restlessness"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **urolig** for min søster.",
+   "en": "I am uneasy about my sister."
+  }
+ }
+}

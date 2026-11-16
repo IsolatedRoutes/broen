@@ -1,0 +1,3946 @@
+{
+ "forsømt": {
+  "file": "f.json",
+  "explanation": "\"Forsømt\" means \"neglected\", not given the care or attention it needed. You say it about a place left to fall apart: \"Gaden ser forsømt ud\" (The street looks neglected). You also say it about people who got too little care: \"Børnene følte sig forsømt\" (The children felt neglected). It comes from at forsømme (to fail to look after).",
+  "forms": [
+   {
+    "da": "en forsømt have",
+    "en": "a neglected garden"
+   },
+   {
+    "da": "et forsømt hus",
+    "en": "a neglected house"
+   },
+   {
+    "da": "forsømte børn",
+    "en": "neglected children"
+   }
+  ],
+  "related": [
+   {
+    "da": "forfalden",
+    "en": "run-down"
+   },
+   {
+    "da": "plejet",
+    "en": "well kept"
+   },
+   {
+    "da": "forladt",
+    "en": "abandoned"
+   }
+  ],
+  "sentence": {
+   "da": "Huset var **forsømt**, og taget var begyndt at lække.",
+   "en": "The house was neglected, and the roof had started to leak."
+  }
+ },
+ "fortabt": {
+  "file": "f.json",
+  "explanation": "\"Fortabt\" means \"lost\" in a serious sense: gone for good or beyond help, not just misplaced. To say you do not know the way, use \"at fare vild\" (to get lost) instead.",
+  "forms": [
+   {
+    "da": "en fortabt sag",
+    "en": "a lost cause"
+   },
+   {
+    "da": "Alt er fortabt",
+    "en": "All is lost"
+   },
+   {
+    "da": "fortabte sjæle",
+    "en": "lost souls"
+   }
+  ],
+  "related": [
+   {
+    "da": "forsvundet",
+    "en": "vanished"
+   },
+   {
+    "da": "håbløs",
+    "en": "hopeless"
+   },
+   {
+    "da": "ødelagt",
+    "en": "ruined"
+   },
+   {
+    "da": "bortkommet",
+    "en": "missing"
+   }
+  ],
+  "sentence": {
+   "da": "Uden håb og venner følte han sig **fortabt**.",
+   "en": "Without hope and friends, he felt lost."
+  }
+ },
+ "fortjent": {
+  "file": "f.json",
+  "explanation": "\"Fortjent\" means \"deserved\" or \"well earned\", for something good you got because you worked for it.",
+  "forms": [
+   {
+    "da": "en fortjent sejr",
+    "en": "a deserved win"
+   },
+   {
+    "da": "en fortjent hvile",
+    "en": "a well-earned rest"
+   },
+   {
+    "da": "fortjente ferier",
+    "en": "well-earned vacations"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fortjene",
+    "en": "to deserve"
+   },
+   {
+    "da": "ufortjent",
+    "en": "undeserved"
+   },
+   {
+    "da": "retfærdig",
+    "en": "fair"
+   },
+   {
+    "da": "en belønning",
+    "en": "a reward"
+   }
+  ],
+  "sentence": {
+   "da": "Efter en lang uge er weekenden **fortjent**.",
+   "en": "After a long week, the weekend is well deserved."
+  }
+ },
+ "fortrinsvis": {
+  "file": "f.json",
+  "explanation": "\"Fortrinsvis\" means \"chiefly\" or \"mainly\", for what is true in most cases, with a few exceptions: \"Vi spiser fortrinsvis fisk\" (We mainly eat fish).",
+  "forms": [
+   {
+    "da": "Han spiser fortrinsvis grøntsager",
+    "en": "He mainly eats vegetables"
+   },
+   {
+    "da": "Vi sælger fortrinsvis bøger",
+    "en": "We chiefly sell books"
+   },
+   {
+    "da": "Hun arbejder fortrinsvis om natten",
+    "en": "She mostly works at night"
+   }
+  ],
+  "related": [
+   {
+    "da": "for det meste",
+    "en": "for the most part"
+   },
+   {
+    "da": "især",
+    "en": "especially"
+   },
+   {
+    "da": "primært",
+    "en": "primarily"
+   },
+   {
+    "da": "udelukkende",
+    "en": "only"
+   }
+  ],
+  "sentence": {
+   "da": "Butikken sælger **fortrinsvis** dansk mad, men også lidt udenlandsk.",
+   "en": "The shop mainly sells Danish food, but also a little foreign food."
+  }
+ },
+ "fortrolig": {
+  "file": "f.json",
+  "explanation": "\"Fortrolig\" means \"confidential\", something private that you should not pass on. It also means \"familiar\", when you know a person or a thing well enough to feel at ease: \"at være fortrolig med noget\" (to be familiar with something).",
+  "forms": [
+   {
+    "da": "en fortrolig samtale",
+    "en": "a confidential conversation"
+   },
+   {
+    "da": "et fortroligt brev",
+    "en": "a confidential letter"
+   },
+   {
+    "da": "fortrolige oplysninger",
+    "en": "confidential information"
+   }
+  ],
+  "related": [
+   {
+    "da": "intim",
+    "en": "intimate"
+   },
+   {
+    "da": "fortrolighed",
+    "en": "confidentiality"
+   },
+   {
+    "da": "tillid",
+    "en": "trust"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er ikke **fortrolig** med det nye system.",
+   "en": "I am not familiar with the new system."
+  }
+ },
+ "fortrolighed": {
+  "file": "f.json",
+  "explanation": "\"Fortrolighed\" means \"confidentiality\", the duty to keep information to yourself, and also \"familiarity\", the ease between people who know each other well. It comes from fortrolig (confidential, familiar).",
+  "forms": [
+   {
+    "da": "fortrolighed",
+    "en": "confidentiality"
+   },
+   {
+    "da": "fortroligheden",
+    "en": "the confidentiality"
+   },
+   {
+    "da": "i fortrolighed",
+    "en": "in confidence"
+   }
+  ],
+  "related": [
+   {
+    "da": "tavshedspligt",
+    "en": "duty of silence"
+   },
+   {
+    "da": "en hemmelighed",
+    "en": "a secret"
+   },
+   {
+    "da": "tillid",
+    "en": "trust"
+   },
+   {
+    "da": "intimitet",
+    "en": "intimacy"
+   }
+  ],
+  "sentence": {
+   "da": "Alt, hvad du siger til lægen, bliver behandlet i **fortrolighed**.",
+   "en": "Everything you tell the doctor is treated in confidence."
+  }
+ },
+ "fortroligt": {
+  "file": "f.json",
+  "explanation": "\"Fortroligt\" means \"confidentially\" or \"in confidence\", for things you tell one person who must keep them private. It also means \"confidential\" when it describes something private, such as a document or a message.",
+  "forms": [
+   {
+    "da": "Det er fortroligt",
+    "en": "It is confidential"
+   },
+   {
+    "da": "Jeg fortæller dig det fortroligt",
+    "en": "I am telling you this in confidence"
+   },
+   {
+    "da": "et fortroligt dokument",
+    "en": "a confidential document"
+   }
+  ],
+  "related": [
+   {
+    "da": "fortrolig",
+    "en": "confidential, close"
+   },
+   {
+    "da": "hemmelig",
+    "en": "secret"
+   },
+   {
+    "da": "privat",
+    "en": "private"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **fortroligt**. Sig det ikke til andre.",
+   "en": "It is confidential. Do not tell anyone else."
+  }
+ },
+ "fortsat": {
+  "file": "f.json",
+  "explanation": "\"Fortsat\" means \"still\" or \"continued\": a situation goes on without a break. It is also the past form of \"at fortsætte\" (to continue): \"Jeg har fortsat med at læse\" (I have kept on reading).",
+  "forms": [
+   {
+    "da": "Det regner fortsat",
+    "en": "It is still raining"
+   },
+   {
+    "da": "Vi arbejder fortsat",
+    "en": "We are still working"
+   },
+   {
+    "da": "Fortsat god dag!",
+    "en": "Have a good rest of your day!"
+   }
+  ],
+  "related": [
+   {
+    "da": "endnu",
+    "en": "yet"
+   },
+   {
+    "da": "uafbrudt",
+    "en": "nonstop"
+   },
+   {
+    "da": "vedvarende",
+    "en": "lasting"
+   },
+   {
+    "da": "konstant",
+    "en": "constant"
+   }
+  ],
+  "sentence": {
+   "da": "Selv efter tre timer regner det **fortsat**.",
+   "en": "Even after three hours it is still raining."
+  }
+ },
+ "fortvivlet": {
+  "file": "f.json",
+  "explanation": "\"Fortvivlet\" means \"distraught\" or \"in despair\" and describes a deep, helpless sadness when you do not know what to do. It is much stronger than \"ked af det\" (sad).",
+  "forms": [
+   {
+    "da": "en fortvivlet mor",
+    "en": "a distraught mother"
+   },
+   {
+    "da": "et fortvivlet råb",
+    "en": "a despairing cry"
+   },
+   {
+    "da": "fortvivlede mennesker",
+    "en": "distraught people"
+   }
+  ],
+  "related": [
+   {
+    "da": "håbløs",
+    "en": "hopeless"
+   },
+   {
+    "da": "desperat",
+    "en": "desperate"
+   },
+   {
+    "da": "knust",
+    "en": "crushed"
+   },
+   {
+    "da": "ulykkelig",
+    "en": "miserable"
+   }
+  ],
+  "sentence": {
+   "da": "Hun var **fortvivlet**, fordi hun ikke kunne finde sit barn.",
+   "en": "She was distraught because she could not find her child."
+  }
+ },
+ "forud": {
+  "file": "f.json",
+  "explanation": "\"Forud\" means \"ahead\" or \"in advance\", looking forward in place or time. It is mostly found in set expressions such as \"forud for\" (before an event).",
+  "forms": [
+   {
+    "da": "gå forud",
+    "en": "go ahead"
+   },
+   {
+    "da": "forud for sin tid",
+    "en": "ahead of its time"
+   },
+   {
+    "da": "Betal forud",
+    "en": "Pay in advance"
+   }
+  ],
+  "related": [
+   {
+    "da": "forude",
+    "en": "up ahead"
+   },
+   {
+    "da": "foran",
+    "en": "in front of"
+   },
+   {
+    "da": "tidligere",
+    "en": "earlier"
+   },
+   {
+    "da": "bagud",
+    "en": "behind"
+   }
+  ],
+  "sentence": {
+   "da": "Vi læser alle papirerne **forud** for mødet.",
+   "en": "We read all the papers before the meeting."
+  }
+ },
+ "forude": {
+  "file": "f.json",
+  "explanation": "\"Forude\" means \"ahead\" and tells where something is: further along the way you are going. It is not about moving. To talk about moving ahead, use \"gå forud\" (go ahead).",
+  "forms": [
+   {
+    "da": "Der er en bro forude",
+    "en": "There is a bridge ahead"
+   },
+   {
+    "da": "Fare forude!",
+    "en": "Danger ahead!"
+   },
+   {
+    "da": "Se, der er lys forude",
+    "en": "Look, there is light ahead"
+   }
+  ],
+  "related": [
+   {
+    "da": "længere fremme",
+    "en": "further on"
+   },
+   {
+    "da": "foran",
+    "en": "in front of"
+   },
+   {
+    "da": "bagud",
+    "en": "behind"
+   },
+   {
+    "da": "fremad",
+    "en": "forward"
+   }
+  ],
+  "sentence": {
+   "da": "Der er kø **forude**, så vi kommer for sent.",
+   "en": "There is a traffic jam ahead, so we will be late."
+  }
+ },
+ "foruden": {
+  "file": "f.json",
+  "explanation": "\"Foruden\" means \"besides\" or \"apart from\" and adds something extra to what you have just named. It adds and does not take anything away, unlike English \"apart from\" when it means \"except\".",
+  "forms": [
+   {
+    "da": "foruden mig",
+    "en": "besides me"
+   },
+   {
+    "da": "foruden hende",
+    "en": "apart from her"
+   },
+   {
+    "da": "foruden mad og drikke",
+    "en": "besides food and drink"
+   }
+  ],
+  "related": [
+   {
+    "da": "udover",
+    "en": "in addition to"
+   },
+   {
+    "da": "desuden",
+    "en": "moreover"
+   },
+   {
+    "da": "samt",
+    "en": "as well as"
+   },
+   {
+    "da": "bortset fra",
+    "en": "except for"
+   }
+  ],
+  "sentence": {
+   "da": "**Foruden** mig kom der tre venner til festen.",
+   "en": "Besides me, three friends came to the party."
+  }
+ },
+ "forudsat at": {
+  "file": "f.json",
+  "explanation": "\"Forudsat at\" means \"provided that\" and names the one condition that must hold for the rest to be true. In the part after it, \"ikke\" (not) goes before the verb: \"forudsat at han ikke kommer\" (provided that he does not come).",
+  "forms": [
+   {
+    "da": "forudsat at du kommer",
+    "en": "provided that you come"
+   },
+   {
+    "da": "forudsat at han har tid",
+    "en": "provided that he has time"
+   },
+   {
+    "da": "forudsat at vejret er pænt",
+    "en": "provided that the weather is nice"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvis",
+    "en": "if"
+   },
+   {
+    "da": "så længe",
+    "en": "as long as"
+   },
+   {
+    "da": "på betingelse af",
+    "en": "on condition of"
+   },
+   {
+    "da": "medmindre",
+    "en": "unless"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager til stranden, **forudsat at** det ikke regner.",
+   "en": "We are going to the beach, provided that it does not rain."
+  }
+ },
+ "forurening": {
+  "file": "f.json",
+  "explanation": "\"En forurening\" means \"pollution\", harmful substances that make air, water or soil dirty. It is often combined with the place, as in \"luftforurening\" (air pollution).",
+  "forms": [
+   {
+    "da": "en forurening",
+    "en": "pollution"
+   },
+   {
+    "da": "forureningen",
+    "en": "the pollution"
+   },
+   {
+    "da": "forureninger",
+    "en": "types of pollution"
+   },
+   {
+    "da": "forureningerne",
+    "en": "the types of pollution"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forurene",
+    "en": "to pollute"
+   },
+   {
+    "da": "et miljø",
+    "en": "an environment"
+   },
+   {
+    "da": "en udledning",
+    "en": "a discharge"
+   },
+   {
+    "da": "ren",
+    "en": "clean"
+   }
+  ],
+  "sentence": {
+   "da": "I byen gør **forurening** fra biler luften dårlig.",
+   "en": "In the city, pollution from cars makes the air bad."
+  }
+ },
+ "foruroligende": {
+  "file": "f.json",
+  "explanation": "\"Foruroligende\" means \"disturbing\" or \"alarming\" and describes things that make you feel something may be wrong, such as news, signs and numbers.",
+  "forms": [
+   {
+    "da": "en foruroligende nyhed",
+    "en": "a disturbing piece of news"
+   },
+   {
+    "da": "et foruroligende tegn",
+    "en": "an alarming sign"
+   },
+   {
+    "da": "foruroligende tal",
+    "en": "alarming figures"
+   }
+  ],
+  "related": [
+   {
+    "da": "bekymret",
+    "en": "worried"
+   },
+   {
+    "da": "bekymrende",
+    "en": "worrying"
+   },
+   {
+    "da": "skræmmende",
+    "en": "frightening"
+   },
+   {
+    "da": "betryggende",
+    "en": "reassuring"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **foruroligende**, at så mange børn ikke kan svømme.",
+   "en": "It is disturbing that so many children cannot swim."
+  }
+ },
+ "forventningsfuld": {
+  "file": "f.json",
+  "explanation": "\"Forventningsfuld\" means \"expectant\", looking forward to something good that is about to happen. It is made of forventning (an expectation) and -fuld (full of).",
+  "forms": [
+   {
+    "da": "en forventningsfuld pige",
+    "en": "an expectant girl"
+   },
+   {
+    "da": "et forventningsfuldt publikum",
+    "en": "an expectant audience"
+   },
+   {
+    "da": "forventningsfulde børn",
+    "en": "expectant children"
+   }
+  ],
+  "related": [
+   {
+    "da": "spændt",
+    "en": "excited"
+   },
+   {
+    "da": "ivrig",
+    "en": "eager"
+   },
+   {
+    "da": "optimistisk",
+    "en": "optimistic"
+   }
+  ],
+  "sentence": {
+   "da": "Pigen var meget **forventningsfuld** op til sin fødselsdag.",
+   "en": "The girl was very expectant before her birthday."
+  }
+ },
+ "forvirrende": {
+  "file": "f.json",
+  "explanation": "\"Forvirrende\" means \"confusing\" and describes the thing that causes the mix-up in your head. The person who feels it is \"forvirret\" (confused).",
+  "forms": [
+   {
+    "da": "en forvirrende regel",
+    "en": "a confusing rule"
+   },
+   {
+    "da": "et forvirrende svar",
+    "en": "a confusing answer"
+   },
+   {
+    "da": "forvirrende skilte",
+    "en": "confusing signs"
+   }
+  ],
+  "related": [
+   {
+    "da": "uklar",
+    "en": "unclear"
+   },
+   {
+    "da": "indviklet",
+    "en": "complicated"
+   },
+   {
+    "da": "uoverskuelig",
+    "en": "hard to take in"
+   },
+   {
+    "da": "tydelig",
+    "en": "clear"
+   }
+  ],
+  "sentence": {
+   "da": "Skiltene i byen er så **forvirrende**, at vi kører forkert.",
+   "en": "The signs in the town are so confusing that we drive the wrong way."
+  }
+ },
+ "forvirret": {
+  "file": "f.json",
+  "explanation": "\"Forvirret\" means \"confused\", for when you do not understand what is going on.",
+  "forms": [
+   {
+    "da": "en forvirret dreng",
+    "en": "a confused boy"
+   },
+   {
+    "da": "et forvirret blik",
+    "en": "a confused look"
+   },
+   {
+    "da": "forvirrede børn",
+    "en": "confused children"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forvirre",
+    "en": "to confuse"
+   },
+   {
+    "da": "forvirrende",
+    "en": "confusing"
+   },
+   {
+    "da": "usikker",
+    "en": "unsure"
+   },
+   {
+    "da": "klar",
+    "en": "clear"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **forvirret**, fordi jeg ikke forstår det.",
+   "en": "I am confused because I do not understand it."
+  }
+ },
+ "forvirring": {
+  "file": "f.json",
+  "explanation": "\"Forvirring\" means \"confusion\", when people do not understand what is going on. Someone who feels it is \"forvirret\" (confused): \"Jeg er helt forvirret\" (I am totally confused).",
+  "forms": [
+   {
+    "da": "en forvirring",
+    "en": "confusion"
+   },
+   {
+    "da": "forvirringen",
+    "en": "the confusion"
+   },
+   {
+    "da": "stor forvirring",
+    "en": "great confusion"
+   },
+   {
+    "da": "at skabe forvirring",
+    "en": "to cause confusion"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forvirre",
+    "en": "to confuse"
+   },
+   {
+    "da": "kaos",
+    "en": "chaos"
+   },
+   {
+    "da": "en misforståelse",
+    "en": "a misunderstanding"
+   },
+   {
+    "da": "uklar",
+    "en": "unclear"
+   }
+  ],
+  "sentence": {
+   "da": "Der var **forvirring**, fordi alle talte på samme tid.",
+   "en": "There was confusion because everyone talked at the same time."
+  }
+ },
+ "forældet": {
+  "file": "f.json",
+  "explanation": "\"Forældet\" means \"outdated\" and describes something too old to be useful or correct any more, such as a program, a law or a piece of information.",
+  "forms": [
+   {
+    "da": "en forældet metode",
+    "en": "an outdated method"
+   },
+   {
+    "da": "et forældet system",
+    "en": "an outdated system"
+   },
+   {
+    "da": "forældede regler",
+    "en": "outdated rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "gammeldags",
+    "en": "old-fashioned"
+   },
+   {
+    "da": "umoderne",
+    "en": "unfashionable"
+   },
+   {
+    "da": "moderne",
+    "en": "modern"
+   },
+   {
+    "da": "opdateret",
+    "en": "updated"
+   }
+  ],
+  "sentence": {
+   "da": "Programmet er **forældet**, så det virker ikke på nye telefoner.",
+   "en": "The program is outdated, so it does not work on new phones."
+  }
+ },
+ "forældre": {
+  "file": "f.json",
+  "explanation": "\"Forældre\" means \"parents\", mother and father together. For just one parent, say \"en forælder\" (a parent).",
+  "forms": [
+   {
+    "da": "forældre",
+    "en": "parents"
+   },
+   {
+    "da": "forældrene",
+    "en": "the parents"
+   },
+   {
+    "da": "mine forældre",
+    "en": "my parents"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mor",
+    "en": "a mother"
+   },
+   {
+    "da": "en far",
+    "en": "a father"
+   },
+   {
+    "da": "bedsteforældre",
+    "en": "grandparents"
+   },
+   {
+    "da": "et barn",
+    "en": "a child"
+   }
+  ],
+  "sentence": {
+   "da": "Min mor og min far er mine **forældre**.",
+   "en": "My mom and my dad are my parents."
+  }
+ },
+ "forældreløs": {
+  "file": "f.json",
+  "explanation": "\"Forældreløs\" means \"orphaned\", without parents. It is built from forældre (parents) and løs (without), the same ending as in \"hjemløs\" (homeless) and \"søvnløs\" (sleepless).",
+  "forms": [
+   {
+    "da": "en forældreløs dreng",
+    "en": "an orphaned boy"
+   },
+   {
+    "da": "et forældreløst barn",
+    "en": "an orphaned child"
+   },
+   {
+    "da": "forældreløse børn",
+    "en": "orphaned children"
+   }
+  ],
+  "related": [
+   {
+    "da": "et plejebarn",
+    "en": "a foster child"
+   },
+   {
+    "da": "et børnehjem",
+    "en": "an orphanage"
+   },
+   {
+    "da": "en værge",
+    "en": "a guardian"
+   },
+   {
+    "da": "en adoption",
+    "en": "an adoption"
+   }
+  ],
+  "sentence": {
+   "da": "Efter ulykken blev drengen **forældreløs** og kom til en plejefamilie.",
+   "en": "After the accident the boy became an orphan and went to a foster family."
+  }
+ },
+ "forældremyndighed": {
+  "file": "f.json",
+  "explanation": "\"En forældremyndighed\" means \"custody\", the legal right and duty to make decisions for a child, such as where the child lives and goes to school. When it is shared, it is called \"fælles forældremyndighed\" (joint custody).",
+  "forms": [
+   {
+    "da": "en forældremyndighed",
+    "en": "custody"
+   },
+   {
+    "da": "forældremyndigheden",
+    "en": "the custody"
+   },
+   {
+    "da": "at søge om forældremyndighed",
+    "en": "to apply for custody"
+   }
+  ],
+  "related": [
+   {
+    "da": "samvær",
+    "en": "visitation"
+   },
+   {
+    "da": "en skilsmisse",
+    "en": "a divorce"
+   },
+   {
+    "da": "en værge",
+    "en": "a guardian"
+   },
+   {
+    "da": "en bopæl",
+    "en": "a residence"
+   }
+  ],
+  "sentence": {
+   "da": "Efter skilsmissen fik moren **forældremyndighed** over børnene.",
+   "en": "After the divorce, the mother got custody of the children."
+  }
+ },
+ "fra": {
+  "file": "f.json",
+  "explanation": "\"Fra\" means \"from\" and works for places, people and times. Its opposite is \"til\" (to): \"en gave til mig\" (a gift for me) is a gift you receive, and \"en gave fra mig\" (a gift from me) is one you give.",
+  "forms": [
+   {
+    "da": "fra Danmark",
+    "en": "from Denmark"
+   },
+   {
+    "da": "fra klokken otte til fire",
+    "en": "from eight until four"
+   },
+   {
+    "da": "en gave fra mig",
+    "en": "a gift from me"
+   }
+  ],
+  "related": [
+   {
+    "da": "hos",
+    "en": "at / with (someone's place)"
+   },
+   {
+    "da": "af",
+    "en": "of / by"
+   },
+   {
+    "da": "ud af",
+    "en": "out of"
+   }
+  ],
+  "sentence": {
+   "da": "Toget kører **fra** København til Aarhus.",
+   "en": "The train goes from Copenhagen to Aarhus."
+  }
+ },
+ "fra nu af": {
+  "file": "f.json",
+  "explanation": "\"Fra nu af\" means \"from now on\" and looks forward, often for a new rule or decision. To look back instead, use \"indtil nu\" (until now).",
+  "forms": [
+   {
+    "da": "Fra nu af spiser jeg sundt.",
+    "en": "From now on I will eat healthy."
+   },
+   {
+    "da": "Fra nu af kommer jeg tidligt.",
+    "en": "From now on I will come early."
+   },
+   {
+    "da": "Fra nu af er det mit job.",
+    "en": "From now on it will be my job."
+   }
+  ],
+  "related": [
+   {
+    "da": "herefter",
+    "en": "after this"
+   },
+   {
+    "da": "fremover",
+    "en": "in the future"
+   },
+   {
+    "da": "fra og med i dag",
+    "en": "starting today"
+   },
+   {
+    "da": "hidtil",
+    "en": "so far"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg går i seng klokken ti **fra nu af**.",
+   "en": "I go to bed at ten from now on."
+  }
+ },
+ "fra tid til anden": {
+  "file": "f.json",
+  "explanation": "\"Fra tid til anden\" means \"from time to time\", for things that happen occasionally with no fixed pattern. If the phrase starts the sentence, the verb comes right after it: \"Fra tid til anden kommer han forbi\" (From time to time he comes by).",
+  "forms": [
+   {
+    "da": "Vi ses fra tid til anden",
+    "en": "We see each other from time to time"
+   },
+   {
+    "da": "Jeg ringer fra tid til anden",
+    "en": "I call from time to time"
+   },
+   {
+    "da": "Hun besøger os fra tid til anden",
+    "en": "She visits us from time to time"
+   }
+  ],
+  "related": [
+   {
+    "da": "nu og da",
+    "en": "now and then"
+   },
+   {
+    "da": "af og til",
+    "en": "once in a while"
+   },
+   {
+    "da": "sommetider",
+    "en": "sometimes"
+   },
+   {
+    "da": "sjældent",
+    "en": "rarely"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiser ude **fra tid til anden**, men ikke hver uge.",
+   "en": "We eat out from time to time, but not every week."
+  }
+ },
+ "fragt": {
+  "file": "f.json",
+  "explanation": "\"En fragt\" means \"shipping\" or \"freight\": the cost of sending goods, or the goods being carried, as in \"et fragtskib\" (a cargo ship).",
+  "forms": [
+   {
+    "da": "en fragt",
+    "en": "shipping / freight"
+   },
+   {
+    "da": "fragten",
+    "en": "the shipping / freight"
+   },
+   {
+    "da": "fragter",
+    "en": "shipments"
+   },
+   {
+    "da": "fragterne",
+    "en": "the shipments"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forsendelse",
+    "en": "a consignment"
+   },
+   {
+    "da": "en levering",
+    "en": "a delivery"
+   },
+   {
+    "da": "en pakke",
+    "en": "a parcel"
+   },
+   {
+    "da": "porto",
+    "en": "postage"
+   }
+  ],
+  "sentence": {
+   "da": "Webshoppen tager 50 kroner i **fragt**.",
+   "en": "The web shop charges 50 kroner for shipping."
+  }
+ },
+ "frankrig": {
+  "file": "f.json",
+  "explanation": "\"Frankrig\" means \"France\", a large country in western Europe. To say you are there, use \"i\" (in): \"Vi bor i Frankrig\" (We live in France). To say you are going there, use \"til\" (to): \"Vi rejser til Frankrig\" (We are traveling to France).",
+  "forms": [
+   {
+    "da": "Frankrig",
+    "en": "France"
+   },
+   {
+    "da": "i Frankrig",
+    "en": "in France"
+   },
+   {
+    "da": "til Frankrig",
+    "en": "to France"
+   }
+  ],
+  "related": [
+   {
+    "da": "en franskmand",
+    "en": "a Frenchman"
+   },
+   {
+    "da": "fransk",
+    "en": "French"
+   },
+   {
+    "da": "Spanien",
+    "en": "Spain"
+   }
+  ],
+  "sentence": {
+   "da": "Paris ligger i **Frankrig**.",
+   "en": "Paris is in France."
+  }
+ },
+ "fransk": {
+  "file": "f.json",
+  "explanation": "\"Fransk\" means \"French\", for things from France and for the language. It is written with a lowercase letter: \"Jeg taler fransk\" (I speak French).",
+  "forms": [
+   {
+    "da": "en fransk ost",
+    "en": "a French cheese"
+   },
+   {
+    "da": "et fransk brød",
+    "en": "a French loaf"
+   },
+   {
+    "da": "franske oste",
+    "en": "French cheeses"
+   }
+  ],
+  "related": [
+   {
+    "da": "Frankrig",
+    "en": "France"
+   },
+   {
+    "da": "en franskmand",
+    "en": "a Frenchman"
+   },
+   {
+    "da": "spansk",
+    "en": "Spanish"
+   },
+   {
+    "da": "italiensk",
+    "en": "Italian"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kommer fra Frankrig og taler **fransk**.",
+   "en": "She comes from France and speaks French."
+  }
+ },
+ "franskbrød": {
+  "file": "f.json",
+  "explanation": "\"Et franskbrød\" means \"a white loaf\", the ordinary light kind. It is made of fransk (French) and brød (bread). \"Rugbrød\" (rye bread) is the dark, heavy kind.",
+  "forms": [
+   {
+    "da": "et franskbrød",
+    "en": "a white loaf"
+   },
+   {
+    "da": "franskbrødet",
+    "en": "the white loaf"
+   },
+   {
+    "da": "franskbrød",
+    "en": "white loaves"
+   },
+   {
+    "da": "franskbrødene",
+    "en": "the white loaves"
+   }
+  ],
+  "related": [
+   {
+    "da": "et rundstykke",
+    "en": "a bread roll"
+   },
+   {
+    "da": "et hvedebrød",
+    "en": "a wheat loaf"
+   },
+   {
+    "da": "en baguette",
+    "en": "a baguette"
+   },
+   {
+    "da": "et toastbrød",
+    "en": "toast bread"
+   }
+  ],
+  "sentence": {
+   "da": "**Franskbrød** er lyst og blødt brød.",
+   "en": "White bread is light, soft bread."
+  }
+ },
+ "fraskilt": {
+  "file": "f.json",
+  "explanation": "\"Fraskilt\" means \"divorced\" and says what someone is now. To talk about the event, say \"at blive skilt\" (to get divorced): \"De blev skilt i fjor\" (They got divorced last year).",
+  "forms": [
+   {
+    "da": "en fraskilt mand",
+    "en": "a divorced man"
+   },
+   {
+    "da": "et fraskilt par",
+    "en": "a divorced couple"
+   },
+   {
+    "da": "fraskilte forældre",
+    "en": "divorced parents"
+   }
+  ],
+  "related": [
+   {
+    "da": "gift",
+    "en": "married"
+   },
+   {
+    "da": "ugift",
+    "en": "unmarried"
+   },
+   {
+    "da": "en skilsmisse",
+    "en": "a divorce"
+   }
+  ],
+  "sentence": {
+   "da": "Min mor er **fraskilt** og bor alene.",
+   "en": "My mom is divorced and lives alone."
+  }
+ },
+ "fravær": {
+  "file": "f.json",
+  "explanation": "\"Et fravær\" means \"absence\": not being where you are expected, especially at school or work. There it is also the number of days you have missed: \"Hun har fem dages fravær\" (She has five days of absence).",
+  "forms": [
+   {
+    "da": "et fravær",
+    "en": "an absence"
+   },
+   {
+    "da": "fraværet",
+    "en": "the absence"
+   },
+   {
+    "da": "i mit fravær",
+    "en": "in my absence"
+   }
+  ],
+  "related": [
+   {
+    "da": "fraværende",
+    "en": "absent"
+   },
+   {
+    "da": "tilstedeværelse",
+    "en": "presence"
+   },
+   {
+    "da": "en sygedag",
+    "en": "a sick day"
+   },
+   {
+    "da": "at udeblive",
+    "en": "to fail to show up"
+   }
+  ],
+  "sentence": {
+   "da": "Eleven har meget **fravær**, fordi hun ofte er syg.",
+   "en": "The student has a lot of absence because she is often ill."
+  }
+ },
+ "fraværende": {
+  "file": "f.json",
+  "explanation": "\"Fraværende\" means \"absent\" and \"absent-minded\". It can say that someone is not there, or that they are there but their mind is elsewhere: \"Han virker fraværende i dag\" (He seems out of it today).",
+  "forms": [
+   {
+    "da": "en fraværende elev",
+    "en": "an absent student"
+   },
+   {
+    "da": "et fraværende blik",
+    "en": "an absent look"
+   },
+   {
+    "da": "fraværende forældre",
+    "en": "absent parents"
+   }
+  ],
+  "related": [
+   {
+    "da": "til stede",
+    "en": "present"
+   },
+   {
+    "da": "et fravær",
+    "en": "an absence"
+   },
+   {
+    "da": "distræt",
+    "en": "distracted"
+   },
+   {
+    "da": "uopmærksom",
+    "en": "inattentive"
+   }
+  ],
+  "sentence": {
+   "da": "Han sidder ved bordet, men er helt **fraværende**.",
+   "en": "He sits at the table, but is completely absent-minded."
+  }
+ },
+ "fred": {
+  "file": "f.json",
+  "explanation": "\"Fred\" means \"peace\", the opposite of war and also a quiet, undisturbed time. \"Lad mig være i fred\" means \"Leave me alone\" (literally \"let me be in peace\").",
+  "forms": [
+   {
+    "da": "fred",
+    "en": "peace"
+   },
+   {
+    "da": "freden",
+    "en": "the peace"
+   },
+   {
+    "da": "i fred",
+    "en": "in peace"
+   }
+  ],
+  "related": [
+   {
+    "da": "ro",
+    "en": "calm"
+   },
+   {
+    "da": "en krig",
+    "en": "a war"
+   },
+   {
+    "da": "en våbenhvile",
+    "en": "a ceasefire"
+   }
+  ],
+  "sentence": {
+   "da": "Landet har haft **fred** i mange år.",
+   "en": "The country has had peace for many years."
+  }
+ },
+ "fredag": {
+  "file": "f.json",
+  "explanation": "\"Fredag\" means \"Friday\". \"På fredag\" means \"on Friday\" (the coming one) and \"om fredagen\" means \"on Fridays\" (every Friday). Day names are written with a lowercase letter.",
+  "forms": [
+   {
+    "da": "en fredag",
+    "en": "a Friday"
+   },
+   {
+    "da": "fredagen",
+    "en": "the Friday"
+   },
+   {
+    "da": "fredage",
+    "en": "Fridays"
+   },
+   {
+    "da": "fredagene",
+    "en": "the Fridays"
+   }
+  ],
+  "related": [
+   {
+    "da": "en torsdag",
+    "en": "a Thursday"
+   },
+   {
+    "da": "en lørdag",
+    "en": "a Saturday"
+   },
+   {
+    "da": "en weekend",
+    "en": "a weekend"
+   }
+  ],
+  "sentence": {
+   "da": "Efter torsdag kommer **fredag**.",
+   "en": "After Thursday comes Friday."
+  }
+ },
+ "fredelig": {
+  "file": "f.json",
+  "explanation": "\"Fredelig\" means \"peaceful\" and describes calm places, people and times. It is built from fred (peace). It also describes a protest without fighting: \"en fredelig demonstration\" (a peaceful protest).",
+  "forms": [
+   {
+    "da": "en fredelig by",
+    "en": "a peaceful town"
+   },
+   {
+    "da": "et fredeligt sted",
+    "en": "a peaceful place"
+   },
+   {
+    "da": "fredelige dage",
+    "en": "peaceful days"
+   }
+  ],
+  "related": [
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "voldelig",
+    "en": "violent"
+   },
+   {
+    "da": "stille",
+    "en": "quiet"
+   },
+   {
+    "da": "krigerisk",
+    "en": "warlike"
+   }
+  ],
+  "sentence": {
+   "da": "Landsbyen er stille og **fredelig**.",
+   "en": "The village is quiet and peaceful."
+  }
+ },
+ "frelse": {
+  "file": "f.json",
+  "explanation": "\"En frelse\" means \"salvation\", in religion being delivered from sin and death. In everyday speech, it is a great help that arrives just in time: \"Din hjælp var en frelse\" (Your help was a godsend).",
+  "forms": [
+   {
+    "da": "en frelse",
+    "en": "a salvation"
+   },
+   {
+    "da": "frelsen",
+    "en": "the salvation"
+   },
+   {
+    "da": "Frelsens Hær",
+    "en": "the Salvation Army"
+   }
+  ],
+  "related": [
+   {
+    "da": "en befrielse",
+    "en": "a liberation"
+   },
+   {
+    "da": "en frelser",
+    "en": "a savior"
+   },
+   {
+    "da": "en redning",
+    "en": "a rescue"
+   },
+   {
+    "da": "en nåde",
+    "en": "a grace"
+   }
+  ],
+  "sentence": {
+   "da": "I kristendommen handler **frelse** om tilgivelse for synd.",
+   "en": "In Christianity, salvation is about forgiveness of sin."
+  }
+ },
+ "fremfor": {
+  "file": "f.json",
+  "explanation": "\"Fremfor\" means \"rather than\", putting one choice above another, usually the one you prefer: \"Jeg cykler fremfor at tage bussen\" (I bike rather than take the bus).",
+  "forms": [
+   {
+    "da": "te fremfor kaffe",
+    "en": "tea rather than coffee"
+   },
+   {
+    "da": "fremfor alt",
+    "en": "above all"
+   },
+   {
+    "da": "fremfor at vente",
+    "en": "rather than waiting"
+   }
+  ],
+  "related": [
+   {
+    "da": "i stedet for",
+    "en": "instead of"
+   },
+   {
+    "da": "hellere",
+    "en": "would sooner"
+   },
+   {
+    "da": "at foretrække",
+    "en": "to prefer"
+   }
+  ],
+  "sentence": {
+   "da": "Mange danskere cykler **fremfor** at køre bil.",
+   "en": "Many Danes bike rather than drive a car."
+  }
+ },
+ "fremgang": {
+  "file": "f.json",
+  "explanation": "\"En fremgang\" means \"progress\", getting better over time at school, in sport or in health. It is built from frem (forward) and gang (going), so it is literally \"going forward\".",
+  "forms": [
+   {
+    "da": "en fremgang",
+    "en": "progress"
+   },
+   {
+    "da": "fremgangen",
+    "en": "the progress"
+   },
+   {
+    "da": "stor fremgang",
+    "en": "great progress"
+   },
+   {
+    "da": "gøre fremgang",
+    "en": "to make progress"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fremskridt",
+    "en": "an advance"
+   },
+   {
+    "da": "en tilbagegang",
+    "en": "a decline"
+   },
+   {
+    "da": "en udvikling",
+    "en": "a development"
+   },
+   {
+    "da": "en stigning",
+    "en": "an increase"
+   }
+  ],
+  "sentence": {
+   "da": "Efter tre måneders træning kan jeg se **fremgang**.",
+   "en": "After three months of training I can see progress."
+  }
+ },
+ "fremmed": {
+  "file": "f.json",
+  "explanation": "\"Fremmed\" means \"foreign\" or \"strange\". Used about a person, \"en fremmed\" means \"a stranger\": \"Jeg talte med en fremmed\" (I talked to a stranger).",
+  "forms": [
+   {
+    "da": "en fremmed mand",
+    "en": "a strange man"
+   },
+   {
+    "da": "et fremmed land",
+    "en": "a foreign country"
+   },
+   {
+    "da": "fremmede lande",
+    "en": "foreign countries"
+   }
+  ],
+  "related": [
+   {
+    "da": "ukendt",
+    "en": "unknown"
+   },
+   {
+    "da": "udenlandsk",
+    "en": "from another country"
+   },
+   {
+    "da": "mærkelig",
+    "en": "strange"
+   },
+   {
+    "da": "velkendt",
+    "en": "well known"
+   }
+  ],
+  "sentence": {
+   "da": "Det er et **fremmed** sprog for mig.",
+   "en": "It is a foreign language to me."
+  }
+ },
+ "fremover": {
+  "file": "f.json",
+  "explanation": "\"Fremover\" means \"from now on\", a change that starts today and lasts: \"Fremover tager jeg cyklen\" (From now on I take the bike). At the start of a sentence, the verb comes right after it, as in that example.",
+  "forms": [
+   {
+    "da": "Fremover tager jeg cyklen",
+    "en": "From now on I take the bike"
+   },
+   {
+    "da": "Vi ses oftere fremover",
+    "en": "We will see each other more often from now on"
+   },
+   {
+    "da": "Fremover skal du ringe først",
+    "en": "From now on you must call first"
+   }
+  ],
+  "related": [
+   {
+    "da": "i fremtiden",
+    "en": "in the future"
+   },
+   {
+    "da": "fra nu af",
+    "en": "starting now"
+   },
+   {
+    "da": "herefter",
+    "en": "after this"
+   },
+   {
+    "da": "hidtil",
+    "en": "until now"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **fremover** gå i seng klokken ti.",
+   "en": "From now on I will go to bed at ten."
+  }
+ },
+ "fremragende": {
+  "file": "f.json",
+  "explanation": "\"Fremragende\" means \"excellent\", clearly above average, and is often used for results, work and skills.",
+  "forms": [
+   {
+    "da": "et fremragende resultat",
+    "en": "an excellent result"
+   },
+   {
+    "da": "en fremragende lærer",
+    "en": "an excellent teacher"
+   },
+   {
+    "da": "fremragende karakterer",
+    "en": "excellent grades"
+   }
+  ],
+  "related": [
+   {
+    "da": "udmærket",
+    "en": "very good"
+   },
+   {
+    "da": "glimrende",
+    "en": "brilliant"
+   },
+   {
+    "da": "perfekt",
+    "en": "perfect"
+   },
+   {
+    "da": "fantastisk",
+    "en": "fantastic"
+   }
+  ],
+  "sentence": {
+   "da": "Hans karakterer er **fremragende**, fordi han læser hver dag.",
+   "en": "His grades are excellent because he studies every day."
+  }
+ },
+ "fremtidig": {
+  "file": "f.json",
+  "explanation": "\"Fremtidig\" means \"future\" and describes a person or thing that will be something later. For the time that is coming, say \"fremtiden\" (the future).",
+  "forms": [
+   {
+    "da": "en fremtidig chef",
+    "en": "a future boss"
+   },
+   {
+    "da": "et fremtidigt job",
+    "en": "a future job"
+   },
+   {
+    "da": "fremtidige planer",
+    "en": "future plans"
+   }
+  ],
+  "related": [
+   {
+    "da": "tidligere",
+    "en": "former / earlier"
+   },
+   {
+    "da": "nuværende",
+    "en": "current"
+   },
+   {
+    "da": "kommende",
+    "en": "coming"
+   },
+   {
+    "da": "en fortid",
+    "en": "a past"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er en **fremtidig** kollega.",
+   "en": "She is a future colleague."
+  }
+ },
+ "fremtrædende": {
+  "file": "f.json",
+  "explanation": "\"Fremtrædende\" means \"prominent\", standing out because of importance or position. It is made of frem (forward) and at træde (to step), so a prominent person steps forward from the crowd.",
+  "forms": [
+   {
+    "da": "en fremtrædende rolle",
+    "en": "a prominent role"
+   },
+   {
+    "da": "et fremtrædende medlem",
+    "en": "a prominent member"
+   },
+   {
+    "da": "fremtrædende personer",
+    "en": "prominent people"
+   }
+  ],
+  "related": [
+   {
+    "da": "bemærkelsesværdig",
+    "en": "remarkable"
+   },
+   {
+    "da": "markant",
+    "en": "marked"
+   },
+   {
+    "da": "indflydelsesrig",
+    "en": "influential"
+   },
+   {
+    "da": "fremragende",
+    "en": "outstanding"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er en **fremtrædende** forsker inden for medicin.",
+   "en": "She is a prominent researcher in medicine."
+  }
+ },
+ "fri": {
+  "file": "f.json",
+  "explanation": "\"Fri\" means \"free\" and also \"off\" from work or school: \"Jeg har fri\" means \"I am off work\". It does not mean free of charge; for that use \"gratis\" (free of charge).",
+  "forms": [
+   {
+    "da": "en fri dag",
+    "en": "a day off"
+   },
+   {
+    "da": "et frit valg",
+    "en": "a free choice"
+   },
+   {
+    "da": "frie dage",
+    "en": "days off"
+   }
+  ],
+  "related": [
+   {
+    "da": "ledig",
+    "en": "free / available"
+   },
+   {
+    "da": "en fridag",
+    "en": "a day off"
+   },
+   {
+    "da": "en frihed",
+    "en": "a freedom"
+   }
+  ],
+  "sentence": {
+   "da": "I dag har jeg **fri** fra arbejde.",
+   "en": "Today I am off work."
+  }
+ },
+ "frisk": {
+  "file": "f.json",
+  "explanation": "\"Frisk\" means \"fresh\", for food and air. For a person it means \"healthy\": \"Jeg er frisk\" means \"I am well\".",
+  "forms": [
+   {
+    "da": "en frisk salat",
+    "en": "a fresh salad"
+   },
+   {
+    "da": "et frisk æble",
+    "en": "a fresh apple"
+   },
+   {
+    "da": "friske grøntsager",
+    "en": "fresh vegetables"
+   }
+  ],
+  "related": [
+   {
+    "da": "syg",
+    "en": "sick"
+   },
+   {
+    "da": "rask",
+    "en": "well, healthy"
+   },
+   {
+    "da": "fersk",
+    "en": "fresh (newly made or caught)"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg købte mælken i dag. Den er **frisk**.",
+   "en": "I bought the milk today. It is fresh."
+  }
+ },
+ "fritid": {
+  "file": "f.json",
+  "explanation": "\"Fritid\" means \"free time\", the time when you are not at work or school.",
+  "forms": [
+   {
+    "da": "fritid",
+    "en": "free time"
+   },
+   {
+    "da": "fritiden",
+    "en": "the free time"
+   },
+   {
+    "da": "i min fritid",
+    "en": "in my free time"
+   }
+  ],
+  "related": [
+   {
+    "da": "fri",
+    "en": "free / off"
+   },
+   {
+    "da": "arbejde",
+    "en": "work"
+   },
+   {
+    "da": "en fridag",
+    "en": "a day off"
+   }
+  ],
+  "sentence": {
+   "da": "I min **fritid** går jeg ture.",
+   "en": "In my free time I go for walks."
+  }
+ },
+ "frivillig": {
+  "file": "f.json",
+  "explanation": "\"Frivillig\" means \"voluntary\", done because you choose to, not because you must. As a person, \"en frivillig\" is \"a volunteer\": \"Vi har brug for frivillige\" (We need volunteers).",
+  "forms": [
+   {
+    "da": "en frivillig aftale",
+    "en": "a voluntary agreement"
+   },
+   {
+    "da": "et frivilligt arbejde",
+    "en": "volunteer work"
+   },
+   {
+    "da": "frivillige bidrag",
+    "en": "voluntary contributions"
+   }
+  ],
+  "related": [
+   {
+    "da": "tvungen",
+    "en": "forced"
+   },
+   {
+    "da": "obligatorisk",
+    "en": "compulsory"
+   },
+   {
+    "da": "valgfri",
+    "en": "optional"
+   },
+   {
+    "da": "ulønnet",
+    "en": "unpaid"
+   }
+  ],
+  "sentence": {
+   "da": "Deltagelsen er **frivillig**, og man kan sige nej.",
+   "en": "Taking part is voluntary, and you can say no."
+  }
+ },
+ "frodig": {
+  "file": "f.json",
+  "explanation": "\"Frodig\" means \"lush\", growing thickly and healthily. You say it about green growth: \"en frodig skov\" (a lush forest).",
+  "forms": [
+   {
+    "da": "en frodig have",
+    "en": "a lush garden"
+   },
+   {
+    "da": "et frodigt landskab",
+    "en": "a lush landscape"
+   },
+   {
+    "da": "frodige marker",
+    "en": "lush fields"
+   }
+  ],
+  "related": [
+   {
+    "da": "yppig",
+    "en": "luxuriant"
+   },
+   {
+    "da": "tæt",
+    "en": "dense"
+   },
+   {
+    "da": "kraftig",
+    "en": "vigorous"
+   },
+   {
+    "da": "visnet",
+    "en": "withered"
+   }
+  ],
+  "sentence": {
+   "da": "Efter al regnen er haven blevet **frodig** og grøn.",
+   "en": "After all the rain, the garden has become lush and green."
+  }
+ },
+ "frokost": {
+  "file": "f.json",
+  "explanation": "\"Frokost\" means \"lunch\", the meal around midday.",
+  "forms": [
+   {
+    "da": "frokost",
+    "en": "lunch"
+   },
+   {
+    "da": "frokosten",
+    "en": "the lunch"
+   },
+   {
+    "da": "til frokost",
+    "en": "for lunch"
+   }
+  ],
+  "related": [
+   {
+    "da": "morgenmad",
+    "en": "breakfast"
+   },
+   {
+    "da": "aftensmad",
+    "en": "dinner"
+   },
+   {
+    "da": "en frokostpause",
+    "en": "a lunch break"
+   }
+  ],
+  "sentence": {
+   "da": "Klokken er tolv. Vi spiser **frokost**.",
+   "en": "It is twelve o'clock. We eat lunch."
+  }
+ },
+ "frossen": {
+  "file": "f.json",
+  "explanation": "\"Frossen\" means \"frozen\", food that has been kept so cold that it is hard. For a person who feels cold, do not use it: Danes say \"jeg fryser\" (I am cold, literally \"I freeze\").",
+  "forms": [
+   {
+    "da": "en frossen pizza",
+    "en": "a frozen pizza"
+   },
+   {
+    "da": "et frosset brød",
+    "en": "a frozen loaf of bread"
+   },
+   {
+    "da": "frosne grøntsager",
+    "en": "frozen vegetables"
+   }
+  ],
+  "related": [
+   {
+    "da": "dybfrossen",
+    "en": "deep-frozen"
+   },
+   {
+    "da": "at fryse",
+    "en": "to freeze"
+   },
+   {
+    "da": "kold",
+    "en": "cold"
+   }
+  ],
+  "sentence": {
+   "da": "Pizzaen i fryseren er **frossen**.",
+   "en": "The pizza in the freezer is frozen."
+  }
+ },
+ "frost": {
+  "file": "f.json",
+  "explanation": "\"Frost\" means \"frost\", the cold when it is below freezing outside. To freeze is \"at fryse\", which also means to feel cold.",
+  "forms": [
+   {
+    "da": "frost",
+    "en": "frost"
+   },
+   {
+    "da": "frosten",
+    "en": "the frost"
+   },
+   {
+    "da": "frost i nat",
+    "en": "frost tonight"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kulde",
+    "en": "cold"
+   },
+   {
+    "da": "sne",
+    "en": "snow"
+   },
+   {
+    "da": "at tø",
+    "en": "to thaw"
+   }
+  ],
+  "sentence": {
+   "da": "Når der er **frost**, fryser vandet til is.",
+   "en": "When there is frost, the water freezes to ice."
+  }
+ },
+ "frostklar": {
+  "file": "f.json",
+  "explanation": "\"Frostklar\" means \"crisp and frosty\", describing a day or night with frost and a clear sky. It is made of frost (frost) and klar (clear), and is used mostly about winter.",
+  "forms": [
+   {
+    "da": "en frostklar morgen",
+    "en": "a crisp, frosty morning"
+   },
+   {
+    "da": "et frostklart vejr",
+    "en": "crisp, frosty weather"
+   },
+   {
+    "da": "frostklare nætter",
+    "en": "crisp, frosty nights"
+   }
+  ],
+  "related": [
+   {
+    "da": "kold",
+    "en": "cold"
+   },
+   {
+    "da": "iskold",
+    "en": "ice cold"
+   },
+   {
+    "da": "skyfri",
+    "en": "cloudless"
+   },
+   {
+    "da": "solrig",
+    "en": "sunny"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en **frostklar** nat med tusindvis af stjerner.",
+   "en": "It was a crisp, frosty night with thousands of stars."
+  }
+ },
+ "frostvarer": {
+  "file": "f.json",
+  "explanation": "\"Frostvarer\" means \"frozen foods\", products that are sold and stored frozen. It is made of frost (frost) and varer (goods) and is used mostly in the plural.",
+  "forms": [
+   {
+    "da": "en frostvare",
+    "en": "a frozen product"
+   },
+   {
+    "da": "frostvaren",
+    "en": "the frozen product"
+   },
+   {
+    "da": "frostvarer",
+    "en": "frozen foods"
+   },
+   {
+    "da": "frostvarerne",
+    "en": "the frozen foods"
+   }
+  ],
+  "related": [
+   {
+    "da": "et køleskab",
+    "en": "a refrigerator"
+   },
+   {
+    "da": "en fryser",
+    "en": "a freezer"
+   },
+   {
+    "da": "kølevarer",
+    "en": "chilled goods"
+   },
+   {
+    "da": "optøet",
+    "en": "thawed"
+   }
+  ],
+  "sentence": {
+   "da": "I fryseren holder **frostvarer** som ærter og fisk sig længe.",
+   "en": "In the freezer, frozen foods like peas and fish keep for a long time."
+  }
+ },
+ "frustreret": {
+  "file": "f.json",
+  "explanation": "\"Frustreret\" means \"frustrated\", the feeling when things do not work out: \"Jeg er frustreret over computeren\" (I am frustrated with the computer). \"Det er frustrerende\" (It is frustrating) describes the thing itself.",
+  "forms": [
+   {
+    "da": "en frustreret lærer",
+    "en": "a frustrated teacher"
+   },
+   {
+    "da": "et frustreret barn",
+    "en": "a frustrated child"
+   },
+   {
+    "da": "frustrerede elever",
+    "en": "frustrated students"
+   }
+  ],
+  "related": [
+   {
+    "da": "irriteret",
+    "en": "irritated"
+   },
+   {
+    "da": "skuffet",
+    "en": "disappointed"
+   },
+   {
+    "da": "utilfreds",
+    "en": "dissatisfied"
+   },
+   {
+    "da": "stresset",
+    "en": "stressed"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **frustreret**, fordi printeren ikke virker.",
+   "en": "He is frustrated because the printer does not work."
+  }
+ },
+ "frygt": {
+  "file": "f.json",
+  "explanation": "\"Frygt\" means \"fear\". To say you are afraid, use \"bange\": \"Jeg er bange\" (I am afraid).",
+  "forms": [
+   {
+    "da": "en frygt",
+    "en": "a fear"
+   },
+   {
+    "da": "frygten",
+    "en": "the fear"
+   },
+   {
+    "da": "frygt for højder",
+    "en": "fear of heights"
+   },
+   {
+    "da": "uden frygt",
+    "en": "without fear"
+   }
+  ],
+  "related": [
+   {
+    "da": "angst",
+    "en": "anxiety"
+   },
+   {
+    "da": "frygtelig",
+    "en": "terrible"
+   },
+   {
+    "da": "mod",
+    "en": "courage"
+   },
+   {
+    "da": "at skræmme",
+    "en": "to scare"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kunne ikke skjule sin **frygt**.",
+   "en": "She could not hide her fear."
+  }
+ },
+ "frygtelig": {
+  "file": "f.json",
+  "explanation": "\"Frygtelig\" means \"terrible\", for something awful or scary.",
+  "forms": [
+   {
+    "da": "en frygtelig fejl",
+    "en": "a terrible mistake"
+   },
+   {
+    "da": "et frygteligt vejr",
+    "en": "terrible weather"
+   },
+   {
+    "da": "frygtelige nyheder",
+    "en": "terrible news"
+   }
+  ],
+  "related": [
+   {
+    "da": "forfærdelig",
+    "en": "dreadful"
+   },
+   {
+    "da": "skrækkelig",
+    "en": "horrible"
+   },
+   {
+    "da": "en frygt",
+    "en": "a fear"
+   },
+   {
+    "da": "at frygte",
+    "en": "to fear"
+   }
+  ],
+  "sentence": {
+   "da": "Stormen var **frygtelig**, og træer faldt om.",
+   "en": "The storm was terrible, and trees fell over."
+  }
+ },
+ "frygtløs": {
+  "file": "f.json",
+  "explanation": "\"Frygtløs\" means \"fearless\", without fear. It is built from frygt (fear) and løs (without). Someone \"modig\" (brave) may feel fear and act anyway, but a \"frygtløs\" person feels none.",
+  "forms": [
+   {
+    "da": "en frygtløs kriger",
+    "en": "a fearless warrior"
+   },
+   {
+    "da": "et frygtløst barn",
+    "en": "a fearless child"
+   },
+   {
+    "da": "frygtløse børn",
+    "en": "fearless children"
+   }
+  ],
+  "related": [
+   {
+    "da": "uforfærdet",
+    "en": "undaunted"
+   },
+   {
+    "da": "dristig",
+    "en": "daring"
+   },
+   {
+    "da": "tapper",
+    "en": "courageous"
+   },
+   {
+    "da": "bange",
+    "en": "scared"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **frygtløs** og springer fra tre meters højde.",
+   "en": "She is fearless and jumps from a height of three meters."
+  }
+ },
+ "fræk": {
+  "file": "f.json",
+  "explanation": "\"Fræk\" means \"cheeky\" or \"naughty\", often for a child who tests the limits: \"Hvor er du fræk!\" (How cheeky you are!). It also describes a daring joke: \"en fræk vittighed\" (a naughty joke).",
+  "forms": [
+   {
+    "da": "en fræk dreng",
+    "en": "a cheeky boy"
+   },
+   {
+    "da": "et frækt svar",
+    "en": "a cheeky answer"
+   },
+   {
+    "da": "frække børn",
+    "en": "naughty children"
+   }
+  ],
+  "related": [
+   {
+    "da": "uartig",
+    "en": "naughty"
+   },
+   {
+    "da": "uforskammet",
+    "en": "impudent"
+   },
+   {
+    "da": "dristig",
+    "en": "daring"
+   },
+   {
+    "da": "artig",
+    "en": "well-behaved"
+   }
+  ],
+  "sentence": {
+   "da": "Den lille dreng var meget **fræk** i dag.",
+   "en": "The little boy was very naughty today."
+  }
+ },
+ "fugtig": {
+  "file": "f.json",
+  "explanation": "\"Fugtig\" means \"damp\" or \"humid\", for something slightly wet, such as a towel, a wall or the air. \"Våd\" (wet) is stronger: it means soaked through.",
+  "forms": [
+   {
+    "da": "en fugtig kælder",
+    "en": "a damp basement"
+   },
+   {
+    "da": "et fugtigt rum",
+    "en": "a damp room"
+   },
+   {
+    "da": "fugtige rum",
+    "en": "damp rooms"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fugt",
+    "en": "moisture"
+   },
+   {
+    "da": "tør",
+    "en": "dry"
+   },
+   {
+    "da": "en luftfugtighed",
+    "en": "humidity"
+   },
+   {
+    "da": "at fugte",
+    "en": "to moisten"
+   }
+  ],
+  "sentence": {
+   "da": "Luften i badeværelset er meget **fugtig**.",
+   "en": "The air in the bathroom is very humid."
+  }
+ },
+ "fugtighed": {
+  "file": "f.json",
+  "explanation": "\"Fugtighed\" means \"humidity\", the amount of water in the air or in a surface. The weather report gives it as a percentage.",
+  "forms": [
+   {
+    "da": "fugtighed",
+    "en": "humidity"
+   },
+   {
+    "da": "fugtigheden",
+    "en": "the humidity"
+   },
+   {
+    "da": "fugtighed i luften",
+    "en": "humidity in the air"
+   },
+   {
+    "da": "fugtighed i væggene",
+    "en": "dampness in the walls"
+   }
+  ],
+  "related": [
+   {
+    "da": "våd",
+    "en": "wet"
+   },
+   {
+    "da": "tør",
+    "en": "dry"
+   },
+   {
+    "da": "luftfugtighed",
+    "en": "air humidity"
+   }
+  ],
+  "sentence": {
+   "da": "Der er høj **fugtighed** i badeværelset efter et varmt bad.",
+   "en": "There is high humidity in the bathroom after a hot bath."
+  }
+ },
+ "fugtigt": {
+  "file": "f.json",
+  "explanation": "\"Fugtigt\" means \"humid\" for air and \"damp\" for things. It is only a little wet, unlike \"vådt\" (wet), which means soaked.",
+  "forms": [
+   {
+    "da": "en fugtig dag",
+    "en": "a humid day"
+   },
+   {
+    "da": "et fugtigt rum",
+    "en": "a damp room"
+   },
+   {
+    "da": "fugtige dage",
+    "en": "humid days"
+   }
+  ],
+  "related": [
+   {
+    "da": "tør",
+    "en": "dry"
+   },
+   {
+    "da": "en fugtighed",
+    "en": "humidity"
+   },
+   {
+    "da": "at fugte",
+    "en": "to moisten"
+   }
+  ],
+  "sentence": {
+   "da": "Der er **fugtigt** i kælderen.",
+   "en": "It is damp in the basement."
+  }
+ },
+ "fuld": {
+  "file": "f.json",
+  "explanation": "\"Fuld\" means \"full\", for a glass, a bus or a room. When it describes a person, it means \"drunk\": \"Han er fuld\" means \"He is drunk\". To say you are full after a meal, use \"mæt\" (full after eating).",
+  "forms": [
+   {
+    "da": "en fuld flaske",
+    "en": "a full bottle"
+   },
+   {
+    "da": "et fuldt glas",
+    "en": "a full glass"
+   },
+   {
+    "da": "fulde flasker",
+    "en": "full bottles"
+   }
+  ],
+  "related": [
+   {
+    "da": "tom",
+    "en": "empty"
+   },
+   {
+    "da": "overfyldt",
+    "en": "overfull"
+   },
+   {
+    "da": "at fylde",
+    "en": "to fill"
+   }
+  ],
+  "sentence": {
+   "da": "Bussen er helt **fuld** af mennesker.",
+   "en": "The bus is completely full of people."
+  }
+ },
+ "fuldført": {
+  "file": "f.json",
+  "explanation": "\"Fuldført\" means \"completed\" and describes a task done all the way to the end, not just started. It comes from \"at fuldføre\" (to complete): \"Jeg har fuldført kurset\" (I have completed the course).",
+  "forms": [
+   {
+    "da": "en fuldført opgave",
+    "en": "a completed task"
+   },
+   {
+    "da": "et fuldført arbejde",
+    "en": "a completed job"
+   },
+   {
+    "da": "fuldførte projekter",
+    "en": "completed projects"
+   }
+  ],
+  "related": [
+   {
+    "da": "færdig",
+    "en": "finished"
+   },
+   {
+    "da": "afsluttet",
+    "en": "concluded"
+   },
+   {
+    "da": "gennemført",
+    "en": "carried through"
+   },
+   {
+    "da": "ufuldendt",
+    "en": "unfinished"
+   }
+  ],
+  "sentence": {
+   "da": "Opgaven er **fuldført**, når alle punkter er markeret.",
+   "en": "The task is completed when all items are marked."
+  }
+ },
+ "fuldkommen": {
+  "file": "f.json",
+  "explanation": "\"Fuldkommen\" means \"perfect\", without any flaw, and also \"complete\" or \"total\", used before a state or feeling: \"fuldkommen tavshed\" (complete silence).",
+  "forms": [
+   {
+    "da": "en fuldkommen dag",
+    "en": "a perfect day"
+   },
+   {
+    "da": "et fuldkomment mørke",
+    "en": "complete darkness"
+   },
+   {
+    "da": "fuldkomne øjeblikke",
+    "en": "perfect moments"
+   }
+  ],
+  "related": [
+   {
+    "da": "ufuldkommen",
+    "en": "imperfect"
+   },
+   {
+    "da": "fejlfri",
+    "en": "faultless"
+   },
+   {
+    "da": "ideel",
+    "en": "ideal"
+   },
+   {
+    "da": "fuldendt",
+    "en": "accomplished"
+   }
+  ],
+  "sentence": {
+   "da": "Hun følte en **fuldkommen** ro, da hun så havet.",
+   "en": "She felt a perfect calm when she saw the sea."
+  }
+ },
+ "fuldkorn": {
+  "file": "f.json",
+  "explanation": "\"Fuldkorn\" means \"whole grain\", the whole seed of the grain, used in bread and pasta. It starts many food words: \"fuldkornspasta\" (whole-grain pasta).",
+  "forms": [
+   {
+    "da": "fuldkorn",
+    "en": "whole grain"
+   },
+   {
+    "da": "noget fuldkorn",
+    "en": "some whole grain"
+   },
+   {
+    "da": "fuldkornsbrød",
+    "en": "whole-grain bread"
+   }
+  ],
+  "related": [
+   {
+    "da": "et korn",
+    "en": "a grain"
+   },
+   {
+    "da": "hvede",
+    "en": "wheat"
+   },
+   {
+    "da": "rug",
+    "en": "rye"
+   },
+   {
+    "da": "havre",
+    "en": "oats"
+   }
+  ],
+  "sentence": {
+   "da": "**Fuldkorn** er sundt, fordi det har mange fibre.",
+   "en": "Whole grain is healthy because it has a lot of fiber."
+  }
+ },
+ "fuldstændig": {
+  "file": "f.json",
+  "explanation": "\"Fuldstændig\" means \"completely\": \"Hun har fuldstændig ret\" (She is completely right). It also means \"complete\" for things with no part missing: \"et fuldstændigt svar\" (a complete answer).",
+  "forms": [
+   {
+    "da": "Jeg er fuldstændig færdig",
+    "en": "I am completely finished"
+   },
+   {
+    "da": "Det er fuldstændig umuligt",
+    "en": "It is completely impossible"
+   },
+   {
+    "da": "en fuldstændig liste",
+    "en": "a complete list"
+   }
+  ],
+  "related": [
+   {
+    "da": "helt",
+    "en": "completely"
+   },
+   {
+    "da": "total",
+    "en": "total"
+   },
+   {
+    "da": "komplet",
+    "en": "complete"
+   },
+   {
+    "da": "ufuldstændig",
+    "en": "incomplete"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **fuldstændig** glemt hans navn.",
+   "en": "I have completely forgotten his name."
+  }
+ },
+ "fuldt booket": {
+  "file": "f.json",
+  "explanation": "\"Fuldt booket\" means \"fully booked\", with nothing left open. For tickets to a show, say \"udsolgt\" (sold out).",
+  "forms": [
+   {
+    "da": "fuldt booket",
+    "en": "fully booked"
+   },
+   {
+    "da": "Flyet er fuldt booket.",
+    "en": "The flight is fully booked."
+   },
+   {
+    "da": "Vi er fuldt booket i juli.",
+    "en": "We are fully booked in July."
+   },
+   {
+    "da": "Kurset er fuldt booket.",
+    "en": "The course is fully booked."
+   }
+  ],
+  "related": [
+   {
+    "da": "ledig",
+    "en": "available"
+   },
+   {
+    "da": "optaget",
+    "en": "taken"
+   },
+   {
+    "da": "reserveret",
+    "en": "reserved"
+   },
+   {
+    "da": "en reservation",
+    "en": "a reservation"
+   }
+  ],
+  "sentence": {
+   "da": "Desværre er hotellet **fuldt booket** i weekenden.",
+   "en": "Unfortunately, the hotel is fully booked this weekend."
+  }
+ },
+ "fyldestgørende": {
+  "file": "f.json",
+  "explanation": "\"Fyldestgørende\" means \"satisfactory\": it covers everything that was asked or needed, so nothing is missing: \"et fyldestgørende svar\" (a satisfactory answer).",
+  "forms": [
+   {
+    "da": "et fyldestgørende svar",
+    "en": "a satisfactory answer"
+   },
+   {
+    "da": "en fyldestgørende forklaring",
+    "en": "a satisfactory explanation"
+   },
+   {
+    "da": "fyldestgørende oplysninger",
+    "en": "satisfactory information"
+   }
+  ],
+  "related": [
+   {
+    "da": "tilstrækkelig",
+    "en": "sufficient"
+   },
+   {
+    "da": "udtømmende",
+    "en": "exhaustive"
+   },
+   {
+    "da": "uddybende",
+    "en": "detailed"
+   },
+   {
+    "da": "mangelfuld",
+    "en": "inadequate"
+   }
+  ],
+  "sentence": {
+   "da": "Lærerens forklaring var kort, men **fyldestgørende**.",
+   "en": "The teacher's explanation was short but satisfactory."
+  }
+ },
+ "fyldig": {
+  "file": "f.json",
+  "explanation": "\"Fyldig\" means \"full\" or \"rich\", describing food, drink or a sound with a lot of body and depth: \"en fyldig stemme\" (a rich voice). For a person, it is a polite word for plump.",
+  "forms": [
+   {
+    "da": "en fyldig suppe",
+    "en": "a rich soup"
+   },
+   {
+    "da": "et fyldigt øl",
+    "en": "a full-bodied beer"
+   },
+   {
+    "da": "fyldige vine",
+    "en": "full-bodied wines"
+   }
+  ],
+  "related": [
+   {
+    "da": "mættende",
+    "en": "filling"
+   },
+   {
+    "da": "kraftig",
+    "en": "hearty"
+   },
+   {
+    "da": "tynd",
+    "en": "thin"
+   }
+  ],
+  "sentence": {
+   "da": "Vinen er **fyldig**, med smag af mørke bær.",
+   "en": "The wine is full-bodied, with a taste of dark berries."
+  }
+ },
+ "fyldt": {
+  "file": "f.json",
+  "explanation": "\"Fyldt\" means \"full\" or \"filled\", for something that has been filled up. For a person who has eaten enough, use \"mæt\" (full).",
+  "forms": [
+   {
+    "da": "en fyldt kasse",
+    "en": "a full box"
+   },
+   {
+    "da": "et fyldt glas",
+    "en": "a full glass"
+   },
+   {
+    "da": "fyldte tasker",
+    "en": "full bags"
+   }
+  ],
+  "related": [
+   {
+    "da": "fuld",
+    "en": "full, drunk"
+   },
+   {
+    "da": "tom",
+    "en": "empty"
+   },
+   {
+    "da": "at fylde",
+    "en": "to fill"
+   },
+   {
+    "da": "en fyldning",
+    "en": "a filling"
+   }
+  ],
+  "sentence": {
+   "da": "Hans lommer er **fyldt** med slik.",
+   "en": "His pockets are filled with candy."
+  }
+ },
+ "fyrre": {
+  "file": "f.json",
+  "explanation": "\"Fyrre\" means \"forty\". Do not mix it up with \"fire\" (four): \"fire kroner\" is four kroner, \"fyrre kroner\" is forty kroner. For 41, you say \"enogfyrre\" (forty-one), literally \"one-and-forty\".",
+  "forms": [
+   {
+    "da": "fyrre kroner",
+    "en": "forty kroner"
+   },
+   {
+    "da": "fyrre år",
+    "en": "forty years"
+   },
+   {
+    "da": "enogfyrre",
+    "en": "forty-one"
+   }
+  ],
+  "related": [
+   {
+    "da": "tredive",
+    "en": "thirty"
+   },
+   {
+    "da": "halvtreds",
+    "en": "fifty"
+   },
+   {
+    "da": "tres",
+    "en": "sixty"
+   },
+   {
+    "da": "tyve",
+    "en": "twenty"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **fyrre** år gammel.",
+   "en": "I am forty years old."
+  }
+ },
+ "fyrværkeri": {
+  "file": "f.json",
+  "explanation": "\"Fyrværkeri\" means \"fireworks\". You use no \"en\" with it: \"Vi ser fyrværkeri nytårsaften\" (We watch fireworks on New Year's Eve). For one single rocket, say \"en raket\" (a rocket).",
+  "forms": [
+   {
+    "da": "se fyrværkeri",
+    "en": "to watch fireworks"
+   },
+   {
+    "da": "fyrværkeriet er flot",
+    "en": "the fireworks are beautiful"
+   },
+   {
+    "da": "nytårsfyrværkeri",
+    "en": "New Year's fireworks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kinaprop",
+    "en": "a firecracker"
+   },
+   {
+    "da": "at fyre af",
+    "en": "to set off"
+   },
+   {
+    "da": "en stjernekaster",
+    "en": "a sparkler"
+   }
+  ],
+  "sentence": {
+   "da": "**Fyrværkeri** lyser op på nattehimlen.",
+   "en": "Fireworks light up the night sky."
+  }
+ },
+ "fysik": {
+  "file": "f.json",
+  "explanation": "\"Fysik\" means \"physics\", the study of forces, light and energy. For a school class, you leave out \"en\": \"Jeg har fysik efter frokost\" (I have physics after lunch).",
+  "forms": [
+   {
+    "da": "Jeg har fysik i dag",
+    "en": "I have physics today"
+   },
+   {
+    "da": "Fysik er svært",
+    "en": "Physics is hard"
+   },
+   {
+    "da": "en fysiklærer",
+    "en": "a physics teacher"
+   }
+  ],
+  "related": [
+   {
+    "da": "kemi",
+    "en": "chemistry"
+   },
+   {
+    "da": "biologi",
+    "en": "biology"
+   },
+   {
+    "da": "matematik",
+    "en": "math"
+   },
+   {
+    "da": "en fysiker",
+    "en": "a physicist"
+   }
+  ],
+  "sentence": {
+   "da": "I **fysik** lærer vi om lys og lyd.",
+   "en": "In physics we learn about light and sound."
+  }
+ },
+ "fysisk": {
+  "file": "f.json",
+  "explanation": "\"Fysisk\" means \"physical\", about the body or about real things you can touch. \"Et fysisk møde\" (an in-person meeting) happens in real life, not online.",
+  "forms": [
+   {
+    "da": "en fysisk test",
+    "en": "a physical test"
+   },
+   {
+    "da": "et fysisk problem",
+    "en": "a physical problem"
+   },
+   {
+    "da": "fysiske skader",
+    "en": "physical injuries"
+   }
+  ],
+  "related": [
+   {
+    "da": "psykisk",
+    "en": "mental"
+   },
+   {
+    "da": "fysik",
+    "en": "physics"
+   },
+   {
+    "da": "kropslig",
+    "en": "bodily"
+   },
+   {
+    "da": "virtuel",
+    "en": "virtual"
+   }
+  ],
+  "sentence": {
+   "da": "Løb og svømning er god **fysisk** træning.",
+   "en": "Running and swimming are good physical exercise."
+  }
+ },
+ "fælles": {
+  "file": "f.json",
+  "explanation": "\"Fælles\" means \"shared\" or \"common\", for what belongs to several people together, like a kitchen in a shared house. It also means \"mutual\", as in a friend you both know.",
+  "forms": [
+   {
+    "da": "en fælles bil",
+    "en": "a shared car"
+   },
+   {
+    "da": "et fælles hjem",
+    "en": "a shared home"
+   },
+   {
+    "da": "fælles børn",
+    "en": "children together"
+   }
+  ],
+  "related": [
+   {
+    "da": "delt",
+    "en": "shared"
+   },
+   {
+    "da": "at dele",
+    "en": "to share"
+   },
+   {
+    "da": "samlet",
+    "en": "combined"
+   },
+   {
+    "da": "gensidig",
+    "en": "mutual"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har en **fælles** ven i Aarhus.",
+   "en": "We have a mutual friend in Aarhus."
+  }
+ },
+ "fælleskøn": {
+  "file": "f.json",
+  "explanation": "\"Et fælleskøn\" means \"common gender\", the group of Danish words that go with \"en\": \"en dag\" (a day), \"en stol\" (a chair). In everyday talk people simply say \"en-ord\" (en-word).",
+  "forms": [
+   {
+    "da": "et fælleskøn",
+    "en": "a common gender"
+   },
+   {
+    "da": "fælleskønnet",
+    "en": "the common gender"
+   },
+   {
+    "da": "ord af fælleskøn",
+    "en": "words of common gender"
+   }
+  ],
+  "related": [
+   {
+    "da": "et intetkøn",
+    "en": "a neuter gender"
+   },
+   {
+    "da": "et køn",
+    "en": "a gender"
+   },
+   {
+    "da": "en artikel",
+    "en": "an article"
+   }
+  ],
+  "sentence": {
+   "da": "Ordet bil hører til **fælleskøn**, så det hedder en bil.",
+   "en": "The word car belongs to common gender, so it is en bil."
+  }
+ },
+ "fængslende": {
+  "file": "f.json",
+  "explanation": "\"Fængslende\" means \"captivating\" and describes something that holds your attention completely, such as a story, a speech or a film. It comes from at fængsle (to imprison), so it literally grabs and holds you.",
+  "forms": [
+   {
+    "da": "en fængslende bog",
+    "en": "a captivating book"
+   },
+   {
+    "da": "et fængslende foredrag",
+    "en": "a captivating lecture"
+   },
+   {
+    "da": "fængslende fortællinger",
+    "en": "captivating stories"
+   }
+  ],
+  "related": [
+   {
+    "da": "spændende",
+    "en": "exciting"
+   },
+   {
+    "da": "medrivende",
+    "en": "gripping"
+   },
+   {
+    "da": "fascinerende",
+    "en": "fascinating"
+   },
+   {
+    "da": "kedelig",
+    "en": "boring"
+   }
+  ],
+  "sentence": {
+   "da": "Bogen er så **fængslende**, at jeg læser hele natten.",
+   "en": "The book is so captivating that I read all night."
+  }
+ },
+ "færdig": {
+  "file": "f.json",
+  "explanation": "\"Færdig\" means \"finished\" or \"done\", for example after a meal or at the end of work. Do not mix it up with \"klar\" (ready), which means prepared to start: \"Er du klar?\" (Are you ready?)",
+  "forms": [
+   {
+    "da": "jeg er færdig",
+    "en": "I am finished"
+   },
+   {
+    "da": "et færdigt hus",
+    "en": "a finished house"
+   },
+   {
+    "da": "færdige opgaver",
+    "en": "finished tasks"
+   }
+  ],
+  "related": [
+   {
+    "da": "afsluttet",
+    "en": "completed"
+   },
+   {
+    "da": "at slutte",
+    "en": "to finish"
+   },
+   {
+    "da": "ufærdig",
+    "en": "unfinished"
+   },
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har skrevet brevet. Nu er jeg **færdig**.",
+   "en": "I have written the letter. Now I am done."
+  }
+ },
+ "færdig med": {
+  "file": "f.json",
+  "explanation": "\"Færdig med\" means \"finished with\". After it, say what you finished: \"Jeg er færdig med lektierne\" (I am finished with the homework). To say you finished doing something, add \"at\" before the action word: \"Jeg er færdig med at spise\" (I am finished eating).",
+  "forms": [
+   {
+    "da": "Jeg er færdig med arbejdet.",
+    "en": "I am finished with work."
+   },
+   {
+    "da": "Er du færdig med bogen?",
+    "en": "Are you finished with the book?"
+   },
+   {
+    "da": "Vi er færdige med at spise.",
+    "en": "We are done eating."
+   }
+  ],
+  "related": [
+   {
+    "da": "at slutte",
+    "en": "to end"
+   },
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "klar",
+    "en": "ready"
+   }
+  ],
+  "sentence": {
+   "da": "Nu er jeg **færdig med** arbejdet.",
+   "en": "Now I am finished with work."
+  }
+ },
+ "færdiglavet": {
+  "file": "f.json",
+  "explanation": "\"Færdiglavet\" means \"ready-made\", mostly for food that is already cooked, so you only have to heat it up. It is built from færdig (ready) and lavet (made).",
+  "forms": [
+   {
+    "da": "en færdiglavet ret",
+    "en": "a ready-made dish"
+   },
+   {
+    "da": "et færdiglavet måltid",
+    "en": "a ready-made meal"
+   },
+   {
+    "da": "færdiglavede retter",
+    "en": "ready-made dishes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en færdigret",
+    "en": "a ready meal"
+   },
+   {
+    "da": "hjemmelavet",
+    "en": "homemade"
+   },
+   {
+    "da": "tilberedt",
+    "en": "prepared"
+   }
+  ],
+  "sentence": {
+   "da": "Supermarkedet sælger **færdiglavet** mad til dem, der har travlt.",
+   "en": "The supermarket sells ready-made food for people who are busy."
+  }
+ },
+ "færre": {
+  "file": "f.json",
+  "explanation": "\"Færre\" means \"fewer\" with things in the plural: \"færre biler\" (fewer cars). With a word like \"støj\" (noise), use \"mindre\" (less): \"mindre støj\" (less noise).",
+  "forms": [
+   {
+    "da": "færre fejl",
+    "en": "fewer mistakes"
+   },
+   {
+    "da": "færre børn",
+    "en": "fewer children"
+   },
+   {
+    "da": "færre elever",
+    "en": "fewer students"
+   }
+  ],
+  "related": [
+   {
+    "da": "flere",
+    "en": "more"
+   },
+   {
+    "da": "få",
+    "en": "few"
+   },
+   {
+    "da": "mange",
+    "en": "many"
+   },
+   {
+    "da": "flest",
+    "en": "most"
+   }
+  ],
+  "sentence": {
+   "da": "Der er **færre** stole end gæster.",
+   "en": "There are fewer chairs than guests."
+  }
+ },
+ "færøerne": {
+  "file": "f.json",
+  "explanation": "\"Færøerne\" means \"the Faroe Islands\", a group of islands in the North Atlantic that belong to the Kingdom of Denmark but govern themselves in many matters. Danes say \"på Færøerne\" (on the Faroe Islands), with \"på\" like for other islands.",
+  "forms": [
+   {
+    "da": "Færøerne",
+    "en": "the Faroe Islands"
+   },
+   {
+    "da": "på Færøerne",
+    "en": "on the Faroe Islands"
+   },
+   {
+    "da": "rejse til Færøerne",
+    "en": "travel to the Faroe Islands"
+   }
+  ],
+  "related": [
+   {
+    "da": "Grønland",
+    "en": "Greenland"
+   },
+   {
+    "da": "en færing",
+    "en": "a Faroese person"
+   },
+   {
+    "da": "Tórshavn",
+    "en": "the capital of the Faroe Islands"
+   }
+  ],
+  "sentence": {
+   "da": "**Færøerne** ligger i Atlanterhavet mellem Skotland og Island.",
+   "en": "The Faroe Islands lie in the Atlantic between Scotland and Iceland."
+  }
+ },
+ "færøsk": {
+  "file": "f.json",
+  "explanation": "\"Færøsk\" means \"Faroese\", both for things from the Faroe Islands and for the language spoken there. Like other languages and nationalities in Danish, it is written with a lowercase letter.",
+  "forms": [
+   {
+    "da": "en færøsk fisker",
+    "en": "a Faroese fisherman"
+   },
+   {
+    "da": "et færøsk flag",
+    "en": "a Faroese flag"
+   },
+   {
+    "da": "færøske sange",
+    "en": "Faroese songs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en færing",
+    "en": "a Faroese person"
+   },
+   {
+    "da": "Færøerne",
+    "en": "the Faroe Islands"
+   },
+   {
+    "da": "islandsk",
+    "en": "Icelandic"
+   },
+   {
+    "da": "norsk",
+    "en": "Norwegian"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er fra Tórshavn og taler **færøsk** derhjemme.",
+   "en": "She is from Tórshavn and speaks Faroese at home."
+  }
+ },
+ "føj": {
+  "file": "f.json",
+  "explanation": "\"Føj\" means \"yuck\". You say it when you smell, taste or see something disgusting. Parents also say it to children to stop them touching something: \"Føj, læg den fra dig\" (Yuck, put it down).",
+  "forms": [
+   {
+    "da": "Føj!",
+    "en": "Yuck!"
+   },
+   {
+    "da": "Føj, det lugter!",
+    "en": "Yuck, it smells!"
+   },
+   {
+    "da": "Føj, hvor ulækkert!",
+    "en": "Yuck, how disgusting!"
+   }
+  ],
+  "related": [
+   {
+    "da": "ad",
+    "en": "yuck"
+   },
+   {
+    "da": "ulækker",
+    "en": "disgusting"
+   },
+   {
+    "da": "klam",
+    "en": "gross"
+   },
+   {
+    "da": "lækker",
+    "en": "tasty"
+   }
+  ],
+  "sentence": {
+   "da": "**Føj**, der er en edderkop i badekarret!",
+   "en": "Yuck, there is a spider in the bathtub!"
+  }
+ },
+ "følelsesmæssigt": {
+  "file": "f.json",
+  "explanation": "\"Følelsesmæssigt\" means \"emotionally\", as in \"følelsesmæssigt svært\" (emotionally hard). The ending -mæssigt means \"in terms of\", so \"tidsmæssigt\" means \"time-wise\".",
+  "forms": [
+   {
+    "da": "Jeg er følelsesmæssigt træt",
+    "en": "I am emotionally tired"
+   },
+   {
+    "da": "Hun reagerede følelsesmæssigt",
+    "en": "She reacted emotionally"
+   },
+   {
+    "da": "Det er følelsesmæssigt svært",
+    "en": "It is emotionally hard"
+   }
+  ],
+  "related": [
+   {
+    "da": "fysisk",
+    "en": "physically"
+   },
+   {
+    "da": "psykisk",
+    "en": "mentally"
+   },
+   {
+    "da": "økonomisk",
+    "en": "financially"
+   },
+   {
+    "da": "socialt",
+    "en": "socially"
+   }
+  ],
+  "sentence": {
+   "da": "Han er stærk fysisk, men **følelsesmæssigt** er han sårbar.",
+   "en": "He is strong physically, but emotionally he is vulnerable."
+  }
+ },
+ "følgende": {
+  "file": "f.json",
+  "explanation": "\"Følgende\" means \"following\", the next thing in a list or in time. You write it the same after \"den\", \"det\" and \"de\": \"den følgende dag\" (the following day), \"de følgende dage\" (the following days).",
+  "forms": [
+   {
+    "da": "i den følgende uge",
+    "en": "in the following week"
+   },
+   {
+    "da": "følgende regler",
+    "en": "the following rules"
+   },
+   {
+    "da": "det følgende afsnit",
+    "en": "the following section"
+   }
+  ],
+  "related": [
+   {
+    "da": "næste",
+    "en": "next"
+   },
+   {
+    "da": "forrige",
+    "en": "previous"
+   },
+   {
+    "da": "foregående",
+    "en": "preceding"
+   },
+   {
+    "da": "at følge",
+    "en": "to follow"
+   }
+  ],
+  "sentence": {
+   "da": "Den **følgende** dag skinnede solen igen.",
+   "en": "The following day the sun shone again."
+  }
+ },
+ "følsom": {
+  "file": "f.json",
+  "explanation": "\"Følsom\" means \"sensitive\", for people who feel things strongly, and for skin or things that react easily, such as \"følsom hud\" (sensitive skin). Add \"over for\" (to) for what someone reacts to: \"følsom over for kritik\" (sensitive to criticism).",
+  "forms": [
+   {
+    "da": "en følsom pige",
+    "en": "a sensitive girl"
+   },
+   {
+    "da": "et følsomt barn",
+    "en": "a sensitive child"
+   },
+   {
+    "da": "følsomme børn",
+    "en": "sensitive children"
+   }
+  ],
+  "related": [
+   {
+    "da": "en følelse",
+    "en": "a feeling"
+   },
+   {
+    "da": "at føle",
+    "en": "to feel"
+   },
+   {
+    "da": "sårbar",
+    "en": "vulnerable"
+   },
+   {
+    "da": "hårdhudet",
+    "en": "thick-skinned"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **følsom** og græder let ved triste film.",
+   "en": "He is sensitive and cries easily at sad movies."
+  }
+ },
+ "før": {
+  "file": "f.json",
+  "explanation": "\"Før\" means \"before\" in time. For place, use \"foran\" (in front of): \"foran huset\" (in front of the house).",
+  "forms": [
+   {
+    "da": "før klokken fem",
+    "en": "before five o'clock"
+   },
+   {
+    "da": "før i tiden",
+    "en": "in the past"
+   },
+   {
+    "da": "før du går",
+    "en": "before you go"
+   }
+  ],
+  "related": [
+   {
+    "da": "efter",
+    "en": "after"
+   },
+   {
+    "da": "inden",
+    "en": "before"
+   },
+   {
+    "da": "først",
+    "en": "first"
+   },
+   {
+    "da": "tidligere",
+    "en": "earlier"
+   }
+  ],
+  "sentence": {
+   "da": "Klokken fire er **før** klokken fem.",
+   "en": "Four o'clock is before five o'clock."
+  }
+ },
+ "førdatid": {
+  "file": "f.json",
+  "explanation": "\"En førdatid\" means \"past perfect\", the tense built with \"havde\" (had) or \"var\" (was) plus a verb: \"Hun var gået, da jeg kom\" (She had left when I came).",
+  "forms": [
+   {
+    "da": "en førdatid",
+    "en": "a past perfect"
+   },
+   {
+    "da": "førdatiden",
+    "en": "the past perfect"
+   },
+   {
+    "da": "Jeg havde læst",
+    "en": "I had read"
+   }
+  ],
+  "related": [
+   {
+    "da": "en datid",
+    "en": "a past tense"
+   },
+   {
+    "da": "en nutid",
+    "en": "a present tense"
+   },
+   {
+    "da": "en førnutid",
+    "en": "a present perfect"
+   },
+   {
+    "da": "en fremtid",
+    "en": "a future tense"
+   }
+  ],
+  "sentence": {
+   "da": "Man bruger **førdatid** om noget, der skete før noget andet.",
+   "en": "You use past perfect about something that happened before something else."
+  }
+ },
+ "førende": {
+  "file": "f.json",
+  "explanation": "\"Førende\" means \"leading\" and describes the best or most important one in a field, not the one who goes first in a line. It comes from at føre (to lead).",
+  "forms": [
+   {
+    "da": "en førende virksomhed",
+    "en": "a leading company"
+   },
+   {
+    "da": "et førende land",
+    "en": "a leading country"
+   },
+   {
+    "da": "førende eksperter",
+    "en": "leading experts"
+   }
+  ],
+  "related": [
+   {
+    "da": "toneangivende",
+    "en": "influential"
+   },
+   {
+    "da": "ledende",
+    "en": "leading, managing"
+   },
+   {
+    "da": "en leder",
+    "en": "a leader"
+   },
+   {
+    "da": "fremtrædende",
+    "en": "prominent"
+   }
+  ],
+  "sentence": {
+   "da": "Han er den **førende** ekspert i dansk grammatik.",
+   "en": "He is the leading expert in Danish grammar."
+  }
+ },
+ "førnutid": {
+  "file": "f.json",
+  "explanation": "\"En førnutid\" means \"present perfect\", the tense with \"har\" (have) or \"er\" (am, is) plus a verb, for what has happened up to now: \"Jeg har købt brød\" (I have bought bread).",
+  "forms": [
+   {
+    "da": "en førnutid",
+    "en": "a present perfect"
+   },
+   {
+    "da": "førnutiden",
+    "en": "the present perfect"
+   },
+   {
+    "da": "Jeg er kommet",
+    "en": "I have come"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nutid",
+    "en": "a present tense"
+   },
+   {
+    "da": "en datid",
+    "en": "a past tense"
+   },
+   {
+    "da": "en førdatid",
+    "en": "a past perfect"
+   },
+   {
+    "da": "en fremtid",
+    "en": "a future tense"
+   }
+  ],
+  "sentence": {
+   "da": "Man bruger **førnutid**, når noget er sket og stadig betyder noget nu.",
+   "en": "You use present perfect when something has happened and still matters now."
+  }
+ },
+ "først": {
+  "file": "f.json",
+  "explanation": "\"Først\" means \"first\" or \"not until\". For \"first\", say \"Du går først\" (You go first). For \"not until\", say \"Jeg kommer først i morgen\" (I am not coming until tomorrow). Do not mix it up with \"første\" (the first one): \"den første dag\" (the first day).",
+  "forms": [
+   {
+    "da": "først og fremmest",
+    "en": "first of all"
+   },
+   {
+    "da": "Jeg kommer først kl. 8.",
+    "en": "I am not coming until 8."
+   },
+   {
+    "da": "Du går først.",
+    "en": "You go first."
+   }
+  ],
+  "related": [
+   {
+    "da": "sidst",
+    "en": "last"
+   },
+   {
+    "da": "derefter",
+    "en": "after that"
+   },
+   {
+    "da": "til sidst",
+    "en": "finally"
+   },
+   {
+    "da": "senere",
+    "en": "later"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiser **først** og går bagefter.",
+   "en": "We eat first and go afterwards."
+  }
+ },
+ "først og fremmest": {
+  "file": "f.json",
+  "explanation": "\"Først og fremmest\" means \"first and foremost\". Use it to name your main point before the smaller ones: \"Først og fremmest tak for hjælpen\" (First and foremost, thank you for the help).",
+  "forms": [
+   {
+    "da": "først og fremmest",
+    "en": "first and foremost"
+   },
+   {
+    "da": "Først og fremmest tak!",
+    "en": "First and foremost, thank you!"
+   },
+   {
+    "da": "Først og fremmest skal du hvile.",
+    "en": "First and foremost, you must rest."
+   }
+  ],
+  "related": [
+   {
+    "da": "for det første",
+    "en": "first of all"
+   },
+   {
+    "da": "frem for alt",
+    "en": "above all"
+   },
+   {
+    "da": "især",
+    "en": "especially"
+   },
+   {
+    "da": "hovedsageligt",
+    "en": "mainly"
+   }
+  ],
+  "sentence": {
+   "da": "**Først og fremmest** skal du hvile dig.",
+   "en": "First and foremost, you need to rest."
+  }
+ },
+ "første": {
+  "file": "f.json",
+  "explanation": "\"Første\" means \"first\" in a list or order. It is used in dates: \"den første maj\" (the first of May), written \"1. maj\". Do not mix it up with \"først\" (first, not until), which tells when something happens: \"Først spiser vi\" (First we eat).",
+  "forms": [
+   {
+    "da": "første",
+    "en": "first"
+   },
+   {
+    "da": "den første dag",
+    "en": "the first day"
+   },
+   {
+    "da": "det første hus",
+    "en": "the first house"
+   }
+  ],
+  "related": [
+   {
+    "da": "sidste",
+    "en": "last"
+   },
+   {
+    "da": "anden",
+    "en": "second"
+   },
+   {
+    "da": "tredje",
+    "en": "third"
+   },
+   {
+    "da": "næste",
+    "en": "next"
+   }
+  ],
+  "sentence": {
+   "da": "Januar er årets **første** måned.",
+   "en": "January is the first month of the year."
+  }
+ },
+ "førstehjælp": {
+  "file": "f.json",
+  "explanation": "\"Førstehjælp\" means \"first aid\", the help you give right away to someone who is hurt. It is built from første (first) and hjælp (help). The kit you keep at home is \"en førstehjælpskasse\" (a first aid box).",
+  "forms": [
+   {
+    "da": "førstehjælp",
+    "en": "first aid"
+   },
+   {
+    "da": "at give førstehjælp",
+    "en": "to give first aid"
+   },
+   {
+    "da": "et førstehjælpskursus",
+    "en": "a first aid course"
+   }
+  ],
+  "related": [
+   {
+    "da": "en læge",
+    "en": "a doctor"
+   },
+   {
+    "da": "en ambulance",
+    "en": "an ambulance"
+   },
+   {
+    "da": "et plaster",
+    "en": "a bandage"
+   },
+   {
+    "da": "en skade",
+    "en": "an injury"
+   }
+  ],
+  "sentence": {
+   "da": "Man giver **førstehjælp**, når nogen kommer til skade.",
+   "en": "You give first aid when someone gets hurt."
+  }
+ },
+ "at gabe": {
+  "file": "g.json",
+  "explanation": "\"At gabe\" means \"to yawn\", to open your mouth wide when you are sleepy or bored. It also describes a big opening: \"Hullet gaber\" (The hole gapes).",
+  "forms": [
+   {
+    "da": "at gabe",
+    "en": "to yawn"
+   },
+   {
+    "da": "jeg gaber",
+    "en": "I yawn"
+   },
+   {
+    "da": "jeg gabede",
+    "en": "I yawned"
+   },
+   {
+    "da": "jeg har gabet",
+    "en": "I have yawned"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gaben",
+    "en": "a yawn"
+   },
+   {
+    "da": "at sukke",
+    "en": "to sigh"
+   },
+   {
+    "da": "at gispe",
+    "en": "to gasp"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke lade være med at **gabe**, når jeg er træt.",
+   "en": "I cannot help yawning when I am tired."
+  }
+ },
+ "at gange": {
+  "file": "g.json",
+  "explanation": "\"At gange\" means \"to multiply\": \"Jeg ganger to med tre\" (I multiply two by three). It comes from \"gange\" (times): \"Tre gange to er seks\" (Three times two is six).",
+  "forms": [
+   {
+    "da": "at gange",
+    "en": "to multiply"
+   },
+   {
+    "da": "jeg ganger",
+    "en": "I multiply"
+   },
+   {
+    "da": "jeg gangede",
+    "en": "I multiplied"
+   },
+   {
+    "da": "jeg har ganget",
+    "en": "I have multiplied"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dividere",
+    "en": "to divide"
+   },
+   {
+    "da": "at lægge sammen",
+    "en": "to add up"
+   },
+   {
+    "da": "at trække fra",
+    "en": "to subtract"
+   },
+   {
+    "da": "multiplikation",
+    "en": "multiplication"
+   }
+  ],
+  "sentence": {
+   "da": "I skolen lærer vi at **gange** og dividere.",
+   "en": "At school we learn to multiply and divide."
+  }
+ },
+ "at garantere": {
+  "file": "g.json",
+  "explanation": "\"At garantere\" means \"to guarantee\", to promise firmly that something is true or will happen: \"Jeg garanterer, at den virker\" (I guarantee that it works). It is stronger than \"at love\" (to promise).",
+  "forms": [
+   {
+    "da": "at garantere",
+    "en": "to guarantee"
+   },
+   {
+    "da": "jeg garanterer",
+    "en": "I guarantee"
+   },
+   {
+    "da": "jeg garanterede",
+    "en": "I guaranteed"
+   },
+   {
+    "da": "jeg har garanteret",
+    "en": "I have guaranteed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en garanti",
+    "en": "a guarantee"
+   },
+   {
+    "da": "at forsikre",
+    "en": "to assure"
+   },
+   {
+    "da": "at sikre",
+    "en": "to make certain"
+   }
+  ],
+  "sentence": {
+   "da": "Butikken vil **garantere**, at varen kan sendes tilbage inden for tredive dage.",
+   "en": "The store will guarantee that the item can be sent back within thirty days."
+  }
+ },
+ "at gemme": {
+  "file": "g.json",
+  "explanation": "\"At gemme\" means \"to save\", like a file or something you keep for later. It can also mean \"to hide\": \"Hun gemte nøglen\" (She hid the key).",
+  "forms": [
+   {
+    "da": "at gemme",
+    "en": "to save (store)"
+   },
+   {
+    "da": "jeg gemmer",
+    "en": "I save / hide"
+   },
+   {
+    "da": "jeg gemte",
+    "en": "I saved / hid"
+   },
+   {
+    "da": "jeg har gemt",
+    "en": "I have saved / hidden"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skjule",
+    "en": "to hide"
+   },
+   {
+    "da": "at beholde",
+    "en": "to keep"
+   },
+   {
+    "da": "at spare",
+    "en": "to save (money)"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **gemme** billedet på min telefon.",
+   "en": "I want to save the picture on my phone."
+  }
+ }
+}

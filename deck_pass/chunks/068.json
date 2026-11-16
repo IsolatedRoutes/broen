@@ -1,0 +1,3966 @@
+{
+ "stråling": {
+  "file": "s.json",
+  "explanation": "\"Stråling\" means \"radiation\": energy that travels as rays, such as heat and light. It comes from \"en stråle\" (a ray).",
+  "forms": [
+   {
+    "da": "stråling",
+    "en": "radiation"
+   },
+   {
+    "da": "strålingen",
+    "en": "the radiation"
+   },
+   {
+    "da": "farlig stråling",
+    "en": "dangerous radiation"
+   }
+  ],
+  "related": [
+   {
+    "da": "radioaktiv",
+    "en": "radioactive"
+   },
+   {
+    "da": "røntgen",
+    "en": "X-ray"
+   },
+   {
+    "da": "en bølgelængde",
+    "en": "a wavelength"
+   }
+  ],
+  "sentence": {
+   "da": "For meget **stråling** fra solen kan skade huden.",
+   "en": "Too much radiation from the sun can damage the skin."
+  }
+ },
+ "strøm": {
+  "file": "s.json",
+  "explanation": "\"Strøm\" means \"electricity\", the power that runs your home. It also means a \"current\" in water: \"en stærk strøm i floden\" (a strong current in the river).",
+  "forms": [
+   {
+    "da": "strøm",
+    "en": "electricity"
+   },
+   {
+    "da": "strømmen",
+    "en": "the electricity / power"
+   },
+   {
+    "da": "dyr strøm",
+    "en": "expensive electricity"
+   }
+  ],
+  "related": [
+   {
+    "da": "el",
+    "en": "electricity"
+   },
+   {
+    "da": "en elregning",
+    "en": "an electricity bill"
+   },
+   {
+    "da": "en stikkontakt",
+    "en": "a power outlet"
+   },
+   {
+    "da": "en ledning",
+    "en": "a cord"
+   }
+  ],
+  "sentence": {
+   "da": "Lamper og computere bruger **strøm**.",
+   "en": "Lamps and computers use electricity."
+  }
+ },
+ "strømpebukser": {
+  "file": "s.json",
+  "explanation": "\"Strømpebukser\" means \"tights\", the thin legwear worn under skirts and dresses. Like \"tights\" in English, it is plural even for one pair: \"et par strømpebukser\" (a pair of tights).",
+  "forms": [
+   {
+    "da": "mine strømpebukser",
+    "en": "my tights"
+   },
+   {
+    "da": "sorte strømpebukser",
+    "en": "black tights"
+   },
+   {
+    "da": "et par strømpebukser",
+    "en": "a pair of tights"
+   }
+  ],
+  "related": [
+   {
+    "da": "en strømpe",
+    "en": "a stocking"
+   },
+   {
+    "da": "leggings",
+    "en": "leggings"
+   },
+   {
+    "da": "en sok",
+    "en": "a sock"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har sorte **strømpebukser** på til kjolen.",
+   "en": "She is wearing black tights with the dress."
+  }
+ },
+ "styrketræning": {
+  "file": "s.json",
+  "explanation": "\"Styrketræning\" means \"strength training\", exercise that makes muscles stronger, such as lifting weights. Exercise for stamina, like running, is called \"konditionstræning\" (cardio training).",
+  "forms": [
+   {
+    "da": "styrketræning",
+    "en": "strength training"
+   },
+   {
+    "da": "styrketræningen",
+    "en": "the strength training"
+   },
+   {
+    "da": "styrketræning to gange om ugen",
+    "en": "strength training twice a week"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fitnesscenter",
+    "en": "a gym"
+   },
+   {
+    "da": "en håndvægt",
+    "en": "a dumbbell"
+   },
+   {
+    "da": "en vægtstang",
+    "en": "a barbell"
+   },
+   {
+    "da": "en træningsmaskine",
+    "en": "an exercise machine"
+   }
+  ],
+  "sentence": {
+   "da": "Med **styrketræning** bliver musklerne større og stærkere.",
+   "en": "With strength training, the muscles get bigger and stronger."
+  }
+ },
+ "stål": {
+  "file": "s.json",
+  "explanation": "\"Stål\" means \"steel\", the hard, strong metal made from iron. Leave out \"et\" when you mean the material: \"Gaflen er af stål\" (The fork is made of steel).",
+  "forms": [
+   {
+    "da": "stål",
+    "en": "steel"
+   },
+   {
+    "da": "rustfrit stål",
+    "en": "stainless steel"
+   },
+   {
+    "da": "en bro af stål",
+    "en": "a bridge made of steel"
+   }
+  ],
+  "related": [
+   {
+    "da": "kobber",
+    "en": "copper"
+   },
+   {
+    "da": "aluminium",
+    "en": "aluminum"
+   },
+   {
+    "da": "sølv",
+    "en": "silver"
+   },
+   {
+    "da": "bly",
+    "en": "lead"
+   }
+  ],
+  "sentence": {
+   "da": "Broen er lavet af **stål** og er meget stærk.",
+   "en": "The bridge is made of steel and is very strong."
+  }
+ },
+ "stædig": {
+  "file": "s.json",
+  "explanation": "\"Stædig\" means \"stubborn\", for someone who will not change their mind. Danes often say it about children and animals.",
+  "forms": [
+   {
+    "da": "en stædig hest",
+    "en": "a stubborn horse"
+   },
+   {
+    "da": "et stædigt barn",
+    "en": "a stubborn child"
+   },
+   {
+    "da": "stædige børn",
+    "en": "stubborn children"
+   }
+  ],
+  "related": [
+   {
+    "da": "halsstarrig",
+    "en": "headstrong"
+   },
+   {
+    "da": "genstridig",
+    "en": "obstinate"
+   },
+   {
+    "da": "fleksibel",
+    "en": "flexible"
+   },
+   {
+    "da": "en stædighed",
+    "en": "stubbornness"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **stædig** og vil aldrig lytte til andre.",
+   "en": "He is stubborn and never wants to listen to others."
+  }
+ },
+ "stærk": {
+  "file": "s.json",
+  "explanation": "\"Stærk\" means \"strong\" and is used for anything with a lot of force or strength, such as people, animals, drinks, wind and feelings. For food it also means \"hot\" or \"spicy\": \"en stærk sovs\" (a spicy sauce).",
+  "forms": [
+   {
+    "da": "en stærk mand",
+    "en": "a strong man"
+   },
+   {
+    "da": "et stærkt lys",
+    "en": "a strong light"
+   },
+   {
+    "da": "stærke mænd",
+    "en": "strong men"
+   }
+  ],
+  "related": [
+   {
+    "da": "svag",
+    "en": "weak"
+   },
+   {
+    "da": "styrke",
+    "en": "strength"
+   },
+   {
+    "da": "kraftig",
+    "en": "powerful"
+   },
+   {
+    "da": "mild",
+    "en": "mild"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **stærk** og kan løfte tunge ting.",
+   "en": "He is strong and can lift heavy things."
+  }
+ },
+ "støj": {
+  "file": "s.json",
+  "explanation": "\"Støj\" means \"noise\", the unwanted kind such as traffic or loud neighbors. For a sound you like, use \"lyd\" (sound): \"en dejlig lyd\" (a lovely sound).",
+  "forms": [
+   {
+    "da": "støj",
+    "en": "noise"
+   },
+   {
+    "da": "støjen",
+    "en": "the noise"
+   },
+   {
+    "da": "en høj støj",
+    "en": "a loud noise"
+   },
+   {
+    "da": "Støjen er irriterende.",
+    "en": "The noise is annoying."
+   }
+  ],
+  "related": [
+   {
+    "da": "at støje",
+    "en": "to make noise"
+   },
+   {
+    "da": "støjende",
+    "en": "noisy"
+   },
+   {
+    "da": "larm",
+    "en": "loud noise"
+   },
+   {
+    "da": "stilhed",
+    "en": "silence"
+   }
+  ],
+  "sentence": {
+   "da": "Naboerne laver meget **støj** om natten.",
+   "en": "The neighbors make a lot of noise at night."
+  }
+ },
+ "støjende": {
+  "file": "s.json",
+  "explanation": "\"Støjende\" means \"noisy\", for a person or place that is loud all the time. For something that is loud right now, use \"høj\" (loud): \"høj musik\" (loud music).",
+  "forms": [
+   {
+    "da": "en støjende nabo",
+    "en": "a noisy neighbor"
+   },
+   {
+    "da": "et støjende værelse",
+    "en": "a noisy room"
+   },
+   {
+    "da": "støjende naboer",
+    "en": "noisy neighbors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en støj",
+    "en": "a noise"
+   },
+   {
+    "da": "at støje",
+    "en": "to make noise"
+   },
+   {
+    "da": "stille",
+    "en": "quiet"
+   },
+   {
+    "da": "larmende",
+    "en": "rowdy / noisy"
+   }
+  ],
+  "sentence": {
+   "da": "Vores naboer er meget **støjende** om natten.",
+   "en": "Our neighbors are very noisy at night."
+  }
+ },
+ "størst": {
+  "file": "s.json",
+  "explanation": "\"Størst\" means \"biggest\" or \"largest\", the one that nothing else beats. \"Større\" means \"bigger\" and is for two things: \"Hun er større\" (She is bigger). \"Størst\" is for the top one among three or more: \"Han er størst\" (He is the biggest).",
+  "forms": [
+   {
+    "da": "den største by",
+    "en": "the biggest city"
+   },
+   {
+    "da": "det største hus",
+    "en": "the biggest house"
+   },
+   {
+    "da": "de største byer",
+    "en": "the biggest cities"
+   }
+  ],
+  "related": [
+   {
+    "da": "stor",
+    "en": "big"
+   },
+   {
+    "da": "mindst",
+    "en": "smallest"
+   },
+   {
+    "da": "lille",
+    "en": "small"
+   },
+   {
+    "da": "mindre",
+    "en": "smaller"
+   }
+  ],
+  "sentence": {
+   "da": "Hvalen er **størst** af dyrene.",
+   "en": "The whale is the biggest of the animals."
+  }
+ },
+ "støv": {
+  "file": "s.json",
+  "explanation": "\"Støv\" means \"dust\", the fine dry kind that settles on shelves and floors. To clean it, use \"at tørre støv af\" (to wipe dust off).",
+  "forms": [
+   {
+    "da": "lidt støv",
+    "en": "a little dust"
+   },
+   {
+    "da": "støvet",
+    "en": "the dust"
+   },
+   {
+    "da": "støv i luften",
+    "en": "dust in the air"
+   }
+  ],
+  "related": [
+   {
+    "da": "en støvsuger",
+    "en": "a vacuum cleaner"
+   },
+   {
+    "da": "at støvsuge",
+    "en": "to vacuum"
+   },
+   {
+    "da": "snavs",
+    "en": "dirt"
+   },
+   {
+    "da": "at feje",
+    "en": "to sweep"
+   }
+  ],
+  "sentence": {
+   "da": "Der er meget **støv** under sofaen.",
+   "en": "There is a lot of dust under the sofa."
+  }
+ },
+ "støvler": {
+  "file": "s.json",
+  "explanation": "\"Støvler\" means \"boots\", sturdy footwear that covers the ankle or more, worn in wet or cold weather. A pair is \"et par støvler\" (a pair of boots).",
+  "forms": [
+   {
+    "da": "støvlerne",
+    "en": "the boots"
+   },
+   {
+    "da": "varme støvler",
+    "en": "warm boots"
+   },
+   {
+    "da": "gummistøvler",
+    "en": "rubber boots"
+   }
+  ],
+  "related": [
+   {
+    "da": "en støvle",
+    "en": "a boot"
+   },
+   {
+    "da": "sko",
+    "en": "shoes"
+   },
+   {
+    "da": "sandaler",
+    "en": "sandals"
+   },
+   {
+    "da": "en hjemmesko",
+    "en": "a slipper"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager **støvler** på i regnen.",
+   "en": "I put on boots in the rain."
+  }
+ },
+ "støvregn": {
+  "file": "s.json",
+  "explanation": "\"Støvregn\" means \"drizzle\", very fine rain that feels almost like mist. It is built from støv (dust) and regn (rain): drops as small as dust.",
+  "forms": [
+   {
+    "da": "støvregn",
+    "en": "drizzle"
+   },
+   {
+    "da": "støvregnen",
+    "en": "the drizzle"
+   },
+   {
+    "da": "støvregn i morges",
+    "en": "drizzle this morning"
+   }
+  ],
+  "related": [
+   {
+    "da": "et regnvejr",
+    "en": "rainy weather"
+   },
+   {
+    "da": "en byge",
+    "en": "a shower"
+   },
+   {
+    "da": "tåge",
+    "en": "fog"
+   },
+   {
+    "da": "et skybrud",
+    "en": "a cloudburst"
+   }
+  ],
+  "sentence": {
+   "da": "I **støvregn** bliver man næsten ikke våd.",
+   "en": "In drizzle you hardly get wet."
+  }
+ },
+ "su": {
+  "file": "s.json",
+  "explanation": "\"SU\" means \"Danish student grant\", the monthly money the state pays to people who study at a university or college. The letters stand for \"statens uddannelsesstøtte\" (the state's study support).",
+  "forms": [
+   {
+    "da": "en SU",
+    "en": "a student grant"
+   },
+   {
+    "da": "SU'en",
+    "en": "the student grant"
+   },
+   {
+    "da": "at søge om SU",
+    "en": "to apply for the grant"
+   }
+  ],
+  "related": [
+   {
+    "da": "et studielån",
+    "en": "a study loan"
+   },
+   {
+    "da": "et stipendium",
+    "en": "a scholarship"
+   },
+   {
+    "da": "et studiejob",
+    "en": "a job during studies"
+   }
+  ],
+  "sentence": {
+   "da": "Studerende på universitetet får **SU** hver måned.",
+   "en": "Students at the university get SU every month."
+  }
+ },
+ "subjektiv": {
+  "file": "s.json",
+  "explanation": "\"Subjektiv\" means \"subjective\", based on personal taste and views instead of facts.",
+  "forms": [
+   {
+    "da": "en subjektiv holdning",
+    "en": "a subjective view"
+   },
+   {
+    "da": "et subjektivt indtryk",
+    "en": "a subjective impression"
+   },
+   {
+    "da": "subjektive vurderinger",
+    "en": "subjective judgments"
+   }
+  ],
+  "related": [
+   {
+    "da": "objektiv",
+    "en": "objective"
+   },
+   {
+    "da": "en mening",
+    "en": "an opinion"
+   },
+   {
+    "da": "en følelse",
+    "en": "a feeling"
+   },
+   {
+    "da": "partisk",
+    "en": "biased"
+   }
+  ],
+  "sentence": {
+   "da": "Smag er **subjektiv**.",
+   "en": "Taste is subjective."
+  }
+ },
+ "succesfuld": {
+  "file": "s.json",
+  "explanation": "\"Succesfuld\" means \"successful\", for a person, a plan or a business that reaches its goal.",
+  "forms": [
+   {
+    "da": "en succesfuld dag",
+    "en": "a successful day"
+   },
+   {
+    "da": "et succesfuldt møde",
+    "en": "a successful meeting"
+   },
+   {
+    "da": "succesfulde planer",
+    "en": "successful plans"
+   }
+  ],
+  "related": [
+   {
+    "da": "en succes",
+    "en": "a success"
+   },
+   {
+    "da": "mislykket",
+    "en": "unsuccessful"
+   },
+   {
+    "da": "vellykket",
+    "en": "turned out well"
+   },
+   {
+    "da": "heldig",
+    "en": "lucky"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er en **succesfuld** læge.",
+   "en": "She is a successful doctor."
+  }
+ },
+ "sukker": {
+  "file": "s.json",
+  "explanation": "\"Sukker\" means \"sugar\", the white powder used in baking and drinks.",
+  "forms": [
+   {
+    "da": "noget sukker",
+    "en": "some sugar"
+   },
+   {
+    "da": "sukkeret",
+    "en": "the sugar"
+   },
+   {
+    "da": "et stykke sukker",
+    "en": "a lump of sugar"
+   }
+  ],
+  "related": [
+   {
+    "da": "sød",
+    "en": "sweet"
+   },
+   {
+    "da": "sukkerfri",
+    "en": "sugar-free"
+   },
+   {
+    "da": "honning",
+    "en": "honey"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil have **sukker** i kaffen.",
+   "en": "I want sugar in my coffee."
+  }
+ },
+ "sult": {
+  "file": "s.json",
+  "explanation": "\"Sult\" means \"hunger\", the problem of people not having enough food: \"Der er sult i verden\" (There is hunger in the world). To say you are hungry, use \"sulten\" (hungry): \"Jeg er sulten\" (I am hungry), not \"Jeg har sult\".",
+  "forms": [
+   {
+    "da": "sult",
+    "en": "hunger"
+   },
+   {
+    "da": "dø af sult",
+    "en": "die of hunger"
+   },
+   {
+    "da": "en stor sult",
+    "en": "a great hunger"
+   },
+   {
+    "da": "ingen sult",
+    "en": "no hunger"
+   }
+  ],
+  "related": [
+   {
+    "da": "tørst",
+    "en": "thirst"
+   },
+   {
+    "da": "mæt",
+    "en": "full"
+   },
+   {
+    "da": "en appetit",
+    "en": "an appetite"
+   },
+   {
+    "da": "at sulte",
+    "en": "to starve"
+   }
+  ],
+  "sentence": {
+   "da": "Mange mennesker i verden lider af **sult** og har ikke mad.",
+   "en": "Many people in the world suffer from hunger and have no food."
+  }
+ },
+ "sulten": {
+  "file": "s.json",
+  "explanation": "\"Sulten\" means \"hungry\", the feeling that your body wants food. It describes a person or animal.",
+  "forms": [
+   {
+    "da": "en sulten dreng",
+    "en": "a hungry boy"
+   },
+   {
+    "da": "et sultent barn",
+    "en": "a hungry child"
+   },
+   {
+    "da": "sultne børn",
+    "en": "hungry children"
+   }
+  ],
+  "related": [
+   {
+    "da": "mæt",
+    "en": "full"
+   },
+   {
+    "da": "tørstig",
+    "en": "thirsty"
+   },
+   {
+    "da": "sult",
+    "en": "hunger"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er meget **sulten** og vil spise.",
+   "en": "I am very hungry and want to eat."
+  }
+ },
+ "sund": {
+  "file": "s.json",
+  "explanation": "\"Sund\" means \"healthy\", good for your body, such as fruit, sleep and exercise. Do not mix it up with \"rask\" (well, not sick): \"Jeg er rask igen\" (I am well again).",
+  "forms": [
+   {
+    "da": "en sund kost",
+    "en": "a healthy diet"
+   },
+   {
+    "da": "et sundt valg",
+    "en": "a healthy choice"
+   },
+   {
+    "da": "sunde børn",
+    "en": "healthy children"
+   }
+  ],
+  "related": [
+   {
+    "da": "usund",
+    "en": "unhealthy"
+   },
+   {
+    "da": "sundhed",
+    "en": "health"
+   },
+   {
+    "da": "syg",
+    "en": "sick"
+   },
+   {
+    "da": "helbred",
+    "en": "health"
+   }
+  ],
+  "sentence": {
+   "da": "Æbler og gulerødder er **sund** mad.",
+   "en": "Apples and carrots are healthy food."
+  }
+ },
+ "sundhed": {
+  "file": "s.json",
+  "explanation": "\"Sundhed\" means \"health\" as a topic: \"Sundhed er vigtigt\" (Health is important). For a person's own condition, Danes say \"helbred\" (health): \"Han har dårligt helbred\" (He is in poor health).",
+  "forms": [
+   {
+    "da": "sundhed",
+    "en": "health"
+   },
+   {
+    "da": "sundheden",
+    "en": "the health"
+   },
+   {
+    "da": "Det er godt for sundheden.",
+    "en": "It is good for your health."
+   }
+  ],
+  "related": [
+   {
+    "da": "sund",
+    "en": "healthy"
+   },
+   {
+    "da": "et sundhedsvæsen",
+    "en": "a healthcare system"
+   },
+   {
+    "da": "en sygdom",
+    "en": "an illness"
+   }
+  ],
+  "sentence": {
+   "da": "Frugt og søvn er gode for din **sundhed**.",
+   "en": "Fruit and sleep are good for your health."
+  }
+ },
+ "sundhedsvæsenet": {
+  "file": "s.json",
+  "explanation": "\"Sundhedsvæsenet\" means \"the healthcare system\", all the hospitals, family doctors and other care that a country offers its people.",
+  "forms": [
+   {
+    "da": "et sundhedsvæsen",
+    "en": "a healthcare system"
+   },
+   {
+    "da": "sundhedsvæsenet",
+    "en": "the healthcare system"
+   },
+   {
+    "da": "sundhedsvæsener",
+    "en": "healthcare systems"
+   }
+  ],
+  "related": [
+   {
+    "da": "en patient",
+    "en": "a patient"
+   },
+   {
+    "da": "en behandling",
+    "en": "a treatment"
+   },
+   {
+    "da": "en region",
+    "en": "a region"
+   },
+   {
+    "da": "et sundhedskort",
+    "en": "a health insurance card"
+   }
+  ],
+  "sentence": {
+   "da": "I Danmark er **sundhedsvæsenet** betalt over skatten.",
+   "en": "In Denmark the healthcare system is paid for through taxes."
+  }
+ },
+ "super": {
+  "file": "s.json",
+  "explanation": "\"Super\" means \"great\". It can stand alone: \"Super!\" (Great!). Before another word, it makes that word stronger: \"super god\" (really good).",
+  "forms": [
+   {
+    "da": "en super dag",
+    "en": "a great day"
+   },
+   {
+    "da": "et super tilbud",
+    "en": "a great offer"
+   },
+   {
+    "da": "super gode ideer",
+    "en": "really good ideas"
+   }
+  ],
+  "related": [
+   {
+    "da": "fantastisk",
+    "en": "fantastic"
+   },
+   {
+    "da": "perfekt",
+    "en": "perfect"
+   },
+   {
+    "da": "fin",
+    "en": "nice"
+   },
+   {
+    "da": "dejlig",
+    "en": "lovely"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vandt kampen. Det var **super**!",
+   "en": "We won the game. It was great!"
+  }
+ },
+ "sur": {
+  "file": "s.json",
+  "explanation": "\"Sur\" means \"sour\" and also \"grumpy\": \"Citronen er sur\" (The lemon is sour) and \"Han er sur i dag\" (He is grumpy today).",
+  "forms": [
+   {
+    "da": "en sur citron",
+    "en": "a sour lemon"
+   },
+   {
+    "da": "et surt æble",
+    "en": "a sour apple"
+   },
+   {
+    "da": "sure miner",
+    "en": "grumpy faces"
+   }
+  ],
+  "related": [
+   {
+    "da": "sød",
+    "en": "sweet"
+   },
+   {
+    "da": "gnaven",
+    "en": "cranky"
+   },
+   {
+    "da": "glad",
+    "en": "happy"
+   },
+   {
+    "da": "vred",
+    "en": "angry"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror er altid **sur** om morgenen.",
+   "en": "My brother is always grumpy in the morning."
+  }
+ },
+ "sur på": {
+  "file": "s.json",
+  "explanation": "\"Sur på\" means \"mad at\". Put the person you are mad at after \"på\" (at): \"Jeg er sur på mig selv\" (I am mad at myself). Without \"på\", \"sur\" can mean \"sour\" instead.",
+  "forms": [
+   {
+    "da": "Jeg er sur på min bror.",
+    "en": "I am mad at my brother."
+   },
+   {
+    "da": "Er du sur på mig?",
+    "en": "Are you mad at me?"
+   },
+   {
+    "da": "Vi er sure på ham.",
+    "en": "We are mad at him."
+   }
+  ],
+  "related": [
+   {
+    "da": "vred på",
+    "en": "angry at"
+   },
+   {
+    "da": "gnaven",
+    "en": "grumpy"
+   },
+   {
+    "da": "rasende",
+    "en": "furious"
+   }
+  ],
+  "sentence": {
+   "da": "Min mor er **sur på** mig i dag.",
+   "en": "My mom is mad at me today."
+  }
+ },
+ "suspenderet": {
+  "file": "s.json",
+  "explanation": "\"Suspenderet\" means \"suspended\", sent away from a job, school or team for a while, for example while a case is investigated. It comes from \"at suspendere\" (to suspend).",
+  "forms": [
+   {
+    "da": "en suspenderet lærer",
+    "en": "a suspended teacher"
+   },
+   {
+    "da": "et suspenderet medlem",
+    "en": "a suspended member"
+   },
+   {
+    "da": "suspenderede spillere",
+    "en": "suspended players"
+   }
+  ],
+  "related": [
+   {
+    "da": "afskediget",
+    "en": "dismissed"
+   },
+   {
+    "da": "en suspension",
+    "en": "a suspension"
+   },
+   {
+    "da": "bortvist",
+    "en": "expelled"
+   }
+  ],
+  "sentence": {
+   "da": "Spilleren blev **suspenderet** i to kampe.",
+   "en": "The player was suspended for two games."
+  }
+ },
+ "svag": {
+  "file": "s.json",
+  "explanation": "\"Svag\" means \"weak\" for people and things. It also means \"faint\" for a sound or a light: \"en svag lyd\" (a faint sound).",
+  "forms": [
+   {
+    "da": "en svag mand",
+    "en": "a weak man"
+   },
+   {
+    "da": "et svagt lys",
+    "en": "a faint light"
+   },
+   {
+    "da": "svage arme",
+    "en": "weak arms"
+   }
+  ],
+  "related": [
+   {
+    "da": "stærk",
+    "en": "strong"
+   },
+   {
+    "da": "kraftløs",
+    "en": "feeble"
+   },
+   {
+    "da": "en svaghed",
+    "en": "a weakness"
+   },
+   {
+    "da": "skrøbelig",
+    "en": "fragile"
+   }
+  ],
+  "sentence": {
+   "da": "Han er stadig **svag** efter sygdommen.",
+   "en": "He is still weak after the illness."
+  }
+ },
+ "sved": {
+  "file": "s.json",
+  "explanation": "\"Sved\" means \"sweat\", the salty water your skin makes when you are hot or working hard. A sudden sweat from fear is called \"koldsved\" (cold sweat).",
+  "forms": [
+   {
+    "da": "sved",
+    "en": "sweat"
+   },
+   {
+    "da": "sveden",
+    "en": "the sweat"
+   },
+   {
+    "da": "at lugte af sved",
+    "en": "to smell of sweat"
+   }
+  ],
+  "related": [
+   {
+    "da": "at svede",
+    "en": "to perspire"
+   },
+   {
+    "da": "svedig",
+    "en": "sweaty"
+   },
+   {
+    "da": "en sveddråbe",
+    "en": "a drop of perspiration"
+   },
+   {
+    "da": "en svedplet",
+    "en": "a sweat stain"
+   }
+  ],
+  "sentence": {
+   "da": "Efter løbeturen havde han **sved** på panden.",
+   "en": "After the run he had sweat on his forehead."
+  }
+ },
+ "svensk": {
+  "file": "s.json",
+  "explanation": "\"Svensk\" means \"Swedish\". It is also the name of the language: \"Jeg taler svensk\" (I speak Swedish).",
+  "forms": [
+   {
+    "da": "en svensk bil",
+    "en": "a Swedish car"
+   },
+   {
+    "da": "et svensk hus",
+    "en": "a Swedish house"
+   },
+   {
+    "da": "svenske biler",
+    "en": "Swedish cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "Sverige",
+    "en": "Sweden"
+   },
+   {
+    "da": "en svensker",
+    "en": "a Swede"
+   },
+   {
+    "da": "norsk",
+    "en": "Norwegian"
+   },
+   {
+    "da": "dansk",
+    "en": "Danish"
+   }
+  ],
+  "sentence": {
+   "da": "Han kommer fra Sverige og er **svensk**.",
+   "en": "He comes from Sweden and is Swedish."
+  }
+ },
+ "sverige": {
+  "file": "s.json",
+  "explanation": "\"Sverige\" means \"Sweden\". Do not mix it up with \"Schweiz\" (Switzerland), which is a different country.",
+  "forms": [
+   {
+    "da": "Sverige",
+    "en": "Sweden"
+   },
+   {
+    "da": "i Sverige",
+    "en": "in Sweden"
+   },
+   {
+    "da": "til Sverige",
+    "en": "to Sweden"
+   }
+  ],
+  "related": [
+   {
+    "da": "en svensker",
+    "en": "a Swede"
+   },
+   {
+    "da": "svensk",
+    "en": "Swedish"
+   },
+   {
+    "da": "Norge",
+    "en": "Norway"
+   },
+   {
+    "da": "Danmark",
+    "en": "Denmark"
+   }
+  ],
+  "sentence": {
+   "da": "**Sverige** er et land ved siden af Danmark.",
+   "en": "Sweden is a country next to Denmark."
+  }
+ },
+ "svigerforældre": {
+  "file": "s.json",
+  "explanation": "\"Svigerforældre\" means \"parents-in-law\", the parents of your husband, wife or partner. To talk about just one of them, use \"en svigermor\" (a mother-in-law) or \"en svigerfar\" (a father-in-law).",
+  "forms": [
+   {
+    "da": "mine svigerforældre",
+    "en": "my parents-in-law"
+   },
+   {
+    "da": "hans svigerforældre",
+    "en": "his parents-in-law"
+   },
+   {
+    "da": "at besøge svigerforældrene",
+    "en": "to visit the parents-in-law"
+   }
+  ],
+  "related": [
+   {
+    "da": "en svigersøn",
+    "en": "a son-in-law"
+   },
+   {
+    "da": "en svigerdatter",
+    "en": "a daughter-in-law"
+   },
+   {
+    "da": "en svoger",
+    "en": "a brother-in-law"
+   },
+   {
+    "da": "en svigerinde",
+    "en": "a sister-in-law"
+   }
+  ],
+  "sentence": {
+   "da": "Min mands forældre er mine **svigerforældre**.",
+   "en": "My husband's parents are my parents-in-law."
+  }
+ },
+ "svimmel": {
+  "file": "s.json",
+  "explanation": "\"Svimmel\" means \"dizzy\", the feeling that the room is spinning. Use \"er\" (am) for how you feel now: \"Jeg er svimmel\" (I am dizzy). Use \"bliver\" (get) for when it starts: \"Jeg bliver svimmel\" (I am getting dizzy).",
+  "forms": [
+   {
+    "da": "en svimmel mand",
+    "en": "a dizzy man"
+   },
+   {
+    "da": "et svimmelt barn",
+    "en": "a dizzy child"
+   },
+   {
+    "da": "svimle børn",
+    "en": "dizzy children"
+   }
+  ],
+  "related": [
+   {
+    "da": "en svimmelhed",
+    "en": "dizziness"
+   },
+   {
+    "da": "kvalm",
+    "en": "nauseous"
+   },
+   {
+    "da": "utilpas",
+    "en": "unwell"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **svimmel** og skal sidde ned.",
+   "en": "I am dizzy and need to sit down."
+  }
+ },
+ "svimmelhed": {
+  "file": "s.json",
+  "explanation": "\"Svimmelhed\" means \"dizziness\", the feeling that the room is spinning. To say you feel it right now, use \"svimmel\" (dizzy): \"Jeg er svimmel\" (I am dizzy).",
+  "forms": [
+   {
+    "da": "svimmelhed",
+    "en": "dizziness"
+   },
+   {
+    "da": "svimmelheden",
+    "en": "the dizziness"
+   },
+   {
+    "da": "Jeg har svimmelhed.",
+    "en": "I have dizziness."
+   }
+  ],
+  "related": [
+   {
+    "da": "at besvime",
+    "en": "to faint"
+   },
+   {
+    "da": "en besvimelse",
+    "en": "a fainting spell"
+   },
+   {
+    "da": "en kvalme",
+    "en": "nausea"
+   }
+  ],
+  "sentence": {
+   "da": "**Svimmelhed** kan være et tegn på for lavt blodtryk.",
+   "en": "Dizziness can be a sign of low blood pressure."
+  }
+ },
+ "svindel": {
+  "file": "s.json",
+  "explanation": "\"Svindel\" means \"fraud\", tricking people to get their money, for example with fake emails or phone calls.",
+  "forms": [
+   {
+    "da": "en svindel",
+    "en": "a fraud"
+   },
+   {
+    "da": "svindlen",
+    "en": "the fraud"
+   },
+   {
+    "da": "online svindel",
+    "en": "online fraud"
+   }
+  ],
+  "related": [
+   {
+    "da": "en svindler",
+    "en": "a swindler"
+   },
+   {
+    "da": "at svindle",
+    "en": "to swindle"
+   },
+   {
+    "da": "et bedrageri",
+    "en": "a fraud"
+   },
+   {
+    "da": "at snyde",
+    "en": "to cheat"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet advarer mod **svindel** på nettet.",
+   "en": "The police warn against fraud online."
+  }
+ },
+ "svinekød": {
+  "file": "s.json",
+  "explanation": "\"Svinekød\" means \"pork\". It is built from svin (pig) and kød (meat). It is the meat in \"flæskesteg\" (roast pork with crackling), a classic Danish dinner.",
+  "forms": [
+   {
+    "da": "svinekød",
+    "en": "pork"
+   },
+   {
+    "da": "svinekødet",
+    "en": "the pork"
+   },
+   {
+    "da": "stegt svinekød",
+    "en": "roast pork"
+   }
+  ],
+  "related": [
+   {
+    "da": "oksekød",
+    "en": "beef"
+   },
+   {
+    "da": "lammekød",
+    "en": "lamb"
+   },
+   {
+    "da": "skinke",
+    "en": "ham"
+   },
+   {
+    "da": "kylling",
+    "en": "chicken"
+   }
+  ],
+  "sentence": {
+   "da": "**Svinekød** er kød fra en gris.",
+   "en": "Pork is meat from a pig."
+  }
+ },
+ "svær": {
+  "file": "s.json",
+  "explanation": "\"Svær\" means \"difficult\" or \"hard to do\". To name the task that is hard, add \"at\" (to) before the verb: \"Det er svært at lære dansk\" (It is hard to learn Danish).",
+  "forms": [
+   {
+    "da": "en svær opgave",
+    "en": "a difficult task"
+   },
+   {
+    "da": "et svært ord",
+    "en": "a difficult word"
+   },
+   {
+    "da": "svære ord",
+    "en": "difficult words"
+   }
+  ],
+  "related": [
+   {
+    "da": "let",
+    "en": "easy"
+   },
+   {
+    "da": "nem",
+    "en": "easy"
+   },
+   {
+    "da": "sværere",
+    "en": "more difficult"
+   }
+  ],
+  "sentence": {
+   "da": "Opgaven er meget **svær** for mig.",
+   "en": "The task is very difficult for me."
+  }
+ },
+ "svømning": {
+  "file": "s.json",
+  "explanation": "\"Svømning\" means \"swimming\" as an activity or class. To say you are able to swim, use the verb: \"Jeg kan svømme\" (I can swim). To say you have a class, use the noun: \"Jeg har svømning\" (I have a swimming class).",
+  "forms": [
+   {
+    "da": "svømning",
+    "en": "swimming"
+   },
+   {
+    "da": "svømningen",
+    "en": "the swimming"
+   },
+   {
+    "da": "Jeg går til svømning.",
+    "en": "I go to swimming (lessons)."
+   }
+  ],
+  "related": [
+   {
+    "da": "en svømmehal",
+    "en": "a swimming pool (indoor)"
+   },
+   {
+    "da": "en svømmer",
+    "en": "a swimmer"
+   },
+   {
+    "da": "badetøj",
+    "en": "swimwear"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene har **svømning** i svømmehallen i dag.",
+   "en": "The children have swim class at the pool today."
+  }
+ },
+ "syd": {
+  "file": "s.json",
+  "explanation": "\"Syd\" means \"south\". Use \"i\" (in) for a place: \"i syd\" (in the south). Use \"mod\" (toward) for a direction: \"mod syd\" (toward the south).",
+  "forms": [
+   {
+    "da": "syd",
+    "en": "south"
+   },
+   {
+    "da": "i syd",
+    "en": "in the south"
+   },
+   {
+    "da": "mod syd",
+    "en": "toward the south"
+   }
+  ],
+  "related": [
+   {
+    "da": "øst",
+    "en": "east"
+   },
+   {
+    "da": "vest",
+    "en": "west"
+   },
+   {
+    "da": "sydlig",
+    "en": "southern"
+   }
+  ],
+  "sentence": {
+   "da": "Fuglene flyver mod **syd** om vinteren.",
+   "en": "The birds fly south in the winter."
+  }
+ },
+ "sydamerika": {
+  "file": "s.json",
+  "explanation": "\"Sydamerika\" means \"South America\". It is made from syd (south) and Amerika (America). \"Syd\" also works in other words, such as \"sydpå\" (to the south).",
+  "forms": [
+   {
+    "da": "Sydamerika",
+    "en": "South America"
+   },
+   {
+    "da": "i Sydamerika",
+    "en": "in South America"
+   },
+   {
+    "da": "til Sydamerika",
+    "en": "to South America"
+   }
+  ],
+  "related": [
+   {
+    "da": "Nordamerika",
+    "en": "North America"
+   },
+   {
+    "da": "Mellemamerika",
+    "en": "Central America"
+   },
+   {
+    "da": "Afrika",
+    "en": "Africa"
+   },
+   {
+    "da": "Asien",
+    "en": "Asia"
+   }
+  ],
+  "sentence": {
+   "da": "Brasilien og Argentina ligger i **Sydamerika**.",
+   "en": "Brazil and Argentina are in South America."
+  }
+ },
+ "sydlig": {
+  "file": "s.json",
+  "explanation": "\"Sydlig\" means \"southern\" and also \"from the south\". For a part of a country, say: \"Sønderborg ligger i det sydlige Danmark\" (Sønderborg is in southern Denmark).",
+  "forms": [
+   {
+    "da": "en sydlig vind",
+    "en": "a southerly wind"
+   },
+   {
+    "da": "et sydligt land",
+    "en": "a southern country"
+   },
+   {
+    "da": "sydlige lande",
+    "en": "southern countries"
+   }
+  ],
+  "related": [
+   {
+    "da": "nordlig",
+    "en": "northern"
+   },
+   {
+    "da": "østlig",
+    "en": "eastern"
+   },
+   {
+    "da": "vestlig",
+    "en": "western"
+   },
+   {
+    "da": "sydpå",
+    "en": "southward"
+   }
+  ],
+  "sentence": {
+   "da": "Der kommer en **sydlig** vind i aften.",
+   "en": "A southerly wind is coming tonight."
+  }
+ },
+ "sydpå": {
+  "file": "s.json",
+  "explanation": "\"Sydpå\" means \"southward\", toward the south, for movement: \"Vi kører sydpå\" (We drive south). For a place, use \"syd for\" (south of): \"Odense ligger syd for Aarhus\" (Odense is south of Aarhus).",
+  "forms": [
+   {
+    "da": "at køre sydpå",
+    "en": "to drive south"
+   },
+   {
+    "da": "at tage sydpå",
+    "en": "to head south"
+   },
+   {
+    "da": "at flyve sydpå",
+    "en": "to fly south"
+   }
+  ],
+  "related": [
+   {
+    "da": "nordpå",
+    "en": "northward"
+   },
+   {
+    "da": "østpå",
+    "en": "eastward"
+   },
+   {
+    "da": "vestpå",
+    "en": "westward"
+   },
+   {
+    "da": "sydlig",
+    "en": "southern"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kører **sydpå** i morgen.",
+   "en": "We are driving south tomorrow."
+  }
+ },
+ "syg": {
+  "file": "s.json",
+  "explanation": "\"Syg\" means \"sick\" or \"ill\". \"At melde sig syg\" means \"to call in sick\".",
+  "forms": [
+   {
+    "da": "en syg mand",
+    "en": "a sick man"
+   },
+   {
+    "da": "et sygt barn",
+    "en": "a sick child"
+   },
+   {
+    "da": "syge børn",
+    "en": "sick children"
+   }
+  ],
+  "related": [
+   {
+    "da": "rask",
+    "en": "well"
+   },
+   {
+    "da": "en sygdom",
+    "en": "an illness"
+   },
+   {
+    "da": "et sygehus",
+    "en": "a hospital"
+   }
+  ],
+  "sentence": {
+   "da": "Min søn er **syg** og bliver hjemme.",
+   "en": "My son is sick and stays home."
+  }
+ },
+ "syltetøj": {
+  "file": "s.json",
+  "explanation": "\"Syltetøj\" means \"jam\". Put the name of a fruit in front to say the kind: \"hindbærsyltetøj\" (raspberry jam), \"blommesyltetøj\" (plum jam).",
+  "forms": [
+   {
+    "da": "noget syltetøj",
+    "en": "some jam"
+   },
+   {
+    "da": "syltetøjet",
+    "en": "the jam"
+   },
+   {
+    "da": "jordbærsyltetøj",
+    "en": "strawberry jam"
+   }
+  ],
+  "related": [
+   {
+    "da": "marmelade",
+    "en": "jam / marmalade"
+   },
+   {
+    "da": "et jordbær",
+    "en": "a strawberry"
+   },
+   {
+    "da": "honning",
+    "en": "honey"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil have **syltetøj** på mit brød.",
+   "en": "I want jam on my bread."
+  }
+ },
+ "sympati": {
+  "file": "s.json",
+  "explanation": "\"Sympati\" means \"sympathy\", kind feeling toward someone in a hard situation. It also means mild support for an idea: \"Jeg har sympati for forslaget\" (I am sympathetic to the proposal).",
+  "forms": [
+   {
+    "da": "sympati",
+    "en": "sympathy"
+   },
+   {
+    "da": "sympatien",
+    "en": "the sympathy"
+   },
+   {
+    "da": "vise sympati",
+    "en": "show sympathy"
+   }
+  ],
+  "related": [
+   {
+    "da": "sympatisk",
+    "en": "likeable"
+   },
+   {
+    "da": "en antipati",
+    "en": "an antipathy"
+   },
+   {
+    "da": "medfølelse",
+    "en": "compassion"
+   },
+   {
+    "da": "en sympatisør",
+    "en": "a supporter"
+   }
+  ],
+  "sentence": {
+   "da": "Vi sendte blomster som tegn på **sympati**.",
+   "en": "We sent flowers as a sign of sympathy."
+  }
+ },
+ "sympatisk": {
+  "file": "s.json",
+  "explanation": "\"Sympatisk\" means \"likeable\" and is used for someone you like at first meeting: \"Han virker sympatisk\" (He seems likeable). It does not mean \"sympathetic\".",
+  "forms": [
+   {
+    "da": "en sympatisk mand",
+    "en": "a likeable man"
+   },
+   {
+    "da": "et sympatisk barn",
+    "en": "a likeable child"
+   },
+   {
+    "da": "sympatiske folk",
+    "en": "likeable people"
+   }
+  ],
+  "related": [
+   {
+    "da": "rar",
+    "en": "nice"
+   },
+   {
+    "da": "venlig",
+    "en": "friendly"
+   },
+   {
+    "da": "usympatisk",
+    "en": "unpleasant"
+   },
+   {
+    "da": "en sympati",
+    "en": "liking, sympathy"
+   }
+  ],
+  "sentence": {
+   "da": "Din nye chef virker meget **sympatisk**.",
+   "en": "Your new boss seems very likeable."
+  }
+ },
+ "syning": {
+  "file": "s.json",
+  "explanation": "\"Syning\" means \"sewing\" as a hobby: \"Syning er min hobby\" (Sewing is my hobby). To say what you are doing right now, use the verb \"at sy\" (to sew): \"Jeg syr en kjole\" (I am sewing a dress).",
+  "forms": [
+   {
+    "da": "Jeg kan lide syning.",
+    "en": "I like sewing."
+   },
+   {
+    "da": "Syning kræver tålmodighed.",
+    "en": "Sewing takes patience."
+   },
+   {
+    "da": "min syning",
+    "en": "my sewing"
+   }
+  ],
+  "related": [
+   {
+    "da": "en symaskine",
+    "en": "a sewing machine"
+   },
+   {
+    "da": "en nål",
+    "en": "a needle"
+   },
+   {
+    "da": "strikning",
+    "en": "knitting"
+   },
+   {
+    "da": "en tråd",
+    "en": "a thread"
+   }
+  ],
+  "sentence": {
+   "da": "Min mor elsker **syning**, og hun syr mange kjoler.",
+   "en": "My mother loves sewing, and she sews many dresses."
+  }
+ },
+ "synlig": {
+  "file": "s.json",
+  "explanation": "\"Synlig\" means \"visible\", possible to see. It is used for a thing you can see with your eyes, such as \"et synligt mærke\" (a visible mark), and for a change people can notice: \"en synlig forbedring\" (a visible improvement).",
+  "forms": [
+   {
+    "da": "en synlig fejl",
+    "en": "a visible mistake"
+   },
+   {
+    "da": "et synligt resultat",
+    "en": "a visible result"
+   },
+   {
+    "da": "synlige spor",
+    "en": "visible traces"
+   }
+  ],
+  "related": [
+   {
+    "da": "usynlig",
+    "en": "invisible"
+   },
+   {
+    "da": "tydelig",
+    "en": "clear"
+   },
+   {
+    "da": "at skjule",
+    "en": "to hide"
+   },
+   {
+    "da": "åbenlys",
+    "en": "obvious"
+   }
+  ],
+  "sentence": {
+   "da": "Månen er **synlig** på himlen i aften.",
+   "en": "The moon is visible in the sky tonight."
+  }
+ },
+ "sytten": {
+  "file": "s.json",
+  "explanation": "\"Sytten\" means \"seventeen\". Do not mix it up with \"syv\" (seven): \"syv børn\" means seven children, and \"sytten børn\" means seventeen children.",
+  "forms": [
+   {
+    "da": "sytten år",
+    "en": "seventeen years"
+   },
+   {
+    "da": "sytten børn",
+    "en": "seventeen children"
+   },
+   {
+    "da": "sytten kroner",
+    "en": "seventeen kroner"
+   }
+  ],
+  "related": [
+   {
+    "da": "seksten",
+    "en": "sixteen"
+   },
+   {
+    "da": "atten",
+    "en": "eighteen"
+   },
+   {
+    "da": "nitten",
+    "en": "nineteen"
+   }
+  ],
+  "sentence": {
+   "da": "Efter seksten kommer **sytten**.",
+   "en": "After sixteen comes seventeen."
+  }
+ },
+ "syv": {
+  "file": "s.json",
+  "explanation": "\"Syv\" means \"seven\". Do not mix it up with \"sytten\" (seventeen): \"syv dage\" means seven days, and \"sytten dage\" means seventeen days.",
+  "forms": [
+   {
+    "da": "syv dage",
+    "en": "seven days"
+   },
+   {
+    "da": "klokken syv",
+    "en": "seven o'clock"
+   },
+   {
+    "da": "syv gange",
+    "en": "seven times"
+   }
+  ],
+  "related": [
+   {
+    "da": "seks",
+    "en": "six"
+   },
+   {
+    "da": "otte",
+    "en": "eight"
+   },
+   {
+    "da": "ni",
+    "en": "nine"
+   },
+   {
+    "da": "syvende",
+    "en": "seventh"
+   }
+  ],
+  "sentence": {
+   "da": "Der er **syv** dage i en uge.",
+   "en": "There are seven days in a week."
+  }
+ },
+ "syvende": {
+  "file": "s.json",
+  "explanation": "\"Syvende\" means \"seventh\". \"Syv\" (seven) is for counting: \"syv æg\" (seven eggs). \"Syvende\" is for the order: \"det syvende æg\" (the seventh egg). It is used for dates too: \"den syvende juli\" (the seventh of July).",
+  "forms": [
+   {
+    "da": "den syvende dag",
+    "en": "the seventh day"
+   },
+   {
+    "da": "det syvende hus",
+    "en": "the seventh house"
+   },
+   {
+    "da": "syvende gang",
+    "en": "the seventh time"
+   }
+  ],
+  "related": [
+   {
+    "da": "sjette",
+    "en": "sixth"
+   },
+   {
+    "da": "ottende",
+    "en": "eighth"
+   },
+   {
+    "da": "syttende",
+    "en": "seventeenth"
+   }
+  ],
+  "sentence": {
+   "da": "Søndag er den **syvende** dag i ugen.",
+   "en": "Sunday is the seventh day of the week."
+  }
+ },
+ "så": {
+  "file": "s.json",
+  "explanation": "\"Så\" means \"so\" or \"then\". As \"so\", it gives a result: \"Det regner, så vi bliver hjemme\" (It is raining, so we stay home). As \"then\", it says what comes next: \"Først spiser vi, og så går vi\" (First we eat, and then we go). Do not mix it up with \"så\" as the past of \"at se\" (to see): \"Jeg så ham\" (I saw him).",
+  "forms": [
+   {
+    "da": "så stor",
+    "en": "so big"
+   },
+   {
+    "da": "og så",
+    "en": "and then"
+   },
+   {
+    "da": "så meget",
+    "en": "so much"
+   }
+  ],
+  "related": [
+   {
+    "da": "derefter",
+    "en": "after that"
+   },
+   {
+    "da": "derfor",
+    "en": "therefore"
+   },
+   {
+    "da": "sådan",
+    "en": "like this"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **så** glad i dag!",
+   "en": "I am so happy today!"
+  }
+ },
+ "så at sige": {
+  "file": "s.json",
+  "explanation": "\"Så at sige\" means \"so to speak\" or \"in a way\". You say it when what you say is not exactly true but very close: \"Han bor så at sige på kontoret\" (He practically lives at the office).",
+  "forms": [
+   {
+    "da": "Han er så at sige min bror",
+    "en": "He is, so to speak, my brother"
+   },
+   {
+    "da": "Det er så at sige færdigt",
+    "en": "It is, so to speak, finished"
+   },
+   {
+    "da": "Vi bor så at sige i skoven",
+    "en": "We live, so to speak, in the forest"
+   }
+  ],
+  "related": [
+   {
+    "da": "nærmest",
+    "en": "practically"
+   },
+   {
+    "da": "næsten",
+    "en": "almost"
+   },
+   {
+    "da": "så godt som",
+    "en": "as good as"
+   },
+   {
+    "da": "sådan set",
+    "en": "basically"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har **så at sige** ingen penge tilbage.",
+   "en": "We have, so to speak, no money left."
+  }
+ },
+ "så længe": {
+  "file": "s.json",
+  "explanation": "\"Så længe\" means \"as long as\". Do not mix it up with \"indtil\" (until): \"Jeg bliver, indtil du kommer\" (I stay until you come). At the end of a sentence, \"så længe\" means \"for now\": \"Vent her så længe\" (Wait here for now).",
+  "forms": [
+   {
+    "da": "så længe du vil",
+    "en": "as long as you want"
+   },
+   {
+    "da": "så længe jeg lever",
+    "en": "as long as I live"
+   },
+   {
+    "da": "så længe der er tid",
+    "en": "as long as there is time"
+   }
+  ],
+  "related": [
+   {
+    "da": "mens",
+    "en": "while"
+   },
+   {
+    "da": "så snart",
+    "en": "as soon as"
+   },
+   {
+    "da": "hvor længe",
+    "en": "how long"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er glad, **så længe** solen skinner.",
+   "en": "I am happy as long as the sun shines."
+  }
+ },
+ "så snart": {
+  "file": "s.json",
+  "explanation": "\"Så snart\" means \"as soon as\".",
+  "forms": [
+   {
+    "da": "så snart du kommer",
+    "en": "as soon as you come"
+   },
+   {
+    "da": "så snart jeg kan",
+    "en": "as soon as I can"
+   },
+   {
+    "da": "så snart det er klart",
+    "en": "as soon as it is ready"
+   }
+  ],
+  "related": [
+   {
+    "da": "med det samme",
+    "en": "right away"
+   },
+   {
+    "da": "straks",
+    "en": "immediately"
+   },
+   {
+    "da": "efter",
+    "en": "after"
+   },
+   {
+    "da": "når",
+    "en": "when"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg ringer til dig, **så snart** jeg er hjemme.",
+   "en": "I will call you as soon as I am home."
+  }
+ },
+ "så vidt": {
+  "file": "s.json",
+  "explanation": "\"Så vidt\" means \"as far as\". Put it before \"jeg ved\" (I know) when you are not completely sure: \"Så vidt jeg ved, kommer han i morgen\" (As far as I know, he is coming tomorrow). It can also mean \"only just\": \"Jeg nåede så vidt toget\" (I only just caught the train).",
+  "forms": [
+   {
+    "da": "så vidt jeg ved",
+    "en": "as far as I know"
+   },
+   {
+    "da": "så vidt muligt",
+    "en": "as far as possible"
+   },
+   {
+    "da": "så vidt jeg kan se",
+    "en": "as far as I can see"
+   }
+  ],
+  "related": [
+   {
+    "da": "så langt",
+    "en": "so far"
+   },
+   {
+    "da": "for så vidt",
+    "en": "as far as that goes"
+   },
+   {
+    "da": "ifølge",
+    "en": "according to"
+   },
+   {
+    "da": "næsten",
+    "en": "almost"
+   }
+  ],
+  "sentence": {
+   "da": "**Så vidt** jeg ved, åbner butikken klokken ni.",
+   "en": "As far as I know, the store opens at nine o'clock."
+  }
+ },
+ "sådan": {
+  "file": "s.json",
+  "explanation": "\"Sådan\" means \"like that\" or \"this way\": \"Gør det sådan\" (Do it like this). To say \"a car like that\", use \"sådan en bil\". As a call, \"Sådan!\" means \"There you go!\" or \"That's it!\"",
+  "forms": [
+   {
+    "da": "sådan en bil",
+    "en": "a car like that"
+   },
+   {
+    "da": "Sådan!",
+    "en": "There you go!"
+   },
+   {
+    "da": "Gør det sådan.",
+    "en": "Do it like this."
+   }
+  ],
+  "related": [
+   {
+    "da": "således",
+    "en": "thus (formal)"
+   },
+   {
+    "da": "på den måde",
+    "en": "in that way"
+   },
+   {
+    "da": "så",
+    "en": "so / like this"
+   },
+   {
+    "da": "sådan her",
+    "en": "like this"
+   }
+  ],
+  "sentence": {
+   "da": "Se, jeg gør det **sådan**.",
+   "en": "Look, I do it like this."
+  }
+ },
+ "sådan er det bare": {
+  "file": "s.json",
+  "explanation": "\"Sådan er det bare\" means \"that's just how it is\" and you use it for something that cannot be changed: \"Der er ofte kø her, men sådan er det bare\" (There is often a line here, but that's just how it is).",
+  "forms": [
+   {
+    "da": "Sådan er det bare",
+    "en": "That's just how it is"
+   },
+   {
+    "da": "sådan er det",
+    "en": "that's how it is"
+   },
+   {
+    "da": "sådan var det bare",
+    "en": "that's just how it was"
+   }
+  ],
+  "related": [
+   {
+    "da": "sådan er livet",
+    "en": "that's life"
+   },
+   {
+    "da": "det er nu engang sådan",
+    "en": "that's just the way it is"
+   },
+   {
+    "da": "ærgerligt",
+    "en": "too bad"
+   },
+   {
+    "da": "desværre",
+    "en": "unfortunately"
+   }
+  ],
+  "sentence": {
+   "da": "Det regner meget her, men **sådan er det bare**.",
+   "en": "It rains a lot here, but that's just how it is."
+  }
+ },
+ "sådanne": {
+  "file": "s.json",
+  "explanation": "\"Sådanne\" means \"such\", used before more than one thing: \"sådanne regler\" (such rules). For one thing Danes say \"sådan\" (such): \"sådan en regel\" (such a rule).",
+  "forms": [
+   {
+    "da": "sådanne regler",
+    "en": "such rules"
+   },
+   {
+    "da": "sådanne problemer",
+    "en": "such problems"
+   },
+   {
+    "da": "i sådanne tilfælde",
+    "en": "in such cases"
+   }
+  ],
+  "related": [
+   {
+    "da": "sådant",
+    "en": "such (with et-words)"
+   },
+   {
+    "da": "lignende",
+    "en": "similar"
+   },
+   {
+    "da": "den slags",
+    "en": "that kind of"
+   },
+   {
+    "da": "denne slags",
+    "en": "this kind of"
+   }
+  ],
+  "sentence": {
+   "da": "Vi køber aldrig **sådanne** dyre ting.",
+   "en": "We never buy such expensive things."
+  }
+ },
+ "sågar": {
+  "file": "s.json",
+  "explanation": "\"Sågar\" means \"even\", for a surprising extra: \"Sågar min lille bror kan gøre det\" (Even my little brother can do it). It does not mean \"even if\": for that Danes say \"selv om\" (even if).",
+  "forms": [
+   {
+    "da": "Alle kom, sågar chefen",
+    "en": "Everyone came, even the boss"
+   },
+   {
+    "da": "Han blev sågar sur",
+    "en": "He even got angry"
+   },
+   {
+    "da": "Det er sågar gratis",
+    "en": "It is even free"
+   }
+  ],
+  "related": [
+   {
+    "da": "ligefrem",
+    "en": "positively"
+   },
+   {
+    "da": "oven i købet",
+    "en": "on top of that"
+   },
+   {
+    "da": "endda",
+    "en": "even"
+   },
+   {
+    "da": "desuden",
+    "en": "besides"
+   }
+  ],
+  "sentence": {
+   "da": "Det regnede hele dagen og sneede **sågar** om aftenen.",
+   "en": "It rained all day and even snowed in the evening."
+  }
+ },
+ "såkaldt": {
+  "file": "s.json",
+  "explanation": "\"Såkaldt\" means \"so-called\", used for a name that others give something. It often shows doubt about whether the name fits: \"Den såkaldte chef tog fejl\" (The so-called boss was wrong).",
+  "forms": [
+   {
+    "da": "en såkaldt ven",
+    "en": "a so-called friend"
+   },
+   {
+    "da": "et såkaldt problem",
+    "en": "a so-called problem"
+   },
+   {
+    "da": "såkaldte regler",
+    "en": "so-called rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "angiveligt",
+    "en": "allegedly"
+   },
+   {
+    "da": "tilsyneladende",
+    "en": "apparently"
+   },
+   {
+    "da": "formentlig",
+    "en": "presumably"
+   }
+  ],
+  "sentence": {
+   "da": "Han er en **såkaldt** ekspert uden uddannelse.",
+   "en": "He is a so-called expert without any training."
+  }
+ },
+ "således": {
+  "file": "s.json",
+  "explanation": "\"Således\" means \"thus\" and \"like this\". It is formal and mostly written. In speech, people say \"sådan\" (like this) instead: \"Gør det sådan\" (Do it like this).",
+  "forms": [
+   {
+    "da": "Det gøres således",
+    "en": "It is done like this"
+   },
+   {
+    "da": "Således er det",
+    "en": "That is how it is"
+   }
+  ],
+  "related": [
+   {
+    "da": "derfor",
+    "en": "therefore"
+   },
+   {
+    "da": "følgelig",
+    "en": "consequently"
+   },
+   {
+    "da": "dermed",
+    "en": "thereby"
+   },
+   {
+    "da": "på den måde",
+    "en": "in that way"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal skrive det **således**.",
+   "en": "You must write it like this."
+  }
+ },
+ "sårbar": {
+  "file": "s.json",
+  "explanation": "\"Sårbar\" means \"vulnerable\", easy to hurt or damage, in body, feelings or systems. It is built from \"et sår\" (a wound) and -bar, which works like -able in English, as in \"brugbar\" (usable).",
+  "forms": [
+   {
+    "da": "en sårbar gruppe",
+    "en": "a vulnerable group"
+   },
+   {
+    "da": "et sårbart barn",
+    "en": "a vulnerable child"
+   },
+   {
+    "da": "sårbare ældre",
+    "en": "vulnerable older people"
+   }
+  ],
+  "related": [
+   {
+    "da": "udsat",
+    "en": "exposed"
+   },
+   {
+    "da": "skrøbelig",
+    "en": "fragile"
+   },
+   {
+    "da": "følsom",
+    "en": "sensitive"
+   },
+   {
+    "da": "robust",
+    "en": "sturdy"
+   }
+  ],
+  "sentence": {
+   "da": "En nyfødt fugl er meget **sårbar**.",
+   "en": "A newborn bird is very vulnerable."
+  }
+ },
+ "såret": {
+  "file": "s.json",
+  "explanation": "\"Såret\" means \"wounded\" or \"hurt\", for a body or for feelings: \"en såret soldat\" (a wounded soldier), \"såret stolthed\" (hurt pride).",
+  "forms": [
+   {
+    "da": "en såret fugl",
+    "en": "a wounded bird"
+   },
+   {
+    "da": "et såret dyr",
+    "en": "a wounded animal"
+   },
+   {
+    "da": "sårede soldater",
+    "en": "wounded soldiers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et sår",
+    "en": "a wound"
+   },
+   {
+    "da": "at såre",
+    "en": "to hurt"
+   },
+   {
+    "da": "skadet",
+    "en": "injured"
+   },
+   {
+    "da": "sårbar",
+    "en": "vulnerable"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden er **såret** i benet og kan ikke gå.",
+   "en": "The dog is wounded in the leg and cannot walk."
+  }
+ },
+ "såsom": {
+  "file": "s.json",
+  "explanation": "\"Såsom\" means \"such as\", introducing examples after a general word. It sounds more written than spoken; in everyday speech Danes often say \"som for eksempel\" (like for example).",
+  "forms": [
+   {
+    "da": "frugt såsom æbler",
+    "en": "fruit such as apples"
+   },
+   {
+    "da": "lande såsom Norge og Sverige",
+    "en": "countries such as Norway and Sweden"
+   },
+   {
+    "da": "sport såsom fodbold",
+    "en": "sports such as soccer"
+   }
+  ],
+  "related": [
+   {
+    "da": "fx",
+    "en": "e.g."
+   },
+   {
+    "da": "eksempelvis",
+    "en": "for instance"
+   },
+   {
+    "da": "blandt andet",
+    "en": "among other things"
+   },
+   {
+    "da": "især",
+    "en": "especially"
+   }
+  ],
+  "sentence": {
+   "da": "Han spiser meget grønt, **såsom** broccoli og spinat.",
+   "en": "He eats a lot of greens, such as broccoli and spinach."
+  }
+ },
+ "sæbe": {
+  "file": "s.json",
+  "explanation": "\"Sæbe\" means \"soap\". For an amount, you say \"noget sæbe\" (some soap) or \"et stykke sæbe\" (a piece of soap). Dish soap is a different word: \"opvaskemiddel\" (dishwashing liquid).",
+  "forms": [
+   {
+    "da": "en sæbe",
+    "en": "a soap"
+   },
+   {
+    "da": "sæben",
+    "en": "the soap"
+   }
+  ],
+  "related": [
+   {
+    "da": "håndsæbe",
+    "en": "hand soap"
+   },
+   {
+    "da": "en sæbeboble",
+    "en": "a soap bubble"
+   },
+   {
+    "da": "shampoo",
+    "en": "shampoo"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vasker mine hænder med **sæbe** og vand.",
+   "en": "I wash my hands with soap and water."
+  }
+ },
+ "sædvanlig": {
+  "file": "s.json",
+  "explanation": "\"Sædvanlig\" means \"usual\", what you would normally expect. It is most often used in the expression \"som sædvanligt\" (as usual): \"Maden var god som sædvanligt\" (The food was good as usual).",
+  "forms": [
+   {
+    "da": "en sædvanlig dag",
+    "en": "a usual day"
+   },
+   {
+    "da": "et sædvanligt problem",
+    "en": "a usual problem"
+   },
+   {
+    "da": "sædvanlige priser",
+    "en": "usual prices"
+   }
+  ],
+  "related": [
+   {
+    "da": "usædvanlig",
+    "en": "unusual"
+   },
+   {
+    "da": "almindelig",
+    "en": "ordinary"
+   },
+   {
+    "da": "gængs",
+    "en": "customary"
+   },
+   {
+    "da": "en vane",
+    "en": "a habit"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en helt **sædvanlig** tirsdag.",
+   "en": "It is a completely usual Tuesday."
+  }
+ },
+ "særegen": {
+  "file": "s.json",
+  "explanation": "\"Særegen\" means \"distinctive\", used for something with a character of its own that sets it apart from others, such as a style, a smell or a voice.",
+  "forms": [
+   {
+    "da": "en særegen stil",
+    "en": "a distinctive style"
+   },
+   {
+    "da": "et særegent sprog",
+    "en": "a distinctive language"
+   },
+   {
+    "da": "særegne ting",
+    "en": "distinctive things"
+   }
+  ],
+  "related": [
+   {
+    "da": "speciel",
+    "en": "special"
+   },
+   {
+    "da": "karakteristisk",
+    "en": "characteristic"
+   },
+   {
+    "da": "enestående",
+    "en": "unique"
+   },
+   {
+    "da": "almindelig",
+    "en": "ordinary"
+   }
+  ],
+  "sentence": {
+   "da": "Byen har en **særegen** lugt af tang og røg.",
+   "en": "The city has a distinctive smell of seaweed and smoke."
+  }
+ },
+ "særlig": {
+  "file": "s.json",
+  "explanation": "\"Særlig\" means \"special\" or \"particular\". With \"ikke\" (not), it means \"not very\": \"Det er ikke særlig dyrt\" (It is not very expensive).",
+  "forms": [
+   {
+    "da": "en særlig dag",
+    "en": "a special day"
+   },
+   {
+    "da": "et særligt tilbud",
+    "en": "a special offer"
+   },
+   {
+    "da": "særlige regler",
+    "en": "special rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "speciel",
+    "en": "special"
+   },
+   {
+    "da": "især",
+    "en": "especially"
+   },
+   {
+    "da": "almindelig",
+    "en": "ordinary"
+   },
+   {
+    "da": "enestående",
+    "en": "unique"
+   }
+  ],
+  "sentence": {
+   "da": "I dag er en **særlig** dag for os.",
+   "en": "Today is a special day for us."
+  }
+ },
+ "sød": {
+  "file": "s.json",
+  "explanation": "\"Sød\" means \"sweet\" in taste and also \"sweet\" or \"cute\" for people, animals and small children. To thank someone for a kind act, say \"Det er sødt af dig\" (That is sweet of you).",
+  "forms": [
+   {
+    "da": "en sød pige",
+    "en": "a sweet girl"
+   },
+   {
+    "da": "et sødt barn",
+    "en": "a sweet child"
+   },
+   {
+    "da": "søde børn",
+    "en": "sweet children"
+   }
+  ],
+  "related": [
+   {
+    "da": "sur",
+    "en": "sour"
+   },
+   {
+    "da": "sødme",
+    "en": "sweetness"
+   },
+   {
+    "da": "venlig",
+    "en": "kind"
+   }
+  ],
+  "sentence": {
+   "da": "Kagen er for **sød** for mig.",
+   "en": "The cake is too sweet for me."
+  }
+ },
+ "sødmælk": {
+  "file": "s.json",
+  "explanation": "\"Sødmælk\" means \"whole milk\", the milk with the most fat. Despite \"sød\" (sweet) in the name, it is not sweet.",
+  "forms": [
+   {
+    "da": "sødmælk",
+    "en": "whole milk"
+   },
+   {
+    "da": "sødmælken",
+    "en": "the whole milk"
+   },
+   {
+    "da": "et glas sødmælk",
+    "en": "a glass of whole milk"
+   }
+  ],
+  "related": [
+   {
+    "da": "letmælk",
+    "en": "low-fat milk"
+   },
+   {
+    "da": "skummetmælk",
+    "en": "skim milk"
+   },
+   {
+    "da": "minimælk",
+    "en": "very low-fat milk"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vælger **sødmælk**, fordi den har mere fedt.",
+   "en": "I choose whole milk because it has more fat."
+  }
+ },
+ "sølle": {
+  "file": "s.json",
+  "explanation": "\"Sølle\" means \"measly\", for an amount or a thing that is too small or poor to be worth much.",
+  "forms": [
+   {
+    "da": "en sølle løn",
+    "en": "a measly wage"
+   },
+   {
+    "da": "et sølle forsøg",
+    "en": "a measly attempt"
+   },
+   {
+    "da": "sølle rester",
+    "en": "measly leftovers"
+   }
+  ],
+  "related": [
+   {
+    "da": "elendig",
+    "en": "miserable"
+   },
+   {
+    "da": "usel",
+    "en": "lousy"
+   },
+   {
+    "da": "tarvelig",
+    "en": "shabby"
+   },
+   {
+    "da": "mager",
+    "en": "meager"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg fik kun en **sølle** halv time til at spise.",
+   "en": "I only got a measly half hour to eat."
+  }
+ },
+ "sølv": {
+  "file": "s.json",
+  "explanation": "\"Sølv\" means \"silver\", both the metal and the color. In sports, it is also the second-place medal: \"Hun vandt sølv\" (She won silver).",
+  "forms": [
+   {
+    "da": "sølv",
+    "en": "silver"
+   },
+   {
+    "da": "sølvet",
+    "en": "the silver"
+   },
+   {
+    "da": "en sølvring",
+    "en": "a silver ring"
+   },
+   {
+    "da": "et sølvur",
+    "en": "a silver watch"
+   }
+  ],
+  "related": [
+   {
+    "da": "guld",
+    "en": "gold"
+   },
+   {
+    "da": "bronze",
+    "en": "bronze"
+   },
+   {
+    "da": "jern",
+    "en": "iron"
+   }
+  ],
+  "sentence": {
+   "da": "Min ring er lavet af **sølv**.",
+   "en": "My ring is made of silver."
+  }
+ },
+ "sølvpapir": {
+  "file": "s.json",
+  "explanation": "\"Sølvpapir\" means \"aluminum foil\", the shiny sheet you wrap food in. It is built from sølv (silver) and papir (paper). Despite the name, it is made of aluminum, not silver.",
+  "forms": [
+   {
+    "da": "sølvpapir",
+    "en": "aluminum foil"
+   },
+   {
+    "da": "sølvpapiret",
+    "en": "the aluminum foil"
+   },
+   {
+    "da": "noget sølvpapir",
+    "en": "some aluminum foil"
+   }
+  ],
+  "related": [
+   {
+    "da": "bagepapir",
+    "en": "baking paper"
+   },
+   {
+    "da": "husholdningsfilm",
+    "en": "plastic wrap"
+   },
+   {
+    "da": "køkkenrulle",
+    "en": "paper towels"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg pakker kartoflerne ind i **sølvpapir**.",
+   "en": "I wrap the potatoes in aluminum foil."
+  }
+ },
+ "søndag": {
+  "file": "s.json",
+  "explanation": "\"Søndag\" means \"Sunday\". Day names are written with a lowercase letter in Danish. Say \"på søndag\" (on Sunday) for this coming Sunday and \"om søndagen\" (on Sundays) for every Sunday.",
+  "forms": [
+   {
+    "da": "en søndag",
+    "en": "a Sunday"
+   },
+   {
+    "da": "søndagen",
+    "en": "the Sunday"
+   },
+   {
+    "da": "søndage",
+    "en": "Sundays"
+   },
+   {
+    "da": "søndagene",
+    "en": "the Sundays"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lørdag",
+    "en": "a Saturday"
+   },
+   {
+    "da": "en mandag",
+    "en": "a Monday"
+   },
+   {
+    "da": "en weekend",
+    "en": "a weekend"
+   }
+  ],
+  "sentence": {
+   "da": "Efter lørdag kommer **søndag**.",
+   "en": "After Saturday comes Sunday."
+  }
+ },
+ "sørgelig": {
+  "file": "s.json",
+  "explanation": "\"Sørgelig\" means \"sad\" in the sense of a regrettable situation, not a feeling inside you. To say that you feel sad, use \"Jeg er ked af det\" (I am sad). It can also mean \"pathetic\" about a poor result: \"et sørgeligt resultat\" (a pathetic result).",
+  "forms": [
+   {
+    "da": "en sørgelig nyhed",
+    "en": "a sad piece of news"
+   },
+   {
+    "da": "et sørgeligt syn",
+    "en": "a sorry sight"
+   },
+   {
+    "da": "sørgelige tider",
+    "en": "sad times"
+   }
+  ],
+  "related": [
+   {
+    "da": "trist",
+    "en": "sad"
+   },
+   {
+    "da": "bedrøvelig",
+    "en": "deplorable"
+   },
+   {
+    "da": "sørgmodig",
+    "en": "sorrowful"
+   },
+   {
+    "da": "en sorg",
+    "en": "a sorrow"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en **sørgelig** nyhed for hele familien.",
+   "en": "That was a sad piece of news for the whole family."
+  }
+ },
+ "sørgmodig": {
+  "file": "s.json",
+  "explanation": "\"Sørgmodig\" means \"sorrowful\", a quiet sadness that shows in a face, a voice or a melody. You meet it mostly in writing and songs, while in everyday speech Danes say \"trist\" (sad).",
+  "forms": [
+   {
+    "da": "en sørgmodig sang",
+    "en": "a sorrowful song"
+   },
+   {
+    "da": "et sørgmodigt blik",
+    "en": "a sorrowful look"
+   },
+   {
+    "da": "sørgmodige toner",
+    "en": "sorrowful tones"
+   }
+  ],
+  "related": [
+   {
+    "da": "vemodig",
+    "en": "wistful"
+   },
+   {
+    "da": "bedrøvet",
+    "en": "saddened"
+   },
+   {
+    "da": "en sorg",
+    "en": "a sorrow"
+   },
+   {
+    "da": "glad",
+    "en": "happy"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes stemme var **sørgmodig**, og alle i rummet blev stille.",
+   "en": "Her voice was sorrowful, and everyone in the room went quiet."
+  }
+ },
+ "søskende": {
+  "file": "s.json",
+  "explanation": "\"Søskende\" means \"siblings\", the word for your brothers and sisters: \"Jeg har tre søskende\" (I have three siblings). For one person, say \"en bror\" (a brother) or \"en søster\" (a sister).",
+  "forms": [
+   {
+    "da": "søskende",
+    "en": "siblings"
+   },
+   {
+    "da": "mine søskende",
+    "en": "my siblings"
+   },
+   {
+    "da": "Har du søskende?",
+    "en": "Do you have siblings?"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tvilling",
+    "en": "a twin"
+   },
+   {
+    "da": "et søskendebarn",
+    "en": "a cousin"
+   },
+   {
+    "da": "en storebror",
+    "en": "an older brother"
+   },
+   {
+    "da": "en lillesøster",
+    "en": "a younger sister"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har to **søskende**, en bror og en søster.",
+   "en": "I have two siblings, a brother and a sister."
+  }
+ },
+ "søvn": {
+  "file": "s.json",
+  "explanation": "\"Søvn\" means \"sleep\", the rest your body gets at night. Danes say they get it or lack it: \"Jeg fik lidt søvn i nat\" (I got little sleep last night), \"Jeg mangler søvn\" (I lack sleep).",
+  "forms": [
+   {
+    "da": "søvn",
+    "en": "sleep"
+   },
+   {
+    "da": "søvnen",
+    "en": "the sleep"
+   },
+   {
+    "da": "god søvn",
+    "en": "good sleep"
+   },
+   {
+    "da": "en dyb søvn",
+    "en": "a deep sleep"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   },
+   {
+    "da": "søvnløs",
+    "en": "sleepless"
+   },
+   {
+    "da": "at falde i søvn",
+    "en": "to fall asleep"
+   },
+   {
+    "da": "træt",
+    "en": "tired"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er meget træt og har brug for **søvn**.",
+   "en": "I am very tired and need sleep."
+  }
+ },
+ "søvnløshed": {
+  "file": "s.json",
+  "explanation": "\"Søvnløshed\" means \"insomnia\", trouble falling asleep or staying asleep for many nights. It is built from søvn (sleep) and -løs (without), the same -løs as in \"hjemløs\" (homeless).",
+  "forms": [
+   {
+    "da": "søvnløshed",
+    "en": "insomnia"
+   },
+   {
+    "da": "søvnløsheden",
+    "en": "the insomnia"
+   },
+   {
+    "da": "at lide af søvnløshed",
+    "en": "to suffer from insomnia"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ligge vågen",
+    "en": "to lie awake"
+   },
+   {
+    "da": "en træthed",
+    "en": "tiredness"
+   },
+   {
+    "da": "en sovepille",
+    "en": "a sleeping tablet"
+   },
+   {
+    "da": "at vågne",
+    "en": "to wake up"
+   }
+  ],
+  "sentence": {
+   "da": "Efter flere nætter med **søvnløshed** var hun meget træt.",
+   "en": "After several nights with insomnia she was very tired."
+  }
+ },
+ "at tabe": {
+  "file": "t.json",
+  "explanation": "\"At tabe\" means \"to lose\" a contest, such as a game, a fight or a bet: \"Vi taber kampen\" (We lose the match). It can also mean \"to drop\" something: \"Jeg tabte min telefon\" (I dropped my phone). For losing an item you cannot find, use \"at miste\" (to lose something): \"Jeg har mistet min nøgle\" (I have lost my key).",
+  "forms": [
+   {
+    "da": "at tabe",
+    "en": "to lose"
+   },
+   {
+    "da": "jeg taber",
+    "en": "I lose"
+   },
+   {
+    "da": "jeg tabte",
+    "en": "I lost"
+   },
+   {
+    "da": "jeg har tabt",
+    "en": "I have lost"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vinde",
+    "en": "to win"
+   },
+   {
+    "da": "et nederlag",
+    "en": "a defeat"
+   },
+   {
+    "da": "et tab",
+    "en": "a loss"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **tabe** glasset på gulvet.",
+   "en": "I don't want to drop the glass on the floor."
+  }
+ },
+ "at tabe sig": {
+  "file": "t.json",
+  "explanation": "\"At tabe sig\" means \"to lose weight\". Without \"sig\" (oneself), \"at tabe\" means \"to drop\" or \"to lose\": \"Jeg tabte min telefon\" (I dropped my phone).",
+  "forms": [
+   {
+    "da": "at tabe sig",
+    "en": "to lose weight"
+   },
+   {
+    "da": "jeg taber mig",
+    "en": "I lose weight"
+   },
+   {
+    "da": "jeg tabte mig",
+    "en": "I lost weight"
+   },
+   {
+    "da": "jeg har tabt mig",
+    "en": "I have lost weight"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage på",
+    "en": "to gain weight"
+   },
+   {
+    "da": "en vægt",
+    "en": "a weight / scale"
+   },
+   {
+    "da": "en kost",
+    "en": "a diet"
+   },
+   {
+    "da": "slank",
+    "en": "slim"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **tabe sig** og spiser mere grønt.",
+   "en": "He wants to lose weight and eats more vegetables."
+  }
+ },
+ "at tage": {
+  "file": "t.json",
+  "explanation": "\"At tage\" means \"to take\", and it appears in many phrases, such as \"tage bussen\" (take the bus), \"tage et billede\" (take a picture) and \"tage bad\" (take a shower). It can also mean \"to go\": \"Jeg tager til København\" (I am going to Copenhagen). \"Tag!\" (Take it!)",
+  "forms": [
+   {
+    "da": "at tage",
+    "en": "to take"
+   },
+   {
+    "da": "jeg tager",
+    "en": "I take"
+   },
+   {
+    "da": "jeg tog",
+    "en": "I took"
+   },
+   {
+    "da": "jeg har taget",
+    "en": "I have taken"
+   }
+  ],
+  "related": [
+   {
+    "da": "at give",
+    "en": "to give"
+   },
+   {
+    "da": "at tage med",
+    "en": "to take along"
+   },
+   {
+    "da": "at tage af",
+    "en": "to take off"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **tage** en kage fra bordet.",
+   "en": "You can take a cake from the table."
+  }
+ },
+ "at tage af": {
+  "file": "t.json",
+  "explanation": "\"At tage af\" means \"to take off\" clothes: \"Jeg tager jakken af\" (I take my jacket off). It is also what you say to a guest: \"Kom ind og tag af!\" (Come in and take your coat off!)",
+  "forms": [
+   {
+    "da": "at tage af",
+    "en": "to take off"
+   },
+   {
+    "da": "jeg tager af",
+    "en": "I take off"
+   },
+   {
+    "da": "jeg tog af",
+    "en": "I took off"
+   },
+   {
+    "da": "jeg har taget af",
+    "en": "I have taken off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage på",
+    "en": "to put on, to gain weight"
+   },
+   {
+    "da": "at tage med",
+    "en": "to take along"
+   },
+   {
+    "da": "at tage tøj på",
+    "en": "to get dressed"
+   },
+   {
+    "da": "at tage afsted",
+    "en": "to set off"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har det varmt og vil **tage af**.",
+   "en": "I feel warm and want to take something off."
+  }
+ },
+ "at tage af bordet": {
+  "file": "t.json",
+  "explanation": "\"At tage af bordet\" means \"to clear the table\", taking the plates and cups away after a meal: \"Kan du tage af bordet?\" (Can you clear the table?)",
+  "forms": [
+   {
+    "da": "at tage af bordet",
+    "en": "to clear the table"
+   },
+   {
+    "da": "jeg tager af bordet",
+    "en": "I clear the table"
+   },
+   {
+    "da": "jeg tog af bordet",
+    "en": "I cleared the table"
+   },
+   {
+    "da": "jeg har taget af bordet",
+    "en": "I have cleared the table"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dække bord",
+    "en": "to set the table"
+   },
+   {
+    "da": "at rydde op",
+    "en": "to tidy up"
+   },
+   {
+    "da": "opvask",
+    "en": "dishes to wash"
+   }
+  ],
+  "sentence": {
+   "da": "Efter maden skal vi **tage af bordet**.",
+   "en": "After the meal we have to clear the table."
+  }
+ },
+ "at tage af sted": {
+  "file": "t.json",
+  "explanation": "\"At tage af sted\" means \"to set off\", to leave for somewhere. To name the place you set off for, add \"til\" (to): \"Vi tager af sted til Aarhus\" (We set off for Aarhus).",
+  "forms": [
+   {
+    "da": "at tage af sted",
+    "en": "to set off"
+   },
+   {
+    "da": "jeg tager af sted",
+    "en": "I set off"
+   },
+   {
+    "da": "jeg tog af sted",
+    "en": "I set off"
+   },
+   {
+    "da": "jeg er taget af sted",
+    "en": "I have set off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at rejse",
+    "en": "to leave / travel"
+   },
+   {
+    "da": "at forlade",
+    "en": "to leave"
+   },
+   {
+    "da": "at ankomme",
+    "en": "to arrive"
+   },
+   {
+    "da": "at tage hjem",
+    "en": "to go home"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **tage af sted** om ti minutter.",
+   "en": "We have to set off in ten minutes."
+  }
+ },
+ "at tage bad": {
+  "file": "t.json",
+  "explanation": "\"At tage bad\" means \"to take a shower\" or \"to take a bath\". For a soak in the tub, say \"at tage et karbad\" (to take a bath in the tub).",
+  "forms": [
+   {
+    "da": "at tage bad",
+    "en": "to take a shower"
+   },
+   {
+    "da": "jeg tager bad",
+    "en": "I take a shower"
+   },
+   {
+    "da": "jeg tog bad",
+    "en": "I took a shower"
+   },
+   {
+    "da": "jeg har taget bad",
+    "en": "I have taken a shower"
+   }
+  ],
+  "related": [
+   {
+    "da": "et brusebad",
+    "en": "a shower"
+   },
+   {
+    "da": "et badekar",
+    "en": "a bathtub"
+   },
+   {
+    "da": "et badeværelse",
+    "en": "a bathroom"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **tage bad** efter løbeturen.",
+   "en": "I want to take a shower after the run."
+  }
+ },
+ "at tage bussen": {
+  "file": "t.json",
+  "explanation": "\"At tage bussen\" means \"to take the bus\". Danish uses \"tage\" (take) for transport, such as \"tage toget\" (take the train) and \"tage cyklen\" (take the bike).",
+  "forms": [
+   {
+    "da": "at tage bussen",
+    "en": "to take the bus"
+   },
+   {
+    "da": "jeg tager bussen",
+    "en": "I take the bus"
+   },
+   {
+    "da": "jeg tog bussen",
+    "en": "I took the bus"
+   },
+   {
+    "da": "jeg har taget bussen",
+    "en": "I have taken the bus"
+   }
+  ],
+  "related": [
+   {
+    "da": "en busbillet",
+    "en": "a bus ticket"
+   },
+   {
+    "da": "et busstoppested",
+    "en": "a bus stop"
+   },
+   {
+    "da": "en buschauffør",
+    "en": "a bus driver"
+   },
+   {
+    "da": "at tage metroen",
+    "en": "to take the metro"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **tage bussen** til arbejde.",
+   "en": "I want to take the bus to work."
+  }
+ },
+ "at tage det roligt": {
+  "file": "t.json",
+  "explanation": "\"At tage det roligt\" means \"to take it easy\". As a command, \"Tag det roligt!\" can also mean \"Calm down!\"",
+  "forms": [
+   {
+    "da": "at tage det roligt",
+    "en": "to take it easy"
+   },
+   {
+    "da": "jeg tager det roligt",
+    "en": "I take it easy"
+   },
+   {
+    "da": "jeg tog det roligt",
+    "en": "I took it easy"
+   },
+   {
+    "da": "jeg har taget det roligt",
+    "en": "I have taken it easy"
+   }
+  ],
+  "related": [
+   {
+    "da": "at slappe af",
+    "en": "to relax"
+   },
+   {
+    "da": "at hvile",
+    "en": "to rest"
+   },
+   {
+    "da": "at koble af",
+    "en": "to unwind"
+   },
+   {
+    "da": "afslappet",
+    "en": "relaxed"
+   }
+  ],
+  "sentence": {
+   "da": "I weekenden vil jeg **tage det roligt** hjemme.",
+   "en": "On the weekend I want to take it easy at home."
+  }
+ },
+ "at tage en beslutning": {
+  "file": "t.json",
+  "explanation": "\"At tage en beslutning\" means \"to make a decision\". Danes say \"tage\" (take) a decision where English says \"make\" one.",
+  "forms": [
+   {
+    "da": "at tage en beslutning",
+    "en": "to make a decision"
+   },
+   {
+    "da": "jeg tager en beslutning",
+    "en": "I make a decision"
+   },
+   {
+    "da": "jeg tog en beslutning",
+    "en": "I made a decision"
+   },
+   {
+    "da": "jeg har taget en beslutning",
+    "en": "I have made a decision"
+   }
+  ],
+  "related": [
+   {
+    "da": "at beslutte",
+    "en": "to decide"
+   },
+   {
+    "da": "en afgørelse",
+    "en": "a ruling / decision"
+   },
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   },
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **tage en beslutning** inden fredag.",
+   "en": "I have to make a decision before Friday."
+  }
+ },
+ "at tage en uddannelse": {
+  "file": "t.json",
+  "explanation": "\"At tage en uddannelse\" means \"to get an education\", to complete a program that qualifies you for a job. Danes say \"tage\" (take) here. You use it for university and for a trade: \"Hun tager en uddannelse som sygeplejerske\" (She is training to be a nurse).",
+  "forms": [
+   {
+    "da": "at tage en uddannelse",
+    "en": "to get an education"
+   },
+   {
+    "da": "jeg tager en uddannelse",
+    "en": "I get an education"
+   },
+   {
+    "da": "jeg tog en uddannelse",
+    "en": "I got an education"
+   },
+   {
+    "da": "jeg har taget en uddannelse",
+    "en": "I have gotten an education"
+   }
+  ],
+  "related": [
+   {
+    "da": "at studere",
+    "en": "to study"
+   },
+   {
+    "da": "en læreplads",
+    "en": "an apprenticeship"
+   },
+   {
+    "da": "at dimittere",
+    "en": "to graduate"
+   },
+   {
+    "da": "en eksamen",
+    "en": "an exam"
+   }
+  ],
+  "sentence": {
+   "da": "Efter gymnasiet vil han **tage en uddannelse** som elektriker.",
+   "en": "After high school, he wants to train as an electrician."
+  }
+ },
+ "at tage et billede": {
+  "file": "t.json",
+  "explanation": "\"At tage et billede\" means \"to take a picture\". \"At tage et foto\" (to take a photo) means the same. To name the object in the picture, use \"af\" (of): \"tage et billede af maden\" (to take a picture of the food).",
+  "forms": [
+   {
+    "da": "at tage et billede",
+    "en": "to take a picture"
+   },
+   {
+    "da": "jeg tager et billede",
+    "en": "I take a picture"
+   },
+   {
+    "da": "jeg tog et billede",
+    "en": "I took a picture"
+   },
+   {
+    "da": "jeg har taget et billede",
+    "en": "I have taken a picture"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kamera",
+    "en": "a camera"
+   },
+   {
+    "da": "at fotografere",
+    "en": "to photograph"
+   },
+   {
+    "da": "en selfie",
+    "en": "a selfie"
+   }
+  ],
+  "sentence": {
+   "da": "Må jeg **tage et billede** af dig?",
+   "en": "May I take a picture of you?"
+  }
+ },
+ "at tage fat": {
+  "file": "t.json",
+  "explanation": "\"At tage fat\" means \"to grab hold\" and \"to get to work\". Add \"i\" (in) for a physical grip: \"tage fat i rebet\" (grab hold of the rope). Add \"på\" (on) for taking on a task: \"tage fat på arbejdet\" (get to work on it).",
+  "forms": [
+   {
+    "da": "at tage fat",
+    "en": "to get to work / grab hold"
+   },
+   {
+    "da": "jeg tager fat",
+    "en": "I get to work / grab hold"
+   },
+   {
+    "da": "jeg tog fat",
+    "en": "I got to work / grabbed hold"
+   },
+   {
+    "da": "jeg har taget fat",
+    "en": "I have gotten to work / grabbed hold"
+   }
+  ],
+  "related": [
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at gå i gang",
+    "en": "to start"
+   },
+   {
+    "da": "at sætte i gang",
+    "en": "to set going"
+   },
+   {
+    "da": "at gribe",
+    "en": "to seize"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **tage fat** på renoveringen i morgen.",
+   "en": "We have to get started on the renovation tomorrow."
+  }
+ },
+ "at tage fejl": {
+  "file": "t.json",
+  "explanation": "\"At tage fejl\" means \"to be wrong\", about an opinion or a guess: \"Du tager fejl\" (You are wrong). A mistake in a task is \"en fejl\" (a mistake): \"Jeg lavede en fejl\" (I made a mistake).",
+  "forms": [
+   {
+    "da": "at tage fejl",
+    "en": "to be wrong"
+   },
+   {
+    "da": "jeg tager fejl",
+    "en": "I am wrong"
+   },
+   {
+    "da": "jeg tog fejl",
+    "en": "I was wrong"
+   },
+   {
+    "da": "jeg har taget fejl",
+    "en": "I have been wrong"
+   }
+  ],
+  "related": [
+   {
+    "da": "at have ret",
+    "en": "to be right"
+   },
+   {
+    "da": "forkert",
+    "en": "wrong"
+   },
+   {
+    "da": "at misforstå",
+    "en": "to misunderstand"
+   },
+   {
+    "da": "en misforståelse",
+    "en": "a misunderstanding"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan godt **tage fejl**, men det tror jeg ikke.",
+   "en": "I could be wrong, but I do not think so."
+  }
+ },
+ "at tage fri": {
+  "file": "t.json",
+  "explanation": "\"At tage fri\" means \"to take time off\", when you decide it yourself: \"Jeg tager fri i morgen\" (I am taking tomorrow off). When you are allowed to leave, use \"at få fri\" (to get off): \"Jeg fik fri klokken tre\" (I got off at three).",
+  "forms": [
+   {
+    "da": "at tage fri",
+    "en": "to take time off"
+   },
+   {
+    "da": "jeg tager fri",
+    "en": "I take time off"
+   },
+   {
+    "da": "jeg tog fri",
+    "en": "I took time off"
+   },
+   {
+    "da": "jeg har taget fri",
+    "en": "I have taken time off"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fridag",
+    "en": "a day off"
+   },
+   {
+    "da": "en ferie",
+    "en": "a vacation"
+   },
+   {
+    "da": "at melde sig syg",
+    "en": "to call in sick"
+   },
+   {
+    "da": "at arbejde",
+    "en": "to work"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **tage fri** på mandag.",
+   "en": "I want to take Monday off."
+  }
+ },
+ "at tage hensyn": {
+  "file": "t.json",
+  "explanation": "\"At tage hensyn\" means \"to be considerate\", or to take others into account. To name the person you consider, add \"til\" (to): \"Du skal tage hensyn til de andre\" (You have to be considerate of the others).",
+  "forms": [
+   {
+    "da": "at tage hensyn",
+    "en": "to be considerate"
+   },
+   {
+    "da": "jeg tager hensyn",
+    "en": "I am considerate"
+   },
+   {
+    "da": "jeg tog hensyn",
+    "en": "I was considerate"
+   },
+   {
+    "da": "jeg har taget hensyn",
+    "en": "I have been considerate"
+   }
+  ],
+  "related": [
+   {
+    "da": "hensynsfuld",
+    "en": "considerate"
+   },
+   {
+    "da": "hensynsløs",
+    "en": "inconsiderate"
+   },
+   {
+    "da": "at respektere",
+    "en": "to respect"
+   },
+   {
+    "da": "at tænke på",
+    "en": "to think of"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal **tage hensyn** til naboerne.",
+   "en": "You have to be considerate of the neighbors."
+  }
+ },
+ "at tage hensyn til": {
+  "file": "t.json",
+  "explanation": "\"At tage hensyn til\" means \"to take into account\", or \"to be considerate of\".",
+  "forms": [
+   {
+    "da": "at tage hensyn til",
+    "en": "to take into account"
+   },
+   {
+    "da": "jeg tager hensyn til",
+    "en": "I take into account"
+   },
+   {
+    "da": "jeg tog hensyn til",
+    "en": "I took into account"
+   },
+   {
+    "da": "jeg har taget hensyn til",
+    "en": "I have taken into account"
+   }
+  ],
+  "related": [
+   {
+    "da": "at respektere",
+    "en": "to respect"
+   },
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   },
+   {
+    "da": "at tage højde for",
+    "en": "to allow for"
+   },
+   {
+    "da": "hensynsløs",
+    "en": "inconsiderate"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **tage hensyn til** naboerne om natten.",
+   "en": "We must be considerate of the neighbors at night."
+  }
+ },
+ "at tage hjem": {
+  "file": "t.json",
+  "explanation": "\"At tage hjem\" means \"to go home\", usually leaving a place such as work or a party. Normally \"tage\" means \"to take\", but in this phrase it means \"to go\".",
+  "forms": [
+   {
+    "da": "at tage hjem",
+    "en": "to go home"
+   },
+   {
+    "da": "jeg tager hjem",
+    "en": "I go home"
+   },
+   {
+    "da": "jeg tog hjem",
+    "en": "I went home"
+   },
+   {
+    "da": "jeg er taget hjem",
+    "en": "I have gone home"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå hjem",
+    "en": "to walk home"
+   },
+   {
+    "da": "at køre hjem",
+    "en": "to drive home"
+   },
+   {
+    "da": "at komme hjem",
+    "en": "to come home"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil gerne **tage hjem** efter arbejde.",
+   "en": "We would like to go home after work."
+  }
+ },
+ "at tage imod": {
+  "file": "t.json",
+  "explanation": "\"At tage imod\" means \"to accept\" something that is offered, like a gift or help: \"Hun tog imod hjælpen\" (She accepted the help). It also means \"to receive\" people who arrive, such as guests.",
+  "forms": [
+   {
+    "da": "at tage imod",
+    "en": "to receive / accept"
+   },
+   {
+    "da": "jeg tager imod",
+    "en": "I receive / accept"
+   },
+   {
+    "da": "jeg tog imod",
+    "en": "I received / accepted"
+   },
+   {
+    "da": "jeg har taget imod",
+    "en": "I have received / accepted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at modtage",
+    "en": "to receive"
+   },
+   {
+    "da": "at acceptere",
+    "en": "to accept"
+   },
+   {
+    "da": "at afvise",
+    "en": "to turn down"
+   },
+   {
+    "da": "at byde velkommen",
+    "en": "to welcome"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil ikke **tage imod** penge fra os.",
+   "en": "He will not accept money from us."
+  }
+ },
+ "at tage med": {
+  "file": "t.json",
+  "explanation": "\"At tage med\" means \"to bring along\" or \"to come along\". To bring something: \"Jeg tager en jakke med\" (I bring a jacket along). To join someone: \"Må jeg tage med?\" (May I come along?).",
+  "forms": [
+   {
+    "da": "at tage med",
+    "en": "to bring along / come along"
+   },
+   {
+    "da": "jeg tager med",
+    "en": "I bring along / come along"
+   },
+   {
+    "da": "jeg tog med",
+    "en": "I brought along / came along"
+   },
+   {
+    "da": "jeg har taget med",
+    "en": "I have brought along / come along"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme med",
+    "en": "to come along / bring"
+   },
+   {
+    "da": "at bringe",
+    "en": "to bring"
+   },
+   {
+    "da": "at blive hjemme",
+    "en": "to stay home"
+   },
+   {
+    "da": "at invitere",
+    "en": "to invite"
+   }
+  ],
+  "sentence": {
+   "da": "Vil du **tage med** os i biografen?",
+   "en": "Do you want to come along with us to the movies?"
+  }
+ },
+ "at tage medicin": {
+  "file": "t.json",
+  "explanation": "\"At tage medicin\" means \"to take medicine\". You use \"tage\" (take) for pills, drops and syrup alike: \"Jeg tager medicin hver morgen\" (I take medicine every morning).",
+  "forms": [
+   {
+    "da": "at tage medicin",
+    "en": "to take medicine"
+   },
+   {
+    "da": "jeg tager medicin",
+    "en": "I take medicine"
+   },
+   {
+    "da": "jeg tog medicin",
+    "en": "I took medicine"
+   },
+   {
+    "da": "jeg har taget medicin",
+    "en": "I have taken medicine"
+   }
+  ],
+  "related": [
+   {
+    "da": "et medikament",
+    "en": "a medication"
+   },
+   {
+    "da": "en pille",
+    "en": "a pill"
+   },
+   {
+    "da": "en recept",
+    "en": "a prescription"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er syg og skal **tage medicin**.",
+   "en": "I am sick and have to take medicine."
+  }
+ }
+}

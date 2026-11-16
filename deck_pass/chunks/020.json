@@ -1,0 +1,4182 @@
+{
+ "en fødselsdagsgave": {
+  "file": "f.json",
+  "explanation": "\"En fødselsdagsgave\" means \"a birthday present\", a gift for someone on their birthday. It is built from fødselsdag (birthday) and gave (gift). \"Gave\" also works in other gift words, like \"en bryllupsgave\" (a wedding gift).",
+  "forms": [
+   {
+    "da": "en fødselsdagsgave",
+    "en": "a birthday present"
+   },
+   {
+    "da": "fødselsdagsgaven",
+    "en": "the birthday present"
+   },
+   {
+    "da": "fødselsdagsgaver",
+    "en": "birthday presents"
+   },
+   {
+    "da": "fødselsdagsgaverne",
+    "en": "the birthday presents"
+   }
+  ],
+  "related": [
+   {
+    "da": "at give",
+    "en": "to give"
+   },
+   {
+    "da": "en julegave",
+    "en": "a Christmas present"
+   },
+   {
+    "da": "en fødselsdagsfest",
+    "en": "a birthday party"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg køber en **fødselsdagsgave** til min mor.",
+   "en": "I am buying a birthday present for my mother."
+  }
+ },
+ "en fødselsdagskage": {
+  "file": "f.json",
+  "explanation": "\"En fødselsdagskage\" means \"a birthday cake\", the cake served to the guests at a birthday party. It is built from fødselsdag (birthday) and kage (cake). \"Kage\" also appears in \"en småkage\" (a cookie).",
+  "forms": [
+   {
+    "da": "en fødselsdagskage",
+    "en": "a birthday cake"
+   },
+   {
+    "da": "fødselsdagskagen",
+    "en": "the birthday cake"
+   },
+   {
+    "da": "fødselsdagskager",
+    "en": "birthday cakes"
+   },
+   {
+    "da": "fødselsdagskagerne",
+    "en": "the birthday cakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lagkage",
+    "en": "a layer cake"
+   },
+   {
+    "da": "en chokoladekage",
+    "en": "a chocolate cake"
+   },
+   {
+    "da": "en bryllupskage",
+    "en": "a wedding cake"
+   },
+   {
+    "da": "en julekage",
+    "en": "a Christmas cake"
+   }
+  ],
+  "sentence": {
+   "da": "En **fødselsdagskage** har ofte lys på.",
+   "en": "A birthday cake often has candles on it."
+  }
+ },
+ "en fødselsdato": {
+  "file": "f.json",
+  "explanation": "\"En fødselsdato\" means \"a date of birth\", the day, month and year you were born. It is not the same as \"en fødselsdag\" (a birthday), the day you celebrate each year.",
+  "forms": [
+   {
+    "da": "en fødselsdato",
+    "en": "a date of birth"
+   },
+   {
+    "da": "fødselsdatoen",
+    "en": "the date of birth"
+   },
+   {
+    "da": "fødselsdatoer",
+    "en": "dates of birth"
+   },
+   {
+    "da": "fødselsdatoerne",
+    "en": "the dates of birth"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dato",
+    "en": "a date"
+   },
+   {
+    "da": "et fødested",
+    "en": "a birthplace"
+   },
+   {
+    "da": "en alder",
+    "en": "an age"
+   },
+   {
+    "da": "et fødselsår",
+    "en": "a birth year"
+   }
+  ],
+  "sentence": {
+   "da": "Min **fødselsdato** er 12. marts 1990.",
+   "en": "My date of birth is March 12, 1990."
+  }
+ },
+ "en følelse": {
+  "file": "f.json",
+  "explanation": "\"En følelse\" means \"a feeling\", such as joy or fear. It can also be a hunch: \"Jeg har en følelse af, at det går godt\" (I have a feeling that it will go well).",
+  "forms": [
+   {
+    "da": "en følelse",
+    "en": "a feeling"
+   },
+   {
+    "da": "følelsen",
+    "en": "the feeling"
+   },
+   {
+    "da": "følelser",
+    "en": "feelings"
+   },
+   {
+    "da": "følelserne",
+    "en": "the feelings"
+   }
+  ],
+  "related": [
+   {
+    "da": "at føle",
+    "en": "to feel"
+   },
+   {
+    "da": "en stemning",
+    "en": "a mood"
+   },
+   {
+    "da": "en fornemmelse",
+    "en": "a sense"
+   }
+  ],
+  "sentence": {
+   "da": "Kærlighed er en stærk **følelse**.",
+   "en": "Love is a strong feeling."
+  }
+ },
+ "en følelse af lettelse": {
+  "file": "f.json",
+  "explanation": "\"En følelse af lettelse\" means \"a sense of relief\", the feeling when a worry is gone. The same pattern works with other feelings: \"en følelse af sikkerhed\" (a feeling of safety).",
+  "forms": [
+   {
+    "da": "en følelse af lettelse",
+    "en": "a sense of relief"
+   },
+   {
+    "da": "følelsen af lettelse",
+    "en": "the sense of relief"
+   },
+   {
+    "da": "en stor følelse af lettelse",
+    "en": "a great sense of relief"
+   },
+   {
+    "da": "at føle lettelse",
+    "en": "to feel relief"
+   }
+  ],
+  "related": [
+   {
+    "da": "en glæde",
+    "en": "a joy"
+   },
+   {
+    "da": "en stolthed",
+    "en": "pride"
+   },
+   {
+    "da": "en tryghed",
+    "en": "a sense of security"
+   },
+   {
+    "da": "en uro",
+    "en": "unease"
+   }
+  ],
+  "sentence": {
+   "da": "Der kom en **følelse af lettelse**, da prøven var slut.",
+   "en": "A sense of relief came when the test was over."
+  }
+ },
+ "en følger": {
+  "file": "f.json",
+  "explanation": "\"En følger\" means \"a follower\", someone who follows your account online. It comes from \"at følge\" (to follow).",
+  "forms": [
+   {
+    "da": "en følger",
+    "en": "a follower"
+   },
+   {
+    "da": "følgeren",
+    "en": "the follower"
+   },
+   {
+    "da": "følgere",
+    "en": "followers"
+   },
+   {
+    "da": "følgerne",
+    "en": "the followers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en abonnent",
+    "en": "a subscriber"
+   },
+   {
+    "da": "en fan",
+    "en": "a fan"
+   },
+   {
+    "da": "en influencer",
+    "en": "an influencer"
+   }
+  ],
+  "sentence": {
+   "da": "En **følger** kan se alle dine opslag.",
+   "en": "A follower can see all your posts."
+  }
+ },
+ "en føljeton": {
+  "file": "f.json",
+  "explanation": "\"En føljeton\" means \"a serial\", a story told in installments over time, on radio, on TV or in print. It is also used for any matter that keeps dragging on: \"Sagen er blevet en rigtig føljeton\" (The case has become a real saga).",
+  "forms": [
+   {
+    "da": "en føljeton",
+    "en": "a serial (story)"
+   },
+   {
+    "da": "føljetonen",
+    "en": "the serial (story)"
+   },
+   {
+    "da": "føljetoner",
+    "en": "serials (stories)"
+   },
+   {
+    "da": "føljetonerne",
+    "en": "the serials (stories)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en serie",
+    "en": "a series"
+   },
+   {
+    "da": "et afsnit",
+    "en": "an episode"
+   },
+   {
+    "da": "en fortsættelse",
+    "en": "a continuation"
+   },
+   {
+    "da": "en roman",
+    "en": "a novel"
+   }
+  ],
+  "sentence": {
+   "da": "En **føljeton** i avisen kommer i små dele, én hver dag.",
+   "en": "A serial in the newspaper comes in small parts, one each day."
+  }
+ },
+ "en føntørrer": {
+  "file": "f.json",
+  "explanation": "\"En føntørrer\" means \"a hairdryer\". In everyday speech it is shortened to \"en føn\", with the same meaning.",
+  "forms": [
+   {
+    "da": "en føntørrer",
+    "en": "a hairdryer"
+   },
+   {
+    "da": "føntørreren",
+    "en": "the hairdryer"
+   },
+   {
+    "da": "føntørrere",
+    "en": "hairdryers"
+   },
+   {
+    "da": "føntørrerne",
+    "en": "the hairdryers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hårtørrer",
+    "en": "a hairdryer"
+   },
+   {
+    "da": "at tørre",
+    "en": "to dry"
+   },
+   {
+    "da": "en tørretumbler",
+    "en": "a clothes dryer"
+   }
+  ],
+  "sentence": {
+   "da": "Mit hår er vådt, og jeg bruger en **føntørrer**.",
+   "en": "My hair is wet, and I am using a hairdryer."
+  }
+ },
+ "et fad": {
+  "file": "f.json",
+  "explanation": "\"Et fad\" means \"a dish\", the large plate or bowl you serve food from. For your own food at the table, use \"en tallerken\" (a plate).",
+  "forms": [
+   {
+    "da": "et fad",
+    "en": "a dish (serving)"
+   },
+   {
+    "da": "fadet",
+    "en": "the dish"
+   },
+   {
+    "da": "fade",
+    "en": "dishes"
+   },
+   {
+    "da": "fadene",
+    "en": "the dishes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skål",
+    "en": "a bowl"
+   },
+   {
+    "da": "en bakke",
+    "en": "a tray"
+   },
+   {
+    "da": "en gryde",
+    "en": "a pot"
+   }
+  ],
+  "sentence": {
+   "da": "Hun lægger kødet på et **fad**.",
+   "en": "She puts the meat on a dish."
+  }
+ },
+ "et fadøl": {
+  "file": "f.json",
+  "explanation": "\"Et fadøl\" means \"a draft beer\", beer poured from a tap instead of a bottle.",
+  "forms": [
+   {
+    "da": "et fadøl",
+    "en": "a draft beer"
+   },
+   {
+    "da": "fadølet",
+    "en": "the draft beer"
+   },
+   {
+    "da": "to fadøl",
+    "en": "two draft beers"
+   },
+   {
+    "da": "fadølene",
+    "en": "the draft beers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en øl",
+    "en": "a beer"
+   },
+   {
+    "da": "en flaskeøl",
+    "en": "a bottled beer"
+   },
+   {
+    "da": "en bajer",
+    "en": "a beer (slang)"
+   },
+   {
+    "da": "en pilsner",
+    "en": "a lager"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager hver et **fadøl** i baren.",
+   "en": "We each have a draft beer at the bar."
+  }
+ },
+ "et fag": {
+  "file": "f.json",
+  "explanation": "\"Et fag\" means \"a subject\" at school. Put \"yndlings-\" (favorite) in front for your favorite: \"Mit yndlingsfag er historie\" (My favorite subject is history).",
+  "forms": [
+   {
+    "da": "et fag",
+    "en": "a subject"
+   },
+   {
+    "da": "faget",
+    "en": "the subject"
+   },
+   {
+    "da": "fag",
+    "en": "subjects"
+   },
+   {
+    "da": "fagene",
+    "en": "the subjects"
+   }
+  ],
+  "related": [
+   {
+    "da": "et skolefag",
+    "en": "a school subject"
+   },
+   {
+    "da": "et emne",
+    "en": "a topic"
+   },
+   {
+    "da": "et valgfag",
+    "en": "an elective"
+   },
+   {
+    "da": "en klasse",
+    "en": "a class"
+   }
+  ],
+  "sentence": {
+   "da": "Matematik er et svært **fag**, men jeg kan lide det.",
+   "en": "Math is a hard subject, but I like it."
+  }
+ },
+ "et fagområde": {
+  "file": "f.json",
+  "explanation": "\"Et fagområde\" means \"a field of study\", the area of knowledge a person studies or works in, such as law or biology.",
+  "forms": [
+   {
+    "da": "et fagområde",
+    "en": "a field of study"
+   },
+   {
+    "da": "fagområdet",
+    "en": "the field of study"
+   },
+   {
+    "da": "fagområder",
+    "en": "fields of study"
+   },
+   {
+    "da": "fagområderne",
+    "en": "the fields of study"
+   }
+  ],
+  "related": [
+   {
+    "da": "et emne",
+    "en": "a topic"
+   },
+   {
+    "da": "en disciplin",
+    "en": "a discipline"
+   },
+   {
+    "da": "en ekspert",
+    "en": "an expert"
+   },
+   {
+    "da": "en specialisering",
+    "en": "a specialization"
+   }
+  ],
+  "sentence": {
+   "da": "Hun ved meget om sit **fagområde**, som er historie.",
+   "en": "She knows a lot about her field, which is history."
+  }
+ },
+ "et faktum": {
+  "file": "f.json",
+  "explanation": "\"Et faktum\" means \"a fact\", something that is true and can be checked. Danes often open with \"Faktum er, at\" (The fact is that) to stress a point.",
+  "forms": [
+   {
+    "da": "et faktum",
+    "en": "a fact"
+   },
+   {
+    "da": "faktummet",
+    "en": "the fact"
+   },
+   {
+    "da": "fakta",
+    "en": "facts"
+   },
+   {
+    "da": "faktaene",
+    "en": "the facts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sandhed",
+    "en": "a truth"
+   },
+   {
+    "da": "en mening",
+    "en": "an opinion"
+   },
+   {
+    "da": "en påstand",
+    "en": "a claim"
+   },
+   {
+    "da": "et bevis",
+    "en": "a proof"
+   }
+  ],
+  "sentence": {
+   "da": "Det er et **faktum**, at vand koger ved hundrede grader.",
+   "en": "It is a fact that water boils at a hundred degrees."
+  }
+ },
+ "et fald": {
+  "file": "f.json",
+  "explanation": "\"Et fald\" means \"a fall\" and \"a drop\": \"et fald fra stigen\" (a fall from the ladder), \"et fald i priserne\" (a drop in prices). The matching verb is \"at falde\" (to fall).",
+  "forms": [
+   {
+    "da": "et fald",
+    "en": "a fall / drop"
+   },
+   {
+    "da": "faldet",
+    "en": "the fall / drop"
+   },
+   {
+    "da": "fald",
+    "en": "falls / drops"
+   },
+   {
+    "da": "faldene",
+    "en": "the falls / drops"
+   }
+  ],
+  "related": [
+   {
+    "da": "en stigning",
+    "en": "a rise"
+   },
+   {
+    "da": "en nedgang",
+    "en": "a decline"
+   },
+   {
+    "da": "et styrt",
+    "en": "a tumble / crash"
+   }
+  ],
+  "sentence": {
+   "da": "Der har været et stort **fald** i temperaturen.",
+   "en": "There has been a big drop in temperature."
+  }
+ },
+ "et familiebillede": {
+  "file": "f.json",
+  "explanation": "\"Et familiebillede\" means \"a family photo\", built from familie (family) and billede (picture). \"Billede\" means any picture, not just photos.",
+  "forms": [
+   {
+    "da": "et familiebillede",
+    "en": "a family photo"
+   },
+   {
+    "da": "familiebilledet",
+    "en": "the family photo"
+   },
+   {
+    "da": "familiebilleder",
+    "en": "family photos"
+   },
+   {
+    "da": "familiebillederne",
+    "en": "the family photos"
+   }
+  ],
+  "related": [
+   {
+    "da": "et foto",
+    "en": "a photo"
+   },
+   {
+    "da": "et portræt",
+    "en": "a portrait"
+   },
+   {
+    "da": "et album",
+    "en": "an album"
+   },
+   {
+    "da": "et maleri",
+    "en": "a painting"
+   }
+  ],
+  "sentence": {
+   "da": "Der hænger et **familiebillede** over sofaen.",
+   "en": "A family photo hangs over the sofa."
+  }
+ },
+ "et familiemedlem": {
+  "file": "f.json",
+  "explanation": "\"Et familiemedlem\" means \"a family member\". \"Et medlem\" is also used for a member of a club: \"et medlem af klubben\" (a member of the club).",
+  "forms": [
+   {
+    "da": "et familiemedlem",
+    "en": "a family member"
+   },
+   {
+    "da": "familiemedlemmet",
+    "en": "the family member"
+   },
+   {
+    "da": "familiemedlemmer",
+    "en": "family members"
+   },
+   {
+    "da": "familiemedlemmerne",
+    "en": "the family members"
+   }
+  ],
+  "related": [
+   {
+    "da": "en slægtning",
+    "en": "a relative"
+   },
+   {
+    "da": "en pårørende",
+    "en": "a next of kin"
+   },
+   {
+    "da": "en forælder",
+    "en": "a parent"
+   },
+   {
+    "da": "søskende",
+    "en": "siblings"
+   }
+  ],
+  "sentence": {
+   "da": "Hvert **familiemedlem** fik en gave.",
+   "en": "Every family member got a gift."
+  }
+ },
+ "et fartkamera": {
+  "file": "f.json",
+  "explanation": "\"Et fartkamera\" means \"a speed camera\", a camera that takes a photo of cars that go too fast.",
+  "forms": [
+   {
+    "da": "et fartkamera",
+    "en": "a speed camera"
+   },
+   {
+    "da": "fartkameraet",
+    "en": "the speed camera"
+   },
+   {
+    "da": "fartkameraer",
+    "en": "speed cameras"
+   },
+   {
+    "da": "fartkameraerne",
+    "en": "the speed cameras"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bøde",
+    "en": "a fine"
+   },
+   {
+    "da": "en fartgrænse",
+    "en": "a speed limit"
+   },
+   {
+    "da": "en fartkontrol",
+    "en": "a speed check"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bremser, fordi der er et **fartkamera** ved vejen.",
+   "en": "I brake because there is a speed camera by the road."
+  }
+ },
+ "et fartøj": {
+  "file": "f.json",
+  "explanation": "\"Et fartøj\" means \"a vessel\" or \"a craft\", a broad word for anything that carries people or goods on water, in the air or in space. You see it in compounds such as \"luftfartøj\" (aircraft) and \"rumfartøj\" (spacecraft).",
+  "forms": [
+   {
+    "da": "et fartøj",
+    "en": "a vessel"
+   },
+   {
+    "da": "fartøjet",
+    "en": "the vessel"
+   },
+   {
+    "da": "fartøjer",
+    "en": "vessels"
+   },
+   {
+    "da": "fartøjerne",
+    "en": "the vessels"
+   }
+  ],
+  "related": [
+   {
+    "da": "et skib",
+    "en": "a ship"
+   },
+   {
+    "da": "en båd",
+    "en": "a boat"
+   },
+   {
+    "da": "et fly",
+    "en": "a plane"
+   },
+   {
+    "da": "et rumskib",
+    "en": "a spaceship"
+   }
+  ],
+  "sentence": {
+   "da": "Et **fartøj** kan være et skib, et fly eller en rumraket.",
+   "en": "A vessel can be a ship, a plane or a space rocket."
+  }
+ },
+ "et felt": {
+  "file": "f.json",
+  "explanation": "\"Et felt\" means \"a field\", but not a farm field. It is a box on a form: \"Skriv navnet i feltet\" (Write the name in the field). It can also be an area of work: \"Hun arbejder inden for dette felt\" (She works in this field).",
+  "forms": [
+   {
+    "da": "et felt",
+    "en": "a field"
+   },
+   {
+    "da": "feltet",
+    "en": "the field"
+   },
+   {
+    "da": "felter",
+    "en": "fields"
+   },
+   {
+    "da": "felterne",
+    "en": "the fields"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mark",
+    "en": "a farm field"
+   },
+   {
+    "da": "en boks",
+    "en": "a box"
+   },
+   {
+    "da": "et område",
+    "en": "an area"
+   },
+   {
+    "da": "en bane",
+    "en": "a court / track"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal udfylde hvert **felt** på siden.",
+   "en": "You have to fill in every field on the page."
+  }
+ },
+ "et feriested": {
+  "file": "f.json",
+  "explanation": "\"Et feriested\" means \"a vacation spot\", a place such as a seaside town or a resort where people spend their holiday.",
+  "forms": [
+   {
+    "da": "et feriested",
+    "en": "a vacation spot"
+   },
+   {
+    "da": "feriestedet",
+    "en": "the vacation spot"
+   },
+   {
+    "da": "feriesteder",
+    "en": "vacation spots"
+   },
+   {
+    "da": "feriestederne",
+    "en": "the vacation spots"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ferie",
+    "en": "a vacation (time off)"
+   },
+   {
+    "da": "en feriebolig",
+    "en": "a vacation home"
+   },
+   {
+    "da": "en turist",
+    "en": "a tourist"
+   },
+   {
+    "da": "et sommerhus",
+    "en": "a summer house"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager til et **feriested** ved havet i sommer.",
+   "en": "We are going to a vacation spot by the sea this summer."
+  }
+ },
+ "et fingeraftryk": {
+  "file": "f.json",
+  "explanation": "\"Et fingeraftryk\" means \"a fingerprint\", the pattern of lines on the tip of a finger, which is different for every person. Police look for fingerprints on objects to identify the person who touched them.",
+  "forms": [
+   {
+    "da": "et fingeraftryk",
+    "en": "a fingerprint"
+   },
+   {
+    "da": "fingeraftrykket",
+    "en": "the fingerprint"
+   },
+   {
+    "da": "fingeraftryk",
+    "en": "fingerprints"
+   },
+   {
+    "da": "fingeraftrykkene",
+    "en": "the fingerprints"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spor",
+    "en": "a trace"
+   },
+   {
+    "da": "en efterforskning",
+    "en": "an investigation"
+   },
+   {
+    "da": "et fodspor",
+    "en": "a footprint"
+   },
+   {
+    "da": "et aftryk",
+    "en": "an imprint"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet fandt et **fingeraftryk** på vinduet og kunne identificere tyven.",
+   "en": "The police found a fingerprint on the window and could identify the thief."
+  }
+ },
+ "et firben": {
+  "file": "f.json",
+  "explanation": "\"Et firben\" means \"a lizard\", a small animal with four legs and a long tail that runs away fast.",
+  "forms": [
+   {
+    "da": "et firben",
+    "en": "a lizard"
+   },
+   {
+    "da": "firbenet",
+    "en": "the lizard"
+   },
+   {
+    "da": "firben",
+    "en": "lizards"
+   },
+   {
+    "da": "firbenene",
+    "en": "the lizards"
+   }
+  ],
+  "related": [
+   {
+    "da": "en slange",
+    "en": "a snake"
+   },
+   {
+    "da": "en krokodille",
+    "en": "a crocodile"
+   },
+   {
+    "da": "en skildpadde",
+    "en": "a turtle"
+   },
+   {
+    "da": "et krybdyr",
+    "en": "a reptile"
+   }
+  ],
+  "sentence": {
+   "da": "Et **firben** ligger på den varme sten og soler sig.",
+   "en": "A lizard lies on the warm rock and sunbathes."
+  }
+ },
+ "et firma": {
+  "file": "f.json",
+  "explanation": "\"Et firma\" means \"a company\", a business that sells things or services.",
+  "forms": [
+   {
+    "da": "et firma",
+    "en": "a company"
+   },
+   {
+    "da": "firmaet",
+    "en": "the company"
+   },
+   {
+    "da": "firmaer",
+    "en": "companies"
+   },
+   {
+    "da": "firmaerne",
+    "en": "the companies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en virksomhed",
+    "en": "a business"
+   },
+   {
+    "da": "et selskab",
+    "en": "a corporation"
+   },
+   {
+    "da": "en koncern",
+    "en": "a corporate group"
+   },
+   {
+    "da": "et foretagende",
+    "en": "an enterprise"
+   }
+  ],
+  "sentence": {
+   "da": "Han har sit eget **firma** i Aarhus.",
+   "en": "He has his own company in Aarhus."
+  }
+ },
+ "et fitnessabonnement": {
+  "file": "f.json",
+  "explanation": "\"Et fitnessabonnement\" means \"a gym membership\", a plan where you pay every month to use a gym. \"Abonnement\" (subscription) is also used for newspapers, phones and streaming: \"et abonnement på en avis\" (a subscription to a newspaper).",
+  "forms": [
+   {
+    "da": "et fitnessabonnement",
+    "en": "a gym membership"
+   },
+   {
+    "da": "fitnessabonnementet",
+    "en": "the gym membership"
+   },
+   {
+    "da": "fitnessabonnementer",
+    "en": "gym memberships"
+   },
+   {
+    "da": "fitnessabonnementerne",
+    "en": "the gym memberships"
+   }
+  ],
+  "related": [
+   {
+    "da": "en træning",
+    "en": "a workout"
+   },
+   {
+    "da": "et kontingent",
+    "en": "a club fee"
+   },
+   {
+    "da": "en bindingsperiode",
+    "en": "a contract period"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg betaler hver måned for mit **fitnessabonnement**, men jeg går sjældent.",
+   "en": "I pay every month for my gym membership, but I rarely go."
+  }
+ },
+ "et fitnesscenter": {
+  "file": "f.json",
+  "explanation": "\"Et fitnesscenter\" means \"a gym\", a place with machines and weights.",
+  "forms": [
+   {
+    "da": "et fitnesscenter",
+    "en": "a gym"
+   },
+   {
+    "da": "fitnesscentret",
+    "en": "the gym"
+   },
+   {
+    "da": "fitnesscentre",
+    "en": "gyms"
+   },
+   {
+    "da": "fitnesscentrene",
+    "en": "the gyms"
+   }
+  ],
+  "related": [
+   {
+    "da": "et motionscenter",
+    "en": "an exercise center"
+   },
+   {
+    "da": "et træningscenter",
+    "en": "a training center"
+   },
+   {
+    "da": "en træningssal",
+    "en": "a workout room"
+   }
+  ],
+  "sentence": {
+   "da": "Mange mennesker træner i et **fitnesscenter** efter arbejde.",
+   "en": "Many people work out at a gym after work."
+  }
+ },
+ "et fjernsyn": {
+  "file": "f.json",
+  "explanation": "\"Et fjernsyn\" means \"a television\", the device. To talk about watching it, say \"Jeg ser fjernsyn\" (I watch TV), or just \"tv\".",
+  "forms": [
+   {
+    "da": "et fjernsyn",
+    "en": "a television"
+   },
+   {
+    "da": "fjernsynet",
+    "en": "the television"
+   },
+   {
+    "da": "fjernsyn",
+    "en": "televisions"
+   },
+   {
+    "da": "fjernsynene",
+    "en": "the televisions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fjernbetjening",
+    "en": "a remote control"
+   },
+   {
+    "da": "en skærm",
+    "en": "a screen"
+   },
+   {
+    "da": "en radio",
+    "en": "a radio"
+   },
+   {
+    "da": "et tv-program",
+    "en": "a TV program"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ser film på vores store **fjernsyn**.",
+   "en": "We watch movies on our big TV."
+  }
+ },
+ "et fjols": {
+  "file": "f.json",
+  "explanation": "\"Et fjols\" means \"a fool\", someone who has done something silly. It is a mild insult, often said half as a joke: \"Hold nu op, dit fjols!\" (Stop it, you fool!)",
+  "forms": [
+   {
+    "da": "et fjols",
+    "en": "a fool"
+   },
+   {
+    "da": "fjolset",
+    "en": "the fool"
+   },
+   {
+    "da": "fjolser",
+    "en": "fools"
+   },
+   {
+    "da": "fjolserne",
+    "en": "the fools"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tåbe",
+    "en": "a simpleton"
+   },
+   {
+    "da": "en idiot",
+    "en": "an idiot"
+   },
+   {
+    "da": "et fjog",
+    "en": "a goof"
+   },
+   {
+    "da": "en nar",
+    "en": "a jester"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg følte mig som et **fjols**, da jeg glemte hans navn.",
+   "en": "I felt like a fool when I forgot his name."
+  }
+ },
+ "et flag": {
+  "file": "f.json",
+  "explanation": "\"Et flag\" means \"a flag\", a piece of cloth that stands for a country or a group. To raise it, use \"at hejse\" (to hoist): \"Vi hejser flaget\" (We raise the flag).",
+  "forms": [
+   {
+    "da": "et flag",
+    "en": "a flag"
+   },
+   {
+    "da": "flaget",
+    "en": "the flag"
+   },
+   {
+    "da": "flag",
+    "en": "flags"
+   },
+   {
+    "da": "flagene",
+    "en": "the flags"
+   }
+  ],
+  "related": [
+   {
+    "da": "en flagstang",
+    "en": "a flagpole"
+   },
+   {
+    "da": "en fane",
+    "en": "a banner"
+   },
+   {
+    "da": "Dannebrog",
+    "en": "the Danish flag"
+   }
+  ],
+  "sentence": {
+   "da": "Det danske **flag** er rødt med et hvidt kors.",
+   "en": "The Danish flag is red with a white cross."
+  }
+ },
+ "et flertal": {
+  "file": "f.json",
+  "explanation": "\"Et flertal\" means \"a majority\", more than half of a group, for example of the people deciding something. In language classes, \"flertal\" also means the plural form of a word, the opposite of \"ental\" (singular).",
+  "forms": [
+   {
+    "da": "et flertal",
+    "en": "a majority"
+   },
+   {
+    "da": "flertallet",
+    "en": "the majority"
+   },
+   {
+    "da": "flertal",
+    "en": "majorities"
+   },
+   {
+    "da": "flertallene",
+    "en": "the majorities"
+   }
+  ],
+  "related": [
+   {
+    "da": "et mindretal",
+    "en": "a minority"
+   },
+   {
+    "da": "en afstemning",
+    "en": "a vote on a proposal"
+   },
+   {
+    "da": "et valg",
+    "en": "an election"
+   },
+   {
+    "da": "en stemme",
+    "en": "a single vote"
+   }
+  ],
+  "sentence": {
+   "da": "Et **flertal** i Folketinget stemte for den nye lov.",
+   "en": "A majority in Parliament voted for the new law."
+  }
+ },
+ "et fly": {
+  "file": "f.json",
+  "explanation": "\"Et fly\" means \"a plane\". \"En flyvemaskine\" (an airplane) also exists, but it is longer, so people mostly say \"et fly\".",
+  "forms": [
+   {
+    "da": "et fly",
+    "en": "a plane"
+   },
+   {
+    "da": "flyet",
+    "en": "the plane"
+   },
+   {
+    "da": "fly",
+    "en": "planes"
+   },
+   {
+    "da": "flyene",
+    "en": "the planes"
+   }
+  ],
+  "related": [
+   {
+    "da": "at flyve",
+    "en": "to fly"
+   },
+   {
+    "da": "en lufthavn",
+    "en": "an airport"
+   },
+   {
+    "da": "en flyvning",
+    "en": "a flight"
+   }
+  ],
+  "sentence": {
+   "da": "Vi sidder i et **fly** over skyerne.",
+   "en": "We are sitting in a plane above the clouds."
+  }
+ },
+ "et flyselskab": {
+  "file": "f.json",
+  "explanation": "\"Et flyselskab\" means \"an airline\", a company that flies passengers. It is built from fly (plane) and selskab (company). \"Selskab\" also means a party: \"Der er selskab hos naboerne i aften\" (There is a party at the neighbors' tonight).",
+  "forms": [
+   {
+    "da": "et flyselskab",
+    "en": "an airline"
+   },
+   {
+    "da": "flyselskabet",
+    "en": "the airline"
+   },
+   {
+    "da": "flyselskaber",
+    "en": "airlines"
+   },
+   {
+    "da": "flyselskaberne",
+    "en": "the airlines"
+   }
+  ],
+  "related": [
+   {
+    "da": "en flyvning",
+    "en": "a flight"
+   },
+   {
+    "da": "et luftfartsselskab",
+    "en": "an aviation company"
+   },
+   {
+    "da": "en flyrejse",
+    "en": "a trip by plane"
+   }
+  ],
+  "sentence": {
+   "da": "Hvilket **flyselskab** flyver du med?",
+   "en": "Which airline are you flying with?"
+  }
+ },
+ "et foder": {
+  "file": "f.json",
+  "explanation": "\"Et foder\" means \"feed\", something for animals to eat, such as horses and pets. It also means the lining inside a coat or jacket.",
+  "forms": [
+   {
+    "da": "et foder",
+    "en": "feed"
+   },
+   {
+    "da": "foderet",
+    "en": "the feed"
+   },
+   {
+    "da": "foder til heste",
+    "en": "feed for horses"
+   },
+   {
+    "da": "foderet i jakken",
+    "en": "the lining in the jacket"
+   }
+  ],
+  "related": [
+   {
+    "da": "et hø",
+    "en": "hay"
+   },
+   {
+    "da": "kattemad",
+    "en": "cat food"
+   },
+   {
+    "da": "hundemad",
+    "en": "dog food"
+   },
+   {
+    "da": "en krybbe",
+    "en": "a manger"
+   }
+  ],
+  "sentence": {
+   "da": "Køerne får **foder** i stalden om vinteren.",
+   "en": "The cows get feed in the barn in winter."
+  }
+ },
+ "et foderbræt": {
+  "file": "f.json",
+  "explanation": "\"Et foderbræt\" means \"a bird feeder\", usually a flat board set up outside with food for wild birds, mostly in winter.",
+  "forms": [
+   {
+    "da": "et foderbræt",
+    "en": "a bird feeder"
+   },
+   {
+    "da": "foderbrættet",
+    "en": "the bird feeder"
+   },
+   {
+    "da": "foderbrætter",
+    "en": "bird feeders"
+   },
+   {
+    "da": "foderbrætterne",
+    "en": "the bird feeders"
+   }
+  ],
+  "related": [
+   {
+    "da": "en redekasse",
+    "en": "a nest box"
+   },
+   {
+    "da": "en fedtkugle",
+    "en": "a fat ball (bird food)"
+   },
+   {
+    "da": "et fuglebad",
+    "en": "a bird bath"
+   }
+  ],
+  "sentence": {
+   "da": "Småfuglene spiser solsikkekerner fra et **foderbræt** i haven.",
+   "en": "The small birds eat sunflower seeds from a bird feeder in the garden."
+  }
+ },
+ "et fodgængerfelt": {
+  "file": "f.json",
+  "explanation": "\"Et fodgængerfelt\" means \"a crosswalk\", the marked stripes where people cross the road. Danes also say \"fodgængerovergang\" (pedestrian crossing).",
+  "forms": [
+   {
+    "da": "et fodgængerfelt",
+    "en": "a crosswalk"
+   },
+   {
+    "da": "fodgængerfeltet",
+    "en": "the crosswalk"
+   },
+   {
+    "da": "fodgængerfelter",
+    "en": "crosswalks"
+   },
+   {
+    "da": "fodgængerfelterne",
+    "en": "the crosswalks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fodgænger",
+    "en": "a pedestrian"
+   },
+   {
+    "da": "et fortov",
+    "en": "a sidewalk"
+   },
+   {
+    "da": "en cykelsti",
+    "en": "a bike lane"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene går over vejen ved et **fodgængerfelt**.",
+   "en": "The children cross the road at a crosswalk."
+  }
+ },
+ "et fodspor": {
+  "file": "f.json",
+  "explanation": "\"Et fodspor\" means \"a footprint\", the mark a foot leaves. It is built from en fod (a foot) and et spor (a track). \"Spor\" also means a clue: \"Politiet leder efter spor\" (The police look for clues).",
+  "forms": [
+   {
+    "da": "et fodspor",
+    "en": "a footprint"
+   },
+   {
+    "da": "fodsporet",
+    "en": "the footprint"
+   },
+   {
+    "da": "fodspor",
+    "en": "footprints"
+   },
+   {
+    "da": "fodsporene",
+    "en": "the footprints"
+   }
+  ],
+  "related": [
+   {
+    "da": "et aftryk",
+    "en": "an imprint"
+   },
+   {
+    "da": "en sti",
+    "en": "a path"
+   },
+   {
+    "da": "et hjulspor",
+    "en": "a wheel track"
+   },
+   {
+    "da": "et fingeraftryk",
+    "en": "a fingerprint"
+   }
+  ],
+  "sentence": {
+   "da": "Der er et **fodspor** i sneen foran døren.",
+   "en": "There is a footprint in the snow in front of the door."
+  }
+ },
+ "et fokus": {
+  "file": "f.json",
+  "explanation": "\"Et fokus\" means \"a focus\", what you pay the most attention to. To name the topic you focus on, use \"på\" (on): \"at sætte fokus på sundhed\" (to put the focus on health).",
+  "forms": [
+   {
+    "da": "et nyt fokus",
+    "en": "a new focus"
+   },
+   {
+    "da": "fokus på arbejdet",
+    "en": "focus on the work"
+   },
+   {
+    "da": "Fokus er på børnene.",
+    "en": "The focus is on the children."
+   }
+  ],
+  "related": [
+   {
+    "da": "at fokusere",
+    "en": "to focus"
+   },
+   {
+    "da": "koncentration",
+    "en": "concentration"
+   },
+   {
+    "da": "opmærksomhed",
+    "en": "attention"
+   },
+   {
+    "da": "et mål",
+    "en": "a goal"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har **fokus** på vores kunder.",
+   "en": "We focus on our customers."
+  }
+ },
+ "et folk": {
+  "file": "f.json",
+  "explanation": "\"Et folk\" means \"a people\", a whole nation: \"Det danske folk\" (The Danish people). \"Folk\" is also everyday talk for people: \"Der er mange folk her\" (There are lots of people here).",
+  "forms": [
+   {
+    "da": "et folk",
+    "en": "a people / nation"
+   },
+   {
+    "da": "folket",
+    "en": "the people / nation"
+   },
+   {
+    "da": "folk",
+    "en": "peoples / people"
+   },
+   {
+    "da": "folkene",
+    "en": "the peoples"
+   }
+  ],
+  "related": [
+   {
+    "da": "et menneske",
+    "en": "a human being"
+   },
+   {
+    "da": "en befolkning",
+    "en": "a population"
+   },
+   {
+    "da": "et land",
+    "en": "a country"
+   }
+  ],
+  "sentence": {
+   "da": "Det danske **folk** elsker at cykle.",
+   "en": "The Danish people love to cycle."
+  }
+ },
+ "et folketingsvalg": {
+  "file": "f.json",
+  "explanation": "\"Et folketingsvalg\" means \"a general election\", the election of the members of the Folketing, the Danish parliament. It is held at the latest every four years, and the result decides which parties lead the country.",
+  "forms": [
+   {
+    "da": "et folketingsvalg",
+    "en": "a general election"
+   },
+   {
+    "da": "folketingsvalget",
+    "en": "the general election"
+   },
+   {
+    "da": "folketingsvalg",
+    "en": "general elections"
+   },
+   {
+    "da": "folketingsvalgene",
+    "en": "the general elections"
+   }
+  ],
+  "related": [
+   {
+    "da": "en statsminister",
+    "en": "a prime minister"
+   },
+   {
+    "da": "et parti",
+    "en": "a party"
+   },
+   {
+    "da": "en stemmeseddel",
+    "en": "a ballot paper"
+   },
+   {
+    "da": "en regering",
+    "en": "a government"
+   }
+  ],
+  "sentence": {
+   "da": "Efter et **folketingsvalg** danner partierne en ny regering.",
+   "en": "After a general election, the parties form a new government."
+  }
+ },
+ "et forbud": {
+  "file": "f.json",
+  "explanation": "\"Et forbud\" means \"a ban\", an official order that something is not allowed. Use \"mod\" (against) after it: \"et forbud mod mobiltelefoner\" (a ban on cell phones).",
+  "forms": [
+   {
+    "da": "et forbud",
+    "en": "a ban"
+   },
+   {
+    "da": "forbuddet",
+    "en": "the ban"
+   },
+   {
+    "da": "forbud",
+    "en": "bans"
+   },
+   {
+    "da": "forbuddene",
+    "en": "the bans"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forbyde",
+    "en": "to forbid"
+   },
+   {
+    "da": "forbudt",
+    "en": "forbidden"
+   },
+   {
+    "da": "en tilladelse",
+    "en": "a permit"
+   },
+   {
+    "da": "en lov",
+    "en": "a law"
+   }
+  ],
+  "sentence": {
+   "da": "Der er et **forbud** mod at ryge på stationen.",
+   "en": "There is a ban on smoking at the station."
+  }
+ },
+ "et foredrag": {
+  "file": "f.json",
+  "explanation": "\"Et foredrag\" means \"a talk\" or \"a lecture\", a spoken talk by one person to a group. Danes say \"at holde et foredrag\" (to give a lecture, literally \"to hold a lecture\"), where English says \"give\".",
+  "forms": [
+   {
+    "da": "et foredrag",
+    "en": "a talk"
+   },
+   {
+    "da": "foredraget",
+    "en": "the talk"
+   },
+   {
+    "da": "foredrag",
+    "en": "talks"
+   },
+   {
+    "da": "foredragene",
+    "en": "the talks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tale",
+    "en": "a speech"
+   },
+   {
+    "da": "en præsentation",
+    "en": "a presentation"
+   },
+   {
+    "da": "et oplæg",
+    "en": "a short talk"
+   },
+   {
+    "da": "et publikum",
+    "en": "an audience"
+   }
+  ],
+  "sentence": {
+   "da": "Forfatteren holder et **foredrag** om sin nye bog på biblioteket.",
+   "en": "The author gives a talk about his new book at the library."
+  }
+ },
+ "et forhold": {
+  "file": "f.json",
+  "explanation": "\"Et forhold\" means \"a relationship\", for example between two people. It also means how two things relate: \"Forholdet mellem pris og kvalitet er godt\" (The relation between price and quality is good).",
+  "forms": [
+   {
+    "da": "et forhold",
+    "en": "a relationship"
+   },
+   {
+    "da": "forholdet",
+    "en": "the relationship"
+   },
+   {
+    "da": "forhold",
+    "en": "relationships"
+   },
+   {
+    "da": "forholdene",
+    "en": "the relationships"
+   }
+  ],
+  "related": [
+   {
+    "da": "et venskab",
+    "en": "a friendship"
+   },
+   {
+    "da": "et ægteskab",
+    "en": "a marriage"
+   },
+   {
+    "da": "en kæreste",
+    "en": "a partner"
+   },
+   {
+    "da": "en ven",
+    "en": "a friend"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har et godt **forhold** til min chef.",
+   "en": "I have a good relationship with my boss."
+  }
+ },
+ "et forholdsord": {
+  "file": "f.json",
+  "explanation": "\"Et forholdsord\" means \"a preposition\", a small word such as \"på\" (on), \"i\" (in) or \"til\" (to) that you put before a noun: \"på bordet\" (on the table). \"På\" often matches English \"for\": \"at vente på\" (to wait for).",
+  "forms": [
+   {
+    "da": "et forholdsord",
+    "en": "a preposition"
+   },
+   {
+    "da": "forholdsordet",
+    "en": "the preposition"
+   },
+   {
+    "da": "forholdsord",
+    "en": "prepositions"
+   },
+   {
+    "da": "forholdsordene",
+    "en": "the prepositions"
+   }
+  ],
+  "related": [
+   {
+    "da": "et navneord",
+    "en": "a noun"
+   },
+   {
+    "da": "et udsagnsord",
+    "en": "a verb"
+   },
+   {
+    "da": "et tillægsord",
+    "en": "an adjective"
+   },
+   {
+    "da": "et biord",
+    "en": "an adverb"
+   }
+  ],
+  "sentence": {
+   "da": "På er et **forholdsord**, som viser, hvor noget er.",
+   "en": "På is a preposition that shows where something is."
+  }
+ },
+ "et forhør": {
+  "file": "f.json",
+  "explanation": "\"Et forhør\" means \"an interrogation\", when the police question someone about a crime, sometimes for many hours. It is built from the verb \"at forhøre\" (to interrogate).",
+  "forms": [
+   {
+    "da": "et forhør",
+    "en": "an interrogation"
+   },
+   {
+    "da": "forhøret",
+    "en": "the interrogation"
+   },
+   {
+    "da": "forhør",
+    "en": "interrogations"
+   },
+   {
+    "da": "forhørene",
+    "en": "the interrogations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en afhøring",
+    "en": "an interrogation"
+   },
+   {
+    "da": "et vidne",
+    "en": "a witness"
+   },
+   {
+    "da": "en retssag",
+    "en": "a trial"
+   },
+   {
+    "da": "en mistænkt",
+    "en": "a suspect"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet holdt et **forhør** med manden i flere timer.",
+   "en": "The police held an interrogation with the man for several hours."
+  }
+ },
+ "et forlag": {
+  "file": "f.json",
+  "explanation": "\"Et forlag\" means \"a publisher\", a company that chooses, prepares and sells books, magazines or music made by authors and artists.",
+  "forms": [
+   {
+    "da": "et forlag",
+    "en": "a publisher"
+   },
+   {
+    "da": "forlaget",
+    "en": "the publisher"
+   },
+   {
+    "da": "forlag",
+    "en": "publishers"
+   },
+   {
+    "da": "forlagene",
+    "en": "the publishers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forfatter",
+    "en": "an author"
+   },
+   {
+    "da": "et manuskript",
+    "en": "a manuscript"
+   },
+   {
+    "da": "en redaktør",
+    "en": "an editor"
+   },
+   {
+    "da": "et trykkeri",
+    "en": "a print shop"
+   }
+  ],
+  "sentence": {
+   "da": "Hun sender sit manuskript til et **forlag**, fordi hun vil udgive bogen.",
+   "en": "She sends her manuscript to a publisher because she wants to publish the book."
+  }
+ },
+ "et forlig": {
+  "file": "f.json",
+  "explanation": "\"Et forlig\" means \"a settlement\", a deal that ends a conflict where both sides give up something. In Denmark it is also used when parties in parliament make a deal: \"et politisk forlig\" (a political deal).",
+  "forms": [
+   {
+    "da": "et forlig",
+    "en": "a settlement"
+   },
+   {
+    "da": "forliget",
+    "en": "the settlement"
+   },
+   {
+    "da": "forlig",
+    "en": "settlements"
+   },
+   {
+    "da": "forligene",
+    "en": "the settlements"
+   }
+  ],
+  "related": [
+   {
+    "da": "en aftale",
+    "en": "an agreement"
+   },
+   {
+    "da": "et kompromis",
+    "en": "a compromise"
+   },
+   {
+    "da": "en strid",
+    "en": "a dispute"
+   },
+   {
+    "da": "at forlige sig",
+    "en": "to reconcile"
+   }
+  ],
+  "sentence": {
+   "da": "Fagforeningen og arbejdsgiverne nåede et **forlig** efter lange forhandlinger.",
+   "en": "The union and the employers reached a settlement after long negotiations."
+  }
+ },
+ "et formål": {
+  "file": "f.json",
+  "explanation": "\"Et formål\" means \"a purpose\", what something is done for. To name the event or activity that has the purpose, use \"med\" (with), where English says \"of\": \"formålet med mødet\" (the purpose of the meeting).",
+  "forms": [
+   {
+    "da": "et formål",
+    "en": "a purpose"
+   },
+   {
+    "da": "formålet",
+    "en": "the purpose"
+   },
+   {
+    "da": "formål",
+    "en": "purposes"
+   },
+   {
+    "da": "formålene",
+    "en": "the purposes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en grund",
+    "en": "a reason"
+   },
+   {
+    "da": "en hensigt",
+    "en": "an intention"
+   },
+   {
+    "da": "et mål",
+    "en": "a goal"
+   },
+   {
+    "da": "et sigte",
+    "en": "an aim"
+   }
+  ],
+  "sentence": {
+   "da": "Hvad er dit **formål** med at rejse til Danmark?",
+   "en": "What is your purpose in traveling to Denmark?"
+  }
+ },
+ "et fornavn": {
+  "file": "f.json",
+  "explanation": "\"Et fornavn\" means \"a first name\", the name you are given at birth, before the family name. It is made of for (before) and et navn (a name).",
+  "forms": [
+   {
+    "da": "et fornavn",
+    "en": "a first name"
+   },
+   {
+    "da": "fornavnet",
+    "en": "the first name"
+   },
+   {
+    "da": "fornavne",
+    "en": "first names"
+   },
+   {
+    "da": "fornavnene",
+    "en": "the first names"
+   }
+  ],
+  "related": [
+   {
+    "da": "et efternavn",
+    "en": "a last name"
+   },
+   {
+    "da": "et mellemnavn",
+    "en": "a middle name"
+   },
+   {
+    "da": "et kaldenavn",
+    "en": "a nickname"
+   }
+  ],
+  "sentence": {
+   "da": "Mit **fornavn** er Anna.",
+   "en": "My first name is Anna."
+  }
+ },
+ "et forord": {
+  "file": "f.json",
+  "explanation": "\"Et forord\" means \"a preface\", a short text at the start of a book that comes before the chapters. It is built from for (before) and ord (word), so its opposite is \"et efterord\" (an afterword).",
+  "forms": [
+   {
+    "da": "et forord",
+    "en": "a preface"
+   },
+   {
+    "da": "forordet",
+    "en": "the preface"
+   },
+   {
+    "da": "forord",
+    "en": "prefaces"
+   },
+   {
+    "da": "forordene",
+    "en": "the prefaces"
+   }
+  ],
+  "related": [
+   {
+    "da": "en indledning",
+    "en": "an introduction"
+   },
+   {
+    "da": "et kapitel",
+    "en": "a chapter"
+   },
+   {
+    "da": "en indholdsfortegnelse",
+    "en": "a table of contents"
+   }
+  ],
+  "sentence": {
+   "da": "I et **forord** forklarer forfatteren, hvorfor hun skrev bogen.",
+   "en": "In a preface the author explains why she wrote the book."
+  }
+ },
+ "et forræderi": {
+  "file": "f.json",
+  "explanation": "\"Et forræderi\" means \"a betrayal\", especially of someone who trusts you. The crime of betraying your own country is called \"landsforræderi\" (treason).",
+  "forms": [
+   {
+    "da": "et forræderi",
+    "en": "a betrayal"
+   },
+   {
+    "da": "forræderiet",
+    "en": "the betrayal"
+   },
+   {
+    "da": "forræderier",
+    "en": "betrayals"
+   },
+   {
+    "da": "forræderierne",
+    "en": "the betrayals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forræder",
+    "en": "a traitor"
+   },
+   {
+    "da": "troløshed",
+    "en": "disloyalty"
+   },
+   {
+    "da": "loyalitet",
+    "en": "loyalty"
+   },
+   {
+    "da": "at forråde",
+    "en": "to betray"
+   }
+  ],
+  "sentence": {
+   "da": "At sælge hemmeligheder til fjenden er et **forræderi** mod landet.",
+   "en": "Selling secrets to the enemy is a betrayal of the country."
+  }
+ },
+ "et forsikringsselskab": {
+  "file": "f.json",
+  "explanation": "\"Et forsikringsselskab\" means \"an insurance company\", a company you pay every month so that it covers the costs if something goes wrong, such as a break-in or a car crash.",
+  "forms": [
+   {
+    "da": "et forsikringsselskab",
+    "en": "an insurance company"
+   },
+   {
+    "da": "forsikringsselskabet",
+    "en": "the insurance company"
+   },
+   {
+    "da": "forsikringsselskaber",
+    "en": "insurance companies"
+   },
+   {
+    "da": "forsikringsselskaberne",
+    "en": "the insurance companies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en police",
+    "en": "a policy"
+   },
+   {
+    "da": "en præmie",
+    "en": "a premium"
+   },
+   {
+    "da": "en erstatning",
+    "en": "compensation"
+   }
+  ],
+  "sentence": {
+   "da": "Mit **forsikringsselskab** betaler for skaden, hvis bilen bliver stjålet.",
+   "en": "My insurance company pays for the damage if the car is stolen."
+  }
+ },
+ "et forskud": {
+  "file": "f.json",
+  "explanation": "\"Et forskud\" means \"an advance\", money paid before it is earned or due, such as part of your pay for work not yet done. \"På forskud\" means \"in advance\": \"betale på forskud\" (to pay in advance).",
+  "forms": [
+   {
+    "da": "et forskud",
+    "en": "an advance"
+   },
+   {
+    "da": "forskuddet",
+    "en": "the advance"
+   },
+   {
+    "da": "forskud",
+    "en": "advances"
+   },
+   {
+    "da": "forskuddene",
+    "en": "the advances"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forudbetaling",
+    "en": "a prepayment"
+   },
+   {
+    "da": "et depositum",
+    "en": "a deposit"
+   },
+   {
+    "da": "en løn",
+    "en": "a salary"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bad chefen om et **forskud** på min løn.",
+   "en": "I asked the boss for an advance on my salary."
+  }
+ },
+ "et forslag": {
+  "file": "f.json",
+  "explanation": "\"Et forslag\" means \"a suggestion\" or \"a proposal\". You make one with \"at komme med et forslag\" (to come up with a suggestion): \"Har du et forslag?\" (Do you have a suggestion?).",
+  "forms": [
+   {
+    "da": "et forslag",
+    "en": "a suggestion"
+   },
+   {
+    "da": "forslaget",
+    "en": "the suggestion"
+   },
+   {
+    "da": "forslag",
+    "en": "suggestions"
+   },
+   {
+    "da": "forslagene",
+    "en": "the suggestions"
+   }
+  ],
+  "related": [
+   {
+    "da": "at foreslå",
+    "en": "to suggest"
+   },
+   {
+    "da": "et tilbud",
+    "en": "an offer"
+   },
+   {
+    "da": "en idé",
+    "en": "an idea"
+   },
+   {
+    "da": "et råd",
+    "en": "a piece of advice"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har et godt **forslag** til middag.",
+   "en": "I have a good suggestion for dinner."
+  }
+ },
+ "et forspring": {
+  "file": "f.json",
+  "explanation": "\"Et forspring\" means \"a head start\", the distance or time you are ahead of others at the start. It is also used for an edge in something else: \"et forspring i viden\" (a head start in knowledge).",
+  "forms": [
+   {
+    "da": "et forspring",
+    "en": "a head start"
+   },
+   {
+    "da": "forspringet",
+    "en": "the head start"
+   },
+   {
+    "da": "forspring",
+    "en": "head starts"
+   },
+   {
+    "da": "forspringene",
+    "en": "the head starts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fordel",
+    "en": "an advantage"
+   },
+   {
+    "da": "en føring",
+    "en": "a lead"
+   },
+   {
+    "da": "en forsinkelse",
+    "en": "a delay"
+   }
+  ],
+  "sentence": {
+   "da": "Hun fik ti sekunders **forspring**, fordi hun var yngst.",
+   "en": "She got a ten-second head start because she was the youngest."
+  }
+ },
+ "et forsvar": {
+  "file": "f.json",
+  "explanation": "\"Et forsvar\" means \"a defense\", protecting someone or something against harm. For a country, it is its military: \"Danmarks forsvar\" (Denmark's defense). In sports, it is the players who stop the other team from scoring: \"Holdet har et stærkt forsvar\" (The team has a strong defense). With an uppercase letter, \"Forsvaret\" is the name of the Danish armed forces.",
+  "forms": [
+   {
+    "da": "et forsvar",
+    "en": "a defense"
+   },
+   {
+    "da": "forsvaret",
+    "en": "the defense"
+   },
+   {
+    "da": "forsvar",
+    "en": "defenses"
+   },
+   {
+    "da": "forsvarene",
+    "en": "the defenses"
+   }
+  ],
+  "related": [
+   {
+    "da": "et angreb",
+    "en": "an attack"
+   },
+   {
+    "da": "at forsvare",
+    "en": "to defend"
+   },
+   {
+    "da": "en soldat",
+    "en": "a soldier"
+   },
+   {
+    "da": "en hær",
+    "en": "an army"
+   }
+  ],
+  "sentence": {
+   "da": "Landets **forsvar** beskytter os mod angreb udefra.",
+   "en": "The country's defense protects us against attacks from outside."
+  }
+ },
+ "et forsøg": {
+  "file": "f.json",
+  "explanation": "\"Et forsøg\" means \"an experiment\", and also \"an attempt\": \"Det var et godt forsøg\" (That was a good attempt). In a lab, it is a test of an idea.",
+  "forms": [
+   {
+    "da": "et forsøg",
+    "en": "an experiment"
+   },
+   {
+    "da": "forsøget",
+    "en": "the experiment"
+   },
+   {
+    "da": "forsøg",
+    "en": "experiments"
+   },
+   {
+    "da": "forsøgene",
+    "en": "the experiments"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forsøge",
+    "en": "to try"
+   },
+   {
+    "da": "et eksperiment",
+    "en": "an experiment"
+   },
+   {
+    "da": "en prøve",
+    "en": "a test"
+   },
+   {
+    "da": "et resultat",
+    "en": "a result"
+   }
+  ],
+  "sentence": {
+   "da": "Vi laver et **forsøg** med vand og salt.",
+   "en": "We do an experiment with water and salt."
+  }
+ },
+ "et fortov": {
+  "file": "f.json",
+  "explanation": "\"Et fortov\" means \"a sidewalk\", the part of a street for people on foot. Bikes use \"en cykelsti\" (a bike path).",
+  "forms": [
+   {
+    "da": "et fortov",
+    "en": "a sidewalk"
+   },
+   {
+    "da": "fortovet",
+    "en": "the sidewalk"
+   },
+   {
+    "da": "fortove",
+    "en": "sidewalks"
+   },
+   {
+    "da": "fortovene",
+    "en": "the sidewalks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fodgænger",
+    "en": "a pedestrian"
+   },
+   {
+    "da": "en gade",
+    "en": "a street"
+   },
+   {
+    "da": "en kantsten",
+    "en": "a curb"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg går på et smalt **fortov** langs vejen.",
+   "en": "I walk on a narrow sidewalk along the road."
+  }
+ },
+ "et forår": {
+  "file": "f.json",
+  "explanation": "\"Et forår\" means \"a spring\", the season between winter and summer when the flowers come out.",
+  "forms": [
+   {
+    "da": "et forår",
+    "en": "a spring"
+   },
+   {
+    "da": "foråret",
+    "en": "the spring"
+   },
+   {
+    "da": "om foråret",
+    "en": "in the spring"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sommer",
+    "en": "a summer"
+   },
+   {
+    "da": "en vinter",
+    "en": "a winter"
+   },
+   {
+    "da": "et efterår",
+    "en": "an autumn"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **forår** med mange blomster.",
+   "en": "It is spring with many flowers."
+  }
+ },
+ "et forældremøde": {
+  "file": "f.json",
+  "explanation": "\"Et forældremøde\" means \"a parent-teacher meeting\", held at school for all the grown-ups of one class at once. A one-to-one talk about a single child is \"en skole-hjem-samtale\" (a school-home talk).",
+  "forms": [
+   {
+    "da": "et forældremøde",
+    "en": "a parent-teacher meeting"
+   },
+   {
+    "da": "forældremødet",
+    "en": "the parent-teacher meeting"
+   },
+   {
+    "da": "forældremøder",
+    "en": "parent-teacher meetings"
+   },
+   {
+    "da": "forældremøderne",
+    "en": "the parent-teacher meetings"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forældresamtale",
+    "en": "a one-to-one parent talk"
+   },
+   {
+    "da": "et personalemøde",
+    "en": "a staff meeting"
+   },
+   {
+    "da": "et klassemøde",
+    "en": "a class meeting"
+   }
+  ],
+  "sentence": {
+   "da": "Til et **forældremøde** hører forældrene, hvad børnene laver i skolen.",
+   "en": "At a parent-teacher meeting the parents hear what the children do at school."
+  }
+ },
+ "et foto": {
+  "file": "f.json",
+  "explanation": "\"Et foto\" means \"a photo\". It is short for \"et fotografi\" (a photograph).",
+  "forms": [
+   {
+    "da": "et foto",
+    "en": "a photo"
+   },
+   {
+    "da": "fotoet",
+    "en": "the photo"
+   },
+   {
+    "da": "fotoer",
+    "en": "photos"
+   },
+   {
+    "da": "fotoerne",
+    "en": "the photos"
+   }
+  ],
+  "related": [
+   {
+    "da": "et billede",
+    "en": "a picture"
+   },
+   {
+    "da": "et kamera",
+    "en": "a camera"
+   },
+   {
+    "da": "at fotografere",
+    "en": "to photograph"
+   },
+   {
+    "da": "en fotograf",
+    "en": "a photographer"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sendte hende et **foto** af hunden.",
+   "en": "I sent her a photo of the dog."
+  }
+ },
+ "et fotografi": {
+  "file": "f.json",
+  "explanation": "\"Et fotografi\" means \"a photograph\". In daily talk people usually say the shorter \"et foto\" (a photo).",
+  "forms": [
+   {
+    "da": "et fotografi",
+    "en": "a photograph"
+   },
+   {
+    "da": "fotografiet",
+    "en": "the photograph"
+   },
+   {
+    "da": "fotografier",
+    "en": "photographs"
+   },
+   {
+    "da": "fotografierne",
+    "en": "the photographs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fotograf",
+    "en": "a photographer"
+   },
+   {
+    "da": "at fotografere",
+    "en": "to photograph"
+   },
+   {
+    "da": "et kamera",
+    "en": "a camera"
+   },
+   {
+    "da": "et billede",
+    "en": "a picture"
+   }
+  ],
+  "sentence": {
+   "da": "Fotografen tager et **fotografi** med sit kamera.",
+   "en": "The photographer takes a photograph with his camera."
+  }
+ },
+ "et fradrag": {
+  "file": "f.json",
+  "explanation": "\"Et fradrag\" means \"a deduction\", an amount you may subtract in your tax return, for example for long trips to work: \"et befordringsfradrag\" (a commuting deduction).",
+  "forms": [
+   {
+    "da": "et fradrag",
+    "en": "a deduction"
+   },
+   {
+    "da": "fradraget",
+    "en": "the deduction"
+   },
+   {
+    "da": "fradrag",
+    "en": "deductions"
+   },
+   {
+    "da": "fradragene",
+    "en": "the deductions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rabat",
+    "en": "a discount"
+   },
+   {
+    "da": "et tillæg",
+    "en": "a supplement"
+   },
+   {
+    "da": "et tilskud",
+    "en": "a grant"
+   },
+   {
+    "da": "en nedsættelse",
+    "en": "a reduction"
+   }
+  ],
+  "sentence": {
+   "da": "Et **fradrag** trækker man fra, før skatten beregnes.",
+   "en": "You subtract a deduction before the tax is calculated."
+  }
+ },
+ "et fredet område": {
+  "file": "f.json",
+  "explanation": "\"Et fredet område\" means \"a protected area\", land or water that the law protects from building, hunting or damage. \"Fredet\" is also used for old buildings: \"en fredet bygning\" (a listed building), which cannot be torn down or changed freely.",
+  "forms": [
+   {
+    "da": "et fredet område",
+    "en": "a protected area"
+   },
+   {
+    "da": "fredede områder",
+    "en": "protected areas"
+   },
+   {
+    "da": "i et fredet område",
+    "en": "in a protected area"
+   }
+  ],
+  "related": [
+   {
+    "da": "en naturpark",
+    "en": "a nature park"
+   },
+   {
+    "da": "et naturreservat",
+    "en": "a nature reserve"
+   },
+   {
+    "da": "en nationalpark",
+    "en": "a national park"
+   },
+   {
+    "da": "et vildtreservat",
+    "en": "a wildlife reserve"
+   }
+  ],
+  "sentence": {
+   "da": "I et **fredet område** må man ikke fælde træer eller samle blomster.",
+   "en": "In a protected area you may not cut down trees or pick flowers."
+  }
+ },
+ "et fremmedord": {
+  "file": "f.json",
+  "explanation": "\"Et fremmedord\" means \"a foreign word\", a word that came from Latin, Greek, French or English and still feels foreign, such as \"fænomen\" (phenomenon) or \"demokrati\" (democracy).",
+  "forms": [
+   {
+    "da": "et fremmedord",
+    "en": "a foreign word"
+   },
+   {
+    "da": "fremmedordet",
+    "en": "the foreign word"
+   },
+   {
+    "da": "fremmedord",
+    "en": "foreign words"
+   },
+   {
+    "da": "fremmedordene",
+    "en": "the foreign words"
+   }
+  ],
+  "related": [
+   {
+    "da": "et lånord",
+    "en": "a loanword"
+   },
+   {
+    "da": "et ord",
+    "en": "a word"
+   },
+   {
+    "da": "et fagudtryk",
+    "en": "a technical term"
+   },
+   {
+    "da": "en oversættelse",
+    "en": "a translation"
+   }
+  ],
+  "sentence": {
+   "da": "Computer er et **fremmedord**, som vi bruger hver dag.",
+   "en": "Computer is a foreign word that we use every day."
+  }
+ },
+ "et fremskridt": {
+  "file": "f.json",
+  "explanation": "\"Et fremskridt\" means \"an advance\", a step forward or a gain in skill. Danish says \"at gøre fremskridt\" (to make progress, literally \"to do advances\").",
+  "forms": [
+   {
+    "da": "et fremskridt",
+    "en": "an advance"
+   },
+   {
+    "da": "fremskridtet",
+    "en": "the advance"
+   },
+   {
+    "da": "fremskridt",
+    "en": "advances"
+   },
+   {
+    "da": "fremskridtene",
+    "en": "the advances"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forbedring",
+    "en": "an improvement"
+   },
+   {
+    "da": "en udvikling",
+    "en": "a development"
+   },
+   {
+    "da": "et tilbageskridt",
+    "en": "a setback"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg gør store **fremskridt** i dansk, fordi jeg øver hver dag.",
+   "en": "I am making great progress in Danish because I practice every day."
+  }
+ },
+ "et frikvarter": {
+  "file": "f.json",
+  "explanation": "\"Et frikvarter\" means \"a recess\" or \"a break\" between lessons. It is built from fri (free) and kvarter (quarter hour). \"Fri\" also starts \"en fridag\" (a day off).",
+  "forms": [
+   {
+    "da": "et frikvarter",
+    "en": "a recess / break"
+   },
+   {
+    "da": "frikvarteret",
+    "en": "the recess"
+   },
+   {
+    "da": "frikvarterer",
+    "en": "recesses"
+   },
+   {
+    "da": "frikvartererne",
+    "en": "the recesses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pause",
+    "en": "a pause / break"
+   },
+   {
+    "da": "en frokostpause",
+    "en": "a lunch break"
+   },
+   {
+    "da": "en time",
+    "en": "a lesson / an hour"
+   },
+   {
+    "da": "en rast",
+    "en": "a rest break"
+   }
+  ],
+  "sentence": {
+   "da": "Efter to timer har vi et **frikvarter**, og så leger vi.",
+   "en": "After two lessons we have a recess, and then we play."
+  }
+ },
+ "et frimærke": {
+  "file": "f.json",
+  "explanation": "\"Et frimærke\" means \"a stamp\" for a letter. Do not mix it up with \"et stempel\" (a rubber stamp for ink).",
+  "forms": [
+   {
+    "da": "et frimærke",
+    "en": "a stamp"
+   },
+   {
+    "da": "frimærket",
+    "en": "the stamp"
+   },
+   {
+    "da": "frimærker",
+    "en": "stamps"
+   },
+   {
+    "da": "frimærkerne",
+    "en": "the stamps"
+   }
+  ],
+  "related": [
+   {
+    "da": "et brev",
+    "en": "a letter"
+   },
+   {
+    "da": "en postkasse",
+    "en": "a mailbox"
+   },
+   {
+    "da": "en konvolut",
+    "en": "an envelope"
+   },
+   {
+    "da": "et postkort",
+    "en": "a postcard"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal sætte et **frimærke** på brevet.",
+   "en": "You have to put a stamp on the letter."
+  }
+ },
+ "et frispark": {
+  "file": "f.json",
+  "explanation": "\"Et frispark\" means \"a free kick\", a kick in soccer awarded after a foul. The other team has to stand back while it is taken.",
+  "forms": [
+   {
+    "da": "et frispark",
+    "en": "a free kick"
+   },
+   {
+    "da": "frisparket",
+    "en": "the free kick"
+   },
+   {
+    "da": "frispark",
+    "en": "free kicks"
+   },
+   {
+    "da": "frisparkene",
+    "en": "the free kicks"
+   }
+  ],
+  "related": [
+   {
+    "da": "et straffespark",
+    "en": "a penalty kick"
+   },
+   {
+    "da": "en dommer",
+    "en": "a referee"
+   },
+   {
+    "da": "et hjørnespark",
+    "en": "a corner kick"
+   },
+   {
+    "da": "et gult kort",
+    "en": "a yellow card"
+   }
+  ],
+  "sentence": {
+   "da": "Dommeren fløjter og giver os et **frispark** efter en hård tackling.",
+   "en": "The referee blows the whistle and gives us a free kick after a hard tackle."
+  }
+ },
+ "et frø": {
+  "file": "f.json",
+  "explanation": "\"Et frø\" means \"a seed\". Do not mix it up with \"en frø\" (a frog), which takes \"en\" instead of \"et\": \"Frøen hopper\" (The frog jumps).",
+  "forms": [
+   {
+    "da": "et frø",
+    "en": "a seed"
+   },
+   {
+    "da": "frøet",
+    "en": "the seed"
+   },
+   {
+    "da": "frø",
+    "en": "seeds"
+   },
+   {
+    "da": "frøene",
+    "en": "the seeds"
+   }
+  ],
+  "related": [
+   {
+    "da": "at så",
+    "en": "to sow"
+   },
+   {
+    "da": "et korn",
+    "en": "a grain"
+   },
+   {
+    "da": "en kerne",
+    "en": "a kernel"
+   },
+   {
+    "da": "en plante",
+    "en": "a plant"
+   }
+  ],
+  "sentence": {
+   "da": "Fra et lille **frø** vokser et stort træ.",
+   "en": "A big tree grows from a small seed."
+  }
+ },
+ "et fuglekvidder": {
+  "file": "f.json",
+  "explanation": "\"Et fuglekvidder\" means \"birdsong\", the twittering of many birds. It is built from fugle (birds') and kvidder (twittering).",
+  "forms": [
+   {
+    "da": "morgenens fuglekvidder",
+    "en": "the morning birdsong"
+   },
+   {
+    "da": "at høre fuglekvidder",
+    "en": "to hear birdsong"
+   },
+   {
+    "da": "fuglekvidder i haven",
+    "en": "birdsong in the garden"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kvidre",
+    "en": "to chirp"
+   },
+   {
+    "da": "en sangfugl",
+    "en": "a songbird"
+   },
+   {
+    "da": "at synge",
+    "en": "to sing"
+   },
+   {
+    "da": "en lærke",
+    "en": "a lark"
+   }
+  ],
+  "sentence": {
+   "da": "Om foråret er haven fuld af **fuglekvidder**.",
+   "en": "In the spring the garden is full of birdsong."
+  }
+ },
+ "et fund": {
+  "file": "f.json",
+  "explanation": "\"Et fund\" means \"a find\" or \"a discovery\", something that has been found, especially something old or important, such as objects dug up from the ground.",
+  "forms": [
+   {
+    "da": "et fund",
+    "en": "a find"
+   },
+   {
+    "da": "fundet",
+    "en": "the find"
+   },
+   {
+    "da": "fund",
+    "en": "finds"
+   },
+   {
+    "da": "fundene",
+    "en": "the finds"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skat",
+    "en": "a treasure"
+   },
+   {
+    "da": "en arkæolog",
+    "en": "an archaeologist"
+   },
+   {
+    "da": "en udgravning",
+    "en": "an excavation"
+   },
+   {
+    "da": "et fossil",
+    "en": "a fossil"
+   }
+  ],
+  "sentence": {
+   "da": "Arkæologerne gjorde et vigtigt **fund**: en gammel guldring i jorden.",
+   "en": "The archaeologists made an important find: an old gold ring in the ground."
+  }
+ },
+ "et fundament": {
+  "file": "f.json",
+  "explanation": "\"Et fundament\" means \"a foundation\", the solid structure under a building that carries its weight. You also use it for what something rests on: \"Tillid er fundamentet for et venskab\" (Trust is the foundation of a friendship).",
+  "forms": [
+   {
+    "da": "et fundament",
+    "en": "a foundation"
+   },
+   {
+    "da": "fundamentet",
+    "en": "the foundation"
+   },
+   {
+    "da": "fundamenter",
+    "en": "foundations"
+   },
+   {
+    "da": "fundamenterne",
+    "en": "the foundations"
+   }
+  ],
+  "related": [
+   {
+    "da": "et grundlag",
+    "en": "a basis"
+   },
+   {
+    "da": "en sokkel",
+    "en": "a plinth"
+   },
+   {
+    "da": "en fundering",
+    "en": "groundwork"
+   }
+  ],
+  "sentence": {
+   "da": "Huset står på et stærkt **fundament** af beton.",
+   "en": "The house stands on a strong foundation of concrete."
+  }
+ },
+ "et fyrretræ": {
+  "file": "f.json",
+  "explanation": "\"Et fyrretræ\" means \"a pine tree\", a tall evergreen tree.",
+  "forms": [
+   {
+    "da": "et fyrretræ",
+    "en": "a pine tree"
+   },
+   {
+    "da": "fyrretræet",
+    "en": "the pine tree"
+   },
+   {
+    "da": "fyrretræer",
+    "en": "pine trees"
+   },
+   {
+    "da": "fyrretræerne",
+    "en": "the pine trees"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gran",
+    "en": "a spruce"
+   },
+   {
+    "da": "et nåletræ",
+    "en": "a conifer"
+   },
+   {
+    "da": "en birk",
+    "en": "a birch"
+   },
+   {
+    "da": "en bøg",
+    "en": "a beech"
+   }
+  ],
+  "sentence": {
+   "da": "Et **fyrretræ** har nåle i stedet for blade og er grønt hele året.",
+   "en": "A pine tree has needles instead of leaves and is green all year."
+  }
+ },
+ "et fyrtårn": {
+  "file": "f.json",
+  "explanation": "\"Et fyrtårn\" means \"a lighthouse\", a tall tower with a bright light that guides ships. It is built from fyr (beacon light) and tårn (tower). \"Fyr\" also means a guy: \"Han er en flot fyr\" (He is a handsome guy).",
+  "forms": [
+   {
+    "da": "et fyrtårn",
+    "en": "a lighthouse"
+   },
+   {
+    "da": "fyrtårnet",
+    "en": "the lighthouse"
+   },
+   {
+    "da": "fyrtårne",
+    "en": "lighthouses"
+   },
+   {
+    "da": "fyrtårnene",
+    "en": "the lighthouses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fyrvogter",
+    "en": "a lighthouse keeper"
+   },
+   {
+    "da": "et fyrskib",
+    "en": "a lightship"
+   },
+   {
+    "da": "en bøje",
+    "en": "a buoy"
+   },
+   {
+    "da": "et vagttårn",
+    "en": "a watchtower"
+   }
+  ],
+  "sentence": {
+   "da": "Om natten viser et **fyrtårn** skibene vej.",
+   "en": "At night, a lighthouse shows the ships the way."
+  }
+ },
+ "et får": {
+  "file": "f.json",
+  "explanation": "\"Et får\" means \"a sheep\". Do not mix it up with \"får\" (gets) from \"at få\" (to get): \"Han får en gave\" (He gets a gift).",
+  "forms": [
+   {
+    "da": "et får",
+    "en": "a sheep"
+   },
+   {
+    "da": "fåret",
+    "en": "the sheep"
+   },
+   {
+    "da": "får",
+    "en": "sheep (more than one)"
+   },
+   {
+    "da": "fårene",
+    "en": "the sheep (more than one)"
+   }
+  ],
+  "related": [
+   {
+    "da": "et lam",
+    "en": "a lamb"
+   },
+   {
+    "da": "en ko",
+    "en": "a cow"
+   },
+   {
+    "da": "en ged",
+    "en": "a goat"
+   }
+  ],
+  "sentence": {
+   "da": "Et **får** har uld og siger mæh.",
+   "en": "A sheep has wool and says baa."
+  }
+ },
+ "et fællesskab": {
+  "file": "f.json",
+  "explanation": "\"Et fællesskab\" means \"a community\", a group bound together by something shared, and the feeling of belonging that comes with it. For the people living in one local area, Danes say \"et lokalsamfund\" (a local community).",
+  "forms": [
+   {
+    "da": "et fællesskab",
+    "en": "a community"
+   },
+   {
+    "da": "fællesskabet",
+    "en": "the community"
+   },
+   {
+    "da": "fællesskaber",
+    "en": "communities"
+   },
+   {
+    "da": "fællesskaberne",
+    "en": "the communities"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klub",
+    "en": "a club"
+   },
+   {
+    "da": "et sammenhold",
+    "en": "unity"
+   },
+   {
+    "da": "en forening",
+    "en": "an association"
+   }
+  ],
+  "sentence": {
+   "da": "I vores **fællesskab** hjælper alle hinanden, når nogen har brug for det.",
+   "en": "In our community everyone helps each other when someone needs it."
+  }
+ },
+ "et fællesvaskeri": {
+  "file": "f.json",
+  "explanation": "\"Et fællesvaskeri\" means \"a shared laundry room\", where all the residents of a building wash their clothes. It is built from fælles (shared) and vask (washing).",
+  "forms": [
+   {
+    "da": "et fællesvaskeri",
+    "en": "a shared laundry room"
+   },
+   {
+    "da": "fællesvaskeriet",
+    "en": "the shared laundry room"
+   },
+   {
+    "da": "fællesvaskerier",
+    "en": "shared laundry rooms"
+   },
+   {
+    "da": "fællesvaskerierne",
+    "en": "the shared laundry rooms"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vaskekælder",
+    "en": "a laundry room (in basement)"
+   },
+   {
+    "da": "en vaskemaskine",
+    "en": "a washing machine"
+   },
+   {
+    "da": "et tørrerum",
+    "en": "a drying room"
+   },
+   {
+    "da": "et vaskeri",
+    "en": "a laundromat"
+   }
+  ],
+  "sentence": {
+   "da": "Der er et **fællesvaskeri** i huset, som alle bruger.",
+   "en": "There is a shared laundry room in the building that everyone uses."
+  }
+ },
+ "et fængsel": {
+  "file": "f.json",
+  "explanation": "\"Et fængsel\" means \"a prison\", the building. To say someone is in prison, Danes drop \"et\": \"Han sidder i fængsel\" (He is in prison).",
+  "forms": [
+   {
+    "da": "et fængsel",
+    "en": "a prison"
+   },
+   {
+    "da": "fængslet",
+    "en": "the prison"
+   },
+   {
+    "da": "fængsler",
+    "en": "prisons"
+   },
+   {
+    "da": "fængslerne",
+    "en": "the prisons"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fængsle",
+    "en": "to imprison"
+   },
+   {
+    "da": "en fange",
+    "en": "a prisoner"
+   },
+   {
+    "da": "en straf",
+    "en": "a punishment"
+   },
+   {
+    "da": "en celle",
+    "en": "a cell"
+   }
+  ],
+  "sentence": {
+   "da": "Han kom i **fængsel** i to år.",
+   "en": "He went to prison for two years."
+  }
+ },
+ "et fænomen": {
+  "file": "f.json",
+  "explanation": "\"Et fænomen\" means \"a phenomenon\", something that can be seen or noticed, especially something unusual or hard to explain, such as a rainbow or a new trend. With \"natur\" (nature) in front, \"et naturfænomen\" is a natural phenomenon.",
+  "forms": [
+   {
+    "da": "et fænomen",
+    "en": "a phenomenon"
+   },
+   {
+    "da": "fænomenet",
+    "en": "the phenomenon"
+   },
+   {
+    "da": "fænomener",
+    "en": "phenomena"
+   },
+   {
+    "da": "fænomenerne",
+    "en": "the phenomena"
+   }
+  ],
+  "related": [
+   {
+    "da": "en begivenhed",
+    "en": "an event"
+   },
+   {
+    "da": "et mønster",
+    "en": "a pattern"
+   },
+   {
+    "da": "en tendens",
+    "en": "a tendency"
+   },
+   {
+    "da": "en forklaring",
+    "en": "an explanation"
+   }
+  ],
+  "sentence": {
+   "da": "Nordlys er et smukt **fænomen**, men man ser det sjældent i Danmark.",
+   "en": "The northern lights are a beautiful phenomenon, but you rarely see them in Denmark."
+  }
+ },
+ "et fødested": {
+  "file": "f.json",
+  "explanation": "\"Et fødested\" means \"a birthplace\", the town or country where someone was born. It is made of at føde (to give birth) and et sted (a place). You will see \"Fødested\" as a box on forms.",
+  "forms": [
+   {
+    "da": "et fødested",
+    "en": "a birthplace"
+   },
+   {
+    "da": "fødestedet",
+    "en": "the birthplace"
+   },
+   {
+    "da": "fødesteder",
+    "en": "birthplaces"
+   },
+   {
+    "da": "fødestederne",
+    "en": "the birthplaces"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fødselsdato",
+    "en": "a date of birth"
+   },
+   {
+    "da": "en fødselsdag",
+    "en": "a birthday"
+   },
+   {
+    "da": "et hjemland",
+    "en": "a home country"
+   }
+  ],
+  "sentence": {
+   "da": "Mit **fødested** er Odense.",
+   "en": "My birthplace is Odense."
+  }
+ },
+ "et føl": {
+  "file": "f.json",
+  "explanation": "\"Et føl\" means \"a foal\", a young horse or donkey that still drinks its mother's milk.",
+  "forms": [
+   {
+    "da": "et føl",
+    "en": "a foal"
+   },
+   {
+    "da": "følet",
+    "en": "the foal"
+   },
+   {
+    "da": "føl",
+    "en": "foals"
+   },
+   {
+    "da": "følene",
+    "en": "the foals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hoppe",
+    "en": "a mare"
+   },
+   {
+    "da": "en hingst",
+    "en": "a stallion"
+   },
+   {
+    "da": "en kalv",
+    "en": "a calf"
+   },
+   {
+    "da": "et lam",
+    "en": "a lamb"
+   }
+  ],
+  "sentence": {
+   "da": "Hoppen står i engen med sit lille **føl**.",
+   "en": "The mare stands in the meadow with her little foal."
+  }
+ },
+ "faglig": {
+  "file": "f.json",
+  "explanation": "\"Faglig\" means \"professional\" or \"academic\", about a subject or a trade. It describes knowledge and skills in that field: \"faglig viden\" (knowledge of the field). It also covers the trade union side of work: \"en faglig organisation\" (a trade union).",
+  "forms": [
+   {
+    "da": "en faglig diskussion",
+    "en": "a professional discussion"
+   },
+   {
+    "da": "et fagligt spørgsmål",
+    "en": "an academic question"
+   },
+   {
+    "da": "faglige kurser",
+    "en": "professional courses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en faglighed",
+    "en": "expertise"
+   },
+   {
+    "da": "kompetent",
+    "en": "competent"
+   },
+   {
+    "da": "en fagmand",
+    "en": "a tradesman"
+   },
+   {
+    "da": "kvalificeret",
+    "en": "qualified"
+   }
+  ],
+  "sentence": {
+   "da": "Rapporten er meget **faglig** og bygger på forskning.",
+   "en": "The report is very academic and builds on research."
+  }
+ },
+ "faktisk": {
+  "file": "f.json",
+  "explanation": "\"Faktisk\" means \"actually\" or \"in fact\". Use it when the truth differs from what someone thinks: \"Det er faktisk nemt\" (It is actually easy).",
+  "forms": [
+   {
+    "da": "Det er faktisk rigtigt.",
+    "en": "It is actually true."
+   },
+   {
+    "da": "Jeg ved det faktisk ikke.",
+    "en": "I actually do not know."
+   },
+   {
+    "da": "Faktisk, ja.",
+    "en": "Actually, yes."
+   }
+  ],
+  "related": [
+   {
+    "da": "virkelig",
+    "en": "really"
+   },
+   {
+    "da": "egentlig",
+    "en": "really / actually"
+   },
+   {
+    "da": "i virkeligheden",
+    "en": "in reality"
+   },
+   {
+    "da": "et faktum",
+    "en": "a fact"
+   }
+  ],
+  "sentence": {
+   "da": "Nej, han er **faktisk** dansk.",
+   "en": "No, he is actually Danish."
+  }
+ },
+ "falsk": {
+  "file": "f.json",
+  "explanation": "\"Falsk\" means \"fake\", for things made to look real. For a person it means someone who only pretends to be nice: \"en falsk ven\" (a false friend).",
+  "forms": [
+   {
+    "da": "en falsk seddel",
+    "en": "a fake bill"
+   },
+   {
+    "da": "et falskt pas",
+    "en": "a fake passport"
+   },
+   {
+    "da": "falske penge",
+    "en": "fake money"
+   }
+  ],
+  "related": [
+   {
+    "da": "ægte",
+    "en": "genuine"
+   },
+   {
+    "da": "ærlig",
+    "en": "honest"
+   },
+   {
+    "da": "en forfalskning",
+    "en": "a forgery"
+   },
+   {
+    "da": "uægte",
+    "en": "not genuine"
+   }
+  ],
+  "sentence": {
+   "da": "Sedlen er **falsk**, og banken tager ikke imod den.",
+   "en": "The bill is fake, and the bank will not accept it."
+  }
+ },
+ "fantasifuld": {
+  "file": "f.json",
+  "explanation": "\"Fantasifuld\" means \"imaginative\", full of ideas and imagination, for a person or for something made by one. The ending -fuld means \"full of\", and works the same in \"smertefuld\" (painful).",
+  "forms": [
+   {
+    "da": "en fantasifuld historie",
+    "en": "an imaginative story"
+   },
+   {
+    "da": "et fantasifuldt barn",
+    "en": "an imaginative child"
+   },
+   {
+    "da": "fantasifulde børn",
+    "en": "imaginative children"
+   }
+  ],
+  "related": [
+   {
+    "da": "fantasirig",
+    "en": "rich in imagination"
+   },
+   {
+    "da": "kreativ",
+    "en": "creative"
+   },
+   {
+    "da": "opfindsom",
+    "en": "inventive"
+   },
+   {
+    "da": "fantasiløs",
+    "en": "unimaginative"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er så **fantasifuld**, at hun finder på nye eventyr hver dag.",
+   "en": "She is so imaginative that she makes up new adventures every day."
+  }
+ },
+ "fantastisk": {
+  "file": "f.json",
+  "explanation": "\"Fantastisk\" means \"fantastic\". It is stronger than \"god\" (good): \"en god film\" (a good film) is less than \"en fantastisk film\" (a fantastic film).",
+  "forms": [
+   {
+    "da": "en fantastisk dag",
+    "en": "a fantastic day"
+   },
+   {
+    "da": "et fantastisk sted",
+    "en": "a fantastic place"
+   },
+   {
+    "da": "fantastiske dage",
+    "en": "fantastic days"
+   }
+  ],
+  "related": [
+   {
+    "da": "super",
+    "en": "super / great"
+   },
+   {
+    "da": "dejlig",
+    "en": "lovely"
+   },
+   {
+    "da": "vidunderlig",
+    "en": "wonderful"
+   },
+   {
+    "da": "perfekt",
+    "en": "perfect"
+   }
+  ],
+  "sentence": {
+   "da": "Maden var **fantastisk**!",
+   "en": "The food was fantastic!"
+  }
+ },
+ "farlig": {
+  "file": "f.json",
+  "explanation": "\"Farlig\" means \"dangerous\" and comes from fare (danger). \"Livsfarlig\" means \"life-threatening\".",
+  "forms": [
+   {
+    "da": "en farlig vej",
+    "en": "a dangerous road"
+   },
+   {
+    "da": "et farligt dyr",
+    "en": "a dangerous animal"
+   },
+   {
+    "da": "farlige veje",
+    "en": "dangerous roads"
+   }
+  ],
+  "related": [
+   {
+    "da": "sikker",
+    "en": "safe"
+   },
+   {
+    "da": "ufarlig",
+    "en": "harmless"
+   },
+   {
+    "da": "risikabel",
+    "en": "risky"
+   }
+  ],
+  "sentence": {
+   "da": "Vejen er meget **farlig**.",
+   "en": "The road is very dangerous."
+  }
+ },
+ "farvel": {
+  "file": "f.json",
+  "explanation": "\"Farvel\" means \"goodbye\". Danes often use \"hej hej\" (bye bye) or \"vi ses\" (see you) for everyday goodbyes, while \"farvel\" sounds more final.",
+  "forms": [
+   {
+    "da": "Farvel!",
+    "en": "Goodbye!"
+   },
+   {
+    "da": "Sig farvel.",
+    "en": "Say goodbye."
+   },
+   {
+    "da": "et farvel",
+    "en": "a farewell"
+   }
+  ],
+  "related": [
+   {
+    "da": "på gensyn",
+    "en": "until we meet again"
+   },
+   {
+    "da": "hav det godt",
+    "en": "take care"
+   },
+   {
+    "da": "vi snakkes ved",
+    "en": "we'll talk later"
+   },
+   {
+    "da": "godnat",
+    "en": "good night"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg siger **farvel** til min ven.",
+   "en": "I say goodbye to my friend."
+  }
+ },
+ "farverig": {
+  "file": "f.json",
+  "explanation": "\"Farverig\" means \"colorful\", with many bright colors. It also describes a person or a story that is lively and out of the ordinary: \"en farverig person\" (a colorful person).",
+  "forms": [
+   {
+    "da": "en farverig fugl",
+    "en": "a colorful bird"
+   },
+   {
+    "da": "et farverigt tæppe",
+    "en": "a colorful rug"
+   },
+   {
+    "da": "farverige blomster",
+    "en": "colorful flowers"
+   }
+  ],
+  "related": [
+   {
+    "da": "farvestrålende",
+    "en": "brightly colored"
+   },
+   {
+    "da": "broget",
+    "en": "multicolored"
+   },
+   {
+    "da": "farveløs",
+    "en": "colorless"
+   },
+   {
+    "da": "grå",
+    "en": "gray"
+   }
+  ],
+  "sentence": {
+   "da": "Gaden er **farverig**, fordi husene er malet gule, røde og blå.",
+   "en": "The street is colorful because the houses are painted yellow, red and blue."
+  }
+ },
+ "fascinerende": {
+  "file": "f.json",
+  "explanation": "\"Fascinerende\" means \"fascinating\", something that holds your attention and does not let go. For how you feel, use \"fascineret\": \"Jeg er fascineret\" (I am fascinated).",
+  "forms": [
+   {
+    "da": "en fascinerende historie",
+    "en": "a fascinating story"
+   },
+   {
+    "da": "et fascinerende museum",
+    "en": "a fascinating museum"
+   },
+   {
+    "da": "fascinerende dyr",
+    "en": "fascinating animals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fascination",
+    "en": "a fascination"
+   },
+   {
+    "da": "spændende",
+    "en": "exciting"
+   },
+   {
+    "da": "interessant",
+    "en": "interesting"
+   },
+   {
+    "da": "at fascinere",
+    "en": "to fascinate"
+   }
+  ],
+  "sentence": {
+   "da": "Fuglenes liv er **fascinerende**, og jeg læser om dem.",
+   "en": "The life of birds is fascinating, and I read about them."
+  }
+ },
+ "fast": {
+  "file": "f.json",
+  "explanation": "\"Fast\" means \"fixed\", for things that stay the same: \"en fast pris\" (a fixed price). It also means \"steady\" or \"lasting\": \"et fast job\" (a steady job).",
+  "forms": [
+   {
+    "da": "en fast adresse",
+    "en": "a fixed address"
+   },
+   {
+    "da": "et fast punkt",
+    "en": "a fixed point"
+   },
+   {
+    "da": "faste regler",
+    "en": "fixed rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "løs",
+    "en": "loose"
+   },
+   {
+    "da": "midlertidig",
+    "en": "temporary"
+   },
+   {
+    "da": "permanent",
+    "en": "permanent"
+   },
+   {
+    "da": "stabil",
+    "en": "stable"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har en **fast** tid hver uge.",
+   "en": "We have a set time every week."
+  }
+ },
+ "fastelavn": {
+  "file": "f.json",
+  "explanation": "\"Fastelavn\" means \"Shrovetide\", a holiday in late winter, in the days before Lent, when a barrel full of sweets is hit open.",
+  "forms": [
+   {
+    "da": "fastelavn",
+    "en": "Shrovetide"
+   },
+   {
+    "da": "til fastelavn",
+    "en": "at Shrovetide"
+   },
+   {
+    "da": "fastelavnsboller",
+    "en": "Shrovetide buns"
+   },
+   {
+    "da": "slå katten af tønden",
+    "en": "hit the cat out of the barrel"
+   }
+  ],
+  "related": [
+   {
+    "da": "et karneval",
+    "en": "a carnival"
+   },
+   {
+    "da": "påske",
+    "en": "Easter"
+   },
+   {
+    "da": "en maske",
+    "en": "a mask"
+   },
+   {
+    "da": "en udklædning",
+    "en": "a disguise"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene klæder sig ud til **fastelavn** og får slik.",
+   "en": "The children dress up for Shrovetide and get candy."
+  }
+ },
+ "fattig": {
+  "file": "f.json",
+  "explanation": "\"Fattig\" means \"poor\", with little money, for people and also for countries. Do not mix it up with \"stakkels\", which means \"poor\" in the sense of unlucky: \"stakkels dig\" (poor you).",
+  "forms": [
+   {
+    "da": "en fattig mand",
+    "en": "a poor man"
+   },
+   {
+    "da": "et fattigt land",
+    "en": "a poor country"
+   },
+   {
+    "da": "fattige mennesker",
+    "en": "poor people"
+   }
+  ],
+  "related": [
+   {
+    "da": "rig",
+    "en": "rich"
+   },
+   {
+    "da": "velhavende",
+    "en": "wealthy"
+   },
+   {
+    "da": "fattigdom",
+    "en": "poverty"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **fattig** og har næsten ingen penge.",
+   "en": "He is poor and has almost no money."
+  }
+ },
+ "fattigdom": {
+  "file": "f.json",
+  "explanation": "\"Fattigdom\" means \"poverty\", the state of being poor. It is built from fattig (poor). The ending -dom also makes \"en sygdom\" (an illness) from syg (sick).",
+  "forms": [
+   {
+    "da": "fattigdom",
+    "en": "poverty"
+   },
+   {
+    "da": "fattigdommen",
+    "en": "the poverty"
+   },
+   {
+    "da": "at bekæmpe fattigdom",
+    "en": "to fight poverty"
+   }
+  ],
+  "related": [
+   {
+    "da": "rigdom",
+    "en": "wealth"
+   },
+   {
+    "da": "rig",
+    "en": "rich"
+   },
+   {
+    "da": "velstand",
+    "en": "prosperity"
+   }
+  ],
+  "sentence": {
+   "da": "Mange børn lever i **fattigdom**.",
+   "en": "Many children live in poverty."
+  }
+ },
+ "februar": {
+  "file": "f.json",
+  "explanation": "\"Februar\" means \"February\". Month names are written with a lowercase letter: \"i februar\" (in February).",
+  "forms": [
+   {
+    "da": "februar",
+    "en": "February"
+   },
+   {
+    "da": "i februar",
+    "en": "in February"
+   },
+   {
+    "da": "i starten af februar",
+    "en": "early in February"
+   }
+  ],
+  "related": [
+   {
+    "da": "januar",
+    "en": "January"
+   },
+   {
+    "da": "marts",
+    "en": "March"
+   },
+   {
+    "da": "april",
+    "en": "April"
+   }
+  ],
+  "sentence": {
+   "da": "Efter januar kommer **februar**.",
+   "en": "After January comes February."
+  }
+ },
+ "fed": {
+  "file": "f.json",
+  "explanation": "\"Fed\" means \"cool\" in casual speech: \"Det er fedt!\" (That is cool!) It also means \"fat\", as in \"fed mad\" (fatty food).",
+  "forms": [
+   {
+    "da": "en fed bil",
+    "en": "a cool car"
+   },
+   {
+    "da": "et fedt show",
+    "en": "a cool show"
+   },
+   {
+    "da": "fede ting",
+    "en": "cool things"
+   }
+  ],
+  "related": [
+   {
+    "da": "sej",
+    "en": "cool, tough"
+   },
+   {
+    "da": "fedtet",
+    "en": "greasy"
+   },
+   {
+    "da": "tyk",
+    "en": "thick, fat"
+   },
+   {
+    "da": "fantastisk",
+    "en": "fantastic"
+   }
+  ],
+  "sentence": {
+   "da": "Wow, du har en **fed** cykel!",
+   "en": "Wow, you have a cool bike!"
+  }
+ },
+ "fedt": {
+  "file": "f.json",
+  "explanation": "\"Fedt\" means \"fat\", the kind in food. In casual talk it also means \"cool\": \"Det er fedt!\" (That is cool!)",
+  "forms": [
+   {
+    "da": "fedt",
+    "en": "fat"
+   },
+   {
+    "da": "fedtet",
+    "en": "the fat"
+   },
+   {
+    "da": "mættet fedt",
+    "en": "saturated fat"
+   }
+  ],
+  "related": [
+   {
+    "da": "fedtfattig",
+    "en": "low in fat"
+   },
+   {
+    "da": "fed",
+    "en": "fatty, cool"
+   },
+   {
+    "da": "fedtholdig",
+    "en": "high in fat"
+   },
+   {
+    "da": "en olie",
+    "en": "an oil"
+   }
+  ],
+  "sentence": {
+   "da": "Der er meget **fedt** i pommes frites.",
+   "en": "There is a lot of fat in french fries."
+  }
+ },
+ "fej": {
+  "file": "f.json",
+  "explanation": "\"Fej\" means \"cowardly\", for someone who lacks courage when it counts. It judges a person's character, while \"bange\" (afraid) is only a feeling: \"Jeg er bange, men jeg er ikke fej\" (I am afraid, but I am not cowardly).",
+  "forms": [
+   {
+    "da": "en fej mand",
+    "en": "a cowardly man"
+   },
+   {
+    "da": "et fejt svar",
+    "en": "a cowardly answer"
+   },
+   {
+    "da": "fejge mennesker",
+    "en": "cowardly people"
+   }
+  ],
+  "related": [
+   {
+    "da": "modig",
+    "en": "brave"
+   },
+   {
+    "da": "en kujon",
+    "en": "a coward"
+   },
+   {
+    "da": "en fejhed",
+    "en": "cowardice"
+   },
+   {
+    "da": "frygtsom",
+    "en": "timid"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **fej**, fordi han altid løber væk.",
+   "en": "He is cowardly because he always runs away."
+  }
+ },
+ "fejhed": {
+  "file": "f.json",
+  "explanation": "\"En fejhed\" means \"cowardice\", a lack of nerve when you should act or stand up for something.",
+  "forms": [
+   {
+    "da": "en fejhed",
+    "en": "cowardice"
+   },
+   {
+    "da": "fejheden",
+    "en": "the cowardice"
+   },
+   {
+    "da": "af fejhed",
+    "en": "out of cowardice"
+   }
+  ],
+  "related": [
+   {
+    "da": "fej",
+    "en": "cowardly"
+   },
+   {
+    "da": "en kujon",
+    "en": "a coward"
+   },
+   {
+    "da": "et mod",
+    "en": "courage"
+   },
+   {
+    "da": "modig",
+    "en": "brave"
+   }
+  ],
+  "sentence": {
+   "da": "Det var **fejhed** at lade andre tage skylden.",
+   "en": "It was cowardice to let others take the blame."
+  }
+ },
+ "fejlfri": {
+  "file": "f.json",
+  "explanation": "\"Fejlfri\" means \"flawless\" or \"without mistakes\". It is built from fejl (mistake) and fri (free). The same -fri is in \"sukkerfri\" (sugar-free).",
+  "forms": [
+   {
+    "da": "en fejlfri tekst",
+    "en": "a flawless text"
+   },
+   {
+    "da": "et fejlfrit svar",
+    "en": "a flawless answer"
+   },
+   {
+    "da": "fejlfrie svar",
+    "en": "flawless answers"
+   }
+  ],
+  "related": [
+   {
+    "da": "perfekt",
+    "en": "perfect"
+   },
+   {
+    "da": "fuldkommen",
+    "en": "complete, perfect"
+   },
+   {
+    "da": "mangelfuld",
+    "en": "flawed, incomplete"
+   },
+   {
+    "da": "ufuldkommen",
+    "en": "imperfect"
+   }
+  ],
+  "sentence": {
+   "da": "Teksten er **fejlfri**, og der er ingen stavefejl.",
+   "en": "The text is flawless, and there are no spelling mistakes."
+  }
+ },
+ "fem": {
+  "file": "f.json",
+  "explanation": "\"Fem\" means \"five\". In numbers such as 25, the five comes before the tens: \"femogtyve\" (twenty-five).",
+  "forms": [
+   {
+    "da": "fem kroner",
+    "en": "five kroner"
+   },
+   {
+    "da": "fem minutter",
+    "en": "five minutes"
+   },
+   {
+    "da": "klokken fem",
+    "en": "five o'clock"
+   }
+  ],
+  "related": [
+   {
+    "da": "fire",
+    "en": "four"
+   },
+   {
+    "da": "seks",
+    "en": "six"
+   },
+   {
+    "da": "femten",
+    "en": "fifteen"
+   },
+   {
+    "da": "femte",
+    "en": "fifth"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **fem** fingre på hver hånd.",
+   "en": "I have five fingers on each hand."
+  }
+ }
+}

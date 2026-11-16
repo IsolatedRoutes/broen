@@ -1,0 +1,4074 @@
+{
+ "jazz": {
+  "file": "j.json",
+  "explanation": "\"Jazz\" means \"jazz\", a style of music. This word has no article, so leave out \"en\": \"Jeg kan godt lide jazz\" (I like jazz).",
+  "forms": [
+   {
+    "da": "jazzmusik",
+    "en": "jazz music"
+   },
+   {
+    "da": "en jazzklub",
+    "en": "a jazz club"
+   },
+   {
+    "da": "en jazzkoncert",
+    "en": "a jazz concert"
+   }
+  ],
+  "related": [
+   {
+    "da": "blues",
+    "en": "blues"
+   },
+   {
+    "da": "rock",
+    "en": "rock"
+   },
+   {
+    "da": "pop",
+    "en": "pop"
+   }
+  ],
+  "sentence": {
+   "da": "Han spiller **jazz** på sin saxofon.",
+   "en": "He plays jazz on his saxophone."
+  }
+ },
+ "jeg": {
+  "file": "j.json",
+  "explanation": "\"Jeg\" means \"I\", and it only has an uppercase letter at the start of a sentence: \"du og jeg\" (you and I). \"Jeg\" is for the one who does something: \"Jeg ser ham\" (I see him). \"Mig\" (me) is for the one it happens to: \"Han ser mig\" (He sees me).",
+  "forms": [
+   {
+    "da": "Jeg hedder Anna.",
+    "en": "My name is Anna."
+   },
+   {
+    "da": "Jeg er glad.",
+    "en": "I am happy."
+   },
+   {
+    "da": "Jeg kan godt lide kaffe.",
+    "en": "I like coffee."
+   }
+  ],
+  "related": [
+   {
+    "da": "min",
+    "en": "my"
+   },
+   {
+    "da": "vi",
+    "en": "we"
+   },
+   {
+    "da": "hun",
+    "en": "she"
+   },
+   {
+    "da": "de",
+    "en": "they"
+   }
+  ],
+  "sentence": {
+   "da": "**Jeg** bor i København.",
+   "en": "I live in Copenhagen."
+  }
+ },
+ "jeg beklager": {
+  "file": "j.json",
+  "explanation": "\"Jeg beklager\" means \"I'm sorry\" in a formal way, used when you apologize for a mistake or a problem, like a delay at work. Among friends, \"undskyld\" (sorry) is more common.",
+  "forms": [
+   {
+    "da": "Jeg beklager meget.",
+    "en": "I am very sorry."
+   },
+   {
+    "da": "Jeg beklager fejlen.",
+    "en": "I apologize for the mistake."
+   },
+   {
+    "da": "Vi beklager ulejligheden.",
+    "en": "We apologize for the inconvenience."
+   }
+  ],
+  "related": [
+   {
+    "da": "at tilgive",
+    "en": "to forgive"
+   },
+   {
+    "da": "desværre",
+    "en": "unfortunately"
+   },
+   {
+    "da": "ked af det",
+    "en": "sad / sorry"
+   },
+   {
+    "da": "en undskyldning",
+    "en": "an apology"
+   }
+  ],
+  "sentence": {
+   "da": "Det er min fejl, og **jeg beklager**.",
+   "en": "It is my mistake, and I apologize."
+  }
+ },
+ "jeg er enig": {
+  "file": "j.json",
+  "explanation": "\"Jeg er enig\" means \"I agree\". \"Enig\" means \"in agreement\", so it literally says \"I am in agreement\". To name the person you agree with, add \"med\" (with): \"Jeg er enig med dig\" (I agree with you).",
+  "forms": [
+   {
+    "da": "Jeg er enig.",
+    "en": "I agree."
+   },
+   {
+    "da": "Jeg er helt enig.",
+    "en": "I completely agree."
+   },
+   {
+    "da": "Jeg er ikke enig.",
+    "en": "I don't agree."
+   }
+  ],
+  "related": [
+   {
+    "da": "uenig",
+    "en": "in disagreement"
+   },
+   {
+    "da": "det er rigtigt",
+    "en": "that's right"
+   },
+   {
+    "da": "det synes jeg også",
+    "en": "I think so too"
+   }
+  ],
+  "sentence": {
+   "da": "**Jeg er enig** med dig.",
+   "en": "I agree with you."
+  }
+ },
+ "jeg er ked af det": {
+  "file": "j.json",
+  "explanation": "\"Jeg er ked af det\" means \"I'm sad\", and also \"I'm sorry\" when you regret something. For a quick apology like bumping into someone, \"undskyld\" (sorry, excuse me) is more common. \"Jeg er ked af det\" sounds more heartfelt.",
+  "forms": [
+   {
+    "da": "Jeg er ked af det.",
+    "en": "I'm sad. / I'm sorry."
+   },
+   {
+    "da": "Hun er ked af det.",
+    "en": "She is sad."
+   },
+   {
+    "da": "Er du ked af det?",
+    "en": "Are you sad?"
+   }
+  ],
+  "related": [
+   {
+    "da": "beklager",
+    "en": "I'm sorry (formal)"
+   },
+   {
+    "da": "trist",
+    "en": "sad"
+   },
+   {
+    "da": "glad",
+    "en": "happy"
+   }
+  ],
+  "sentence": {
+   "da": "Undskyld, **jeg er ked af det**.",
+   "en": "Sorry, I feel bad about it."
+  }
+ },
+ "jeg er uenig": {
+  "file": "j.json",
+  "explanation": "\"Jeg er uenig\" means \"I disagree\": \"Jeg er uenig med dig\" (I disagree with you). Use \"med\" (with) for the person and \"i\" (in) for the topic: \"Vi er uenige i det\" (We disagree about that).",
+  "forms": [
+   {
+    "da": "Jeg er uenig",
+    "en": "I disagree"
+   },
+   {
+    "da": "Vi er uenige",
+    "en": "We disagree"
+   },
+   {
+    "da": "Hun er uenig med mig",
+    "en": "She disagrees with me"
+   }
+  ],
+  "related": [
+   {
+    "da": "jeg er enig",
+    "en": "I agree"
+   },
+   {
+    "da": "en uenighed",
+    "en": "a disagreement"
+   },
+   {
+    "da": "enighed",
+    "en": "agreement"
+   },
+   {
+    "da": "en strid",
+    "en": "a dispute"
+   }
+  ],
+  "sentence": {
+   "da": "**Jeg er uenig**, men jeg forstår dig.",
+   "en": "I disagree, but I understand you."
+  }
+ },
+ "jeg forstår ikke": {
+  "file": "j.json",
+  "explanation": "\"Jeg forstår ikke\" means \"I don't understand\". \"Forstår\" means \"understand\" and \"ikke\" means \"not\". To say \"I don't understand it\", put \"det\" (it) before \"ikke\": \"Jeg forstår det ikke\". To ask for help, add \"Kan du gentage det?\" (Can you repeat that?).",
+  "forms": [
+   {
+    "da": "Jeg forstår ikke.",
+    "en": "I don't understand."
+   },
+   {
+    "da": "Jeg forstår det ikke.",
+    "en": "I don't understand it."
+   },
+   {
+    "da": "Jeg forstår ikke dansk.",
+    "en": "I don't understand Danish."
+   }
+  ],
+  "related": [
+   {
+    "da": "hvad mener du?",
+    "en": "what do you mean?"
+   },
+   {
+    "da": "kan du tale engelsk?",
+    "en": "can you speak English?"
+   },
+   {
+    "da": "lidt langsommere, tak",
+    "en": "a bit slower, please"
+   },
+   {
+    "da": "jeg ved ikke",
+    "en": "I don't know"
+   }
+  ],
+  "sentence": {
+   "da": "Undskyld, **jeg forstår ikke**.",
+   "en": "Sorry, I don't understand."
+  }
+ },
+ "jeg glæder mig": {
+  "file": "j.json",
+  "explanation": "\"Jeg glæder mig\" means \"I'm looking forward to it\" and is for something good that is coming. Add \"til\" (to) to name it: \"Jeg glæder mig til ferien\" (I'm looking forward to the vacation).",
+  "forms": [
+   {
+    "da": "Jeg glæder mig!",
+    "en": "I'm looking forward to it!"
+   },
+   {
+    "da": "Jeg glæder mig til weekenden.",
+    "en": "I'm looking forward to the weekend."
+   },
+   {
+    "da": "Vi glæder os til festen.",
+    "en": "We're looking forward to the party."
+   }
+  ],
+  "related": [
+   {
+    "da": "spændt",
+    "en": "excited"
+   },
+   {
+    "da": "at se frem til",
+    "en": "to look forward to"
+   },
+   {
+    "da": "glad",
+    "en": "happy"
+   },
+   {
+    "da": "begejstret",
+    "en": "thrilled"
+   }
+  ],
+  "sentence": {
+   "da": "**Jeg glæder mig** meget til sommeren.",
+   "en": "I'm really looking forward to summer."
+  }
+ },
+ "jeg har det godt": {
+  "file": "j.json",
+  "explanation": "\"Jeg har det godt\" means \"I'm doing well\" and is a common answer to \"Hvordan har du det?\" (How are you?). Danish literally says \"I have it good\", so you need \"det\" (it): \"Jeg er godt\" (I am good) would sound wrong.",
+  "forms": [
+   {
+    "da": "Jeg har det godt.",
+    "en": "I'm doing well."
+   },
+   {
+    "da": "Jeg har det rigtig godt.",
+    "en": "I'm doing really well."
+   },
+   {
+    "da": "Har du det godt?",
+    "en": "Are you doing well?"
+   }
+  ],
+  "related": [
+   {
+    "da": "jeg har det skidt",
+    "en": "I'm not doing well"
+   },
+   {
+    "da": "hvad med dig?",
+    "en": "what about you?"
+   },
+   {
+    "da": "det går godt",
+    "en": "it's going well"
+   },
+   {
+    "da": "jeg har det fint",
+    "en": "I'm doing fine"
+   }
+  ],
+  "sentence": {
+   "da": "Tak, **jeg har det godt**. Og dig?",
+   "en": "Thanks, I'm doing well. And you?"
+  }
+ },
+ "jeg har det skidt": {
+  "file": "j.json",
+  "explanation": "\"Jeg har det skidt\" means \"I'm not doing well\" and works for feeling ill as well as feeling down. \"Skidt\" means \"badly\". A milder way to say it is \"Jeg har det ikke så godt\" (I'm not doing so well).",
+  "forms": [
+   {
+    "da": "Jeg har det skidt.",
+    "en": "I'm not doing well."
+   },
+   {
+    "da": "Jeg har det lidt skidt.",
+    "en": "I'm not feeling so good."
+   },
+   {
+    "da": "Har du det skidt?",
+    "en": "Are you feeling bad?"
+   }
+  ],
+  "related": [
+   {
+    "da": "jeg har det godt",
+    "en": "I'm doing well"
+   },
+   {
+    "da": "det går dårligt",
+    "en": "it's going badly"
+   },
+   {
+    "da": "jeg har ondt",
+    "en": "I'm in pain / it hurts"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er syg. **Jeg har det skidt**.",
+   "en": "I am sick. I'm not doing well."
+  }
+ },
+ "jeg hedder…": {
+  "file": "j.json",
+  "explanation": "\"Jeg hedder…\" means \"my name is…\" and you add your name after it. It literally says \"I am called…\", from \"at hedde\" (to be called). The other person can answer \"Dejligt at møde dig\" (Nice to meet you).",
+  "forms": [
+   {
+    "da": "Jeg hedder Anna.",
+    "en": "My name is Anna."
+   },
+   {
+    "da": "Jeg hedder Peter Hansen.",
+    "en": "My name is Peter Hansen."
+   },
+   {
+    "da": "Hvad hedder du? Jeg hedder Lars.",
+    "en": "What's your name? I'm Lars."
+   }
+  ],
+  "related": [
+   {
+    "da": "et fornavn",
+    "en": "a first name"
+   },
+   {
+    "da": "mit navn er…",
+    "en": "my name is…"
+   },
+   {
+    "da": "et efternavn",
+    "en": "a surname"
+   }
+  ],
+  "sentence": {
+   "da": "**Jeg hedder** Anna, og du?",
+   "en": "My name is Anna. And you?"
+  }
+ },
+ "jeg kommer fra…": {
+  "file": "j.json",
+  "explanation": "\"Jeg kommer fra…\" means \"I'm from…\" and you add a country or town after it. It literally means \"I come from…\". It answers \"Hvor kommer du fra?\" (Where are you from?). For where you live now, say \"jeg bor i…\" (I live in…).",
+  "forms": [
+   {
+    "da": "Jeg kommer fra USA.",
+    "en": "I'm from the USA."
+   },
+   {
+    "da": "Jeg kommer fra London.",
+    "en": "I'm from London."
+   },
+   {
+    "da": "Hun kommer fra Tyskland.",
+    "en": "She is from Germany."
+   }
+  ],
+  "related": [
+   {
+    "da": "et land",
+    "en": "a country"
+   },
+   {
+    "da": "en by",
+    "en": "a town"
+   },
+   {
+    "da": "en nationalitet",
+    "en": "a nationality"
+   }
+  ],
+  "sentence": {
+   "da": "**Jeg kommer fra** Canada.",
+   "en": "I'm from Canada."
+  }
+ },
+ "jeg vil gerne have": {
+  "file": "j.json",
+  "explanation": "\"Jeg vil gerne have\" means \"I would like\" and is the polite way to order or ask for something. Name the item you want after \"have\": \"Jeg vil gerne have en kaffe\" (I would like a coffee). \"Gerne\" (gladly) makes it sound friendly. \"Jeg vil have\", without \"gerne\", is blunt, like saying \"I want\".",
+  "forms": [
+   {
+    "da": "Jeg vil gerne have en kaffe.",
+    "en": "I would like a coffee."
+   },
+   {
+    "da": "Jeg vil gerne have regningen.",
+    "en": "I would like the bill."
+   },
+   {
+    "da": "Jeg vil gerne have to billetter.",
+    "en": "I would like two tickets."
+   }
+  ],
+  "related": [
+   {
+    "da": "kan jeg få…?",
+    "en": "can I have…?"
+   },
+   {
+    "da": "må jeg bede om…?",
+    "en": "may I ask for…?"
+   },
+   {
+    "da": "jeg vil gerne købe",
+    "en": "I would like to buy"
+   }
+  ],
+  "sentence": {
+   "da": "**Jeg vil gerne have** en kop te.",
+   "en": "I would like a cup of tea."
+  }
+ },
+ "jer": {
+  "file": "j.json",
+  "explanation": "\"Jer\" means \"you\" when you talk to several people and something is done to them: \"Jeg kan se jer\" (I can see you all). For several people doing something, Danish uses \"I\": \"I er søde\" (You are all nice). For one person, use \"dig\" (you): \"Jeg kan se dig\" (I can see you).",
+  "forms": [
+   {
+    "da": "Jeg ser jer.",
+    "en": "I see you (all)."
+   },
+   {
+    "da": "Jeg savner jer.",
+    "en": "I miss you (all)."
+   },
+   {
+    "da": "Jeg elsker jer.",
+    "en": "I love you (all)."
+   }
+  ],
+  "related": [
+   {
+    "da": "jeres",
+    "en": "your / yours (many)"
+   },
+   {
+    "da": "os",
+    "en": "us"
+   },
+   {
+    "da": "dem",
+    "en": "them"
+   },
+   {
+    "da": "ham",
+    "en": "him"
+   }
+  ],
+  "sentence": {
+   "da": "Børn, jeg har en gave til **jer**.",
+   "en": "Children, I have a gift for you all."
+  }
+ },
+ "jeres": {
+  "file": "j.json",
+  "explanation": "\"Jeres\" means \"your\" when you talk to several people: \"jeres bil\" (your car, a group). For one person, use \"din\" (your): \"din bil\" (your car, one person). Use \"jeres\" before every kind of word: \"jeres hus\" (your house), \"jeres børn\" (your children).",
+  "forms": [
+   {
+    "da": "jeres bil",
+    "en": "your car (you all)"
+   },
+   {
+    "da": "jeres hus",
+    "en": "your house (you all)"
+   },
+   {
+    "da": "jeres børn",
+    "en": "your children (you all)"
+   }
+  ],
+  "related": [
+   {
+    "da": "I",
+    "en": "you (all)"
+   },
+   {
+    "da": "jer",
+    "en": "you (all, object)"
+   },
+   {
+    "da": "Deres",
+    "en": "your (formal, one person)"
+   },
+   {
+    "da": "vores",
+    "en": "our / ours"
+   }
+  ],
+  "sentence": {
+   "da": "Mor og far, er det **jeres** bil?",
+   "en": "Mom and Dad, is that your car?"
+  }
+ },
+ "jern": {
+  "file": "j.json",
+  "explanation": "\"Jern\" means \"iron\", the hard metal. It is also a mineral in the body and in food: \"Spinat indeholder jern\" (Spinach contains iron). A railway is \"en jernbane\" (a railway, literally \"an iron track\"), built from jern and bane (track).",
+  "forms": [
+   {
+    "da": "jern",
+    "en": "iron"
+   },
+   {
+    "da": "jernet",
+    "en": "the iron"
+   },
+   {
+    "da": "et stykke jern",
+    "en": "a piece of iron"
+   },
+   {
+    "da": "et strygejern",
+    "en": "a clothes iron"
+   }
+  ],
+  "related": [
+   {
+    "da": "stål",
+    "en": "steel"
+   },
+   {
+    "da": "rust",
+    "en": "rust"
+   },
+   {
+    "da": "kobber",
+    "en": "copper"
+   },
+   {
+    "da": "guld",
+    "en": "gold"
+   }
+  ],
+  "sentence": {
+   "da": "Gelænderet er lavet af **jern**.",
+   "en": "The railing is made of iron."
+  }
+ },
+ "jetlag": {
+  "file": "j.json",
+  "explanation": "\"Jetlag\" means \"jet lag\", the tired, out-of-step feeling after a long flight to a place where the time is very different.",
+  "forms": [
+   {
+    "da": "Jeg har jetlag",
+    "en": "I have jet lag"
+   },
+   {
+    "da": "Vi fik jetlag i Tokyo",
+    "en": "We got jet lag in Tokyo"
+   },
+   {
+    "da": "Hvordan kommer man over jetlag?",
+    "en": "How do you get over jet lag?"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tidszone",
+    "en": "a time zone"
+   },
+   {
+    "da": "træthed",
+    "en": "tiredness"
+   },
+   {
+    "da": "en tidsforskel",
+    "en": "a time difference"
+   }
+  ],
+  "sentence": {
+   "da": "Efter flyveturen havde jeg **jetlag** i to dage.",
+   "en": "After the flight I had jet lag for two days."
+  }
+ },
+ "jo": {
+  "file": "j.json",
+  "explanation": "\"Jo\" means \"yes\" when you answer a question that has \"ikke\" (not) in it, and \"you know\" in the middle of a sentence. When someone asks \"Har du ikke spist?\" (Haven't you eaten?), you answer \"Jo, det har jeg\" (Yes, I have). When you mention something the other person already knows, put \"jo\" inside the sentence: \"Det er jo min bil\" (It is my car, you know). For a yes to a question without \"ikke\", use \"ja\" (yes): \"Kommer du?\" \"Ja!\" (Are you coming? Yes!)",
+  "forms": [
+   {
+    "da": "Jo, det gør jeg.",
+    "en": "Yes, I do."
+   },
+   {
+    "da": "Det er jo rigtigt.",
+    "en": "It is, you know, true."
+   },
+   {
+    "da": "Du kommer jo.",
+    "en": "You are coming, of course."
+   }
+  ],
+  "related": [
+   {
+    "da": "nej",
+    "en": "no"
+   },
+   {
+    "da": "selvfølgelig",
+    "en": "of course"
+   },
+   {
+    "da": "jo da",
+    "en": "sure / of course"
+   }
+  ],
+  "sentence": {
+   "da": "Kommer du ikke? **Jo**, jeg kommer!",
+   "en": "Aren't you coming? Yes, I am!"
+  }
+ },
+ "jo ... desto": {
+  "file": "j.json",
+  "explanation": "\"Jo ... desto\" means \"the ... the\", for two things that grow together. \"Jo\" starts the first part and \"desto\" starts the second: \"Jo mere du øver, desto hurtigere bliver du\" (The more you practice, the faster you get).",
+  "forms": [
+   {
+    "da": "Jo mere du øver, desto bedre bliver du",
+    "en": "The more you practice, the better you get"
+   },
+   {
+    "da": "Jo højere op, desto koldere",
+    "en": "The higher up, the colder"
+   },
+   {
+    "da": "Jo flere, desto bedre",
+    "en": "The more, the better"
+   }
+  ],
+  "related": [
+   {
+    "da": "efterhånden som",
+    "en": "as time goes on"
+   },
+   {
+    "da": "i takt med at",
+    "en": "in step with"
+   },
+   {
+    "da": "mere og mere",
+    "en": "more and more"
+   },
+   {
+    "da": "jo før jo bedre",
+    "en": "the sooner, the better"
+   }
+  ],
+  "sentence": {
+   "da": "**Jo** ældre han bliver, **desto** mere sover han.",
+   "en": "The older he gets, the more he sleeps."
+  }
+ },
+ "jord": {
+  "file": "j.json",
+  "explanation": "\"Jord\" means \"earth\" or \"soil\": the soil that plants grow in, and also the ground you stand on. With an uppercase letter, \"Jorden\" means the planet Earth. For the floor inside a house, Danes say \"gulv\" (floor), not \"jord\".",
+  "forms": [
+   {
+    "da": "jord",
+    "en": "earth / soil"
+   },
+   {
+    "da": "jorden",
+    "en": "the earth / the soil"
+   },
+   {
+    "da": "på jorden",
+    "en": "on the ground / on earth"
+   }
+  ],
+  "related": [
+   {
+    "da": "et jordskælv",
+    "en": "an earthquake"
+   },
+   {
+    "da": "et jordbær",
+    "en": "a strawberry"
+   },
+   {
+    "da": "sand",
+    "en": "sand"
+   }
+  ],
+  "sentence": {
+   "da": "Planter har brug for vand og **jord**.",
+   "en": "Plants need water and soil."
+  }
+ },
+ "jubel": {
+  "file": "j.json",
+  "explanation": "\"Jubel\" means \"cheering\" or \"jubilation\", the loud joy of many people at once, like a crowd at a concert. It is mostly used with no \"en\" (a) in front.",
+  "forms": [
+   {
+    "da": "jubel",
+    "en": "cheering"
+   },
+   {
+    "da": "jubelen",
+    "en": "the cheering"
+   },
+   {
+    "da": "Der var jubel i salen",
+    "en": "There was jubilation in the hall"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klapsalve",
+    "en": "a burst of applause"
+   },
+   {
+    "da": "et bifald",
+    "en": "applause"
+   },
+   {
+    "da": "en begejstring",
+    "en": "enthusiasm"
+   },
+   {
+    "da": "et hurra",
+    "en": "a hooray"
+   }
+  ],
+  "sentence": {
+   "da": "Efter målet brød der **jubel** ud på tribunen.",
+   "en": "After the goal, cheering broke out in the stands."
+  }
+ },
+ "juice": {
+  "file": "j.json",
+  "explanation": "\"Juice\" means \"juice\". To name the fruit, put it in front of \"juice\", as in \"appelsinjuice\" (orange juice) or \"æblejuice\" (apple juice).",
+  "forms": [
+   {
+    "da": "en juice",
+    "en": "a juice"
+   },
+   {
+    "da": "juicen",
+    "en": "the juice"
+   },
+   {
+    "da": "et glas juice",
+    "en": "a glass of juice"
+   }
+  ],
+  "related": [
+   {
+    "da": "saft",
+    "en": "fruit cordial (a sweet syrup mixed with water)"
+   },
+   {
+    "da": "frugt",
+    "en": "fruit"
+   },
+   {
+    "da": "sodavand",
+    "en": "soda"
+   }
+  ],
+  "sentence": {
+   "da": "Man laver **juice** af appelsiner.",
+   "en": "You make juice from oranges."
+  }
+ },
+ "jul": {
+  "file": "j.json",
+  "explanation": "\"Jul\" means \"Christmas\". Use \"til jul\" (at Christmas) for the holiday itself, and \"i julen\" (during the Christmas season) for the weeks around it. The greeting is \"Glædelig jul!\" (Merry Christmas!).",
+  "forms": [
+   {
+    "da": "jul",
+    "en": "Christmas"
+   },
+   {
+    "da": "julen",
+    "en": "the Christmas season"
+   },
+   {
+    "da": "glædelig jul",
+    "en": "Merry Christmas"
+   },
+   {
+    "da": "en juleferie",
+    "en": "a Christmas holiday"
+   }
+  ],
+  "related": [
+   {
+    "da": "juleaften",
+    "en": "Christmas Eve"
+   },
+   {
+    "da": "en julegave",
+    "en": "a Christmas present"
+   },
+   {
+    "da": "et juletræ",
+    "en": "a Christmas tree"
+   }
+  ],
+  "sentence": {
+   "da": "Vi får gaver til **jul**.",
+   "en": "We get presents at Christmas."
+  }
+ },
+ "juleaften": {
+  "file": "j.json",
+  "explanation": "\"Juleaften\" means \"Christmas Eve\". It is built from jul (Christmas) and aften (evening). Use it without \"en\" (a) in front: \"på juleaften\" (on Christmas Eve).",
+  "forms": [
+   {
+    "da": "juleaften",
+    "en": "Christmas Eve"
+   },
+   {
+    "da": "til juleaften",
+    "en": "for Christmas Eve"
+   },
+   {
+    "da": "på juleaften",
+    "en": "on Christmas Eve"
+   }
+  ],
+  "related": [
+   {
+    "da": "juledag",
+    "en": "Christmas Day"
+   },
+   {
+    "da": "en julegave",
+    "en": "a Christmas present"
+   },
+   {
+    "da": "et juletræ",
+    "en": "a Christmas tree"
+   },
+   {
+    "da": "nytårsaften",
+    "en": "New Year's Eve"
+   }
+  ],
+  "sentence": {
+   "da": "På **juleaften** pynter vi juletræet og får gaver.",
+   "en": "On Christmas Eve we decorate the Christmas tree and get presents."
+  }
+ },
+ "julepynt": {
+  "file": "j.json",
+  "explanation": "\"Julepynt\" means \"Christmas decorations\". It is built from jul (Christmas) and pynt (decoration). This word has no article, so leave out \"en\": \"Vi hænger julepynt op\" (We hang up Christmas decorations).",
+  "forms": [
+   {
+    "da": "julepynt",
+    "en": "Christmas decorations"
+   },
+   {
+    "da": "julepynten",
+    "en": "the Christmas decorations"
+   },
+   {
+    "da": "noget julepynt",
+    "en": "some Christmas decorations"
+   },
+   {
+    "da": "julepynt i vinduet",
+    "en": "Christmas decorations in the window"
+   }
+  ],
+  "related": [
+   {
+    "da": "et juletræ",
+    "en": "a Christmas tree"
+   },
+   {
+    "da": "en julekugle",
+    "en": "a Christmas ball"
+   },
+   {
+    "da": "en julestjerne",
+    "en": "a poinsettia"
+   },
+   {
+    "da": "at pynte",
+    "en": "to decorate"
+   }
+  ],
+  "sentence": {
+   "da": "**Julepynt** er kugler og stjerner til juletræet.",
+   "en": "Christmas decorations are balls and stars for the Christmas tree."
+  }
+ },
+ "juli": {
+  "file": "j.json",
+  "explanation": "\"Juli\" means \"July\". Month names start with a lowercase letter in Danish, so you write \"i juli\" (in July), not \"i Juli\".",
+  "forms": [
+   {
+    "da": "juli",
+    "en": "July"
+   },
+   {
+    "da": "i juli",
+    "en": "in July"
+   },
+   {
+    "da": "i starten af juli",
+    "en": "early in July"
+   }
+  ],
+  "related": [
+   {
+    "da": "august",
+    "en": "August"
+   },
+   {
+    "da": "maj",
+    "en": "May"
+   },
+   {
+    "da": "september",
+    "en": "September"
+   }
+  ],
+  "sentence": {
+   "da": "Efter juni kommer **juli**.",
+   "en": "After June comes July."
+  }
+ },
+ "juni": {
+  "file": "j.json",
+  "explanation": "\"Juni\" means \"June\". Month names start with a lowercase letter in Danish, so you write \"i juni\" (in June), not \"i Juni\".",
+  "forms": [
+   {
+    "da": "juni",
+    "en": "June"
+   },
+   {
+    "da": "i juni",
+    "en": "in June"
+   },
+   {
+    "da": "i starten af juni",
+    "en": "early in June"
+   }
+  ],
+  "related": [
+   {
+    "da": "maj",
+    "en": "May"
+   },
+   {
+    "da": "august",
+    "en": "August"
+   },
+   {
+    "da": "september",
+    "en": "September"
+   }
+  ],
+  "sentence": {
+   "da": "Det er lyst længe i **juni**.",
+   "en": "It stays light for a long time in June."
+  }
+ },
+ "jura": {
+  "file": "j.json",
+  "explanation": "\"Jura\" means \"law\" as a field of study and a profession, not one single law: \"Hun læser jura på universitetet\" (She studies law at the university).",
+  "forms": [
+   {
+    "da": "at læse jura",
+    "en": "to study law"
+   },
+   {
+    "da": "en jurastuderende",
+    "en": "a law student"
+   },
+   {
+    "da": "jura og økonomi",
+    "en": "law and economics"
+   }
+  ],
+  "related": [
+   {
+    "da": "en jurist",
+    "en": "a law graduate"
+   },
+   {
+    "da": "en dommer",
+    "en": "a judge"
+   },
+   {
+    "da": "en ret",
+    "en": "a court"
+   },
+   {
+    "da": "juridisk",
+    "en": "legal"
+   }
+  ],
+  "sentence": {
+   "da": "Hun læser **jura** for at blive advokat.",
+   "en": "She studies law to become a lawyer."
+  }
+ },
+ "juridisk": {
+  "file": "j.json",
+  "explanation": "\"Juridisk\" means \"legal\" in the sense of law and courts: \"Det er et juridisk problem, ikke et politisk\" (It is a legal problem, not a political one). Do not mix it up with \"lovlig\" (legal), which means allowed by law: \"Det er lovligt at parkere her\" (It is legal to park here).",
+  "forms": [
+   {
+    "da": "en juridisk rådgiver",
+    "en": "a legal adviser"
+   },
+   {
+    "da": "en juridisk kontrakt",
+    "en": "a legal contract"
+   },
+   {
+    "da": "juridiske spørgsmål",
+    "en": "legal questions"
+   }
+  ],
+  "related": [
+   {
+    "da": "jura",
+    "en": "law (the subject)"
+   },
+   {
+    "da": "en jurist",
+    "en": "a legal professional"
+   },
+   {
+    "da": "en dommer",
+    "en": "a judge"
+   }
+  ],
+  "sentence": {
+   "da": "En advokat kan give dig **juridisk** hjælp med kontrakten.",
+   "en": "A lawyer can give you legal help with the contract."
+  }
+ },
+ "jysk": {
+  "file": "j.json",
+  "explanation": "\"Jysk\" means \"Jutlandic\", from or about \"Jylland\" (Jutland), the part of Denmark that is joined to the rest of Europe. It is also the name of the dialect spoken there.",
+  "forms": [
+   {
+    "da": "en jysk by",
+    "en": "a Jutlandic town"
+   },
+   {
+    "da": "et jysk ord",
+    "en": "a Jutlandic word"
+   },
+   {
+    "da": "jyske dialekter",
+    "en": "Jutlandic dialects"
+   }
+  ],
+  "related": [
+   {
+    "da": "en jyde",
+    "en": "a Jutlander"
+   },
+   {
+    "da": "fynsk",
+    "en": "from Funen"
+   },
+   {
+    "da": "en sjællænder",
+    "en": "a Zealander"
+   },
+   {
+    "da": "bornholmsk",
+    "en": "from Bornholm"
+   }
+  ],
+  "sentence": {
+   "da": "Min mormor fra Aalborg taler **jysk**.",
+   "en": "My grandmother from Aalborg speaks Jutlandic."
+  }
+ },
+ "jævnligt": {
+  "file": "j.json",
+  "explanation": "\"Jævnligt\" means \"regularly\", again and again with similar gaps, but not on fixed days: \"Jeg ringer til min mor jævnligt\" (I call my mother regularly). It comes from \"jævn\" (even).",
+  "forms": [
+   {
+    "da": "Jeg løber jævnligt",
+    "en": "I run regularly"
+   },
+   {
+    "da": "Vi mødes jævnligt",
+    "en": "We meet regularly"
+   },
+   {
+    "da": "Besøg os jævnligt",
+    "en": "Visit us regularly"
+   }
+  ],
+  "related": [
+   {
+    "da": "regelmæssigt",
+    "en": "at set intervals"
+   },
+   {
+    "da": "tit",
+    "en": "often"
+   },
+   {
+    "da": "ofte",
+    "en": "frequently"
+   },
+   {
+    "da": "sjældent",
+    "en": "rarely"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg går **jævnligt** ture for at holde mig i form.",
+   "en": "I go for walks regularly to stay in shape."
+  }
+ },
+ "jødedom": {
+  "file": "j.json",
+  "explanation": "\"Jødedom\" means \"Judaism\", the religion of the Jewish people. Danish writes the names of religions with a lowercase letter, so \"jødedom\" starts with a lowercase j.",
+  "forms": [
+   {
+    "da": "jødedom",
+    "en": "Judaism"
+   },
+   {
+    "da": "jødedommens historie",
+    "en": "the history of Judaism"
+   },
+   {
+    "da": "jødisk kultur",
+    "en": "Jewish culture"
+   }
+  ],
+  "related": [
+   {
+    "da": "en synagoge",
+    "en": "a synagogue"
+   },
+   {
+    "da": "en rabbiner",
+    "en": "a rabbi"
+   },
+   {
+    "da": "kristendom",
+    "en": "Christianity"
+   },
+   {
+    "da": "islam",
+    "en": "Islam"
+   }
+  ],
+  "sentence": {
+   "da": "Han har læst meget om **jødedom** og dens historie.",
+   "en": "He has read a lot about Judaism and its history."
+  }
+ },
+ "jødisk": {
+  "file": "j.json",
+  "explanation": "\"Jødisk\" means \"Jewish\" and describes people, religion and traditions: \"jødisk mad\" (Jewish food). A person is \"en jøde\" (a Jew), and the religion is \"jødedom\" (Judaism).",
+  "forms": [
+   {
+    "da": "en jødisk ven",
+    "en": "a Jewish friend"
+   },
+   {
+    "da": "et jødisk samfund",
+    "en": "a Jewish community"
+   },
+   {
+    "da": "jødiske traditioner",
+    "en": "Jewish traditions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en synagoge",
+    "en": "a synagogue"
+   },
+   {
+    "da": "en rabbiner",
+    "en": "a rabbi"
+   },
+   {
+    "da": "kristen",
+    "en": "Christian"
+   },
+   {
+    "da": "muslimsk",
+    "en": "Muslim"
+   }
+  ],
+  "sentence": {
+   "da": "Min ven er **jødisk** og fejrer Hanukkah i december.",
+   "en": "My friend is Jewish and celebrates Hanukkah in December."
+  }
+ },
+ "jøsses": {
+  "file": "j.json",
+  "explanation": "\"Jøsses\" means \"gosh\", a mild exclamation when something surprises you, sometimes with worry or amusement mixed in. It can stand alone or start a sentence.",
+  "forms": [
+   {
+    "da": "Jøsses!",
+    "en": "Gosh!"
+   },
+   {
+    "da": "Jøsses, hvor er det koldt!",
+    "en": "Gosh, it is so cold!"
+   },
+   {
+    "da": "Jøsses, er klokken allerede otte?",
+    "en": "Gosh, is it already eight?"
+   }
+  ],
+  "related": [
+   {
+    "da": "du godeste",
+    "en": "good heavens"
+   },
+   {
+    "da": "hold da op",
+    "en": "wow"
+   },
+   {
+    "da": "åh nej",
+    "en": "oh no"
+   }
+  ],
+  "sentence": {
+   "da": "**Jøsses**, hvor er der mange mennesker her!",
+   "en": "Gosh, there are so many people here!"
+  }
+ },
+ "at kalde": {
+  "file": "k.json",
+  "explanation": "\"At kalde\" means \"to call\", as in naming or shouting for someone: \"Vi kalder hunden Max\" (We call the dog Max). \"Han kalder på mig\" (He calls out to me). For phoning, say \"at ringe\" (to phone): \"Jeg ringer til dig\" (I will call you).",
+  "forms": [
+   {
+    "da": "at kalde",
+    "en": "to call"
+   },
+   {
+    "da": "jeg kalder",
+    "en": "I call"
+   },
+   {
+    "da": "jeg kaldte",
+    "en": "I called"
+   },
+   {
+    "da": "jeg har kaldt",
+    "en": "I have called"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hedde",
+    "en": "to be named"
+   },
+   {
+    "da": "et kaldenavn",
+    "en": "a nickname"
+   },
+   {
+    "da": "at råbe",
+    "en": "to shout"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **kalde** vores baby Emma.",
+   "en": "We want to call our baby Emma."
+  }
+ },
+ "at kalde på": {
+  "file": "k.json",
+  "explanation": "\"At kalde på\" means \"to call for\", to call out so someone comes. Without \"på\" (on), \"at kalde\" means to name: \"Vi kalder hunden Max\" (We call the dog Max).",
+  "forms": [
+   {
+    "da": "at kalde på",
+    "en": "to call for"
+   },
+   {
+    "da": "jeg kalder på",
+    "en": "I call for"
+   },
+   {
+    "da": "jeg kaldte på",
+    "en": "I called for"
+   },
+   {
+    "da": "jeg har kaldt på",
+    "en": "I have called for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at råbe",
+    "en": "to shout"
+   },
+   {
+    "da": "at tilkalde",
+    "en": "to summon"
+   },
+   {
+    "da": "at ringe efter",
+    "en": "to phone for"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **kalde på** tjeneren, når vi skal betale.",
+   "en": "I will call for the waiter when we want to pay."
+  }
+ },
+ "at kaste": {
+  "file": "k.json",
+  "explanation": "\"At kaste\" means \"to throw\". With \"op\" (up), it means \"to vomit\": \"Jeg skal kaste op\" (I am going to be sick).",
+  "forms": [
+   {
+    "da": "at kaste",
+    "en": "to throw"
+   },
+   {
+    "da": "jeg kaster",
+    "en": "I throw"
+   },
+   {
+    "da": "jeg kastede",
+    "en": "I threw"
+   },
+   {
+    "da": "jeg har kastet",
+    "en": "I have thrown"
+   }
+  ],
+  "related": [
+   {
+    "da": "at smide",
+    "en": "to throw / throw away"
+   },
+   {
+    "da": "et kast",
+    "en": "a throw"
+   },
+   {
+    "da": "at fange",
+    "en": "to catch"
+   },
+   {
+    "da": "at tabe",
+    "en": "to drop"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil **kaste** sten i vandet.",
+   "en": "The children want to throw stones into the water."
+  }
+ },
+ "at kaste håndklædet i ringen": {
+  "file": "k.json",
+  "explanation": "\"At kaste håndklædet i ringen\" means \"to throw in the towel\", to give up. Literally, it is \"to throw the towel in the ring\". It comes from boxing, where a trainer throws a towel into the ring to stop a fight.",
+  "forms": [
+   {
+    "da": "Jeg kaster håndklædet i ringen",
+    "en": "I give up"
+   },
+   {
+    "da": "Han kastede håndklædet i ringen",
+    "en": "He gave up"
+   },
+   {
+    "da": "Vi vil ikke kaste håndklædet i ringen",
+    "en": "We will not give up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opgive",
+    "en": "to give up"
+   },
+   {
+    "da": "at kapitulere",
+    "en": "to surrender"
+   },
+   {
+    "da": "at holde ud",
+    "en": "to hold out"
+   },
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   }
+  ],
+  "sentence": {
+   "da": "Efter tre nederlag vil han **kaste håndklædet i ringen**.",
+   "en": "After three defeats, he wants to throw in the towel."
+  }
+ },
+ "at kaste op": {
+  "file": "k.json",
+  "explanation": "\"At kaste op\" means \"to throw up\", to bring food up from your stomach when you are sick. It is built from \"kaste\" (to throw) and \"op\" (up). Without \"op\", \"kaste\" means only to throw an object: \"Jeg kaster bolden\" (I throw the ball).",
+  "forms": [
+   {
+    "da": "at kaste op",
+    "en": "to throw up"
+   },
+   {
+    "da": "jeg kaster op",
+    "en": "I throw up"
+   },
+   {
+    "da": "jeg kastede op",
+    "en": "I threw up"
+   },
+   {
+    "da": "jeg har kastet op",
+    "en": "I have thrown up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at brække sig",
+    "en": "to vomit"
+   },
+   {
+    "da": "en kvalme",
+    "en": "nausea"
+   },
+   {
+    "da": "en opkastning",
+    "en": "vomiting"
+   }
+  ],
+  "sentence": {
+   "da": "Han er syg og vil **kaste op**.",
+   "en": "He is sick and wants to throw up."
+  }
+ },
+ "at kategorisere": {
+  "file": "k.json",
+  "explanation": "\"At kategorisere\" means \"to categorize\", to sort things into types.",
+  "forms": [
+   {
+    "da": "at kategorisere",
+    "en": "to categorize"
+   },
+   {
+    "da": "jeg kategoriserer",
+    "en": "I categorize"
+   },
+   {
+    "da": "jeg kategoriserede",
+    "en": "I categorized"
+   },
+   {
+    "da": "jeg har kategoriseret",
+    "en": "I have categorized"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kategori",
+    "en": "a category"
+   },
+   {
+    "da": "at sortere",
+    "en": "to sort"
+   },
+   {
+    "da": "at opdele",
+    "en": "to divide"
+   },
+   {
+    "da": "at gruppere",
+    "en": "to group"
+   }
+  ],
+  "sentence": {
+   "da": "Biblioteket vil **kategorisere** bøgerne efter emne.",
+   "en": "The library wants to categorize the books by topic."
+  }
+ },
+ "at kede sig": {
+  "file": "k.json",
+  "explanation": "\"At kede sig\" means \"to be bored\": \"Jeg keder mig\" (I am bored). The small word \"sig\" (oneself) changes with the person: \"Han keder sig\" (He is bored), \"Vi keder os\" (We are bored).",
+  "forms": [
+   {
+    "da": "at kede sig",
+    "en": "to be bored"
+   },
+   {
+    "da": "jeg keder mig",
+    "en": "I am bored"
+   },
+   {
+    "da": "jeg kedede mig",
+    "en": "I was bored"
+   },
+   {
+    "da": "jeg har kedet mig",
+    "en": "I have been bored"
+   }
+  ],
+  "related": [
+   {
+    "da": "kedelig",
+    "en": "boring"
+   },
+   {
+    "da": "kedsomhed",
+    "en": "boredom"
+   },
+   {
+    "da": "at more sig",
+    "en": "to have fun"
+   },
+   {
+    "da": "spændende",
+    "en": "exciting"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene kan **kede sig**, når de ikke har legetøj.",
+   "en": "The children can get bored when they have no toys."
+  }
+ },
+ "at kende": {
+  "file": "k.json",
+  "explanation": "\"At kende\" means \"to know (a person or place)\", or to be familiar with something: \"Jeg kender Anna\" (I know Anna). To know a fact, use \"at vide\" (to know), as in \"Jeg ved, at hun bor her\" (I know that she lives here).",
+  "forms": [
+   {
+    "da": "at kende",
+    "en": "to know (a person or place)"
+   },
+   {
+    "da": "jeg kender",
+    "en": "I know (a person or place)"
+   },
+   {
+    "da": "jeg kendte",
+    "en": "I knew (a person or place)"
+   },
+   {
+    "da": "jeg har kendt",
+    "en": "I have known (a person or place)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bekendt",
+    "en": "an acquaintance"
+   },
+   {
+    "da": "at genkende",
+    "en": "to recognize"
+   },
+   {
+    "da": "et kendskab",
+    "en": "knowledge / acquaintance"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **kende** dine venner bedre.",
+   "en": "I would like to know your friends better."
+  }
+ },
+ "at kidnappe": {
+  "file": "k.json",
+  "explanation": "\"At kidnappe\" means \"to kidnap\", to take a person away by force and hold them.",
+  "forms": [
+   {
+    "da": "at kidnappe",
+    "en": "to kidnap"
+   },
+   {
+    "da": "jeg kidnapper",
+    "en": "I kidnap"
+   },
+   {
+    "da": "jeg kidnappede",
+    "en": "I kidnapped"
+   },
+   {
+    "da": "jeg har kidnappet",
+    "en": "I have kidnapped"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kidnapning",
+    "en": "a kidnapping"
+   },
+   {
+    "da": "en gidsel",
+    "en": "a hostage"
+   },
+   {
+    "da": "en løsesum",
+    "en": "a ransom"
+   },
+   {
+    "da": "at bortføre",
+    "en": "to abduct"
+   }
+  ],
+  "sentence": {
+   "da": "De vil **kidnappe** hende og kræve penge.",
+   "en": "They want to kidnap her and demand money."
+  }
+ },
+ "at kigge": {
+  "file": "k.json",
+  "explanation": "\"At kigge\" means \"to look\": \"Kig her!\" (Look here!). It is often followed by \"på\" (at): \"Jeg kigger på billedet\" (I am looking at the picture). In a store, you may hear \"Jeg kigger bare\" (I'm just looking).",
+  "forms": [
+   {
+    "da": "at kigge",
+    "en": "to look"
+   },
+   {
+    "da": "jeg kigger",
+    "en": "I look"
+   },
+   {
+    "da": "jeg kiggede",
+    "en": "I looked"
+   },
+   {
+    "da": "jeg har kigget",
+    "en": "I have looked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at se",
+    "en": "to see"
+   },
+   {
+    "da": "at se på",
+    "en": "to look at"
+   },
+   {
+    "da": "at stirre",
+    "en": "to stare"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil bare **kigge** på tøjet i butikken.",
+   "en": "I just want to look at the clothes in the store."
+  }
+ },
+ "at kigge efter": {
+  "file": "k.json",
+  "explanation": "\"At kigge efter\" means \"to look for\": \"Jeg kigger efter mine briller\" (I am looking for my glasses). It can also mean \"to keep an eye on\": \"Kig efter børnene\" (Keep an eye on the kids).",
+  "forms": [
+   {
+    "da": "at kigge efter",
+    "en": "to look for"
+   },
+   {
+    "da": "jeg kigger efter",
+    "en": "I look for"
+   },
+   {
+    "da": "jeg kiggede efter",
+    "en": "I looked for"
+   },
+   {
+    "da": "jeg har kigget efter",
+    "en": "I have looked for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lede efter",
+    "en": "to search for"
+   },
+   {
+    "da": "at se efter",
+    "en": "to look for"
+   },
+   {
+    "da": "at finde",
+    "en": "to find"
+   },
+   {
+    "da": "at kigge på",
+    "en": "to look at"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **kigge efter** mine nøgler i bilen.",
+   "en": "I have to look for my keys in the car."
+  }
+ },
+ "at kildre": {
+  "file": "k.json",
+  "explanation": "\"At kildre\" means \"to tickle\", to touch someone lightly so that they squirm or laugh: \"Han kildrede mig på foden\" (He tickled me on the foot). It also names the feeling itself: \"Det kildrer\" (It tickles).",
+  "forms": [
+   {
+    "da": "at kildre",
+    "en": "to tickle"
+   },
+   {
+    "da": "jeg kildrer",
+    "en": "I tickle"
+   },
+   {
+    "da": "jeg kildrede",
+    "en": "I tickled"
+   },
+   {
+    "da": "jeg har kildret",
+    "en": "I have tickled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at krible",
+    "en": "to tingle"
+   },
+   {
+    "da": "at klø",
+    "en": "to scratch / itch"
+   },
+   {
+    "da": "at kærtegne",
+    "en": "to caress"
+   }
+  ],
+  "sentence": {
+   "da": "Han griner, når jeg vil **kildre** ham.",
+   "en": "He laughs when I want to tickle him."
+  }
+ },
+ "at klage": {
+  "file": "k.json",
+  "explanation": "\"At klage\" means \"to complain\". To name the topic of the complaint, add \"over\" (about): \"Han klager over støjen\" (He is complaining about the noise). To name the person or organization you complain to, add \"til\" (to): \"Jeg klager til banken\" (I am complaining to the bank).",
+  "forms": [
+   {
+    "da": "at klage",
+    "en": "to complain"
+   },
+   {
+    "da": "jeg klager",
+    "en": "I complain"
+   },
+   {
+    "da": "jeg klagede",
+    "en": "I complained"
+   },
+   {
+    "da": "jeg har klaget",
+    "en": "I have complained"
+   }
+  ],
+  "related": [
+   {
+    "da": "at brokke sig",
+    "en": "to grumble"
+   },
+   {
+    "da": "at beklage",
+    "en": "to regret / be sorry"
+   },
+   {
+    "da": "en reklamation",
+    "en": "a formal complaint about a product"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **klage** over den kolde mad.",
+   "en": "I will complain about the cold food."
+  }
+ },
+ "at klappe": {
+  "file": "k.json",
+  "explanation": "\"At klappe\" means \"to clap\" and \"to pat\". You clap your hands to show you liked a show, and you pat a pet with a gentle touch: \"Jeg klapper hunden\" (I pat the dog).",
+  "forms": [
+   {
+    "da": "at klappe",
+    "en": "to clap / pat"
+   },
+   {
+    "da": "jeg klapper",
+    "en": "I clap / pat"
+   },
+   {
+    "da": "jeg klappede",
+    "en": "I clapped / patted"
+   },
+   {
+    "da": "jeg har klappet",
+    "en": "I have clapped / patted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at applaudere",
+    "en": "to applaud"
+   },
+   {
+    "da": "at aede",
+    "en": "to stroke"
+   },
+   {
+    "da": "at klaske",
+    "en": "to slap"
+   },
+   {
+    "da": "en klapsalve",
+    "en": "a round of applause"
+   }
+  ],
+  "sentence": {
+   "da": "Alle vil **klappe**, når sangeren er færdig.",
+   "en": "Everyone will clap when the singer is done."
+  }
+ },
+ "at klare": {
+  "file": "k.json",
+  "explanation": "\"At klare\" means \"to manage\" or \"to cope with\" something: \"Han klarer opgaven\" (He manages the task). It also means \"to pass\": \"Jeg klarede prøven\" (I passed the test).",
+  "forms": [
+   {
+    "da": "at klare",
+    "en": "to manage / cope"
+   },
+   {
+    "da": "jeg klarer",
+    "en": "I manage / cope"
+   },
+   {
+    "da": "jeg klarede",
+    "en": "I managed / coped"
+   },
+   {
+    "da": "jeg har klaret",
+    "en": "I have managed / coped"
+   }
+  ],
+  "related": [
+   {
+    "da": "at klare sig",
+    "en": "to get by"
+   },
+   {
+    "da": "at lykkes",
+    "en": "to succeed"
+   },
+   {
+    "da": "at bestå",
+    "en": "to pass"
+   },
+   {
+    "da": "at magte",
+    "en": "to be able to handle"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan godt **klare** den opgave alene.",
+   "en": "I can handle that task on my own."
+  }
+ },
+ "at klare op": {
+  "file": "k.json",
+  "explanation": "\"At klare op\" means \"to clear up\", for weather that gets better: \"Det klarer op i aften\" (It will clear up this evening). For tidying a room, use \"at rydde op\" (to tidy up) instead.",
+  "forms": [
+   {
+    "da": "at klare op",
+    "en": "to clear up"
+   },
+   {
+    "da": "det klarer op",
+    "en": "it clears up"
+   },
+   {
+    "da": "det klarede op",
+    "en": "it cleared up"
+   },
+   {
+    "da": "det har klaret op",
+    "en": "it has cleared up"
+   }
+  ],
+  "related": [
+   {
+    "da": "skyet",
+    "en": "cloudy"
+   },
+   {
+    "da": "at regne",
+    "en": "to rain"
+   },
+   {
+    "da": "solrig",
+    "en": "sunny"
+   },
+   {
+    "da": "at blive lysere",
+    "en": "to get brighter"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg håber, det vil **klare op** i morgen.",
+   "en": "I hope it will clear up tomorrow."
+  }
+ },
+ "at klare sig": {
+  "file": "k.json",
+  "explanation": "\"At klare sig\" means \"to get by\", and also \"to do well\": \"Hun klarer sig fint i Danmark\" (She is doing fine in Denmark). \"Jeg klarer mig uden bil\" (I get by without a car).",
+  "forms": [
+   {
+    "da": "at klare sig",
+    "en": "to get by / do well"
+   },
+   {
+    "da": "jeg klarer mig",
+    "en": "I get by / do well"
+   },
+   {
+    "da": "jeg klarede mig",
+    "en": "I got by / did well"
+   },
+   {
+    "da": "jeg har klaret mig",
+    "en": "I have gotten by / done well"
+   }
+  ],
+  "related": [
+   {
+    "da": "at overleve",
+    "en": "to survive"
+   },
+   {
+    "da": "at have det godt",
+    "en": "to be doing well"
+   },
+   {
+    "da": "at begå sig",
+    "en": "to get along"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er voksen og kan **klare sig** selv.",
+   "en": "She is grown up and can take care of herself."
+  }
+ },
+ "at klassificere": {
+  "file": "k.json",
+  "explanation": "\"At klassificere\" means \"to classify\", to place something in a fixed system, as scientists do with animals and plants: \"Forskerne klassificerer et nyt dyr\" (The scientists are classifying a new animal).",
+  "forms": [
+   {
+    "da": "at klassificere",
+    "en": "to classify"
+   },
+   {
+    "da": "jeg klassificerer",
+    "en": "I classify"
+   },
+   {
+    "da": "jeg klassificerede",
+    "en": "I classified"
+   },
+   {
+    "da": "jeg har klassificeret",
+    "en": "I have classified"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klasse",
+    "en": "a class"
+   },
+   {
+    "da": "at kategorisere",
+    "en": "to categorize"
+   },
+   {
+    "da": "at inddele",
+    "en": "to divide into parts"
+   },
+   {
+    "da": "en art",
+    "en": "a species"
+   }
+  ],
+  "sentence": {
+   "da": "Forskerne vil **klassificere** planterne efter deres blade.",
+   "en": "The scientists want to classify the plants by their leaves."
+  }
+ },
+ "at klatre": {
+  "file": "k.json",
+  "explanation": "\"At klatre\" means \"to climb\" with your hands and feet: \"Børnene klatrer i et træ\" (The children climb a tree). It also works for prices going up: \"Priserne klatrer\" (Prices are climbing).",
+  "forms": [
+   {
+    "da": "at klatre",
+    "en": "to climb"
+   },
+   {
+    "da": "jeg klatrer",
+    "en": "I climb"
+   },
+   {
+    "da": "jeg klatrede",
+    "en": "I climbed"
+   },
+   {
+    "da": "jeg har klatret",
+    "en": "I have climbed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kravle",
+    "en": "to crawl"
+   },
+   {
+    "da": "at stige",
+    "en": "to rise"
+   },
+   {
+    "da": "en klatrevæg",
+    "en": "a climbing wall"
+   },
+   {
+    "da": "at bestige",
+    "en": "to climb (a mountain)"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **klatre** op i det høje træ.",
+   "en": "I want to climb up the tall tree."
+  }
+ },
+ "at klemme": {
+  "file": "k.json",
+  "explanation": "\"At klemme\" means \"to squeeze\" or \"to pinch\", for example a lemon or your finger in a door.",
+  "forms": [
+   {
+    "da": "at klemme",
+    "en": "to squeeze / pinch"
+   },
+   {
+    "da": "jeg klemmer",
+    "en": "I squeeze / pinch"
+   },
+   {
+    "da": "jeg klemte",
+    "en": "I squeezed / pinched"
+   },
+   {
+    "da": "jeg har klemt",
+    "en": "I have squeezed / pinched"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klem",
+    "en": "a squeeze / hug"
+   },
+   {
+    "da": "at presse",
+    "en": "to press / squeeze"
+   },
+   {
+    "da": "at kramme",
+    "en": "to hug"
+   },
+   {
+    "da": "at knuse",
+    "en": "to crush"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **klemme** en citron over fisken.",
+   "en": "I want to squeeze a lemon over the fish."
+  }
+ },
+ "at klikke": {
+  "file": "k.json",
+  "explanation": "\"At klikke\" means \"to click\", with a mouse or on a screen. To name the item you click, add \"på\" (on) before the item: \"Jeg klikker på linket\" (I click on the link).",
+  "forms": [
+   {
+    "da": "at klikke",
+    "en": "to click"
+   },
+   {
+    "da": "jeg klikker",
+    "en": "I click"
+   },
+   {
+    "da": "jeg klikkede",
+    "en": "I clicked"
+   },
+   {
+    "da": "jeg har klikket",
+    "en": "I have clicked"
+   }
+  ],
+  "related": [
+   {
+    "da": "et klik",
+    "en": "a click"
+   },
+   {
+    "da": "at trykke",
+    "en": "to press"
+   },
+   {
+    "da": "at dobbeltklikke",
+    "en": "to double-click"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **klikke** på den blå knap.",
+   "en": "You have to click on the blue button."
+  }
+ },
+ "at klippe": {
+  "file": "k.json",
+  "explanation": "\"At klippe\" means \"to cut (with scissors)\": \"Jeg klipper papir\" (I cut paper). You also use \"at klippe\" for cutting hair: \"Hun klipper mit hår\" (She cuts my hair).",
+  "forms": [
+   {
+    "da": "at klippe",
+    "en": "to cut (with scissors)"
+   },
+   {
+    "da": "jeg klipper",
+    "en": "I cut (with scissors)"
+   },
+   {
+    "da": "jeg klippede",
+    "en": "I cut (with scissors)"
+   },
+   {
+    "da": "jeg har klippet",
+    "en": "I have cut (with scissors)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en saks",
+    "en": "scissors"
+   },
+   {
+    "da": "at skære",
+    "en": "to cut (with a knife)"
+   },
+   {
+    "da": "en frisør",
+    "en": "a hairdresser"
+   },
+   {
+    "da": "at klippe ud",
+    "en": "to cut out"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **klippe** mit hår i morgen.",
+   "en": "She will cut my hair tomorrow."
+  }
+ },
+ "at klynge sig": {
+  "file": "k.json",
+  "explanation": "\"At klynge sig\" means \"to cling\": to grip something tightly, often out of fear or need. It is followed by \"til\" (to): \"klynge sig til rækværket\" (cling to the railing), \"klynge sig til håbet\" (cling to hope).",
+  "forms": [
+   {
+    "da": "at klynge sig",
+    "en": "to cling"
+   },
+   {
+    "da": "jeg klynger mig",
+    "en": "I cling"
+   },
+   {
+    "da": "jeg klyngede mig",
+    "en": "I clung"
+   },
+   {
+    "da": "jeg har klynget mig",
+    "en": "I have clung"
+   }
+  ],
+  "related": [
+   {
+    "da": "at holde fast",
+    "en": "to hold on"
+   },
+   {
+    "da": "at gribe",
+    "en": "to grab"
+   },
+   {
+    "da": "at klamre sig",
+    "en": "to hang on"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet vil **klynge sig** til sin mor, når det er bange.",
+   "en": "The child will cling to its mother when it is scared."
+  }
+ },
+ "at klæde": {
+  "file": "k.json",
+  "explanation": "\"At klæde\" means \"to suit\": clothes, colors or a haircut that make a person look good. To name the person who looks good, put that person after \"klæder\" (suits): \"Blåt klæder hende\" (Blue suits her).",
+  "forms": [
+   {
+    "da": "at klæde",
+    "en": "to suit (look good on)"
+   },
+   {
+    "da": "det klæder",
+    "en": "it suits"
+   },
+   {
+    "da": "det klædte",
+    "en": "it suited"
+   },
+   {
+    "da": "det har klædt",
+    "en": "it has suited"
+   }
+  ],
+  "related": [
+   {
+    "da": "at passe",
+    "en": "to fit"
+   },
+   {
+    "da": "at se godt ud",
+    "en": "to look good"
+   },
+   {
+    "da": "at klæde sig på",
+    "en": "to get dressed"
+   },
+   {
+    "da": "at klæde sig af",
+    "en": "to get undressed"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tror, at den røde kjole vil **klæde** dig.",
+   "en": "I think the red dress will suit you."
+  }
+ },
+ "at klæde sig af": {
+  "file": "k.json",
+  "explanation": "\"At klæde sig af\" means \"to get undressed\". The small word after \"klæde\" changes with the person: \"Jeg klæder mig af\" (I get undressed), \"Hun klæder sig af\" (She gets undressed). The opposite is \"at klæde sig på\" (to get dressed).",
+  "forms": [
+   {
+    "da": "at klæde sig af",
+    "en": "to get undressed"
+   },
+   {
+    "da": "jeg klæder mig af",
+    "en": "I get undressed"
+   },
+   {
+    "da": "jeg klædte mig af",
+    "en": "I got undressed"
+   },
+   {
+    "da": "jeg har klædt mig af",
+    "en": "I have gotten undressed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage tøj af",
+    "en": "to take clothes off"
+   },
+   {
+    "da": "afklædt",
+    "en": "undressed"
+   },
+   {
+    "da": "at skifte tøj",
+    "en": "to change clothes"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet skal **klæde sig af** og tage et bad.",
+   "en": "The child has to get undressed and take a bath."
+  }
+ },
+ "at klæde sig på": {
+  "file": "k.json",
+  "explanation": "\"At klæde sig på\" means \"to get dressed\". The small word \"sig\" (oneself) changes with the person: \"du klæder dig på\" (you get dressed), \"han klæder sig på\" (he gets dressed). To put on one item, say \"at tage en jakke på\" (to put on a jacket).",
+  "forms": [
+   {
+    "da": "at klæde sig på",
+    "en": "to get dressed"
+   },
+   {
+    "da": "jeg klæder mig på",
+    "en": "I get dressed"
+   },
+   {
+    "da": "jeg klædte mig på",
+    "en": "I got dressed"
+   },
+   {
+    "da": "jeg har klædt mig på",
+    "en": "I have gotten dressed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at klæde sig af",
+    "en": "to undress"
+   },
+   {
+    "da": "at tage tøj på",
+    "en": "to put on clothes"
+   },
+   {
+    "da": "at klæde sig ud",
+    "en": "to put on a costume"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene skal **klæde sig på** nu.",
+   "en": "The children have to get dressed now."
+  }
+ },
+ "at klø": {
+  "file": "k.json",
+  "explanation": "\"At klø\" means \"to itch\", and also \"to scratch\" something to ease it. Danes say \"Det klør\" (It itches). To scratch yourself, add \"sig\" (oneself): \"at klø sig\" (to scratch oneself).",
+  "forms": [
+   {
+    "da": "at klø",
+    "en": "to itch / scratch"
+   },
+   {
+    "da": "jeg klør",
+    "en": "I itch / scratch"
+   },
+   {
+    "da": "jeg kløede",
+    "en": "I itched / scratched"
+   },
+   {
+    "da": "jeg har kløet",
+    "en": "I have itched / scratched"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skrabe",
+    "en": "to scrape"
+   },
+   {
+    "da": "at gnide",
+    "en": "to rub"
+   },
+   {
+    "da": "en kløe",
+    "en": "an itch"
+   }
+  ],
+  "sentence": {
+   "da": "Huden kan **klø**, når en myg har stukket dig.",
+   "en": "Your skin can itch when a mosquito has bitten you."
+  }
+ },
+ "at klø sig": {
+  "file": "k.json",
+  "explanation": "\"At klø sig\" means \"to scratch oneself\", to scratch your own skin where it itches. \"Sig\" (oneself) must stay in the phrase. To name the body part you scratch, add \"på\" (on) before it: \"Jeg klør mig på ryggen\" (I scratch my back).",
+  "forms": [
+   {
+    "da": "at klø sig",
+    "en": "to scratch oneself"
+   },
+   {
+    "da": "jeg klør mig",
+    "en": "I scratch myself"
+   },
+   {
+    "da": "jeg kløede mig",
+    "en": "I scratched myself"
+   },
+   {
+    "da": "jeg har kløet mig",
+    "en": "I have scratched myself"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gnide",
+    "en": "to rub"
+   },
+   {
+    "da": "at skrabe",
+    "en": "to scrape"
+   },
+   {
+    "da": "at massere",
+    "en": "to massage"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden vil **klø sig** bag øret med poten.",
+   "en": "The dog wants to scratch itself behind the ear with its paw."
+  }
+ },
+ "at knappe": {
+  "file": "k.json",
+  "explanation": "\"At knappe\" means \"to button\", to fasten clothes with buttons: \"knappe skjorten\" (button the shirt). Add \"op\" (up) to open them again: \"at knappe op\" (to unbutton).",
+  "forms": [
+   {
+    "da": "at knappe",
+    "en": "to button"
+   },
+   {
+    "da": "jeg knapper",
+    "en": "I button"
+   },
+   {
+    "da": "jeg knappede",
+    "en": "I buttoned"
+   },
+   {
+    "da": "jeg har knappet",
+    "en": "I have buttoned"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lynlås",
+    "en": "a zipper"
+   },
+   {
+    "da": "at lukke",
+    "en": "to close"
+   },
+   {
+    "da": "et knaphul",
+    "en": "a buttonhole"
+   },
+   {
+    "da": "at løsne",
+    "en": "to loosen"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **knappe** frakken, fordi det er koldt.",
+   "en": "You must button the coat because it is cold."
+  }
+ },
+ "at knibe": {
+  "file": "k.json",
+  "explanation": "\"At knibe\" means \"to pinch\": to take a bit of skin between two fingers, as in \"Hun kneb mig i armen\" (She pinched my arm). With \"øjnene sammen\" it means to squint: \"knibe øjnene sammen\" (squint). It is also used when there is hardly enough of something: \"Det kniber med pengene\" (Money is tight).",
+  "forms": [
+   {
+    "da": "at knibe",
+    "en": "to pinch / squint"
+   },
+   {
+    "da": "jeg kniber",
+    "en": "I pinch / squint"
+   },
+   {
+    "da": "jeg kneb",
+    "en": "I pinched / squinted"
+   },
+   {
+    "da": "jeg har knebet",
+    "en": "I have pinched / squinted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at klemme",
+    "en": "to squeeze"
+   },
+   {
+    "da": "at nive",
+    "en": "to tweak"
+   },
+   {
+    "da": "at blinke",
+    "en": "to blink"
+   }
+  ],
+  "sentence": {
+   "da": "Man må **knibe** øjnene sammen, når solen skinner kraftigt.",
+   "en": "You have to squint when the sun shines strongly."
+  }
+ },
+ "at knuse": {
+  "file": "k.json",
+  "explanation": "\"At knuse\" means \"to crush\" and \"to smash\": \"Han knuste glasset\" (He smashed the glass). It is also used for feelings: \"Det knuste hendes hjerte\" (It broke her heart).",
+  "forms": [
+   {
+    "da": "at knuse",
+    "en": "to crush"
+   },
+   {
+    "da": "jeg knuser",
+    "en": "I crush"
+   },
+   {
+    "da": "jeg knuste",
+    "en": "I crushed"
+   },
+   {
+    "da": "jeg har knust",
+    "en": "I have crushed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at smadre",
+    "en": "to smash"
+   },
+   {
+    "da": "at ødelægge",
+    "en": "to destroy"
+   },
+   {
+    "da": "at knække",
+    "en": "to snap"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **knuse** nødderne med en hammer.",
+   "en": "She wants to crush the nuts with a hammer."
+  }
+ },
+ "at knytte": {
+  "file": "k.json",
+  "explanation": "\"At knytte\" means \"to tie\" in a knot, and also \"to connect\". Typical uses are \"knytte næven\" (clench your fist) and \"knytte et venskab\" (form a friendship). For shoelaces, use \"at binde\" (to tie).",
+  "forms": [
+   {
+    "da": "at knytte",
+    "en": "to tie / connect"
+   },
+   {
+    "da": "jeg knytter",
+    "en": "I tie / connect"
+   },
+   {
+    "da": "jeg knyttede",
+    "en": "I tied / connected"
+   },
+   {
+    "da": "jeg har knyttet",
+    "en": "I have tied / connected"
+   }
+  ],
+  "related": [
+   {
+    "da": "at løse",
+    "en": "to untie"
+   },
+   {
+    "da": "at forene",
+    "en": "to unite"
+   },
+   {
+    "da": "at fastgøre",
+    "en": "to attach"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **knytte** rebet fast, fordi båden driver væk.",
+   "en": "I must tie the rope fast because the boat is drifting away."
+  }
+ },
+ "at knække": {
+  "file": "k.json",
+  "explanation": "\"At knække\" means \"to crack\" or \"to break\" something hard by bending or hitting it: \"knække en pind\" (break a stick). For a broken bone, Danes use \"at brække\" (to break): \"Jeg har brækket armen\" (I have broken my arm).",
+  "forms": [
+   {
+    "da": "at knække",
+    "en": "to crack / break"
+   },
+   {
+    "da": "jeg knækker",
+    "en": "I crack / break"
+   },
+   {
+    "da": "jeg knækkede",
+    "en": "I cracked / broke"
+   },
+   {
+    "da": "jeg har knækket",
+    "en": "I have cracked / broken"
+   }
+  ],
+  "related": [
+   {
+    "da": "at knuse",
+    "en": "to crush"
+   },
+   {
+    "da": "at smadre",
+    "en": "to smash"
+   },
+   {
+    "da": "at revne",
+    "en": "to split"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal **knække** skallen for at spise nødden.",
+   "en": "To eat the nut, you must crack the shell."
+  }
+ },
+ "at knæle": {
+  "file": "k.json",
+  "explanation": "\"At knæle\" means \"to kneel\", to go down on your knees, for example to pray or to propose. It comes from \"et knæ\" (a knee).",
+  "forms": [
+   {
+    "da": "at knæle",
+    "en": "to kneel"
+   },
+   {
+    "da": "jeg knæler",
+    "en": "I kneel"
+   },
+   {
+    "da": "jeg knælede",
+    "en": "I knelt"
+   },
+   {
+    "da": "jeg har knælet",
+    "en": "I have knelt"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sidde på hug",
+    "en": "to squat"
+   },
+   {
+    "da": "at bøje sig",
+    "en": "to bend down"
+   },
+   {
+    "da": "at rejse sig",
+    "en": "to stand up"
+   },
+   {
+    "da": "at bukke",
+    "en": "to bow"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **knæle**, så begge knæ rører gulvet.",
+   "en": "You can kneel so that both knees touch the floor."
+  }
+ },
+ "at koge": {
+  "file": "k.json",
+  "explanation": "\"At koge\" means \"to boil\", or to cook in boiling water, for example eggs, pasta and potatoes: \"Vandet koger\" (The water is boiling). For making a meal, use \"at lave mad\" (to cook): \"Jeg laver mad\" (I am cooking).",
+  "forms": [
+   {
+    "da": "at koge",
+    "en": "to boil"
+   },
+   {
+    "da": "jeg koger",
+    "en": "I boil"
+   },
+   {
+    "da": "jeg kogte",
+    "en": "I boiled"
+   },
+   {
+    "da": "jeg har kogt",
+    "en": "I have boiled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stege",
+    "en": "to fry"
+   },
+   {
+    "da": "at bage",
+    "en": "to bake"
+   },
+   {
+    "da": "at simre",
+    "en": "to simmer"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **koge** kartofler i vand.",
+   "en": "I am going to boil potatoes in water."
+  }
+ },
+ "at koge over": {
+  "file": "k.json",
+  "explanation": "\"At koge over\" means \"to boil over\", when a liquid gets too hot and runs out of the pot: \"Vandet koger over\" (The water boils over). It also works for feelings: \"Hun koger over af vrede\" (She is boiling over with anger).",
+  "forms": [
+   {
+    "da": "at koge over",
+    "en": "to boil over"
+   },
+   {
+    "da": "det koger over",
+    "en": "it boils over"
+   },
+   {
+    "da": "det kogte over",
+    "en": "it boiled over"
+   },
+   {
+    "da": "det har kogt over",
+    "en": "it has boiled over"
+   }
+  ],
+  "related": [
+   {
+    "da": "at løbe over",
+    "en": "to overflow"
+   },
+   {
+    "da": "at simre",
+    "en": "to simmer"
+   },
+   {
+    "da": "at skumme",
+    "en": "to foam"
+   }
+  ],
+  "sentence": {
+   "da": "Mælken kan **koge over**, når du ikke passer på.",
+   "en": "The milk can boil over when you are not watching."
+  }
+ },
+ "at kollidere": {
+  "file": "k.json",
+  "explanation": "\"At kollidere\" means \"to collide\", to run into each other with force, such as cars, boats or planes. After it, use \"med\" (with): \"Bilen kolliderede med en cykel\" (The car collided with a bicycle). It also means that two plans clash: \"Mødet kolliderer med min tandlægetid\" (The meeting clashes with my dentist appointment).",
+  "forms": [
+   {
+    "da": "at kollidere",
+    "en": "to collide"
+   },
+   {
+    "da": "jeg kolliderer",
+    "en": "I collide"
+   },
+   {
+    "da": "jeg kolliderede",
+    "en": "I collided"
+   },
+   {
+    "da": "jeg har kollideret",
+    "en": "I have collided"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kollision",
+    "en": "a collision"
+   },
+   {
+    "da": "et sammenstød",
+    "en": "a crash"
+   },
+   {
+    "da": "at støde sammen",
+    "en": "to bump together"
+   },
+   {
+    "da": "at ramme",
+    "en": "to hit"
+   }
+  ],
+  "sentence": {
+   "da": "To biler kan **kollidere**, når vejen er glat.",
+   "en": "Two cars can collide when the road is slippery."
+  }
+ },
+ "at kombinere": {
+  "file": "k.json",
+  "explanation": "\"At kombinere\" means \"to combine\", to put two things together.",
+  "forms": [
+   {
+    "da": "at kombinere",
+    "en": "to combine"
+   },
+   {
+    "da": "jeg kombinerer",
+    "en": "I combine"
+   },
+   {
+    "da": "jeg kombinerede",
+    "en": "I combined"
+   },
+   {
+    "da": "jeg har kombineret",
+    "en": "I have combined"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kombination",
+    "en": "a combination"
+   },
+   {
+    "da": "at blande",
+    "en": "to mix"
+   },
+   {
+    "da": "at adskille",
+    "en": "to separate"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **kombinere** ris og grøntsager.",
+   "en": "You can combine rice and vegetables."
+  }
+ },
+ "at komme": {
+  "file": "k.json",
+  "explanation": "\"At komme\" means \"to come\", for arriving and for being on the way: \"Jeg kommer nu\" (I am coming now). \"Hvor kommer du fra?\" (Where are you from?) uses it for origin. It is also used for what will happen next: \"Det kommer til at regne\" (It is going to rain).",
+  "forms": [
+   {
+    "da": "at komme",
+    "en": "to come"
+   },
+   {
+    "da": "jeg kommer",
+    "en": "I come"
+   },
+   {
+    "da": "jeg kom",
+    "en": "I came"
+   },
+   {
+    "da": "jeg er kommet",
+    "en": "I have come"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå",
+    "en": "to go / walk"
+   },
+   {
+    "da": "at ankomme",
+    "en": "to arrive"
+   },
+   {
+    "da": "at tage afsted",
+    "en": "to leave"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **komme** til din fest i morgen.",
+   "en": "I will come to your party tomorrow."
+  }
+ },
+ "at komme an på": {
+  "file": "k.json",
+  "explanation": "\"At komme an på\" means \"to depend on\". You can use it alone as a short answer to a yes-or-no question: \"Kommer du?\" \"Det kommer an på\" (Are you coming? It depends).",
+  "forms": [
+   {
+    "da": "at komme an på",
+    "en": "to depend on"
+   },
+   {
+    "da": "det kommer an på",
+    "en": "it depends on"
+   },
+   {
+    "da": "det kom an på",
+    "en": "it depended on"
+   },
+   {
+    "da": "det er kommet an på",
+    "en": "it has depended on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afhænge af",
+    "en": "to depend on"
+   },
+   {
+    "da": "afhængig",
+    "en": "dependent"
+   },
+   {
+    "da": "at bero på",
+    "en": "to rest on / depend on"
+   }
+  ],
+  "sentence": {
+   "da": "Det vil **komme an på** vejret i morgen.",
+   "en": "It will depend on the weather tomorrow."
+  }
+ },
+ "at komme for sent": {
+  "file": "k.json",
+  "explanation": "\"At komme for sent\" means \"to be late\". Literally, it is \"to come too late\": \"Jeg kom for sent til skolen\" (I was late for school). For a train or bus, say \"forsinket\" (delayed): \"Toget er forsinket\" (The train is delayed).",
+  "forms": [
+   {
+    "da": "at komme for sent",
+    "en": "to be late / arrive late"
+   },
+   {
+    "da": "jeg kommer for sent",
+    "en": "I am late / arrive late"
+   },
+   {
+    "da": "jeg kom for sent",
+    "en": "I was late / arrived late"
+   },
+   {
+    "da": "jeg er kommet for sent",
+    "en": "I have been late / arrived late"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme i tide",
+    "en": "to arrive in time"
+   },
+   {
+    "da": "at komme for tidligt",
+    "en": "to come too early"
+   },
+   {
+    "da": "tidlig",
+    "en": "early"
+   },
+   {
+    "da": "at skynde sig",
+    "en": "to hurry"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **komme for sent** til mødet.",
+   "en": "I do not want to be late for the meeting."
+  }
+ },
+ "at komme forbi": {
+  "file": "k.json",
+  "explanation": "\"At komme forbi\" means \"to come by\", to stop in for a visit: \"Kom forbi i aften\" (Come by tonight). It can also mean \"to get past\": \"Vi kan ikke komme forbi bilen\" (We cannot get past the car).",
+  "forms": [
+   {
+    "da": "at komme forbi",
+    "en": "to come by"
+   },
+   {
+    "da": "jeg kommer forbi",
+    "en": "I come by"
+   },
+   {
+    "da": "jeg kom forbi",
+    "en": "I came by"
+   },
+   {
+    "da": "jeg er kommet forbi",
+    "en": "I have come by"
+   }
+  ],
+  "related": [
+   {
+    "da": "at besøge",
+    "en": "to visit"
+   },
+   {
+    "da": "at kigge forbi",
+    "en": "to drop by"
+   },
+   {
+    "da": "at gå forbi",
+    "en": "to walk past"
+   },
+   {
+    "da": "at komme ind",
+    "en": "to come in"
+   }
+  ],
+  "sentence": {
+   "da": "Du må gerne **komme forbi** i morgen.",
+   "en": "You are welcome to come by tomorrow."
+  }
+ },
+ "at komme frem": {
+  "file": "k.json",
+  "explanation": "\"At komme frem\" means \"to arrive\", often after a trip: \"Vi kom frem klokken seks\" (We arrived at six o'clock). It also means \"to come forward\": \"Han kom frem fra mængden\" (He came forward from the crowd).",
+  "forms": [
+   {
+    "da": "at komme frem",
+    "en": "to arrive / come forward"
+   },
+   {
+    "da": "jeg kommer frem",
+    "en": "I arrive / come forward"
+   },
+   {
+    "da": "jeg kom frem",
+    "en": "I arrived / came forward"
+   },
+   {
+    "da": "jeg er kommet frem",
+    "en": "I have arrived / come forward"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ankomme",
+    "en": "to arrive"
+   },
+   {
+    "da": "at nå",
+    "en": "to reach"
+   },
+   {
+    "da": "at tage af sted",
+    "en": "to leave"
+   }
+  ],
+  "sentence": {
+   "da": "Toget skal **komme frem** klokken seks.",
+   "en": "The train is due to arrive at six o'clock."
+  }
+ },
+ "at komme godt ud af det med": {
+  "file": "k.json",
+  "explanation": "\"At komme godt ud af det med\" means \"to get along with\", to have a good relationship with someone: \"Jeg kommer godt ud af det med min chef\" (I get along well with my boss). Put \"dårligt\" (badly) in place of \"godt\" (well) to say the opposite: \"Jeg kommer dårligt ud af det med min nabo\" (I get along badly with my neighbor).",
+  "forms": [
+   {
+    "da": "at komme godt ud af det med",
+    "en": "to get along with"
+   },
+   {
+    "da": "jeg kommer godt ud af det med",
+    "en": "I get along with"
+   },
+   {
+    "da": "jeg kom godt ud af det med",
+    "en": "I got along with"
+   },
+   {
+    "da": "jeg er kommet godt ud af det med",
+    "en": "I have gotten along with"
+   }
+  ],
+  "related": [
+   {
+    "da": "at være venner med",
+    "en": "to be friends with"
+   },
+   {
+    "da": "at passe sammen",
+    "en": "to suit each other"
+   },
+   {
+    "da": "at skændes",
+    "en": "to quarrel"
+   },
+   {
+    "da": "at være uvenner",
+    "en": "to be on bad terms"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **komme godt ud af det med** mine nye kolleger.",
+   "en": "I would like to get along well with my new colleagues."
+  }
+ },
+ "at komme hjem": {
+  "file": "k.json",
+  "explanation": "\"At komme hjem\" means \"to come home\", to arrive at home: \"Hvornår kommer du hjem?\" (When will you get home?). To say you are leaving for home, use \"at tage hjem\" (to go home): \"Jeg tager hjem nu\" (I am going home now).",
+  "forms": [
+   {
+    "da": "at komme hjem",
+    "en": "to come home"
+   },
+   {
+    "da": "jeg kommer hjem",
+    "en": "I come home"
+   },
+   {
+    "da": "jeg kom hjem",
+    "en": "I came home"
+   },
+   {
+    "da": "jeg er kommet hjem",
+    "en": "I have come home"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå hjem",
+    "en": "to walk home"
+   },
+   {
+    "da": "hjemme",
+    "en": "at home"
+   },
+   {
+    "da": "at tage af sted",
+    "en": "to leave"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **komme hjem** i aften.",
+   "en": "I want to come home tonight."
+  }
+ },
+ "at komme i gang": {
+  "file": "k.json",
+  "explanation": "\"At komme i gang\" means \"to get started\" on work, a meeting or a project. To name the task you start, add \"med\" (with) and the task: \"Jeg kom i gang med opgaven\" (I got started on the task).",
+  "forms": [
+   {
+    "da": "at komme i gang",
+    "en": "to get started"
+   },
+   {
+    "da": "jeg kommer i gang",
+    "en": "I get started"
+   },
+   {
+    "da": "jeg kom i gang",
+    "en": "I got started"
+   },
+   {
+    "da": "jeg er kommet i gang",
+    "en": "I have gotten started"
+   }
+  ],
+  "related": [
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at starte",
+    "en": "to start"
+   },
+   {
+    "da": "at holde op",
+    "en": "to stop"
+   },
+   {
+    "da": "at afslutte",
+    "en": "to finish"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **komme i gang** med arbejdet.",
+   "en": "I would like to get started on the work."
+  }
+ },
+ "at komme i tanke om": {
+  "file": "k.json",
+  "explanation": "\"At komme i tanke om\" means \"to remember\" or \"to think of\" something that suddenly comes to mind: \"Jeg kom i tanke om nøglerne\" (I remembered the keys).",
+  "forms": [
+   {
+    "da": "at komme i tanke om",
+    "en": "to remember / think of"
+   },
+   {
+    "da": "jeg kommer i tanke om",
+    "en": "I remember / think of"
+   },
+   {
+    "da": "jeg kom i tanke om",
+    "en": "I remembered / thought of"
+   },
+   {
+    "da": "jeg er kommet i tanke om",
+    "en": "I have remembered / thought of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at glemme",
+    "en": "to forget"
+   },
+   {
+    "da": "at huske",
+    "en": "to remember"
+   },
+   {
+    "da": "at erindre",
+    "en": "to recall"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **komme i tanke om** hans navn.",
+   "en": "I can't think of his name."
+  }
+ },
+ "at komme ind": {
+  "file": "k.json",
+  "explanation": "\"At komme ind\" means \"to come in\", to enter a room or building, and also \"to get in\" when someone has to let you: \"Kom ind!\" (Come in!). \"Vi kom ikke ind i klubben\" (We could not get into the club).",
+  "forms": [
+   {
+    "da": "at komme ind",
+    "en": "to come in"
+   },
+   {
+    "da": "jeg kommer ind",
+    "en": "I come in"
+   },
+   {
+    "da": "jeg kom ind",
+    "en": "I came in"
+   },
+   {
+    "da": "jeg er kommet ind",
+    "en": "I have come in"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme ud",
+    "en": "to come out / get out"
+   },
+   {
+    "da": "at gå ind",
+    "en": "to go in"
+   },
+   {
+    "da": "velkommen",
+    "en": "welcome"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **komme ind** uden nøgle.",
+   "en": "I cannot get in without a key."
+  }
+ },
+ "at komme med": {
+  "file": "k.json",
+  "explanation": "\"At komme med\" means \"to come along\", and also \"to bring\": \"Kommer du med?\" (Are you coming along?) \"Hun kom med kage\" (She brought cake).",
+  "forms": [
+   {
+    "da": "at komme med",
+    "en": "to come along / bring"
+   },
+   {
+    "da": "jeg kommer med",
+    "en": "I come along / bring"
+   },
+   {
+    "da": "jeg kom med",
+    "en": "I came along / brought"
+   },
+   {
+    "da": "jeg er kommet med",
+    "en": "I have come along / brought"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage med",
+    "en": "to take along"
+   },
+   {
+    "da": "at følge med",
+    "en": "to go along / keep up"
+   },
+   {
+    "da": "at bringe",
+    "en": "to bring"
+   }
+  ],
+  "sentence": {
+   "da": "Vil du **komme med** i biografen i aften?",
+   "en": "Do you want to come along to the movies tonight?"
+  }
+ },
+ "at komme ned": {
+  "file": "k.json",
+  "explanation": "\"At komme ned\" means \"to come down\", for example down the stairs or from a higher floor.",
+  "forms": [
+   {
+    "da": "at komme ned",
+    "en": "to come down"
+   },
+   {
+    "da": "jeg kommer ned",
+    "en": "I come down"
+   },
+   {
+    "da": "jeg kom ned",
+    "en": "I came down"
+   },
+   {
+    "da": "jeg er kommet ned",
+    "en": "I have come down"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme op",
+    "en": "to come up"
+   },
+   {
+    "da": "at gå ned",
+    "en": "to go down"
+   },
+   {
+    "da": "nede",
+    "en": "down below"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **komme ned** af trappen?",
+   "en": "Can you come down the stairs?"
+  }
+ },
+ "at komme op": {
+  "file": "k.json",
+  "explanation": "\"At komme op\" means \"to come up\", and also \"to get up\", for example from a chair or the floor. \"Kom op!\" (Come on!) is what you say to push someone to try harder. To get out of bed, Danes say \"at stå op\" (to get up).",
+  "forms": [
+   {
+    "da": "at komme op",
+    "en": "to come up / get up"
+   },
+   {
+    "da": "jeg kommer op",
+    "en": "I come up / get up"
+   },
+   {
+    "da": "jeg kom op",
+    "en": "I came up / got up"
+   },
+   {
+    "da": "jeg er kommet op",
+    "en": "I have come up / gotten up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme ned",
+    "en": "to come down"
+   },
+   {
+    "da": "at gå op",
+    "en": "to go up"
+   },
+   {
+    "da": "at rejse sig",
+    "en": "to stand up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **komme op** af stolen.",
+   "en": "I cannot get up from the chair."
+  }
+ },
+ "at komme over": {
+  "file": "k.json",
+  "explanation": "\"At komme over\" means \"to get over\" something hard: \"Han kom aldrig over det\" (He never got over it). \"Kom over til os!\" (Come over to our place!) uses it for a visit.",
+  "forms": [
+   {
+    "da": "at komme over",
+    "en": "to get over"
+   },
+   {
+    "da": "jeg kommer over",
+    "en": "I get over"
+   },
+   {
+    "da": "jeg kom over",
+    "en": "I got over"
+   },
+   {
+    "da": "jeg er kommet over",
+    "en": "I have gotten over"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme sig",
+    "en": "to recover"
+   },
+   {
+    "da": "at overvinde",
+    "en": "to overcome"
+   },
+   {
+    "da": "at komme forbi",
+    "en": "to come by"
+   },
+   {
+    "da": "at klare",
+    "en": "to manage"
+   }
+  ],
+  "sentence": {
+   "da": "Det tager tid at **komme over** en stor sorg.",
+   "en": "It takes time to get over great sorrow."
+  }
+ },
+ "at komme sig": {
+  "file": "k.json",
+  "explanation": "\"At komme sig\" means \"to recover\" from an illness, an injury or a shock. \"Sig\" (oneself) must stay, because \"at komme\" without it means \"to come\".",
+  "forms": [
+   {
+    "da": "at komme sig",
+    "en": "to recover"
+   },
+   {
+    "da": "jeg kommer mig",
+    "en": "I recover"
+   },
+   {
+    "da": "jeg kom mig",
+    "en": "I recovered"
+   },
+   {
+    "da": "jeg har kommet mig",
+    "en": "I have recovered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blive rask",
+    "en": "to get better"
+   },
+   {
+    "da": "at helbrede",
+    "en": "to heal / cure"
+   },
+   {
+    "da": "en bedring",
+    "en": "an improvement"
+   },
+   {
+    "da": "syg",
+    "en": "sick"
+   }
+  ],
+  "sentence": {
+   "da": "Efter operationen skal han **komme sig** i to uger.",
+   "en": "After the surgery, he has to recover for two weeks."
+  }
+ },
+ "at komme til skade": {
+  "file": "k.json",
+  "explanation": "\"At komme til skade\" means \"to get hurt\" by accident: \"Han kom til skade i går\" (He got hurt yesterday). To name the body part that was hurt, add \"på\" (on) before it: \"Jeg kom til skade på benet\" (I hurt my leg).",
+  "forms": [
+   {
+    "da": "at komme til skade",
+    "en": "to get hurt"
+   },
+   {
+    "da": "jeg kommer til skade",
+    "en": "I get hurt"
+   },
+   {
+    "da": "jeg kom til skade",
+    "en": "I got hurt"
+   },
+   {
+    "da": "jeg er kommet til skade",
+    "en": "I have gotten hurt"
+   }
+  ],
+  "related": [
+   {
+    "da": "at slå sig",
+    "en": "to hurt oneself"
+   },
+   {
+    "da": "en ulykke",
+    "en": "an accident"
+   },
+   {
+    "da": "at gøre ondt",
+    "en": "to hurt"
+   },
+   {
+    "da": "en læge",
+    "en": "a doctor"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene må ikke **komme til skade** på isen.",
+   "en": "The children must not get hurt on the ice."
+  }
+ },
+ "at komme tilbage": {
+  "file": "k.json",
+  "explanation": "\"At komme tilbage\" means \"to come back\" or \"to return\", to be somewhere again after you have left: \"Jeg kommer snart tilbage\" (I will be back soon). \"Tilbage\" (back) works with other words too: \"at give tilbage\" (to give back), \"at betale tilbage\" (to pay back).",
+  "forms": [
+   {
+    "da": "at komme tilbage",
+    "en": "to come back"
+   },
+   {
+    "da": "jeg kommer tilbage",
+    "en": "I come back"
+   },
+   {
+    "da": "jeg kom tilbage",
+    "en": "I came back"
+   },
+   {
+    "da": "jeg er kommet tilbage",
+    "en": "I have come back"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå tilbage",
+    "en": "to go back"
+   },
+   {
+    "da": "at vende tilbage",
+    "en": "to return"
+   },
+   {
+    "da": "at komme hjem",
+    "en": "to come home"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **komme tilbage** til Danmark næste år.",
+   "en": "I want to come back to Denmark next year."
+  }
+ },
+ "at komme ud": {
+  "file": "k.json",
+  "explanation": "\"At komme ud\" means \"to come out\" or \"to get out\", of a room, house or building: \"Kom ud!\" (Come out!). \"Han kommer ud af skolen\" (He comes out of the school).",
+  "forms": [
+   {
+    "da": "at komme ud",
+    "en": "to come out / get out"
+   },
+   {
+    "da": "jeg kommer ud",
+    "en": "I come out / get out"
+   },
+   {
+    "da": "jeg kom ud",
+    "en": "I came out / got out"
+   },
+   {
+    "da": "jeg er kommet ud",
+    "en": "I have come out / gotten out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme ind",
+    "en": "to come in"
+   },
+   {
+    "da": "at gå ud",
+    "en": "to go out"
+   },
+   {
+    "da": "en udgang",
+    "en": "an exit"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **komme ud** af huset.",
+   "en": "I want to get out of the house."
+  }
+ },
+ "at komme videre": {
+  "file": "k.json",
+  "explanation": "\"At komme videre\" means \"to move on\", to get past a problem or a place. It can be a trip too: \"Vi kom videre til næste by\" (We went on to the next town).",
+  "forms": [
+   {
+    "da": "at komme videre",
+    "en": "to move on"
+   },
+   {
+    "da": "jeg kommer videre",
+    "en": "I move on"
+   },
+   {
+    "da": "jeg kom videre",
+    "en": "I moved on"
+   },
+   {
+    "da": "jeg er kommet videre",
+    "en": "I have moved on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå videre",
+    "en": "to go on"
+   },
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   },
+   {
+    "da": "at køre fast",
+    "en": "to get stuck"
+   }
+  ],
+  "sentence": {
+   "da": "Vi bliver ikke her, men vil **komme videre** i dag.",
+   "en": "We are not staying here, but want to move on today."
+  }
+ },
+ "at kommentere": {
+  "file": "k.json",
+  "explanation": "\"At kommentere\" means \"to comment\", to give your view or response about something, such as a post, a match or the news: \"Hun kommenterer videoen\" (She is commenting on the video). Danish needs no word for \"on\" here.",
+  "forms": [
+   {
+    "da": "at kommentere",
+    "en": "to comment"
+   },
+   {
+    "da": "jeg kommenterer",
+    "en": "I comment"
+   },
+   {
+    "da": "jeg kommenterede",
+    "en": "I commented"
+   },
+   {
+    "da": "jeg har kommenteret",
+    "en": "I have commented"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kommentar",
+    "en": "a remark"
+   },
+   {
+    "da": "at udtale sig",
+    "en": "to make a statement"
+   },
+   {
+    "da": "at bemærke",
+    "en": "to notice"
+   },
+   {
+    "da": "en mening",
+    "en": "an opinion"
+   }
+  ],
+  "sentence": {
+   "da": "Politikeren ville ikke **kommentere** sagen til pressen.",
+   "en": "The politician did not want to comment on the case to the press."
+  }
+ },
+ "at kommunikere": {
+  "file": "k.json",
+  "explanation": "\"At kommunikere\" means \"to communicate\": \"Vi kommunikerer på dansk\" (We communicate in Danish). To name the person you communicate with, add \"med\" (with) before that person: \"Jeg kommunikerer med kunden\" (I communicate with the customer).",
+  "forms": [
+   {
+    "da": "at kommunikere",
+    "en": "to communicate"
+   },
+   {
+    "da": "jeg kommunikerer",
+    "en": "I communicate"
+   },
+   {
+    "da": "jeg kommunikerede",
+    "en": "I communicated"
+   },
+   {
+    "da": "jeg har kommunikeret",
+    "en": "I have communicated"
+   }
+  ],
+  "related": [
+   {
+    "da": "kommunikation",
+    "en": "communication"
+   },
+   {
+    "da": "at tale",
+    "en": "to speak"
+   },
+   {
+    "da": "at snakke",
+    "en": "to talk"
+   },
+   {
+    "da": "at kontakte",
+    "en": "to contact"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **kommunikere** på engelsk og dansk.",
+   "en": "We can communicate in English and Danish."
+  }
+ },
+ "at kompensere": {
+  "file": "k.json",
+  "explanation": "\"At kompensere\" means \"to compensate\", to make up for a loss or a weakness. To name the loss or mistake you make up for, add \"for\" (for) before it: \"at kompensere for en fejl\" (to compensate for a mistake).",
+  "forms": [
+   {
+    "da": "at kompensere",
+    "en": "to compensate"
+   },
+   {
+    "da": "jeg kompenserer",
+    "en": "I compensate"
+   },
+   {
+    "da": "jeg kompenserede",
+    "en": "I compensated"
+   },
+   {
+    "da": "jeg har kompenseret",
+    "en": "I have compensated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opveje",
+    "en": "to outweigh"
+   },
+   {
+    "da": "en kompensation",
+    "en": "a compensation"
+   },
+   {
+    "da": "at erstatte",
+    "en": "to replace / repay"
+   },
+   {
+    "da": "at udligne",
+    "en": "to balance out"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **kompensere** for sin højde med hurtige fødder.",
+   "en": "He wants to compensate for his height with fast feet."
+  }
+ },
+ "at komplicere": {
+  "file": "k.json",
+  "explanation": "\"At komplicere\" means \"to complicate\", to make something harder than it was. It often comes with \"tingene\" (the things): \"Det komplicerer tingene\" (That complicates things).",
+  "forms": [
+   {
+    "da": "at komplicere",
+    "en": "to complicate"
+   },
+   {
+    "da": "jeg komplicerer",
+    "en": "I complicate"
+   },
+   {
+    "da": "jeg komplicerede",
+    "en": "I complicated"
+   },
+   {
+    "da": "jeg har kompliceret",
+    "en": "I have complicated"
+   }
+  ],
+  "related": [
+   {
+    "da": "kompliceret",
+    "en": "complicated"
+   },
+   {
+    "da": "at forenkle",
+    "en": "to simplify"
+   },
+   {
+    "da": "en komplikation",
+    "en": "a complication"
+   },
+   {
+    "da": "indviklet",
+    "en": "intricate"
+   }
+  ],
+  "sentence": {
+   "da": "Nye regler kan **komplicere** en opgave, der var nem før.",
+   "en": "New rules can complicate a task that used to be easy."
+  }
+ },
+ "at komponere": {
+  "file": "k.json",
+  "explanation": "\"At komponere\" means \"to compose\", to create music by writing it. It means writing the music, not playing it: \"Hun komponerer, og han spiller\" (She composes and he plays).",
+  "forms": [
+   {
+    "da": "at komponere",
+    "en": "to compose"
+   },
+   {
+    "da": "jeg komponerer",
+    "en": "I compose"
+   },
+   {
+    "da": "jeg komponerede",
+    "en": "I composed"
+   },
+   {
+    "da": "jeg har komponeret",
+    "en": "I have composed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en komponist",
+    "en": "a composer"
+   },
+   {
+    "da": "en komposition",
+    "en": "a composition"
+   },
+   {
+    "da": "at skrive",
+    "en": "to write"
+   },
+   {
+    "da": "en melodi",
+    "en": "a melody"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **komponere** musik til en film.",
+   "en": "She wants to compose music for a film."
+  }
+ },
+ "at koncentrere sig": {
+  "file": "k.json",
+  "explanation": "\"At koncentrere sig\" means \"to concentrate\": \"Jeg kan ikke koncentrere mig\" (I cannot concentrate). To name the task you focus on, add \"om\" (on) before the task: \"Vi koncentrerer os om opgaven\" (We are concentrating on the task).",
+  "forms": [
+   {
+    "da": "at koncentrere sig",
+    "en": "to concentrate"
+   },
+   {
+    "da": "jeg koncentrerer mig",
+    "en": "I concentrate"
+   },
+   {
+    "da": "jeg koncentrerede mig",
+    "en": "I concentrated"
+   },
+   {
+    "da": "jeg har koncentreret mig",
+    "en": "I have concentrated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en koncentration",
+    "en": "concentration"
+   },
+   {
+    "da": "at fokusere",
+    "en": "to focus"
+   },
+   {
+    "da": "opmærksom",
+    "en": "attentive"
+   },
+   {
+    "da": "at forstyrre",
+    "en": "to disturb"
+   }
+  ],
+  "sentence": {
+   "da": "Det er svært at **koncentrere sig**, når der er larm.",
+   "en": "It is hard to concentrate when there is noise."
+  }
+ },
+ "at konfirmere": {
+  "file": "k.json",
+  "explanation": "\"At konfirmere\" means \"to confirm\" in a Christian ceremony where a young person, usually around fourteen, confirms their baptism. Many Danes are \"konfirmeret\" (confirmed) and have a family party afterward, often even if they are not very religious.",
+  "forms": [
+   {
+    "da": "at konfirmere",
+    "en": "to confirm (in church)"
+   },
+   {
+    "da": "jeg konfirmerer",
+    "en": "I confirm"
+   },
+   {
+    "da": "jeg konfirmerede",
+    "en": "I confirmed"
+   },
+   {
+    "da": "jeg har konfirmeret",
+    "en": "I have confirmed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en konfirmation",
+    "en": "a confirmation"
+   },
+   {
+    "da": "at døbe",
+    "en": "to baptize"
+   },
+   {
+    "da": "en præst",
+    "en": "a priest"
+   },
+   {
+    "da": "en konfirmand",
+    "en": "a young person being confirmed"
+   }
+  ],
+  "sentence": {
+   "da": "Præsten vil **konfirmere** de unge i kirken i maj.",
+   "en": "The priest will confirm the young people in the church in May."
+  }
+ },
+ "at konkludere": {
+  "file": "k.json",
+  "explanation": "\"At konkludere\" means \"to conclude\", to reach a result after thinking about or studying a problem. To state the conclusion, add \"at\" (that) and a full sentence: \"Jeg konkluderer, at planen virker\" (I conclude that the plan works).",
+  "forms": [
+   {
+    "da": "at konkludere",
+    "en": "to conclude"
+   },
+   {
+    "da": "jeg konkluderer",
+    "en": "I conclude"
+   },
+   {
+    "da": "jeg konkluderede",
+    "en": "I concluded"
+   },
+   {
+    "da": "jeg har konkluderet",
+    "en": "I have concluded"
+   }
+  ],
+  "related": [
+   {
+    "da": "en konklusion",
+    "en": "a conclusion"
+   },
+   {
+    "da": "at slutte",
+    "en": "to finish / conclude"
+   },
+   {
+    "da": "at drage en slutning",
+    "en": "to draw a conclusion"
+   }
+  ],
+  "sentence": {
+   "da": "Efter testen kan vi **konkludere**, at medicinen virker.",
+   "en": "After the test we can conclude that the medicine works."
+  }
+ },
+ "at konkurrere": {
+  "file": "k.json",
+  "explanation": "\"At konkurrere\" means \"to compete\", to try to win against others. To compete with someone, use \"med\" (with). To compete for a prize, use \"om\" (for): \"Vi konkurrerer om prisen\" (We compete for the prize).",
+  "forms": [
+   {
+    "da": "at konkurrere",
+    "en": "to compete"
+   },
+   {
+    "da": "jeg konkurrerer",
+    "en": "I compete"
+   },
+   {
+    "da": "jeg konkurrerede",
+    "en": "I competed"
+   },
+   {
+    "da": "jeg har konkurreret",
+    "en": "I have competed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en konkurrence",
+    "en": "a competition"
+   },
+   {
+    "da": "en konkurrent",
+    "en": "a competitor"
+   },
+   {
+    "da": "at samarbejde",
+    "en": "to cooperate"
+   },
+   {
+    "da": "at dyste",
+    "en": "to compete in a match"
+   }
+  ],
+  "sentence": {
+   "da": "Mange firmaer vil **konkurrere** om de samme kunder.",
+   "en": "Many companies compete for the same customers."
+  }
+ }
+}

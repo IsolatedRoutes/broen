@@ -1,0 +1,4246 @@
+{
+ "at starte på": {
+  "file": "s.json",
+  "explanation": "\"At starte på\" means \"to start on\" something, like a task: \"Jeg starter på opgaven\" (I start on the assignment). Without \"på\" (on), \"at starte\" (to start) is also used for engines and machines: \"Bilen starter ikke\" (The car won't start).",
+  "forms": [
+   {
+    "da": "at starte på",
+    "en": "to start on"
+   },
+   {
+    "da": "jeg starter på",
+    "en": "I start on"
+   },
+   {
+    "da": "jeg startede på",
+    "en": "I started on"
+   },
+   {
+    "da": "jeg har startet på",
+    "en": "I have started on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at begynde på",
+    "en": "to begin on"
+   },
+   {
+    "da": "at afslutte",
+    "en": "to finish"
+   },
+   {
+    "da": "at afbryde",
+    "en": "to interrupt"
+   },
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **starte på** et nyt projekt i dag.",
+   "en": "I want to start on a new project today."
+  }
+ },
+ "at stave": {
+  "file": "s.json",
+  "explanation": "\"At stave\" means \"to spell\", saying the letters of a word one at a time. It is common when you give a name or an address on the phone: \"Hvordan staver man det?\" (How do you spell that?)",
+  "forms": [
+   {
+    "da": "at stave",
+    "en": "to spell"
+   },
+   {
+    "da": "jeg staver",
+    "en": "I spell"
+   },
+   {
+    "da": "jeg stavede",
+    "en": "I spelled"
+   },
+   {
+    "da": "jeg har stavet",
+    "en": "I have spelled"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bogstav",
+    "en": "a letter"
+   },
+   {
+    "da": "en stavning",
+    "en": "a spelling"
+   },
+   {
+    "da": "en stavefejl",
+    "en": "a spelling mistake"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **stave** dit navn?",
+   "en": "Can you spell your name?"
+  }
+ },
+ "at stege": {
+  "file": "s.json",
+  "explanation": "\"At stege\" means \"to fry\" and \"to roast\": \"Jeg steger kød i panden\" (I fry meat in the pan) and \"Vi steger en and i ovnen\" (We roast a duck in the oven). Cooking in water is \"at koge\" (to boil).",
+  "forms": [
+   {
+    "da": "at stege",
+    "en": "to fry, to roast"
+   },
+   {
+    "da": "jeg steger",
+    "en": "I fry, I roast"
+   },
+   {
+    "da": "jeg stegte",
+    "en": "I fried, I roasted"
+   },
+   {
+    "da": "jeg har stegt",
+    "en": "I have fried, I have roasted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bage",
+    "en": "to bake"
+   },
+   {
+    "da": "at grille",
+    "en": "to grill"
+   },
+   {
+    "da": "en steg",
+    "en": "a roast"
+   },
+   {
+    "da": "en stegepande",
+    "en": "a frying pan"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **stege** æggene i panden.",
+   "en": "I am going to fry the eggs in the pan."
+  }
+ },
+ "at stemme": {
+  "file": "s.json",
+  "explanation": "\"At stemme\" means \"to vote\": \"Jeg stemmer på ham\" (I vote for him). It also means \"to be correct\": \"Det stemmer!\" (That is right!)",
+  "forms": [
+   {
+    "da": "at stemme",
+    "en": "to vote"
+   },
+   {
+    "da": "jeg stemmer",
+    "en": "I vote"
+   },
+   {
+    "da": "jeg stemte",
+    "en": "I voted"
+   },
+   {
+    "da": "jeg har stemt",
+    "en": "I have voted"
+   }
+  ],
+  "related": [
+   {
+    "da": "et valg",
+    "en": "an election"
+   },
+   {
+    "da": "en vælger",
+    "en": "a voter"
+   },
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   },
+   {
+    "da": "en afstemning",
+    "en": "a vote"
+   }
+  ],
+  "sentence": {
+   "da": "Alle over atten år kan **stemme** ved valget.",
+   "en": "Everyone over eighteen can vote in the election."
+  }
+ },
+ "at stemme på": {
+  "file": "s.json",
+  "explanation": "\"At stemme på\" means \"to vote for\" the person or party you choose. Danish uses \"på\" (on) where English says \"for\": \"Vi stemte på Peter\" (We voted for Peter).",
+  "forms": [
+   {
+    "da": "at stemme på",
+    "en": "to vote for"
+   },
+   {
+    "da": "jeg stemmer på",
+    "en": "I vote for"
+   },
+   {
+    "da": "jeg stemte på",
+    "en": "I voted for"
+   },
+   {
+    "da": "jeg har stemt på",
+    "en": "I have voted for"
+   }
+  ],
+  "related": [
+   {
+    "da": "et valg",
+    "en": "an election"
+   },
+   {
+    "da": "et parti",
+    "en": "a party"
+   },
+   {
+    "da": "en kandidat",
+    "en": "a candidate"
+   },
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   }
+  ],
+  "sentence": {
+   "da": "Til valget vil jeg **stemme på** Anna.",
+   "en": "At the election, I want to vote for Anna."
+  }
+ },
+ "at stige": {
+  "file": "s.json",
+  "explanation": "\"At stige\" means \"to rise\" and \"to climb\": \"Prisen stiger\" (The price is rising). \"Han stiger op ad trappen\" (He climbs up the stairs). With \"ind\" (in), it means to get into a vehicle: \"Hun steg ind i bilen\" (She got into the car).",
+  "forms": [
+   {
+    "da": "at stige",
+    "en": "to rise / climb"
+   },
+   {
+    "da": "jeg stiger",
+    "en": "I rise / climb"
+   },
+   {
+    "da": "jeg steg",
+    "en": "I rose / climbed"
+   },
+   {
+    "da": "jeg er steget",
+    "en": "I have risen / climbed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at falde",
+    "en": "to fall"
+   },
+   {
+    "da": "en stigning",
+    "en": "an increase"
+   },
+   {
+    "da": "at klatre",
+    "en": "to climb"
+   }
+  ],
+  "sentence": {
+   "da": "Temperaturen kan **stige** til tredive grader.",
+   "en": "The temperature can rise to thirty degrees."
+  }
+ },
+ "at stige af": {
+  "file": "s.json",
+  "explanation": "\"At stige af\" means \"to get off\", used for a bus, a train or a bike: \"Hun stiger af cyklen\" (She gets off the bike). The opposite is \"at stige på\" (to get on).",
+  "forms": [
+   {
+    "da": "at stige af",
+    "en": "to get off"
+   },
+   {
+    "da": "jeg stiger af",
+    "en": "I get off"
+   },
+   {
+    "da": "jeg steg af",
+    "en": "I got off"
+   },
+   {
+    "da": "jeg er steget af",
+    "en": "I have gotten off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stå af",
+    "en": "to get off"
+   },
+   {
+    "da": "at stige ud",
+    "en": "to get out"
+   },
+   {
+    "da": "at stige ind",
+    "en": "to get in"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **stige af** bussen ved torvet.",
+   "en": "I will get off the bus at the square."
+  }
+ },
+ "at stige på": {
+  "file": "s.json",
+  "explanation": "\"At stige på\" means \"to get on\", used for a bus, a train or a bike: \"Vi stiger på toget i Odense\" (We get on the train in Odense). The opposite is \"at stige af\" (to get off).",
+  "forms": [
+   {
+    "da": "at stige på",
+    "en": "to get on"
+   },
+   {
+    "da": "jeg stiger på",
+    "en": "I get on"
+   },
+   {
+    "da": "jeg steg på",
+    "en": "I got on"
+   },
+   {
+    "da": "jeg er steget på",
+    "en": "I have gotten on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stå af",
+    "en": "to get off"
+   },
+   {
+    "da": "at gå ombord",
+    "en": "to board"
+   },
+   {
+    "da": "at stige ind",
+    "en": "to get in"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **stige på** bussen nu.",
+   "en": "We have to get on the bus now."
+  }
+ },
+ "at stikke": {
+  "file": "s.json",
+  "explanation": "\"At stikke\" means \"to sting\" and \"to stick\": \"Bien stak mig\" (The bee stung me). It also means to put something in: \"Jeg stikker pengene i lommen\" (I stick the money in my pocket).",
+  "forms": [
+   {
+    "da": "at stikke",
+    "en": "to stick / sting"
+   },
+   {
+    "da": "jeg stikker",
+    "en": "I stick / sting"
+   },
+   {
+    "da": "jeg stak",
+    "en": "I stuck / stung"
+   },
+   {
+    "da": "jeg har stukket",
+    "en": "I have stuck / stung"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stikke af",
+    "en": "to run away"
+   },
+   {
+    "da": "et stik",
+    "en": "a sting / stitch"
+   },
+   {
+    "da": "en nål",
+    "en": "a needle"
+   },
+   {
+    "da": "at prikke",
+    "en": "to poke"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **stikke** nøglen i døren.",
+   "en": "You have to stick the key in the door."
+  }
+ },
+ "at stikke af": {
+  "file": "s.json",
+  "explanation": "\"At stikke af\" means \"to run off\": you get away quickly, often from trouble. \"Tyven stak af\" (The thief ran off).",
+  "forms": [
+   {
+    "da": "at stikke af",
+    "en": "to run off"
+   },
+   {
+    "da": "jeg stikker af",
+    "en": "I run off"
+   },
+   {
+    "da": "jeg stak af",
+    "en": "I ran off"
+   },
+   {
+    "da": "jeg er stukket af",
+    "en": "I have run off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at flygte",
+    "en": "to flee"
+   },
+   {
+    "da": "at forsvinde",
+    "en": "to disappear"
+   },
+   {
+    "da": "at smutte",
+    "en": "to slip away"
+   },
+   {
+    "da": "at løbe væk",
+    "en": "to run away"
+   }
+  ],
+  "sentence": {
+   "da": "Drengen ville **stikke af**, men læreren så ham.",
+   "en": "The boy wanted to run off, but the teacher saw him."
+  }
+ },
+ "at stikke en finger i jorden": {
+  "file": "s.json",
+  "explanation": "\"At stikke en finger i jorden\" means \"to take stock\", to stop and check where things really stand before you go on. Literally it is \"to stick a finger in the ground\", like feeling what the soil is like.",
+  "forms": [
+   {
+    "da": "Vi må stikke en finger i jorden",
+    "en": "We have to take stock"
+   },
+   {
+    "da": "Hun stak en finger i jorden",
+    "en": "She took stock"
+   },
+   {
+    "da": "Lad os stikke en finger i jorden",
+    "en": "Let us take stock"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gøre status",
+    "en": "to assess where things stand"
+   },
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   },
+   {
+    "da": "at reflektere",
+    "en": "to reflect"
+   },
+   {
+    "da": "at orientere sig",
+    "en": "to get your bearings"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **stikke en finger i jorden** og se, hvor vi står.",
+   "en": "We must take stock and see where we stand."
+  }
+ },
+ "at stikke en kæp i hjulet": {
+  "file": "s.json",
+  "explanation": "\"At stikke en kæp i hjulet\" means \"to throw a wrench in the works\", to spoil or block someone's plan, often on purpose. Literally, it means to stick a stick in the wheel. To name the person whose plan you spoil, add \"for\" (for): \"stikke en kæp i hjulet for nogen\" (to spoil things for someone).",
+  "forms": [
+   {
+    "da": "Han stikker en kæp i hjulet",
+    "en": "He throws a wrench in the works"
+   },
+   {
+    "da": "Hun stak en kæp i hjulet for os",
+    "en": "She spoiled things for us"
+   },
+   {
+    "da": "Stik ikke en kæp i hjulet for dem",
+    "en": "Do not spoil things for them"
+   }
+  ],
+  "related": [
+   {
+    "da": "at spænde ben for",
+    "en": "to trip up"
+   },
+   {
+    "da": "at sabotere",
+    "en": "to sabotage"
+   },
+   {
+    "da": "at modarbejde",
+    "en": "to work against"
+   },
+   {
+    "da": "at forpurre",
+    "en": "to thwart"
+   }
+  ],
+  "sentence": {
+   "da": "Naboen vil **stikke en kæp i hjulet** for vores byggeplan.",
+   "en": "The neighbor wants to throw a wrench in the works of our building plan."
+  }
+ },
+ "at stille": {
+  "file": "s.json",
+  "explanation": "\"At stille\" means \"to put\" or \"to place\" something upright: \"Jeg stiller flasken på bordet\" (I put the bottle on the table). For something lying flat, use \"at lægge\" (to lay): \"Jeg lægger bogen på bordet\" (I put the book on the table).",
+  "forms": [
+   {
+    "da": "at stille",
+    "en": "to put / place (upright)"
+   },
+   {
+    "da": "jeg stiller",
+    "en": "I put / place (upright)"
+   },
+   {
+    "da": "jeg stillede",
+    "en": "I put / placed (upright)"
+   },
+   {
+    "da": "jeg har stillet",
+    "en": "I have put / placed (upright)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sætte",
+    "en": "to set / put"
+   },
+   {
+    "da": "at stå",
+    "en": "to stand"
+   },
+   {
+    "da": "at placere",
+    "en": "to place"
+   },
+   {
+    "da": "at hænge",
+    "en": "to hang"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **stille** flasken på bordet?",
+   "en": "Can you put the bottle on the table?"
+  }
+ },
+ "at stille et spørgsmål": {
+  "file": "s.json",
+  "explanation": "\"At stille et spørgsmål\" means \"to ask a question\", literally \"to put a question\". With \"at spørge\" (to ask), you name the person you ask: \"Jeg vil spørge dig om noget\" (I want to ask you something).",
+  "forms": [
+   {
+    "da": "at stille et spørgsmål",
+    "en": "to ask a question"
+   },
+   {
+    "da": "jeg stiller et spørgsmål",
+    "en": "I ask a question"
+   },
+   {
+    "da": "jeg stillede et spørgsmål",
+    "en": "I asked a question"
+   },
+   {
+    "da": "jeg har stillet et spørgsmål",
+    "en": "I have asked a question"
+   }
+  ],
+  "related": [
+   {
+    "da": "et svar",
+    "en": "an answer"
+   },
+   {
+    "da": "at svare",
+    "en": "to answer"
+   },
+   {
+    "da": "at undre sig",
+    "en": "to wonder"
+   },
+   {
+    "da": "et spørgsmålstegn",
+    "en": "a question mark"
+   }
+  ],
+  "sentence": {
+   "da": "Må jeg **stille et spørgsmål** om lektien?",
+   "en": "May I ask a question about the homework?"
+  }
+ },
+ "at stille op": {
+  "file": "s.json",
+  "explanation": "\"At stille op\" means \"to run for office\", to put your name forward in a vote: \"Han stiller op for partiet\" (He runs for the party). It also means to show up and play for a team: \"Holdet stiller op til kampen\" (The team turns out for the match). To line up, add \"sig\" (oneself): \"Børnene stiller sig op i en række\" (The children line up in a row).",
+  "forms": [
+   {
+    "da": "at stille op",
+    "en": "to run (for office)"
+   },
+   {
+    "da": "jeg stiller op",
+    "en": "I run (for office)"
+   },
+   {
+    "da": "jeg stillede op",
+    "en": "I ran (for office)"
+   },
+   {
+    "da": "jeg har stillet op",
+    "en": "I have run (for office)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stemme",
+    "en": "to vote"
+   },
+   {
+    "da": "at melde sig",
+    "en": "to sign up"
+   },
+   {
+    "da": "at deltage",
+    "en": "to take part"
+   },
+   {
+    "da": "en kandidat",
+    "en": "a candidate"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **stille op** til valget som borgmester.",
+   "en": "She wants to run for mayor in the election."
+  }
+ },
+ "at stille uret": {
+  "file": "s.json",
+  "explanation": "\"At stille uret\" means \"to set the clock\". To say how much and which way, add an amount of time and a direction word: \"stille uret en time frem\" (set the clock an hour forward) or \"stille uret en time tilbage\" (set the clock an hour back).",
+  "forms": [
+   {
+    "da": "at stille uret",
+    "en": "to set the clock"
+   },
+   {
+    "da": "jeg stiller uret",
+    "en": "I set the clock"
+   },
+   {
+    "da": "jeg stillede uret",
+    "en": "I set the clock earlier"
+   },
+   {
+    "da": "jeg har stillet uret",
+    "en": "I have set the clock"
+   }
+  ],
+  "related": [
+   {
+    "da": "et ur",
+    "en": "a clock, a watch"
+   },
+   {
+    "da": "et vækkeur",
+    "en": "an alarm clock"
+   },
+   {
+    "da": "sommertid",
+    "en": "daylight saving time"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **stille uret** en time tilbage.",
+   "en": "We have to set the clock back an hour."
+  }
+ },
+ "at stimulere": {
+  "file": "s.json",
+  "explanation": "\"At stimulere\" means \"to stimulate\", to wake up or support an activity or growth. It is also used for the economy: \"at stimulere økonomien\" (to boost the economy).",
+  "forms": [
+   {
+    "da": "at stimulere",
+    "en": "to stimulate"
+   },
+   {
+    "da": "jeg stimulerer",
+    "en": "I stimulate"
+   },
+   {
+    "da": "jeg stimulerede",
+    "en": "I stimulated"
+   },
+   {
+    "da": "jeg har stimuleret",
+    "en": "I have stimulated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opmuntre",
+    "en": "to encourage"
+   },
+   {
+    "da": "at motivere",
+    "en": "to motivate"
+   },
+   {
+    "da": "at inspirere",
+    "en": "to inspire"
+   },
+   {
+    "da": "at hæmme",
+    "en": "to hold back"
+   }
+  ],
+  "sentence": {
+   "da": "Leg kan **stimulere** børns fantasi og nysgerrighed.",
+   "en": "Play can stimulate children's imagination and curiosity."
+  }
+ },
+ "at stirre": {
+  "file": "s.json",
+  "explanation": "\"At stirre\" means \"to stare\", to keep your eyes on something without turning away. To name the object you stare at, use \"på\" (at): \"stirre på skærmen\" (stare at the screen). Without \"på\", the verb means staring at nothing: \"Han stirrer ud i luften\" (He stares into space).",
+  "forms": [
+   {
+    "da": "at stirre",
+    "en": "to stare"
+   },
+   {
+    "da": "jeg stirrer",
+    "en": "I stare"
+   },
+   {
+    "da": "jeg stirrede",
+    "en": "I stared"
+   },
+   {
+    "da": "jeg har stirret",
+    "en": "I have stared"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kigge",
+    "en": "to look"
+   },
+   {
+    "da": "at glo",
+    "en": "to gawk"
+   },
+   {
+    "da": "at betragte",
+    "en": "to observe"
+   },
+   {
+    "da": "at blinke",
+    "en": "to blink"
+   }
+  ],
+  "sentence": {
+   "da": "Det er uhøfligt at **stirre** på fremmede mennesker.",
+   "en": "It is rude to stare at strangers."
+  }
+ },
+ "at stjæle": {
+  "file": "s.json",
+  "explanation": "\"At stjæle\" means \"to steal\", to take something that belongs to someone else. Robbing a bank or a person is different: \"at røve\" (to rob).",
+  "forms": [
+   {
+    "da": "at stjæle",
+    "en": "to steal"
+   },
+   {
+    "da": "jeg stjæler",
+    "en": "I steal"
+   },
+   {
+    "da": "jeg stjal",
+    "en": "I stole"
+   },
+   {
+    "da": "jeg har stjålet",
+    "en": "I have stolen"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tyv",
+    "en": "a thief"
+   },
+   {
+    "da": "et tyveri",
+    "en": "a theft"
+   },
+   {
+    "da": "et indbrud",
+    "en": "a break-in"
+   }
+  ],
+  "sentence": {
+   "da": "Man må ikke **stjæle** fra andre.",
+   "en": "You must not steal from others."
+  }
+ },
+ "at stole på": {
+  "file": "s.json",
+  "explanation": "\"At stole på\" means \"to trust\", and \"på\" always stays with it: \"Jeg stoler på min læge\" (I trust my doctor). Even with \"ikke\" (not), \"på\" stays at the end: \"Jeg stoler ikke på ham\" (I do not trust him).",
+  "forms": [
+   {
+    "da": "at stole på",
+    "en": "to trust"
+   },
+   {
+    "da": "jeg stoler på",
+    "en": "I trust"
+   },
+   {
+    "da": "jeg stolede på",
+    "en": "I trusted"
+   },
+   {
+    "da": "jeg har stolet på",
+    "en": "I have trusted"
+   }
+  ],
+  "related": [
+   {
+    "da": "tillid",
+    "en": "trust"
+   },
+   {
+    "da": "troværdig",
+    "en": "trustworthy"
+   },
+   {
+    "da": "at tro på",
+    "en": "to believe in"
+   },
+   {
+    "da": "mistillid",
+    "en": "distrust"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **stole på** min bedste ven.",
+   "en": "I can trust my best friend."
+  }
+ },
+ "at stoppe": {
+  "file": "s.json",
+  "explanation": "\"At stoppe\" means \"to stop\". With \"med\" (with) it means \"to quit doing something\": \"Jeg stopper med at spise slik\" (I am going to stop eating candy).",
+  "forms": [
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   },
+   {
+    "da": "jeg stopper",
+    "en": "I stop"
+   },
+   {
+    "da": "jeg stoppede",
+    "en": "I stopped"
+   },
+   {
+    "da": "jeg har stoppet",
+    "en": "I have stopped"
+   }
+  ],
+  "related": [
+   {
+    "da": "at starte",
+    "en": "to start"
+   },
+   {
+    "da": "at holde op",
+    "en": "to stop / quit"
+   },
+   {
+    "da": "et stoppested",
+    "en": "a stop"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen skal **stoppe** ved det røde lys.",
+   "en": "The car has to stop at the red light."
+  }
+ },
+ "at straffe": {
+  "file": "s.json",
+  "explanation": "\"At straffe\" means \"to punish\", to give someone a consequence for doing wrong. It also works for a mistake that costs you something: \"Fejlen blev straffet med et mål\" (The mistake was punished with a goal).",
+  "forms": [
+   {
+    "da": "at straffe",
+    "en": "to punish"
+   },
+   {
+    "da": "jeg straffer",
+    "en": "I punish"
+   },
+   {
+    "da": "jeg straffede",
+    "en": "I punished"
+   },
+   {
+    "da": "jeg har straffet",
+    "en": "I have punished"
+   }
+  ],
+  "related": [
+   {
+    "da": "at belønne",
+    "en": "to reward"
+   },
+   {
+    "da": "at dømme",
+    "en": "to sentence"
+   },
+   {
+    "da": "en bøde",
+    "en": "a fine"
+   },
+   {
+    "da": "et straffespark",
+    "en": "a penalty kick"
+   }
+  ],
+  "sentence": {
+   "da": "Dommeren kan **straffe** en spiller med et rødt kort.",
+   "en": "The referee can punish a player with a red card."
+  }
+ },
+ "at stramme": {
+  "file": "s.json",
+  "explanation": "\"At stramme\" means \"to tighten\", to pull something until it sits firmly, like a screw or a strap. It is also used for rules: \"at stramme reglerne\" (to make the rules stricter).",
+  "forms": [
+   {
+    "da": "at stramme",
+    "en": "to tighten"
+   },
+   {
+    "da": "jeg strammer",
+    "en": "I tighten"
+   },
+   {
+    "da": "jeg strammede",
+    "en": "I tightened"
+   },
+   {
+    "da": "jeg har strammet",
+    "en": "I have tightened"
+   }
+  ],
+  "related": [
+   {
+    "da": "at løsne",
+    "en": "to loosen"
+   },
+   {
+    "da": "at spænde",
+    "en": "to fasten"
+   },
+   {
+    "da": "at slække",
+    "en": "to slacken"
+   },
+   {
+    "da": "stram",
+    "en": "tight"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **stramme** et bælte, når det sidder løst.",
+   "en": "You can tighten a belt when it is loose."
+  }
+ },
+ "at streame": {
+  "file": "s.json",
+  "explanation": "\"At streame\" means \"to stream\", to watch or listen online without saving the file.",
+  "forms": [
+   {
+    "da": "at streame",
+    "en": "to stream"
+   },
+   {
+    "da": "jeg streamer",
+    "en": "I stream"
+   },
+   {
+    "da": "jeg streamede",
+    "en": "I streamed"
+   },
+   {
+    "da": "jeg har streamet",
+    "en": "I have streamed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at downloade",
+    "en": "to download"
+   },
+   {
+    "da": "en streamingtjeneste",
+    "en": "a streaming service"
+   },
+   {
+    "da": "at afspille",
+    "en": "to play"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **streame** en film i aften.",
+   "en": "We want to stream a movie tonight."
+  }
+ },
+ "at strejke": {
+  "file": "s.json",
+  "explanation": "\"At strejke\" means \"to strike\", to stop work together to demand better conditions: \"Lærerne strejker\" (The teachers are on strike). It is something a group does together, not one person alone.",
+  "forms": [
+   {
+    "da": "at strejke",
+    "en": "to strike"
+   },
+   {
+    "da": "jeg strejker",
+    "en": "I strike"
+   },
+   {
+    "da": "jeg strejkede",
+    "en": "I went on strike"
+   },
+   {
+    "da": "jeg har strejket",
+    "en": "I have been on strike"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fagforening",
+    "en": "a union"
+   },
+   {
+    "da": "en overenskomst",
+    "en": "a collective agreement"
+   },
+   {
+    "da": "at demonstrere",
+    "en": "to demonstrate"
+   },
+   {
+    "da": "en arbejdsgiver",
+    "en": "an employer"
+   }
+  ],
+  "sentence": {
+   "da": "Lærerne vil **strejke**, fordi de ønsker højere løn.",
+   "en": "The teachers want to strike because they want higher pay."
+  }
+ },
+ "at strikke": {
+  "file": "s.json",
+  "explanation": "\"At strikke\" means \"to knit\", making fabric from yarn with two needles. Crocheting is a different word: \"at hækle\" (to crochet).",
+  "forms": [
+   {
+    "da": "at strikke",
+    "en": "to knit"
+   },
+   {
+    "da": "jeg strikker",
+    "en": "I knit"
+   },
+   {
+    "da": "jeg strikkede",
+    "en": "I knitted"
+   },
+   {
+    "da": "jeg har strikket",
+    "en": "I have knitted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en strikkepind",
+    "en": "a knitting needle"
+   },
+   {
+    "da": "et garn",
+    "en": "yarn"
+   },
+   {
+    "da": "at sy",
+    "en": "to sew"
+   }
+  ],
+  "sentence": {
+   "da": "Min mormor kan **strikke** en varm trøje.",
+   "en": "My grandmother can knit a warm sweater."
+  }
+ },
+ "at stryge": {
+  "file": "s.json",
+  "explanation": "\"At stryge\" means \"to iron\" clothes. It also means \"to stroke\" something gently: \"Hun stryger katten\" (She strokes the cat).",
+  "forms": [
+   {
+    "da": "at stryge",
+    "en": "to iron"
+   },
+   {
+    "da": "jeg stryger",
+    "en": "I iron"
+   },
+   {
+    "da": "jeg strøg",
+    "en": "I ironed"
+   },
+   {
+    "da": "jeg har strøget",
+    "en": "I have ironed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et strygejern",
+    "en": "an iron"
+   },
+   {
+    "da": "et strygebræt",
+    "en": "an ironing board"
+   },
+   {
+    "da": "at folde",
+    "en": "to fold"
+   },
+   {
+    "da": "at vaske tøj",
+    "en": "to wash clothes"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **stryge** en skjorte før mødet.",
+   "en": "I have to iron a shirt before the meeting."
+  }
+ },
+ "at stræbe": {
+  "file": "s.json",
+  "explanation": "\"At stræbe\" means \"to strive\", to work hard over a long time toward a goal you want. To name that goal, use \"efter\" (for): \"stræbe efter succes\" (to strive for success). \"Stræbsom\" (ambitious) is the same word family.",
+  "forms": [
+   {
+    "da": "at stræbe",
+    "en": "to strive"
+   },
+   {
+    "da": "jeg stræber",
+    "en": "I strive"
+   },
+   {
+    "da": "jeg stræbte",
+    "en": "I strove"
+   },
+   {
+    "da": "jeg har stræbt",
+    "en": "I have striven"
+   }
+  ],
+  "related": [
+   {
+    "da": "en stræber",
+    "en": "a try-hard"
+   },
+   {
+    "da": "at tilstræbe",
+    "en": "to aim at"
+   },
+   {
+    "da": "at kæmpe",
+    "en": "to fight"
+   },
+   {
+    "da": "at sigte mod",
+    "en": "to aim for"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **stræbe** efter at blive den bedste i klassen.",
+   "en": "He wants to strive to become the best in the class."
+  }
+ },
+ "at strække": {
+  "file": "s.json",
+  "explanation": "\"At strække\" means \"to stretch\" something out, like your arms or a rope. To stretch your own body, add \"sig\" (oneself): \"Katten strækker sig\" (The cat stretches).",
+  "forms": [
+   {
+    "da": "at strække",
+    "en": "to stretch"
+   },
+   {
+    "da": "jeg strækker",
+    "en": "I stretch"
+   },
+   {
+    "da": "jeg strakte",
+    "en": "I stretched"
+   },
+   {
+    "da": "jeg har strakt",
+    "en": "I have stretched"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bøje",
+    "en": "to bend"
+   },
+   {
+    "da": "at række",
+    "en": "to reach"
+   },
+   {
+    "da": "at trække",
+    "en": "to pull"
+   },
+   {
+    "da": "at udvide",
+    "en": "to expand"
+   }
+  ],
+  "sentence": {
+   "da": "Det er vigtigt at **strække** benene efter løbeturen.",
+   "en": "It is important to stretch your legs after the run."
+  }
+ },
+ "at strække sig": {
+  "file": "s.json",
+  "explanation": "\"At strække sig\" means \"to stretch\" your own body: \"Han strækker sig efter træning\" (He stretches after exercise). The word \"sig\" changes with who stretches: \"jeg strækker mig\" (I stretch), \"vi strækker os\" (we stretch).",
+  "forms": [
+   {
+    "da": "at strække sig",
+    "en": "to stretch"
+   },
+   {
+    "da": "jeg strækker mig",
+    "en": "I stretch"
+   },
+   {
+    "da": "jeg strakte mig",
+    "en": "I stretched"
+   },
+   {
+    "da": "jeg har strakt mig",
+    "en": "I have stretched"
+   }
+  ],
+  "related": [
+   {
+    "da": "en strækning",
+    "en": "a stretch"
+   },
+   {
+    "da": "at række",
+    "en": "to reach"
+   },
+   {
+    "da": "at gabe",
+    "en": "to yawn"
+   }
+  ],
+  "sentence": {
+   "da": "Katten vil **strække sig** i solen.",
+   "en": "The cat wants to stretch in the sun."
+  }
+ },
+ "at strø": {
+  "file": "s.json",
+  "explanation": "\"At strø\" means \"to sprinkle\", to scatter small bits over a surface, like sugar or sand. It is also used for scattering things around: \"strø om sig med penge\" (to throw money around).",
+  "forms": [
+   {
+    "da": "at strø",
+    "en": "to sprinkle / scatter"
+   },
+   {
+    "da": "jeg strør",
+    "en": "I sprinkle / scatter"
+   },
+   {
+    "da": "jeg strøede",
+    "en": "I sprinkled / scattered"
+   },
+   {
+    "da": "jeg har strøet",
+    "en": "I have sprinkled / scattered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at drysse",
+    "en": "to sprinkle lightly"
+   },
+   {
+    "da": "at sprede",
+    "en": "to spread"
+   },
+   {
+    "da": "strøsukker",
+    "en": "granulated sugar"
+   },
+   {
+    "da": "at fordele",
+    "en": "to distribute"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **strø** sand foran døren, når der er is.",
+   "en": "We must sprinkle sand in front of the door when there is ice."
+  }
+ },
+ "at studere": {
+  "file": "s.json",
+  "explanation": "\"At studere\" means \"to study\", especially at a university. For studying at home for a test, Danes often say \"at læse til en eksamen\" (to study for an exam; literally, \"to read for an exam\").",
+  "forms": [
+   {
+    "da": "at studere",
+    "en": "to study"
+   },
+   {
+    "da": "jeg studerer",
+    "en": "I study"
+   },
+   {
+    "da": "jeg studerede",
+    "en": "I studied"
+   },
+   {
+    "da": "jeg har studeret",
+    "en": "I have studied"
+   }
+  ],
+  "related": [
+   {
+    "da": "en studerende",
+    "en": "a student"
+   },
+   {
+    "da": "et studie",
+    "en": "a study, a course of study"
+   },
+   {
+    "da": "en uddannelse",
+    "en": "an education"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **studere** medicin på universitetet.",
+   "en": "She wants to study medicine at the university."
+  }
+ },
+ "at styre": {
+  "file": "s.json",
+  "explanation": "\"At styre\" means \"to steer\" and \"to control\", like steering a car or a boat. It also means \"to run\" something: \"Han styrer firmaet\" (He runs the company).",
+  "forms": [
+   {
+    "da": "at styre",
+    "en": "to control / steer"
+   },
+   {
+    "da": "jeg styrer",
+    "en": "I control / steer"
+   },
+   {
+    "da": "jeg styrede",
+    "en": "I controlled / steered"
+   },
+   {
+    "da": "jeg har styret",
+    "en": "I have controlled / steered"
+   }
+  ],
+  "related": [
+   {
+    "da": "et rat",
+    "en": "a steering wheel"
+   },
+   {
+    "da": "at kontrollere",
+    "en": "to control / check"
+   },
+   {
+    "da": "at lede",
+    "en": "to lead"
+   },
+   {
+    "da": "at regere",
+    "en": "to rule"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **styre** båden selv.",
+   "en": "I can steer the boat myself."
+  }
+ },
+ "at styrke": {
+  "file": "s.json",
+  "explanation": "\"At styrke\" means \"to strengthen\", to make something stronger or better able to resist. It also fits relationships: \"Turen styrkede venskabet\" (The trip strengthened the friendship).",
+  "forms": [
+   {
+    "da": "at styrke",
+    "en": "to strengthen"
+   },
+   {
+    "da": "jeg styrker",
+    "en": "I strengthen"
+   },
+   {
+    "da": "jeg styrkede",
+    "en": "I strengthened"
+   },
+   {
+    "da": "jeg har styrket",
+    "en": "I have strengthened"
+   }
+  ],
+  "related": [
+   {
+    "da": "at svække",
+    "en": "to weaken"
+   },
+   {
+    "da": "at forstærke",
+    "en": "to reinforce"
+   },
+   {
+    "da": "at opbygge",
+    "en": "to build up"
+   },
+   {
+    "da": "at hærde",
+    "en": "to harden"
+   }
+  ],
+  "sentence": {
+   "da": "Daglig motion kan **styrke** hjertet og musklerne.",
+   "en": "Daily exercise can strengthen the heart and the muscles."
+  }
+ },
+ "at styrte": {
+  "file": "s.json",
+  "explanation": "\"At styrte\" means \"to rush\" and \"to crash\", both a fast movement that is hard to control. Without \"ned\" (down), it is about speed: \"Jeg styrtede hjem\" (I rushed home). With \"ned\", it means falling or crashing down: \"Flyet styrtede ned\" (The plane crashed).",
+  "forms": [
+   {
+    "da": "at styrte",
+    "en": "to rush / crash"
+   },
+   {
+    "da": "jeg styrter",
+    "en": "I rush / crash"
+   },
+   {
+    "da": "jeg styrtede",
+    "en": "I rushed / crashed"
+   },
+   {
+    "da": "jeg er styrtet",
+    "en": "I have rushed / crashed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at falde",
+    "en": "to fall"
+   },
+   {
+    "da": "at haste",
+    "en": "to hurry"
+   },
+   {
+    "da": "at løbe",
+    "en": "to run"
+   },
+   {
+    "da": "at vælte",
+    "en": "to topple"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil **styrte** ud af døren, når klokken ringer.",
+   "en": "The children will rush out the door when the bell rings."
+  }
+ },
+ "at stå": {
+  "file": "s.json",
+  "explanation": "\"At stå\" means \"to stand\". Danish also uses it for things that are placed upright, such as \"Flasken står på bordet\" (The bottle is on the table), and for text written somewhere: \"Der står et navn på døren\" (There is a name on the door).",
+  "forms": [
+   {
+    "da": "at stå",
+    "en": "to stand"
+   },
+   {
+    "da": "jeg står",
+    "en": "I stand"
+   },
+   {
+    "da": "jeg stod",
+    "en": "I stood"
+   },
+   {
+    "da": "jeg har stået",
+    "en": "I have stood"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sidde",
+    "en": "to sit"
+   },
+   {
+    "da": "at ligge",
+    "en": "to lie (be lying)"
+   },
+   {
+    "da": "at stå op",
+    "en": "to get up"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **stå** eller sidde i bussen.",
+   "en": "You can stand or sit on the bus."
+  }
+ },
+ "at stå af": {
+  "file": "s.json",
+  "explanation": "\"At stå af\" means \"to get off\", used for a bus, a train or the metro. For a bike or a horse, use \"at stige af\" (to get off).",
+  "forms": [
+   {
+    "da": "at stå af",
+    "en": "to get off"
+   },
+   {
+    "da": "jeg står af",
+    "en": "I get off"
+   },
+   {
+    "da": "jeg stod af",
+    "en": "I got off"
+   },
+   {
+    "da": "jeg er stået af",
+    "en": "I have gotten off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stige på",
+    "en": "to get on"
+   },
+   {
+    "da": "at skifte",
+    "en": "to change / transfer"
+   },
+   {
+    "da": "at gå ombord",
+    "en": "to board"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **stå af** ved næste stop.",
+   "en": "I will get off at the next stop."
+  }
+ },
+ "at stå for": {
+  "file": "s.json",
+  "explanation": "\"At stå for\" means \"to be in charge of\" a job or a task: \"Jeg står for maden\" (I am in charge of the food).",
+  "forms": [
+   {
+    "da": "at stå for",
+    "en": "to be in charge of"
+   },
+   {
+    "da": "jeg står for",
+    "en": "I am in charge of"
+   },
+   {
+    "da": "jeg stod for",
+    "en": "I was in charge of"
+   },
+   {
+    "da": "jeg har stået for",
+    "en": "I have been in charge of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at have ansvar for",
+    "en": "to be responsible for"
+   },
+   {
+    "da": "at lede",
+    "en": "to lead"
+   },
+   {
+    "da": "at organisere",
+    "en": "to organize"
+   },
+   {
+    "da": "at tage sig af",
+    "en": "to take care of"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror vil **stå for** maden til festen.",
+   "en": "My brother will be in charge of the food for the party."
+  }
+ },
+ "at stå i kø": {
+  "file": "s.json",
+  "explanation": "\"At stå i kø\" means \"to stand in line\". \"Kø\" (line) also works for cars in a traffic jam: \"Der er kø på motorvejen\" (There is a traffic jam on the highway).",
+  "forms": [
+   {
+    "da": "at stå i kø",
+    "en": "to stand in line"
+   },
+   {
+    "da": "jeg står i kø",
+    "en": "I stand in line"
+   },
+   {
+    "da": "jeg stod i kø",
+    "en": "I stood in line"
+   },
+   {
+    "da": "jeg har stået i kø",
+    "en": "I have stood in line"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vente",
+    "en": "to wait"
+   },
+   {
+    "da": "tålmodig",
+    "en": "patient"
+   },
+   {
+    "da": "en venteliste",
+    "en": "a waiting list"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **stå i kø** for billetter.",
+   "en": "We have to stand in line for tickets."
+  }
+ },
+ "at stå op": {
+  "file": "s.json",
+  "explanation": "\"At stå op\" means \"to get up\" out of bed, literally to stand up. When saying what you have done, Danish uses \"er\" (am) instead of \"har\" (have): \"Jeg er stået op\" (I have gotten up). To stand up from a chair, Danes say \"at rejse sig\" (to stand up).",
+  "forms": [
+   {
+    "da": "at stå op",
+    "en": "to get up"
+   },
+   {
+    "da": "jeg står op",
+    "en": "I get up"
+   },
+   {
+    "da": "jeg stod op",
+    "en": "I got up"
+   },
+   {
+    "da": "jeg er stået op",
+    "en": "I have gotten up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vågne",
+    "en": "to wake up"
+   },
+   {
+    "da": "at gå i seng",
+    "en": "to go to bed"
+   },
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **stå op** klokken syv.",
+   "en": "I want to get up at seven."
+  }
+ },
+ "at stå på ski": {
+  "file": "s.json",
+  "explanation": "\"At stå på ski\" means \"to ski\", literally to stand on skis. Water skiing works the same way: \"at stå på vandski\" (to water ski).",
+  "forms": [
+   {
+    "da": "at stå på ski",
+    "en": "to ski"
+   },
+   {
+    "da": "jeg står på ski",
+    "en": "I ski"
+   },
+   {
+    "da": "jeg stod på ski",
+    "en": "I skied"
+   },
+   {
+    "da": "jeg har stået på ski",
+    "en": "I have skied"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skiløber",
+    "en": "a skier"
+   },
+   {
+    "da": "at snowboarde",
+    "en": "to snowboard"
+   },
+   {
+    "da": "sne",
+    "en": "snow"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **stå på ski** i Norge.",
+   "en": "We want to ski in Norway."
+  }
+ },
+ "at støde på": {
+  "file": "s.json",
+  "explanation": "\"At støde på\" means \"to come across\", to see or notice something by chance, without looking for it. It also works for difficulties: \"støde på modstand\" (face resistance).",
+  "forms": [
+   {
+    "da": "at støde på",
+    "en": "to come across"
+   },
+   {
+    "da": "jeg støder på",
+    "en": "I come across"
+   },
+   {
+    "da": "jeg stødte på",
+    "en": "I came across"
+   },
+   {
+    "da": "jeg har stødt på",
+    "en": "I have come across"
+   }
+  ],
+  "related": [
+   {
+    "da": "at møde",
+    "en": "to meet"
+   },
+   {
+    "da": "at opdage",
+    "en": "to discover"
+   },
+   {
+    "da": "at finde",
+    "en": "to find"
+   },
+   {
+    "da": "at falde over",
+    "en": "to stumble upon"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **støde på** problemer, når vi bygger huset.",
+   "en": "We may come across problems when we build the house."
+  }
+ },
+ "at stønne": {
+  "file": "s.json",
+  "explanation": "\"At stønne\" means \"to groan\", to make a deep sound from pain, effort or annoyance. To name the cause of the groan, use \"over\" (about): \"stønne over varmen\" (to groan about the heat).",
+  "forms": [
+   {
+    "da": "at stønne",
+    "en": "to groan"
+   },
+   {
+    "da": "jeg stønner",
+    "en": "I groan"
+   },
+   {
+    "da": "jeg stønnede",
+    "en": "I groaned"
+   },
+   {
+    "da": "jeg har stønnet",
+    "en": "I have groaned"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sukke",
+    "en": "to sigh"
+   },
+   {
+    "da": "at jamre",
+    "en": "to moan"
+   },
+   {
+    "da": "at klage",
+    "en": "to complain"
+   },
+   {
+    "da": "at puste",
+    "en": "to puff"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **stønne**, når man løfter noget meget tungt.",
+   "en": "You can groan when you lift something very heavy."
+  }
+ },
+ "at støtte": {
+  "file": "s.json",
+  "explanation": "\"At støtte\" means \"to support\" a person or a cause. It also means \"to lean on\": \"Han støttede sig til væggen\" (He leaned on the wall).",
+  "forms": [
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "jeg støtter",
+    "en": "I support"
+   },
+   {
+    "da": "jeg støttede",
+    "en": "I supported"
+   },
+   {
+    "da": "jeg har støttet",
+    "en": "I have supported"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hjælpe",
+    "en": "to help"
+   },
+   {
+    "da": "at bakke op",
+    "en": "to back up"
+   },
+   {
+    "da": "at holde med",
+    "en": "to root for"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil altid **støtte** dig.",
+   "en": "I will always support you."
+  }
+ },
+ "at støve af": {
+  "file": "s.json",
+  "explanation": "\"At støve af\" means \"to dust\", to wipe dust off furniture and things. \"Af\" (off) comes last: \"Jeg støver hylderne af\" (I dust the shelves). It also fits old skills: \"støve sit fransk af\" (dust off your French).",
+  "forms": [
+   {
+    "da": "at støve af",
+    "en": "to dust"
+   },
+   {
+    "da": "jeg støver af",
+    "en": "I dust"
+   },
+   {
+    "da": "jeg støvede af",
+    "en": "I dusted"
+   },
+   {
+    "da": "jeg har støvet af",
+    "en": "I have dusted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tørre af",
+    "en": "to wipe off"
+   },
+   {
+    "da": "at feje",
+    "en": "to sweep"
+   },
+   {
+    "da": "at støvsuge",
+    "en": "to vacuum"
+   },
+   {
+    "da": "at gøre rent",
+    "en": "to clean"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **støve af** i stuen, når gæsterne kommer.",
+   "en": "I will dust in the living room when the guests come."
+  }
+ },
+ "at støvsuge": {
+  "file": "s.json",
+  "explanation": "\"At støvsuge\" means \"to vacuum\" a floor or a rug. It is built from støv (dust) and suge (suck), and the machine is \"en støvsuger\" (a vacuum cleaner).",
+  "forms": [
+   {
+    "da": "at støvsuge",
+    "en": "to vacuum"
+   },
+   {
+    "da": "jeg støvsuger",
+    "en": "I vacuum"
+   },
+   {
+    "da": "jeg støvsugede",
+    "en": "I vacuumed"
+   },
+   {
+    "da": "jeg har støvsuget",
+    "en": "I have vacuumed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at feje",
+    "en": "to sweep"
+   },
+   {
+    "da": "at gøre rent",
+    "en": "to clean"
+   },
+   {
+    "da": "at vaske gulv",
+    "en": "to mop the floor"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **støvsuge** stuen i dag.",
+   "en": "I have to vacuum the living room today."
+  }
+ },
+ "at suge": {
+  "file": "s.json",
+  "explanation": "\"At suge\" means \"to suck\", pulling something in with your mouth or a machine. To name the object you suck on, use \"på\" (on): \"Babyen suger på sutten\" (The baby sucks on the pacifier).",
+  "forms": [
+   {
+    "da": "at suge",
+    "en": "to suck"
+   },
+   {
+    "da": "jeg suger",
+    "en": "I suck"
+   },
+   {
+    "da": "jeg sugede",
+    "en": "I sucked"
+   },
+   {
+    "da": "jeg har suget",
+    "en": "I have sucked"
+   }
+  ],
+  "related": [
+   {
+    "da": "en støvsuger",
+    "en": "a vacuum cleaner"
+   },
+   {
+    "da": "at støvsuge",
+    "en": "to vacuum"
+   },
+   {
+    "da": "at drikke",
+    "en": "to drink"
+   },
+   {
+    "da": "at puste",
+    "en": "to blow / breathe"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet kan **suge** saften op med et sugerør.",
+   "en": "The child can suck the juice up with a straw."
+  }
+ },
+ "at sukke": {
+  "file": "s.json",
+  "explanation": "\"At sukke\" means \"to sigh\", letting out a deep breath when you are tired, sad or annoyed. The noun is \"et suk\" (a sigh).",
+  "forms": [
+   {
+    "da": "at sukke",
+    "en": "to sigh"
+   },
+   {
+    "da": "jeg sukker",
+    "en": "I sigh"
+   },
+   {
+    "da": "jeg sukkede",
+    "en": "I sighed"
+   },
+   {
+    "da": "jeg har sukket",
+    "en": "I have sighed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stønne",
+    "en": "to groan"
+   },
+   {
+    "da": "at gispe",
+    "en": "to gasp"
+   },
+   {
+    "da": "at trække vejret",
+    "en": "to breathe"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror kan **sukke** højt, når han keder sig.",
+   "en": "My brother can sigh loudly when he is bored."
+  }
+ },
+ "at sulte": {
+  "file": "s.json",
+  "explanation": "\"At sulte\" means \"to starve\", to suffer from having too little food. To say you are simply hungry, use \"Jeg er sulten\" (I am hungry), not \"sulte\".",
+  "forms": [
+   {
+    "da": "at sulte",
+    "en": "to starve"
+   },
+   {
+    "da": "jeg sulter",
+    "en": "I starve"
+   },
+   {
+    "da": "jeg sultede",
+    "en": "I starved"
+   },
+   {
+    "da": "jeg har sultet",
+    "en": "I have starved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hungersnød",
+    "en": "a famine"
+   },
+   {
+    "da": "mæt",
+    "en": "full"
+   },
+   {
+    "da": "at spise",
+    "en": "to eat"
+   },
+   {
+    "da": "at faste",
+    "en": "to fast"
+   }
+  ],
+  "sentence": {
+   "da": "Ingen skal **sulte**, når der er mad nok til alle.",
+   "en": "Nobody should starve when there is enough food for everyone."
+  }
+ },
+ "at summe": {
+  "file": "s.json",
+  "explanation": "\"At summe\" means \"to buzz\", to make the soft, steady sound of a bee, a fly or a machine. A place can buzz too: \"Byen summer af liv\" (The city buzzes with life). To hum a tune, use \"at nynne\" (to hum), not \"summe\".",
+  "forms": [
+   {
+    "da": "at summe",
+    "en": "to buzz"
+   },
+   {
+    "da": "bien summer",
+    "en": "the bee buzzes"
+   },
+   {
+    "da": "bien summede",
+    "en": "the bee buzzed"
+   },
+   {
+    "da": "bien har summet",
+    "en": "the bee has buzzed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at knurre",
+    "en": "to growl"
+   },
+   {
+    "da": "at brumme",
+    "en": "to drone"
+   },
+   {
+    "da": "at surre",
+    "en": "to whirr"
+   },
+   {
+    "da": "en humlebi",
+    "en": "a bumblebee"
+   }
+  ],
+  "sentence": {
+   "da": "Om sommeren kan man høre fluer **summe** i vinduet.",
+   "en": "In summer you can hear flies buzz in the window."
+  }
+ },
+ "at supplere": {
+  "file": "s.json",
+  "explanation": "\"At supplere\" means \"to supplement\", to add something to what you already have so that it is enough. With \"hinanden\" (each other), it means they fill in what the other lacks: \"De supplerer hinanden\" (They complement each other).",
+  "forms": [
+   {
+    "da": "at supplere",
+    "en": "to supplement"
+   },
+   {
+    "da": "jeg supplerer",
+    "en": "I supplement"
+   },
+   {
+    "da": "jeg supplerede",
+    "en": "I supplemented"
+   },
+   {
+    "da": "jeg har suppleret",
+    "en": "I have supplemented"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tilføje",
+    "en": "to add"
+   },
+   {
+    "da": "at udvide",
+    "en": "to expand"
+   },
+   {
+    "da": "at komplettere",
+    "en": "to complete"
+   },
+   {
+    "da": "at udbygge",
+    "en": "to extend"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **supplere** din kost med frugt og grønt.",
+   "en": "You can supplement your diet with fruit and vegetables."
+  }
+ },
+ "at sutte": {
+  "file": "s.json",
+  "explanation": "\"At sutte\" means \"to suck\", to take something into the mouth and keep it there. Danish says \"på\" (on): \"Babyen sutter på flasken\" (The baby sucks on the bottle).",
+  "forms": [
+   {
+    "da": "at sutte",
+    "en": "to suck"
+   },
+   {
+    "da": "jeg sutter",
+    "en": "I suck"
+   },
+   {
+    "da": "jeg suttede",
+    "en": "I sucked"
+   },
+   {
+    "da": "jeg har suttet",
+    "en": "I have sucked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at suge",
+    "en": "to draw in"
+   },
+   {
+    "da": "at slikke",
+    "en": "to lick"
+   },
+   {
+    "da": "en sut",
+    "en": "a pacifier"
+   },
+   {
+    "da": "at amme",
+    "en": "to breastfeed"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet kan lide at **sutte** på tommelfingeren.",
+   "en": "The child likes to suck on the thumb."
+  }
+ },
+ "at svare": {
+  "file": "s.json",
+  "explanation": "\"At svare\" means \"to answer\" or \"to reply\". To answer a question, add \"på\" (on): \"svare på et spørgsmål\" (to answer a question).",
+  "forms": [
+   {
+    "da": "at svare",
+    "en": "to answer"
+   },
+   {
+    "da": "jeg svarer",
+    "en": "I answer"
+   },
+   {
+    "da": "jeg svarede",
+    "en": "I answered"
+   },
+   {
+    "da": "jeg har svaret",
+    "en": "I have answered"
+   }
+  ],
+  "related": [
+   {
+    "da": "et svar",
+    "en": "an answer"
+   },
+   {
+    "da": "at spørge",
+    "en": "to ask"
+   },
+   {
+    "da": "at besvare",
+    "en": "to answer (a question)"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **svare** på spørgsmålet.",
+   "en": "I can answer the question."
+  }
+ },
+ "at svare igen": {
+  "file": "s.json",
+  "explanation": "\"At svare igen\" means \"to talk back\", to reply to someone in a rude or cheeky way, usually a child to a parent or teacher: \"Svar ikke igen!\" (Do not talk back!) \"Igen\" usually means \"again\", but here it means \"back\".",
+  "forms": [
+   {
+    "da": "at svare igen",
+    "en": "to talk back"
+   },
+   {
+    "da": "jeg svarer igen",
+    "en": "I talk back"
+   },
+   {
+    "da": "jeg svarede igen",
+    "en": "I talked back"
+   },
+   {
+    "da": "jeg har svaret igen",
+    "en": "I have talked back"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sige imod",
+    "en": "to contradict"
+   },
+   {
+    "da": "at være fræk",
+    "en": "to be cheeky"
+   },
+   {
+    "da": "at skælde ud",
+    "en": "to scold"
+   },
+   {
+    "da": "at adlyde",
+    "en": "to obey"
+   }
+  ],
+  "sentence": {
+   "da": "Drengen må ikke **svare igen**, når mor skælder ud.",
+   "en": "The boy must not talk back when mom scolds him."
+  }
+ },
+ "at svare på": {
+  "file": "s.json",
+  "explanation": "\"At svare på\" means \"to answer\" or \"to reply to\", and \"på\" (on) always stays with it: \"Jeg svarer på din besked\" (I reply to your message).",
+  "forms": [
+   {
+    "da": "at svare på",
+    "en": "to answer / reply to"
+   },
+   {
+    "da": "jeg svarer på",
+    "en": "I answer / reply to"
+   },
+   {
+    "da": "jeg svarede på",
+    "en": "I answered / replied to"
+   },
+   {
+    "da": "jeg har svaret på",
+    "en": "I have answered / replied to"
+   }
+  ],
+  "related": [
+   {
+    "da": "et svar",
+    "en": "an answer"
+   },
+   {
+    "da": "at spørge",
+    "en": "to ask"
+   },
+   {
+    "da": "et spørgsmål",
+    "en": "a question"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **svare på** din mail i morgen.",
+   "en": "I will reply to your email tomorrow."
+  }
+ },
+ "at svede": {
+  "file": "s.json",
+  "explanation": "\"At svede\" means \"to sweat\", from heat or effort. It also fits nerves: \"Hun sveder over eksamen\" (She is sweating over the exam).",
+  "forms": [
+   {
+    "da": "at svede",
+    "en": "to sweat"
+   },
+   {
+    "da": "jeg sveder",
+    "en": "I sweat"
+   },
+   {
+    "da": "jeg svedte",
+    "en": "I sweated"
+   },
+   {
+    "da": "jeg har svedt",
+    "en": "I have sweated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sved",
+    "en": "a sweat"
+   },
+   {
+    "da": "svedig",
+    "en": "sweaty"
+   },
+   {
+    "da": "at fryse",
+    "en": "to be cold"
+   },
+   {
+    "da": "varm",
+    "en": "hot"
+   }
+  ],
+  "sentence": {
+   "da": "Når det er varmt, kan jeg **svede** meget.",
+   "en": "When it is hot, I can sweat a lot."
+  }
+ },
+ "at svigte": {
+  "file": "s.json",
+  "explanation": "\"At svigte\" means \"to let down\" or \"to fail\", to go back on someone who trusted you. It also describes things that stop working when needed: \"Bremserne svigtede\" (The brakes failed).",
+  "forms": [
+   {
+    "da": "at svigte",
+    "en": "to let down / fail"
+   },
+   {
+    "da": "jeg svigter",
+    "en": "I let down / fail"
+   },
+   {
+    "da": "jeg svigtede",
+    "en": "I let down / failed"
+   },
+   {
+    "da": "jeg har svigtet",
+    "en": "I have let down / failed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skuffe",
+    "en": "to disappoint"
+   },
+   {
+    "da": "at forråde",
+    "en": "to betray"
+   },
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "at holde sit ord",
+    "en": "to keep your word"
+   }
+  ],
+  "sentence": {
+   "da": "En ven må aldrig **svigte** en anden, når det går galt.",
+   "en": "A friend must never let another down when things go wrong."
+  }
+ },
+ "at svinge": {
+  "file": "s.json",
+  "explanation": "\"At svinge\" means \"to swing\", to move back and forth or in an arc, like a pendulum. It also means to turn while driving or biking: \"Jeg svinger til højre\" (I turn right).",
+  "forms": [
+   {
+    "da": "at svinge",
+    "en": "to swing"
+   },
+   {
+    "da": "jeg svinger",
+    "en": "I swing"
+   },
+   {
+    "da": "jeg svingede",
+    "en": "I swung"
+   },
+   {
+    "da": "jeg har svinget",
+    "en": "I have swung"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kurve",
+    "en": "a curve"
+   },
+   {
+    "da": "at gynge",
+    "en": "to rock"
+   },
+   {
+    "da": "at vippe",
+    "en": "to tilt"
+   },
+   {
+    "da": "at dingle",
+    "en": "to dangle"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **svinge** til venstre ved lyskrydset.",
+   "en": "You must turn left at the traffic light."
+  }
+ },
+ "at svække": {
+  "file": "s.json",
+  "explanation": "\"At svække\" means \"to weaken\", to make something less strong, often little by little.",
+  "forms": [
+   {
+    "da": "at svække",
+    "en": "to weaken"
+   },
+   {
+    "da": "jeg svækker",
+    "en": "I weaken"
+   },
+   {
+    "da": "jeg svækkede",
+    "en": "I weakened"
+   },
+   {
+    "da": "jeg har svækket",
+    "en": "I have weakened"
+   }
+  ],
+  "related": [
+   {
+    "da": "at styrke",
+    "en": "to strengthen"
+   },
+   {
+    "da": "at nedbryde",
+    "en": "to break down"
+   },
+   {
+    "da": "at udmatte",
+    "en": "to exhaust"
+   },
+   {
+    "da": "at undergrave",
+    "en": "to undermine"
+   }
+  ],
+  "sentence": {
+   "da": "Lange nætter uden søvn kan **svække** kroppen.",
+   "en": "Long nights without sleep can weaken the body."
+  }
+ },
+ "at sværge": {
+  "file": "s.json",
+  "explanation": "\"At sværge\" means \"to swear\", to promise something very seriously, for example in court. It is not the word for bad language. For that, Danes use \"at bande\" (to curse).",
+  "forms": [
+   {
+    "da": "at sværge",
+    "en": "to swear (promise)"
+   },
+   {
+    "da": "jeg sværger",
+    "en": "I swear"
+   },
+   {
+    "da": "jeg svor",
+    "en": "I swore"
+   },
+   {
+    "da": "jeg har svoret",
+    "en": "I have sworn"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ed",
+    "en": "an oath"
+   },
+   {
+    "da": "at forsikre",
+    "en": "to assure"
+   },
+   {
+    "da": "at bekræfte",
+    "en": "to confirm"
+   },
+   {
+    "da": "at hævde",
+    "en": "to claim"
+   }
+  ],
+  "sentence": {
+   "da": "Vidnet skal **sværge** at sige sandheden i retten.",
+   "en": "The witness must swear to tell the truth in court."
+  }
+ },
+ "at svømme": {
+  "file": "s.json",
+  "explanation": "\"At svømme\" means \"to swim\". For a quick dip, Danes also say \"at bade\" (to go for a swim): \"Vi bader i søen\" (We are going for a swim in the lake).",
+  "forms": [
+   {
+    "da": "at svømme",
+    "en": "to swim"
+   },
+   {
+    "da": "jeg svømmer",
+    "en": "I swim"
+   },
+   {
+    "da": "jeg svømmede",
+    "en": "I swam"
+   },
+   {
+    "da": "jeg har svømmet",
+    "en": "I have swum"
+   }
+  ],
+  "related": [
+   {
+    "da": "en svømmehal",
+    "en": "a swimming pool"
+   },
+   {
+    "da": "at dykke",
+    "en": "to dive"
+   },
+   {
+    "da": "et bassin",
+    "en": "a pool"
+   }
+  ],
+  "sentence": {
+   "da": "Fisk kan **svømme** i vandet.",
+   "en": "Fish can swim in the water."
+  }
+ },
+ "at sy": {
+  "file": "s.json",
+  "explanation": "\"At sy\" means \"to sew\", joining cloth with a needle and thread. It also covers closing a cut with stitches: \"Lægen syede såret\" (The doctor stitched the wound).",
+  "forms": [
+   {
+    "da": "at sy",
+    "en": "to sew"
+   },
+   {
+    "da": "jeg syr",
+    "en": "I sew"
+   },
+   {
+    "da": "jeg syede",
+    "en": "I sewed"
+   },
+   {
+    "da": "jeg har syet",
+    "en": "I have sewn"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nål",
+    "en": "a needle"
+   },
+   {
+    "da": "en tråd",
+    "en": "a thread"
+   },
+   {
+    "da": "at strikke",
+    "en": "to knit"
+   },
+   {
+    "da": "at hækle",
+    "en": "to crochet"
+   }
+  ],
+  "sentence": {
+   "da": "Min mor kan **sy** sine egne kjoler.",
+   "en": "My mother can sew her own dresses."
+  }
+ },
+ "at sygemelde sig": {
+  "file": "s.json",
+  "explanation": "\"At sygemelde sig\" means \"to call in sick\", telling your employer that you are ill.",
+  "forms": [
+   {
+    "da": "at sygemelde sig",
+    "en": "to call in sick"
+   },
+   {
+    "da": "jeg sygemelder mig",
+    "en": "I call in sick"
+   },
+   {
+    "da": "jeg sygemeldte mig",
+    "en": "I called in sick"
+   },
+   {
+    "da": "jeg har sygemeldt mig",
+    "en": "I have called in sick"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sygdom",
+    "en": "an illness"
+   },
+   {
+    "da": "en sygedag",
+    "en": "a sick day"
+   },
+   {
+    "da": "at raskmelde sig",
+    "en": "to report well again"
+   },
+   {
+    "da": "rask",
+    "en": "healthy"
+   }
+  ],
+  "sentence": {
+   "da": "Hun må **sygemelde sig**, fordi hun har feber.",
+   "en": "She has to call in sick because she has a fever."
+  }
+ },
+ "at symbolisere": {
+  "file": "s.json",
+  "explanation": "\"At symbolisere\" means \"to symbolize\", to stand for an idea or feeling. The symbol comes first, then the idea: \"Duen symboliserer fred\" (The dove symbolizes peace), not the other way around.",
+  "forms": [
+   {
+    "da": "at symbolisere",
+    "en": "to symbolize"
+   },
+   {
+    "da": "jeg symboliserer",
+    "en": "I symbolize"
+   },
+   {
+    "da": "jeg symboliserede",
+    "en": "I symbolized"
+   },
+   {
+    "da": "jeg har symboliseret",
+    "en": "I have symbolized"
+   }
+  ],
+  "related": [
+   {
+    "da": "at repræsentere",
+    "en": "to represent"
+   },
+   {
+    "da": "at illustrere",
+    "en": "to illustrate"
+   },
+   {
+    "da": "at antyde",
+    "en": "to hint at"
+   },
+   {
+    "da": "at udtrykke",
+    "en": "to express"
+   }
+  ],
+  "sentence": {
+   "da": "Et rødt hjerte kan **symbolisere** kærlighed.",
+   "en": "A red heart can symbolize love."
+  }
+ },
+ "at synes": {
+  "file": "s.json",
+  "explanation": "\"At synes\" means \"to think\", in the sense of having an opinion: \"Jeg synes, det er godt\" (I think it is good). For a guess about a fact, use \"at tro\" (to believe, to guess): \"Jeg tror, han kommer\" (I think he is coming). \"Hvad synes du?\" (What do you think?)",
+  "forms": [
+   {
+    "da": "at synes",
+    "en": "to think (an opinion)"
+   },
+   {
+    "da": "jeg synes",
+    "en": "I think (in my opinion)"
+   },
+   {
+    "da": "jeg syntes",
+    "en": "I thought"
+   },
+   {
+    "da": "jeg har syntes",
+    "en": "I have thought"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tænke",
+    "en": "to think"
+   },
+   {
+    "da": "en mening",
+    "en": "an opinion"
+   },
+   {
+    "da": "at mene",
+    "en": "to think / mean"
+   }
+  ],
+  "sentence": {
+   "da": "Hvad **synes** du om maden?",
+   "en": "What do you think about the food?"
+  }
+ },
+ "at synge": {
+  "file": "s.json",
+  "explanation": "\"At synge\" means \"to sing\". To sing along with others or with a recording, add \"med\" (with): \"Jeg synger med\" (I sing along).",
+  "forms": [
+   {
+    "da": "at synge",
+    "en": "to sing"
+   },
+   {
+    "da": "jeg synger",
+    "en": "I sing"
+   },
+   {
+    "da": "jeg sang",
+    "en": "I sang"
+   },
+   {
+    "da": "jeg har sunget",
+    "en": "I have sung"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sang",
+    "en": "a song"
+   },
+   {
+    "da": "en sanger",
+    "en": "a singer"
+   },
+   {
+    "da": "et kor",
+    "en": "a choir"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kan **synge** en smuk sang.",
+   "en": "She can sing a beautiful song."
+  }
+ },
+ "at synke": {
+  "file": "s.json",
+  "explanation": "\"At synke\" means \"to sink\" and also \"to swallow\". For a ship or a stone: \"Skibet synker\" (The ship sinks). For food or a pill: \"Jeg kan ikke synke tabletten\" (I cannot swallow the pill).",
+  "forms": [
+   {
+    "da": "at synke",
+    "en": "to sink / swallow"
+   },
+   {
+    "da": "jeg synker",
+    "en": "I sink / swallow"
+   },
+   {
+    "da": "jeg sank",
+    "en": "I sank / swallowed"
+   },
+   {
+    "da": "jeg har sunket",
+    "en": "I have sunk / swallowed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at flyde",
+    "en": "to float"
+   },
+   {
+    "da": "at sluge",
+    "en": "to gulp down"
+   },
+   {
+    "da": "at drukne",
+    "en": "to drown"
+   },
+   {
+    "da": "at dykke",
+    "en": "to dive"
+   }
+  ],
+  "sentence": {
+   "da": "Den tunge sten vil **synke** i vandet.",
+   "en": "The heavy stone will sink in the water."
+  }
+ },
+ "at såre": {
+  "file": "s.json",
+  "explanation": "\"At såre\" means \"to hurt\" or \"to wound\", mostly someone's feelings. For pain in the body, Danes say \"at gøre ondt\" (to hurt): \"Det gør ondt\" (It hurts).",
+  "forms": [
+   {
+    "da": "at såre",
+    "en": "to hurt / wound"
+   },
+   {
+    "da": "jeg sårer",
+    "en": "I hurt / wound"
+   },
+   {
+    "da": "jeg sårede",
+    "en": "I hurt / wounded"
+   },
+   {
+    "da": "jeg har såret",
+    "en": "I have hurt / wounded"
+   }
+  ],
+  "related": [
+   {
+    "da": "sårbar",
+    "en": "vulnerable"
+   },
+   {
+    "da": "at krænke",
+    "en": "to offend"
+   },
+   {
+    "da": "at skade",
+    "en": "to injure"
+   },
+   {
+    "da": "at fornærme",
+    "en": "to insult"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **såre** dig, men jeg må sige sandheden.",
+   "en": "I do not want to hurt you, but I must tell the truth."
+  }
+ },
+ "at sælge": {
+  "file": "s.json",
+  "explanation": "\"At sælge\" means \"to sell\". \"Til salg\" (for sale) is used on a sign: \"Bilen er til salg\" (The car is for sale).",
+  "forms": [
+   {
+    "da": "at sælge",
+    "en": "to sell"
+   },
+   {
+    "da": "jeg sælger",
+    "en": "I sell"
+   },
+   {
+    "da": "jeg solgte",
+    "en": "I sold"
+   },
+   {
+    "da": "jeg har solgt",
+    "en": "I have sold"
+   }
+  ],
+  "related": [
+   {
+    "da": "at købe",
+    "en": "to buy"
+   },
+   {
+    "da": "en sælger",
+    "en": "a seller"
+   },
+   {
+    "da": "en kunde",
+    "en": "a customer"
+   }
+  ],
+  "sentence": {
+   "da": "Bageren vil **sælge** brød i butikken.",
+   "en": "The baker wants to sell bread in the store."
+  }
+ },
+ "at sænke": {
+  "file": "s.json",
+  "explanation": "\"At sænke\" means \"to lower\", and also \"to sink\" something on purpose: \"at sænke stemmen\" (to lower your voice), \"Piraterne sænker skibet\" (The pirates sink the ship). When something goes down by itself, use \"at synke\" (to sink): \"Skibet synker\" (The ship sinks).",
+  "forms": [
+   {
+    "da": "at sænke",
+    "en": "to lower"
+   },
+   {
+    "da": "jeg sænker",
+    "en": "I lower"
+   },
+   {
+    "da": "jeg sænkede",
+    "en": "I lowered"
+   },
+   {
+    "da": "jeg har sænket",
+    "en": "I have lowered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hæve",
+    "en": "to raise"
+   },
+   {
+    "da": "at reducere",
+    "en": "to reduce"
+   },
+   {
+    "da": "at nedsætte",
+    "en": "to cut down"
+   },
+   {
+    "da": "at løfte",
+    "en": "to lift"
+   }
+  ],
+  "sentence": {
+   "da": "Butikken vil **sænke** priserne, fordi der er for få kunder.",
+   "en": "The store wants to lower the prices because there are too few customers."
+  }
+ },
+ "at sætte": {
+  "file": "s.json",
+  "explanation": "\"At sætte\" means \"to put\" or \"to place\" something somewhere: \"Jeg sætter bogen på hylden\" (I put the book on the shelf). Do not mix it up with \"at sidde\" (to sit), which describes where you already are. \"Sæt dig\" (Sit down) uses \"sætte\" too.",
+  "forms": [
+   {
+    "da": "at sætte",
+    "en": "to put / place"
+   },
+   {
+    "da": "jeg sætter",
+    "en": "I put / place"
+   },
+   {
+    "da": "jeg satte",
+    "en": "I put / placed"
+   },
+   {
+    "da": "jeg har sat",
+    "en": "I have put / placed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lægge",
+    "en": "to lay down"
+   },
+   {
+    "da": "at stille",
+    "en": "to stand something upright"
+   },
+   {
+    "da": "at placere",
+    "en": "to place"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **sætte** koppen på bordet.",
+   "en": "I want to put the cup on the table."
+  }
+ },
+ "at sætte i gang": {
+  "file": "s.json",
+  "explanation": "\"At sætte i gang\" means \"to start\" or \"to launch\", to get something running: \"Vi sætter projektet i gang\" (We are launching the project). When the thing starts by itself, use \"at komme i gang\" (to get going): \"Projektet kommer i gang\" (The project gets going).",
+  "forms": [
+   {
+    "da": "at sætte i gang",
+    "en": "to start / launch"
+   },
+   {
+    "da": "jeg sætter i gang",
+    "en": "I start / launch"
+   },
+   {
+    "da": "jeg satte i gang",
+    "en": "I started / launched"
+   },
+   {
+    "da": "jeg har sat i gang",
+    "en": "I have started / launched"
+   }
+  ],
+  "related": [
+   {
+    "da": "at starte",
+    "en": "to start"
+   },
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at afslutte",
+    "en": "to finish"
+   },
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   }
+  ],
+  "sentence": {
+   "da": "Når I er klar, vil jeg **sætte i gang**.",
+   "en": "When you are ready, I will get things started."
+  }
+ },
+ "at sætte ind": {
+  "file": "s.json",
+  "explanation": "\"At sætte ind\" means \"to put in\", and also \"to deposit\": \"Jeg sætter pengene ind på kontoen\" (I put the money into the account). It can mean \"to put into service\": \"Vi sætter flere busser ind\" (We are putting more buses into service).",
+  "forms": [
+   {
+    "da": "at sætte ind",
+    "en": "to put in / deposit"
+   },
+   {
+    "da": "jeg sætter ind",
+    "en": "I put in / deposit"
+   },
+   {
+    "da": "jeg satte ind",
+    "en": "I put in / deposited"
+   },
+   {
+    "da": "jeg har sat ind",
+    "en": "I have put in / deposited"
+   }
+  ],
+  "related": [
+   {
+    "da": "at indsætte",
+    "en": "to deposit"
+   },
+   {
+    "da": "at hæve",
+    "en": "to withdraw"
+   },
+   {
+    "da": "at spare op",
+    "en": "to save up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg går i banken for at **sætte ind**.",
+   "en": "I am going to the bank to make a deposit."
+  }
+ },
+ "at sætte pris på": {
+  "file": "s.json",
+  "explanation": "\"At sætte pris på\" means \"to appreciate\", to value what someone does or gives. Add \"stor\" (big) for more: \"Jeg sætter stor pris på det\" (I really appreciate it).",
+  "forms": [
+   {
+    "da": "at sætte pris på",
+    "en": "to appreciate"
+   },
+   {
+    "da": "jeg sætter pris på",
+    "en": "I appreciate"
+   },
+   {
+    "da": "jeg satte pris på",
+    "en": "I appreciated"
+   },
+   {
+    "da": "jeg har sat pris på",
+    "en": "I have appreciated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at værdsætte",
+    "en": "to value"
+   },
+   {
+    "da": "at takke",
+    "en": "to thank"
+   },
+   {
+    "da": "taknemmelig",
+    "en": "grateful"
+   },
+   {
+    "da": "at kunne lide",
+    "en": "to like"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal **sætte pris på** sine venner.",
+   "en": "You should appreciate your friends."
+  }
+ },
+ "at sætte på": {
+  "file": "s.json",
+  "explanation": "\"At sætte på\" means \"to put on\" something that is turned on or heated, such as music, a pot of coffee or the stove. For clothes, use \"at tage tøj på\" (to put on clothes).",
+  "forms": [
+   {
+    "da": "at sætte på",
+    "en": "to put on"
+   },
+   {
+    "da": "jeg sætter på",
+    "en": "I put on"
+   },
+   {
+    "da": "jeg satte på",
+    "en": "I put on"
+   },
+   {
+    "da": "jeg har sat på",
+    "en": "I have put on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tænde",
+    "en": "to turn on"
+   },
+   {
+    "da": "at slukke",
+    "en": "to turn off"
+   },
+   {
+    "da": "at starte",
+    "en": "to start"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **sætte på** noget kaffe, før gæsterne kommer.",
+   "en": "I will put on some coffee before the guests come."
+  }
+ },
+ "at sætte sig": {
+  "file": "s.json",
+  "explanation": "\"At sætte sig\" means \"to sit down\": \"Jeg sætter mig i sofaen\" (I sit down on the sofa). To say you are already sitting, use \"at sidde\" (to sit): \"Jeg sidder i sofaen\" (I am sitting on the sofa).",
+  "forms": [
+   {
+    "da": "at sætte sig",
+    "en": "to sit down"
+   },
+   {
+    "da": "jeg sætter mig",
+    "en": "I sit down"
+   },
+   {
+    "da": "jeg satte mig",
+    "en": "I sat down"
+   },
+   {
+    "da": "jeg har sat mig",
+    "en": "I have sat down"
+   }
+  ],
+  "related": [
+   {
+    "da": "at rejse sig",
+    "en": "to stand up"
+   },
+   {
+    "da": "at lægge sig",
+    "en": "to lie down"
+   },
+   {
+    "da": "en plads",
+    "en": "a seat"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **sætte sig** på stolen.",
+   "en": "He wants to sit down on the chair."
+  }
+ },
+ "at søge": {
+  "file": "s.json",
+  "explanation": "\"At søge\" means \"to apply\" and \"to search\": \"Jeg søger et job\" (I am applying for a job). To search for a thing, add \"efter\" (for): \"Jeg søger efter mine nøgler\" (I am searching for my keys).",
+  "forms": [
+   {
+    "da": "at søge",
+    "en": "to search / apply"
+   },
+   {
+    "da": "jeg søger",
+    "en": "I search / apply"
+   },
+   {
+    "da": "jeg søgte",
+    "en": "I searched / applied"
+   },
+   {
+    "da": "jeg har søgt",
+    "en": "I have searched / applied"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lede efter",
+    "en": "to look for"
+   },
+   {
+    "da": "en ansøgning",
+    "en": "an application"
+   },
+   {
+    "da": "at finde",
+    "en": "to find"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **søge** et nyt job i København.",
+   "en": "I want to apply for a new job in Copenhagen."
+  }
+ },
+ "at søge efter": {
+  "file": "s.json",
+  "explanation": "\"At søge efter\" means \"to search for\" something you want to find. Without \"efter\" (for), \"at søge\" is used to apply: \"Hun søger et job\" (She is applying for a job).",
+  "forms": [
+   {
+    "da": "at søge efter",
+    "en": "to search for"
+   },
+   {
+    "da": "jeg søger efter",
+    "en": "I search for"
+   },
+   {
+    "da": "jeg søgte efter",
+    "en": "I searched for"
+   },
+   {
+    "da": "jeg har søgt efter",
+    "en": "I have searched for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lede efter",
+    "en": "to look for"
+   },
+   {
+    "da": "at finde",
+    "en": "to find"
+   },
+   {
+    "da": "en søgning",
+    "en": "a search"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **søge efter** en billig lejlighed.",
+   "en": "I want to search for a cheap apartment."
+  }
+ },
+ "at søge ind på": {
+  "file": "s.json",
+  "explanation": "\"At søge ind på\" means \"to apply to\" a school or a study program. To apply for a job, say \"at søge et job\" (to apply for a job).",
+  "forms": [
+   {
+    "da": "at søge ind på",
+    "en": "to apply to (a school)"
+   },
+   {
+    "da": "jeg søger ind på",
+    "en": "I apply to (a school)"
+   },
+   {
+    "da": "jeg søgte ind på",
+    "en": "I applied to (a school)"
+   },
+   {
+    "da": "jeg har søgt ind på",
+    "en": "I have applied to (a school)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ansøgning",
+    "en": "an application"
+   },
+   {
+    "da": "en ansøger",
+    "en": "an applicant"
+   },
+   {
+    "da": "at blive optaget",
+    "en": "to get accepted"
+   },
+   {
+    "da": "en optagelsesprøve",
+    "en": "an entrance exam"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster vil **søge ind på** universitetet i år.",
+   "en": "My sister wants to apply to the university this year."
+  }
+ },
+ "at søge job": {
+  "file": "s.json",
+  "explanation": "\"At søge job\" means \"to apply for a job\", and also \"to look for work\": \"Jeg søger job som lærer\" (I am looking for a job as a teacher). For one specific position, say \"at søge en stilling\" (to apply for a position).",
+  "forms": [
+   {
+    "da": "at søge job",
+    "en": "to apply for a job"
+   },
+   {
+    "da": "jeg søger job",
+    "en": "I apply for a job"
+   },
+   {
+    "da": "jeg søgte job",
+    "en": "I applied for a job"
+   },
+   {
+    "da": "jeg har søgt job",
+    "en": "I have applied for a job"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ansøgning",
+    "en": "an application"
+   },
+   {
+    "da": "en jobsamtale",
+    "en": "a job interview"
+   },
+   {
+    "da": "at ansætte",
+    "en": "to hire"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **søge job** i en bank.",
+   "en": "I want to apply for a job at a bank."
+  }
+ },
+ "at søge om": {
+  "file": "s.json",
+  "explanation": "\"At søge om\" means \"to apply for\", when you ask for something official: \"søge om tilladelse\" (apply for a permit), \"søge om støtte\" (apply for support). For a job, say \"at søge\" (to apply): \"søge et job\" (apply for a job).",
+  "forms": [
+   {
+    "da": "at søge om",
+    "en": "to apply for"
+   },
+   {
+    "da": "jeg søger om",
+    "en": "I apply for"
+   },
+   {
+    "da": "jeg søgte om",
+    "en": "I applied for"
+   },
+   {
+    "da": "jeg har søgt om",
+    "en": "I have applied for"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ansøgning",
+    "en": "an application"
+   },
+   {
+    "da": "en ansøger",
+    "en": "an applicant"
+   },
+   {
+    "da": "at ansøge",
+    "en": "to apply formally"
+   },
+   {
+    "da": "at bede om",
+    "en": "to ask for"
+   }
+  ],
+  "sentence": {
+   "da": "Han skal **søge om** et visum i dag.",
+   "en": "He has to apply for a visa today."
+  }
+ },
+ "at sørge for": {
+  "file": "s.json",
+  "explanation": "\"At sørge for\" means \"to take care of\" something: \"Jeg sørger for maden\" (I take care of the food). It also means \"to make sure\": \"Sørg for at låse døren\" (Make sure you lock the door).",
+  "forms": [
+   {
+    "da": "at sørge for",
+    "en": "to make sure / take care of"
+   },
+   {
+    "da": "jeg sørger for",
+    "en": "I make sure / take care of"
+   },
+   {
+    "da": "jeg sørgede for",
+    "en": "I made sure / took care of"
+   },
+   {
+    "da": "jeg har sørget for",
+    "en": "I have made sure / taken care of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage sig af",
+    "en": "to take care of"
+   },
+   {
+    "da": "at klare",
+    "en": "to handle"
+   },
+   {
+    "da": "at ordne",
+    "en": "to arrange / fix"
+   },
+   {
+    "da": "at passe på",
+    "en": "to be careful"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **sørge for** børnene i aften.",
+   "en": "I'll take care of the children tonight."
+  }
+ },
+ "en sadel": {
+  "file": "s.json",
+  "explanation": "\"En sadel\" means \"a saddle\", the seat on a horse's back, held in place by a strap under its belly. A bike seat is called \"en sadel\" too.",
+  "forms": [
+   {
+    "da": "en sadel",
+    "en": "a saddle"
+   },
+   {
+    "da": "sadlen",
+    "en": "the saddle"
+   },
+   {
+    "da": "sadler",
+    "en": "saddles"
+   },
+   {
+    "da": "sadlerne",
+    "en": "the saddles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en stigbøjle",
+    "en": "a stirrup"
+   },
+   {
+    "da": "en tøjle",
+    "en": "a rein"
+   },
+   {
+    "da": "en rytter",
+    "en": "a rider"
+   }
+  ],
+  "sentence": {
+   "da": "Rytteren sidder i en **sadel** på hestens ryg.",
+   "en": "The rider sits in a saddle on the horse's back."
+  }
+ },
+ "en sag": {
+  "file": "s.json",
+  "explanation": "\"En sag\" means \"a matter\" or \"a case\". For a topic, it is \"a matter\": \"Det er en anden sag\" (That is a different matter). At work or in court, it is \"a case\": \"Advokaten arbejder på en sag\" (The lawyer is working on a case).",
+  "forms": [
+   {
+    "da": "en sag",
+    "en": "a matter / case"
+   },
+   {
+    "da": "sagen",
+    "en": "the matter / case"
+   },
+   {
+    "da": "sager",
+    "en": "matters / cases"
+   },
+   {
+    "da": "sagerne",
+    "en": "the matters / cases"
+   }
+  ],
+  "related": [
+   {
+    "da": "en retssag",
+    "en": "a court case"
+   },
+   {
+    "da": "et emne",
+    "en": "a topic"
+   },
+   {
+    "da": "en undersøgelse",
+    "en": "an investigation"
+   },
+   {
+    "da": "et anliggende",
+    "en": "a matter of concern"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet arbejder på en vigtig **sag**.",
+   "en": "The police are working on an important case."
+  }
+ },
+ "en sagsbehandler": {
+  "file": "s.json",
+  "explanation": "\"En sagsbehandler\" means \"a caseworker\", a public employee who looks into your situation and decides on things like benefits or support. It is built from sag (case) and behandler (someone who handles).",
+  "forms": [
+   {
+    "da": "en sagsbehandler",
+    "en": "a caseworker"
+   },
+   {
+    "da": "sagsbehandleren",
+    "en": "the caseworker"
+   },
+   {
+    "da": "sagsbehandlere",
+    "en": "caseworkers"
+   },
+   {
+    "da": "sagsbehandlerne",
+    "en": "the caseworkers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kommune",
+    "en": "a municipality"
+   },
+   {
+    "da": "en myndighed",
+    "en": "an authority"
+   },
+   {
+    "da": "en sagsbehandling",
+    "en": "case handling"
+   },
+   {
+    "da": "en sagsbehandlingstid",
+    "en": "processing time"
+   }
+  ],
+  "sentence": {
+   "da": "Min **sagsbehandler** ringer, når hun har læst min ansøgning.",
+   "en": "My caseworker will call when she has read my application."
+  }
+ },
+ "en saks": {
+  "file": "s.json",
+  "explanation": "\"En saks\" means \"a pair of scissors\". Danes say \"en saks\" where English says \"a pair of scissors\": \"Kan jeg låne din saks?\" (Can I borrow your scissors?)",
+  "forms": [
+   {
+    "da": "en saks",
+    "en": "a pair of scissors"
+   },
+   {
+    "da": "saksen",
+    "en": "the pair of scissors"
+   },
+   {
+    "da": "sakse",
+    "en": "pairs of scissors"
+   },
+   {
+    "da": "saksene",
+    "en": "the pairs of scissors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en neglesaks",
+    "en": "nail scissors"
+   },
+   {
+    "da": "en havesaks",
+    "en": "garden shears"
+   },
+   {
+    "da": "en køkkensaks",
+    "en": "kitchen scissors"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg klipper papir med en **saks**.",
+   "en": "I cut paper with a pair of scissors."
+  }
+ },
+ "en sal": {
+  "file": "s.json",
+  "explanation": "\"En sal\" means \"a hall\", a big space for meetings, parties or shows. It is not a hallway; that is \"en gang\" (a hallway).",
+  "forms": [
+   {
+    "da": "en sal",
+    "en": "a hall"
+   },
+   {
+    "da": "salen",
+    "en": "the hall"
+   },
+   {
+    "da": "sale",
+    "en": "halls"
+   },
+   {
+    "da": "salene",
+    "en": "the halls"
+   }
+  ],
+  "related": [
+   {
+    "da": "et rum",
+    "en": "a room"
+   },
+   {
+    "da": "en aula",
+    "en": "an assembly hall"
+   },
+   {
+    "da": "en festsal",
+    "en": "a party hall"
+   },
+   {
+    "da": "en gymnastiksal",
+    "en": "a gym hall"
+   }
+  ],
+  "sentence": {
+   "da": "Koncerten foregår i den store **sal**.",
+   "en": "The concert takes place in the big hall."
+  }
+ },
+ "en salamander": {
+  "file": "s.json",
+  "explanation": "\"En salamander\" means \"a salamander\", a small animal with a long tail that looks like a lizard but has smooth, moist skin instead of scales.",
+  "forms": [
+   {
+    "da": "en salamander",
+    "en": "a salamander"
+   },
+   {
+    "da": "salamanderen",
+    "en": "the salamander"
+   },
+   {
+    "da": "salamandre",
+    "en": "salamanders"
+   },
+   {
+    "da": "salamandrene",
+    "en": "the salamanders"
+   }
+  ],
+  "related": [
+   {
+    "da": "en frø",
+    "en": "a frog"
+   },
+   {
+    "da": "en tudse",
+    "en": "a toad"
+   },
+   {
+    "da": "en vandsalamander",
+    "en": "a newt"
+   },
+   {
+    "da": "en padde",
+    "en": "an amphibian"
+   }
+  ],
+  "sentence": {
+   "da": "Man finder ofte en **salamander** under en sten ved vandet.",
+   "en": "You often find a salamander under a rock by the water."
+  }
+ },
+ "en salat": {
+  "file": "s.json",
+  "explanation": "\"En salat\" means \"a salad\" and also \"lettuce\". You can tell which one it is from the context of the sentence: \"Jeg spiser en salat til frokost\" (I eat a salad for lunch), but \"en hovedsalat\" (a head of lettuce) is the plant.",
+  "forms": [
+   {
+    "da": "en salat",
+    "en": "a salad / lettuce"
+   },
+   {
+    "da": "salaten",
+    "en": "the salad / the lettuce"
+   },
+   {
+    "da": "salater",
+    "en": "salads"
+   },
+   {
+    "da": "salaterne",
+    "en": "the salads"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dressing",
+    "en": "a dressing"
+   },
+   {
+    "da": "en kartoffelsalat",
+    "en": "a potato salad"
+   },
+   {
+    "da": "en frugtsalat",
+    "en": "a fruit salad"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser en **salat** med tomat og agurk.",
+   "en": "I eat a salad with tomato and cucumber."
+  }
+ },
+ "en saltbøsse": {
+  "file": "s.json",
+  "explanation": "\"En saltbøsse\" means \"a salt shaker\", the small container you shake salt from at the table. It is built from salt (salt) and bøsse (a small can).",
+  "forms": [
+   {
+    "da": "en saltbøsse",
+    "en": "a salt shaker"
+   },
+   {
+    "da": "saltbøssen",
+    "en": "the salt shaker"
+   },
+   {
+    "da": "saltbøsser",
+    "en": "salt shakers"
+   },
+   {
+    "da": "saltbøsserne",
+    "en": "the salt shakers"
+   }
+  ],
+  "related": [
+   {
+    "da": "peber",
+    "en": "pepper"
+   },
+   {
+    "da": "et krydderi",
+    "en": "a spice"
+   },
+   {
+    "da": "en sukkerskål",
+    "en": "a sugar bowl"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg ryster salt på maden fra en **saltbøsse**.",
+   "en": "I shake salt onto the food from a salt shaker."
+  }
+ },
+ "en salve": {
+  "file": "s.json",
+  "explanation": "\"En salve\" means \"an ointment\", a thick treatment you rub on the skin, such as for a rash or a sore muscle. The same word also means a volley: \"en salve skud\" (a volley of shots).",
+  "forms": [
+   {
+    "da": "en salve",
+    "en": "an ointment"
+   },
+   {
+    "da": "salven",
+    "en": "the ointment"
+   },
+   {
+    "da": "salver",
+    "en": "ointments"
+   },
+   {
+    "da": "salverne",
+    "en": "the ointments"
+   }
+  ],
+  "related": [
+   {
+    "da": "en creme",
+    "en": "a cream"
+   },
+   {
+    "da": "et plaster",
+    "en": "a bandage"
+   },
+   {
+    "da": "en tablet",
+    "en": "a tablet"
+   },
+   {
+    "da": "et sår",
+    "en": "a wound"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen gav mig en **salve** til mit udslæt.",
+   "en": "The doctor gave me an ointment for my rash."
+  }
+ },
+ "en samlever": {
+  "file": "s.json",
+  "explanation": "\"En samlever\" means \"a live-in partner\", someone you live with as a couple, even if you are not married. The word comes from sammen (together) and at leve (to live).",
+  "forms": [
+   {
+    "da": "en samlever",
+    "en": "a live-in partner"
+   },
+   {
+    "da": "samleveren",
+    "en": "the live-in partner"
+   },
+   {
+    "da": "samlevere",
+    "en": "live-in partners"
+   },
+   {
+    "da": "samleverene",
+    "en": "the live-in partners"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ægtefælle",
+    "en": "a spouse"
+   },
+   {
+    "da": "en kæreste",
+    "en": "a boyfriend or girlfriend"
+   },
+   {
+    "da": "en forlovet",
+    "en": "a fiancé"
+   },
+   {
+    "da": "at bo sammen",
+    "en": "to live together"
+   }
+  ],
+  "sentence": {
+   "da": "Min **samlever** og jeg bor sammen, men vi er ikke gift.",
+   "en": "My partner and I live together, but we are not married."
+  }
+ },
+ "en samling": {
+  "file": "s.json",
+  "explanation": "\"En samling\" means \"a collection\", many things of one kind that you keep together, like stamps or books. In a kindergarten, \"samling\" is also the circle time when all the children gather.",
+  "forms": [
+   {
+    "da": "en samling",
+    "en": "a collection"
+   },
+   {
+    "da": "samlingen",
+    "en": "the collection"
+   },
+   {
+    "da": "samlinger",
+    "en": "collections"
+   },
+   {
+    "da": "samlingerne",
+    "en": "the collections"
+   }
+  ],
+  "related": [
+   {
+    "da": "at samle",
+    "en": "to collect"
+   },
+   {
+    "da": "en samler",
+    "en": "a collector"
+   },
+   {
+    "da": "et sæt",
+    "en": "a set"
+   },
+   {
+    "da": "en udstilling",
+    "en": "an exhibition"
+   }
+  ],
+  "sentence": {
+   "da": "Min onkel har en stor **samling** af gamle mønter.",
+   "en": "My uncle has a big collection of old coins."
+  }
+ },
+ "en sammenhæng": {
+  "file": "s.json",
+  "explanation": "\"En sammenhæng\" means \"a connection\", the way two things belong together. It also means context: \"i den sammenhæng\" (in that context).",
+  "forms": [
+   {
+    "da": "en sammenhæng",
+    "en": "a connection"
+   },
+   {
+    "da": "sammenhængen",
+    "en": "the connection"
+   },
+   {
+    "da": "sammenhænge",
+    "en": "connections"
+   },
+   {
+    "da": "sammenhængene",
+    "en": "the connections"
+   }
+  ],
+  "related": [
+   {
+    "da": "en årsag",
+    "en": "a cause"
+   },
+   {
+    "da": "en virkning",
+    "en": "an effect"
+   },
+   {
+    "da": "et forhold",
+    "en": "a relationship"
+   },
+   {
+    "da": "at hænge sammen",
+    "en": "to be connected"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en **sammenhæng** mellem rygning og lungesygdom.",
+   "en": "There is a link between smoking and lung disease."
+  }
+ },
+ "en sammenkomst": {
+  "file": "s.json",
+  "explanation": "\"En sammenkomst\" means \"a get-together\", a small gathering where people meet to talk, like a family afternoon or a work birthday. It is quieter than \"en fest\" (a party), often just talk and something to drink.",
+  "forms": [
+   {
+    "da": "en sammenkomst",
+    "en": "a get-together"
+   },
+   {
+    "da": "sammenkomsten",
+    "en": "the get-together"
+   },
+   {
+    "da": "sammenkomster",
+    "en": "get-togethers"
+   },
+   {
+    "da": "sammenkomsterne",
+    "en": "the get-togethers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et møde",
+    "en": "a meeting"
+   },
+   {
+    "da": "en reception",
+    "en": "a reception"
+   },
+   {
+    "da": "et arrangement",
+    "en": "an event"
+   },
+   {
+    "da": "en forsamling",
+    "en": "an assembly"
+   }
+  ],
+  "sentence": {
+   "da": "Vi drak kaffe og spiste kage til en **sammenkomst** hos mormor.",
+   "en": "We drank coffee and ate cake at a get-together at Grandma's."
+  }
+ },
+ "en sammenligning": {
+  "file": "s.json",
+  "explanation": "\"En sammenligning\" means \"a comparison\", looking at two things to see how they are alike or different. It is often used with \"mellem\" (between): \"en sammenligning mellem to byer\" (a comparison between two cities).",
+  "forms": [
+   {
+    "da": "en sammenligning",
+    "en": "a comparison"
+   },
+   {
+    "da": "sammenligningen",
+    "en": "the comparison"
+   },
+   {
+    "da": "sammenligninger",
+    "en": "comparisons"
+   },
+   {
+    "da": "sammenligningerne",
+    "en": "the comparisons"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sammenligne",
+    "en": "to compare"
+   },
+   {
+    "da": "en forskel",
+    "en": "a difference"
+   },
+   {
+    "da": "en lighed",
+    "en": "a similarity"
+   },
+   {
+    "da": "en modsætning",
+    "en": "an opposite"
+   }
+  ],
+  "sentence": {
+   "da": "I **sammenligning** med Sverige er Danmark et lille land.",
+   "en": "In comparison with Sweden, Denmark is a small country."
+  }
+ },
+ "en sammensværgelse": {
+  "file": "s.json",
+  "explanation": "\"En sammensværgelse\" means \"a conspiracy\", a plan made in hiding by a group of people to do something illegal or harmful, such as overthrowing a ruler.",
+  "forms": [
+   {
+    "da": "en sammensværgelse",
+    "en": "a conspiracy"
+   },
+   {
+    "da": "sammensværgelsen",
+    "en": "the conspiracy"
+   },
+   {
+    "da": "sammensværgelser",
+    "en": "conspiracies"
+   },
+   {
+    "da": "sammensværgelserne",
+    "en": "the conspiracies"
+   }
+  ],
+  "related": [
+   {
+    "da": "et komplot",
+    "en": "a plot"
+   },
+   {
+    "da": "en hemmelighed",
+    "en": "a secret"
+   },
+   {
+    "da": "en intrige",
+    "en": "an intrigue"
+   },
+   {
+    "da": "en sammensvoren",
+    "en": "a conspirator"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet afslørede en **sammensværgelse** mod kongen.",
+   "en": "The police uncovered a conspiracy against the king."
+  }
+ },
+ "en samtale": {
+  "file": "s.json",
+  "explanation": "\"En samtale\" means \"a conversation\". It is built from sam- (together) and tale (talk). With \"telefon\" (phone) in front, it is a phone call: \"en telefonsamtale\" (a phone call).",
+  "forms": [
+   {
+    "da": "en samtale",
+    "en": "a conversation"
+   },
+   {
+    "da": "samtalen",
+    "en": "the conversation"
+   },
+   {
+    "da": "samtaler",
+    "en": "conversations"
+   },
+   {
+    "da": "samtalerne",
+    "en": "the conversations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en diskussion",
+    "en": "a discussion"
+   },
+   {
+    "da": "at snakke",
+    "en": "to chat"
+   },
+   {
+    "da": "en dialog",
+    "en": "a dialogue"
+   }
+  ],
+  "sentence": {
+   "da": "To mennesker har en **samtale**, når de taler sammen.",
+   "en": "Two people have a conversation when they talk together."
+  }
+ },
+ "en samtaleøvelse": {
+  "file": "s.json",
+  "explanation": "\"En samtaleøvelse\" means \"a conversation exercise\", an exercise where learners talk to each other, often in pairs, to practice speaking. It is built from samtale (conversation) and øvelse (practice).",
+  "forms": [
+   {
+    "da": "en samtaleøvelse",
+    "en": "a conversation exercise"
+   },
+   {
+    "da": "samtaleøvelsen",
+    "en": "the conversation exercise"
+   },
+   {
+    "da": "samtaleøvelser",
+    "en": "conversation exercises"
+   },
+   {
+    "da": "samtaleøvelserne",
+    "en": "the conversation exercises"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dialog",
+    "en": "a dialogue"
+   },
+   {
+    "da": "et rollespil",
+    "en": "a role play"
+   },
+   {
+    "da": "en opgave",
+    "en": "an assignment"
+   },
+   {
+    "da": "en lektie",
+    "en": "homework"
+   }
+  ],
+  "sentence": {
+   "da": "I en **samtaleøvelse** taler vi sammen to og to.",
+   "en": "In a conversation exercise, we talk together in pairs."
+  }
+ },
+ "en samvittighed": {
+  "file": "s.json",
+  "explanation": "\"En samvittighed\" means \"a conscience\", the inner voice that tells you whether something you did is right or wrong. A clear one is \"en ren samvittighed\" (a clear conscience).",
+  "forms": [
+   {
+    "da": "en samvittighed",
+    "en": "a conscience"
+   },
+   {
+    "da": "samvittigheden",
+    "en": "the conscience"
+   },
+   {
+    "da": "samvittigheder",
+    "en": "consciences"
+   },
+   {
+    "da": "samvittighederne",
+    "en": "the consciences"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skyld",
+    "en": "guilt"
+   },
+   {
+    "da": "en moral",
+    "en": "morals"
+   },
+   {
+    "da": "en anger",
+    "en": "regret"
+   },
+   {
+    "da": "en pligtfølelse",
+    "en": "a sense of duty"
+   }
+  ],
+  "sentence": {
+   "da": "Hun fik dårlig **samvittighed** efter løgnen.",
+   "en": "She got a guilty conscience after the lie."
+  }
+ }
+}

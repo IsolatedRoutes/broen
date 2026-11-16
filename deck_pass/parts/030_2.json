@@ -1,0 +1,483 @@
+{
+ "hvordan": {
+  "explanation": "\"Hvordan\" means \"how\". To ask how old someone is, use \"hvor\" (how) before the word instead: \"Hvor gammel er du?\" (How old are you?) To ask how many, do the same: \"Hvor mange børn har du?\" (How many children do you have?)",
+  "related": [
+   {
+    "da": "hvorfor",
+    "en": "why"
+   },
+   {
+    "da": "hvad",
+    "en": "what"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   }
+  ]
+ },
+ "hvordan går det?": {
+  "explanation": "\"Hvordan går det?\" means \"How's it going?\". Literally, it is \"how goes it\". To ask the other person back after you answer, add \"og dig?\" (and you?): \"Det går godt, og dig?\" (It's going well, and you?)",
+  "related": [
+   {
+    "da": "hvordan har du det?",
+    "en": "how are you?"
+   },
+   {
+    "da": "det går ok",
+    "en": "it's going OK"
+   },
+   {
+    "da": "hvad så?",
+    "en": "what's up?"
+   }
+  ]
+ },
+ "hvordan har du det?": {
+  "explanation": "\"Hvordan har du det?\" means \"How are you?\". Literally, it is \"how have you it\". To answer, say \"Jeg har det godt\" (I'm doing well) or \"Fint, tak\" (Fine, thanks).",
+  "related": [
+   {
+    "da": "hvad så?",
+    "en": "what's up?"
+   },
+   {
+    "da": "hvad nyt?",
+    "en": "what's new?"
+   },
+   {
+    "da": "alt vel?",
+    "en": "all well?"
+   }
+  ]
+ },
+ "hvorefter": {
+  "explanation": "\"Hvorefter\" means \"after which\". It is built from \"hvor\" (which) and \"efter\" (after). To join two events in a simpler way, use \"og så\" (and then): \"Hun lukkede bogen, og så slukkede hun lyset\" (She closed the book, and then she turned off the light).",
+  "related": [
+   {
+    "da": "bagefter",
+    "en": "afterwards"
+   },
+   {
+    "da": "efterfølgende",
+    "en": "subsequently"
+   },
+   {
+    "da": "senere",
+    "en": "later"
+   },
+   {
+    "da": "før",
+    "en": "before"
+   }
+  ]
+ },
+ "hvorfor": {
+  "explanation": "\"Hvorfor\" means \"why\". To give a reason, start your answer with \"fordi\" (because): \"Hvorfor kommer du ikke?\" \"Fordi jeg er syg.\" (Why aren't you coming? Because I am sick.)",
+  "related": [
+   {
+    "da": "derfor",
+    "en": "therefore"
+   },
+   {
+    "da": "på grund af",
+    "en": "because of"
+   },
+   {
+    "da": "en grund",
+    "en": "a reason"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   }
+  ]
+ },
+ "hvorfra": {
+  "explanation": "\"Hvorfra\" means \"from where\". It is built from \"hvor\" (where) and \"fra\" (from). The word \"fra\" (from) also ends the question \"Hvor kommer du fra?\" (Where do you come from?)",
+  "related": [
+   {
+    "da": "hvordan",
+    "en": "how"
+   },
+   {
+    "da": "hvorfor",
+    "en": "why"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   },
+   {
+    "da": "derfra",
+    "en": "from there"
+   }
+  ]
+ },
+ "hvorimod": {
+  "explanation": "\"Hvorimod\" means \"whereas\". To contrast two statements, put it after a comma before the second one: \"Jeg drikker kaffe, hvorimod hun drikker te\" (I drink coffee, whereas she drinks tea). To say two things happen at the same time, use \"mens\" (while) instead: \"Jeg læser, mens du sover\" (I read while you sleep).",
+  "related": [
+   {
+    "da": "men",
+    "en": "but"
+   },
+   {
+    "da": "derimod",
+    "en": "by contrast"
+   },
+   {
+    "da": "til gengæld",
+    "en": "on the other hand"
+   },
+   {
+    "da": "imens",
+    "en": "meanwhile"
+   }
+  ]
+ },
+ "hvornår": {
+  "explanation": "\"Hvornår\" means \"when\" in a question. To say \"when\" in the middle of a sentence about the future, use \"når\" (when): \"Jeg ringer, når jeg kommer hjem\" (I will call when I get home). To say \"when\" about one finished event in the past, use \"da\" (when): \"Jeg var glad, da du kom\" (I was happy when you came).",
+  "related": [
+   {
+    "da": "hvordan",
+    "en": "how"
+   },
+   {
+    "da": "hvorfor",
+    "en": "why"
+   },
+   {
+    "da": "hvor",
+    "en": "where"
+   }
+  ]
+ },
+ "hvorved": {
+  "explanation": "\"Hvorved\" means \"whereby\". It is built from \"hvor\" (where) and \"ved\" (by). To introduce the result of an action, put it after a comma that follows the action: \"Han trykkede på knappen, hvorved døren gik op\" (He pressed the button, whereby the door opened).",
+  "related": [
+   {
+    "da": "derved",
+    "en": "thereby"
+   },
+   {
+    "da": "herved",
+    "en": "hereby"
+   },
+   {
+    "da": "hvormed",
+    "en": "with which"
+   },
+   {
+    "da": "hvortil",
+    "en": "to which"
+   }
+  ]
+ },
+ "hvorvidt": {
+  "explanation": "\"Hvorvidt\" means \"whether\". It sounds formal. In everyday speech, use \"om\" (whether): \"Jeg ved ikke, om han kommer\" (I do not know whether he is coming).",
+  "related": [
+   {
+    "da": "uanset",
+    "en": "regardless"
+   },
+   {
+    "da": "i tvivl",
+    "en": "in doubt"
+   },
+   {
+    "da": "hvorledes",
+    "en": "how"
+   },
+   {
+    "da": "et spørgsmål",
+    "en": "a question"
+   }
+  ]
+ },
+ "hygge": {
+  "explanation": "\"Hygge\" means \"cozy\". It is a Danish idea of a warm, relaxed time with other people, candles and food. To say you are having a cozy time, use \"at hygge sig\" (to have a cozy time): \"Vi hygger os\" (We are having a cozy time).",
+  "related": [
+   {
+    "da": "hyggelig",
+    "en": "cozy / nice"
+   },
+   {
+    "da": "mysig",
+    "en": "snug / cozy"
+   },
+   {
+    "da": "en stemning",
+    "en": "an atmosphere"
+   }
+  ]
+ },
+ "hyggelig": {
+  "explanation": "\"Hyggelig\" means \"cozy\". It comes from \"hygge\" (a cozy time). To say a person is nice to be around, use it too: \"Han er hyggelig\" (He is nice to be around).",
+  "related": [
+   {
+    "da": "dejlig",
+    "en": "lovely"
+   },
+   {
+    "da": "rar",
+    "en": "nice"
+   },
+   {
+    "da": "kedelig",
+    "en": "boring"
+   },
+   {
+    "da": "venlig",
+    "en": "friendly"
+   }
+  ]
+ },
+ "hyggeligt at møde dig": {
+  "explanation": "\"Hyggeligt at møde dig\" means \"nice to meet you\". Literally, it is \"cozy to meet you\". To reply, say \"i lige måde\" (likewise).",
+  "related": [
+   {
+    "da": "hygge",
+    "en": "coziness"
+   },
+   {
+    "da": "hyggelig",
+    "en": "cozy / nice"
+   },
+   {
+    "da": "rart at møde dig",
+    "en": "pleased to meet you"
+   }
+  ]
+ },
+ "hyppig": {
+  "explanation": "\"Hyppig\" means \"frequent\". To describe how someone does something, use \"hyppigt\" (frequently): \"Han besøger os hyppigt\" (He visits us frequently).",
+  "related": [
+   {
+    "da": "ofte",
+    "en": "often"
+   },
+   {
+    "da": "sjælden",
+    "en": "rare"
+   },
+   {
+    "da": "regelmæssig",
+    "en": "regular"
+   },
+   {
+    "da": "almindelig",
+    "en": "common"
+   }
+  ]
+ },
+ "hysterisk": {
+  "explanation": "\"Hysterisk\" means \"hysterical\". To say something is extremely funny, put it before \"sjov\" (funny): \"hysterisk sjov\" (hilariously funny).",
+  "related": [
+   {
+    "da": "panisk",
+    "en": "panicky"
+   },
+   {
+    "da": "en hysteri",
+    "en": "hysteria"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "overdreven",
+    "en": "exaggerated"
+   }
+  ]
+ },
+ "hytteost": {
+  "explanation": "\"Hytteost\" means \"cottage cheese\". It is built from \"hytte\" (cottage) and \"ost\" (cheese). The word \"ost\" also ends \"smøreost\" (cheese you spread on bread).",
+  "related": [
+   {
+    "da": "kvark",
+    "en": "quark"
+   },
+   {
+    "da": "skyr",
+    "en": "skyr"
+   },
+   {
+    "da": "flødeost",
+    "en": "cream cheese"
+   }
+  ]
+ },
+ "håb": {
+  "explanation": "\"Håb\" means \"a hope\". To say you hope for something, use the verb \"at håbe\" (to hope): \"Jeg håber, det virker\" (I hope it works).",
+  "related": [
+   {
+    "da": "håbløs",
+    "en": "hopeless"
+   },
+   {
+    "da": "et ønske",
+    "en": "a wish"
+   },
+   {
+    "da": "optimistisk",
+    "en": "optimistic"
+   },
+   {
+    "da": "en drøm",
+    "en": "a dream"
+   }
+  ]
+ },
+ "håbefuld": {
+  "explanation": "\"Håbefuld\" means \"hopeful\". It is built from \"håb\" (hope) and the ending \"-fuld\" (full of). The same ending is in \"smertefuld\" (painful).",
+  "related": [
+   {
+    "da": "håbløs",
+    "en": "hopeless"
+   },
+   {
+    "da": "optimistisk",
+    "en": "optimistic"
+   },
+   {
+    "da": "forventningsfuld",
+    "en": "expectant"
+   },
+   {
+    "da": "positiv",
+    "en": "positive"
+   }
+  ]
+ },
+ "håbløs": {
+  "explanation": "\"Håbløs\" means \"hopeless\". The ending \"-løs\" means \"without\", as in \"hjemløs\" (homeless). To say you are very bad at something, use it too: \"Jeg er håbløs til matematik\" (I am hopeless at math).",
+  "related": [
+   {
+    "da": "forgæves",
+    "en": "in vain"
+   },
+   {
+    "da": "desperat",
+    "en": "desperate"
+   },
+   {
+    "da": "håbefuld",
+    "en": "hopeful"
+   },
+   {
+    "da": "umulig",
+    "en": "impossible"
+   }
+  ]
+ },
+ "håndbagage": {
+  "explanation": "\"Håndbagage\" means \"carry-on luggage\". It is built from \"hånd\" (hand) and \"bagage\" (luggage). For the bags you hand in at check-in, say \"indchecket bagage\" (checked luggage): \"Jeg har to stykker indchecket bagage\" (I have two pieces of checked luggage).",
+  "related": [
+   {
+    "da": "en kuffert",
+    "en": "a suitcase"
+   },
+   {
+    "da": "en rygsæk",
+    "en": "a backpack"
+   },
+   {
+    "da": "en taske",
+    "en": "a bag"
+   }
+  ]
+ },
+ "håndbold": {
+  "explanation": "\"Håndbold\" means \"handball\". It is built from \"hånd\" (hand) and \"bold\" (ball). To talk about the sport, leave out the article: \"Jeg spiller håndbold\" (I play handball). To talk about the ball, use \"en håndbold\" (a handball): \"Jeg kaster en håndbold\" (I throw a handball).",
+  "related": [
+   {
+    "da": "fodbold",
+    "en": "soccer"
+   },
+   {
+    "da": "basketball",
+    "en": "basketball"
+   },
+   {
+    "da": "badminton",
+    "en": "badminton"
+   }
+  ]
+ },
+ "hår": {
+  "explanation": "\"Hår\" means \"a hair\". Without an article, it means the hair on a head: \"Jeg vasker mit hår\" (I wash my hair). It starts other words, such as \"hårfarve\" (hair color).",
+  "related": [
+   {
+    "da": "hård",
+    "en": "hard"
+   },
+   {
+    "da": "en hårbørste",
+    "en": "a hairbrush"
+   },
+   {
+    "da": "en hårtørrer",
+    "en": "a hair dryer"
+   }
+  ]
+ },
+ "hård": {
+  "explanation": "\"Hård\" means \"hard\", as in firm and not soft. To say a job is tough, use it too: \"et hårdt job\" (a tough job). For \"hard\" meaning \"difficult\", use \"svær\" (difficult) instead: \"en svær opgave\" (a difficult task).",
+  "related": [
+   {
+    "da": "blød",
+    "en": "soft"
+   },
+   {
+    "da": "hår",
+    "en": "hair"
+   },
+   {
+    "da": "fast",
+    "en": "firm"
+   }
+  ]
+ },
+ "hårdhudet": {
+  "explanation": "\"Hårdhudet\" means \"thick-skinned\". It is built from \"hård\" (hard) and \"hud\" (skin), with the ending \"-et\".",
+  "related": [
+   {
+    "da": "nærtagende",
+    "en": "touchy"
+   },
+   {
+    "da": "følsom",
+    "en": "sensitive"
+   },
+   {
+    "da": "sårbar",
+    "en": "vulnerable"
+   },
+   {
+    "da": "benhård",
+    "en": "tough as nails"
+   }
+  ]
+ },
+ "hævet": {
+  "explanation": "\"Hævet\" means \"swollen\". It comes from the verb \"at hæve\" (to raise). To say dough has risen, use the same word: \"hævet dej\" (risen dough).",
+  "related": [
+   {
+    "da": "en hævelse",
+    "en": "a swelling"
+   },
+   {
+    "da": "betændt",
+    "en": "inflamed"
+   },
+   {
+    "da": "opsvulmet",
+    "en": "puffed up"
+   },
+   {
+    "da": "at svulme",
+    "en": "to swell"
+   }
+  ]
+ }
+}

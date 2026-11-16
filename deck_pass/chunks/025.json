@@ -1,0 +1,4006 @@
+{
+ "en gås": {
+  "file": "g.json",
+  "explanation": "\"En gås\" means \"a goose\", a big bird with a long neck that flies in groups. The meat is also eaten: \"gåsesteg\" (roast goose).",
+  "forms": [
+   {
+    "da": "en gås",
+    "en": "a goose"
+   },
+   {
+    "da": "gåsen",
+    "en": "the goose"
+   },
+   {
+    "da": "gæs",
+    "en": "geese"
+   },
+   {
+    "da": "gæssene",
+    "en": "the geese"
+   }
+  ],
+  "related": [
+   {
+    "da": "en and",
+    "en": "a duck"
+   },
+   {
+    "da": "en vildgås",
+    "en": "a wild goose"
+   },
+   {
+    "da": "en gase",
+    "en": "a gander"
+   },
+   {
+    "da": "en svane",
+    "en": "a swan"
+   }
+  ],
+  "sentence": {
+   "da": "En **gås** er en stor fugl og bor ved vandet.",
+   "en": "A goose is a big bird and lives by the water."
+  }
+ },
+ "en gåtur": {
+  "file": "g.json",
+  "explanation": "\"En gåtur\" means \"a walk\". It is built from gå (walk) and tur (trip). You say \"at gå en tur\" or \"at tage på gåtur\", both meaning \"to go for a walk\".",
+  "forms": [
+   {
+    "da": "en gåtur",
+    "en": "a walk"
+   },
+   {
+    "da": "gåturen",
+    "en": "the walk"
+   },
+   {
+    "da": "gåture",
+    "en": "walks"
+   },
+   {
+    "da": "gåturene",
+    "en": "the walks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en cykeltur",
+    "en": "a bike ride"
+   },
+   {
+    "da": "en vandretur",
+    "en": "a hike"
+   },
+   {
+    "da": "en spadseretur",
+    "en": "a stroll"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager på **gåtur** i skoven.",
+   "en": "We go for a walk in the forest."
+  }
+ },
+ "en gæld": {
+  "file": "g.json",
+  "explanation": "\"En gæld\" means \"a debt\", money you owe to a person or a bank. It is mostly used without \"en\": \"Hun har ingen gæld\" (She has no debt).",
+  "forms": [
+   {
+    "da": "en gæld",
+    "en": "a debt"
+   },
+   {
+    "da": "gælden",
+    "en": "the debt"
+   },
+   {
+    "da": "stor gæld",
+    "en": "large debt"
+   },
+   {
+    "da": "at betale gælden af",
+    "en": "to pay off the debt"
+   }
+  ],
+  "related": [
+   {
+    "da": "et lån",
+    "en": "a loan"
+   },
+   {
+    "da": "en skyldner",
+    "en": "a debtor"
+   },
+   {
+    "da": "en kreditor",
+    "en": "a creditor"
+   },
+   {
+    "da": "at låne",
+    "en": "to borrow"
+   }
+  ],
+  "sentence": {
+   "da": "Efter huskøbet har de **gæld** til banken.",
+   "en": "After buying the house, they have debt to the bank."
+  }
+ },
+ "en gæst": {
+  "file": "g.json",
+  "explanation": "\"En gæst\" means \"a guest\", for visitors in your home and also for hotel guests: \"Vi får gæster\" (We are having guests).",
+  "forms": [
+   {
+    "da": "en gæst",
+    "en": "a guest"
+   },
+   {
+    "da": "gæsten",
+    "en": "the guest"
+   },
+   {
+    "da": "gæster",
+    "en": "guests"
+   },
+   {
+    "da": "gæsterne",
+    "en": "the guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vært",
+    "en": "a host"
+   },
+   {
+    "da": "et besøg",
+    "en": "a visit"
+   },
+   {
+    "da": "at besøge",
+    "en": "to visit"
+   }
+  ],
+  "sentence": {
+   "da": "Vi laver mad til vores **gæst**.",
+   "en": "We cook for our guest."
+  }
+ },
+ "en gætteleg": {
+  "file": "g.json",
+  "explanation": "\"En gætteleg\" means \"a guessing game\". It is built from at gætte (to guess) and leg (game). \"Leg\" also gives \"at lege\" (to play).",
+  "forms": [
+   {
+    "da": "en gætteleg",
+    "en": "a guessing game"
+   },
+   {
+    "da": "gættelegen",
+    "en": "the guessing game"
+   },
+   {
+    "da": "gættelege",
+    "en": "guessing games"
+   },
+   {
+    "da": "gættelegene",
+    "en": "the guessing games"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gåde",
+    "en": "a riddle"
+   },
+   {
+    "da": "en quiz",
+    "en": "a quiz"
+   },
+   {
+    "da": "et brætspil",
+    "en": "a board game"
+   },
+   {
+    "da": "et ordspil",
+    "en": "a word game"
+   }
+  ],
+  "sentence": {
+   "da": "I en **gætteleg** skal du gætte svaret.",
+   "en": "In a guessing game, you have to guess the answer."
+  }
+ },
+ "et gab": {
+  "file": "g.json",
+  "explanation": "\"Et gab\" means \"a yawn\", the wide open mouth you make when you are tired or bored. The same word also names the wide open mouth of a big animal, such as a lion's.",
+  "forms": [
+   {
+    "da": "et gab",
+    "en": "a yawn"
+   },
+   {
+    "da": "gabet",
+    "en": "the yawn"
+   },
+   {
+    "da": "gab",
+    "en": "yawns"
+   },
+   {
+    "da": "gabene",
+    "en": "the yawns"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gabe",
+    "en": "to yawn"
+   },
+   {
+    "da": "at snorke",
+    "en": "to snore"
+   },
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   },
+   {
+    "da": "at strække sig",
+    "en": "to stretch"
+   }
+  ],
+  "sentence": {
+   "da": "Han skjuler et **gab** bag hånden, fordi mødet er så langt.",
+   "en": "He hides a yawn behind his hand because the meeting is so long."
+  }
+ },
+ "et gadekryds": {
+  "file": "g.json",
+  "explanation": "\"Et gadekryds\" means \"an intersection\", where two streets cross. It is built from en gade (a street) and et kryds (a cross). \"Kryds\" also means a cross mark: \"Sæt et kryds her\" (Put a cross here).",
+  "forms": [
+   {
+    "da": "et gadekryds",
+    "en": "an intersection"
+   },
+   {
+    "da": "gadekrydset",
+    "en": "the intersection"
+   },
+   {
+    "da": "gadekryds",
+    "en": "intersections"
+   },
+   {
+    "da": "gadekrydsene",
+    "en": "the intersections"
+   }
+  ],
+  "related": [
+   {
+    "da": "et vejkryds",
+    "en": "a road intersection"
+   },
+   {
+    "da": "et hjørne",
+    "en": "a corner"
+   },
+   {
+    "da": "et lyskryds",
+    "en": "an intersection with traffic lights"
+   },
+   {
+    "da": "en rundkørsel",
+    "en": "a roundabout"
+   }
+  ],
+  "sentence": {
+   "da": "Drej til højre ved næste **gadekryds**.",
+   "en": "Turn right at the next intersection."
+  }
+ },
+ "et galleri": {
+  "file": "g.json",
+  "explanation": "\"Et galleri\" means \"a gallery\", a place that shows art, often for sale.",
+  "forms": [
+   {
+    "da": "et galleri",
+    "en": "a gallery"
+   },
+   {
+    "da": "galleriet",
+    "en": "the gallery"
+   },
+   {
+    "da": "gallerier",
+    "en": "galleries"
+   },
+   {
+    "da": "gallerierne",
+    "en": "the galleries"
+   }
+  ],
+  "related": [
+   {
+    "da": "et museum",
+    "en": "a museum"
+   },
+   {
+    "da": "en udstilling",
+    "en": "an exhibition"
+   },
+   {
+    "da": "en kunstner",
+    "en": "an artist"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ser på kunst i et lille **galleri**.",
+   "en": "We look at art in a small gallery."
+  }
+ },
+ "et gardin": {
+  "file": "g.json",
+  "explanation": "\"Et gardin\" means \"a curtain\", hung at a window. To close it, say \"at trække for\" (to draw): \"Hun trækker gardinerne for\" (She closes the curtains).",
+  "forms": [
+   {
+    "da": "et gardin",
+    "en": "a curtain"
+   },
+   {
+    "da": "gardinet",
+    "en": "the curtain"
+   },
+   {
+    "da": "gardiner",
+    "en": "curtains"
+   },
+   {
+    "da": "gardinerne",
+    "en": "the curtains"
+   }
+  ],
+  "related": [
+   {
+    "da": "et rullegardin",
+    "en": "a roller blind"
+   },
+   {
+    "da": "en persienne",
+    "en": "a blind"
+   },
+   {
+    "da": "et forhæng",
+    "en": "a drape"
+   }
+  ],
+  "sentence": {
+   "da": "Et **gardin** hænger foran vinduet og holder lyset ude.",
+   "en": "A curtain hangs in front of the window and keeps the light out."
+  }
+ },
+ "et gavekort": {
+  "file": "g.json",
+  "explanation": "\"Et gavekort\" means \"a gift card\", a card with money on it that you give as a present. It is made of en gave (a gift) and et kort (a card).",
+  "forms": [
+   {
+    "da": "et gavekort",
+    "en": "a gift card"
+   },
+   {
+    "da": "gavekortet",
+    "en": "the gift card"
+   },
+   {
+    "da": "gavekort",
+    "en": "gift cards"
+   },
+   {
+    "da": "gavekortene",
+    "en": "the gift cards"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fødselsdagskort",
+    "en": "a birthday card"
+   },
+   {
+    "da": "en gaveæske",
+    "en": "a gift box"
+   },
+   {
+    "da": "et kreditkort",
+    "en": "a credit card"
+   }
+  ],
+  "sentence": {
+   "da": "Med et **gavekort** kan man købe ting.",
+   "en": "With a gift card you can buy things."
+  }
+ },
+ "et gear": {
+  "file": "g.json",
+  "explanation": "\"Et gear\" means \"a gear\", one of the settings on a car or a bike that you shift between to go faster or climb hills.",
+  "forms": [
+   {
+    "da": "et gear",
+    "en": "a gear"
+   },
+   {
+    "da": "gearet",
+    "en": "the gear"
+   },
+   {
+    "da": "gear",
+    "en": "gears"
+   },
+   {
+    "da": "gearene",
+    "en": "the gears"
+   }
+  ],
+  "related": [
+   {
+    "da": "en speeder",
+    "en": "an accelerator"
+   },
+   {
+    "da": "en bremse",
+    "en": "a brake"
+   },
+   {
+    "da": "en kobling",
+    "en": "a clutch"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skifter **gear**, når vejen går opad.",
+   "en": "I shift gears when the road goes uphill."
+  }
+ },
+ "et gebyr": {
+  "file": "g.json",
+  "explanation": "\"Et gebyr\" means \"a fee\", an amount you pay to a bank, an authority or a company for a service, or for being late: \"et rykkergebyr\" (a reminder fee).",
+  "forms": [
+   {
+    "da": "et gebyr",
+    "en": "a fee"
+   },
+   {
+    "da": "gebyret",
+    "en": "the fee"
+   },
+   {
+    "da": "gebyrer",
+    "en": "fees"
+   },
+   {
+    "da": "gebyrerne",
+    "en": "the fees"
+   }
+  ],
+  "related": [
+   {
+    "da": "en afgift",
+    "en": "a levy"
+   },
+   {
+    "da": "et honorar",
+    "en": "a professional fee"
+   },
+   {
+    "da": "en takst",
+    "en": "a rate"
+   },
+   {
+    "da": "en bøde",
+    "en": "a fine"
+   }
+  ],
+  "sentence": {
+   "da": "Banken tager et **gebyr** på halvtreds kroner for hver overførsel.",
+   "en": "The bank charges a fee of fifty kroner for each transfer."
+  }
+ },
+ "et gen": {
+  "file": "g.json",
+  "explanation": "\"Et gen\" means \"a gene\", a tiny unit inside the body that carries instructions passed from parents to children, for example for eye color. Danes also say \"Det ligger i generne\" (It runs in the family), literally \"It lies in the genes\".",
+  "forms": [
+   {
+    "da": "et gen",
+    "en": "a gene"
+   },
+   {
+    "da": "genet",
+    "en": "the gene"
+   },
+   {
+    "da": "gener",
+    "en": "genes"
+   },
+   {
+    "da": "generne",
+    "en": "the genes"
+   }
+  ],
+  "related": [
+   {
+    "da": "DNA",
+    "en": "DNA"
+   },
+   {
+    "da": "et kromosom",
+    "en": "a chromosome"
+   },
+   {
+    "da": "en arv",
+    "en": "heredity"
+   },
+   {
+    "da": "en celle",
+    "en": "a cell"
+   }
+  ],
+  "sentence": {
+   "da": "Hvert **gen** bærer instruktioner om, hvordan kroppen skal bygges.",
+   "en": "Each gene carries instructions about how the body is built."
+  }
+ },
+ "et geni": {
+  "file": "g.json",
+  "explanation": "\"Et geni\" means \"a genius\", a person with a brilliant mind. To name the subject a person is brilliant at, use \"i\" (in) or \"til\" (at): \"Hun er et geni i matematik\" (She is a genius at math).",
+  "forms": [
+   {
+    "da": "et geni",
+    "en": "a genius"
+   },
+   {
+    "da": "geniet",
+    "en": "the genius"
+   },
+   {
+    "da": "genier",
+    "en": "geniuses"
+   },
+   {
+    "da": "genierne",
+    "en": "the geniuses"
+   }
+  ],
+  "related": [
+   {
+    "da": "klog",
+    "en": "smart"
+   },
+   {
+    "da": "begavet",
+    "en": "gifted"
+   },
+   {
+    "da": "dum",
+    "en": "stupid"
+   },
+   {
+    "da": "en ekspert",
+    "en": "an expert"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror er et **geni** til matematik.",
+   "en": "My brother is a genius at math."
+  }
+ },
+ "et gennembrud": {
+  "file": "g.json",
+  "explanation": "\"Et gennembrud\" means \"a breakthrough\", a big step forward that comes after a long period of effort, in science, sport or a career. For an artist, it is the moment they become well known: \"Hendes gennembrud kom i 2010\" (Her breakthrough came in 2010).",
+  "forms": [
+   {
+    "da": "et gennembrud",
+    "en": "a breakthrough"
+   },
+   {
+    "da": "gennembruddet",
+    "en": "the breakthrough"
+   },
+   {
+    "da": "gennembrud",
+    "en": "breakthroughs"
+   },
+   {
+    "da": "gennembruddene",
+    "en": "the breakthroughs"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bryde igennem",
+    "en": "to break through"
+   },
+   {
+    "da": "et fremskridt",
+    "en": "progress"
+   },
+   {
+    "da": "en opdagelse",
+    "en": "a discovery"
+   },
+   {
+    "da": "et tilbageslag",
+    "en": "a setback"
+   }
+  ],
+  "sentence": {
+   "da": "Efter mange års arbejde fik forskerne endelig et **gennembrud**.",
+   "en": "After many years of work, the researchers finally got a breakthrough."
+  }
+ },
+ "et gennemsnit": {
+  "file": "g.json",
+  "explanation": "\"Et gennemsnit\" means \"an average\", the number you get by adding a list of numbers and dividing by how many there are. Danes also use it for what is typical: \"over gennemsnittet\" (above average).",
+  "forms": [
+   {
+    "da": "et gennemsnit",
+    "en": "an average"
+   },
+   {
+    "da": "gennemsnittet",
+    "en": "the average"
+   },
+   {
+    "da": "gennemsnit",
+    "en": "averages"
+   },
+   {
+    "da": "gennemsnittene",
+    "en": "the averages"
+   }
+  ],
+  "related": [
+   {
+    "da": "gennemsnitlig",
+    "en": "average"
+   },
+   {
+    "da": "et middeltal",
+    "en": "a mean"
+   },
+   {
+    "da": "almindelig",
+    "en": "ordinary"
+   },
+   {
+    "da": "et tal",
+    "en": "a number"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sover syv timer i **gennemsnit**.",
+   "en": "I sleep seven hours on average."
+  }
+ },
+ "et gerningssted": {
+  "file": "g.json",
+  "explanation": "\"Et gerningssted\" means \"a crime scene\", the place where a crime happened. The police close it off with tape and search it carefully, so nobody disturbs the evidence.",
+  "forms": [
+   {
+    "da": "et gerningssted",
+    "en": "a crime scene"
+   },
+   {
+    "da": "gerningsstedet",
+    "en": "the crime scene"
+   },
+   {
+    "da": "gerningssteder",
+    "en": "crime scenes"
+   },
+   {
+    "da": "gerningsstederne",
+    "en": "the crime scenes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gerningsmand",
+    "en": "a perpetrator"
+   },
+   {
+    "da": "et vidne",
+    "en": "a witness"
+   },
+   {
+    "da": "en efterforskning",
+    "en": "an investigation"
+   },
+   {
+    "da": "et spor",
+    "en": "a trace"
+   }
+  ],
+  "sentence": {
+   "da": "Det sted, hvor en forbrydelse er sket, kaldes et **gerningssted**.",
+   "en": "The place where a crime has happened is called a crime scene."
+  }
+ },
+ "et gevir": {
+  "file": "g.json",
+  "explanation": "\"Et gevir\" means \"a set of antlers\", the branched bony growth on the head of a stag.",
+  "forms": [
+   {
+    "da": "et gevir",
+    "en": "a set of antlers"
+   },
+   {
+    "da": "geviret",
+    "en": "the set of antlers"
+   },
+   {
+    "da": "gevirer",
+    "en": "sets of antlers"
+   },
+   {
+    "da": "gevirerne",
+    "en": "the sets of antlers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et horn",
+    "en": "a horn"
+   },
+   {
+    "da": "en elg",
+    "en": "a moose"
+   },
+   {
+    "da": "et rensdyr",
+    "en": "a reindeer"
+   },
+   {
+    "da": "en kronhjort",
+    "en": "a red deer"
+   }
+  ],
+  "sentence": {
+   "da": "Hjorten har et stort **gevir** med mange spidser.",
+   "en": "The deer has a large set of antlers with many points."
+  }
+ },
+ "et gevær": {
+  "file": "g.json",
+  "explanation": "\"Et gevær\" means \"a rifle\", a long gun that you hold against your shoulder when you fire it, used for hunting and by soldiers. A small gun held in one hand is \"en pistol\" (a pistol).",
+  "forms": [
+   {
+    "da": "et gevær",
+    "en": "a rifle"
+   },
+   {
+    "da": "geværet",
+    "en": "the rifle"
+   },
+   {
+    "da": "geværer",
+    "en": "rifles"
+   },
+   {
+    "da": "geværerne",
+    "en": "the rifles"
+   }
+  ],
+  "related": [
+   {
+    "da": "et haglgevær",
+    "en": "a shotgun"
+   },
+   {
+    "da": "en kugle",
+    "en": "a bullet"
+   },
+   {
+    "da": "et skydevåben",
+    "en": "a firearm"
+   }
+  ],
+  "sentence": {
+   "da": "Jægeren sigter omhyggeligt, før han skyder med sit **gevær**.",
+   "en": "The hunter aims carefully before he shoots with his rifle."
+  }
+ },
+ "et gidsel": {
+  "file": "g.json",
+  "explanation": "\"Et gidsel\" means \"a hostage\", a person who is held by someone who wants something in return. You say \"at tage nogen som gidsel\" (to take someone hostage).",
+  "forms": [
+   {
+    "da": "et gidsel",
+    "en": "a hostage"
+   },
+   {
+    "da": "gidslet",
+    "en": "the hostage"
+   },
+   {
+    "da": "gidsler",
+    "en": "hostages"
+   },
+   {
+    "da": "gidslerne",
+    "en": "the hostages"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kidnapper",
+    "en": "a kidnapper"
+   },
+   {
+    "da": "en løsesum",
+    "en": "a ransom"
+   },
+   {
+    "da": "en fange",
+    "en": "a prisoner"
+   },
+   {
+    "da": "en bortførelse",
+    "en": "an abduction"
+   }
+  ],
+  "sentence": {
+   "da": "Bankrøveren holder et **gidsel**, og politiet forhandler med ham.",
+   "en": "The bank robber is holding a hostage, and the police are negotiating with him."
+  }
+ },
+ "et glas": {
+  "file": "g.json",
+  "explanation": "\"Et glas\" means \"a glass\", both the material and a drinking glass. Danish has no word for \"of\" here: \"et glas vand\" (a glass of water) and \"et glas vin\" (a glass of wine).",
+  "forms": [
+   {
+    "da": "et glas",
+    "en": "a glass"
+   },
+   {
+    "da": "glasset",
+    "en": "the glass"
+   },
+   {
+    "da": "glas",
+    "en": "glasses"
+   },
+   {
+    "da": "glassene",
+    "en": "the glasses"
+   }
+  ],
+  "related": [
+   {
+    "da": "et vandglas",
+    "en": "a water glass"
+   },
+   {
+    "da": "et vinglas",
+    "en": "a wine glass"
+   },
+   {
+    "da": "en kop",
+    "en": "a cup"
+   }
+  ],
+  "sentence": {
+   "da": "Man drikker vand af et **glas**.",
+   "en": "You drink water from a glass."
+  }
+ },
+ "et glimt": {
+  "file": "g.json",
+  "explanation": "\"Et glimt\" means \"a glimpse\" and \"a gleam\": a very short sight of something, or a brief flash of light. A playful look in someone's eye is \"et glimt i øjet\" (a twinkle in the eye).",
+  "forms": [
+   {
+    "da": "et glimt",
+    "en": "a glimpse"
+   },
+   {
+    "da": "glimtet",
+    "en": "the glimpse"
+   },
+   {
+    "da": "glimt",
+    "en": "glimpses"
+   },
+   {
+    "da": "glimtene",
+    "en": "the glimpses"
+   }
+  ],
+  "related": [
+   {
+    "da": "at glimte",
+    "en": "to glint"
+   },
+   {
+    "da": "et blink",
+    "en": "a blink"
+   },
+   {
+    "da": "et lyn",
+    "en": "a bolt of lightning"
+   },
+   {
+    "da": "at skimte",
+    "en": "to make out faintly"
+   }
+  ],
+  "sentence": {
+   "da": "Hun fik et **glimt** af solen mellem skyerne.",
+   "en": "She got a glimpse of the sun between the clouds."
+  }
+ },
+ "et gram": {
+  "file": "g.json",
+  "explanation": "\"Et gram\" means \"a gram\", a unit of weight used for small amounts, such as flour or spices.",
+  "forms": [
+   {
+    "da": "et gram",
+    "en": "a gram"
+   },
+   {
+    "da": "grammet",
+    "en": "the gram"
+   },
+   {
+    "da": "gram",
+    "en": "grams"
+   },
+   {
+    "da": "grammene",
+    "en": "the grams"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kilo",
+    "en": "a kilo"
+   },
+   {
+    "da": "en liter",
+    "en": "a liter"
+   },
+   {
+    "da": "et pund",
+    "en": "a pound (500 g)"
+   },
+   {
+    "da": "en deciliter",
+    "en": "a deciliter"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal bruge to hundrede **gram** mel.",
+   "en": "I need two hundred grams of flour."
+  }
+ },
+ "et grin": {
+  "file": "g.json",
+  "explanation": "\"Et grin\" means \"a laugh\" or \"a grin\". For a smile, say \"et smil\" (a smile).",
+  "forms": [
+   {
+    "da": "et grin",
+    "en": "a laugh"
+   },
+   {
+    "da": "grinet",
+    "en": "the laugh"
+   },
+   {
+    "da": "grin",
+    "en": "laughs"
+   },
+   {
+    "da": "grinene",
+    "en": "the laughs"
+   }
+  ],
+  "related": [
+   {
+    "da": "at grine",
+    "en": "to laugh"
+   },
+   {
+    "da": "at le",
+    "en": "to laugh"
+   },
+   {
+    "da": "en latter",
+    "en": "laughter"
+   }
+  ],
+  "sentence": {
+   "da": "Vi fik et godt **grin** sammen i går.",
+   "en": "We had a good laugh together yesterday."
+  }
+ },
+ "et grundlag": {
+  "file": "g.json",
+  "explanation": "\"Et grundlag\" means \"a basis\", the base that something rests on, such as a decision, a law or an argument. A common phrase is \"et solidt grundlag\" (a solid basis).",
+  "forms": [
+   {
+    "da": "et grundlag",
+    "en": "a basis"
+   },
+   {
+    "da": "grundlaget",
+    "en": "the basis"
+   },
+   {
+    "da": "grundlag",
+    "en": "bases"
+   },
+   {
+    "da": "grundlagene",
+    "en": "the bases"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fundament",
+    "en": "a foundation"
+   },
+   {
+    "da": "en forudsætning",
+    "en": "a precondition"
+   },
+   {
+    "da": "en baggrund",
+    "en": "a background"
+   }
+  ],
+  "sentence": {
+   "da": "Aftalen blev det **grundlag**, som resten af planen byggede på.",
+   "en": "The agreement became the basis that the rest of the plan was built on."
+  }
+ },
+ "et grundstof": {
+  "file": "g.json",
+  "explanation": "\"Et grundstof\" means \"a chemical element\", a pure material that chemistry cannot break down into anything simpler, such as \"ilt\" (oxygen) or \"jern\" (iron). All other materials are made by combining these.",
+  "forms": [
+   {
+    "da": "et grundstof",
+    "en": "a chemical element"
+   },
+   {
+    "da": "grundstoffet",
+    "en": "the chemical element"
+   },
+   {
+    "da": "grundstoffer",
+    "en": "chemical elements"
+   },
+   {
+    "da": "grundstofferne",
+    "en": "the chemical elements"
+   }
+  ],
+  "related": [
+   {
+    "da": "et atom",
+    "en": "an atom"
+   },
+   {
+    "da": "et molekyle",
+    "en": "a molecule"
+   },
+   {
+    "da": "en forbindelse",
+    "en": "a compound"
+   },
+   {
+    "da": "et metal",
+    "en": "a metal"
+   }
+  ],
+  "sentence": {
+   "da": "Guld er et **grundstof**, som ikke kan deles i noget enklere.",
+   "en": "Gold is an element that cannot be split into anything simpler."
+  }
+ },
+ "et gudbarn": {
+  "file": "g.json",
+  "explanation": "\"Et gudbarn\" means \"a godchild\", a child you are a godparent to.",
+  "forms": [
+   {
+    "da": "et gudbarn",
+    "en": "a godchild"
+   },
+   {
+    "da": "gudbarnet",
+    "en": "the godchild"
+   },
+   {
+    "da": "gudbørn",
+    "en": "godchildren"
+   },
+   {
+    "da": "gudbørnene",
+    "en": "the godchildren"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gudmor",
+    "en": "a godmother"
+   },
+   {
+    "da": "en gudfar",
+    "en": "a godfather"
+   },
+   {
+    "da": "en dåb",
+    "en": "a christening"
+   },
+   {
+    "da": "et barnebarn",
+    "en": "a grandchild"
+   }
+  ],
+  "sentence": {
+   "da": "Mit **gudbarn** fylder fem år i dag.",
+   "en": "My godchild turns five today."
+  }
+ },
+ "et guldbryllup": {
+  "file": "g.json",
+  "explanation": "\"Et guldbryllup\" means \"a golden wedding anniversary\", the celebration of 50 years of marriage. The word is only for the anniversary party: the day of the wedding itself is \"et bryllup\" (a wedding).",
+  "forms": [
+   {
+    "da": "et guldbryllup",
+    "en": "a golden wedding anniversary"
+   },
+   {
+    "da": "guldbryllupet",
+    "en": "the golden wedding anniversary"
+   },
+   {
+    "da": "guldbryllupper",
+    "en": "golden wedding anniversaries"
+   },
+   {
+    "da": "guldbryllupperne",
+    "en": "the golden wedding anniversaries"
+   }
+  ],
+  "related": [
+   {
+    "da": "et sølvbryllup",
+    "en": "a silver wedding anniversary"
+   },
+   {
+    "da": "et diamantbryllup",
+    "en": "a diamond wedding anniversary"
+   },
+   {
+    "da": "en brud",
+    "en": "a bride"
+   },
+   {
+    "da": "en brudgom",
+    "en": "a groom"
+   }
+  ],
+  "sentence": {
+   "da": "Mine bedsteforældre har været gift i halvtreds år og holder **guldbryllup**.",
+   "en": "My grandparents have been married for fifty years and are celebrating their golden wedding."
+  }
+ },
+ "et gulv": {
+  "file": "g.json",
+  "explanation": "\"Et gulv\" means \"a floor\", the surface you walk on in a room. For a level of a building, use \"en etage\" (a story): \"anden etage\" (second floor).",
+  "forms": [
+   {
+    "da": "et gulv",
+    "en": "a floor"
+   },
+   {
+    "da": "gulvet",
+    "en": "the floor"
+   },
+   {
+    "da": "gulve",
+    "en": "floors"
+   },
+   {
+    "da": "gulvene",
+    "en": "the floors"
+   }
+  ],
+  "related": [
+   {
+    "da": "et loft",
+    "en": "a ceiling"
+   },
+   {
+    "da": "en væg",
+    "en": "a wall"
+   },
+   {
+    "da": "et tæppe",
+    "en": "a carpet"
+   }
+  ],
+  "sentence": {
+   "da": "Et **gulv** er lavet af træ eller sten.",
+   "en": "A floor is made of wood or stone."
+  }
+ },
+ "et gulvtæppe": {
+  "file": "g.json",
+  "explanation": "\"Et gulvtæppe\" means \"a carpet\", a large covering that lies over the floor of a room. A small one you can move around is \"et tæppe\" (a rug).",
+  "forms": [
+   {
+    "da": "et gulvtæppe",
+    "en": "a carpet"
+   },
+   {
+    "da": "gulvtæppet",
+    "en": "the carpet"
+   },
+   {
+    "da": "gulvtæpper",
+    "en": "carpets"
+   },
+   {
+    "da": "gulvtæpperne",
+    "en": "the carpets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en måtte",
+    "en": "a mat"
+   },
+   {
+    "da": "en løber",
+    "en": "a runner rug"
+   },
+   {
+    "da": "en dørmåtte",
+    "en": "a doormat"
+   },
+   {
+    "da": "en flise",
+    "en": "a tile"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har et blødt **gulvtæppe** i stuen.",
+   "en": "We have a soft carpet in the living room."
+  }
+ },
+ "et gymnasium": {
+  "file": "g.json",
+  "explanation": "\"Et gymnasium\" means \"a high school\", the three years, at about age 16 to 19, that prepare you for university. It is not a gym: a sports hall is \"en idrætshal\" (a sports hall).",
+  "forms": [
+   {
+    "da": "et gymnasium",
+    "en": "a high school"
+   },
+   {
+    "da": "gymnasiet",
+    "en": "the high school"
+   },
+   {
+    "da": "gymnasier",
+    "en": "high schools"
+   },
+   {
+    "da": "gymnasierne",
+    "en": "the high schools"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skole",
+    "en": "a school"
+   },
+   {
+    "da": "en folkeskole",
+    "en": "a primary school"
+   },
+   {
+    "da": "et universitet",
+    "en": "a university"
+   }
+  ],
+  "sentence": {
+   "da": "Efter folkeskolen går mange unge på et **gymnasium**.",
+   "en": "After primary school, many young people go to a gymnasium."
+  }
+ },
+ "et gys": {
+  "file": "g.json",
+  "explanation": "\"Et gys\" means \"a shudder\", a quick shiver through the body, caused by cold, fear or disgust. \"Det gav mig et gys\" (It gave me a shudder) says that something scared or disgusted you.",
+  "forms": [
+   {
+    "da": "et gys",
+    "en": "a shudder"
+   },
+   {
+    "da": "gyset",
+    "en": "the shudder"
+   },
+   {
+    "da": "gys",
+    "en": "shudders"
+   },
+   {
+    "da": "gysene",
+    "en": "the shudders"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gyser",
+    "en": "a horror film"
+   },
+   {
+    "da": "at ryste",
+    "en": "to shake"
+   },
+   {
+    "da": "gåsehud",
+    "en": "goosebumps"
+   }
+  ],
+  "sentence": {
+   "da": "Et **gys** løb ned ad ryggen på mig, da døren gik op.",
+   "en": "A shudder ran down my back when the door opened."
+  }
+ },
+ "et gæsteværelse": {
+  "file": "g.json",
+  "explanation": "\"Et gæsteværelse\" means \"a guest room\", the room in your home for people who sleep over. It is built from gæst (guest) and værelse (room).",
+  "forms": [
+   {
+    "da": "et gæsteværelse",
+    "en": "a guest room"
+   },
+   {
+    "da": "gæsteværelset",
+    "en": "the guest room"
+   },
+   {
+    "da": "gæsteværelser",
+    "en": "guest rooms"
+   },
+   {
+    "da": "gæsteværelserne",
+    "en": "the guest rooms"
+   }
+  ],
+  "related": [
+   {
+    "da": "et soveværelse",
+    "en": "a bedroom"
+   },
+   {
+    "da": "et børneværelse",
+    "en": "a children's room"
+   },
+   {
+    "da": "at overnatte",
+    "en": "to stay the night"
+   },
+   {
+    "da": "en overnatning",
+    "en": "an overnight stay"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan sove i vores **gæsteværelse**.",
+   "en": "You can sleep in our guest room."
+  }
+ },
+ "et gøremål": {
+  "file": "g.json",
+  "explanation": "\"Et gøremål\" means \"a chore\", a small thing you need to get done, often at home or on a to-do list. It is mostly used in the plural: \"dagens gøremål\" (today's chores).",
+  "forms": [
+   {
+    "da": "et gøremål",
+    "en": "a chore"
+   },
+   {
+    "da": "gøremålet",
+    "en": "the chore"
+   },
+   {
+    "da": "gøremål",
+    "en": "chores"
+   },
+   {
+    "da": "gøremålene",
+    "en": "the chores"
+   }
+  ],
+  "related": [
+   {
+    "da": "en opgave",
+    "en": "a task"
+   },
+   {
+    "da": "et ærinde",
+    "en": "an errand"
+   },
+   {
+    "da": "en pligt",
+    "en": "a duty"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har mange **gøremål** i dag, blandt andet at handle og vaske tøj.",
+   "en": "I have many chores today, including shopping and washing clothes."
+  }
+ },
+ "gal": {
+  "file": "g.json",
+  "explanation": "\"Gal\" means \"crazy\", for a person or idea that is mad or foolish. The form \"galt\" is used for \"wrong\": \"Noget gik galt\" (Something went wrong).",
+  "forms": [
+   {
+    "da": "en gal mand",
+    "en": "a crazy man"
+   },
+   {
+    "da": "et galt svar",
+    "en": "a wrong answer"
+   },
+   {
+    "da": "gale ideer",
+    "en": "crazy ideas"
+   }
+  ],
+  "related": [
+   {
+    "da": "skør",
+    "en": "crazy"
+   },
+   {
+    "da": "forkert",
+    "en": "wrong"
+   },
+   {
+    "da": "rigtig",
+    "en": "right"
+   },
+   {
+    "da": "tosset",
+    "en": "silly, crazy"
+   }
+  ],
+  "sentence": {
+   "da": "Er du helt **gal**? Det er alt for farligt!",
+   "en": "Are you completely crazy? That is far too dangerous!"
+  }
+ },
+ "galskab": {
+  "file": "g.json",
+  "explanation": "\"En galskab\" means \"madness\" in the sense of a wild, reckless act or idea. It is usually about foolish behavior rather than a medical condition.",
+  "forms": [
+   {
+    "da": "en galskab",
+    "en": "a crazy act"
+   },
+   {
+    "da": "galskaben",
+    "en": "the crazy act"
+   },
+   {
+    "da": "galskaber",
+    "en": "crazy acts"
+   },
+   {
+    "da": "galskaberne",
+    "en": "the crazy acts"
+   }
+  ],
+  "related": [
+   {
+    "da": "gal",
+    "en": "crazy"
+   },
+   {
+    "da": "vanvid",
+    "en": "insanity"
+   },
+   {
+    "da": "en dumhed",
+    "en": "a stupid act"
+   },
+   {
+    "da": "en tåbelighed",
+    "en": "a folly"
+   }
+  ],
+  "sentence": {
+   "da": "Det er rent **galskab** at sejle i den storm.",
+   "en": "It is pure madness to sail in that storm."
+  }
+ },
+ "galt": {
+  "file": "g.json",
+  "explanation": "\"Galt\" means \"wrong\": \"Jeg gjorde noget galt\" (I did something wrong). With an en-word, use \"gal\" instead, which also means \"crazy\": \"en gal idé\" (a crazy idea).",
+  "forms": [
+   {
+    "da": "Hvad er der galt?",
+    "en": "What is wrong?"
+   },
+   {
+    "da": "Det gik galt",
+    "en": "It went wrong"
+   },
+   {
+    "da": "Det er ikke galt",
+    "en": "It is not bad"
+   }
+  ],
+  "related": [
+   {
+    "da": "forkert",
+    "en": "incorrect"
+   },
+   {
+    "da": "rigtig",
+    "en": "right"
+   },
+   {
+    "da": "en fejl",
+    "en": "a mistake"
+   },
+   {
+    "da": "at tage fejl",
+    "en": "to be mistaken"
+   }
+  ],
+  "sentence": {
+   "da": "Noget er **galt** med min computer.",
+   "en": "Something is wrong with my computer."
+  }
+ },
+ "gammel": {
+  "file": "g.json",
+  "explanation": "\"Gammel\" means \"old\", for things (\"en gammel bil\", an old car) and for a person's age. To ask age, you say \"Hvor gammel er du?\" (How old are you?) and answer \"Jeg er tredive år gammel\" (I am thirty years old).",
+  "forms": [
+   {
+    "da": "en gammel mand",
+    "en": "an old man"
+   },
+   {
+    "da": "et gammelt hus",
+    "en": "an old house"
+   },
+   {
+    "da": "gamle huse",
+    "en": "old houses"
+   }
+  ],
+  "related": [
+   {
+    "da": "ung",
+    "en": "young"
+   },
+   {
+    "da": "ny",
+    "en": "new"
+   },
+   {
+    "da": "en alder",
+    "en": "an age"
+   },
+   {
+    "da": "ældre",
+    "en": "older"
+   }
+  ],
+  "sentence": {
+   "da": "Min bedstefar er 90 år og meget **gammel**.",
+   "en": "My grandfather is 90 and very old."
+  }
+ },
+ "gammeldags": {
+  "file": "g.json",
+  "explanation": "\"Gammeldags\" means \"old-fashioned\". You write it the same before en-words and et-words: \"en gammeldags bil\" (an old-fashioned car), \"et gammeldags hus\" (an old-fashioned house). The opposite is \"moderne\" (modern).",
+  "forms": [
+   {
+    "da": "en gammeldags bil",
+    "en": "an old-fashioned car"
+   },
+   {
+    "da": "et gammeldags hus",
+    "en": "an old-fashioned house"
+   },
+   {
+    "da": "gammeldags ideer",
+    "en": "old-fashioned ideas"
+   }
+  ],
+  "related": [
+   {
+    "da": "forældet",
+    "en": "outdated"
+   },
+   {
+    "da": "traditionel",
+    "en": "traditional"
+   },
+   {
+    "da": "en tradition",
+    "en": "a tradition"
+   },
+   {
+    "da": "klassisk",
+    "en": "classic"
+   }
+  ],
+  "sentence": {
+   "da": "Min mormor har et **gammeldags** køkken.",
+   "en": "My grandmother has an old-fashioned kitchen."
+  }
+ },
+ "gang": {
+  "file": "g.json",
+  "explanation": "\"Gang\" means \"a time\" in the sense of an occasion: \"en gang\" means \"once\", \"to gange\" means \"twice\", and \"Hvor mange gange?\" means \"How many times?\". It can also mean a hallway in a house. For time as hours and minutes, use \"tid\": \"Jeg har ikke tid\" (I do not have time).",
+  "forms": [
+   {
+    "da": "en gang",
+    "en": "a time / once"
+   },
+   {
+    "da": "gangen",
+    "en": "the time (occasion)"
+   },
+   {
+    "da": "gange",
+    "en": "times"
+   },
+   {
+    "da": "gangene",
+    "en": "the times"
+   }
+  ],
+  "related": [
+   {
+    "da": "engang",
+    "en": "once / some day"
+   },
+   {
+    "da": "en korridor",
+    "en": "a hallway"
+   },
+   {
+    "da": "hver gang",
+    "en": "every time"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har været i Paris en **gang**.",
+   "en": "I have been to Paris once."
+  }
+ },
+ "ganske": {
+  "file": "g.json",
+  "explanation": "\"Ganske\" means \"quite\" or \"fairly\". It is weaker than \"meget\" (very), so \"ganske kold\" (quite cold) is less cold than \"meget kold\" (very cold).",
+  "forms": [
+   {
+    "da": "Maden var ganske god",
+    "en": "The food was quite good"
+   },
+   {
+    "da": "Det er ganske nemt",
+    "en": "It is fairly easy"
+   },
+   {
+    "da": "ganske tæt på",
+    "en": "quite close"
+   }
+  ],
+  "related": [
+   {
+    "da": "temmelig",
+    "en": "rather"
+   },
+   {
+    "da": "ret",
+    "en": "pretty / fairly"
+   },
+   {
+    "da": "nogenlunde",
+    "en": "fairly well"
+   },
+   {
+    "da": "helt",
+    "en": "completely"
+   }
+  ],
+  "sentence": {
+   "da": "Maden var **ganske** god, men lidt dyr.",
+   "en": "The food was quite good, but a little expensive."
+  }
+ },
+ "ganske vist": {
+  "file": "g.json",
+  "explanation": "\"Ganske vist\" means \"admittedly\" and admits a point first, so a sentence with \"men\" (but) usually follows: \"Det er ganske vist dyrt, men det er godt\" (It is admittedly expensive, but it is good).",
+  "forms": [
+   {
+    "da": "Han er ganske vist ung",
+    "en": "He is admittedly young"
+   },
+   {
+    "da": "Det er ganske vist sandt",
+    "en": "It is admittedly true"
+   },
+   {
+    "da": "Hun kom ganske vist for sent",
+    "en": "She did arrive late, admittedly"
+   }
+  ],
+  "related": [
+   {
+    "da": "rigtignok",
+    "en": "to be sure"
+   },
+   {
+    "da": "til gengæld",
+    "en": "on the other hand"
+   },
+   {
+    "da": "dog",
+    "en": "however"
+   },
+   {
+    "da": "alligevel",
+    "en": "anyway"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen er **ganske vist** gammel, men den kører fint.",
+   "en": "The car is admittedly old, but it runs fine."
+  }
+ },
+ "garanteret": {
+  "file": "g.json",
+  "explanation": "\"Garanteret\" means \"guaranteed\". In everyday speech you also say it when you are almost certain, even without proof, and it is stronger than \"sikkert\" (probably): \"Han kommer garanteret for sent\" (He is sure to be late).",
+  "forms": [
+   {
+    "da": "Det bliver garanteret godt",
+    "en": "It will definitely be good"
+   },
+   {
+    "da": "Hun har garanteret glemt det",
+    "en": "She has surely forgotten it"
+   },
+   {
+    "da": "Vi kan garanteret hjælpe",
+    "en": "We can surely help"
+   }
+  ],
+  "related": [
+   {
+    "da": "helt sikkert",
+    "en": "for sure"
+   },
+   {
+    "da": "uden tvivl",
+    "en": "no doubt"
+   },
+   {
+    "da": "selvfølgelig",
+    "en": "of course"
+   },
+   {
+    "da": "formentlig",
+    "en": "presumably"
+   }
+  ],
+  "sentence": {
+   "da": "Når du øver dig hver dag, bliver du **garanteret** bedre.",
+   "en": "When you practice every day, you will definitely get better."
+  }
+ },
+ "gavepapir": {
+  "file": "g.json",
+  "explanation": "\"Gavepapir\" means \"wrapping paper\", the paper you wrap presents in. It is built from gave (present) and papir (paper). To count it, say \"en rulle gavepapir\" (a roll of wrapping paper).",
+  "forms": [
+   {
+    "da": "noget gavepapir",
+    "en": "some wrapping paper"
+   },
+   {
+    "da": "gavepapiret",
+    "en": "the wrapping paper"
+   },
+   {
+    "da": "en rulle gavepapir",
+    "en": "a roll of wrapping paper"
+   },
+   {
+    "da": "to ruller gavepapir",
+    "en": "two rolls of wrapping paper"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gaveindpakning",
+    "en": "a gift wrapping"
+   },
+   {
+    "da": "en sløjfe",
+    "en": "a bow"
+   },
+   {
+    "da": "et gavebånd",
+    "en": "a gift ribbon"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg pakker gaven ind i rødt **gavepapir**.",
+   "en": "I wrap the gift in red wrapping paper."
+  }
+ },
+ "gavmild": {
+  "file": "g.json",
+  "explanation": "\"Gavmild\" means \"generous\" and describes a person who gives freely of money, time or things.",
+  "forms": [
+   {
+    "da": "en gavmild onkel",
+    "en": "a generous uncle"
+   },
+   {
+    "da": "et gavmildt tilbud",
+    "en": "a generous offer"
+   },
+   {
+    "da": "gavmilde mennesker",
+    "en": "generous people"
+   }
+  ],
+  "related": [
+   {
+    "da": "gerrig",
+    "en": "stingy"
+   },
+   {
+    "da": "nærig",
+    "en": "miserly"
+   },
+   {
+    "da": "rundhåndet",
+    "en": "open-handed"
+   },
+   {
+    "da": "gæstfri",
+    "en": "hospitable"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **gavmild** og betaler ofte for alle sine venner.",
+   "en": "He is generous and often pays for all his friends."
+  }
+ },
+ "gavmildhed": {
+  "file": "g.json",
+  "explanation": "\"En gavmildhed\" means \"generosity\", a readiness to give more than is expected. It comes from gavmild (generous), which is made of gave (gifts) and mild (gentle).",
+  "forms": [
+   {
+    "da": "en gavmildhed",
+    "en": "generosity"
+   },
+   {
+    "da": "gavmildheden",
+    "en": "the generosity"
+   },
+   {
+    "da": "stor gavmildhed",
+    "en": "great generosity"
+   }
+  ],
+  "related": [
+   {
+    "da": "gæstfrihed",
+    "en": "hospitality"
+   },
+   {
+    "da": "godgørenhed",
+    "en": "charity"
+   },
+   {
+    "da": "en velgører",
+    "en": "a benefactor"
+   },
+   {
+    "da": "gerrighed",
+    "en": "stinginess"
+   }
+  ],
+  "sentence": {
+   "da": "Det var et tegn på **gavmildhed**, at han betalte for alle.",
+   "en": "It was a sign of generosity that he paid for everyone."
+  }
+ },
+ "gavn": {
+  "file": "g.json",
+  "explanation": "\"Gavn\" means \"benefit\" or \"use\", the good that something does for someone. It is mostly used after \"til\" (to): \"til gavn for børn\" (for the benefit of children).",
+  "forms": [
+   {
+    "da": "til gavn for dig",
+    "en": "for your benefit"
+   },
+   {
+    "da": "have gavn af noget",
+    "en": "to get use out of something"
+   },
+   {
+    "da": "gøre gavn",
+    "en": "to be of use"
+   }
+  ],
+  "related": [
+   {
+    "da": "gavnlig",
+    "en": "beneficial"
+   },
+   {
+    "da": "nytte",
+    "en": "usefulness"
+   },
+   {
+    "da": "en fordel",
+    "en": "an advantage"
+   },
+   {
+    "da": "at gavne",
+    "en": "to help"
+   }
+  ],
+  "sentence": {
+   "da": "Motion er til stor **gavn** for hjertet.",
+   "en": "Exercise is of great benefit to the heart."
+  }
+ },
+ "genbrug": {
+  "file": "g.json",
+  "explanation": "\"Genbrug\" means \"recycling\", using things again instead of discarding them. It covers both turning old material into something new and reusing an item as it is.",
+  "forms": [
+   {
+    "da": "genbrug af plastik",
+    "en": "recycling of plastic"
+   },
+   {
+    "da": "genbrug af papir",
+    "en": "recycling of paper"
+   },
+   {
+    "da": "Vi sorterer til genbrug",
+    "en": "We sort for recycling"
+   }
+  ],
+  "related": [
+   {
+    "da": "at genbruge",
+    "en": "to recycle"
+   },
+   {
+    "da": "en genbrugsbutik",
+    "en": "a second-hand shop"
+   },
+   {
+    "da": "et affald",
+    "en": "waste"
+   },
+   {
+    "da": "at smide ud",
+    "en": "to throw out"
+   }
+  ],
+  "sentence": {
+   "da": "Gamle flasker kan blive til nye ting ved **genbrug**.",
+   "en": "Old bottles can become new things through recycling."
+  }
+ },
+ "generelt": {
+  "file": "g.json",
+  "explanation": "\"Generelt\" means \"generally\" and says what is true overall, though not in every case. One specific day can be different: \"Generelt er bussen til tiden, men i dag var den sen\" (Generally the bus is on time, but today it was late).",
+  "forms": [
+   {
+    "da": "Det gælder generelt",
+    "en": "That applies in general"
+   },
+   {
+    "da": "Hun er generelt glad",
+    "en": "She is generally happy"
+   },
+   {
+    "da": "Generelt er det billigt",
+    "en": "Generally, it is cheap"
+   }
+  ],
+  "related": [
+   {
+    "da": "almindeligvis",
+    "en": "usually"
+   },
+   {
+    "da": "normalt",
+    "en": "normally"
+   },
+   {
+    "da": "generel",
+    "en": "general"
+   },
+   {
+    "da": "specifik",
+    "en": "specific"
+   }
+  ],
+  "sentence": {
+   "da": "**Generelt** er det varmt i juli, men ikke altid.",
+   "en": "Generally it is warm in July, but not always."
+  }
+ },
+ "genert": {
+  "file": "g.json",
+  "explanation": "\"Genert\" means \"shy\", nervous around other people. \"Over for\" (towards) says who you are shy around: \"Han er genert over for fremmede\" (He is shy around strangers).",
+  "forms": [
+   {
+    "da": "en genert dreng",
+    "en": "a shy boy"
+   },
+   {
+    "da": "et genert barn",
+    "en": "a shy child"
+   },
+   {
+    "da": "generte børn",
+    "en": "shy children"
+   }
+  ],
+  "related": [
+   {
+    "da": "sky",
+    "en": "shy"
+   },
+   {
+    "da": "forlegen",
+    "en": "awkward and embarrassed"
+   },
+   {
+    "da": "tilbageholdende",
+    "en": "reserved"
+   },
+   {
+    "da": "udadvendt",
+    "en": "outgoing"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er lidt **genert**, når jeg møder nye folk.",
+   "en": "I am a bit shy when I meet new people."
+  }
+ },
+ "generøs": {
+  "file": "g.json",
+  "explanation": "\"Generøs\" means \"generous\" and describes someone who gives freely. \"Med\" (with) says what is given: \"Hun er generøs med sin tid\" (She is generous with her time). The opposite is \"nærig\" (stingy).",
+  "forms": [
+   {
+    "da": "en generøs gave",
+    "en": "a generous gift"
+   },
+   {
+    "da": "et generøst tilbud",
+    "en": "a generous offer"
+   },
+   {
+    "da": "generøse gaver",
+    "en": "generous gifts"
+   }
+  ],
+  "related": [
+   {
+    "da": "gavmild",
+    "en": "generous"
+   },
+   {
+    "da": "en generøsitet",
+    "en": "generosity"
+   },
+   {
+    "da": "egoistisk",
+    "en": "selfish"
+   },
+   {
+    "da": "rundhåndet",
+    "en": "open-handed"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **generøs** og giver gerne penge væk.",
+   "en": "He is generous and gladly gives money away."
+  }
+ },
+ "generøsitet": {
+  "file": "g.json",
+  "explanation": "\"En generøsitet\" means \"generosity\", being willing to give money, time or help freely. It is often used to thank someone: \"Vi takker for din generøsitet\" (We thank you for your generosity).",
+  "forms": [
+   {
+    "da": "stor generøsitet",
+    "en": "great generosity"
+   },
+   {
+    "da": "Hendes generøsitet",
+    "en": "Her generosity"
+   },
+   {
+    "da": "generøsiteten",
+    "en": "the generosity"
+   }
+  ],
+  "related": [
+   {
+    "da": "generøs",
+    "en": "generous"
+   },
+   {
+    "da": "gavmild",
+    "en": "open-handed"
+   },
+   {
+    "da": "gerrighed",
+    "en": "stinginess"
+   },
+   {
+    "da": "en gave",
+    "en": "a gift"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **generøsitet**, når man giver uden at forvente noget.",
+   "en": "It is generosity when you give without expecting anything."
+  }
+ },
+ "genetik": {
+  "file": "g.json",
+  "explanation": "\"Genetik\" means \"genetics\", the science of how traits are passed from parents to children. It is also used for the traits themselves: \"Det ligger i genetikken\" (It is in the genes).",
+  "forms": [
+   {
+    "da": "genetik",
+    "en": "genetics"
+   },
+   {
+    "da": "genetikken",
+    "en": "the genetics"
+   },
+   {
+    "da": "inden for genetik",
+    "en": "within genetics"
+   }
+  ],
+  "related": [
+   {
+    "da": "et gen",
+    "en": "a gene"
+   },
+   {
+    "da": "en genetiker",
+    "en": "a geneticist"
+   },
+   {
+    "da": "arvelig",
+    "en": "hereditary"
+   },
+   {
+    "da": "et kromosom",
+    "en": "a chromosome"
+   }
+  ],
+  "sentence": {
+   "da": "Inden for **genetik** studerer man, hvad børn arver fra deres forældre.",
+   "en": "In genetics, you study what children inherit from their parents."
+  }
+ },
+ "genetisk": {
+  "file": "g.json",
+  "explanation": "\"Genetisk\" means \"genetic\", describing something that comes from the DNA passed on by parents. It comes from \"genetik\" (genetics).",
+  "forms": [
+   {
+    "da": "en genetisk sygdom",
+    "en": "a genetic disease"
+   },
+   {
+    "da": "et genetisk træk",
+    "en": "a genetic trait"
+   },
+   {
+    "da": "genetiske forskelle",
+    "en": "genetic differences"
+   }
+  ],
+  "related": [
+   {
+    "da": "arvelig",
+    "en": "hereditary"
+   },
+   {
+    "da": "medfødt",
+    "en": "congenital"
+   },
+   {
+    "da": "et gen",
+    "en": "a gene"
+   },
+   {
+    "da": "en genetiker",
+    "en": "a geneticist"
+   }
+  ],
+  "sentence": {
+   "da": "Sygdommen er **genetisk** og går i arv i familien.",
+   "en": "The disease is genetic and runs in the family."
+  }
+ },
+ "genial": {
+  "file": "g.json",
+  "explanation": "\"Genial\" means \"brilliant\", extremely clever. You can use it for an idea or for a person: \"Hun er genial\" (She is brilliant).",
+  "forms": [
+   {
+    "da": "en genial plan",
+    "en": "a brilliant plan"
+   },
+   {
+    "da": "et genialt træk",
+    "en": "a brilliant move"
+   },
+   {
+    "da": "geniale løsninger",
+    "en": "brilliant solutions"
+   }
+  ],
+  "related": [
+   {
+    "da": "et geni",
+    "en": "a genius"
+   },
+   {
+    "da": "klog",
+    "en": "smart"
+   },
+   {
+    "da": "snedig",
+    "en": "clever, sly"
+   },
+   {
+    "da": "fremragende",
+    "en": "excellent"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **genial** idé, og den virker.",
+   "en": "It is a brilliant idea, and it works."
+  }
+ },
+ "gennem": {
+  "file": "g.json",
+  "explanation": "\"Gennem\" means \"through\". With time, it means \"throughout\": \"Jeg har boet her gennem mange år\" (I have lived here for many years).",
+  "forms": [
+   {
+    "da": "gennem skoven",
+    "en": "through the forest"
+   },
+   {
+    "da": "gennem vinduet",
+    "en": "through the window"
+   },
+   {
+    "da": "gennem hele dagen",
+    "en": "throughout the day"
+   }
+  ],
+  "related": [
+   {
+    "da": "igennem",
+    "en": "through"
+   },
+   {
+    "da": "via",
+    "en": "via"
+   },
+   {
+    "da": "på tværs af",
+    "en": "across"
+   },
+   {
+    "da": "langs",
+    "en": "along"
+   }
+  ],
+  "sentence": {
+   "da": "Vi går **gennem** parken hjem.",
+   "en": "We walk home through the park."
+  }
+ },
+ "gennemført": {
+  "file": "g.json",
+  "explanation": "\"Gennemført\" means \"polished\", worked out from start to end so that no part feels out of place. It comes from at gennemføre (to carry out).",
+  "forms": [
+   {
+    "da": "et gennemført design",
+    "en": "a polished design"
+   },
+   {
+    "da": "en gennemført plan",
+    "en": "a well worked-out plan"
+   },
+   {
+    "da": "gennemførte forandringer",
+    "en": "completed changes"
+   }
+  ],
+  "related": [
+   {
+    "da": "gennemtænkt",
+    "en": "well thought out"
+   },
+   {
+    "da": "fuldendt",
+    "en": "accomplished"
+   },
+   {
+    "da": "professionel",
+    "en": "professional"
+   }
+  ],
+  "sentence": {
+   "da": "Koncerten var en **gennemført** oplevelse fra start til slut.",
+   "en": "The concert was a polished experience from start to finish."
+  }
+ },
+ "gennemsigtig": {
+  "file": "g.json",
+  "explanation": "\"Gennemsigtig\" means \"transparent\", so light passes through and you can see what is behind. It is built from gennem (through) and sigt (sight). It also describes things that are easy to follow and hide nothing: \"en gennemsigtig proces\" (a transparent process).",
+  "forms": [
+   {
+    "da": "en gennemsigtig pose",
+    "en": "a transparent bag"
+   },
+   {
+    "da": "et gennemsigtigt glas",
+    "en": "a transparent glass"
+   },
+   {
+    "da": "gennemsigtige vinduer",
+    "en": "transparent windows"
+   }
+  ],
+  "related": [
+   {
+    "da": "uigennemsigtig",
+    "en": "opaque"
+   },
+   {
+    "da": "klar",
+    "en": "clear"
+   },
+   {
+    "da": "gennemskuelig",
+    "en": "easy to see through"
+   },
+   {
+    "da": "synlig",
+    "en": "visible"
+   }
+  ],
+  "sentence": {
+   "da": "Ruden er **gennemsigtig**, og man kan se ud igennem den.",
+   "en": "The window is transparent, and you can see out through it."
+  }
+ },
+ "gennemsnitlig": {
+  "file": "g.json",
+  "explanation": "\"Gennemsnitlig\" means \"average\", based on the average of many values. For \"ordinary, nothing special\", Danes use \"almindelig\" (ordinary) instead.",
+  "forms": [
+   {
+    "da": "en gennemsnitlig pris",
+    "en": "an average price"
+   },
+   {
+    "da": "et gennemsnitligt resultat",
+    "en": "an average result"
+   },
+   {
+    "da": "gennemsnitlige temperaturer",
+    "en": "average temperatures"
+   }
+  ],
+  "related": [
+   {
+    "da": "et gennemsnit",
+    "en": "an average (the figure)"
+   },
+   {
+    "da": "i gennemsnit",
+    "en": "on average"
+   },
+   {
+    "da": "typisk",
+    "en": "typical"
+   },
+   {
+    "da": "normal",
+    "en": "normal"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **gennemsnitlig** pris, ikke den billigste og ikke den dyreste.",
+   "en": "It is an average price, not the cheapest and not the most expensive."
+  }
+ },
+ "genoptræning": {
+  "file": "g.json",
+  "explanation": "\"Genoptræning\" means \"rehabilitation\", exercise and therapy that help you regain strength and movement after an injury or an operation. The \"gen-\" at the start means \"again\", as in \"at gentage\" (to repeat).",
+  "forms": [
+   {
+    "da": "en genoptræning",
+    "en": "a rehabilitation"
+   },
+   {
+    "da": "genoptræningen",
+    "en": "the rehabilitation"
+   },
+   {
+    "da": "genoptræninger",
+    "en": "rehabilitations"
+   },
+   {
+    "da": "genoptræningerne",
+    "en": "the rehabilitations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fysioterapeut",
+    "en": "a physiotherapist"
+   },
+   {
+    "da": "at komme sig",
+    "en": "to recover"
+   },
+   {
+    "da": "en behandling",
+    "en": "a treatment"
+   },
+   {
+    "da": "en ergoterapeut",
+    "en": "an occupational therapist"
+   }
+  ],
+  "sentence": {
+   "da": "Efter operationen går jeg til **genoptræning** i tre måneder.",
+   "en": "After the surgery, I go to rehabilitation for three months."
+  }
+ },
+ "gensidighed": {
+  "file": "g.json",
+  "explanation": "\"Gensidighed\" means \"mutuality\", when both sides give and get in the same way, such as respect or help going in both directions. It comes from gensidig (mutual).",
+  "forms": [
+   {
+    "da": "gensidighed",
+    "en": "mutuality"
+   },
+   {
+    "da": "gensidigheden",
+    "en": "the mutuality"
+   },
+   {
+    "da": "gensidighed i et forhold",
+    "en": "mutuality in a relationship"
+   }
+  ],
+  "related": [
+   {
+    "da": "ensidighed",
+    "en": "one-sidedness"
+   },
+   {
+    "da": "ligeværd",
+    "en": "equal worth"
+   },
+   {
+    "da": "et samspil",
+    "en": "interplay"
+   }
+  ],
+  "sentence": {
+   "da": "I et godt forhold skal der være **gensidighed**.",
+   "en": "In a good relationship, there must be mutuality."
+  }
+ },
+ "geografi": {
+  "file": "g.json",
+  "explanation": "\"Geografi\" means \"geography\", the study of countries and landscapes at school.",
+  "forms": [
+   {
+    "da": "Vi har geografi i dag",
+    "en": "We have geography today"
+   },
+   {
+    "da": "Jeg er god til geografi",
+    "en": "I am good at geography"
+   },
+   {
+    "da": "en geografilærer",
+    "en": "a geography teacher"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kort",
+    "en": "a map"
+   },
+   {
+    "da": "en globus",
+    "en": "a globe"
+   },
+   {
+    "da": "et atlas",
+    "en": "an atlas"
+   },
+   {
+    "da": "historie",
+    "en": "history"
+   }
+  ],
+  "sentence": {
+   "da": "Vi lærer om lande og floder i **geografi**.",
+   "en": "We learn about countries and rivers in geography."
+  }
+ },
+ "gerne": {
+  "file": "g.json",
+  "explanation": "\"Gerne\" means \"gladly\". When you ask for something, \"gerne\" makes it polite: \"Jeg vil have en øl\" (I want a beer) sounds blunt, while \"Jeg vil gerne have en øl\" (I would like a beer) is polite. When you offer help, \"gerne\" says you are glad to do it: \"Jeg hjælper dig gerne\" (I am glad to help you).",
+  "forms": [
+   {
+    "da": "Jeg vil gerne have kaffe.",
+    "en": "I would like coffee."
+   },
+   {
+    "da": "Ja, gerne!",
+    "en": "Yes, gladly!"
+   },
+   {
+    "da": "Det gør jeg gerne.",
+    "en": "I am happy to do that."
+   }
+  ],
+  "related": [
+   {
+    "da": "helst",
+    "en": "preferably, rather"
+   },
+   {
+    "da": "ja tak",
+    "en": "yes please"
+   },
+   {
+    "da": "med glæde",
+    "en": "with pleasure"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **gerne** have en kop te.",
+   "en": "I would like a cup of tea."
+  }
+ },
+ "gerrig": {
+  "file": "g.json",
+  "explanation": "\"Gerrig\" means \"stingy\", very unwilling to spend or share, even when there is plenty. It is clearly negative: someone careful with money in a good way is \"sparsommelig\" (thrifty).",
+  "forms": [
+   {
+    "da": "en gerrig mand",
+    "en": "a stingy man"
+   },
+   {
+    "da": "et gerrigt menneske",
+    "en": "a stingy person"
+   },
+   {
+    "da": "gerrige mennesker",
+    "en": "stingy people"
+   }
+  ],
+  "related": [
+   {
+    "da": "nærig",
+    "en": "tight-fisted"
+   },
+   {
+    "da": "grisk",
+    "en": "greedy"
+   },
+   {
+    "da": "gavmild",
+    "en": "generous"
+   },
+   {
+    "da": "gerrighed",
+    "en": "stinginess"
+   }
+  ],
+  "sentence": {
+   "da": "Han er så **gerrig**, at han aldrig giver drikkepenge.",
+   "en": "He is so stingy that he never gives tips."
+  }
+ },
+ "gerrighed": {
+  "file": "g.json",
+  "explanation": "\"En gerrighed\" means \"stinginess\", the trait of hating to spend money or share. It is clearly negative, unlike \"sparsommelighed\" (thrift), which means being careful with money in a good way.",
+  "forms": [
+   {
+    "da": "en gerrighed",
+    "en": "stinginess"
+   },
+   {
+    "da": "gerrigheden",
+    "en": "the stinginess"
+   },
+   {
+    "da": "ren gerrighed",
+    "en": "pure stinginess"
+   }
+  ],
+  "related": [
+   {
+    "da": "nærighed",
+    "en": "tight-fistedness"
+   },
+   {
+    "da": "grådighed",
+    "en": "greed"
+   },
+   {
+    "da": "gavmildhed",
+    "en": "generosity"
+   },
+   {
+    "da": "en gerrigknark",
+    "en": "a miser"
+   }
+  ],
+  "sentence": {
+   "da": "Hans **gerrighed** betød, at familien aldrig fik gaver.",
+   "en": "His stinginess meant that the family never got gifts."
+  }
+ },
+ "gift": {
+  "file": "g.json",
+  "explanation": "\"Gift\" means \"married\". To name the partner, add \"med\" (with) after \"gift\": \"gift med Peter\" (married to Peter). The same spelling is also the word for poison, and you can tell which one it is from the context of the sentence.",
+  "forms": [
+   {
+    "da": "en gift mand",
+    "en": "a married man"
+   },
+   {
+    "da": "et gift par",
+    "en": "a married couple"
+   },
+   {
+    "da": "gifte mennesker",
+    "en": "married people"
+   }
+  ],
+  "related": [
+   {
+    "da": "ugift",
+    "en": "unmarried"
+   },
+   {
+    "da": "skilt",
+    "en": "divorced"
+   },
+   {
+    "da": "en ægtefælle",
+    "en": "a spouse"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **gift** med Anna.",
+   "en": "I am married to Anna."
+  }
+ },
+ "gin": {
+  "file": "g.json",
+  "explanation": "\"Gin\" means \"gin\", a clear strong drink with a juniper taste. Without \"en\" it means the drink itself: \"Jeg kan ikke lide gin\" (I do not like gin). With \"en\" it means one serving: \"Hun drikker en gin\" (She is drinking a gin).",
+  "forms": [
+   {
+    "da": "gin",
+    "en": "gin"
+   },
+   {
+    "da": "ginen",
+    "en": "the gin"
+   },
+   {
+    "da": "en gin",
+    "en": "a gin"
+   },
+   {
+    "da": "en gin og tonic",
+    "en": "a gin and tonic"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vodka",
+    "en": "a vodka"
+   },
+   {
+    "da": "en rom",
+    "en": "a rum"
+   },
+   {
+    "da": "en snaps",
+    "en": "a schnapps"
+   }
+  ],
+  "sentence": {
+   "da": "Hun bestiller en **gin** og tonic i baren.",
+   "en": "She orders a gin and tonic at the bar."
+  }
+ },
+ "glad": {
+  "file": "g.json",
+  "explanation": "\"Glad\" means \"happy\", the everyday word for feeling pleased or cheerful. To name the thing that makes you happy, add \"for\" (about) after \"glad\": \"Jeg er glad for gaven\" (I am happy about the gift).",
+  "forms": [
+   {
+    "da": "en glad dreng",
+    "en": "a happy boy"
+   },
+   {
+    "da": "et glad barn",
+    "en": "a happy child"
+   },
+   {
+    "da": "glade børn",
+    "en": "happy children"
+   }
+  ],
+  "related": [
+   {
+    "da": "ked af det",
+    "en": "sad"
+   },
+   {
+    "da": "lykkelig",
+    "en": "very happy"
+   },
+   {
+    "da": "en glæde",
+    "en": "a joy"
+   },
+   {
+    "da": "at glæde sig",
+    "en": "to look forward (to)"
+   }
+  ],
+  "sentence": {
+   "da": "Drengen smiler og er så **glad**.",
+   "en": "The boy smiles and is so happy."
+  }
+ },
+ "glad for": {
+  "file": "g.json",
+  "explanation": "\"Glad for\" means \"fond of\" or \"happy with\" something or someone. It is milder than \"elske\" (to love): \"Jeg er glad for dig\" (I am fond of you).",
+  "forms": [
+   {
+    "da": "Jeg er glad for dig.",
+    "en": "I am fond of you."
+   },
+   {
+    "da": "Hun er glad for sin bil.",
+    "en": "She is happy with her car."
+   },
+   {
+    "da": "Er du glad for den?",
+    "en": "Are you happy with it?"
+   }
+  ],
+  "related": [
+   {
+    "da": "at holde af",
+    "en": "to be fond of"
+   },
+   {
+    "da": "at kunne lide",
+    "en": "to like"
+   },
+   {
+    "da": "tilfreds med",
+    "en": "satisfied with"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er meget **glad for** min lejlighed.",
+   "en": "I am very happy with my apartment."
+  }
+ },
+ "glat": {
+  "file": "g.json",
+  "explanation": "\"Glat\" means \"smooth\", with no bumps or roughness. It also means \"slippery\", for things like ice or a wet road.",
+  "forms": [
+   {
+    "da": "en glat sten",
+    "en": "a smooth stone"
+   },
+   {
+    "da": "et glat bord",
+    "en": "a smooth table"
+   },
+   {
+    "da": "glatte fliser",
+    "en": "smooth tiles"
+   }
+  ],
+  "related": [
+   {
+    "da": "hal",
+    "en": "slippery"
+   },
+   {
+    "da": "ru",
+    "en": "rough"
+   },
+   {
+    "da": "jævn",
+    "en": "even"
+   },
+   {
+    "da": "isglat",
+    "en": "icy, slippery with ice"
+   }
+  ],
+  "sentence": {
+   "da": "Pas på, gulvet er **glat**.",
+   "en": "Be careful, the floor is slippery."
+  }
+ },
+ "glimrende": {
+  "file": "g.json",
+  "explanation": "\"Glimrende\" means \"excellent\" and is stronger than \"god\" (good).",
+  "forms": [
+   {
+    "da": "en glimrende idé",
+    "en": "an excellent idea"
+   },
+   {
+    "da": "et glimrende resultat",
+    "en": "an excellent result"
+   },
+   {
+    "da": "glimrende karakterer",
+    "en": "excellent grades"
+   }
+  ],
+  "related": [
+   {
+    "da": "fremragende",
+    "en": "outstanding"
+   },
+   {
+    "da": "udmærket",
+    "en": "fine / excellent"
+   },
+   {
+    "da": "fantastisk",
+    "en": "fantastic"
+   },
+   {
+    "da": "at glimre",
+    "en": "to shine"
+   }
+  ],
+  "sentence": {
+   "da": "Du har lavet et **glimrende** stykke arbejde.",
+   "en": "You have done an excellent piece of work."
+  }
+ },
+ "global": {
+  "file": "g.json",
+  "explanation": "\"Global\" means \"global\", covering the whole Earth, not just one country. It is spelled like the English word.",
+  "forms": [
+   {
+    "da": "en global krise",
+    "en": "a global crisis"
+   },
+   {
+    "da": "et globalt problem",
+    "en": "a global problem"
+   },
+   {
+    "da": "globale temperaturer",
+    "en": "global temperatures"
+   }
+  ],
+  "related": [
+   {
+    "da": "lokal",
+    "en": "local"
+   },
+   {
+    "da": "international",
+    "en": "international"
+   },
+   {
+    "da": "verdensomspændende",
+    "en": "worldwide"
+   },
+   {
+    "da": "en klode",
+    "en": "a globe"
+   }
+  ],
+  "sentence": {
+   "da": "Klimaet er en **global** udfordring, ikke kun en dansk.",
+   "en": "The climate is a global challenge, not only a Danish one."
+  }
+ },
+ "global opvarmning": {
+  "file": "g.json",
+  "explanation": "\"Global opvarmning\" means \"global warming\", the rise in the Earth's average temperature over many years. \"Opvarmning\" comes from \"at varme op\" (to warm up), where \"op\" means \"up\".",
+  "forms": [
+   {
+    "da": "at stoppe den globale opvarmning",
+    "en": "to stop global warming"
+   },
+   {
+    "da": "årsager til global opvarmning",
+    "en": "causes of global warming"
+   }
+  ],
+  "related": [
+   {
+    "da": "klimaforandringer",
+    "en": "climate change"
+   },
+   {
+    "da": "en drivhusgas",
+    "en": "a greenhouse gas"
+   },
+   {
+    "da": "afkøling",
+    "en": "cooling"
+   },
+   {
+    "da": "et klima",
+    "en": "a climate"
+   }
+  ],
+  "sentence": {
+   "da": "**Global opvarmning** får isen ved polerne til at smelte.",
+   "en": "Global warming makes the ice at the poles melt."
+  }
+ },
+ "gluten": {
+  "file": "g.json",
+  "explanation": "\"Gluten\" means \"gluten\", the protein in many types of grain. To say without it, add \"-fri\" (free): \"glutenfri\" (gluten-free).",
+  "forms": [
+   {
+    "da": "gluten",
+    "en": "gluten"
+   },
+   {
+    "da": "glutenet",
+    "en": "the gluten"
+   },
+   {
+    "da": "noget gluten",
+    "en": "some gluten"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvede",
+    "en": "wheat"
+   },
+   {
+    "da": "rug",
+    "en": "rye"
+   },
+   {
+    "da": "byg",
+    "en": "barley"
+   },
+   {
+    "da": "en allergi",
+    "en": "an allergy"
+   }
+  ],
+  "sentence": {
+   "da": "Der er **gluten** i hvedebrød.",
+   "en": "There is gluten in wheat bread."
+  }
+ },
+ "glutenfri": {
+  "file": "g.json",
+  "explanation": "\"Glutenfri\" means \"gluten-free\", made without gluten. It is built from gluten and fri (free). \"Fri\" works the same in many words: \"alkoholfri\" (alcohol-free).",
+  "forms": [
+   {
+    "da": "en glutenfri kage",
+    "en": "a gluten-free cake"
+   },
+   {
+    "da": "et glutenfrit rundstykke",
+    "en": "a gluten-free roll"
+   },
+   {
+    "da": "glutenfrie boller",
+    "en": "gluten-free buns"
+   }
+  ],
+  "related": [
+   {
+    "da": "sukkerfri",
+    "en": "sugar-free"
+   },
+   {
+    "da": "laktosefri",
+    "en": "lactose-free"
+   },
+   {
+    "da": "nøddefri",
+    "en": "nut-free"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser kun **glutenfri** pasta.",
+   "en": "I only eat gluten-free pasta."
+  }
+ },
+ "glæde": {
+  "file": "g.json",
+  "explanation": "\"Glæde\" means \"joy\". \"At glæde sig\" means to look forward to something: \"Jeg glæder mig til ferien\" (I am looking forward to the vacation).",
+  "forms": [
+   {
+    "da": "en glæde",
+    "en": "a joy"
+   },
+   {
+    "da": "glæden",
+    "en": "the joy"
+   },
+   {
+    "da": "med glæde",
+    "en": "gladly"
+   },
+   {
+    "da": "glæden ved musik",
+    "en": "the joy of music"
+   }
+  ],
+  "related": [
+   {
+    "da": "glad",
+    "en": "happy"
+   },
+   {
+    "da": "en lykke",
+    "en": "happiness"
+   },
+   {
+    "da": "en fornøjelse",
+    "en": "a pleasure"
+   },
+   {
+    "da": "sorg",
+    "en": "sorrow"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes ansigt lyste af **glæde**.",
+   "en": "Her face lit up with joy."
+  }
+ },
+ "glædelig jul": {
+  "file": "g.json",
+  "explanation": "\"Glædelig jul\" means \"merry Christmas\". \"Glædelig\" means \"merry\" and \"jul\" means \"Christmas\". A reply is \"i lige måde\" (same to you), and you can add \"og godt nytår\" (and happy New Year).",
+  "forms": [
+   {
+    "da": "Glædelig jul!",
+    "en": "Merry Christmas!"
+   },
+   {
+    "da": "Glædelig jul til jer alle.",
+    "en": "Merry Christmas to you all."
+   },
+   {
+    "da": "Glædelig jul og godt nytår.",
+    "en": "Merry Christmas and happy New Year."
+   }
+  ],
+  "related": [
+   {
+    "da": "god jul",
+    "en": "merry Christmas"
+   },
+   {
+    "da": "glædelig påske",
+    "en": "happy Easter"
+   },
+   {
+    "da": "tillykke",
+    "en": "congratulations"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har gaver og et juletræ. **Glædelig jul**!",
+   "en": "We have presents and a Christmas tree. Merry Christmas!"
+  }
+ },
+ "glødende": {
+  "file": "g.json",
+  "explanation": "\"Glødende\" means \"glowing\", about something so hot that it shines, like embers or hot metal. It also means \"passionate\": \"en glødende tilhænger\" (a passionate supporter). It comes from \"at gløde\" (to glow).",
+  "forms": [
+   {
+    "da": "glødende kul",
+    "en": "glowing coals"
+   },
+   {
+    "da": "en glødende tilhænger",
+    "en": "a passionate supporter"
+   },
+   {
+    "da": "glødende kærlighed",
+    "en": "burning love"
+   }
+  ],
+  "related": [
+   {
+    "da": "rødglødende",
+    "en": "red-hot"
+   },
+   {
+    "da": "brændende",
+    "en": "burning"
+   },
+   {
+    "da": "ivrig",
+    "en": "keen"
+   },
+   {
+    "da": "ulmende",
+    "en": "smoldering"
+   }
+  ],
+  "sentence": {
+   "da": "Smeden tog det **glødende** jern ud af ilden.",
+   "en": "The blacksmith took the glowing iron out of the fire."
+  }
+ },
+ "gløgg": {
+  "file": "g.json",
+  "explanation": "\"Gløgg\" means \"mulled wine\", a hot, spiced red wine drunk in winter, especially in December. It is often served with raisins and almonds.",
+  "forms": [
+   {
+    "da": "en kop gløgg",
+    "en": "a cup of mulled wine"
+   },
+   {
+    "da": "varm gløgg",
+    "en": "hot mulled wine"
+   },
+   {
+    "da": "gløgg og æbleskiver",
+    "en": "mulled wine and Danish pancake balls"
+   }
+  ],
+  "related": [
+   {
+    "da": "en æbleskive",
+    "en": "a Danish pancake ball"
+   },
+   {
+    "da": "en snaps",
+    "en": "a schnapps"
+   },
+   {
+    "da": "en jul",
+    "en": "Christmas"
+   },
+   {
+    "da": "en julefrokost",
+    "en": "a Christmas lunch"
+   }
+  ],
+  "sentence": {
+   "da": "I december drikker mange varm **gløgg** for at holde varmen.",
+   "en": "In December, many people drink hot mulled wine to keep warm."
+  }
+ },
+ "gnaven": {
+  "file": "g.json",
+  "explanation": "\"Gnaven\" means \"grumpy\", in a bad mood and snapping at people over small things. You can say it about a tone of voice too: \"en gnaven stemme\" (a grumpy voice).",
+  "forms": [
+   {
+    "da": "en gnaven mand",
+    "en": "a grumpy man"
+   },
+   {
+    "da": "et gnavent svar",
+    "en": "a grumpy answer"
+   },
+   {
+    "da": "gnavne børn",
+    "en": "grumpy children"
+   }
+  ],
+  "related": [
+   {
+    "da": "sur",
+    "en": "sulky"
+   },
+   {
+    "da": "irritabel",
+    "en": "irritable"
+   },
+   {
+    "da": "mut",
+    "en": "moody"
+   },
+   {
+    "da": "munter",
+    "en": "cheerful"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror er altid **gnaven**, når han er sulten.",
+   "en": "My brother is always grumpy when he is hungry."
+  }
+ },
+ "god": {
+  "file": "g.json",
+  "explanation": "\"God\" means \"good\", and it appears in greetings like \"god morgen\" (good morning) and \"godt nytår\" (happy New Year). To say something goes well, use \"godt\": \"Det går godt\" (It is going well).",
+  "forms": [
+   {
+    "da": "en god ven",
+    "en": "a good friend"
+   },
+   {
+    "da": "et godt hus",
+    "en": "a good house"
+   },
+   {
+    "da": "gode venner",
+    "en": "good friends"
+   }
+  ],
+  "related": [
+   {
+    "da": "dårlig",
+    "en": "bad"
+   },
+   {
+    "da": "bedre",
+    "en": "better"
+   },
+   {
+    "da": "bedst",
+    "en": "best"
+   },
+   {
+    "da": "dejlig",
+    "en": "lovely"
+   }
+  ],
+  "sentence": {
+   "da": "Han hjælper altid. Han er en **god** ven.",
+   "en": "He always helps. He is a good friend."
+  }
+ },
+ "god appetit": {
+  "file": "g.json",
+  "explanation": "\"God appetit\" means \"enjoy your meal\", like bon appétit, and is said just before eating. Danes also say \"velbekomme\" (enjoy / you are welcome), often when the food is served or after the meal. A reply is \"i lige måde\" (same to you) or \"tak\" (thanks).",
+  "forms": [
+   {
+    "da": "God appetit!",
+    "en": "Enjoy your meal!"
+   },
+   {
+    "da": "Tak, i lige måde.",
+    "en": "Thanks, you too."
+   },
+   {
+    "da": "God appetit, alle sammen!",
+    "en": "Enjoy your meal, everyone!"
+   }
+  ],
+  "related": [
+   {
+    "da": "tak for mad",
+    "en": "thanks for the meal"
+   },
+   {
+    "da": "skål",
+    "en": "cheers"
+   },
+   {
+    "da": "værsgo",
+    "en": "here you are"
+   }
+  ],
+  "sentence": {
+   "da": "Maden er klar. **God appetit**!",
+   "en": "The food is ready. Enjoy your meal!"
+  }
+ },
+ "god bedring": {
+  "file": "g.json",
+  "explanation": "\"God bedring\" means \"get well soon\" and is said to someone who is sick or hurt. \"Bedring\" means \"improvement\", so you are wishing them a good recovery.",
+  "forms": [
+   {
+    "da": "God bedring!",
+    "en": "Get well soon!"
+   },
+   {
+    "da": "God bedring med din forkølelse.",
+    "en": "Get well soon with your cold."
+   },
+   {
+    "da": "God bedring, mor!",
+    "en": "Get well soon, Mom!"
+   }
+  ],
+  "related": [
+   {
+    "da": "syg",
+    "en": "ill"
+   },
+   {
+    "da": "pas på dig selv",
+    "en": "take care"
+   },
+   {
+    "da": "rask",
+    "en": "well, healthy"
+   }
+  ],
+  "sentence": {
+   "da": "Du er syg? **God bedring**!",
+   "en": "Are you sick? Get well soon!"
+  }
+ },
+ "god fornøjelse": {
+  "file": "g.json",
+  "explanation": "\"God fornøjelse\" means \"enjoy\", said to someone who is about to see or do something fun. Do not use it for a meal; say \"god appetit\" (enjoy your meal) instead.",
+  "forms": [
+   {
+    "da": "God fornøjelse!",
+    "en": "Enjoy!"
+   },
+   {
+    "da": "God fornøjelse med filmen.",
+    "en": "Enjoy the film."
+   },
+   {
+    "da": "Tak, i lige måde.",
+    "en": "Thanks, same to you."
+   }
+  ],
+  "related": [
+   {
+    "da": "god tur",
+    "en": "have a good trip"
+   },
+   {
+    "da": "hav det sjovt",
+    "en": "have fun"
+   },
+   {
+    "da": "god weekend",
+    "en": "have a good weekend"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal i teatret. **God fornøjelse**!",
+   "en": "We are going to the theater. Enjoy!"
+  }
+ },
+ "god påske": {
+  "file": "g.json",
+  "explanation": "\"God påske\" means \"happy Easter\" and is said before and during the Easter holiday. A reply is \"i lige måde\" (same to you).",
+  "forms": [
+   {
+    "da": "God påske!",
+    "en": "Happy Easter!"
+   },
+   {
+    "da": "God påske til jer.",
+    "en": "Happy Easter to you."
+   },
+   {
+    "da": "Tak, i lige måde.",
+    "en": "Thanks, you too."
+   }
+  ],
+  "related": [
+   {
+    "da": "påsken",
+    "en": "Easter"
+   },
+   {
+    "da": "glædelig jul",
+    "en": "merry Christmas"
+   },
+   {
+    "da": "godt nytår",
+    "en": "happy New Year"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ses efter ferien. **God påske**!",
+   "en": "See you after the holiday. Happy Easter!"
+  }
+ },
+ "god til": {
+  "file": "g.json",
+  "explanation": "\"God til\" means \"good at\" something. To name a subject, add \"til\" (to) and the subject: \"god til matematik\" (good at math). To name an activity, add \"til at\" before the action word: \"god til at synge\" (good at singing).",
+  "forms": [
+   {
+    "da": "Hun er god til dansk.",
+    "en": "She is good at Danish."
+   },
+   {
+    "da": "Jeg er god til at lave mad.",
+    "en": "I am good at cooking."
+   },
+   {
+    "da": "Han er ikke god til sport.",
+    "en": "He is not good at sports."
+   }
+  ],
+  "related": [
+   {
+    "da": "dårlig til",
+    "en": "bad at"
+   },
+   {
+    "da": "dygtig",
+    "en": "skilled"
+   },
+   {
+    "da": "flink til",
+    "en": "good at"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **god til** at spille fodbold.",
+   "en": "He is good at playing soccer."
+  }
+ },
+ "god tur": {
+  "file": "g.json",
+  "explanation": "\"God tur\" means \"have a good trip\" and is said to anyone setting off, whether by car, train, bike or plane. For a longer journey, you can say \"god rejse\" (have a good journey). A reply is \"tak\" (thanks).",
+  "forms": [
+   {
+    "da": "God tur!",
+    "en": "Have a good trip!"
+   },
+   {
+    "da": "God tur til København.",
+    "en": "Have a good trip to Copenhagen."
+   },
+   {
+    "da": "Tak, i lige måde.",
+    "en": "Thanks, you too."
+   }
+  ],
+  "related": [
+   {
+    "da": "god fornøjelse",
+    "en": "enjoy / have fun"
+   },
+   {
+    "da": "pas på dig selv",
+    "en": "take care"
+   },
+   {
+    "da": "god weekend",
+    "en": "have a good weekend"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager af sted nu. — **God tur**!",
+   "en": "We are leaving now. — Have a good trip!"
+  }
+ },
+ "god weekend": {
+  "file": "g.json",
+  "explanation": "\"God weekend\" means \"have a good weekend\". It is said when parting before the weekend. A reply is \"i lige måde\" (same to you). On Monday, people ask \"Havde du en god weekend?\" (Did you have a good weekend?).",
+  "forms": [
+   {
+    "da": "God weekend!",
+    "en": "Have a good weekend!"
+   },
+   {
+    "da": "Tak, i lige måde.",
+    "en": "Thanks, you too."
+   },
+   {
+    "da": "God weekend til jer.",
+    "en": "Have a good weekend, all of you."
+   }
+  ],
+  "related": [
+   {
+    "da": "hav en god dag",
+    "en": "have a good day"
+   },
+   {
+    "da": "god tur",
+    "en": "have a good trip"
+   },
+   {
+    "da": "god påske",
+    "en": "happy Easter"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ses på mandag. **God weekend**!",
+   "en": "See you on Monday. Have a good weekend!"
+  }
+ },
+ "godaften": {
+  "file": "g.json",
+  "explanation": "\"Godaften\" means \"good evening\". You say it when you meet someone in the evening. Do not use it when you go to bed; then you say \"godnat\" (good night).",
+  "forms": [
+   {
+    "da": "Godaften!",
+    "en": "Good evening!"
+   },
+   {
+    "da": "Godaften, alle sammen!",
+    "en": "Good evening, everyone!"
+   },
+   {
+    "da": "Sig godaften.",
+    "en": "Say good evening."
+   }
+  ],
+  "related": [
+   {
+    "da": "godmorgen",
+    "en": "good morning"
+   },
+   {
+    "da": "hej",
+    "en": "hi"
+   },
+   {
+    "da": "goddag",
+    "en": "good day"
+   },
+   {
+    "da": "en aften",
+    "en": "an evening"
+   }
+  ],
+  "sentence": {
+   "da": "**Godaften**, Peter! Hvordan har du det?",
+   "en": "Good evening, Peter! How are you?"
+  }
+ },
+ "goddag": {
+  "file": "g.json",
+  "explanation": "\"Goddag\" means \"good day\", a polite way to say hello at any time of day. With friends, say \"hej\" (hi) instead. You can answer \"goddag\" with \"goddag\".",
+  "forms": [
+   {
+    "da": "Goddag!",
+    "en": "Good day! (formal)"
+   },
+   {
+    "da": "Goddag, hvordan har du det?",
+    "en": "Hello, how are you?"
+   },
+   {
+    "da": "Goddag, kan jeg hjælpe?",
+    "en": "Hello, can I help?"
+   }
+  ],
+  "related": [
+   {
+    "da": "godaften",
+    "en": "good evening"
+   },
+   {
+    "da": "godmorgen",
+    "en": "good morning"
+   },
+   {
+    "da": "farvel",
+    "en": "goodbye"
+   }
+  ],
+  "sentence": {
+   "da": "**Goddag**, jeg hedder Peter.",
+   "en": "Hello, my name is Peter."
+  }
+ },
+ "godhed": {
+  "file": "g.json",
+  "explanation": "\"En godhed\" means \"goodness\", being warm and caring toward others.",
+  "forms": [
+   {
+    "da": "en godhed",
+    "en": "goodness"
+   },
+   {
+    "da": "godheden",
+    "en": "the goodness"
+   },
+   {
+    "da": "af godhed",
+    "en": "out of kindness"
+   }
+  ],
+  "related": [
+   {
+    "da": "venlighed",
+    "en": "kindness"
+   },
+   {
+    "da": "ondskab",
+    "en": "evil"
+   },
+   {
+    "da": "godhjertet",
+    "en": "kind-hearted"
+   }
+  ],
+  "sentence": {
+   "da": "Alle kender hende for hendes **godhed** mod dyr.",
+   "en": "Everyone knows her for her goodness toward animals."
+  }
+ },
+ "godmorgen": {
+  "file": "g.json",
+  "explanation": "\"Godmorgen\" means \"good morning\", said until late morning. For later in the day, you switch to \"goddag\" (good day).",
+  "forms": [
+   {
+    "da": "Godmorgen!",
+    "en": "Good morning!"
+   },
+   {
+    "da": "Godmorgen, Anna!",
+    "en": "Good morning, Anna!"
+   },
+   {
+    "da": "Sig godmorgen.",
+    "en": "Say good morning."
+   }
+  ],
+  "related": [
+   {
+    "da": "hej",
+    "en": "hi"
+   },
+   {
+    "da": "godaften",
+    "en": "good evening"
+   },
+   {
+    "da": "godnat",
+    "en": "good night"
+   },
+   {
+    "da": "en morgen",
+    "en": "a morning"
+   }
+  ],
+  "sentence": {
+   "da": "**Godmorgen**! Har du sovet godt?",
+   "en": "Good morning! Did you sleep well?"
+  }
+ },
+ "godnat": {
+  "file": "g.json",
+  "explanation": "\"Godnat\" means \"good night\" and is said when you or someone else is going to bed, or when you part late in the evening. It is not a greeting for meeting someone: for that use \"godaften\" (good evening).",
+  "forms": [
+   {
+    "da": "Godnat!",
+    "en": "Good night!"
+   },
+   {
+    "da": "Godnat og sov godt!",
+    "en": "Good night and sleep well!"
+   },
+   {
+    "da": "Sig godnat.",
+    "en": "Say good night."
+   }
+  ],
+  "related": [
+   {
+    "da": "sov godt",
+    "en": "sleep well"
+   },
+   {
+    "da": "en nat",
+    "en": "a night"
+   },
+   {
+    "da": "godmorgen",
+    "en": "good morning"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er træt og går i seng. **Godnat**!",
+   "en": "I am tired and going to bed. Good night!"
+  }
+ },
+ "godt nytår": {
+  "file": "g.json",
+  "explanation": "\"Godt nytår\" means \"happy New Year\". It uses \"godt\" (good) because \"nytår\" (New Year) is an et-word, so it is not \"god nytår\". A reply is \"i lige måde\" (same to you).",
+  "forms": [
+   {
+    "da": "Godt nytår!",
+    "en": "Happy New Year!"
+   },
+   {
+    "da": "Godt nytår til jer alle.",
+    "en": "Happy New Year to you all."
+   },
+   {
+    "da": "Tak, i lige måde.",
+    "en": "Thanks, same to you."
+   }
+  ],
+  "related": [
+   {
+    "da": "nytårsaften",
+    "en": "New Year's Eve"
+   },
+   {
+    "da": "glædelig jul",
+    "en": "merry Christmas"
+   },
+   {
+    "da": "nytårsdag",
+    "en": "New Year's Day"
+   }
+  ],
+  "sentence": {
+   "da": "Det er midnat. **Godt nytår**!",
+   "en": "It is midnight. Happy New Year!"
+  }
+ },
+ "golf": {
+  "file": "g.json",
+  "explanation": "\"Golf\" means \"golf\", the sport where you hit a small ball into holes with clubs.",
+  "forms": [
+   {
+    "da": "golf",
+    "en": "golf"
+   },
+   {
+    "da": "Jeg spiller golf.",
+    "en": "I play golf."
+   },
+   {
+    "da": "en golfspiller",
+    "en": "a golf player"
+   }
+  ],
+  "related": [
+   {
+    "da": "en golfbane",
+    "en": "a golf course"
+   },
+   {
+    "da": "badminton",
+    "en": "badminton"
+   },
+   {
+    "da": "fodbold",
+    "en": "soccer"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiller **golf** på en grøn bane.",
+   "en": "I play golf on a green course."
+  }
+ },
+ "grader": {
+  "file": "g.json",
+  "explanation": "\"Grader\" means \"degrees\", used for temperature. For below zero, Danes say \"minus\": \"Det er minus to grader\" (It is minus two degrees).",
+  "forms": [
+   {
+    "da": "en grad",
+    "en": "a degree"
+   },
+   {
+    "da": "graden",
+    "en": "the degree"
+   },
+   {
+    "da": "grader",
+    "en": "degrees"
+   },
+   {
+    "da": "graderne",
+    "en": "the degrees"
+   }
+  ],
+  "related": [
+   {
+    "da": "en temperatur",
+    "en": "a temperature"
+   },
+   {
+    "da": "varmt",
+    "en": "warm / hot"
+   },
+   {
+    "da": "koldt",
+    "en": "cold"
+   }
+  ],
+  "sentence": {
+   "da": "Der er kun fem **grader** udenfor.",
+   "en": "It is only five degrees outside."
+  }
+ },
+ "gradvist": {
+  "file": "g.json",
+  "explanation": "\"Gradvist\" means \"gradually\", changing a little at a time instead of all at once. To describe a thing, use \"gradvis\" (gradual): \"en gradvis ændring\" (a gradual change).",
+  "forms": [
+   {
+    "da": "Det bliver gradvist bedre",
+    "en": "It is gradually getting better"
+   },
+   {
+    "da": "gradvist øge",
+    "en": "to gradually increase"
+   },
+   {
+    "da": "gradvist over tid",
+    "en": "gradually over time"
+   }
+  ],
+  "related": [
+   {
+    "da": "lidt efter lidt",
+    "en": "little by little"
+   },
+   {
+    "da": "langsomt",
+    "en": "slowly"
+   },
+   {
+    "da": "pludselig",
+    "en": "suddenly"
+   },
+   {
+    "da": "efterhånden",
+    "en": "as time goes on"
+   }
+  ],
+  "sentence": {
+   "da": "Isen smelter ikke på én dag, men **gradvist** over flere uger.",
+   "en": "The ice does not melt in one day, but gradually over several weeks."
+  }
+ },
+ "gratis": {
+  "file": "g.json",
+  "explanation": "\"Gratis\" means \"free\", as in costing no money. Do not mix it up with \"fri\", which means off from work or school: \"Jeg har fri i dag\" (I have the day off today).",
+  "forms": [
+   {
+    "da": "gratis kaffe",
+    "en": "free coffee"
+   },
+   {
+    "da": "Det er gratis",
+    "en": "It is free"
+   },
+   {
+    "da": "gratis adgang",
+    "en": "free entry"
+   }
+  ],
+  "related": [
+   {
+    "da": "billig",
+    "en": "cheap"
+   },
+   {
+    "da": "dyr",
+    "en": "expensive"
+   },
+   {
+    "da": "at betale",
+    "en": "to pay"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal ikke betale. Det er **gratis**.",
+   "en": "You do not have to pay. It is free."
+  }
+ },
+ "grillkul": {
+  "file": "g.json",
+  "explanation": "\"Grillkul\" means \"charcoal\", the fuel for a barbecue. It is built from grill (barbecue) and kul (coal).",
+  "forms": [
+   {
+    "da": "grillkul",
+    "en": "charcoal"
+   },
+   {
+    "da": "noget grillkul",
+    "en": "some charcoal"
+   },
+   {
+    "da": "en sæk grillkul",
+    "en": "a bag of charcoal"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kulgrill",
+    "en": "a charcoal grill"
+   },
+   {
+    "da": "en gasgrill",
+    "en": "a gas grill"
+   },
+   {
+    "da": "en tændvæske",
+    "en": "lighter fluid"
+   },
+   {
+    "da": "briketter",
+    "en": "briquettes"
+   }
+  ],
+  "sentence": {
+   "da": "Vi lægger **grillkul** i grillen og tænder det.",
+   "en": "We put charcoal in the grill and light it."
+  }
+ },
+ "grim": {
+  "file": "g.json",
+  "explanation": "\"Grim\" means \"ugly\" and can describe anyone or anything that looks bad, such as a person or a building. It can also mean unpleasant: \"grimt vejr\" (nasty weather) and \"et grimt ord\" (a nasty word). Saying \"Du er grim\" (You are ugly) to a person is very rude.",
+  "forms": [
+   {
+    "da": "en grim bygning",
+    "en": "an ugly building"
+   },
+   {
+    "da": "et grimt billede",
+    "en": "an ugly picture"
+   },
+   {
+    "da": "grimme bygninger",
+    "en": "ugly buildings"
+   }
+  ],
+  "related": [
+   {
+    "da": "smuk",
+    "en": "beautiful"
+   },
+   {
+    "da": "pæn",
+    "en": "nice-looking"
+   },
+   {
+    "da": "flot",
+    "en": "good-looking / stylish"
+   }
+  ],
+  "sentence": {
+   "da": "Bygningen er **grim** og ikke smuk.",
+   "en": "The building is ugly and not beautiful."
+  }
+ }
+}

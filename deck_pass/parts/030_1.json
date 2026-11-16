@@ -1,0 +1,499 @@
+{
+ "hvad med dig?": {
+  "explanation": "\"Hvad med dig?\" means \"What about you?\". Literally, it is \"what with you\". To ask about a person by name, put the name in place of \"dig\" (you): \"Hvad med Anna?\" (What about Anna?)",
+  "related": [
+   {
+    "da": "og dig?",
+    "en": "and you?"
+   },
+   {
+    "da": "hvad med i morgen?",
+    "en": "what about tomorrow?"
+   },
+   {
+    "da": "hvad med mig?",
+    "en": "what about me?"
+   }
+  ]
+ },
+ "hvad som helst": {
+  "explanation": "\"Hvad som helst\" means \"anything\". To say any person, use \"hvem som helst\" (anyone) instead: \"Hvem som helst kan komme\" (Anyone can come).",
+  "related": [
+   {
+    "da": "hvor som helst",
+    "en": "anywhere"
+   },
+   {
+    "da": "når som helst",
+    "en": "anytime"
+   },
+   {
+    "da": "alt",
+    "en": "everything"
+   },
+   {
+    "da": "ingenting",
+    "en": "nothing"
+   }
+  ]
+ },
+ "hvad så?": {
+  "explanation": "\"Hvad så?\" means \"What's up?\". Literally, it is \"what then\", because \"så\" means \"then\" here. The same \"så\" means \"so\" in other places: \"Jeg er så glad\" (I am so happy).",
+  "related": [
+   {
+    "da": "hvordan går det?",
+    "en": "how is it going?"
+   },
+   {
+    "da": "hvad nyt?",
+    "en": "what's new?"
+   },
+   {
+    "da": "hvad sker der?",
+    "en": "what's happening?"
+   }
+  ]
+ },
+ "hvede": {
+  "explanation": "\"Hvede\" means \"wheat\". It also starts other words, such as \"hvedebrød\" (wheat bread) and \"hvedemel\" (wheat flour).",
+  "related": [
+   {
+    "da": "byg",
+    "en": "barley"
+   },
+   {
+    "da": "havre",
+    "en": "oats"
+   },
+   {
+    "da": "rug",
+    "en": "rye"
+   },
+   {
+    "da": "majs",
+    "en": "corn"
+   }
+  ]
+ },
+ "hvedemel": {
+  "explanation": "\"Hvedemel\" means \"wheat flour\". It is built from \"hvede\" (wheat) and \"mel\" (flour). Another word that starts with \"hvede\" is \"hvedebrød\" (wheat bread).",
+  "related": [
+   {
+    "da": "rugmel",
+    "en": "rye flour"
+   },
+   {
+    "da": "fuldkornsmel",
+    "en": "whole-grain flour"
+   },
+   {
+    "da": "havremel",
+    "en": "oat flour"
+   },
+   {
+    "da": "majsmel",
+    "en": "corn flour"
+   }
+  ]
+ },
+ "hvem": {
+  "explanation": "\"Hvem\" means \"who\". English has two forms, \"who\" and \"whom\", but Danish uses \"hvem\" for both. When it asks who does the action, say: \"Hvem taler?\" (Who is speaking?) When it asks who is spoken to, say: \"Hvem taler du med?\" (To whom are you speaking?) To ask about a thing, use \"hvad\" (what) instead: \"Hvad spiser du?\" (What are you eating?)",
+  "related": [
+   {
+    "da": "hvilken",
+    "en": "which"
+   },
+   {
+    "da": "hvor",
+    "en": "where"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   },
+   {
+    "da": "hvorfor",
+    "en": "why"
+   }
+  ]
+ },
+ "hvem som helst": {
+  "explanation": "\"Hvem som helst\" means \"anyone\". To say anything, use \"hvad som helst\" (anything) instead: \"Jeg spiser hvad som helst\" (I eat anything).",
+  "related": [
+   {
+    "da": "nogen",
+    "en": "someone"
+   },
+   {
+    "da": "alle",
+    "en": "everyone"
+   },
+   {
+    "da": "ingen",
+    "en": "no one"
+   },
+   {
+    "da": "enhver",
+    "en": "anybody"
+   }
+  ]
+ },
+ "hver": {
+  "explanation": "\"Hver\" means \"every\". Put it before a word that takes \"en\", such as \"en dag\" (a day): \"hver dag\" (every day). For a word that takes \"et\", use \"hvert\" instead: \"hvert år\" (every year).",
+  "related": [
+   {
+    "da": "hver gang",
+    "en": "every time"
+   },
+   {
+    "da": "hver anden",
+    "en": "every other"
+   },
+   {
+    "da": "enhver",
+    "en": "anybody"
+   },
+   {
+    "da": "alle",
+    "en": "all"
+   }
+  ]
+ },
+ "hver dag": {
+  "explanation": "\"Hver dag\" means \"every day\". It is built from \"hver\" (every) and \"dag\" (day). To say every second day, put \"anden\" (other) between them: \"hver anden dag\" (every other day).",
+  "related": [
+   {
+    "da": "hver morgen",
+    "en": "every morning"
+   },
+   {
+    "da": "hver gang",
+    "en": "every time"
+   },
+   {
+    "da": "hver måned",
+    "en": "every month"
+   },
+   {
+    "da": "hver aften",
+    "en": "every evening"
+   }
+  ]
+ },
+ "hverken": {
+  "explanation": "\"Hverken\" means \"neither\". It is used with \"eller\" (nor) as a pair: \"hverken A eller B\" (neither A nor B). To say you have neither of two things, say: \"Jeg har hverken tid eller penge\" (I have neither time nor money).",
+  "related": [
+   {
+    "da": "enten",
+    "en": "either"
+   },
+   {
+    "da": "ingen",
+    "en": "no / none"
+   },
+   {
+    "da": "ingenting",
+    "en": "nothing"
+   },
+   {
+    "da": "aldrig",
+    "en": "never"
+   }
+  ]
+ },
+ "hverken…eller": {
+  "explanation": "\"Hverken…eller\" means \"neither…nor\". To say you have neither of two things, put \"hverken\" before the first and \"eller\" before the second: \"Jeg har hverken tid eller penge\" (I have neither time nor money). Do not add \"ikke\" (not), because the sentence already says no.",
+  "related": [
+   {
+    "da": "enten…eller",
+    "en": "either…or"
+   },
+   {
+    "da": "både…og",
+    "en": "both…and"
+   },
+   {
+    "da": "ingen",
+    "en": "no one"
+   },
+   {
+    "da": "intet",
+    "en": "nothing"
+   }
+  ]
+ },
+ "hvert": {
+  "explanation": "\"Hvert\" means \"every\". Put it before a word that takes \"et\", such as \"et år\" (a year): \"hvert år\" (every year). For a word that takes \"en\", use \"hver\" instead: \"hver dag\" (every day).",
+  "related": [
+   {
+    "da": "alle",
+    "en": "all"
+   },
+   {
+    "da": "hver anden",
+    "en": "every other"
+   },
+   {
+    "da": "hver gang",
+    "en": "every time"
+   },
+   {
+    "da": "ethvert",
+    "en": "any / every"
+   }
+  ]
+ },
+ "hvid": {
+  "explanation": "\"Hvid\" means \"white\". It also starts \"hvidløg\" (garlic), which is literally white onion.",
+  "related": [
+   {
+    "da": "sort",
+    "en": "black"
+   },
+   {
+    "da": "grå",
+    "en": "gray"
+   },
+   {
+    "da": "rød",
+    "en": "red"
+   },
+   {
+    "da": "hvidvin",
+    "en": "white wine"
+   }
+  ]
+ },
+ "hvidløg": {
+  "explanation": "\"Hvidløg\" means \"garlic\". It is built from \"hvid\" (white) and \"løg\" (onion). To count garlic, use \"et fed\" (a clove): \"to fed hvidløg\" (two cloves of garlic).",
+  "related": [
+   {
+    "da": "en hvidløgspresser",
+    "en": "a garlic press"
+   },
+   {
+    "da": "et rødløg",
+    "en": "a red onion"
+   },
+   {
+    "da": "et forårsløg",
+    "en": "a spring onion"
+   },
+   {
+    "da": "hvidløgsbrød",
+    "en": "garlic bread"
+   }
+  ]
+ },
+ "hvilke": {
+  "explanation": "\"Hvilke\" means \"which\". Put it before a word that names more than one thing: \"hvilke skoler\" (which schools). To ask about one thing that takes \"en\", use \"hvilken\": \"hvilken bil\" (which car). For one thing that takes \"et\", use \"hvilket\": \"hvilket hus\" (which house).",
+  "related": [
+   {
+    "da": "hvad",
+    "en": "what"
+   },
+   {
+    "da": "hvem",
+    "en": "who"
+   },
+   {
+    "da": "hvor mange",
+    "en": "how many"
+   },
+   {
+    "da": "hvorfor",
+    "en": "why"
+   }
+  ]
+ },
+ "hvilken": {
+  "explanation": "\"Hvilken\" means \"which\". Put it before a word that takes \"en\", such as \"en bil\" (a car): \"Hvilken bil vil du have?\" (Which car do you want?) For a word that takes \"et\", use \"hvilket\" instead: \"Hvilket hus?\" (Which house?) When no word follows, use \"hvad\" (what): \"Hvad vil du have?\" (What do you want?)",
+  "related": [
+   {
+    "da": "hvilke",
+    "en": "which (more than one)"
+   },
+   {
+    "da": "hvem",
+    "en": "who"
+   },
+   {
+    "da": "hvordan",
+    "en": "how"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   }
+  ]
+ },
+ "hvilket": {
+  "explanation": "\"Hvilket\" means \"which\". Put it before a word that takes \"et\", such as \"et land\" (a country): \"Hvilket land kommer du fra?\" (Which country are you from?) For a word that takes \"en\", use \"hvilken\" instead: \"Hvilken bil?\" (Which car?)",
+  "related": [
+   {
+    "da": "hvilke",
+    "en": "which (more than one)"
+   },
+   {
+    "da": "hvad",
+    "en": "what"
+   },
+   {
+    "da": "hvem",
+    "en": "who"
+   },
+   {
+    "da": "hvor",
+    "en": "where"
+   }
+  ]
+ },
+ "hvis": {
+  "explanation": "\"Hvis\" means \"if\". To say a condition, put \"hvis\" before it: \"Hvis jeg har tid, kommer jeg\" (If I have time, I will come). Do not mix it up with \"om\" (whether): \"Jeg ved ikke, om han kommer\" (I do not know whether he is coming).",
+  "related": [
+   {
+    "da": "når",
+    "en": "when"
+   },
+   {
+    "da": "medmindre",
+    "en": "unless"
+   },
+   {
+    "da": "selvom",
+    "en": "even though"
+   },
+   {
+    "da": "ellers",
+    "en": "otherwise"
+   }
+  ]
+ },
+ "hvis jeg var dig": {
+  "explanation": "\"Hvis jeg var dig\" means \"if I were you\". To give advice, start with it and then say what you would do: \"Hvis jeg var dig, ville jeg ringe til ham\" (If I were you, I would call him). The verb \"var\" (was) is used here where English says \"were\".",
+  "related": [
+   {
+    "da": "et råd",
+    "en": "advice"
+   },
+   {
+    "da": "at foreslå",
+    "en": "to suggest"
+   },
+   {
+    "da": "at anbefale",
+    "en": "to recommend"
+   },
+   {
+    "da": "hvis det var mig",
+    "en": "if it were me"
+   }
+  ]
+ },
+ "hvor": {
+  "explanation": "\"Hvor\" means \"where\". To ask \"how\" about a quality or an amount, put \"hvor\" before the word: \"hvor gammel\" (how old), \"hvor mange\" (how many).",
+  "related": [
+   {
+    "da": "her",
+    "en": "here"
+   },
+   {
+    "da": "der",
+    "en": "there"
+   },
+   {
+    "da": "hvorfra",
+    "en": "from where"
+   },
+   {
+    "da": "hvordan",
+    "en": "how"
+   }
+  ]
+ },
+ "hvor er toilettet?": {
+  "explanation": "\"Hvor er toilettet?\" means \"Where is the restroom?\". It is built from \"hvor\" (where), \"er\" (is) and \"toilettet\" (the toilet), where the ending \"-et\" means \"the\".",
+  "related": [
+   {
+    "da": "hvor er stationen?",
+    "en": "where is the station?"
+   },
+   {
+    "da": "et badeværelse",
+    "en": "a bathroom"
+   },
+   {
+    "da": "hvor er udgangen?",
+    "en": "where is the exit?"
+   }
+  ]
+ },
+ "hvor gammel er du?": {
+  "explanation": "\"Hvor gammel er du?\" means \"How old are you?\". It is built from \"hvor\" (how), \"gammel\" (old), \"er\" (are) and \"du\" (you). To say your age, you can leave out \"gammel\": \"Jeg er tyve år\" (I am twenty years old).",
+  "related": [
+   {
+    "da": "ung",
+    "en": "young"
+   },
+   {
+    "da": "en alder",
+    "en": "an age"
+   },
+   {
+    "da": "hvor høj er du?",
+    "en": "how tall are you?"
+   }
+  ]
+ },
+ "hvor kommer du fra?": {
+  "explanation": "\"Hvor kommer du fra?\" means \"Where are you from?\". Literally, it asks where you come from. To answer, say: \"Jeg kommer fra England\" (I come from England). The word \"fra\" (from) stays at the end of the question, as in English.",
+  "related": [
+   {
+    "da": "hvor bor du?",
+    "en": "where do you live?"
+   },
+   {
+    "da": "hvor er du fra?",
+    "en": "where are you from?"
+   },
+   {
+    "da": "at komme",
+    "en": "to come"
+   }
+  ]
+ },
+ "hvor meget koster det?": {
+  "explanation": "\"Hvor meget koster det?\" means \"How much does it cost?\". Word by word, it is \"how much costs it\". To ask about weight, use the same start with another verb: \"Hvor meget vejer det?\" (How much does it weigh?)",
+  "related": [
+   {
+    "da": "at koste",
+    "en": "to cost"
+   },
+   {
+    "da": "en pris",
+    "en": "a price"
+   },
+   {
+    "da": "hvad koster det?",
+    "en": "what does it cost?"
+   }
+  ]
+ },
+ "hvor som helst": {
+  "explanation": "\"Hvor som helst\" means \"anywhere\". The ending \"som helst\" also follows other question words: \"hvem som helst\" (anyone), \"hvad som helst\" (anything) and \"hvornår som helst\" (any time).",
+  "related": [
+   {
+    "da": "overalt",
+    "en": "everywhere"
+   },
+   {
+    "da": "ingen steder",
+    "en": "nowhere"
+   },
+   {
+    "da": "et eller andet sted",
+    "en": "somewhere"
+   }
+  ]
+ }
+}

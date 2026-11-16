@@ -1,0 +1,4182 @@
+{
+ "at hoste": {
+  "file": "h.json",
+  "explanation": "\"At hoste\" means \"to cough\", pushing air out of your throat with a sudden noise, often when you are sick.",
+  "forms": [
+   {
+    "da": "at hoste",
+    "en": "to cough"
+   },
+   {
+    "da": "jeg hoster",
+    "en": "I cough"
+   },
+   {
+    "da": "jeg hostede",
+    "en": "I coughed"
+   },
+   {
+    "da": "jeg har hostet",
+    "en": "I have coughed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at nyse",
+    "en": "to sneeze"
+   },
+   {
+    "da": "en forkølelse",
+    "en": "a cold"
+   },
+   {
+    "da": "en hostesaft",
+    "en": "cough syrup"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er syg og må **hoste** hele natten.",
+   "en": "I am sick and have to cough all night."
+  }
+ },
+ "at hugge": {
+  "file": "h.json",
+  "explanation": "\"At hugge\" means \"to chop\", to cut something hard with heavy blows, for example wood. It is a forceful cut, unlike \"at skære\" (to cut with a knife).",
+  "forms": [
+   {
+    "da": "at hugge",
+    "en": "to chop"
+   },
+   {
+    "da": "jeg hugger",
+    "en": "I chop"
+   },
+   {
+    "da": "jeg huggede",
+    "en": "I chopped"
+   },
+   {
+    "da": "jeg har hugget",
+    "en": "I have chopped"
+   }
+  ],
+  "related": [
+   {
+    "da": "en økse",
+    "en": "an axe"
+   },
+   {
+    "da": "at save",
+    "en": "to saw"
+   },
+   {
+    "da": "at kløve",
+    "en": "to split firewood"
+   }
+  ],
+  "sentence": {
+   "da": "Man bruger en økse til at **hugge** træ.",
+   "en": "You use an axe to chop wood."
+  }
+ },
+ "at hulke": {
+  "file": "h.json",
+  "explanation": "\"At hulke\" means \"to sob\": to cry so hard that your chest shakes and your breath catches. It is a heavier crying than ordinary \"at græde\" (to cry).",
+  "forms": [
+   {
+    "da": "at hulke",
+    "en": "to sob"
+   },
+   {
+    "da": "jeg hulker",
+    "en": "I sob"
+   },
+   {
+    "da": "jeg hulkede",
+    "en": "I sobbed"
+   },
+   {
+    "da": "jeg har hulket",
+    "en": "I have sobbed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et hulk",
+    "en": "a sob"
+   },
+   {
+    "da": "at snøfte",
+    "en": "to sniffle"
+   },
+   {
+    "da": "at tude",
+    "en": "to bawl"
+   },
+   {
+    "da": "at hyle",
+    "en": "to howl"
+   }
+  ],
+  "sentence": {
+   "da": "Efter nyheden om ulykken begyndte hun at **hulke**.",
+   "en": "After the news of the accident she began to sob."
+  }
+ },
+ "at huske": {
+  "file": "h.json",
+  "explanation": "\"At huske\" means \"to remember\", both to recall something and to remember to do something. \"Husk at ringe\" means \"Remember to call\". \"At huske på\" means \"to keep in mind\".",
+  "forms": [
+   {
+    "da": "at huske",
+    "en": "to remember"
+   },
+   {
+    "da": "jeg husker",
+    "en": "I remember"
+   },
+   {
+    "da": "jeg huskede",
+    "en": "I remembered"
+   },
+   {
+    "da": "jeg har husket",
+    "en": "I have remembered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at glemme",
+    "en": "to forget"
+   },
+   {
+    "da": "en hukommelse",
+    "en": "a memory (the ability)"
+   },
+   {
+    "da": "et minde",
+    "en": "a memory (of an event)"
+   },
+   {
+    "da": "at minde om",
+    "en": "to remind of"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **huske** hans navn.",
+   "en": "I can't remember his name."
+  }
+ },
+ "at huske på": {
+  "file": "h.json",
+  "explanation": "\"At huske på\" means \"to keep in mind\": \"Husk på, at det er farligt\" (Keep in mind that it is dangerous). Without \"på\" (on), \"at huske\" means \"to remember\": \"Jeg husker hans navn\" (I remember his name).",
+  "forms": [
+   {
+    "da": "at huske på",
+    "en": "to keep in mind"
+   },
+   {
+    "da": "jeg husker på",
+    "en": "I keep in mind"
+   },
+   {
+    "da": "jeg huskede på",
+    "en": "I kept in mind"
+   },
+   {
+    "da": "jeg har husket på",
+    "en": "I have kept in mind"
+   }
+  ],
+  "related": [
+   {
+    "da": "at glemme",
+    "en": "to forget"
+   },
+   {
+    "da": "at tænke på",
+    "en": "to think about"
+   },
+   {
+    "da": "at minde om",
+    "en": "to remind of"
+   },
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **huske på**, at vejen er glat.",
+   "en": "You must keep in mind that the road is slippery."
+  }
+ },
+ "at hvile": {
+  "file": "h.json",
+  "explanation": "\"At hvile\" means \"to rest\", to stop being active so your body can recover. To say that you rest yourself, Danes add \"sig\" (oneself): \"Jeg hviler mig lidt\" (I'm resting a bit).",
+  "forms": [
+   {
+    "da": "at hvile",
+    "en": "to rest"
+   },
+   {
+    "da": "jeg hviler",
+    "en": "I rest"
+   },
+   {
+    "da": "jeg hvilede",
+    "en": "I rested"
+   },
+   {
+    "da": "jeg har hvilet",
+    "en": "I have rested"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pause",
+    "en": "a break"
+   },
+   {
+    "da": "at slappe af",
+    "en": "to relax"
+   },
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   },
+   {
+    "da": "træt",
+    "en": "tired"
+   }
+  ],
+  "sentence": {
+   "da": "Du bør **hvile** benet i en uge.",
+   "en": "You should rest your leg for a week."
+  }
+ },
+ "at hvile sig": {
+  "file": "h.json",
+  "explanation": "\"At hvile sig\" means \"to rest\" after something tiring. To relax and do nothing in particular, use \"at slappe af\" (to relax): \"Jeg slapper af i sofaen\" (I relax on the sofa).",
+  "forms": [
+   {
+    "da": "at hvile sig",
+    "en": "to rest"
+   },
+   {
+    "da": "jeg hviler mig",
+    "en": "I rest"
+   },
+   {
+    "da": "jeg hvilede mig",
+    "en": "I rested"
+   },
+   {
+    "da": "jeg har hvilet mig",
+    "en": "I have rested"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pause",
+    "en": "a break"
+   },
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   },
+   {
+    "da": "træt",
+    "en": "tired"
+   }
+  ],
+  "sentence": {
+   "da": "Han er træt og vil **hvile sig** lidt.",
+   "en": "He is tired and wants to rest a little."
+  }
+ },
+ "at hviske": {
+  "file": "h.json",
+  "explanation": "\"At hviske\" means \"to whisper\", to speak in a very soft voice so that only someone close can hear.",
+  "forms": [
+   {
+    "da": "at hviske",
+    "en": "to whisper"
+   },
+   {
+    "da": "jeg hvisker",
+    "en": "I whisper"
+   },
+   {
+    "da": "jeg hviskede",
+    "en": "I whispered"
+   },
+   {
+    "da": "jeg har hvisket",
+    "en": "I have whispered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at mumle",
+    "en": "to mumble"
+   },
+   {
+    "da": "at tale lavt",
+    "en": "to speak quietly"
+   },
+   {
+    "da": "stille",
+    "en": "quiet"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **hviske** en hemmelighed i mit øre.",
+   "en": "She wants to whisper a secret in my ear."
+  }
+ },
+ "at hygge sig": {
+  "file": "h.json",
+  "explanation": "\"At hygge sig\" means \"to have a cozy, nice time\". To wish someone that, say \"Hyg dig!\" (Have a nice time!)",
+  "forms": [
+   {
+    "da": "at hygge sig",
+    "en": "to have a cozy / nice time"
+   },
+   {
+    "da": "jeg hygger mig",
+    "en": "I have a cozy / nice time"
+   },
+   {
+    "da": "jeg hyggede mig",
+    "en": "I had a cozy / nice time"
+   },
+   {
+    "da": "jeg har hygget mig",
+    "en": "I have had a cozy / nice time"
+   }
+  ],
+  "related": [
+   {
+    "da": "hyggelig",
+    "en": "cozy / nice"
+   },
+   {
+    "da": "en hyggeaften",
+    "en": "a cozy evening"
+   },
+   {
+    "da": "at more sig",
+    "en": "to have fun"
+   },
+   {
+    "da": "at slappe af",
+    "en": "to relax"
+   }
+  ],
+  "sentence": {
+   "da": "Familien vil **hygge sig** ved bålet i aften.",
+   "en": "The family wants to have a cozy time by the fire tonight."
+  }
+ },
+ "at hylde": {
+  "file": "h.json",
+  "explanation": "\"At hylde\" means \"to honor\" or \"to celebrate\": to say in public that someone has done something great, often with applause or a speech. For a birthday or a holiday, use \"at fejre\" (to celebrate).",
+  "forms": [
+   {
+    "da": "at hylde",
+    "en": "to celebrate / honor"
+   },
+   {
+    "da": "jeg hylder",
+    "en": "I celebrate / honor"
+   },
+   {
+    "da": "jeg hyldede",
+    "en": "I celebrated / honored"
+   },
+   {
+    "da": "jeg har hyldet",
+    "en": "I have celebrated / honored"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hyldest",
+    "en": "a tribute"
+   },
+   {
+    "da": "at rose",
+    "en": "to praise"
+   },
+   {
+    "da": "at lovprise",
+    "en": "to extol"
+   }
+  ],
+  "sentence": {
+   "da": "Hele byen vil **hylde** holdet, der vandt pokalen.",
+   "en": "The whole town wants to honor the team that won the cup."
+  }
+ },
+ "at hyle": {
+  "file": "h.json",
+  "explanation": "\"At hyle\" means \"to howl\", to make a long, loud, wailing sound. It is used for wolves and dogs, and also for wind: \"Vinden hyler om huset\" (The wind howls around the house).",
+  "forms": [
+   {
+    "da": "at hyle",
+    "en": "to howl"
+   },
+   {
+    "da": "jeg hyler",
+    "en": "I howl"
+   },
+   {
+    "da": "jeg hylede",
+    "en": "I howled"
+   },
+   {
+    "da": "jeg har hylet",
+    "en": "I have howled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tude",
+    "en": "to bawl"
+   },
+   {
+    "da": "at skrige",
+    "en": "to scream"
+   },
+   {
+    "da": "at hvine",
+    "en": "to squeal"
+   }
+  ],
+  "sentence": {
+   "da": "Ulve kan **hyle** højt om natten.",
+   "en": "Wolves can howl loudly at night."
+  }
+ },
+ "at hyre": {
+  "file": "h.json",
+  "explanation": "\"At hyre\" means \"to hire\", to pay someone to do a job. It can also mean renting something for a short time, like a boat. For a car or an apartment, use \"at leje\" (to rent) instead.",
+  "forms": [
+   {
+    "da": "at hyre",
+    "en": "to hire"
+   },
+   {
+    "da": "jeg hyrer",
+    "en": "I hire"
+   },
+   {
+    "da": "jeg hyrede",
+    "en": "I hired"
+   },
+   {
+    "da": "jeg har hyret",
+    "en": "I have hired"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ansætte",
+    "en": "to employ"
+   },
+   {
+    "da": "at fyre",
+    "en": "to fire"
+   },
+   {
+    "da": "at udleje",
+    "en": "to rent out"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **hyre** en tømrer til at bygge huset.",
+   "en": "We must hire a carpenter to build the house."
+  }
+ },
+ "at håbe": {
+  "file": "h.json",
+  "explanation": "\"At håbe\" means \"to hope\", wanting something good to happen. To name the thing you hope for, add \"på\" (on) before that thing: \"håbe på en gave\" (hope for a gift).",
+  "forms": [
+   {
+    "da": "at håbe",
+    "en": "to hope"
+   },
+   {
+    "da": "jeg håber",
+    "en": "I hope"
+   },
+   {
+    "da": "jeg håbede",
+    "en": "I hoped"
+   },
+   {
+    "da": "jeg har håbet",
+    "en": "I have hoped"
+   }
+  ],
+  "related": [
+   {
+    "da": "et håb",
+    "en": "a hope"
+   },
+   {
+    "da": "at ønske",
+    "en": "to wish"
+   },
+   {
+    "da": "forhåbentlig",
+    "en": "hopefully"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **håbe** på godt vejr i morgen.",
+   "en": "We must hope for good weather tomorrow."
+  }
+ },
+ "at håndtere": {
+  "file": "h.json",
+  "explanation": "\"At håndtere\" means \"to handle\", to deal with a problem, a task or a person. It contains \"hånd\" (hand), but it does not mean touching: \"Hun håndterer klagerne\" (She deals with the complaints).",
+  "forms": [
+   {
+    "da": "at håndtere",
+    "en": "to handle"
+   },
+   {
+    "da": "jeg håndterer",
+    "en": "I handle"
+   },
+   {
+    "da": "jeg håndterede",
+    "en": "I handled"
+   },
+   {
+    "da": "jeg har håndteret",
+    "en": "I have handled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at klare",
+    "en": "to cope"
+   },
+   {
+    "da": "at tackle",
+    "en": "to tackle"
+   },
+   {
+    "da": "en håndtering",
+    "en": "handling"
+   },
+   {
+    "da": "at behandle",
+    "en": "to treat"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren kan **håndtere** en stor klasse uden problemer.",
+   "en": "The teacher can handle a big class without problems."
+  }
+ },
+ "at hælde": {
+  "file": "h.json",
+  "explanation": "\"At hælde\" means \"to pour\" and \"to lean\": \"Jeg hælder mælk i glasset\" (I pour milk into the glass). Something can also slope: \"Taget hælder\" (The roof slopes).",
+  "forms": [
+   {
+    "da": "at hælde",
+    "en": "to pour / lean"
+   },
+   {
+    "da": "jeg hælder",
+    "en": "I pour / lean"
+   },
+   {
+    "da": "jeg hældte",
+    "en": "I poured / leaned"
+   },
+   {
+    "da": "jeg har hældt",
+    "en": "I have poured / leaned"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hældning",
+    "en": "a slope"
+   },
+   {
+    "da": "at skænke",
+    "en": "to pour a drink"
+   },
+   {
+    "da": "at vippe",
+    "en": "to tilt"
+   },
+   {
+    "da": "at læne sig",
+    "en": "to lean"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **hælde** langsomt, når kanden er fuld.",
+   "en": "You have to pour slowly when the pitcher is full."
+  }
+ },
+ "at hænge": {
+  "file": "h.json",
+  "explanation": "\"At hænge\" means \"to hang\", for something that is hanging in place. \"Hænge ud\" means \"to hang out\": \"Vi hænger ud efter skole\" (We hang out after school).",
+  "forms": [
+   {
+    "da": "at hænge",
+    "en": "to hang"
+   },
+   {
+    "da": "jeg hænger",
+    "en": "I hang"
+   },
+   {
+    "da": "jeg hang",
+    "en": "I hung"
+   },
+   {
+    "da": "jeg har hængt",
+    "en": "I have hung"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hænge op",
+    "en": "to hang up"
+   },
+   {
+    "da": "en bøjle",
+    "en": "a hanger"
+   },
+   {
+    "da": "at dingle",
+    "en": "to dangle"
+   }
+  ],
+  "sentence": {
+   "da": "Jakken skal **hænge** på knagen.",
+   "en": "The jacket should hang on the hook."
+  }
+ },
+ "at hænge op": {
+  "file": "h.json",
+  "explanation": "\"At hænge op\" means \"to hang up\", on a hook, a wall or a line. The word \"op\" (up) goes at the end: \"Han hænger jakken op\" (He hangs the jacket up).",
+  "forms": [
+   {
+    "da": "at hænge op",
+    "en": "to hang up"
+   },
+   {
+    "da": "jeg hænger op",
+    "en": "I hang up"
+   },
+   {
+    "da": "jeg hængte op",
+    "en": "I hung up"
+   },
+   {
+    "da": "jeg har hængt op",
+    "en": "I have hung up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage ned",
+    "en": "to take down"
+   },
+   {
+    "da": "en knage",
+    "en": "a hook"
+   },
+   {
+    "da": "at sætte op",
+    "en": "to put up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **hænge op**, når vaskemaskinen er færdig.",
+   "en": "I have to hang up the laundry when the washing machine is done."
+  }
+ },
+ "at hænge sammen": {
+  "file": "h.json",
+  "explanation": "\"At hænge sammen\" means \"to be connected\" or \"to make sense\": \"Alt hænger sammen\" (Everything is connected). \"Historien hænger ikke sammen\" (The story does not make sense).",
+  "forms": [
+   {
+    "da": "at hænge sammen",
+    "en": "to make sense / be connected"
+   },
+   {
+    "da": "det hænger sammen",
+    "en": "it makes sense / is connected"
+   },
+   {
+    "da": "det hang sammen",
+    "en": "it made sense / was connected"
+   },
+   {
+    "da": "det har hængt sammen",
+    "en": "it has made sense / been connected"
+   }
+  ],
+  "related": [
+   {
+    "da": "at passe sammen",
+    "en": "to fit together"
+   },
+   {
+    "da": "at forbinde",
+    "en": "to connect"
+   },
+   {
+    "da": "en sammenhæng",
+    "en": "a connection"
+   },
+   {
+    "da": "at give mening",
+    "en": "to make sense"
+   }
+  ],
+  "sentence": {
+   "da": "Hans forklaring vil ikke **hænge sammen**.",
+   "en": "His explanation will not make sense."
+  }
+ },
+ "at hævde": {
+  "file": "h.json",
+  "explanation": "\"At hævde\" means \"to claim\", to say that something is true, often when others doubt it: \"Han hævder, at han var hjemme\" (He claims that he was at home). To state a plain fact, use \"at sige\" (to say).",
+  "forms": [
+   {
+    "da": "at hævde",
+    "en": "to claim"
+   },
+   {
+    "da": "jeg hævder",
+    "en": "I claim"
+   },
+   {
+    "da": "jeg hævdede",
+    "en": "I claimed"
+   },
+   {
+    "da": "jeg har hævdet",
+    "en": "I have claimed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at påstå",
+    "en": "to assert"
+   },
+   {
+    "da": "at benægte",
+    "en": "to deny"
+   },
+   {
+    "da": "en påstand",
+    "en": "a claim"
+   },
+   {
+    "da": "at fastholde",
+    "en": "to maintain"
+   }
+  ],
+  "sentence": {
+   "da": "Tyven vil **hævde**, at han ikke var der.",
+   "en": "The thief will claim that he was not there."
+  }
+ },
+ "at hævde sig": {
+  "file": "h.json",
+  "explanation": "\"At hævde sig\" means \"to assert oneself\": to show what you can do and make people respect you, for example at work or in sport. Without \"sig\" (oneself), \"at hævde\" means \"to claim\": \"Han hævder, at han er uskyldig\" (He claims he is innocent).",
+  "forms": [
+   {
+    "da": "at hævde sig",
+    "en": "to assert oneself"
+   },
+   {
+    "da": "jeg hævder mig",
+    "en": "I assert myself"
+   },
+   {
+    "da": "jeg hævdede mig",
+    "en": "I asserted myself"
+   },
+   {
+    "da": "jeg har hævdet mig",
+    "en": "I have asserted myself"
+   }
+  ],
+  "related": [
+   {
+    "da": "at klare sig",
+    "en": "to manage"
+   },
+   {
+    "da": "at stå op for sig selv",
+    "en": "to stand up for oneself"
+   },
+   {
+    "da": "at gøre sig gældende",
+    "en": "to make oneself felt"
+   },
+   {
+    "da": "at udmærke sig",
+    "en": "to distinguish oneself"
+   }
+  ],
+  "sentence": {
+   "da": "Den unge spiller vil gerne **hævde sig** på landsholdet.",
+   "en": "The young player would like to assert himself on the national team."
+  }
+ },
+ "at hæve": {
+  "file": "h.json",
+  "explanation": "\"At hæve\" means \"to raise\", for example a price, a flag or your voice: \"hæve prisen\" (raise the price). With money it means \"to withdraw\" it from your account.",
+  "forms": [
+   {
+    "da": "at hæve",
+    "en": "to raise / withdraw (money)"
+   },
+   {
+    "da": "jeg hæver",
+    "en": "I raise / withdraw (money)"
+   },
+   {
+    "da": "jeg hævede",
+    "en": "I raised / withdrew (money)"
+   },
+   {
+    "da": "jeg har hævet",
+    "en": "I have raised / withdrawn (money)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sænke",
+    "en": "to lower"
+   },
+   {
+    "da": "at løfte",
+    "en": "to lift"
+   },
+   {
+    "da": "at indsætte",
+    "en": "to deposit"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **hæve** penge i banken i morgen.",
+   "en": "I must withdraw money at the bank tomorrow."
+  }
+ },
+ "at hæve penge": {
+  "file": "h.json",
+  "explanation": "\"At hæve penge\" means \"to withdraw money\", for example at an ATM. The opposite is \"at sætte penge ind\" (to deposit money).",
+  "forms": [
+   {
+    "da": "at hæve penge",
+    "en": "to withdraw money"
+   },
+   {
+    "da": "jeg hæver penge",
+    "en": "I withdraw money"
+   },
+   {
+    "da": "jeg hævede penge",
+    "en": "I withdrew money"
+   },
+   {
+    "da": "jeg har hævet penge",
+    "en": "I have withdrawn money"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hæveautomat",
+    "en": "an ATM"
+   },
+   {
+    "da": "en konto",
+    "en": "an account"
+   },
+   {
+    "da": "kontanter",
+    "en": "cash"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **hæve penge**, men banken er lukket.",
+   "en": "I want to withdraw money, but the bank is closed."
+  }
+ },
+ "at hævne": {
+  "file": "h.json",
+  "explanation": "\"At hævne\" means \"to avenge\", to get back at someone for a wrong that was done. To name the person you avenge, put that person after \"hævne\": \"hævne sin bror\" (avenge his brother). To take revenge for yourself, say \"at hævne sig\" (to take revenge).",
+  "forms": [
+   {
+    "da": "at hævne",
+    "en": "to avenge"
+   },
+   {
+    "da": "jeg hævner",
+    "en": "I avenge"
+   },
+   {
+    "da": "jeg hævnede",
+    "en": "I avenged"
+   },
+   {
+    "da": "jeg har hævnet",
+    "en": "I have avenged"
+   }
+  ],
+  "related": [
+   {
+    "da": "hævngerrig",
+    "en": "vengeful"
+   },
+   {
+    "da": "at tilgive",
+    "en": "to forgive"
+   },
+   {
+    "da": "en gengældelse",
+    "en": "retaliation"
+   },
+   {
+    "da": "at straffe",
+    "en": "to punish"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **hævne** sin bror, som blev såret.",
+   "en": "He wants to avenge his brother, who was hurt."
+  }
+ },
+ "at høre": {
+  "file": "h.json",
+  "explanation": "\"At høre\" means \"to hear\". It is used for getting news too: \"Jeg har hørt, at han flytter\" (I have heard that he is moving). For listening on purpose, use \"at lytte\" (to listen).",
+  "forms": [
+   {
+    "da": "at høre",
+    "en": "to hear"
+   },
+   {
+    "da": "jeg hører",
+    "en": "I hear"
+   },
+   {
+    "da": "jeg hørte",
+    "en": "I heard"
+   },
+   {
+    "da": "jeg har hørt",
+    "en": "I have heard"
+   }
+  ],
+  "related": [
+   {
+    "da": "at høre efter",
+    "en": "to listen / pay attention"
+   },
+   {
+    "da": "et øre",
+    "en": "an ear"
+   },
+   {
+    "da": "at overhøre",
+    "en": "to overhear"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **høre** dig.",
+   "en": "I cannot hear you."
+  }
+ },
+ "at høre efter": {
+  "file": "h.json",
+  "explanation": "\"At høre efter\" means \"to listen\", paying attention rather than just hearing sound. Plain \"at høre\" (to hear) is only about the sound reaching you.",
+  "forms": [
+   {
+    "da": "at høre efter",
+    "en": "to listen"
+   },
+   {
+    "da": "jeg hører efter",
+    "en": "I listen"
+   },
+   {
+    "da": "jeg hørte efter",
+    "en": "I listened"
+   },
+   {
+    "da": "jeg har hørt efter",
+    "en": "I have listened"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lytte",
+    "en": "to listen"
+   },
+   {
+    "da": "at være opmærksom",
+    "en": "to pay attention"
+   },
+   {
+    "da": "uopmærksom",
+    "en": "inattentive"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene skal **høre efter**, når læreren taler.",
+   "en": "The children must listen when the teacher speaks."
+  }
+ },
+ "at høre fra": {
+  "file": "h.json",
+  "explanation": "\"At høre fra\" means \"to hear from\" someone who contacts you: \"Jeg har ikke hørt fra Mette\" (I have not heard from Mette). For news about something, say \"at høre om\" (to hear about): \"Jeg hørte om ulykken\" (I heard about the accident).",
+  "forms": [
+   {
+    "da": "at høre fra",
+    "en": "to hear from"
+   },
+   {
+    "da": "jeg hører fra",
+    "en": "I hear from"
+   },
+   {
+    "da": "jeg hørte fra",
+    "en": "I heard from"
+   },
+   {
+    "da": "jeg har hørt fra",
+    "en": "I have heard from"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kontakte",
+    "en": "to contact"
+   },
+   {
+    "da": "at ringe",
+    "en": "to call"
+   },
+   {
+    "da": "at skrive til",
+    "en": "to write to"
+   },
+   {
+    "da": "en besked",
+    "en": "a message"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg håber at **høre fra** dig snart.",
+   "en": "I hope to hear from you soon."
+  }
+ },
+ "at høre om": {
+  "file": "h.json",
+  "explanation": "\"At høre om\" means \"to hear about\" something, such as news or a story. For example: \"Jeg hørte om branden\" (I heard about the fire).",
+  "forms": [
+   {
+    "da": "at høre om",
+    "en": "to hear about"
+   },
+   {
+    "da": "jeg hører om",
+    "en": "I hear about"
+   },
+   {
+    "da": "jeg hørte om",
+    "en": "I heard about"
+   },
+   {
+    "da": "jeg har hørt om",
+    "en": "I have heard about"
+   }
+  ],
+  "related": [
+   {
+    "da": "at høre fra",
+    "en": "to hear from"
+   },
+   {
+    "da": "en nyhed",
+    "en": "a piece of news"
+   },
+   {
+    "da": "at fortælle om",
+    "en": "to tell about"
+   },
+   {
+    "da": "at læse om",
+    "en": "to read about"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **høre om** din rejse.",
+   "en": "I would like to hear about your trip."
+  }
+ },
+ "at høre til": {
+  "file": "h.json",
+  "explanation": "\"At høre til\" means \"to belong\", to be part of a place or group. To name the place you belong in, add \"i\" (in) before the place: \"Jeg hører til i Aarhus\" (I belong in Aarhus).",
+  "forms": [
+   {
+    "da": "at høre til",
+    "en": "to belong"
+   },
+   {
+    "da": "jeg hører til",
+    "en": "I belong"
+   },
+   {
+    "da": "jeg hørte til",
+    "en": "I belonged"
+   },
+   {
+    "da": "jeg har hørt til",
+    "en": "I have belonged"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tilhøre",
+    "en": "to belong to"
+   },
+   {
+    "da": "at passe ind",
+    "en": "to fit in"
+   },
+   {
+    "da": "et medlem",
+    "en": "a member"
+   },
+   {
+    "da": "at være en del af",
+    "en": "to be a part of"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **høre til** i gruppen.",
+   "en": "I would like to belong to the group."
+  }
+ },
+ "at høste": {
+  "file": "h.json",
+  "explanation": "\"At høste\" means \"to harvest\", to gather crops like grain or fruit when they are ripe. It also works for results: \"høste anerkendelse\" (to earn recognition).",
+  "forms": [
+   {
+    "da": "at høste",
+    "en": "to harvest"
+   },
+   {
+    "da": "jeg høster",
+    "en": "I harvest"
+   },
+   {
+    "da": "jeg høstede",
+    "en": "I harvested"
+   },
+   {
+    "da": "jeg har høstet",
+    "en": "I have harvested"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mark",
+    "en": "a field"
+   },
+   {
+    "da": "at så",
+    "en": "to sow"
+   },
+   {
+    "da": "at plukke",
+    "en": "to pick"
+   },
+   {
+    "da": "en mejetærsker",
+    "en": "a combine"
+   }
+  ],
+  "sentence": {
+   "da": "Bonden vil **høste** kornet, når det er modent.",
+   "en": "The farmer will harvest the grain when it is ripe."
+  }
+ },
+ "en hage": {
+  "file": "h.json",
+  "explanation": "\"En hage\" means \"a chin\", the lower tip of the face. Danes call a double chin \"en dobbelthage\".",
+  "forms": [
+   {
+    "da": "en hage",
+    "en": "a chin"
+   },
+   {
+    "da": "hagen",
+    "en": "the chin"
+   },
+   {
+    "da": "hager",
+    "en": "chins"
+   },
+   {
+    "da": "hagerne",
+    "en": "the chins"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kind",
+    "en": "a cheek"
+   },
+   {
+    "da": "en kæbe",
+    "en": "a jawbone"
+   },
+   {
+    "da": "et skæg",
+    "en": "a beard"
+   }
+  ],
+  "sentence": {
+   "da": "Din **hage** sidder lige under munden.",
+   "en": "Your chin is right under the mouth."
+  }
+ },
+ "en hagesmæk": {
+  "file": "h.json",
+  "explanation": "\"En hagesmæk\" means \"a bib\", worn under a baby's chin to keep clothes clean.",
+  "forms": [
+   {
+    "da": "en hagesmæk",
+    "en": "a bib"
+   },
+   {
+    "da": "hagesmækken",
+    "en": "the bib"
+   },
+   {
+    "da": "hagesmække",
+    "en": "bibs"
+   },
+   {
+    "da": "hagesmækkene",
+    "en": "the bibs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ble",
+    "en": "a diaper"
+   },
+   {
+    "da": "en sutteflaske",
+    "en": "a baby bottle"
+   },
+   {
+    "da": "en serviet",
+    "en": "a napkin"
+   }
+  ],
+  "sentence": {
+   "da": "Babyen spiser grød med en **hagesmæk** på.",
+   "en": "The baby eats porridge with a bib on."
+  }
+ },
+ "en haj": {
+  "file": "h.json",
+  "explanation": "\"En haj\" means \"a shark\", a large sea fish. The word is also used for people: \"en lånehaj\" (a loan shark) lends money at very high interest.",
+  "forms": [
+   {
+    "da": "en haj",
+    "en": "a shark"
+   },
+   {
+    "da": "hajen",
+    "en": "the shark"
+   },
+   {
+    "da": "hajer",
+    "en": "sharks"
+   },
+   {
+    "da": "hajerne",
+    "en": "the sharks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hval",
+    "en": "a whale"
+   },
+   {
+    "da": "en delfin",
+    "en": "a dolphin"
+   },
+   {
+    "da": "en rokke",
+    "en": "a ray"
+   }
+  ],
+  "sentence": {
+   "da": "En **haj** har skarpe tænder og bor i havet.",
+   "en": "A shark has sharp teeth and lives in the sea."
+  }
+ },
+ "en hakkebøf": {
+  "file": "h.json",
+  "explanation": "\"En hakkebøf\" means \"a hamburger steak\", a flat patty of ground beef fried in a pan. It is a classic Danish dinner, eaten with brown gravy and not in a bun.",
+  "forms": [
+   {
+    "da": "en hakkebøf",
+    "en": "a hamburger steak"
+   },
+   {
+    "da": "hakkebøffen",
+    "en": "the hamburger steak"
+   },
+   {
+    "da": "hakkebøffer",
+    "en": "hamburger steaks"
+   },
+   {
+    "da": "hakkebøfferne",
+    "en": "the hamburger steaks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en frikadelle",
+    "en": "a Danish meatball"
+   },
+   {
+    "da": "en kotelet",
+    "en": "a chop"
+   },
+   {
+    "da": "en burger",
+    "en": "a burger"
+   }
+  ],
+  "sentence": {
+   "da": "Til aftensmad fik vi **hakkebøf** med bløde løg og kartofler.",
+   "en": "For dinner we had hamburger steak with soft onions and potatoes."
+  }
+ },
+ "en hal": {
+  "file": "h.json",
+  "explanation": "\"En hal\" means \"a hall\", a big room or building, often for sports. Do not mix it up with \"en gang\" (a hallway in a home): \"Skoene står i gangen\" (The shoes are in the hallway).",
+  "forms": [
+   {
+    "da": "en hal",
+    "en": "a hall"
+   },
+   {
+    "da": "hallen",
+    "en": "the hall"
+   },
+   {
+    "da": "haller",
+    "en": "halls"
+   },
+   {
+    "da": "hallerne",
+    "en": "the halls"
+   }
+  ],
+  "related": [
+   {
+    "da": "en idrætshal",
+    "en": "a sports hall"
+   },
+   {
+    "da": "en svømmehal",
+    "en": "an indoor swimming pool"
+   },
+   {
+    "da": "en sal",
+    "en": "a large room"
+   },
+   {
+    "da": "en entré",
+    "en": "an entrance hall"
+   }
+  ],
+  "sentence": {
+   "da": "En **hal** er et stort rum med plads til mange.",
+   "en": "A hall is a big room with space for many people."
+  }
+ },
+ "en hale": {
+  "file": "h.json",
+  "explanation": "\"En hale\" means \"a tail\", the part at the back of an animal's body.",
+  "forms": [
+   {
+    "da": "en hale",
+    "en": "a tail"
+   },
+   {
+    "da": "halen",
+    "en": "the tail"
+   },
+   {
+    "da": "haler",
+    "en": "tails"
+   },
+   {
+    "da": "halerne",
+    "en": "the tails"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pote",
+    "en": "a paw"
+   },
+   {
+    "da": "en pels",
+    "en": "a fur"
+   },
+   {
+    "da": "en vinge",
+    "en": "a wing"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden logrer med sin **hale**, når den er glad.",
+   "en": "The dog wags its tail when it is happy."
+  }
+ },
+ "en halmballe": {
+  "file": "h.json",
+  "explanation": "\"En halmballe\" means \"a straw bale\". It is built from halm (straw) and balle (bale), and farmers use the bales as bedding in animal stalls.",
+  "forms": [
+   {
+    "da": "en halmballe",
+    "en": "a straw bale"
+   },
+   {
+    "da": "halmballen",
+    "en": "the straw bale"
+   },
+   {
+    "da": "halmballer",
+    "en": "straw bales"
+   },
+   {
+    "da": "halmballerne",
+    "en": "the straw bales"
+   }
+  ],
+  "related": [
+   {
+    "da": "en høballe",
+    "en": "a hay bale"
+   },
+   {
+    "da": "et hø",
+    "en": "hay"
+   },
+   {
+    "da": "en høstak",
+    "en": "a haystack"
+   }
+  ],
+  "sentence": {
+   "da": "En **halmballe** er tør halm, der er presset tæt sammen.",
+   "en": "A straw bale is dry straw that is pressed tightly together."
+  }
+ },
+ "en hals": {
+  "file": "h.json",
+  "explanation": "\"En hals\" means both \"a neck\" and \"a throat\", because Danish has one word for both. A sore throat is \"ondt i halsen\" (literally, \"pain in the neck-throat\"), and a necklace is \"en halskæde\" (a neck chain).",
+  "forms": [
+   {
+    "da": "en hals",
+    "en": "a throat / neck"
+   },
+   {
+    "da": "halsen",
+    "en": "the throat / the neck"
+   },
+   {
+    "da": "halse",
+    "en": "throats / necks"
+   },
+   {
+    "da": "halsene",
+    "en": "the throats / the necks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nakke",
+    "en": "the back of the neck"
+   },
+   {
+    "da": "en halspastil",
+    "en": "a throat lozenge"
+   },
+   {
+    "da": "en skulder",
+    "en": "a shoulder"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en smuk kæde om sin **hals**.",
+   "en": "She has a pretty chain around her neck."
+  }
+ },
+ "en halsbetændelse": {
+  "file": "h.json",
+  "explanation": "\"En halsbetændelse\" means \"a throat infection\", a sore throat caused by germs. A plain sore throat is \"ondt i halsen\" (pain in the throat), which is not necessarily an infection.",
+  "forms": [
+   {
+    "da": "en halsbetændelse",
+    "en": "a throat infection"
+   },
+   {
+    "da": "halsbetændelsen",
+    "en": "the throat infection"
+   },
+   {
+    "da": "halsbetændelser",
+    "en": "throat infections"
+   },
+   {
+    "da": "halsbetændelserne",
+    "en": "the throat infections"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forkølelse",
+    "en": "a cold"
+   },
+   {
+    "da": "en feber",
+    "en": "a fever"
+   },
+   {
+    "da": "en mandelbetændelse",
+    "en": "tonsillitis"
+   },
+   {
+    "da": "en influenza",
+    "en": "the flu"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har **halsbetændelse** og må blive hjemme.",
+   "en": "She has a throat infection and has to stay home."
+  }
+ },
+ "en halsedisse": {
+  "file": "h.json",
+  "explanation": "\"En halsedisse\" means \"a neck warmer\", a soft tube of cloth that you pull over your head and neck.",
+  "forms": [
+   {
+    "da": "en halsedisse",
+    "en": "a neck warmer"
+   },
+   {
+    "da": "halsedissen",
+    "en": "the neck warmer"
+   },
+   {
+    "da": "halsedisser",
+    "en": "neck warmers"
+   },
+   {
+    "da": "halsedisserne",
+    "en": "the neck warmers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et halstørklæde",
+    "en": "a scarf"
+   },
+   {
+    "da": "en balaklava",
+    "en": "a balaclava"
+   },
+   {
+    "da": "en hue",
+    "en": "a hat"
+   },
+   {
+    "da": "en vante",
+    "en": "a mitten"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager en **halsedisse** på, når det blæser.",
+   "en": "I put on a neck warmer when it is windy."
+  }
+ },
+ "en halskæde": {
+  "file": "h.json",
+  "explanation": "\"En halskæde\" means \"a necklace\", jewelry worn around the neck. It is built from hals (neck or throat) and kæde (chain).",
+  "forms": [
+   {
+    "da": "en halskæde",
+    "en": "a necklace"
+   },
+   {
+    "da": "halskæden",
+    "en": "the necklace"
+   },
+   {
+    "da": "halskæder",
+    "en": "necklaces"
+   },
+   {
+    "da": "halskæderne",
+    "en": "the necklaces"
+   }
+  ],
+  "related": [
+   {
+    "da": "et smykke",
+    "en": "a piece of jewelry"
+   },
+   {
+    "da": "et armbånd",
+    "en": "a bracelet"
+   },
+   {
+    "da": "en ring",
+    "en": "a ring"
+   },
+   {
+    "da": "øreringe",
+    "en": "earrings"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en **halskæde** om halsen.",
+   "en": "She has a necklace around her neck."
+  }
+ },
+ "en halspastil": {
+  "file": "h.json",
+  "explanation": "\"En halspastil\" means \"a throat lozenge\", built from hals (throat) and pastil (lozenge). You suck on one when your throat is sore or you cough.",
+  "forms": [
+   {
+    "da": "en halspastil",
+    "en": "a throat lozenge"
+   },
+   {
+    "da": "halspastillen",
+    "en": "the throat lozenge"
+   },
+   {
+    "da": "halspastiller",
+    "en": "throat lozenges"
+   },
+   {
+    "da": "halspastillerne",
+    "en": "the throat lozenges"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hostesaft",
+    "en": "a cough syrup"
+   },
+   {
+    "da": "en tablet",
+    "en": "a tablet"
+   },
+   {
+    "da": "ondt i halsen",
+    "en": "a sore throat"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager en **halspastil**, når min hals gør ondt.",
+   "en": "I take a throat lozenge when my throat hurts."
+  }
+ },
+ "en halv time": {
+  "file": "h.json",
+  "explanation": "\"En halv time\" means \"half an hour\". Do not mix this up with clock times: \"halv fem\" means 4:30, not 5:30, because it is half an hour before five.",
+  "forms": [
+   {
+    "da": "en halv time",
+    "en": "half an hour"
+   },
+   {
+    "da": "om en halv time",
+    "en": "in half an hour"
+   },
+   {
+    "da": "for en halv time siden",
+    "en": "half an hour ago"
+   }
+  ],
+  "related": [
+   {
+    "da": "et minut",
+    "en": "a minute"
+   },
+   {
+    "da": "et kvarter",
+    "en": "a quarter of an hour"
+   },
+   {
+    "da": "et sekund",
+    "en": "a second"
+   }
+  ],
+  "sentence": {
+   "da": "Bussen kommer om **en halv time**.",
+   "en": "The bus comes in half an hour."
+  }
+ },
+ "en halvbror": {
+  "file": "h.json",
+  "explanation": "\"En halvbror\" means \"a half-brother\", a brother who shares only one parent with you.",
+  "forms": [
+   {
+    "da": "en halvbror",
+    "en": "a half-brother"
+   },
+   {
+    "da": "halvbroren",
+    "en": "the half-brother"
+   },
+   {
+    "da": "halvbrødre",
+    "en": "half-brothers"
+   },
+   {
+    "da": "halvbrødrene",
+    "en": "the half-brothers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en halvsøster",
+    "en": "a half-sister"
+   },
+   {
+    "da": "en stedbror",
+    "en": "a stepbrother"
+   },
+   {
+    "da": "en storebror",
+    "en": "an older brother"
+   },
+   {
+    "da": "en lillebror",
+    "en": "a younger brother"
+   }
+  ],
+  "sentence": {
+   "da": "Han er min **halvbror**, fordi vi har samme far.",
+   "en": "He is my half-brother because we have the same father."
+  }
+ },
+ "en halvdel": {
+  "file": "h.json",
+  "explanation": "\"En halvdel\" means \"a half\", one of two equal parts. Before a noun, use \"halv\" (half): \"en halv pizza\" (half a pizza).",
+  "forms": [
+   {
+    "da": "en halvdel",
+    "en": "a half"
+   },
+   {
+    "da": "halvdelen",
+    "en": "the half"
+   },
+   {
+    "da": "halvdele",
+    "en": "halves"
+   },
+   {
+    "da": "halvdelene",
+    "en": "the halves"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fjerdedel",
+    "en": "a quarter"
+   },
+   {
+    "da": "en tredjedel",
+    "en": "a third"
+   },
+   {
+    "da": "hel",
+    "en": "whole"
+   },
+   {
+    "da": "en brøk",
+    "en": "a fraction"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser den ene **halvdel** af kagen.",
+   "en": "I eat one half of the cake."
+  }
+ },
+ "en halvleg": {
+  "file": "h.json",
+  "explanation": "\"En halvleg\" means \"a half\" of a game such as soccer or handball: \"første halvleg\" (the first half). For a half of a thing you cut, use \"en halvdel\" (a half): \"en halvdel af kagen\" (one half of the cake).",
+  "forms": [
+   {
+    "da": "en halvleg",
+    "en": "a half (of a game)"
+   },
+   {
+    "da": "halvlegen",
+    "en": "the half (of a game)"
+   },
+   {
+    "da": "halvlege",
+    "en": "halves"
+   },
+   {
+    "da": "halvlegene",
+    "en": "the halves"
+   }
+  ],
+  "related": [
+   {
+    "da": "en omgang",
+    "en": "a period"
+   },
+   {
+    "da": "en pause",
+    "en": "a break"
+   },
+   {
+    "da": "en kamp",
+    "en": "a match"
+   }
+  ],
+  "sentence": {
+   "da": "Første **halvleg** sluttede nul-nul, men vi scorede efter pausen.",
+   "en": "The first half ended 0-0, but we scored after the break."
+  }
+ },
+ "en halvsøster": {
+  "file": "h.json",
+  "explanation": "\"En halvsøster\" means \"a half-sister\", a sister who shares only one parent with you.",
+  "forms": [
+   {
+    "da": "en halvsøster",
+    "en": "a half-sister"
+   },
+   {
+    "da": "halvsøsteren",
+    "en": "the half-sister"
+   },
+   {
+    "da": "halvsøstre",
+    "en": "half-sisters"
+   },
+   {
+    "da": "halvsøstrene",
+    "en": "the half-sisters"
+   }
+  ],
+  "related": [
+   {
+    "da": "en halvbror",
+    "en": "a half-brother"
+   },
+   {
+    "da": "en stedsøster",
+    "en": "a stepsister"
+   },
+   {
+    "da": "en storesøster",
+    "en": "an older sister"
+   },
+   {
+    "da": "en lillesøster",
+    "en": "a younger sister"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er min **halvsøster**, fordi vi har samme mor.",
+   "en": "She is my half-sister because we have the same mother."
+  }
+ },
+ "en halvø": {
+  "file": "h.json",
+  "explanation": "\"En halvø\" means \"a peninsula\", land with water on most sides but joined to larger land. It is built from halv (half) and ø (island). An island has water on all sides: \"Fyn er en ø\" (Funen is an island).",
+  "forms": [
+   {
+    "da": "en halvø",
+    "en": "a peninsula"
+   },
+   {
+    "da": "halvøen",
+    "en": "the peninsula"
+   },
+   {
+    "da": "halvøer",
+    "en": "peninsulas"
+   },
+   {
+    "da": "halvøerne",
+    "en": "the peninsulas"
+   }
+  ],
+  "related": [
+   {
+    "da": "en odde",
+    "en": "a point of land"
+   },
+   {
+    "da": "et fastland",
+    "en": "a mainland"
+   },
+   {
+    "da": "en bugt",
+    "en": "a bay"
+   }
+  ],
+  "sentence": {
+   "da": "Jylland er en **halvø** og hænger sammen med Tyskland.",
+   "en": "Jutland is a peninsula and is joined to Germany."
+  }
+ },
+ "en hammer": {
+  "file": "h.json",
+  "explanation": "\"En hammer\" means \"a hammer\", a tool with a heavy metal head. Use a hammer for nails and \"en skruetrækker\" (a screwdriver) for screws.",
+  "forms": [
+   {
+    "da": "en hammer",
+    "en": "a hammer"
+   },
+   {
+    "da": "hammeren",
+    "en": "the hammer"
+   },
+   {
+    "da": "hamre",
+    "en": "hammers"
+   },
+   {
+    "da": "hamrene",
+    "en": "the hammers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sav",
+    "en": "a saw"
+   },
+   {
+    "da": "en tang",
+    "en": "pliers"
+   },
+   {
+    "da": "et værktøj",
+    "en": "a tool"
+   }
+  ],
+  "sentence": {
+   "da": "Han slår sømmet i med en **hammer**.",
+   "en": "He hits the nail in with a hammer."
+  }
+ },
+ "en hamster": {
+  "file": "h.json",
+  "explanation": "\"En hamster\" means \"a hamster\", a small pet that lives in a cage.",
+  "forms": [
+   {
+    "da": "en hamster",
+    "en": "a hamster"
+   },
+   {
+    "da": "hamsteren",
+    "en": "the hamster"
+   },
+   {
+    "da": "hamstere",
+    "en": "hamsters"
+   },
+   {
+    "da": "hamsterne",
+    "en": "the hamsters"
+   }
+  ],
+  "related": [
+   {
+    "da": "et marsvin",
+    "en": "a guinea pig"
+   },
+   {
+    "da": "en kanin",
+    "en": "a rabbit"
+   },
+   {
+    "da": "en mus",
+    "en": "a mouse"
+   },
+   {
+    "da": "et bur",
+    "en": "a cage"
+   }
+  ],
+  "sentence": {
+   "da": "Min **hamster** sover om dagen og løber om natten.",
+   "en": "My hamster sleeps during the day and runs around at night."
+  }
+ },
+ "en handel": {
+  "file": "h.json",
+  "explanation": "\"En handel\" means \"a deal\" or \"a trade\", something two sides agree on. Without \"en\", \"handel\" means the activity of trading: \"Handel mellem lande\" (Trade between countries).",
+  "forms": [
+   {
+    "da": "en handel",
+    "en": "a deal"
+   },
+   {
+    "da": "handelen",
+    "en": "the deal"
+   },
+   {
+    "da": "handler",
+    "en": "deals"
+   },
+   {
+    "da": "handlerne",
+    "en": "the deals"
+   }
+  ],
+  "related": [
+   {
+    "da": "at handle",
+    "en": "to shop / to trade"
+   },
+   {
+    "da": "en køber",
+    "en": "a buyer"
+   },
+   {
+    "da": "en sælger",
+    "en": "a seller"
+   },
+   {
+    "da": "en aftale",
+    "en": "an agreement"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en god **handel** for os begge.",
+   "en": "That was a good deal for both of us."
+  }
+ },
+ "en handling": {
+  "file": "h.json",
+  "explanation": "\"En handling\" means \"an action\", something a person does. It is also the plot of a story: \"Filmens handling er enkel\" (The plot of the film is simple).",
+  "forms": [
+   {
+    "da": "en handling",
+    "en": "an action"
+   },
+   {
+    "da": "handlingen",
+    "en": "the action"
+   },
+   {
+    "da": "handlinger",
+    "en": "actions"
+   },
+   {
+    "da": "handlingerne",
+    "en": "the actions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en handel",
+    "en": "a trade / a deal"
+   },
+   {
+    "da": "en gerning",
+    "en": "a deed"
+   },
+   {
+    "da": "en aktivitet",
+    "en": "an activity"
+   }
+  ],
+  "sentence": {
+   "da": "Hans **handling** var meget modig.",
+   "en": "His action was very brave."
+  }
+ },
+ "en handske": {
+  "file": "h.json",
+  "explanation": "\"En handske\" means \"a glove\", with a separate part for each finger. Do not mix it up with \"en vante\" (a mitten), which has one part for the thumb and one for the other fingers.",
+  "forms": [
+   {
+    "da": "en handske",
+    "en": "a glove"
+   },
+   {
+    "da": "handsken",
+    "en": "the glove"
+   },
+   {
+    "da": "handsker",
+    "en": "gloves"
+   },
+   {
+    "da": "handskerne",
+    "en": "the gloves"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hånd",
+    "en": "a hand"
+   },
+   {
+    "da": "en sok",
+    "en": "a sock"
+   },
+   {
+    "da": "et tørklæde",
+    "en": "a scarf"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har en **handske** på hånden.",
+   "en": "I have a glove on my hand."
+  }
+ },
+ "en hane": {
+  "file": "h.json",
+  "explanation": "\"En hane\" means \"a rooster\", the male chicken. It also means \"a faucet\" on a sink: \"Luk for hanen\" (Turn off the faucet).",
+  "forms": [
+   {
+    "da": "en hane",
+    "en": "a rooster / faucet"
+   },
+   {
+    "da": "hanen",
+    "en": "the rooster / faucet"
+   },
+   {
+    "da": "haner",
+    "en": "roosters / faucets"
+   },
+   {
+    "da": "hanerne",
+    "en": "the roosters / faucets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en høne",
+    "en": "a hen"
+   },
+   {
+    "da": "en kylling",
+    "en": "a chick / chicken"
+   },
+   {
+    "da": "en kalkun",
+    "en": "a turkey"
+   },
+   {
+    "da": "en vandhane",
+    "en": "a water faucet"
+   }
+  ],
+  "sentence": {
+   "da": "En **hane** galer tidligt om morgenen.",
+   "en": "A rooster crows early in the morning."
+  }
+ },
+ "en harddisk": {
+  "file": "h.json",
+  "explanation": "\"En harddisk\" means \"a hard drive\", the part of a computer where your files are stored.",
+  "forms": [
+   {
+    "da": "en harddisk",
+    "en": "a hard drive"
+   },
+   {
+    "da": "harddisken",
+    "en": "the hard drive"
+   },
+   {
+    "da": "harddiske",
+    "en": "hard drives"
+   },
+   {
+    "da": "harddiskene",
+    "en": "the hard drives"
+   }
+  ],
+  "related": [
+   {
+    "da": "en USB-nøgle",
+    "en": "a USB stick"
+   },
+   {
+    "da": "en hukommelse",
+    "en": "a memory"
+   },
+   {
+    "da": "en server",
+    "en": "a server"
+   }
+  ],
+  "sentence": {
+   "da": "Min **harddisk** er fuld af gamle billeder.",
+   "en": "My hard drive is full of old photos."
+  }
+ },
+ "en hare": {
+  "file": "h.json",
+  "explanation": "\"En hare\" means \"a hare\", a fast wild animal with long ears. Do not mix it up with \"en kanin\" (a rabbit), the one people keep as a pet.",
+  "forms": [
+   {
+    "da": "en hare",
+    "en": "a hare"
+   },
+   {
+    "da": "haren",
+    "en": "the hare"
+   },
+   {
+    "da": "harer",
+    "en": "hares"
+   },
+   {
+    "da": "harerne",
+    "en": "the hares"
+   }
+  ],
+  "related": [
+   {
+    "da": "et rådyr",
+    "en": "a roe deer"
+   },
+   {
+    "da": "en ræv",
+    "en": "a fox"
+   },
+   {
+    "da": "en påskehare",
+    "en": "an Easter bunny"
+   },
+   {
+    "da": "et egern",
+    "en": "a squirrel"
+   }
+  ],
+  "sentence": {
+   "da": "En **hare** kan løbe meget hurtigt.",
+   "en": "A hare can run very fast."
+  }
+ },
+ "en harmoni": {
+  "file": "h.json",
+  "explanation": "\"En harmoni\" means \"a harmony\", a state where things fit together without conflict. In music, it is notes that sound good together.",
+  "forms": [
+   {
+    "da": "en harmoni",
+    "en": "a harmony"
+   },
+   {
+    "da": "harmonien",
+    "en": "the harmony"
+   },
+   {
+    "da": "harmonier",
+    "en": "harmonies"
+   },
+   {
+    "da": "harmonierne",
+    "en": "the harmonies"
+   }
+  ],
+  "related": [
+   {
+    "da": "harmonisk",
+    "en": "harmonious"
+   },
+   {
+    "da": "en disharmoni",
+    "en": "a discord"
+   },
+   {
+    "da": "en enighed",
+    "en": "an agreement"
+   },
+   {
+    "da": "at harmonere",
+    "en": "to go well together"
+   }
+  ],
+  "sentence": {
+   "da": "Familien lever i **harmoni**, og der er sjældent skænderier.",
+   "en": "The family lives in harmony, and there are rarely quarrels."
+  }
+ },
+ "en hasselnød": {
+  "file": "h.json",
+  "explanation": "\"En hasselnød\" means \"a hazelnut\", built from hassel (hazel) and nød (nut). \"Nød\" also appears in \"en pebernød\" (a small spice cookie eaten at Christmas), which is a cookie and not a nut.",
+  "forms": [
+   {
+    "da": "en hasselnød",
+    "en": "a hazelnut"
+   },
+   {
+    "da": "hasselnødden",
+    "en": "the hazelnut"
+   },
+   {
+    "da": "hasselnødder",
+    "en": "hazelnuts"
+   },
+   {
+    "da": "hasselnødderne",
+    "en": "the hazelnuts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en jordnød",
+    "en": "a peanut"
+   },
+   {
+    "da": "en valnød",
+    "en": "a walnut"
+   },
+   {
+    "da": "en mandel",
+    "en": "an almond"
+   }
+  ],
+  "sentence": {
+   "da": "En **hasselnød** er en lille nød med hård skal.",
+   "en": "A hazelnut is a small nut with a hard shell."
+  }
+ },
+ "en hastighed": {
+  "file": "h.json",
+  "explanation": "\"En hastighed\" means \"a speed\", how fast something moves, for example a car. In everyday talk, Danes often say \"fart\" (speed) instead: \"høj fart\" (high speed).",
+  "forms": [
+   {
+    "da": "en hastighed",
+    "en": "a speed"
+   },
+   {
+    "da": "hastigheden",
+    "en": "the speed"
+   },
+   {
+    "da": "hastigheder",
+    "en": "speeds"
+   },
+   {
+    "da": "hastighederne",
+    "en": "the speeds"
+   }
+  ],
+  "related": [
+   {
+    "da": "hurtig",
+    "en": "fast"
+   },
+   {
+    "da": "langsom",
+    "en": "slow"
+   },
+   {
+    "da": "en fartgrænse",
+    "en": "a speed limit"
+   },
+   {
+    "da": "et tempo",
+    "en": "a pace"
+   }
+  ],
+  "sentence": {
+   "da": "Du kører med for høj **hastighed**.",
+   "en": "You are driving at too high a speed."
+  }
+ },
+ "en hat": {
+  "file": "h.json",
+  "explanation": "\"En hat\" means \"a hat\", usually one with a brim, like a sun hat. It is not the same as \"en hue\" (a warm knitted cap) or \"en kasket\" (a cap with a peak).",
+  "forms": [
+   {
+    "da": "en hat",
+    "en": "a hat"
+   },
+   {
+    "da": "hatten",
+    "en": "the hat"
+   },
+   {
+    "da": "hatte",
+    "en": "hats"
+   },
+   {
+    "da": "hattene",
+    "en": "the hats"
+   }
+  ],
+  "related": [
+   {
+    "da": "en solhat",
+    "en": "a sun hat"
+   },
+   {
+    "da": "en hjelm",
+    "en": "a helmet"
+   },
+   {
+    "da": "en cowboyhat",
+    "en": "a cowboy hat"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en stor **hat** på hovedet.",
+   "en": "She has a big hat on her head."
+  }
+ },
+ "en have": {
+  "file": "h.json",
+  "explanation": "\"En have\" means \"a garden\". Do not mix it up with \"at have\" (to have), which is spelled the same: \"Jeg har en have\" (I have a garden).",
+  "forms": [
+   {
+    "da": "en have",
+    "en": "a garden"
+   },
+   {
+    "da": "haven",
+    "en": "the garden"
+   },
+   {
+    "da": "haver",
+    "en": "gardens"
+   },
+   {
+    "da": "haverne",
+    "en": "the gardens"
+   }
+  ],
+  "related": [
+   {
+    "da": "en køkkenhave",
+    "en": "a vegetable garden"
+   },
+   {
+    "da": "en baghave",
+    "en": "a backyard"
+   },
+   {
+    "da": "en plæne",
+    "en": "a lawn"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har en **have** med blomster og træer.",
+   "en": "We have a garden with flowers and trees."
+  }
+ },
+ "en havefest": {
+  "file": "h.json",
+  "explanation": "\"En havefest\" means \"a garden party\", a party held outside in someone's garden. It is built from have (garden) and fest (party).",
+  "forms": [
+   {
+    "da": "en havefest",
+    "en": "a garden party"
+   },
+   {
+    "da": "havefesten",
+    "en": "the garden party"
+   },
+   {
+    "da": "havefester",
+    "en": "garden parties"
+   },
+   {
+    "da": "havefesterne",
+    "en": "the garden parties"
+   }
+  ],
+  "related": [
+   {
+    "da": "en grillfest",
+    "en": "a barbecue party"
+   },
+   {
+    "da": "en sommerfest",
+    "en": "a summer party"
+   },
+   {
+    "da": "en gadefest",
+    "en": "a street party"
+   },
+   {
+    "da": "en nabofest",
+    "en": "a neighborhood party"
+   }
+  ],
+  "sentence": {
+   "da": "Til vores **havefest** sidder vi ude og griller.",
+   "en": "At our garden party, we sit outside and grill."
+  }
+ },
+ "en haveslange": {
+  "file": "h.json",
+  "explanation": "\"En haveslange\" means \"a garden hose\". It is built from have (garden) and slange (hose, also snake). \"Slange\" also means \"snake\": \"Slangen bed ham\" (The snake bit him). You can tell which one it is from the context of the sentence.",
+  "forms": [
+   {
+    "da": "en haveslange",
+    "en": "a garden hose"
+   },
+   {
+    "da": "haveslangen",
+    "en": "the garden hose"
+   },
+   {
+    "da": "haveslanger",
+    "en": "garden hoses"
+   },
+   {
+    "da": "haveslangerne",
+    "en": "the garden hoses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vandkande",
+    "en": "a watering can"
+   },
+   {
+    "da": "en vandhane",
+    "en": "a faucet"
+   },
+   {
+    "da": "en slangetromle",
+    "en": "a hose reel"
+   },
+   {
+    "da": "en spand",
+    "en": "a bucket"
+   }
+  ],
+  "sentence": {
+   "da": "Han vasker bilen med en **haveslange**.",
+   "en": "He washes the car with a garden hose."
+  }
+ },
+ "en havestol": {
+  "file": "h.json",
+  "explanation": "\"En havestol\" means \"a garden chair\", a chair for sitting outside. It is built from have (garden) and stol (chair). Many garden words start with \"have\", such as \"en haveslange\" (a garden hose).",
+  "forms": [
+   {
+    "da": "en havestol",
+    "en": "a garden chair"
+   },
+   {
+    "da": "havestolen",
+    "en": "the garden chair"
+   },
+   {
+    "da": "havestole",
+    "en": "garden chairs"
+   },
+   {
+    "da": "havestolene",
+    "en": "the garden chairs"
+   }
+  ],
+  "related": [
+   {
+    "da": "et havebord",
+    "en": "a garden table"
+   },
+   {
+    "da": "en klapstol",
+    "en": "a folding chair"
+   },
+   {
+    "da": "en liggestol",
+    "en": "a deck chair"
+   },
+   {
+    "da": "en parasol",
+    "en": "a parasol"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sidder i en **havestol** og drikker kaffe.",
+   "en": "I sit in a garden chair and drink coffee."
+  }
+ },
+ "en havfrue": {
+  "file": "h.json",
+  "explanation": "\"En havfrue\" means \"a mermaid\", a creature from old tales and sea stories. It is built from hav (sea) and frue (lady).",
+  "forms": [
+   {
+    "da": "en havfrue",
+    "en": "a mermaid"
+   },
+   {
+    "da": "havfruen",
+    "en": "the mermaid"
+   },
+   {
+    "da": "havfruer",
+    "en": "mermaids"
+   },
+   {
+    "da": "havfruerne",
+    "en": "the mermaids"
+   }
+  ],
+  "related": [
+   {
+    "da": "en havmand",
+    "en": "a merman"
+   },
+   {
+    "da": "en sirene",
+    "en": "a siren"
+   },
+   {
+    "da": "en fe",
+    "en": "a fairy"
+   }
+  ],
+  "sentence": {
+   "da": "I eventyret har en **havfrue** en fiskehale i stedet for ben.",
+   "en": "In the story, a mermaid has a fish tail instead of legs."
+  }
+ },
+ "en havn": {
+  "file": "h.json",
+  "explanation": "\"En havn\" means \"a harbor\" or \"a port\", the place where ships and boats stay.",
+  "forms": [
+   {
+    "da": "en havn",
+    "en": "a harbor / port"
+   },
+   {
+    "da": "havnen",
+    "en": "the harbor"
+   },
+   {
+    "da": "havne",
+    "en": "harbors"
+   },
+   {
+    "da": "havnene",
+    "en": "the harbors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kaj",
+    "en": "a quay"
+   },
+   {
+    "da": "et fyrtårn",
+    "en": "a lighthouse"
+   },
+   {
+    "da": "en mole",
+    "en": "a jetty"
+   }
+  ],
+  "sentence": {
+   "da": "Der er mange både i en lille **havn**.",
+   "en": "There are many boats in a small harbor."
+  }
+ },
+ "en havnebus": {
+  "file": "h.json",
+  "explanation": "\"En havnebus\" means \"a harbor bus\", a boat that carries passengers across the water, like a bus.",
+  "forms": [
+   {
+    "da": "en havnebus",
+    "en": "a harbor bus"
+   },
+   {
+    "da": "havnebussen",
+    "en": "the harbor bus"
+   },
+   {
+    "da": "havnebusser",
+    "en": "harbor buses"
+   },
+   {
+    "da": "havnebusserne",
+    "en": "the harbor buses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en færge",
+    "en": "a ferry"
+   },
+   {
+    "da": "en båd",
+    "en": "a boat"
+   },
+   {
+    "da": "en bybus",
+    "en": "a city bus"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager en **havnebus** over vandet, og det tager ti minutter.",
+   "en": "We take a harbor bus across the water, and it takes ten minutes."
+  }
+ },
+ "en havnepromenade": {
+  "file": "h.json",
+  "explanation": "\"En havnepromenade\" means \"a harbor promenade\", a wide path along the water where people stroll, jog and sit outside. It is built from havn (harbor) and promenade (the same word as in English).",
+  "forms": [
+   {
+    "da": "en havnepromenade",
+    "en": "a harbor promenade"
+   },
+   {
+    "da": "havnepromenaden",
+    "en": "the harbor promenade"
+   },
+   {
+    "da": "havnepromenader",
+    "en": "harbor promenades"
+   },
+   {
+    "da": "havnepromenaderne",
+    "en": "the harbor promenades"
+   }
+  ],
+  "related": [
+   {
+    "da": "en strandpromenade",
+    "en": "a beach promenade"
+   },
+   {
+    "da": "en mole",
+    "en": "a jetty"
+   },
+   {
+    "da": "en kaj",
+    "en": "a quay"
+   }
+  ],
+  "sentence": {
+   "da": "Der ligger caféer og isbarer langs den nye **havnepromenade**.",
+   "en": "There are cafés and ice cream bars along the new harbor promenade."
+  }
+ },
+ "en hede": {
+  "file": "h.json",
+  "explanation": "\"En hede\" means \"a heath\", wide open, wild land covered in heather. Large heaths are found in western Jutland.",
+  "forms": [
+   {
+    "da": "en hede",
+    "en": "a heath"
+   },
+   {
+    "da": "heden",
+    "en": "the heath"
+   },
+   {
+    "da": "heder",
+    "en": "heaths"
+   },
+   {
+    "da": "hederne",
+    "en": "the heaths"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klit",
+    "en": "a dune"
+   },
+   {
+    "da": "en mose",
+    "en": "a bog"
+   },
+   {
+    "da": "en eng",
+    "en": "a meadow"
+   },
+   {
+    "da": "en mark",
+    "en": "a field"
+   }
+  ],
+  "sentence": {
+   "da": "På en **hede** er jorden sandet, og der vokser næsten ingen træer.",
+   "en": "On a heath the soil is sandy, and almost no trees grow."
+  }
+ },
+ "en hedebølge": {
+  "file": "h.json",
+  "explanation": "\"En hedebølge\" means \"a heat wave\", a period of unusually hot weather lasting a few days or more. It is built from hede (heat, not the heath) and bølge (wave); \"en kuldebølge\" (a cold spell) is built the same way.",
+  "forms": [
+   {
+    "da": "en hedebølge",
+    "en": "a heat wave"
+   },
+   {
+    "da": "hedebølgen",
+    "en": "the heat wave"
+   },
+   {
+    "da": "hedebølger",
+    "en": "heat waves"
+   },
+   {
+    "da": "hedebølgerne",
+    "en": "the heat waves"
+   }
+  ],
+  "related": [
+   {
+    "da": "en varmebølge",
+    "en": "a warm spell"
+   },
+   {
+    "da": "en tørke",
+    "en": "a drought"
+   },
+   {
+    "da": "et hedeslag",
+    "en": "heatstroke"
+   }
+  ],
+  "sentence": {
+   "da": "Under en **hedebølge** er det næsten for varmt til at sove.",
+   "en": "During a heat wave it is almost too hot to sleep."
+  }
+ },
+ "en heks": {
+  "file": "h.json",
+  "explanation": "\"En heks\" means \"a witch\", like in children's stories. It is also an insult for a mean woman: \"Din gamle heks!\" (You old witch!)",
+  "forms": [
+   {
+    "da": "en heks",
+    "en": "a witch"
+   },
+   {
+    "da": "heksen",
+    "en": "the witch"
+   },
+   {
+    "da": "hekse",
+    "en": "witches"
+   },
+   {
+    "da": "hekserne",
+    "en": "the witches"
+   }
+  ],
+  "related": [
+   {
+    "da": "en trold",
+    "en": "a troll"
+   },
+   {
+    "da": "en troldmand",
+    "en": "a wizard"
+   },
+   {
+    "da": "en fe",
+    "en": "a fairy"
+   },
+   {
+    "da": "et eventyr",
+    "en": "a fairy tale"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene var bange for den onde **heks**.",
+   "en": "The children were afraid of the evil witch."
+  }
+ },
+ "en helhed": {
+  "file": "h.json",
+  "explanation": "\"En helhed\" means \"a whole\", something seen as one complete thing and not as separate pieces. You say \"i sin helhed\" (in its entirety): \"Vi har læst bogen i sin helhed\" (We have read the entire book).",
+  "forms": [
+   {
+    "da": "en helhed",
+    "en": "a whole"
+   },
+   {
+    "da": "helheden",
+    "en": "the whole"
+   },
+   {
+    "da": "helheder",
+    "en": "wholes"
+   },
+   {
+    "da": "helhederne",
+    "en": "the wholes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en del",
+    "en": "a part"
+   },
+   {
+    "da": "en enhed",
+    "en": "a unit"
+   },
+   {
+    "da": "en sammenhæng",
+    "en": "a connection"
+   }
+  ],
+  "sentence": {
+   "da": "Delene passer sammen, og de danner en **helhed**.",
+   "en": "The pieces fit together, and they form a whole."
+  }
+ },
+ "en helikopter": {
+  "file": "h.json",
+  "explanation": "\"En helikopter\" means \"a helicopter\", a flying machine that can hover in one place and land almost anywhere.",
+  "forms": [
+   {
+    "da": "en helikopter",
+    "en": "a helicopter"
+   },
+   {
+    "da": "helikopteren",
+    "en": "the helicopter"
+   },
+   {
+    "da": "helikoptere",
+    "en": "helicopters"
+   },
+   {
+    "da": "helikopterne",
+    "en": "the helicopters"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fly",
+    "en": "an airplane"
+   },
+   {
+    "da": "at flyve",
+    "en": "to fly"
+   },
+   {
+    "da": "en rotor",
+    "en": "a rotor"
+   }
+  ],
+  "sentence": {
+   "da": "En **helikopter** har blade og letter lige op i luften.",
+   "en": "A helicopter has blades and takes off straight up into the air."
+  }
+ },
+ "en helligdag": {
+  "file": "h.json",
+  "explanation": "\"En helligdag\" means \"a public holiday\", a day when most people do not work and many shops are closed. It is built from hellig (holy) and dag (day). Opening hours often say \"lukket søn- og helligdage\" (closed on Sundays and public holidays).",
+  "forms": [
+   {
+    "da": "en helligdag",
+    "en": "a public holiday"
+   },
+   {
+    "da": "helligdagen",
+    "en": "the public holiday"
+   },
+   {
+    "da": "helligdage",
+    "en": "public holidays"
+   },
+   {
+    "da": "helligdagene",
+    "en": "the public holidays"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fridag",
+    "en": "a day off"
+   },
+   {
+    "da": "en ferie",
+    "en": "a vacation"
+   },
+   {
+    "da": "en weekend",
+    "en": "a weekend"
+   }
+  ],
+  "sentence": {
+   "da": "Juledag er en **helligdag**, og vi har fri.",
+   "en": "Christmas Day is a public holiday, and we have the day off."
+  }
+ },
+ "en hemmelighed": {
+  "file": "h.json",
+  "explanation": "\"En hemmelighed\" means \"a secret\", something you keep to yourself or share with only a few people. You keep a secret with \"holde\" (to hold): \"Kan du holde en hemmelighed?\" (Can you keep a secret?) The describing word is \"hemmelig\" (secret): \"en hemmelig plan\" (a secret plan).",
+  "forms": [
+   {
+    "da": "en hemmelighed",
+    "en": "a secret"
+   },
+   {
+    "da": "hemmeligheden",
+    "en": "the secret"
+   },
+   {
+    "da": "hemmeligheder",
+    "en": "secrets"
+   },
+   {
+    "da": "hemmelighederne",
+    "en": "the secrets"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skjule",
+    "en": "to hide"
+   },
+   {
+    "da": "at afsløre",
+    "en": "to reveal"
+   },
+   {
+    "da": "at fortælle",
+    "en": "to tell"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **hemmelighed**, og ingen må vide det.",
+   "en": "It is a secret, and nobody may know."
+  }
+ },
+ "en hensigt": {
+  "file": "h.json",
+  "explanation": "\"En hensigt\" means \"an intention\", what you mean to do. A common phrase is \"at have til hensigt at\" (to intend to): \"Jeg har til hensigt at flytte\" (I intend to move). This phrase sounds formal. In everyday speech Danes say \"Jeg vil flytte\" (I want to move).",
+  "forms": [
+   {
+    "da": "en hensigt",
+    "en": "an intention"
+   },
+   {
+    "da": "hensigten",
+    "en": "the intention"
+   },
+   {
+    "da": "hensigter",
+    "en": "intentions"
+   },
+   {
+    "da": "hensigterne",
+    "en": "the intentions"
+   }
+  ],
+  "related": [
+   {
+    "da": "et formål",
+    "en": "a purpose"
+   },
+   {
+    "da": "et mål",
+    "en": "a goal"
+   },
+   {
+    "da": "en plan",
+    "en": "a plan"
+   },
+   {
+    "da": "en vilje",
+    "en": "willpower"
+   }
+  ],
+  "sentence": {
+   "da": "Min **hensigt** var ikke at såre dig.",
+   "en": "My intention was not to hurt you."
+  }
+ },
+ "en henvendelse": {
+  "file": "h.json",
+  "explanation": "\"En henvendelse\" means \"an inquiry\", when you contact a company or authority with a question or a wish. A typical line from customer service is \"Tak for din henvendelse\" (Thank you for contacting us).",
+  "forms": [
+   {
+    "da": "en henvendelse",
+    "en": "an inquiry"
+   },
+   {
+    "da": "henvendelsen",
+    "en": "the inquiry"
+   },
+   {
+    "da": "henvendelser",
+    "en": "inquiries"
+   },
+   {
+    "da": "henvendelserne",
+    "en": "the inquiries"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forespørgsel",
+    "en": "a request"
+   },
+   {
+    "da": "en klage",
+    "en": "a complaint"
+   },
+   {
+    "da": "en ansøgning",
+    "en": "an application"
+   },
+   {
+    "da": "et svar",
+    "en": "an answer"
+   }
+  ],
+  "sentence": {
+   "da": "Vi besvarer din **henvendelse** inden for to hverdage.",
+   "en": "We will answer your inquiry within two working days."
+  }
+ },
+ "en henvisning": {
+  "file": "h.json",
+  "explanation": "\"En henvisning\" means \"a referral / reference\". At the family doctor, it is the paper that sends you on to a hospital or another doctor. In writing, it points the reader to where to find more information.",
+  "forms": [
+   {
+    "da": "en henvisning",
+    "en": "a referral / reference"
+   },
+   {
+    "da": "henvisningen",
+    "en": "the referral / reference"
+   },
+   {
+    "da": "henvisninger",
+    "en": "referrals / references"
+   },
+   {
+    "da": "henvisningerne",
+    "en": "the referrals / references"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kilde",
+    "en": "a source"
+   },
+   {
+    "da": "en fodnote",
+    "en": "a footnote"
+   },
+   {
+    "da": "en speciallæge",
+    "en": "a specialist"
+   },
+   {
+    "da": "en anbefaling",
+    "en": "a recommendation"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal bruge en **henvisning** fra lægen for at komme på sygehuset.",
+   "en": "You need a referral from the doctor to get into the hospital."
+  }
+ },
+ "en herre": {
+  "file": "h.json",
+  "explanation": "\"En herre\" means \"a gentleman\", and also \"a lord\" or \"a master\". On a restroom sign, \"Herrer\" (Men) is the men's room.",
+  "forms": [
+   {
+    "da": "en herre",
+    "en": "a gentleman / lord"
+   },
+   {
+    "da": "herren",
+    "en": "the gentleman / lord"
+   },
+   {
+    "da": "herrer",
+    "en": "gentlemen"
+   },
+   {
+    "da": "herrerne",
+    "en": "the gentlemen"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dame",
+    "en": "a lady"
+   },
+   {
+    "da": "en mand",
+    "en": "a man"
+   },
+   {
+    "da": "en frue",
+    "en": "a married lady"
+   }
+  ],
+  "sentence": {
+   "da": "Den høje **herre** dér venter på dig.",
+   "en": "That tall gentleman over there is waiting for you."
+  }
+ },
+ "en hersker": {
+  "file": "h.json",
+  "explanation": "\"En hersker\" means \"a ruler\", a person who holds the highest power over a country or a people, especially in history.",
+  "forms": [
+   {
+    "da": "en hersker",
+    "en": "a ruler"
+   },
+   {
+    "da": "herskeren",
+    "en": "the ruler"
+   },
+   {
+    "da": "herskere",
+    "en": "rulers"
+   },
+   {
+    "da": "herskerne",
+    "en": "the rulers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en konge",
+    "en": "a king"
+   },
+   {
+    "da": "en kejser",
+    "en": "an emperor"
+   },
+   {
+    "da": "en regent",
+    "en": "a regent"
+   },
+   {
+    "da": "en diktator",
+    "en": "a dictator"
+   }
+  ],
+  "sentence": {
+   "da": "Den, der styrer hele landet alene, er en **hersker**.",
+   "en": "The one who rules the whole country alone is a ruler."
+  }
+ },
+ "en hest": {
+  "file": "h.json",
+  "explanation": "\"En hest\" means \"a horse\", a large animal that people ride.",
+  "forms": [
+   {
+    "da": "en hest",
+    "en": "a horse"
+   },
+   {
+    "da": "hesten",
+    "en": "the horse"
+   },
+   {
+    "da": "heste",
+    "en": "horses"
+   },
+   {
+    "da": "hestene",
+    "en": "the horses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pony",
+    "en": "a pony"
+   },
+   {
+    "da": "et føl",
+    "en": "a foal"
+   },
+   {
+    "da": "en hingst",
+    "en": "a stallion"
+   }
+  ],
+  "sentence": {
+   "da": "En **hest** spiser græs og løber hurtigt.",
+   "en": "A horse eats grass and runs fast."
+  }
+ },
+ "en hestehale": {
+  "file": "h.json",
+  "explanation": "\"En hestehale\" means \"a ponytail\", hair tied together at the back of the head. It is built from hest (horse) and hale (tail).",
+  "forms": [
+   {
+    "da": "en hestehale",
+    "en": "a ponytail"
+   },
+   {
+    "da": "hestehalen",
+    "en": "the ponytail"
+   },
+   {
+    "da": "hestehaler",
+    "en": "ponytails"
+   },
+   {
+    "da": "hestehalerne",
+    "en": "the ponytails"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fletning",
+    "en": "a braid"
+   },
+   {
+    "da": "en hårelastik",
+    "en": "a hair tie"
+   },
+   {
+    "da": "et hårspænde",
+    "en": "a hair clip"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har samlet håret i en høj **hestehale**.",
+   "en": "She has gathered her hair in a high ponytail."
+  }
+ },
+ "en hilsen": {
+  "file": "h.json",
+  "explanation": "\"En hilsen\" means \"a greeting\", and also a friendly message you send to someone. At the end of a letter or email, \"Venlig hilsen\" (Kind regards) is a common sign-off.",
+  "forms": [
+   {
+    "da": "en hilsen",
+    "en": "a greeting"
+   },
+   {
+    "da": "hilsenen",
+    "en": "the greeting"
+   },
+   {
+    "da": "hilsner",
+    "en": "greetings"
+   },
+   {
+    "da": "hilsnerne",
+    "en": "the greetings"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hilse",
+    "en": "to greet"
+   },
+   {
+    "da": "en velkomst",
+    "en": "a welcome"
+   },
+   {
+    "da": "et farvel",
+    "en": "a goodbye"
+   },
+   {
+    "da": "hej",
+    "en": "hi"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sender dig en **hilsen** fra Danmark.",
+   "en": "I'm sending you a greeting from Denmark."
+  }
+ },
+ "en himmel": {
+  "file": "h.json",
+  "explanation": "\"En himmel\" means \"a sky\", and it can also mean \"heaven\". Danes mostly say \"himlen\" (the sky) rather than \"en himmel\" (a sky): \"Himlen er grå\" (The sky is gray).",
+  "forms": [
+   {
+    "da": "en himmel",
+    "en": "a sky"
+   },
+   {
+    "da": "himlen",
+    "en": "the sky"
+   }
+  ],
+  "related": [
+   {
+    "da": "himmelblå",
+    "en": "sky blue"
+   },
+   {
+    "da": "en sol",
+    "en": "a sun"
+   },
+   {
+    "da": "en måne",
+    "en": "a moon"
+   },
+   {
+    "da": "en regnbue",
+    "en": "a rainbow"
+   }
+  ],
+  "sentence": {
+   "da": "Der er mange stjerner på en mørk **himmel**.",
+   "en": "There are many stars in a dark sky."
+  }
+ },
+ "en hindbærsnitte": {
+  "file": "h.json",
+  "explanation": "\"En hindbærsnitte\" means \"a raspberry slice\", a flat rectangular pastry sold in Danish bakeries. It is built from hindbær (raspberry) and snitte (slice).",
+  "forms": [
+   {
+    "da": "en hindbærsnitte",
+    "en": "a raspberry slice (pastry)"
+   },
+   {
+    "da": "hindbærsnitten",
+    "en": "the raspberry slice (pastry)"
+   },
+   {
+    "da": "hindbærsnitter",
+    "en": "raspberry slices"
+   },
+   {
+    "da": "hindbærsnitterne",
+    "en": "the raspberry slices"
+   }
+  ],
+  "related": [
+   {
+    "da": "et wienerbrød",
+    "en": "a Danish pastry"
+   },
+   {
+    "da": "en kanelsnegl",
+    "en": "a cinnamon roll"
+   },
+   {
+    "da": "en tebirkes",
+    "en": "a poppy-seed pastry"
+   }
+  ],
+  "sentence": {
+   "da": "Til kaffen fik vi en **hindbærsnitte** med syltetøj og glasur.",
+   "en": "With the coffee we had a raspberry slice with jam and icing."
+  }
+ },
+ "en hindring": {
+  "file": "h.json",
+  "explanation": "\"En hindring\" means \"an obstacle\", anything that stops or slows you down. It can be something real on a road, but also something you cannot touch: \"Frygt kan være en hindring\" (Fear can be an obstacle).",
+  "forms": [
+   {
+    "da": "en hindring",
+    "en": "an obstacle"
+   },
+   {
+    "da": "hindringen",
+    "en": "the obstacle"
+   },
+   {
+    "da": "hindringer",
+    "en": "obstacles"
+   },
+   {
+    "da": "hindringerne",
+    "en": "the obstacles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forhindring",
+    "en": "a hurdle"
+   },
+   {
+    "da": "en barriere",
+    "en": "a barrier"
+   },
+   {
+    "da": "en udfordring",
+    "en": "a challenge"
+   },
+   {
+    "da": "et problem",
+    "en": "a problem"
+   }
+  ],
+  "sentence": {
+   "da": "Manglende sprogkundskaber kan være en stor **hindring** i et nyt job.",
+   "en": "Missing language skills can be a big obstacle in a new job."
+  }
+ },
+ "en hingst": {
+  "file": "h.json",
+  "explanation": "\"En hingst\" means \"a stallion\", an adult male horse. A female is called \"en hoppe\" (a mare).",
+  "forms": [
+   {
+    "da": "en hingst",
+    "en": "a stallion"
+   },
+   {
+    "da": "hingsten",
+    "en": "the stallion"
+   },
+   {
+    "da": "hingste",
+    "en": "stallions"
+   },
+   {
+    "da": "hingstene",
+    "en": "the stallions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vallak",
+    "en": "a gelding"
+   },
+   {
+    "da": "en pony",
+    "en": "a pony"
+   },
+   {
+    "da": "et føl",
+    "en": "a foal"
+   }
+  ],
+  "sentence": {
+   "da": "En **hingst** bruges til avl, så der kommer nye heste.",
+   "en": "A stallion is used for breeding, so new horses are born."
+  }
+ },
+ "en historie": {
+  "file": "h.json",
+  "explanation": "\"En historie\" means both a story and history (the past, also the school subject). You can tell which one it is from the context of the sentence. \"Fortæl en historie\" means \"tell a story\", and \"Danmarks historie\" means \"the history of Denmark\".",
+  "forms": [
+   {
+    "da": "en historie",
+    "en": "a story / history"
+   },
+   {
+    "da": "historien",
+    "en": "the story / the history"
+   },
+   {
+    "da": "historier",
+    "en": "stories"
+   },
+   {
+    "da": "historierne",
+    "en": "the stories"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fortælling",
+    "en": "a tale"
+   },
+   {
+    "da": "et eventyr",
+    "en": "a fairy tale"
+   },
+   {
+    "da": "historisk",
+    "en": "historical"
+   },
+   {
+    "da": "fortiden",
+    "en": "the past"
+   }
+  ],
+  "sentence": {
+   "da": "Han fortæller en sjov **historie**.",
+   "en": "He tells a funny story."
+  }
+ },
+ "en historiebog": {
+  "file": "h.json",
+  "explanation": "\"En historiebog\" means \"a history book\", often a school textbook about the past. It is built from historie (history) and en bog (a book). \"Historie\" also means \"story\": \"en historie om en prins\" (a story about a prince).",
+  "forms": [
+   {
+    "da": "en historiebog",
+    "en": "a history book"
+   },
+   {
+    "da": "historiebogen",
+    "en": "the history book"
+   },
+   {
+    "da": "historiebøger",
+    "en": "history books"
+   },
+   {
+    "da": "historiebøgerne",
+    "en": "the history books"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lærebog",
+    "en": "a textbook"
+   },
+   {
+    "da": "en fagbog",
+    "en": "a nonfiction book"
+   },
+   {
+    "da": "en roman",
+    "en": "a novel"
+   },
+   {
+    "da": "en skolebog",
+    "en": "a schoolbook"
+   }
+  ],
+  "sentence": {
+   "da": "I vores **historiebog** læser vi om vikingerne.",
+   "en": "In our history book, we read about the Vikings."
+  }
+ },
+ "en historiker": {
+  "file": "h.json",
+  "explanation": "\"En historiker\" means \"a historian\", a person who studies and writes about the past, often at a university or museum.",
+  "forms": [
+   {
+    "da": "en historiker",
+    "en": "a historian"
+   },
+   {
+    "da": "historikeren",
+    "en": "the historian"
+   },
+   {
+    "da": "historikere",
+    "en": "historians"
+   },
+   {
+    "da": "historikerne",
+    "en": "the historians"
+   }
+  ],
+  "related": [
+   {
+    "da": "historisk",
+    "en": "historical"
+   },
+   {
+    "da": "en arkæolog",
+    "en": "an archaeologist"
+   },
+   {
+    "da": "en forsker",
+    "en": "a researcher"
+   }
+  ],
+  "sentence": {
+   "da": "En **historiker** læser gamle breve for at forstå fortiden.",
+   "en": "A historian reads old letters to understand the past."
+  }
+ },
+ "en hjelm": {
+  "file": "h.json",
+  "explanation": "\"En hjelm\" means \"a helmet\", worn to protect your head, for example when riding or on a building site.",
+  "forms": [
+   {
+    "da": "en hjelm",
+    "en": "a helmet"
+   },
+   {
+    "da": "hjelmen",
+    "en": "the helmet"
+   },
+   {
+    "da": "hjelme",
+    "en": "helmets"
+   },
+   {
+    "da": "hjelmene",
+    "en": "the helmets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en cykelhjelm",
+    "en": "a bike helmet"
+   },
+   {
+    "da": "en skihjelm",
+    "en": "a ski helmet"
+   },
+   {
+    "da": "en motorcykelhjelm",
+    "en": "a motorcycle helmet"
+   }
+  ],
+  "sentence": {
+   "da": "Børn skal have **hjelm** på, når de cykler.",
+   "en": "Children must wear a helmet when they bike."
+  }
+ },
+ "en hjemmeopgave": {
+  "file": "h.json",
+  "explanation": "\"En hjemmeopgave\" means \"a homework assignment\", one task you do at home for school or university. For the daily homework a teacher gives in school, Danes say \"lektier\" (homework).",
+  "forms": [
+   {
+    "da": "en hjemmeopgave",
+    "en": "a homework assignment"
+   },
+   {
+    "da": "hjemmeopgaven",
+    "en": "the homework assignment"
+   },
+   {
+    "da": "hjemmeopgaver",
+    "en": "homework assignments"
+   },
+   {
+    "da": "hjemmeopgaverne",
+    "en": "the homework assignments"
+   }
+  ],
+  "related": [
+   {
+    "da": "en aflevering",
+    "en": "a hand-in"
+   },
+   {
+    "da": "et projekt",
+    "en": "a project"
+   },
+   {
+    "da": "en eksamen",
+    "en": "an exam"
+   },
+   {
+    "da": "en opgave",
+    "en": "an assignment"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren gav klassen en **hjemmeopgave** om Danmarks historie.",
+   "en": "The teacher gave the class a homework assignment about Denmark's history."
+  }
+ },
+ "en hjemmeside": {
+  "file": "h.json",
+  "explanation": "\"En hjemmeside\" means \"a website\", the place on the internet where a person or a company shows information. It is built from hjemme (home) and side (page). \"Hjemme\" means \"at home\", but \"hjem\" means \"toward home\": \"Jeg er hjemme\" (I am at home), \"Jeg går hjem\" (I am going home).",
+  "forms": [
+   {
+    "da": "en hjemmeside",
+    "en": "a website"
+   },
+   {
+    "da": "hjemmesiden",
+    "en": "the website"
+   },
+   {
+    "da": "hjemmesider",
+    "en": "websites"
+   },
+   {
+    "da": "hjemmesiderne",
+    "en": "the websites"
+   }
+  ],
+  "related": [
+   {
+    "da": "en netside",
+    "en": "a web page"
+   },
+   {
+    "da": "en webshop",
+    "en": "a web shop"
+   },
+   {
+    "da": "et link",
+    "en": "a link"
+   },
+   {
+    "da": "en browser",
+    "en": "a browser"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan se åbningstiderne på butikkens **hjemmeside**.",
+   "en": "You can see the opening hours on the shop's website."
+  }
+ },
+ "en hjemmesko": {
+  "file": "h.json",
+  "explanation": "\"En hjemmesko\" means \"a slipper\". It is built from hjemme (at home) and sko (shoe). You usually say \"et par hjemmesko\" (a pair of slippers), since you wear two.",
+  "forms": [
+   {
+    "da": "en hjemmesko",
+    "en": "a slipper"
+   },
+   {
+    "da": "hjemmeskoen",
+    "en": "the slipper"
+   },
+   {
+    "da": "hjemmesko",
+    "en": "slippers"
+   },
+   {
+    "da": "hjemmeskoene",
+    "en": "the slippers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sandal",
+    "en": "a sandal"
+   },
+   {
+    "da": "en støvle",
+    "en": "a boot"
+   },
+   {
+    "da": "en træsko",
+    "en": "a clog"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har varme **hjemmesko** på i huset.",
+   "en": "I am wearing warm slippers in the house."
+  }
+ },
+ "en hjemrejse": {
+  "file": "h.json",
+  "explanation": "\"En hjemrejse\" means \"a return trip\", the journey back home after being away. It is built from hjem (home) and rejse (trip). \"Rejse\" is also a verb: \"at rejse hjem\" (to travel home).",
+  "forms": [
+   {
+    "da": "en hjemrejse",
+    "en": "a return trip"
+   },
+   {
+    "da": "hjemrejsen",
+    "en": "the return trip"
+   },
+   {
+    "da": "hjemrejser",
+    "en": "return trips"
+   },
+   {
+    "da": "hjemrejserne",
+    "en": "the return trips"
+   }
+  ],
+  "related": [
+   {
+    "da": "en afrejse",
+    "en": "a departure"
+   },
+   {
+    "da": "en ankomst",
+    "en": "an arrival"
+   },
+   {
+    "da": "en returbillet",
+    "en": "a round-trip ticket"
+   },
+   {
+    "da": "at vende hjem",
+    "en": "to return home"
+   }
+  ],
+  "sentence": {
+   "da": "Efter ferien starter vores **hjemrejse** fra Spanien.",
+   "en": "After the vacation, our trip home starts from Spain."
+  }
+ },
+ "en hjerne": {
+  "file": "h.json",
+  "explanation": "\"En hjerne\" means \"a brain\", the organ you think with. It is also the first part of \"hjernerystelse\" (concussion), literally \"brain shaking\".",
+  "forms": [
+   {
+    "da": "en hjerne",
+    "en": "a brain"
+   },
+   {
+    "da": "hjernen",
+    "en": "the brain"
+   },
+   {
+    "da": "hjerner",
+    "en": "brains"
+   },
+   {
+    "da": "hjernerne",
+    "en": "the brains"
+   }
+  ],
+  "related": [
+   {
+    "da": "et hoved",
+    "en": "a head"
+   },
+   {
+    "da": "en tanke",
+    "en": "a thought"
+   },
+   {
+    "da": "et nervesystem",
+    "en": "a nervous system"
+   },
+   {
+    "da": "en hukommelse",
+    "en": "a memory"
+   }
+  ],
+  "sentence": {
+   "da": "Din **hjerne** sidder inde i hovedet.",
+   "en": "Your brain sits inside the head."
+  }
+ },
+ "en hjernerystelse": {
+  "file": "h.json",
+  "explanation": "\"En hjernerystelse\" means \"a concussion\". After a hard hit to the head, the brain is shaken inside the skull, and you may feel dizzy or sick. It is built from hjerne (brain) and rystelse (shaking).",
+  "forms": [
+   {
+    "da": "en hjernerystelse",
+    "en": "a concussion"
+   },
+   {
+    "da": "hjernerystelsen",
+    "en": "the concussion"
+   },
+   {
+    "da": "hjernerystelser",
+    "en": "concussions"
+   },
+   {
+    "da": "hjernerystelserne",
+    "en": "the concussions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hovedpine",
+    "en": "a headache"
+   },
+   {
+    "da": "en kvæstelse",
+    "en": "an injury"
+   },
+   {
+    "da": "et slag",
+    "en": "a blow"
+   },
+   {
+    "da": "en hovedskade",
+    "en": "a head injury"
+   }
+  ],
+  "sentence": {
+   "da": "En **hjernerystelse** kommer af et hårdt slag mod hovedet.",
+   "en": "A concussion comes from a hard blow to the head."
+  }
+ },
+ "en hjort": {
+  "file": "h.json",
+  "explanation": "\"En hjort\" means \"a deer\", the larger kind with antlers on the male. A smaller deer is \"et rådyr\" (a roe deer).",
+  "forms": [
+   {
+    "da": "en hjort",
+    "en": "a deer"
+   },
+   {
+    "da": "hjorten",
+    "en": "the deer"
+   },
+   {
+    "da": "hjorte",
+    "en": "deer"
+   },
+   {
+    "da": "hjortene",
+    "en": "the deer"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kronhjort",
+    "en": "a red deer"
+   },
+   {
+    "da": "en elg",
+    "en": "a moose"
+   },
+   {
+    "da": "et rensdyr",
+    "en": "a reindeer"
+   }
+  ],
+  "sentence": {
+   "da": "Vi så en **hjort** med et stort gevir.",
+   "en": "We saw a deer with big antlers."
+  }
+ },
+ "en hobby": {
+  "file": "h.json",
+  "explanation": "\"En hobby\" means \"a hobby\", something you do for fun in your free time.",
+  "forms": [
+   {
+    "da": "en hobby",
+    "en": "a hobby"
+   },
+   {
+    "da": "hobbyen",
+    "en": "the hobby"
+   },
+   {
+    "da": "hobbyer",
+    "en": "hobbies"
+   },
+   {
+    "da": "hobbyerne",
+    "en": "the hobbies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en interesse",
+    "en": "an interest"
+   },
+   {
+    "da": "en fritidsinteresse",
+    "en": "a leisure interest"
+   },
+   {
+    "da": "fritid",
+    "en": "free time"
+   }
+  ],
+  "sentence": {
+   "da": "Min **hobby** er at male billeder.",
+   "en": "My hobby is painting pictures."
+  }
+ },
+ "en hofte": {
+  "file": "h.json",
+  "explanation": "\"En hofte\" means \"a hip\", the place on each side of the body where the leg meets the body. It is also the joint there, so an older person may get \"en ny hofte\" (a new hip).",
+  "forms": [
+   {
+    "da": "en hofte",
+    "en": "a hip"
+   },
+   {
+    "da": "hoften",
+    "en": "the hip"
+   },
+   {
+    "da": "hofter",
+    "en": "hips"
+   },
+   {
+    "da": "hofterne",
+    "en": "the hips"
+   }
+  ],
+  "related": [
+   {
+    "da": "et knæ",
+    "en": "a knee"
+   },
+   {
+    "da": "en skulder",
+    "en": "a shoulder"
+   },
+   {
+    "da": "en albue",
+    "en": "an elbow"
+   }
+  ],
+  "sentence": {
+   "da": "Din **hofte** sidder mellem taljen og låret.",
+   "en": "Your hip sits between the waist and the thigh."
+  }
+ },
+ "en holdbarhedsdato": {
+  "file": "h.json",
+  "explanation": "\"En holdbarhedsdato\" means \"a best-before date\", the date printed on a food package. It is the last day the food is expected to stay good.",
+  "forms": [
+   {
+    "da": "en holdbarhedsdato",
+    "en": "a best-before date"
+   },
+   {
+    "da": "holdbarhedsdatoen",
+    "en": "the best-before date"
+   },
+   {
+    "da": "holdbarhedsdatoer",
+    "en": "best-before dates"
+   },
+   {
+    "da": "holdbarhedsdatoerne",
+    "en": "the best-before dates"
+   }
+  ],
+  "related": [
+   {
+    "da": "bedst før",
+    "en": "best before"
+   },
+   {
+    "da": "en udløbsdato",
+    "en": "an expiration date"
+   },
+   {
+    "da": "holdbar",
+    "en": "long-lasting"
+   },
+   {
+    "da": "frisk",
+    "en": "fresh"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tjekker altid mælkens **holdbarhedsdato**.",
+   "en": "I always check the milk's best-before date."
+  }
+ }
+}

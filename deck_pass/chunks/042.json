@@ -1,0 +1,3938 @@
+{
+ "lang": {
+  "file": "l.json",
+  "explanation": "\"Lang\" means \"long\", in distance or in time. The form \"langt\" can also mean \"far\": \"Det er langt væk\" (It is far away).",
+  "forms": [
+   {
+    "da": "en lang vej",
+    "en": "a long road"
+   },
+   {
+    "da": "et langt møde",
+    "en": "a long meeting"
+   },
+   {
+    "da": "lange dage",
+    "en": "long days"
+   }
+  ],
+  "related": [
+   {
+    "da": "kort",
+    "en": "short"
+   },
+   {
+    "da": "længere",
+    "en": "longer"
+   },
+   {
+    "da": "længe",
+    "en": "for a long time"
+   }
+  ],
+  "sentence": {
+   "da": "Giraffen har en **lang** hals.",
+   "en": "The giraffe has a long neck."
+  }
+ },
+ "langfredag": {
+  "file": "l.json",
+  "explanation": "\"Langfredag\" means \"Good Friday\", the Friday before Easter. It is a day off in Denmark, and the name literally means \"long Friday\".",
+  "forms": [
+   {
+    "da": "langfredag",
+    "en": "Good Friday"
+   },
+   {
+    "da": "på langfredag",
+    "en": "on Good Friday"
+   },
+   {
+    "da": "langfredag og påske",
+    "en": "Good Friday and Easter"
+   }
+  ],
+  "related": [
+   {
+    "da": "skærtorsdag",
+    "en": "Maundy Thursday"
+   },
+   {
+    "da": "påskelørdag",
+    "en": "Holy Saturday"
+   },
+   {
+    "da": "en helligdag",
+    "en": "a public holiday"
+   }
+  ],
+  "sentence": {
+   "da": "På **langfredag** har de fleste fri fra arbejde.",
+   "en": "On Good Friday most people have the day off work."
+  }
+ },
+ "langs": {
+  "file": "l.json",
+  "explanation": "\"Langs\" means \"along\" for moving or lying next to a road, a shore or another line you follow: \"Vi går langs stranden\" (We walk along the beach). Danes can also put it last: \"Vi går stranden langs\" (We walk along the beach).",
+  "forms": [
+   {
+    "da": "langs vejen",
+    "en": "along the road"
+   },
+   {
+    "da": "langs floden",
+    "en": "along the river"
+   },
+   {
+    "da": "langs kysten",
+    "en": "along the coast"
+   }
+  ],
+  "related": [
+   {
+    "da": "lang",
+    "en": "long"
+   },
+   {
+    "da": "længe",
+    "en": "for a long time"
+   },
+   {
+    "da": "en længde",
+    "en": "a length"
+   },
+   {
+    "da": "forbi",
+    "en": "past / by"
+   }
+  ],
+  "sentence": {
+   "da": "Der står træer **langs** vejen.",
+   "en": "There are trees along the road."
+  }
+ },
+ "langsom": {
+  "file": "l.json",
+  "explanation": "\"Langsom\" means \"slow\". To say that something happens slowly, use \"langsomt\" (slowly): \"Tal langsomt, tak\" (Speak slowly, please).",
+  "forms": [
+   {
+    "da": "en langsom bil",
+    "en": "a slow car"
+   },
+   {
+    "da": "et langsomt tog",
+    "en": "a slow train"
+   },
+   {
+    "da": "langsomme biler",
+    "en": "slow cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "hurtig",
+    "en": "fast"
+   },
+   {
+    "da": "hurtigere",
+    "en": "faster"
+   },
+   {
+    "da": "langsommere",
+    "en": "slower"
+   }
+  ],
+  "sentence": {
+   "da": "Skildpadden er meget **langsom**.",
+   "en": "The turtle is very slow."
+  }
+ },
+ "langt fra": {
+  "file": "l.json",
+  "explanation": "\"Langt fra\" means \"far from\". Say the place right after it: \"Hun bor langt fra byen\" (She lives far from the town). \"Langt væk\" (far away) ends the phrase instead: \"Hotellet er langt væk\" (The hotel is far away). As a full reply, \"Langt fra!\" means \"Far from it!\".",
+  "forms": [
+   {
+    "da": "langt fra stationen",
+    "en": "far from the station"
+   },
+   {
+    "da": "Hotellet er langt fra byen.",
+    "en": "The hotel is far from the town."
+   },
+   {
+    "da": "langt fra hjemme",
+    "en": "far from home"
+   }
+  ],
+  "related": [
+   {
+    "da": "tæt på",
+    "en": "close to"
+   },
+   {
+    "da": "langt borte",
+    "en": "far away"
+   },
+   {
+    "da": "i nærheden",
+    "en": "nearby"
+   }
+  ],
+  "sentence": {
+   "da": "Vores hus ligger **langt fra** byen.",
+   "en": "Our house is far from the town."
+  }
+ },
+ "langt væk": {
+  "file": "l.json",
+  "explanation": "\"Langt væk\" means \"far away\" and ends the phrase: \"Hotellet er langt væk\" (The hotel is far away). With \"langt fra\" (far from), say the place after it: \"Hun bor langt fra byen\" (She lives far from the town).",
+  "forms": [
+   {
+    "da": "langt væk",
+    "en": "far away"
+   },
+   {
+    "da": "Det er langt væk.",
+    "en": "It is far away."
+   },
+   {
+    "da": "Hun bor langt væk.",
+    "en": "She lives far away."
+   }
+  ],
+  "related": [
+   {
+    "da": "i nærheden",
+    "en": "nearby"
+   },
+   {
+    "da": "tæt på",
+    "en": "close to"
+   },
+   {
+    "da": "langt borte",
+    "en": "far away"
+   }
+  ],
+  "sentence": {
+   "da": "Min familie bor **langt væk**.",
+   "en": "My family lives far away."
+  }
+ },
+ "langtrukken": {
+  "file": "l.json",
+  "explanation": "\"Langtrukken\" means \"long-winded\", for a speech, story or meeting that goes on longer than people want. It also means drawn out in time or sound: \"en langtrukken tone\" (a drawn-out tone).",
+  "forms": [
+   {
+    "da": "en langtrukken historie",
+    "en": "a long-winded story"
+   },
+   {
+    "da": "et langtrukkent møde",
+    "en": "a long-winded meeting"
+   },
+   {
+    "da": "langtrukne forklaringer",
+    "en": "long-winded explanations"
+   }
+  ],
+  "related": [
+   {
+    "da": "kortfattet",
+    "en": "concise"
+   },
+   {
+    "da": "omstændelig",
+    "en": "roundabout"
+   },
+   {
+    "da": "vidtløftig",
+    "en": "wordy"
+   },
+   {
+    "da": "lang",
+    "en": "long"
+   }
+  ],
+  "sentence": {
+   "da": "Talen var **langtrukken**, og mange begyndte at gabe.",
+   "en": "The speech was long-winded and many began to yawn."
+  }
+ },
+ "langvarig": {
+  "file": "l.json",
+  "explanation": "\"Langvarig\" means \"long-lasting\". It is about how long something lasts, not how strong it is. \"Langvarigt regn\" means rain that keeps on, while \"kraftigt regn\" means heavy rain.",
+  "forms": [
+   {
+    "da": "en langvarig strejke",
+    "en": "a long strike"
+   },
+   {
+    "da": "et langvarigt forhold",
+    "en": "a long relationship"
+   },
+   {
+    "da": "langvarige problemer",
+    "en": "long-lasting problems"
+   }
+  ],
+  "related": [
+   {
+    "da": "kortvarig",
+    "en": "short-lived"
+   },
+   {
+    "da": "uendelig",
+    "en": "endless"
+   },
+   {
+    "da": "vedvarende",
+    "en": "continuous"
+   },
+   {
+    "da": "kronisk",
+    "en": "chronic"
+   }
+  ],
+  "sentence": {
+   "da": "Efter en **langvarig** sygdom kom han endelig tilbage på arbejde.",
+   "en": "After a long illness he finally came back to work."
+  }
+ },
+ "larm": {
+  "file": "l.json",
+  "explanation": "\"Larm\" means \"noise\", the loud, unwanted kind that bothers people. For steady background noise such as traffic and machines, Danes usually say \"støj\" (noise).",
+  "forms": [
+   {
+    "da": "larm",
+    "en": "noise"
+   },
+   {
+    "da": "larmen",
+    "en": "the noise"
+   },
+   {
+    "da": "at lave larm",
+    "en": "to make noise"
+   },
+   {
+    "da": "meget larm",
+    "en": "a lot of noise"
+   }
+  ],
+  "related": [
+   {
+    "da": "at larme",
+    "en": "to make noise"
+   },
+   {
+    "da": "en lyd",
+    "en": "a sound"
+   },
+   {
+    "da": "stilhed",
+    "en": "silence"
+   },
+   {
+    "da": "højlydt",
+    "en": "loud"
+   }
+  ],
+  "sentence": {
+   "da": "Der er for meget **larm** på gaden.",
+   "en": "There is too much noise on the street."
+  }
+ },
+ "larmende": {
+  "file": "l.json",
+  "explanation": "\"Larmende\" means \"noisy\", for people or places that make an annoying amount of sound. It comes from \"at larme\" (to make a racket).",
+  "forms": [
+   {
+    "da": "en larmende gade",
+    "en": "a noisy street"
+   },
+   {
+    "da": "et larmende klasseværelse",
+    "en": "a noisy classroom"
+   },
+   {
+    "da": "larmende børn",
+    "en": "noisy children"
+   }
+  ],
+  "related": [
+   {
+    "da": "højlydt",
+    "en": "loud"
+   },
+   {
+    "da": "en larm",
+    "en": "a din"
+   },
+   {
+    "da": "stille",
+    "en": "quiet"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene i klassen er **larmende**, når læreren går ud.",
+   "en": "The children in the class are noisy when the teacher leaves."
+  }
+ },
+ "latin": {
+  "file": "l.json",
+  "explanation": "\"Latin\" means \"Latin\", the language of the ancient Romans. Nobody speaks it at home today, but many Danish words in science and medicine come from it.",
+  "forms": [
+   {
+    "da": "latin",
+    "en": "Latin"
+   },
+   {
+    "da": "på latin",
+    "en": "in Latin"
+   },
+   {
+    "da": "Jeg læser latin.",
+    "en": "I study Latin."
+   }
+  ],
+  "related": [
+   {
+    "da": "græsk",
+    "en": "Greek"
+   },
+   {
+    "da": "italiensk",
+    "en": "Italian"
+   },
+   {
+    "da": "fransk",
+    "en": "French"
+   },
+   {
+    "da": "spansk",
+    "en": "Spanish"
+   }
+  ],
+  "sentence": {
+   "da": "Lægerne bruger mange ord fra **latin**.",
+   "en": "Doctors use many words from Latin."
+  }
+ },
+ "latterlig": {
+  "file": "l.json",
+  "explanation": "\"Latterlig\" means \"ridiculous\", for something so silly or unreasonable that it is almost funny or annoying.",
+  "forms": [
+   {
+    "da": "en latterlig idé",
+    "en": "a ridiculous idea"
+   },
+   {
+    "da": "et latterligt svar",
+    "en": "a ridiculous answer"
+   },
+   {
+    "da": "latterlige regler",
+    "en": "ridiculous rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "en latter",
+    "en": "laughter"
+   },
+   {
+    "da": "at le",
+    "en": "to laugh"
+   },
+   {
+    "da": "absurd",
+    "en": "absurd"
+   },
+   {
+    "da": "tåbelig",
+    "en": "foolish"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **latterlig** pris for en kop kaffe.",
+   "en": "That is a ridiculous price for a cup of coffee."
+  }
+ },
+ "lav": {
+  "file": "l.json",
+  "explanation": "\"Lav\" means \"low\", for something near the ground or small in amount. It works for prices too: \"lave priser\" (low prices).",
+  "forms": [
+   {
+    "da": "en lav stol",
+    "en": "a low chair"
+   },
+   {
+    "da": "et lavt bord",
+    "en": "a low table"
+   },
+   {
+    "da": "lave huse",
+    "en": "low houses"
+   }
+  ],
+  "related": [
+   {
+    "da": "høj",
+    "en": "tall / high"
+   },
+   {
+    "da": "lavere",
+    "en": "lower"
+   },
+   {
+    "da": "kort",
+    "en": "short"
+   }
+  ],
+  "sentence": {
+   "da": "Stolen er **lav**, ikke høj.",
+   "en": "The chair is low, not high."
+  }
+ },
+ "lava": {
+  "file": "l.json",
+  "explanation": "\"En lava\" means \"lava\", the hot melted rock that flows out of a volcano. When it cools, it turns into hard stone.",
+  "forms": [
+   {
+    "da": "en lava",
+    "en": "lava"
+   },
+   {
+    "da": "lavaen",
+    "en": "the lava"
+   },
+   {
+    "da": "lava fra en vulkan",
+    "en": "lava from a volcano"
+   }
+  ],
+  "related": [
+   {
+    "da": "et udbrud",
+    "en": "an eruption"
+   },
+   {
+    "da": "en aske",
+    "en": "ash"
+   },
+   {
+    "da": "magma",
+    "en": "magma"
+   },
+   {
+    "da": "en vulkan",
+    "en": "a volcano"
+   }
+  ],
+  "sentence": {
+   "da": "Den røde **lava** flyder ned ad bjergets side.",
+   "en": "The red lava flows down the side of the mountain."
+  }
+ },
+ "ledig": {
+  "file": "l.json",
+  "explanation": "\"Ledig\" means \"vacant\" or \"available\" and fits a seat, a room, a job or free time. A job that nobody holds is \"en ledig stilling\" (a job opening), and \"Han er ledig\" can also mean \"He has no job\".",
+  "forms": [
+   {
+    "da": "en ledig stol",
+    "en": "a vacant chair"
+   },
+   {
+    "da": "et ledigt værelse",
+    "en": "an available room"
+   },
+   {
+    "da": "ledige pladser",
+    "en": "free seats"
+   }
+  ],
+  "related": [
+   {
+    "da": "optaget",
+    "en": "taken / busy"
+   },
+   {
+    "da": "fri",
+    "en": "free"
+   },
+   {
+    "da": "en ledighed",
+    "en": "unemployment"
+   },
+   {
+    "da": "tilgængelig",
+    "en": "available"
+   }
+  ],
+  "sentence": {
+   "da": "Er der en **ledig** plads her?",
+   "en": "Is there a free seat here?"
+  }
+ },
+ "legetøj": {
+  "file": "l.json",
+  "explanation": "\"Legetøj\" means \"toys\". This word has no article, so leave out \"et\": \"Jeg har legetøj\" (I have toys). When you talk about one specific kind of toy, use its name: \"en bamse\" (a teddy bear).",
+  "forms": [
+   {
+    "da": "legetøj",
+    "en": "toys"
+   },
+   {
+    "da": "legetøjet",
+    "en": "the toys"
+   },
+   {
+    "da": "noget legetøj",
+    "en": "some toys"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lege",
+    "en": "to play"
+   },
+   {
+    "da": "en legeplads",
+    "en": "a playground"
+   },
+   {
+    "da": "en dukke",
+    "en": "a doll"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet leger med sit **legetøj**.",
+   "en": "The child plays with their toys."
+  }
+ },
+ "leggings": {
+  "file": "l.json",
+  "explanation": "\"Leggings\" means \"leggings\", the stretchy, tight-fitting clothing for the legs. It is always plural, so one pair is \"et par leggings\" (a pair of leggings).",
+  "forms": [
+   {
+    "da": "mine leggings",
+    "en": "my leggings"
+   },
+   {
+    "da": "sorte leggings",
+    "en": "black leggings"
+   },
+   {
+    "da": "et par leggings",
+    "en": "a pair of leggings"
+   }
+  ],
+  "related": [
+   {
+    "da": "strømpebukser",
+    "en": "tights"
+   },
+   {
+    "da": "bukser",
+    "en": "pants"
+   },
+   {
+    "da": "joggingbukser",
+    "en": "sweatpants"
+   },
+   {
+    "da": "shorts",
+    "en": "shorts"
+   }
+  ],
+  "sentence": {
+   "da": "Hun løber i sorte **leggings** hver morgen.",
+   "en": "She runs in black leggings every morning."
+  }
+ },
+ "lejlighedsvis": {
+  "file": "l.json",
+  "explanation": "\"Lejlighedsvis\" means \"occasionally\", when the chance comes up, without a fixed day or plan. The word comes from \"en lejlighed\" (an occasion). You say it about something you do now and then: \"Jeg spiller lejlighedsvis fodbold\" (I play soccer occasionally).",
+  "forms": [
+   {
+    "da": "Vi ses lejlighedsvis",
+    "en": "We see each other occasionally"
+   },
+   {
+    "da": "Han arbejder lejlighedsvis som tolk",
+    "en": "He occasionally works as an interpreter"
+   },
+   {
+    "da": "Hun hjælper lejlighedsvis til",
+    "en": "She helps out occasionally"
+   }
+  ],
+  "related": [
+   {
+    "da": "af og til",
+    "en": "now and then"
+   },
+   {
+    "da": "indimellem",
+    "en": "every so often"
+   },
+   {
+    "da": "sjældent",
+    "en": "rarely"
+   },
+   {
+    "da": "regelmæssigt",
+    "en": "regularly"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg cykler **lejlighedsvis** på arbejde, når vejret er godt.",
+   "en": "I occasionally bike to work when the weather is good."
+  }
+ },
+ "lektier": {
+  "file": "l.json",
+  "explanation": "\"Lektier\" means \"homework\". It goes with \"at lave\" (to do): \"Jeg laver lektier\" (I do my homework). To ask about it, say \"Har du lektier for?\" (Do you have homework?).",
+  "forms": [
+   {
+    "da": "en lektie",
+    "en": "a piece of homework"
+   },
+   {
+    "da": "lektier",
+    "en": "homework"
+   },
+   {
+    "da": "lektierne",
+    "en": "the homework"
+   },
+   {
+    "da": "mine lektier",
+    "en": "my homework"
+   }
+  ],
+  "related": [
+   {
+    "da": "en opgave",
+    "en": "a task"
+   },
+   {
+    "da": "en lektion",
+    "en": "a lesson"
+   },
+   {
+    "da": "en skoleopgave",
+    "en": "a school assignment"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren giver os **lektier** til i morgen.",
+   "en": "The teacher gives us homework for tomorrow."
+  }
+ },
+ "ler": {
+  "file": "l.json",
+  "explanation": "\"Ler\" means \"clay\", the heavy, sticky earth that is soft when wet and gets hard when it dries or is baked hot. Do not mix it up with \"ler\" in \"Han ler\" (He laughs), which comes from \"at le\" (to laugh).",
+  "forms": [
+   {
+    "da": "ler",
+    "en": "clay"
+   },
+   {
+    "da": "leret",
+    "en": "the clay"
+   },
+   {
+    "da": "en vase af ler",
+    "en": "a vase made of clay"
+   }
+  ],
+  "related": [
+   {
+    "da": "sand",
+    "en": "sand"
+   },
+   {
+    "da": "mudder",
+    "en": "mud"
+   },
+   {
+    "da": "keramik",
+    "en": "ceramics"
+   },
+   {
+    "da": "porcelæn",
+    "en": "porcelain"
+   }
+  ],
+  "sentence": {
+   "da": "Man former skåle og krukker af vådt **ler**.",
+   "en": "You shape bowls and jars from wet clay."
+  }
+ },
+ "lesbisk": {
+  "file": "l.json",
+  "explanation": "\"Lesbisk\" means \"lesbian\", for women who are attracted to women and for relationships between them: \"et lesbisk par\" (a lesbian couple).",
+  "forms": [
+   {
+    "da": "en lesbisk kvinde",
+    "en": "a lesbian woman"
+   },
+   {
+    "da": "en lesbisk forfatter",
+    "en": "a lesbian author"
+   },
+   {
+    "da": "lesbiske par",
+    "en": "lesbian couples"
+   }
+  ],
+  "related": [
+   {
+    "da": "homoseksuel",
+    "en": "homosexual"
+   },
+   {
+    "da": "biseksuel",
+    "en": "bisexual"
+   },
+   {
+    "da": "heteroseksuel",
+    "en": "heterosexual"
+   }
+  ],
+  "sentence": {
+   "da": "Hun bor sammen med sin kæreste, og de er et **lesbisk** par.",
+   "en": "She lives with her partner, and they are a lesbian couple."
+  }
+ },
+ "let": {
+  "file": "l.json",
+  "explanation": "\"Let\" means \"easy\" or \"light in weight\": \"en let opgave\" (an easy task) and \"en let taske\" (a light bag). You can tell from the context of the sentence whether it means \"easy\" or \"light in weight\".",
+  "forms": [
+   {
+    "da": "en let opgave",
+    "en": "an easy task"
+   },
+   {
+    "da": "et let svar",
+    "en": "an easy answer"
+   },
+   {
+    "da": "lette opgaver",
+    "en": "easy tasks"
+   }
+  ],
+  "related": [
+   {
+    "da": "svær",
+    "en": "difficult"
+   },
+   {
+    "da": "tung",
+    "en": "heavy"
+   },
+   {
+    "da": "nem",
+    "en": "easy"
+   }
+  ],
+  "sentence": {
+   "da": "En fjer er meget **let**.",
+   "en": "A feather is very light."
+  }
+ },
+ "letmælk": {
+  "file": "l.json",
+  "explanation": "\"Letmælk\" means \"low-fat milk\", the everyday milk with 1.5% fat. It is built from let (light) and mælk (milk).",
+  "forms": [
+   {
+    "da": "letmælk",
+    "en": "low-fat milk"
+   },
+   {
+    "da": "letmælken",
+    "en": "the low-fat milk"
+   },
+   {
+    "da": "et glas letmælk",
+    "en": "a glass of low-fat milk"
+   }
+  ],
+  "related": [
+   {
+    "da": "sødmælk",
+    "en": "whole milk"
+   },
+   {
+    "da": "skummetmælk",
+    "en": "skim milk"
+   },
+   {
+    "da": "minimælk",
+    "en": "very low-fat milk"
+   }
+  ],
+  "sentence": {
+   "da": "**Letmælk** har mindre fedt end sødmælk.",
+   "en": "Low-fat milk has less fat than whole milk."
+  }
+ },
+ "lettelse": {
+  "file": "l.json",
+  "explanation": "\"Lettelse\" means \"relief\", the good feeling when something that bothered you is over. Someone who feels it is \"lettet\" (relieved).",
+  "forms": [
+   {
+    "da": "en lettelse",
+    "en": "relief"
+   },
+   {
+    "da": "lettelsen",
+    "en": "the relief"
+   },
+   {
+    "da": "lettelser",
+    "en": "reliefs"
+   },
+   {
+    "da": "lettelserne",
+    "en": "the reliefs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bekymring",
+    "en": "a worry"
+   },
+   {
+    "da": "tryghed",
+    "en": "safety"
+   },
+   {
+    "da": "ro",
+    "en": "calm"
+   },
+   {
+    "da": "at lette",
+    "en": "to lighten"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sukkede af **lettelse**, fordi prøven var slut.",
+   "en": "I sighed with relief because the test was over."
+  }
+ },
+ "lettere": {
+  "file": "l.json",
+  "explanation": "\"Lettere\" means \"easier\" and \"lighter\". It comes from \"let\" (easy, light).",
+  "forms": [
+   {
+    "da": "Det er lettere",
+    "en": "It is easier"
+   },
+   {
+    "da": "en lettere taske",
+    "en": "a lighter bag"
+   },
+   {
+    "da": "lettere at sige",
+    "en": "easier to say"
+   }
+  ],
+  "related": [
+   {
+    "da": "sværere",
+    "en": "harder"
+   },
+   {
+    "da": "tungere",
+    "en": "heavier"
+   },
+   {
+    "da": "nemmere",
+    "en": "easier"
+   },
+   {
+    "da": "lettest",
+    "en": "easiest"
+   }
+  ],
+  "sentence": {
+   "da": "Min nye taske er **lettere** end den gamle.",
+   "en": "My new bag is lighter than the old one."
+  }
+ },
+ "lettet": {
+  "file": "l.json",
+  "explanation": "\"Lettet\" means \"relieved\", how you feel when a worry goes away. To name the event you are relieved about, use \"over\" (about): \"lettet over, at eksamen var overstået\" (relieved that the exam was over).",
+  "forms": [
+   {
+    "da": "en lettet mor",
+    "en": "a relieved mother"
+   },
+   {
+    "da": "et lettet suk",
+    "en": "a relieved sigh"
+   },
+   {
+    "da": "lettede forældre",
+    "en": "relieved parents"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lettelse",
+    "en": "a relief"
+   },
+   {
+    "da": "at lette",
+    "en": "to lighten"
+   },
+   {
+    "da": "bekymret",
+    "en": "worried"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg var **lettet**, da hun ringede.",
+   "en": "I was relieved when she called."
+  }
+ },
+ "levedygtig": {
+  "file": "l.json",
+  "explanation": "\"Levedygtig\" means \"viable\", able to survive and keep going without help, such as a business, an idea or a baby born too early.",
+  "forms": [
+   {
+    "da": "en levedygtig plan",
+    "en": "a viable plan"
+   },
+   {
+    "da": "et levedygtigt firma",
+    "en": "a viable company"
+   },
+   {
+    "da": "levedygtige idéer",
+    "en": "viable ideas"
+   }
+  ],
+  "related": [
+   {
+    "da": "bæredygtig",
+    "en": "sustainable"
+   },
+   {
+    "da": "holdbar",
+    "en": "tenable"
+   },
+   {
+    "da": "lønsom",
+    "en": "profitable"
+   },
+   {
+    "da": "livsduelig",
+    "en": "fit to live"
+   }
+  ],
+  "sentence": {
+   "da": "Butikken er **levedygtig**, fordi den tjener flere penge, end den bruger.",
+   "en": "The store is viable because it earns more money than it spends."
+  }
+ },
+ "levende": {
+  "file": "l.json",
+  "explanation": "\"Levende\" means \"alive\" or \"living\". For music it means \"live\": \"levende musik\" (live music).",
+  "forms": [
+   {
+    "da": "en levende legende",
+    "en": "a living legend"
+   },
+   {
+    "da": "et levende dyr",
+    "en": "a living animal"
+   },
+   {
+    "da": "levende fisk",
+    "en": "live fish"
+   }
+  ],
+  "related": [
+   {
+    "da": "død",
+    "en": "dead"
+   },
+   {
+    "da": "i live",
+    "en": "alive"
+   },
+   {
+    "da": "et liv",
+    "en": "a life"
+   },
+   {
+    "da": "at leve",
+    "en": "to live"
+   }
+  ],
+  "sentence": {
+   "da": "Kaninen ligger stille, men den er **levende**.",
+   "en": "The rabbit lies still, but it is alive."
+  }
+ },
+ "leverpostej": {
+  "file": "l.json",
+  "explanation": "\"Leverpostej\" means \"liver pâté\", a soft spread for bread. It is made from lever (liver) and postej (pâté). It is usually eaten cold on bread, but it can also be served warm: \"lun leverpostej med bacon\" (warm liver pâté with bacon).",
+  "forms": [
+   {
+    "da": "leverpostej",
+    "en": "liver pâté"
+   },
+   {
+    "da": "leverpostejen",
+    "en": "the liver pâté"
+   },
+   {
+    "da": "en skive leverpostej",
+    "en": "a slice of liver pâté"
+   },
+   {
+    "da": "varm leverpostej",
+    "en": "warm liver pâté"
+   }
+  ],
+  "related": [
+   {
+    "da": "et pålæg",
+    "en": "sandwich topping"
+   },
+   {
+    "da": "en leverpostejmad",
+    "en": "a liver pâté sandwich"
+   },
+   {
+    "da": "et smørrebrød",
+    "en": "an open sandwich"
+   }
+  ],
+  "sentence": {
+   "da": "Til frokost spiser jeg **leverpostej** på rugbrød.",
+   "en": "For lunch I eat liver pâté on rye bread."
+  }
+ },
+ "liberal": {
+  "file": "l.json",
+  "explanation": "\"Liberal\" means \"liberal\". It can mean relaxed and open to the choices of others: \"en liberal opdragelse\" (a relaxed upbringing). In politics, \"et liberalt parti\" (a liberal party) wants personal freedom and a small state. It does not mean left-wing as it can in American English.",
+  "forms": [
+   {
+    "da": "en liberal holdning",
+    "en": "a liberal view"
+   },
+   {
+    "da": "et liberalt parti",
+    "en": "a liberal party"
+   },
+   {
+    "da": "liberale ideer",
+    "en": "liberal ideas"
+   }
+  ],
+  "related": [
+   {
+    "da": "konservativ",
+    "en": "conservative"
+   },
+   {
+    "da": "tolerant",
+    "en": "tolerant"
+   },
+   {
+    "da": "frisindet",
+    "en": "broad-minded"
+   },
+   {
+    "da": "autoritær",
+    "en": "authoritarian"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **liberal** og vil give folk mere frihed og mindre skat.",
+   "en": "He is liberal and wants to give people more freedom and less tax."
+  }
+ },
+ "lidenskab": {
+  "file": "l.json",
+  "explanation": "\"En lidenskab\" means \"a passion\", a very strong feeling of excitement and devotion for a person, a hobby or a cause. The matching describing word is \"lidenskabelig\" (passionate).",
+  "forms": [
+   {
+    "da": "en lidenskab",
+    "en": "a passion"
+   },
+   {
+    "da": "lidenskaben",
+    "en": "the passion"
+   },
+   {
+    "da": "lidenskaber",
+    "en": "passions"
+   },
+   {
+    "da": "lidenskaberne",
+    "en": "the passions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kærlighed",
+    "en": "a love"
+   },
+   {
+    "da": "en interesse",
+    "en": "an interest"
+   },
+   {
+    "da": "en iver",
+    "en": "eagerness"
+   },
+   {
+    "da": "en lyst",
+    "en": "a desire"
+   }
+  ],
+  "sentence": {
+   "da": "Hans **lidenskab** er musik, og han spiller hver dag.",
+   "en": "His passion is music, and he plays every day."
+  }
+ },
+ "lidenskabelig": {
+  "file": "l.json",
+  "explanation": "\"Lidenskabelig\" means \"passionate\", for a person who feels something very strongly and shows it, and for strong feelings such as love or anger.",
+  "forms": [
+   {
+    "da": "en lidenskabelig kunstner",
+    "en": "a passionate artist"
+   },
+   {
+    "da": "et lidenskabeligt forhold",
+    "en": "a passionate relationship"
+   },
+   {
+    "da": "lidenskabelige ord",
+    "en": "passionate words"
+   }
+  ],
+  "related": [
+   {
+    "da": "begejstret",
+    "en": "enthusiastic"
+   },
+   {
+    "da": "ivrig",
+    "en": "eager"
+   },
+   {
+    "da": "brændende",
+    "en": "burning"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   }
+  ],
+  "sentence": {
+   "da": "Hun bliver **lidenskabelig**, når hun taler om musik.",
+   "en": "She becomes passionate when she talks about music."
+  }
+ },
+ "lidt": {
+  "file": "l.json",
+  "explanation": "\"Lidt\" means \"a little\" or \"a bit\": \"lidt mælk\" (a little milk), \"lidt træt\" (a bit tired). Do not mix it up with \"lille\" (small): \"en lille kop\" (a small cup) is about size, while \"lidt vand\" (a little water) is about amount.",
+  "forms": [
+   {
+    "da": "lidt kaffe",
+    "en": "a little coffee"
+   },
+   {
+    "da": "Jeg taler lidt dansk.",
+    "en": "I speak a little Danish."
+   },
+   {
+    "da": "Lidt mere, tak.",
+    "en": "A little more, please."
+   }
+  ],
+  "related": [
+   {
+    "da": "meget",
+    "en": "very / a lot"
+   },
+   {
+    "da": "en smule",
+    "en": "a bit"
+   },
+   {
+    "da": "lidt efter lidt",
+    "en": "little by little"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil kun have **lidt** mad.",
+   "en": "I only want a little food."
+  }
+ },
+ "lidt efter lidt": {
+  "file": "l.json",
+  "explanation": "\"Lidt efter lidt\" means \"little by little\" and describes change that happens a bit at a time. Word for word, it is \"a little after a little\".",
+  "forms": [
+   {
+    "da": "lidt efter lidt",
+    "en": "little by little"
+   },
+   {
+    "da": "lidt efter lidt bliver det bedre",
+    "en": "little by little it gets better"
+   },
+   {
+    "da": "Det går lidt efter lidt",
+    "en": "It goes little by little"
+   }
+  ],
+  "related": [
+   {
+    "da": "gradvist",
+    "en": "gradually"
+   },
+   {
+    "da": "langsomt",
+    "en": "slowly"
+   },
+   {
+    "da": "skridt for skridt",
+    "en": "step by step"
+   },
+   {
+    "da": "efterhånden",
+    "en": "over time"
+   }
+  ],
+  "sentence": {
+   "da": "**Lidt efter lidt** blev det lyst.",
+   "en": "Little by little it got light."
+  }
+ },
+ "lidt langsommere, tak": {
+  "file": "l.json",
+  "explanation": "\"Lidt langsommere, tak\" means \"a bit slower, please\". \"Langsommere\" means \"slower\" (from \"langsom\", slow). If you also missed the words, add \"Kan du sige det igen?\" (Can you say that again?).",
+  "forms": [
+   {
+    "da": "Lidt langsommere, tak.",
+    "en": "A bit slower, please."
+   },
+   {
+    "da": "Kan du tale lidt langsommere?",
+    "en": "Can you speak a bit slower?"
+   },
+   {
+    "da": "Jeg forstår ikke helt.",
+    "en": "I don't quite understand."
+   }
+  ],
+  "related": [
+   {
+    "da": "lidt højere",
+    "en": "a bit louder"
+   },
+   {
+    "da": "hurtigere",
+    "en": "faster"
+   },
+   {
+    "da": "undskyld?",
+    "en": "pardon?"
+   }
+  ],
+  "sentence": {
+   "da": "Du taler for hurtigt. **Lidt langsommere, tak**!",
+   "en": "You speak too fast. A bit slower, please!"
+  }
+ },
+ "lige": {
+  "file": "l.json",
+  "explanation": "\"Lige\" means \"straight\" or \"equal\". In \"et lige tal\" (an even number) it means \"even\": 2, 4, 6. It is also used for \"just\" or \"right\": \"lige nu\" (right now), \"lige ved siden af\" (right next to).",
+  "forms": [
+   {
+    "da": "en lige vej",
+    "en": "a straight road"
+   },
+   {
+    "da": "et lige tal",
+    "en": "an even number"
+   },
+   {
+    "da": "lige linjer",
+    "en": "straight lines"
+   }
+  ],
+  "related": [
+   {
+    "da": "skæv",
+    "en": "crooked"
+   },
+   {
+    "da": "lige ud",
+    "en": "straight ahead"
+   },
+   {
+    "da": "lige meget",
+    "en": "no matter"
+   },
+   {
+    "da": "ens",
+    "en": "alike"
+   }
+  ],
+  "sentence": {
+   "da": "Stregen er meget **lige**.",
+   "en": "The line is very straight."
+  }
+ },
+ "lige meget hvad": {
+  "file": "l.json",
+  "explanation": "\"Lige meget hvad\" means \"no matter what\", whatever happens. You say it when you promise something: \"Jeg hjælper dig, lige meget hvad\" (I will help you, no matter what).",
+  "forms": [
+   {
+    "da": "Jeg kommer lige meget hvad.",
+    "en": "I am coming no matter what."
+   },
+   {
+    "da": "Lige meget hvad der sker, ringer jeg.",
+    "en": "No matter what happens, I will call."
+   }
+  ],
+  "related": [
+   {
+    "da": "uanset hvad",
+    "en": "regardless of what"
+   },
+   {
+    "da": "alligevel",
+    "en": "anyway"
+   },
+   {
+    "da": "under alle omstændigheder",
+    "en": "in any case"
+   },
+   {
+    "da": "ligegyldigt",
+    "en": "does not matter"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kommer, **lige meget hvad** der sker.",
+   "en": "I will come, no matter what happens."
+  }
+ },
+ "lige nu": {
+  "file": "l.json",
+  "explanation": "\"Lige nu\" means \"right now\". It is built from lige (just) and nu (now). For something later, use \"om lidt\" (in a little while).",
+  "forms": [
+   {
+    "da": "lige nu",
+    "en": "right now"
+   },
+   {
+    "da": "Jeg har travlt lige nu.",
+    "en": "I am busy right now."
+   },
+   {
+    "da": "Hvad laver du lige nu?",
+    "en": "What are you doing right now?"
+   }
+  ],
+  "related": [
+   {
+    "da": "straks",
+    "en": "at once"
+   },
+   {
+    "da": "senere",
+    "en": "later"
+   },
+   {
+    "da": "med det samme",
+    "en": "right away"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har ikke tid **lige nu**.",
+   "en": "I do not have time right now."
+  }
+ },
+ "lige om lidt": {
+  "file": "l.json",
+  "explanation": "\"Lige om lidt\" means \"in just a moment\". It is \"om lidt\" (in a little while) with \"lige\" (just) added, which promises that something happens very soon.",
+  "forms": [
+   {
+    "da": "Jeg kommer lige om lidt.",
+    "en": "I am coming in just a moment."
+   },
+   {
+    "da": "Vi går lige om lidt.",
+    "en": "We are leaving in just a moment."
+   }
+  ],
+  "related": [
+   {
+    "da": "om et øjeblik",
+    "en": "in a moment"
+   },
+   {
+    "da": "nu",
+    "en": "now"
+   },
+   {
+    "da": "for lidt siden",
+    "en": "a little while ago"
+   }
+  ],
+  "sentence": {
+   "da": "Maden er klar **lige om lidt**.",
+   "en": "The food will be ready in just a moment."
+  }
+ },
+ "ligefrem": {
+  "file": "l.json",
+  "explanation": "\"Ligefrem\" means \"downright\", to stress how strong something is: \"Det er ligefrem fantastisk\" (It is downright fantastic). It can also mean \"straightforward\" for a person who says things directly: \"en ligefrem mand\" (a straightforward man).",
+  "forms": [
+   {
+    "da": "ligefrem pinligt",
+    "en": "downright embarrassing"
+   },
+   {
+    "da": "ligefrem sjovt",
+    "en": "downright fun"
+   },
+   {
+    "da": "et ligefremt svar",
+    "en": "a straightforward answer"
+   }
+  ],
+  "related": [
+   {
+    "da": "direkte",
+    "en": "direct"
+   },
+   {
+    "da": "ærlig",
+    "en": "honest"
+   },
+   {
+    "da": "simpelthen",
+    "en": "simply"
+   },
+   {
+    "da": "ligeud",
+    "en": "straight ahead"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **ligefrem** utroligt, at han vandt uden at træne.",
+   "en": "It is downright unbelievable that he won without training."
+  }
+ },
+ "ligeglad": {
+  "file": "l.json",
+  "explanation": "\"Ligeglad\" means \"indifferent\" and describes someone who does not care: \"Jeg er ligeglad\" (I do not mind). Said about a person it can sound rude: \"Han er ligeglad med andre\" (He does not care about others).",
+  "forms": [
+   {
+    "da": "en ligeglad dreng",
+    "en": "an indifferent boy"
+   },
+   {
+    "da": "et ligeglad barn",
+    "en": "an indifferent child"
+   },
+   {
+    "da": "ligeglade børn",
+    "en": "indifferent children"
+   }
+  ],
+  "related": [
+   {
+    "da": "ligegyldig",
+    "en": "unimportant, indifferent"
+   },
+   {
+    "da": "interesseret",
+    "en": "interested"
+   },
+   {
+    "da": "nysgerrig",
+    "en": "curious"
+   },
+   {
+    "da": "at bekymre sig",
+    "en": "to worry"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **ligeglad**, om vi spiser pizza eller pasta.",
+   "en": "I do not mind whether we eat pizza or pasta."
+  }
+ },
+ "ligegyldig": {
+  "file": "l.json",
+  "explanation": "\"Ligegyldig\" means \"indifferent\" or \"unimportant\". For a person, it means not caring: \"Hun virker ligegyldig\" (She seems indifferent). For a thing, it does not matter: \"Det er ligegyldigt\" (It makes no difference).",
+  "forms": [
+   {
+    "da": "en ligegyldig kommentar",
+    "en": "an unimportant comment"
+   },
+   {
+    "da": "et ligegyldigt svar",
+    "en": "an indifferent answer"
+   },
+   {
+    "da": "ligegyldige ting",
+    "en": "unimportant things"
+   }
+  ],
+  "related": [
+   {
+    "da": "ligeglad",
+    "en": "not caring"
+   },
+   {
+    "da": "lige meget",
+    "en": "does not matter"
+   },
+   {
+    "da": "uvigtig",
+    "en": "unimportant"
+   },
+   {
+    "da": "betydningsløs",
+    "en": "meaningless"
+   }
+  ],
+  "sentence": {
+   "da": "Han var **ligegyldig** og hørte ikke efter.",
+   "en": "He was indifferent and did not listen."
+  }
+ },
+ "ligeledes": {
+  "file": "l.json",
+  "explanation": "\"Ligeledes\" means \"likewise\", and says that the same also applies to someone else. As a reply, it answers a wish or greeting: \"Rart at møde dig! Ligeledes!\" (Nice to meet you! Likewise!)",
+  "forms": [
+   {
+    "da": "Ligeledes!",
+    "en": "Likewise!"
+   },
+   {
+    "da": "Det gælder ligeledes for dig",
+    "en": "That applies likewise to you"
+   },
+   {
+    "da": "Han kommer, og det gør hun ligeledes",
+    "en": "He is coming, and so is she"
+   }
+  ],
+  "related": [
+   {
+    "da": "i lige måde",
+    "en": "the same to you"
+   },
+   {
+    "da": "ligeså",
+    "en": "just as"
+   },
+   {
+    "da": "samtidig",
+    "en": "at the same time"
+   },
+   {
+    "da": "desuden",
+    "en": "besides"
+   }
+  ],
+  "sentence": {
+   "da": "Børn skal have tid til at lege, og voksne **ligeledes**.",
+   "en": "Children need time to play, and so do adults."
+  }
+ },
+ "ligesom": {
+  "file": "l.json",
+  "explanation": "\"Ligesom\" means \"just like\". It is built from lige (just) and som (like). \"Lige\" also stands alone and adds the sense of \"exactly\" or \"right\": \"lige nu\" (right now), \"lige ved siden af\" (right next to), \"lige meget\" (it does not matter).",
+  "forms": [
+   {
+    "da": "ligesom mig",
+    "en": "just like me"
+   },
+   {
+    "da": "Han er ligesom sin far.",
+    "en": "He is just like his father."
+   },
+   {
+    "da": "Det er ligesom i går.",
+    "en": "It is just like yesterday."
+   }
+  ],
+  "related": [
+   {
+    "da": "ens",
+    "en": "alike"
+   },
+   {
+    "da": "at ligne",
+    "en": "to resemble"
+   },
+   {
+    "da": "på samme måde",
+    "en": "in the same way"
+   },
+   {
+    "da": "forskellig",
+    "en": "different"
+   }
+  ],
+  "sentence": {
+   "da": "Du er **ligesom** din far.",
+   "en": "You are just like your father."
+  }
+ },
+ "ligestilling": {
+  "file": "l.json",
+  "explanation": "\"Ligestilling\" means \"equality\", the idea that everyone gets the same rights and chances, especially in work and pay.",
+  "forms": [
+   {
+    "da": "ligestilling",
+    "en": "equality"
+   },
+   {
+    "da": "ligestillingen",
+    "en": "the equality"
+   },
+   {
+    "da": "ligestilling mellem kønnene",
+    "en": "equality between the sexes"
+   }
+  ],
+  "related": [
+   {
+    "da": "ligeværd",
+    "en": "equal worth"
+   },
+   {
+    "da": "en lighed",
+    "en": "a similarity"
+   },
+   {
+    "da": "diskrimination",
+    "en": "discrimination"
+   },
+   {
+    "da": "et køn",
+    "en": "a gender"
+   }
+  ],
+  "sentence": {
+   "da": "**Ligestilling** betyder, at mænd og kvinder har de samme muligheder.",
+   "en": "Equality means that men and women have the same opportunities."
+  }
+ },
+ "ligeså": {
+  "file": "l.json",
+  "explanation": "\"Ligeså\" means \"just as\", used to say two things are equal: \"ligeså høj som dig\" (just as tall as you). It can also be written as two words, \"lige så\", with the same meaning.",
+  "forms": [
+   {
+    "da": "ligeså godt",
+    "en": "just as good"
+   },
+   {
+    "da": "ligeså hurtig som mig",
+    "en": "just as fast as me"
+   },
+   {
+    "da": "ligeså ofte",
+    "en": "just as often"
+   }
+  ],
+  "related": [
+   {
+    "da": "ligesom",
+    "en": "like"
+   },
+   {
+    "da": "ligeledes",
+    "en": "likewise"
+   },
+   {
+    "da": "ens",
+    "en": "alike"
+   },
+   {
+    "da": "lignende",
+    "en": "similar"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror er **ligeså** høj som far, men meget tyndere.",
+   "en": "My brother is just as tall as Dad, but much thinner."
+  }
+ },
+ "ligeud": {
+  "file": "l.json",
+  "explanation": "\"Ligeud\" means \"straight ahead\", used in directions for going on without turning. The turns are \"til højre\" (to the right) and \"til venstre\" (to the left).",
+  "forms": [
+   {
+    "da": "Gå ligeud",
+    "en": "Go straight ahead"
+   },
+   {
+    "da": "Kør ligeud",
+    "en": "Drive straight ahead"
+   },
+   {
+    "da": "ligeud forbi kirken",
+    "en": "straight ahead past the church"
+   }
+  ],
+  "related": [
+   {
+    "da": "fremad",
+    "en": "forward"
+   },
+   {
+    "da": "tilbage",
+    "en": "back"
+   },
+   {
+    "da": "lige frem",
+    "en": "straight ahead"
+   },
+   {
+    "da": "at dreje",
+    "en": "to turn"
+   }
+  ],
+  "sentence": {
+   "da": "Ved krydset skal du ikke dreje, men gå **ligeud**.",
+   "en": "At the intersection, do not turn, but go straight ahead."
+  }
+ },
+ "ligeværdig": {
+  "file": "l.json",
+  "explanation": "\"Ligeværdig\" means \"equal\", having equal worth or standing: \"en ligeværdig partner\" (an equal partner). It does not say they are identical, only that neither counts for more.",
+  "forms": [
+   {
+    "da": "en ligeværdig partner",
+    "en": "an equal partner"
+   },
+   {
+    "da": "et ligeværdigt forhold",
+    "en": "an equal relationship"
+   },
+   {
+    "da": "ligeværdige parter",
+    "en": "equal parties"
+   }
+  ],
+  "related": [
+   {
+    "da": "ens",
+    "en": "alike"
+   },
+   {
+    "da": "ligestillet",
+    "en": "on a level"
+   },
+   {
+    "da": "ligeberettiget",
+    "en": "with the same rights"
+   },
+   {
+    "da": "underlegen",
+    "en": "inferior"
+   }
+  ],
+  "sentence": {
+   "da": "I et godt forhold skal man føle sig **ligeværdig**.",
+   "en": "In a good relationship you must feel equal."
+  }
+ },
+ "lignende": {
+  "file": "l.json",
+  "explanation": "\"Lignende\" means \"similar\" and comes before the word it describes: \"et lignende problem\" (a similar problem). To say one thing looks like another, use \"ligner\" (looks like): \"Han ligner sin far\" (He looks like his father).",
+  "forms": [
+   {
+    "da": "en lignende bil",
+    "en": "a similar car"
+   },
+   {
+    "da": "et lignende hus",
+    "en": "a similar house"
+   },
+   {
+    "da": "lignende huse",
+    "en": "similar houses"
+   }
+  ],
+  "related": [
+   {
+    "da": "ens",
+    "en": "alike"
+   },
+   {
+    "da": "forskellig",
+    "en": "different"
+   },
+   {
+    "da": "samme",
+    "en": "same"
+   },
+   {
+    "da": "en lighed",
+    "en": "a similarity"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har haft et **lignende** problem før.",
+   "en": "I have had a similar problem before."
+  }
+ },
+ "lilla": {
+  "file": "l.json",
+  "explanation": "\"Lilla\" means \"purple\", the color you get from mixing red and blue.",
+  "forms": [
+   {
+    "da": "en lilla bluse",
+    "en": "a purple blouse"
+   },
+   {
+    "da": "et lilla tørklæde",
+    "en": "a purple scarf"
+   },
+   {
+    "da": "lilla blomster",
+    "en": "purple flowers"
+   }
+  ],
+  "related": [
+   {
+    "da": "blå",
+    "en": "blue"
+   },
+   {
+    "da": "gul",
+    "en": "yellow"
+   },
+   {
+    "da": "rød",
+    "en": "red"
+   }
+  ],
+  "sentence": {
+   "da": "Druer kan være grønne eller **lilla**.",
+   "en": "Grapes can be green or purple."
+  }
+ },
+ "lille": {
+  "file": "l.json",
+  "explanation": "\"Lille\" means \"small\" or \"little\". It is often a warm word for someone you love: \"min lille ven\" (my little friend).",
+  "forms": [
+   {
+    "da": "en lille bil",
+    "en": "a small car"
+   },
+   {
+    "da": "et lille hus",
+    "en": "a small house"
+   },
+   {
+    "da": "små biler",
+    "en": "small cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "lillebror",
+    "en": "little brother"
+   },
+   {
+    "da": "mindre",
+    "en": "smaller"
+   },
+   {
+    "da": "lidt",
+    "en": "a little"
+   }
+  ],
+  "sentence": {
+   "da": "Musen er meget **lille**.",
+   "en": "The mouse is very small."
+  }
+ },
+ "lim": {
+  "file": "l.json",
+  "explanation": "\"Lim\" means \"glue\", a sticky liquid that makes two things stick together: \"Har du lim til papir?\" (Do you have glue for paper?)",
+  "forms": [
+   {
+    "da": "lim",
+    "en": "glue"
+   },
+   {
+    "da": "limmet",
+    "en": "the glue"
+   },
+   {
+    "da": "en tube lim",
+    "en": "a tube of glue"
+   },
+   {
+    "da": "Jeg skal bruge lim.",
+    "en": "I need glue."
+   }
+  ],
+  "related": [
+   {
+    "da": "at lime",
+    "en": "to glue"
+   },
+   {
+    "da": "en limstift",
+    "en": "a glue stick"
+   },
+   {
+    "da": "at klistre",
+    "en": "to stick"
+   },
+   {
+    "da": "en limpistol",
+    "en": "a glue gun"
+   }
+  ],
+  "sentence": {
+   "da": "**Lim** holder to stykker papir sammen.",
+   "en": "Glue holds two pieces of paper together."
+  }
+ },
+ "linser": {
+  "file": "l.json",
+  "explanation": "\"Linser\" means \"lentils\", small round seeds cooked in soups and stews. One lentil is \"en linse\", which also means a lens, as in \"en kontaktlinse\" (a contact lens).",
+  "forms": [
+   {
+    "da": "linser",
+    "en": "lentils"
+   },
+   {
+    "da": "linserne",
+    "en": "the lentils"
+   },
+   {
+    "da": "røde linser",
+    "en": "red lentils"
+   }
+  ],
+  "related": [
+   {
+    "da": "kikærter",
+    "en": "chickpeas"
+   },
+   {
+    "da": "bønner",
+    "en": "beans"
+   },
+   {
+    "da": "ærter",
+    "en": "peas"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg laver suppe af røde **linser** og gulerødder.",
+   "en": "I make soup from red lentils and carrots."
+  }
+ },
+ "litteratur": {
+  "file": "l.json",
+  "explanation": "\"En litteratur\" means \"literature\", writing that is valued as art, and also all that has been written about a subject: \"litteraturen om søvn\" (the literature on sleep).",
+  "forms": [
+   {
+    "da": "en litteratur",
+    "en": "literature"
+   },
+   {
+    "da": "litteraturen",
+    "en": "the literature"
+   },
+   {
+    "da": "dansk litteratur",
+    "en": "Danish literature"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forfatter",
+    "en": "an author"
+   },
+   {
+    "da": "en bog",
+    "en": "a book"
+   },
+   {
+    "da": "en digter",
+    "en": "a poet"
+   },
+   {
+    "da": "et bibliotek",
+    "en": "a library"
+   }
+  ],
+  "sentence": {
+   "da": "**Litteratur** er for eksempel romaner, digte og skuespil.",
+   "en": "Literature is, for example, novels, poems and plays."
+  }
+ },
+ "livlig": {
+  "file": "l.json",
+  "explanation": "\"Livlig\" means \"lively\", full of movement and noise, for a street, a child or a talk: \"en livlig fest\" (a lively party). Do not mix it up with \"levende\" (alive): \"et levende dyr\" (a living animal).",
+  "forms": [
+   {
+    "da": "en livlig diskussion",
+    "en": "a lively discussion"
+   },
+   {
+    "da": "et livligt barn",
+    "en": "a lively child"
+   },
+   {
+    "da": "livlige børn",
+    "en": "lively children"
+   }
+  ],
+  "related": [
+   {
+    "da": "energisk",
+    "en": "energetic"
+   },
+   {
+    "da": "stille",
+    "en": "quiet"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "travl",
+    "en": "busy"
+   }
+  ],
+  "sentence": {
+   "da": "Gaden er **livlig** om aftenen, fordi mange restauranter har åbent.",
+   "en": "The street is lively in the evening because many restaurants are open."
+  }
+ },
+ "livsglæde": {
+  "file": "l.json",
+  "explanation": "\"En livsglæde\" means \"joy of life\", a strong, happy feeling about being alive that shows in everything a person does.",
+  "forms": [
+   {
+    "da": "en livsglæde",
+    "en": "a joy of life"
+   },
+   {
+    "da": "livsglæden",
+    "en": "the joy of life"
+   },
+   {
+    "da": "fuld af livsglæde",
+    "en": "full of zest for life"
+   }
+  ],
+  "related": [
+   {
+    "da": "livsglad",
+    "en": "cheerful"
+   },
+   {
+    "da": "lykke",
+    "en": "happiness"
+   },
+   {
+    "da": "optimisme",
+    "en": "optimism"
+   },
+   {
+    "da": "begejstring",
+    "en": "enthusiasm"
+   }
+  ],
+  "sentence": {
+   "da": "Selv som gammel mand havde han en stor **livsglæde**.",
+   "en": "Even as an old man he had a great zest for life."
+  }
+ },
+ "livskvalitet": {
+  "file": "l.json",
+  "explanation": "\"Livskvalitet\" means \"quality of life\", how good everyday life feels, including free time and freedom. It is often used about illness and old age: \"livskvalitet som ældre\" (quality of life as an older person).",
+  "forms": [
+   {
+    "da": "livskvalitet",
+    "en": "quality of life"
+   },
+   {
+    "da": "livskvaliteten",
+    "en": "the quality of life"
+   },
+   {
+    "da": "god livskvalitet",
+    "en": "good quality of life"
+   }
+  ],
+  "related": [
+   {
+    "da": "velvære",
+    "en": "well-being"
+   },
+   {
+    "da": "en livsstil",
+    "en": "a lifestyle"
+   },
+   {
+    "da": "sundhed",
+    "en": "health"
+   },
+   {
+    "da": "tryghed",
+    "en": "security"
+   }
+  ],
+  "sentence": {
+   "da": "Fritid giver mig **livskvalitet**, fordi jeg kan være sammen med familien.",
+   "en": "Free time gives me quality of life because I can be with my family."
+  }
+ },
+ "logik": {
+  "file": "l.json",
+  "explanation": "\"En logik\" means \"logic\", clear step-by-step thinking where each step follows from the one before. It also means the reasoning behind something: \"Der er en logik i det\" (There is logic in it).",
+  "forms": [
+   {
+    "da": "en logik",
+    "en": "a logic"
+   },
+   {
+    "da": "logikken",
+    "en": "the logic"
+   },
+   {
+    "da": "klar logik",
+    "en": "clear logic"
+   }
+  ],
+  "related": [
+   {
+    "da": "logisk",
+    "en": "logical"
+   },
+   {
+    "da": "et argument",
+    "en": "an argument"
+   },
+   {
+    "da": "en konklusion",
+    "en": "a conclusion"
+   },
+   {
+    "da": "fornuft",
+    "en": "common sense"
+   }
+  ],
+  "sentence": {
+   "da": "Matematik bygger på **logik**, og hvert trin følger af det forrige.",
+   "en": "Math is built on logic, and each step follows from the previous one."
+  }
+ },
+ "logisk": {
+  "file": "l.json",
+  "explanation": "\"Logisk\" means \"logical\" and is for something that makes sense step by step.",
+  "forms": [
+   {
+    "da": "en logisk forklaring",
+    "en": "a logical explanation"
+   },
+   {
+    "da": "et logisk svar",
+    "en": "a logical answer"
+   },
+   {
+    "da": "logiske svar",
+    "en": "logical answers"
+   }
+  ],
+  "related": [
+   {
+    "da": "logik",
+    "en": "logic"
+   },
+   {
+    "da": "fornuftig",
+    "en": "sensible"
+   },
+   {
+    "da": "rationel",
+    "en": "rational"
+   },
+   {
+    "da": "ulogisk",
+    "en": "illogical"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **logisk**, fordi to plus to er fire.",
+   "en": "It is logical, because two plus two is four."
+  }
+ },
+ "lokal": {
+  "file": "l.json",
+  "explanation": "\"Lokal\" means \"local\", for things from the nearby area. \"Lokale nyheder\" (local news) is news about your own area.",
+  "forms": [
+   {
+    "da": "en lokal butik",
+    "en": "a local store"
+   },
+   {
+    "da": "et lokalt marked",
+    "en": "a local market"
+   },
+   {
+    "da": "lokale produkter",
+    "en": "local products"
+   }
+  ],
+  "related": [
+   {
+    "da": "global",
+    "en": "global"
+   },
+   {
+    "da": "regional",
+    "en": "regional"
+   },
+   {
+    "da": "national",
+    "en": "national"
+   },
+   {
+    "da": "international",
+    "en": "international"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg køber mad hos en **lokal** bager.",
+   "en": "I buy food from a local baker."
+  }
+ },
+ "lokalt": {
+  "file": "l.json",
+  "explanation": "\"Lokalt\" means \"locally\", in your own area rather than far away. Use it with a verb to describe an activity you do close to home: \"Jeg handler lokalt\" (I shop locally).",
+  "forms": [
+   {
+    "da": "lokalt produceret",
+    "en": "locally produced"
+   },
+   {
+    "da": "handle lokalt",
+    "en": "shop locally"
+   },
+   {
+    "da": "lokalt og globalt",
+    "en": "locally and globally"
+   }
+  ],
+  "related": [
+   {
+    "da": "lokal",
+    "en": "local"
+   },
+   {
+    "da": "regionalt",
+    "en": "regionally"
+   },
+   {
+    "da": "nationalt",
+    "en": "nationally"
+   },
+   {
+    "da": "en lokalitet",
+    "en": "a locality"
+   }
+  ],
+  "sentence": {
+   "da": "Vi handler **lokalt**, fordi vi vil støtte byens bønder.",
+   "en": "We shop locally because we want to support the town's farmers."
+  }
+ },
+ "lommepenge": {
+  "file": "l.json",
+  "explanation": "\"Lommepenge\" means \"pocket money\", money children get to spend. It is built from en lomme (a pocket) and penge (money), and \"lomme\" also builds \"en lommelygte\" (a flashlight).",
+  "forms": [
+   {
+    "da": "at få lommepenge",
+    "en": "to get pocket money"
+   },
+   {
+    "da": "at spare lommepenge",
+    "en": "to save pocket money"
+   },
+   {
+    "da": "mine lommepenge",
+    "en": "my pocket money"
+   }
+  ],
+  "related": [
+   {
+    "da": "småpenge",
+    "en": "small change"
+   },
+   {
+    "da": "ugepenge",
+    "en": "weekly allowance"
+   },
+   {
+    "da": "kontanter",
+    "en": "cash"
+   }
+  ],
+  "sentence": {
+   "da": "Min datter får hundrede kroner i **lommepenge**.",
+   "en": "My daughter gets a hundred kroner in pocket money."
+  }
+ },
+ "lotto": {
+  "file": "l.json",
+  "explanation": "\"Lotto\" means \"lotto\", a game where you pick numbers and hope they match the draw.",
+  "forms": [
+   {
+    "da": "at spille lotto",
+    "en": "to play lotto"
+   },
+   {
+    "da": "at vinde i lotto",
+    "en": "to win at lotto"
+   },
+   {
+    "da": "en lottokupon",
+    "en": "a lotto ticket"
+   }
+  ],
+  "related": [
+   {
+    "da": "et lod",
+    "en": "a lottery ticket"
+   },
+   {
+    "da": "en gevinst",
+    "en": "a prize"
+   },
+   {
+    "da": "et lotteri",
+    "en": "a lottery"
+   },
+   {
+    "da": "at tabe",
+    "en": "to lose"
+   }
+  ],
+  "sentence": {
+   "da": "Han håber at vinde i **lotto** i weekenden.",
+   "en": "He hopes to win at lotto this weekend."
+  }
+ },
+ "lovende": {
+  "file": "l.json",
+  "explanation": "\"Lovende\" means \"promising\", for a person or a result that looks likely to succeed. It comes from \"at love\" (to promise), because the signs seem to promise good things.",
+  "forms": [
+   {
+    "da": "en lovende start",
+    "en": "a promising start"
+   },
+   {
+    "da": "et lovende resultat",
+    "en": "a promising result"
+   },
+   {
+    "da": "lovende talenter",
+    "en": "promising talents"
+   }
+  ],
+  "related": [
+   {
+    "da": "håbefuld",
+    "en": "hopeful"
+   },
+   {
+    "da": "opmuntrende",
+    "en": "encouraging"
+   },
+   {
+    "da": "talentfuld",
+    "en": "talented"
+   },
+   {
+    "da": "et løfte",
+    "en": "a promise"
+   }
+  ],
+  "sentence": {
+   "da": "De første resultater af forsøget ser **lovende** ud.",
+   "en": "The first results of the experiment look promising."
+  }
+ },
+ "lovgivning": {
+  "file": "l.json",
+  "explanation": "\"Lovgivning\" means \"legislation\", the laws of a country, and also the work of making them. This word has no article, so leave out \"en\": \"Dansk lovgivning gælder for alle\" (Danish legislation applies to everyone).",
+  "forms": [
+   {
+    "da": "lovgivning",
+    "en": "legislation"
+   },
+   {
+    "da": "lovgivningen",
+    "en": "the legislation"
+   },
+   {
+    "da": "ny lovgivning",
+    "en": "new legislation"
+   },
+   {
+    "da": "dansk lovgivning",
+    "en": "Danish legislation"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lov",
+    "en": "a law"
+   },
+   {
+    "da": "en forordning",
+    "en": "a regulation"
+   },
+   {
+    "da": "et lovforslag",
+    "en": "a bill"
+   },
+   {
+    "da": "en bekendtgørelse",
+    "en": "an official order"
+   }
+  ],
+  "sentence": {
+   "da": "Ny **lovgivning** skal sikre, at alle børn kan komme i skole.",
+   "en": "New legislation must ensure that all children can go to school."
+  }
+ },
+ "lovlig": {
+  "file": "l.json",
+  "explanation": "\"Lovlig\" means \"legal\", allowed by the law. Its opposite is \"ulovlig\" (illegal).",
+  "forms": [
+   {
+    "da": "en lovlig handling",
+    "en": "a legal act"
+   },
+   {
+    "da": "et lovligt køb",
+    "en": "a legal purchase"
+   },
+   {
+    "da": "lovlige regler",
+    "en": "legal rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lov",
+    "en": "a law"
+   },
+   {
+    "da": "tilladt",
+    "en": "allowed"
+   },
+   {
+    "da": "forbudt",
+    "en": "forbidden"
+   },
+   {
+    "da": "lovgivning",
+    "en": "legislation"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **lovlig** handling, fordi loven tillader det.",
+   "en": "It is a legal act, because the law allows it."
+  }
+ },
+ "lovpligtig": {
+  "file": "l.json",
+  "explanation": "\"Lovpligtig\" means \"mandatory by law\", for something the law demands you have or do, not just something sensible. If you ignore the rule, you can be fined.",
+  "forms": [
+   {
+    "da": "et lovpligtigt eftersyn",
+    "en": "a legally required inspection"
+   },
+   {
+    "da": "lovpligtige regnskaber",
+    "en": "legally required accounts"
+   },
+   {
+    "da": "en lovpligtig rapport",
+    "en": "a legally required report"
+   }
+  ],
+  "related": [
+   {
+    "da": "obligatorisk",
+    "en": "compulsory"
+   },
+   {
+    "da": "frivillig",
+    "en": "voluntary"
+   },
+   {
+    "da": "påkrævet",
+    "en": "required"
+   },
+   {
+    "da": "tvungen",
+    "en": "forced"
+   }
+  ],
+  "sentence": {
+   "da": "Alle bilister skal have en forsikring, fordi den er **lovpligtig**.",
+   "en": "All drivers must have insurance because it is required by law."
+  }
+ },
+ "loyal": {
+  "file": "l.json",
+  "explanation": "\"Loyal\" means \"loyal\", staying on someone's side even when it is hard: \"en loyal ven\" (a loyal friend), \"loyale kunder\" (loyal customers).",
+  "forms": [
+   {
+    "da": "en loyal ven",
+    "en": "a loyal friend"
+   },
+   {
+    "da": "et loyalt hold",
+    "en": "a loyal team"
+   },
+   {
+    "da": "loyale kunder",
+    "en": "loyal customers"
+   }
+  ],
+  "related": [
+   {
+    "da": "loyalitet",
+    "en": "loyalty"
+   },
+   {
+    "da": "trofast",
+    "en": "faithful"
+   },
+   {
+    "da": "pålidelig",
+    "en": "reliable"
+   },
+   {
+    "da": "illoyal",
+    "en": "disloyal"
+   }
+  ],
+  "sentence": {
+   "da": "Han var **loyal** over for firmaet, selv da andre sagde op.",
+   "en": "He was loyal to the company, even when others quit."
+  }
+ },
+ "loyalitet": {
+  "file": "l.json",
+  "explanation": "\"Loyalitet\" means \"loyalty\", the feeling of standing by a person, a group or a company.",
+  "forms": [
+   {
+    "da": "loyalitet",
+    "en": "loyalty"
+   },
+   {
+    "da": "loyaliteten",
+    "en": "the loyalty"
+   },
+   {
+    "da": "loyaliteter",
+    "en": "loyalties"
+   },
+   {
+    "da": "loyaliteterne",
+    "en": "the loyalties"
+   }
+  ],
+  "related": [
+   {
+    "da": "troskab",
+    "en": "fidelity"
+   },
+   {
+    "da": "tillid",
+    "en": "trust"
+   },
+   {
+    "da": "svig",
+    "en": "betrayal"
+   },
+   {
+    "da": "solidaritet",
+    "en": "solidarity"
+   }
+  ],
+  "sentence": {
+   "da": "**Loyalitet** er, at man støtter sine venner, også når det er svært.",
+   "en": "Loyalty is when you support your friends, even when it is hard."
+  }
+ },
+ "luft": {
+  "file": "l.json",
+  "explanation": "\"Luft\" means \"air\". \"I luften\" means \"in the air\". It is also the first part of \"en lufthavn\" (an airport), literally \"an air harbor\".",
+  "forms": [
+   {
+    "da": "luft",
+    "en": "air"
+   },
+   {
+    "da": "luften",
+    "en": "the air"
+   },
+   {
+    "da": "frisk luft",
+    "en": "fresh air"
+   }
+  ],
+  "related": [
+   {
+    "da": "luftig",
+    "en": "airy"
+   },
+   {
+    "da": "at lufte",
+    "en": "to air out"
+   },
+   {
+    "da": "en luftballon",
+    "en": "a balloon"
+   }
+  ],
+  "sentence": {
+   "da": "Vi åbner vinduet for frisk **luft**.",
+   "en": "We open the window for fresh air."
+  }
+ },
+ "lukket": {
+  "file": "l.json",
+  "explanation": "\"Lukket\" means \"closed\", for doors, shops, windows and roads.",
+  "forms": [
+   {
+    "da": "en lukket dør",
+    "en": "a closed door"
+   },
+   {
+    "da": "et lukket vindue",
+    "en": "a closed window"
+   },
+   {
+    "da": "lukkede døre",
+    "en": "closed doors"
+   }
+  ],
+  "related": [
+   {
+    "da": "åben",
+    "en": "open"
+   },
+   {
+    "da": "at lukke",
+    "en": "to close"
+   },
+   {
+    "da": "at åbne",
+    "en": "to open"
+   }
+  ],
+  "sentence": {
+   "da": "Døren er **lukket**, men vinduet er åbent.",
+   "en": "The door is closed, but the window is open."
+  }
+ },
+ "luksus": {
+  "file": "l.json",
+  "explanation": "\"Luksus\" means \"luxury\", something very comfortable that you do not really need: \"Et langt bad er luksus\" (A long bath is a luxury).",
+  "forms": [
+   {
+    "da": "en luksusbil",
+    "en": "a luxury car"
+   },
+   {
+    "da": "et luksushotel",
+    "en": "a luxury hotel"
+   },
+   {
+    "da": "Det er ren luksus",
+    "en": "That is pure luxury"
+   }
+  ],
+  "related": [
+   {
+    "da": "luksuriøs",
+    "en": "luxurious"
+   },
+   {
+    "da": "en nødvendighed",
+    "en": "a necessity"
+   },
+   {
+    "da": "en komfort",
+    "en": "comfort"
+   },
+   {
+    "da": "overdådig",
+    "en": "lavish"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **luksus** at sove længe i weekenden.",
+   "en": "It is a luxury to sleep in on the weekend."
+  }
+ },
+ "lummer": {
+  "file": "l.json",
+  "explanation": "\"Lummer\" means \"muggy\", for warm, still and damp air, typical before a thunderstorm. It is a heavy feeling in the air, not just heat; for plain heat, use \"varm\" (warm).",
+  "forms": [
+   {
+    "da": "en lummer sommerdag",
+    "en": "a muggy summer day"
+   },
+   {
+    "da": "et lummert vejr",
+    "en": "muggy weather"
+   },
+   {
+    "da": "lumre nætter",
+    "en": "muggy nights"
+   }
+  ],
+  "related": [
+   {
+    "da": "kvælende",
+    "en": "stifling"
+   },
+   {
+    "da": "fugtig",
+    "en": "humid"
+   },
+   {
+    "da": "klam",
+    "en": "clammy"
+   },
+   {
+    "da": "kølig",
+    "en": "cool"
+   }
+  ],
+  "sentence": {
+   "da": "Luften er **lummer**, og der kommer nok tordenvejr snart.",
+   "en": "The air is muggy, and a thunderstorm is probably coming soon."
+  }
+ },
+ "lun": {
+  "file": "l.json",
+  "explanation": "\"Lun\" means \"warm\" or \"cozy\", pleasantly warm but not hot, for food, rooms and weather: \"lun suppe\" (warm soup). For humor, it means gentle and dry: \"en lun bemærkning\" (a gentle remark).",
+  "forms": [
+   {
+    "da": "en lun stue",
+    "en": "a cozy room"
+   },
+   {
+    "da": "et lunt tæppe",
+    "en": "a warm blanket"
+   },
+   {
+    "da": "lune aftener",
+    "en": "mild evenings"
+   }
+  ],
+  "related": [
+   {
+    "da": "lummer",
+    "en": "muggy"
+   },
+   {
+    "da": "mild",
+    "en": "mild"
+   },
+   {
+    "da": "kølig",
+    "en": "cool"
+   },
+   {
+    "da": "hed",
+    "en": "hot"
+   }
+  ],
+  "sentence": {
+   "da": "Stuen er **lun**, fordi brændeovnen har brændt hele dagen.",
+   "en": "The room is cozy because the wood stove has burned all day."
+  }
+ },
+ "ly": {
+  "file": "l.json",
+  "explanation": "\"Et ly\" means \"a shelter\", a place that protects you from rain, wind or danger. The phrase \"i ly af mørket\" (under cover of darkness) means being hidden by something.",
+  "forms": [
+   {
+    "da": "et ly",
+    "en": "a shelter"
+   },
+   {
+    "da": "lyet",
+    "en": "the shelter"
+   },
+   {
+    "da": "ly for vinden",
+    "en": "shelter from the wind"
+   }
+  ],
+  "related": [
+   {
+    "da": "et læ",
+    "en": "a spot out of the wind"
+   },
+   {
+    "da": "et tilflugtssted",
+    "en": "a refuge"
+   },
+   {
+    "da": "et skur",
+    "en": "a shed"
+   },
+   {
+    "da": "et husly",
+    "en": "a roof over your head"
+   }
+  ],
+  "sentence": {
+   "da": "Vi løb ind under et træ for at finde **ly** for regnen.",
+   "en": "We ran under a tree to find shelter from the rain."
+  }
+ },
+ "lydig": {
+  "file": "l.json",
+  "explanation": "\"Lydig\" means \"obedient\", doing what you are told, often said of children and dogs.",
+  "forms": [
+   {
+    "da": "en lydig elev",
+    "en": "an obedient pupil"
+   },
+   {
+    "da": "et lydigt barn",
+    "en": "an obedient child"
+   },
+   {
+    "da": "lydige soldater",
+    "en": "obedient soldiers"
+   }
+  ],
+  "related": [
+   {
+    "da": "ulydig",
+    "en": "disobedient"
+   },
+   {
+    "da": "at adlyde",
+    "en": "to obey"
+   },
+   {
+    "da": "føjelig",
+    "en": "compliant"
+   },
+   {
+    "da": "stædig",
+    "en": "stubborn"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden er **lydig** og sætter sig, når jeg siger det.",
+   "en": "The dog is obedient and sits down when I say so."
+  }
+ },
+ "lydløs": {
+  "file": "l.json",
+  "explanation": "\"Lydløs\" means \"silent\", with no noise at all. It is also used for a phone on silent mode: \"Min telefon er på lydløs\" (My phone is on silent). The ending \"-løs\" means \"without\", as in \"hjælpeløs\" (helpless). For a person who says nothing, use \"tavs\" (silent): \"en tavs mand\" (a silent man).",
+  "forms": [
+   {
+    "da": "en lydløs bevægelse",
+    "en": "a silent movement"
+   },
+   {
+    "da": "et lydløst rum",
+    "en": "a silent room"
+   },
+   {
+    "da": "lydløse skridt",
+    "en": "silent steps"
+   }
+  ],
+  "related": [
+   {
+    "da": "stille",
+    "en": "quiet"
+   },
+   {
+    "da": "støjende",
+    "en": "noisy"
+   },
+   {
+    "da": "en lyd",
+    "en": "a sound"
+   },
+   {
+    "da": "høj",
+    "en": "loud"
+   }
+  ],
+  "sentence": {
+   "da": "Elbilen er næsten **lydløs**, når den kører langsomt.",
+   "en": "The electric car is almost silent when it drives slowly."
+  }
+ },
+ "lykke": {
+  "file": "l.json",
+  "explanation": "\"Lykke\" means \"happiness\" and also \"luck\": \"Penge giver ikke lykke\" (Money does not bring happiness).",
+  "forms": [
+   {
+    "da": "lykke",
+    "en": "happiness / luck"
+   },
+   {
+    "da": "lykken",
+    "en": "the happiness / luck"
+   },
+   {
+    "da": "ægte lykke",
+    "en": "real happiness"
+   },
+   {
+    "da": "Lykke til!",
+    "en": "Good luck!"
+   }
+  ],
+  "related": [
+   {
+    "da": "lykkelig",
+    "en": "happy"
+   },
+   {
+    "da": "glæde",
+    "en": "joy"
+   },
+   {
+    "da": "tilfredshed",
+    "en": "contentment"
+   },
+   {
+    "da": "sorg",
+    "en": "grief"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg ønsker dig al **lykke** i dit nye hjem.",
+   "en": "I wish you all happiness in your new home."
+  }
+ },
+ "lykkelig": {
+  "file": "l.json",
+  "explanation": "\"Lykkelig\" means \"happy\", in a deeper and longer-lasting way than \"glad\" (happy in the moment): \"Jeg er lykkelig med mit liv\" (I am happy with my life). For a good mood today, \"glad\" is more common: \"Jeg er glad i dag\" (I am happy today).",
+  "forms": [
+   {
+    "da": "en lykkelig dag",
+    "en": "a happy day"
+   },
+   {
+    "da": "et lykkeligt barn",
+    "en": "a happy child"
+   },
+   {
+    "da": "lykkelige børn",
+    "en": "happy children"
+   }
+  ],
+  "related": [
+   {
+    "da": "ulykkelig",
+    "en": "unhappy"
+   },
+   {
+    "da": "en lykke",
+    "en": "happiness / luck"
+   },
+   {
+    "da": "heldig",
+    "en": "lucky"
+   },
+   {
+    "da": "tilfreds",
+    "en": "content"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **lykkelig** med sit nye job.",
+   "en": "She is happy with her new job."
+  }
+ },
+ "lyn": {
+  "file": "l.json",
+  "explanation": "\"Et lyn\" means \"lightning\", or \"a flash of lightning\". \"Hurtig som et lyn\" means \"fast as lightning\".",
+  "forms": [
+   {
+    "da": "et lyn",
+    "en": "a flash of lightning"
+   },
+   {
+    "da": "lynet",
+    "en": "the lightning"
+   },
+   {
+    "da": "lyn",
+    "en": "flashes of lightning"
+   },
+   {
+    "da": "lynene",
+    "en": "the flashes of lightning"
+   }
+  ],
+  "related": [
+   {
+    "da": "torden",
+    "en": "thunder"
+   },
+   {
+    "da": "et tordenvejr",
+    "en": "a thunderstorm"
+   },
+   {
+    "da": "en lynlås",
+    "en": "a zipper"
+   },
+   {
+    "da": "en storm",
+    "en": "a storm"
+   }
+  ],
+  "sentence": {
+   "da": "Man ser **lyn** først og hører torden bagefter.",
+   "en": "You see lightning first and hear thunder afterward."
+  }
+ },
+ "lyng": {
+  "file": "l.json",
+  "explanation": "\"En lyng\" means \"heather\", a low plant with tiny purple flowers that covers open, sandy land.",
+  "forms": [
+   {
+    "da": "en lyng",
+    "en": "heather"
+   },
+   {
+    "da": "lyngen",
+    "en": "the heather"
+   },
+   {
+    "da": "Lyngen blomstrer i august",
+    "en": "The heather blooms in August"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hede",
+    "en": "a heath"
+   },
+   {
+    "da": "en klit",
+    "en": "a dune"
+   },
+   {
+    "da": "en mose",
+    "en": "a bog"
+   }
+  ],
+  "sentence": {
+   "da": "På heden vokser der **lyng**, og den blomstrer lilla.",
+   "en": "On the heath there grows heather, and it blooms purple."
+  }
+ },
+ "lys": {
+  "file": "l.json",
+  "explanation": "\"Lys\" means \"light\" (not dark) or \"bright\", for light colors and for rooms or days full of daylight. There is also a different word \"et lys\", which means \"a candle\" or \"a light\": \"Tænd et lys\" (Light a candle).",
+  "forms": [
+   {
+    "da": "en lys dag",
+    "en": "a bright day"
+   },
+   {
+    "da": "et lyst rum",
+    "en": "a bright room"
+   },
+   {
+    "da": "lyse dage",
+    "en": "bright days"
+   }
+  ],
+  "related": [
+   {
+    "da": "mørk",
+    "en": "dark"
+   },
+   {
+    "da": "lysegrøn",
+    "en": "light green"
+   },
+   {
+    "da": "lyseblå",
+    "en": "light blue"
+   },
+   {
+    "da": "lysere",
+    "en": "lighter"
+   }
+  ],
+  "sentence": {
+   "da": "Stuen er meget **lys** i dag.",
+   "en": "The living room is very bright today."
+  }
+ },
+ "lyseblå": {
+  "file": "l.json",
+  "explanation": "\"Lyseblå\" means \"light blue\". Putting \"lyse-\" (light) in front of a color makes it lighter, and \"mørke-\" (dark) makes it darker.",
+  "forms": [
+   {
+    "da": "en lyseblå bil",
+    "en": "a light blue car"
+   },
+   {
+    "da": "et lyseblåt hus",
+    "en": "a light blue house"
+   },
+   {
+    "da": "lyseblå biler",
+    "en": "light blue cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "mørkeblå",
+    "en": "dark blue"
+   },
+   {
+    "da": "lysegrøn",
+    "en": "light green"
+   },
+   {
+    "da": "lyserød",
+    "en": "pink"
+   }
+  ],
+  "sentence": {
+   "da": "Himlen er **lyseblå** i dag.",
+   "en": "The sky is light blue today."
+  }
+ },
+ "lysegrøn": {
+  "file": "l.json",
+  "explanation": "\"Lysegrøn\" means \"light green\". Putting \"lyse-\" (light) in front of a color makes it lighter, and \"mørke-\" (dark) makes it darker.",
+  "forms": [
+   {
+    "da": "en lysegrøn bil",
+    "en": "a light green car"
+   },
+   {
+    "da": "et lysegrønt hus",
+    "en": "a light green house"
+   },
+   {
+    "da": "lysegrønne biler",
+    "en": "light green cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "mørkegrøn",
+    "en": "dark green"
+   },
+   {
+    "da": "lyseblå",
+    "en": "light blue"
+   },
+   {
+    "da": "lyserød",
+    "en": "pink"
+   }
+  ],
+  "sentence": {
+   "da": "Salaten er **lysegrøn**.",
+   "en": "The lettuce is light green."
+  }
+ },
+ "lysende": {
+  "file": "l.json",
+  "explanation": "\"Lysende\" means \"bright\" or \"luminous\", for something that shines by itself. With colors it means very strong: \"lysende gul\" (bright yellow).",
+  "forms": [
+   {
+    "da": "en lysende pære",
+    "en": "a bright bulb"
+   },
+   {
+    "da": "et lysende skilt",
+    "en": "a glowing sign"
+   },
+   {
+    "da": "lysende farver",
+    "en": "bright colors"
+   }
+  ],
+  "related": [
+   {
+    "da": "skinnende",
+    "en": "shiny"
+   },
+   {
+    "da": "blændende",
+    "en": "dazzling"
+   },
+   {
+    "da": "mørk",
+    "en": "dark"
+   },
+   {
+    "da": "en lysstråle",
+    "en": "a ray of light"
+   }
+  ],
+  "sentence": {
+   "da": "Fyrtårnet er **lysende** og viser skibene vej i mørket.",
+   "en": "The lighthouse is bright and shows the ships the way in the dark."
+  }
+ },
+ "lyserød": {
+  "file": "l.json",
+  "explanation": "\"Lyserød\" means \"pink\". It is lys (light) and rød (red), so it is literally light red, but Danish uses it only for pink.",
+  "forms": [
+   {
+    "da": "en lyserød kjole",
+    "en": "a pink dress"
+   },
+   {
+    "da": "et lyserødt hus",
+    "en": "a pink house"
+   },
+   {
+    "da": "lyserøde kjoler",
+    "en": "pink dresses"
+   }
+  ],
+  "related": [
+   {
+    "da": "mørkerød",
+    "en": "dark red"
+   },
+   {
+    "da": "lyseblå",
+    "en": "light blue"
+   },
+   {
+    "da": "lilla",
+    "en": "purple"
+   },
+   {
+    "da": "hvid",
+    "en": "white"
+   }
+  ],
+  "sentence": {
+   "da": "Grisen er **lyserød**.",
+   "en": "The pig is pink."
+  }
+ },
+ "lyshåret": {
+  "file": "l.json",
+  "explanation": "\"Lyshåret\" means \"fair-haired\", for a person whose hair is pale or golden. It is built from lys (light) and hår (hair).",
+  "forms": [
+   {
+    "da": "en lyshåret mand",
+    "en": "a fair-haired man"
+   },
+   {
+    "da": "et lyshåret barn",
+    "en": "a fair-haired child"
+   },
+   {
+    "da": "lyshårede børn",
+    "en": "fair-haired children"
+   }
+  ],
+  "related": [
+   {
+    "da": "mørkhåret",
+    "en": "dark-haired"
+   },
+   {
+    "da": "rødhåret",
+    "en": "red-haired"
+   },
+   {
+    "da": "blond",
+    "en": "blond"
+   },
+   {
+    "da": "en blondine",
+    "en": "a blonde"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes bror er **lyshåret**, men hun selv har mørkt hår.",
+   "en": "Her brother is fair-haired, but she herself has dark hair."
+  }
+ },
+ "læder": {
+  "file": "l.json",
+  "explanation": "\"Læder\" means \"leather\". For fake leather, say \"kunstlæder\" (faux leather).",
+  "forms": [
+   {
+    "da": "ægte læder",
+    "en": "real leather"
+   },
+   {
+    "da": "en lædertaske",
+    "en": "a leather bag"
+   },
+   {
+    "da": "en læderjakke",
+    "en": "a leather jacket"
+   }
+  ],
+  "related": [
+   {
+    "da": "et skind",
+    "en": "a hide"
+   },
+   {
+    "da": "bomuld",
+    "en": "cotton"
+   },
+   {
+    "da": "uld",
+    "en": "wool"
+   },
+   {
+    "da": "silke",
+    "en": "silk"
+   }
+  ],
+  "sentence": {
+   "da": "**Læder** laves af huden fra en ko.",
+   "en": "Leather is made from the skin of a cow."
+  }
+ },
+ "lækker": {
+  "file": "l.json",
+  "explanation": "\"Lækker\" means \"delicious\" or \"tasty\", and also \"great-looking\": \"en lækker bil\" (a great-looking car).",
+  "forms": [
+   {
+    "da": "en lækker kage",
+    "en": "a delicious cake"
+   },
+   {
+    "da": "et lækkert æble",
+    "en": "a delicious apple"
+   },
+   {
+    "da": "lækre kager",
+    "en": "delicious cakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "god",
+    "en": "good"
+   },
+   {
+    "da": "dejlig",
+    "en": "lovely"
+   },
+   {
+    "da": "ulækker",
+    "en": "yucky"
+   }
+  ],
+  "sentence": {
+   "da": "Kagen er meget **lækker**.",
+   "en": "The cake is really delicious."
+  }
+ },
+ "længe": {
+  "file": "l.json",
+  "explanation": "\"Længe\" means \"for a long time\", for time: \"Hvor længe bliver du?\" (How long are you staying?) \"For længe siden\" means \"a long time ago\". Do not mix it up with \"lang\" (long), which describes a thing: \"en lang vej\" (a long road).",
+  "forms": [
+   {
+    "da": "længe",
+    "en": "for a long time"
+   },
+   {
+    "da": "ikke længe",
+    "en": "not long"
+   },
+   {
+    "da": "hvor længe?",
+    "en": "how long?"
+   }
+  ],
+  "related": [
+   {
+    "da": "længere",
+    "en": "longer"
+   },
+   {
+    "da": "kort tid",
+    "en": "a short time"
+   },
+   {
+    "da": "i lang tid",
+    "en": "for a long time"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har ventet **længe** på bussen.",
+   "en": "I have waited a long time for the bus."
+  }
+ },
+ "længst": {
+  "file": "l.json",
+  "explanation": "\"Længst\" means \"longest\" for distance and time: \"Hvem har boet her længst?\" (Who has lived here the longest?) It also fits \"furthest\": \"Hvem bor længst væk?\" (Who lives the furthest away?)",
+  "forms": [
+   {
+    "da": "længst væk",
+    "en": "furthest away"
+   },
+   {
+    "da": "den længste vej",
+    "en": "the longest way"
+   },
+   {
+    "da": "Han sover længst.",
+    "en": "He sleeps the longest."
+   }
+  ],
+  "related": [
+   {
+    "da": "lang",
+    "en": "long"
+   },
+   {
+    "da": "længere",
+    "en": "longer"
+   },
+   {
+    "da": "kort",
+    "en": "short"
+   },
+   {
+    "da": "kortest",
+    "en": "shortest"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror bor **længst** fra os.",
+   "en": "My brother lives the furthest from us."
+  }
+ },
+ "læseforståelse": {
+  "file": "l.json",
+  "explanation": "\"En læseforståelse\" means \"reading comprehension\", how well you grasp what you have read. A child can read every word aloud and still miss what it means. It is built from at læse (to read) and en forståelse (an understanding).",
+  "forms": [
+   {
+    "da": "en læseforståelse",
+    "en": "a reading comprehension"
+   },
+   {
+    "da": "læseforståelsen",
+    "en": "the reading comprehension"
+   },
+   {
+    "da": "god læseforståelse",
+    "en": "good reading comprehension"
+   }
+  ],
+  "related": [
+   {
+    "da": "et ordforråd",
+    "en": "a vocabulary"
+   },
+   {
+    "da": "en stavning",
+    "en": "a spelling"
+   },
+   {
+    "da": "en tekst",
+    "en": "a text"
+   },
+   {
+    "da": "en læsefærdighed",
+    "en": "a reading skill"
+   }
+  ],
+  "sentence": {
+   "da": "Ved en test i **læseforståelse** svarer eleverne på spørgsmål om en tekst.",
+   "en": "In a test of reading comprehension, the students answer questions about a text."
+  }
+ },
+ "løbende": {
+  "file": "l.json",
+  "explanation": "\"Løbende\" means \"continuously\", as something goes on over time, not just once: \"Vi opdaterer siden løbende\" (We update the page on an ongoing basis). It comes from \"at løbe\" (to run): \"løbende vand\" (running water) and \"løbende udgifter\" (ongoing costs).",
+  "forms": [
+   {
+    "da": "en løbende opdatering",
+    "en": "an ongoing update"
+   },
+   {
+    "da": "løbende udgifter",
+    "en": "ongoing costs"
+   },
+   {
+    "da": "at betale løbende",
+    "en": "to pay as you go"
+   }
+  ],
+  "related": [
+   {
+    "da": "konstant",
+    "en": "constantly"
+   },
+   {
+    "da": "fortløbende",
+    "en": "continuous"
+   },
+   {
+    "da": "jævnligt",
+    "en": "regularly"
+   },
+   {
+    "da": "én gang",
+    "en": "once"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tjekker priserne **løbende**, fordi de ændrer sig hver uge.",
+   "en": "We check the prices continuously because they change every week."
+  }
+ },
+ "lørdag": {
+  "file": "l.json",
+  "explanation": "\"En lørdag\" means \"a Saturday\". \"På lørdag\" means \"on Saturday\" (the coming one), and \"om lørdagen\" means \"on Saturdays\" (every Saturday). Day names start with a lowercase letter in Danish.",
+  "forms": [
+   {
+    "da": "en lørdag",
+    "en": "a Saturday"
+   },
+   {
+    "da": "lørdagen",
+    "en": "the Saturday"
+   },
+   {
+    "da": "lørdage",
+    "en": "Saturdays"
+   },
+   {
+    "da": "lørdagene",
+    "en": "the Saturdays"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fredag",
+    "en": "a Friday"
+   },
+   {
+    "da": "en søndag",
+    "en": "a Sunday"
+   },
+   {
+    "da": "en weekend",
+    "en": "a weekend"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har fri på **lørdag**.",
+   "en": "We are off on Saturday."
+  }
+ },
+ "løs": {
+  "file": "l.json",
+  "explanation": "\"Løs\" means \"loose\", not held in place: \"Hunden er løs\" (The dog is loose).",
+  "forms": [
+   {
+    "da": "en løs tand",
+    "en": "a loose tooth"
+   },
+   {
+    "da": "et løst bræt",
+    "en": "a loose board"
+   },
+   {
+    "da": "løse bukser",
+    "en": "loose pants"
+   }
+  ],
+  "related": [
+   {
+    "da": "fast",
+    "en": "firm, fixed"
+   },
+   {
+    "da": "stram",
+    "en": "tight, snug"
+   },
+   {
+    "da": "at løsne",
+    "en": "to loosen"
+   },
+   {
+    "da": "at binde",
+    "en": "to tie"
+   }
+  ],
+  "sentence": {
+   "da": "Min tand er **løs**, og den falder snart ud.",
+   "en": "My tooth is loose, and it will fall out soon."
+  }
+ },
+ "løvfald": {
+  "file": "l.json",
+  "explanation": "\"Et løvfald\" means \"leaf fall\", the time before winter when trees lose their leaves. \"Løv\" is the word for the leaves on trees: \"Træerne mister løvet\" (The trees lose their leaves). For one leaf, say \"et blad\" (a leaf).",
+  "forms": [
+   {
+    "da": "et løvfald",
+    "en": "leaf fall"
+   },
+   {
+    "da": "løvfaldet",
+    "en": "the leaf fall"
+   },
+   {
+    "da": "efter løvfaldet",
+    "en": "after the leaf fall"
+   }
+  ],
+  "related": [
+   {
+    "da": "et efterår",
+    "en": "an autumn"
+   },
+   {
+    "da": "et løvtræ",
+    "en": "a deciduous tree"
+   },
+   {
+    "da": "et nåletræ",
+    "en": "a conifer"
+   },
+   {
+    "da": "stedsegrøn",
+    "en": "evergreen"
+   }
+  ],
+  "sentence": {
+   "da": "Efter **løvfald** ligger bladene tykt på jorden.",
+   "en": "After leaf fall the leaves lie thick on the ground."
+  }
+ },
+ "at male": {
+  "file": "m.json",
+  "explanation": "\"At male\" means \"to paint\": \"Han maler væggen hvid\" (He paints the wall white). It is also used for making pictures: \"Hun maler et billede\" (She paints a picture). For drawing with a pencil, use \"at tegne\" (to draw).",
+  "forms": [
+   {
+    "da": "at male",
+    "en": "to paint"
+   },
+   {
+    "da": "jeg maler",
+    "en": "I paint"
+   },
+   {
+    "da": "jeg malede",
+    "en": "I painted"
+   },
+   {
+    "da": "jeg har malet",
+    "en": "I have painted"
+   }
+  ],
+  "related": [
+   {
+    "da": "et maleri",
+    "en": "a painting"
+   },
+   {
+    "da": "en maling",
+    "en": "paint"
+   },
+   {
+    "da": "en pensel",
+    "en": "a brush"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **male** huset gult.",
+   "en": "We want to paint the house yellow."
+  }
+ },
+ "at mangle": {
+  "file": "m.json",
+  "explanation": "\"At mangle\" means \"to lack\" or \"to be missing\": \"Jeg mangler en pen\" (I am missing a pen). With \"der\" (there) at the start: \"Der mangler en stol\" (A chair is missing).",
+  "forms": [
+   {
+    "da": "at mangle",
+    "en": "to lack / be missing"
+   },
+   {
+    "da": "jeg mangler",
+    "en": "I lack / am missing"
+   },
+   {
+    "da": "jeg manglede",
+    "en": "I lacked / was missing"
+   },
+   {
+    "da": "jeg har manglet",
+    "en": "I have lacked / been missing"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mangel",
+    "en": "a lack"
+   },
+   {
+    "da": "manglende",
+    "en": "missing"
+   },
+   {
+    "da": "at savne",
+    "en": "to miss"
+   },
+   {
+    "da": "nok",
+    "en": "enough"
+   }
+  ],
+  "sentence": {
+   "da": "Børn må ikke **mangle** mad og tøj.",
+   "en": "Children must not lack food and clothes."
+  }
+ },
+ "at manipulere": {
+  "file": "m.json",
+  "explanation": "\"At manipulere\" means \"to manipulate\", to influence someone or something in a hidden or unfair way. For numbers or records, it means to change them on purpose: \"at manipulere tal\" (to manipulate numbers).",
+  "forms": [
+   {
+    "da": "at manipulere",
+    "en": "to manipulate"
+   },
+   {
+    "da": "jeg manipulerer",
+    "en": "I manipulate"
+   },
+   {
+    "da": "jeg manipulerede",
+    "en": "I manipulated"
+   },
+   {
+    "da": "jeg har manipuleret",
+    "en": "I have manipulated"
+   }
+  ],
+  "related": [
+   {
+    "da": "manipulerende",
+    "en": "manipulative"
+   },
+   {
+    "da": "en manipulation",
+    "en": "a manipulation"
+   },
+   {
+    "da": "at snyde",
+    "en": "to cheat"
+   },
+   {
+    "da": "at forfalske",
+    "en": "to falsify"
+   }
+  ],
+  "sentence": {
+   "da": "Reklamer kan **manipulere** børn til at ønske sig legetøj.",
+   "en": "Ads can manipulate children into wanting toys."
+  }
+ },
+ "at markere": {
+  "file": "m.json",
+  "explanation": "\"At markere\" means \"to mark\", to make something stand out so you can find it again, such as a line on paper or text on a screen. For an event, it means to celebrate it: \"at markere en fødselsdag\" (to mark a birthday).",
+  "forms": [
+   {
+    "da": "at markere",
+    "en": "to mark"
+   },
+   {
+    "da": "jeg markerer",
+    "en": "I mark"
+   },
+   {
+    "da": "jeg markerede",
+    "en": "I marked"
+   },
+   {
+    "da": "jeg har markeret",
+    "en": "I have marked"
+   }
+  ],
+  "related": [
+   {
+    "da": "et mærke",
+    "en": "a mark / brand"
+   },
+   {
+    "da": "at understrege",
+    "en": "to underline"
+   },
+   {
+    "da": "en markør",
+    "en": "a marker / cursor"
+   },
+   {
+    "da": "at udpege",
+    "en": "to point out"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **markere** det vigtigste med en gul tusch.",
+   "en": "You must mark the most important part with a yellow marker."
+  }
+ }
+}

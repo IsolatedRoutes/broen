@@ -1,0 +1,4306 @@
+{
+ "at fejle": {
+  "file": "f.json",
+  "explanation": "\"At fejle\" means \"to fail\": \"Planen fejlede\" (The plan failed). It is also the verb in the question about a person's health: \"Hvad fejler du?\" (What is wrong with you?) For failing an exam, Danes say \"at dumpe\" (to flunk).",
+  "forms": [
+   {
+    "da": "at fejle",
+    "en": "to fail / be wrong with"
+   },
+   {
+    "da": "jeg fejler",
+    "en": "I fail"
+   },
+   {
+    "da": "jeg fejlede",
+    "en": "I failed"
+   },
+   {
+    "da": "jeg har fejlet",
+    "en": "I have failed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fejl",
+    "en": "a mistake"
+   },
+   {
+    "da": "at lykkes",
+    "en": "to succeed"
+   },
+   {
+    "da": "at mislykkes",
+    "en": "to fail"
+   },
+   {
+    "da": "at tage fejl",
+    "en": "to be mistaken"
+   }
+  ],
+  "sentence": {
+   "da": "Denne plan kan ikke **fejle**.",
+   "en": "This plan cannot fail."
+  }
+ },
+ "at fejre": {
+  "file": "f.json",
+  "explanation": "\"At fejre\" means \"to celebrate\" a day or an event.",
+  "forms": [
+   {
+    "da": "at fejre",
+    "en": "to celebrate"
+   },
+   {
+    "da": "jeg fejrer",
+    "en": "I celebrate"
+   },
+   {
+    "da": "jeg fejrede",
+    "en": "I celebrated"
+   },
+   {
+    "da": "jeg har fejret",
+    "en": "I have celebrated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fest",
+    "en": "a party"
+   },
+   {
+    "da": "en fejring",
+    "en": "a celebration"
+   },
+   {
+    "da": "tillykke",
+    "en": "congratulations"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **fejre** min fødselsdag i weekenden.",
+   "en": "We want to celebrate my birthday on the weekend."
+  }
+ },
+ "at feste": {
+  "file": "f.json",
+  "explanation": "\"At feste\" means \"to party\", meaning to go out and celebrate. A party itself is \"en fest\" (a party).",
+  "forms": [
+   {
+    "da": "at feste",
+    "en": "to party"
+   },
+   {
+    "da": "jeg fester",
+    "en": "I party"
+   },
+   {
+    "da": "jeg festede",
+    "en": "I partied"
+   },
+   {
+    "da": "jeg har festet",
+    "en": "I have partied"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fejre",
+    "en": "to celebrate"
+   },
+   {
+    "da": "festlig",
+    "en": "festive"
+   },
+   {
+    "da": "en festival",
+    "en": "a festival"
+   },
+   {
+    "da": "en festaften",
+    "en": "a party night"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **feste** hele natten i weekenden.",
+   "en": "We want to party all night this weekend."
+  }
+ },
+ "at fikse": {
+  "file": "f.json",
+  "explanation": "\"At fikse\" means \"to fix\", to repair something or sort out a problem. It is a relaxed everyday word: \"Jeg skal nok fikse det\" (I will sort it out), where a stiffer word like \"at reparere\" (to repair) would sound too serious.",
+  "forms": [
+   {
+    "da": "at fikse",
+    "en": "to fix"
+   },
+   {
+    "da": "jeg fikser",
+    "en": "I fix"
+   },
+   {
+    "da": "jeg fiksede",
+    "en": "I fixed"
+   },
+   {
+    "da": "jeg har fikset",
+    "en": "I have fixed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ordne",
+    "en": "to sort out"
+   },
+   {
+    "da": "at klare",
+    "en": "to manage"
+   },
+   {
+    "da": "at udbedre",
+    "en": "to remedy"
+   },
+   {
+    "da": "at lappe",
+    "en": "to patch"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror kan **fikse** den gamle cykel på en time.",
+   "en": "My brother can fix the old bike in an hour."
+  }
+ },
+ "at filme": {
+  "file": "f.json",
+  "explanation": "\"At filme\" means \"to film\", to record moving pictures, for example with a phone. What you watch afterwards is \"en film\" (a movie).",
+  "forms": [
+   {
+    "da": "at filme",
+    "en": "to film"
+   },
+   {
+    "da": "jeg filmer",
+    "en": "I film"
+   },
+   {
+    "da": "jeg filmede",
+    "en": "I filmed"
+   },
+   {
+    "da": "jeg har filmet",
+    "en": "I have filmed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kamera",
+    "en": "a camera"
+   },
+   {
+    "da": "en optagelse",
+    "en": "a recording"
+   },
+   {
+    "da": "at optage",
+    "en": "to record"
+   },
+   {
+    "da": "at fotografere",
+    "en": "to photograph"
+   }
+  ],
+  "sentence": {
+   "da": "Må jeg **filme** dig med min telefon?",
+   "en": "May I film you with my phone?"
+  }
+ },
+ "at finansiere": {
+  "file": "f.json",
+  "explanation": "\"At finansiere\" means \"to finance\", to provide the money for something big: \"Banken finansierer huset\" (The bank finances the house).",
+  "forms": [
+   {
+    "da": "at finansiere",
+    "en": "to finance"
+   },
+   {
+    "da": "jeg finansierer",
+    "en": "I finance"
+   },
+   {
+    "da": "jeg finansierede",
+    "en": "I financed"
+   },
+   {
+    "da": "jeg har finansieret",
+    "en": "I have financed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en finansiering",
+    "en": "financing"
+   },
+   {
+    "da": "at bekoste",
+    "en": "to cover the cost of"
+   },
+   {
+    "da": "at investere",
+    "en": "to invest"
+   },
+   {
+    "da": "at betale",
+    "en": "to pay"
+   }
+  ],
+  "sentence": {
+   "da": "Banken vil **finansiere** huset med et lån på tyve år.",
+   "en": "The bank will finance the house with a twenty-year loan."
+  }
+ },
+ "at finde": {
+  "file": "f.json",
+  "explanation": "\"At finde\" means \"to find\", whether you look for something or come across it. It is also used for opinions: \"Jeg finder det svært\" (I find it difficult).",
+  "forms": [
+   {
+    "da": "at finde",
+    "en": "to find"
+   },
+   {
+    "da": "jeg finder",
+    "en": "I find"
+   },
+   {
+    "da": "jeg fandt",
+    "en": "I found"
+   },
+   {
+    "da": "jeg har fundet",
+    "en": "I have found"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lede efter",
+    "en": "to look for"
+   },
+   {
+    "da": "at miste",
+    "en": "to lose"
+   },
+   {
+    "da": "at opdage",
+    "en": "to discover"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **finde** mine nøgler.",
+   "en": "I can't find my keys."
+  }
+ },
+ "at finde på": {
+  "file": "f.json",
+  "explanation": "\"At finde på\" means \"to come up with\", for ideas and made-up things: \"Vi fandt på en leg\" (We came up with a game). \"At finde\" (to find) is for things that already exist: \"Jeg finder nøglen\" (I find the key).",
+  "forms": [
+   {
+    "da": "at finde på",
+    "en": "to come up with"
+   },
+   {
+    "da": "jeg finder på",
+    "en": "I come up with"
+   },
+   {
+    "da": "jeg fandt på",
+    "en": "I came up with"
+   },
+   {
+    "da": "jeg har fundet på",
+    "en": "I have come up with"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opfinde",
+    "en": "to invent"
+   },
+   {
+    "da": "at digte op",
+    "en": "to make up"
+   },
+   {
+    "da": "en idé",
+    "en": "an idea"
+   },
+   {
+    "da": "en fantasi",
+    "en": "an imagination"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **finde på** noget sjovt i weekenden.",
+   "en": "We have to come up with something fun this weekend."
+  }
+ },
+ "at finde ud af": {
+  "file": "f.json",
+  "explanation": "\"At finde ud af\" means \"to find out\" and \"to figure out\": \"Jeg finder ud af, hvornår toget kører\" (I find out when the train leaves). Do not mix it up with \"at finde på\" (to come up with).",
+  "forms": [
+   {
+    "da": "at finde ud af",
+    "en": "to find out / figure out"
+   },
+   {
+    "da": "jeg finder ud af",
+    "en": "I find out / figure out"
+   },
+   {
+    "da": "jeg fandt ud af",
+    "en": "I found out / figured out"
+   },
+   {
+    "da": "jeg har fundet ud af",
+    "en": "I have found out / figured out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opdage",
+    "en": "to discover"
+   },
+   {
+    "da": "at forstå",
+    "en": "to understand"
+   },
+   {
+    "da": "at regne ud",
+    "en": "to work out"
+   },
+   {
+    "da": "at undersøge",
+    "en": "to investigate"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **finde ud af**, hvad der er galt.",
+   "en": "I want to find out what is wrong."
+  }
+ },
+ "at finde vej": {
+  "file": "f.json",
+  "explanation": "\"At finde vej\" means \"to find one's way\", to get to the place you are going. It is the opposite of \"at fare vild\" (to get lost).",
+  "forms": [
+   {
+    "da": "at finde vej",
+    "en": "to find one's way"
+   },
+   {
+    "da": "jeg finder vej",
+    "en": "I find my way"
+   },
+   {
+    "da": "jeg fandt vej",
+    "en": "I found my way"
+   },
+   {
+    "da": "jeg har fundet vej",
+    "en": "I have found my way"
+   }
+  ],
+  "related": [
+   {
+    "da": "at spørge om vej",
+    "en": "to ask for directions"
+   },
+   {
+    "da": "at navigere",
+    "en": "to navigate"
+   },
+   {
+    "da": "at orientere sig",
+    "en": "to find your bearings"
+   }
+  ],
+  "sentence": {
+   "da": "Med et kort kan jeg let **finde vej**.",
+   "en": "With a map, I can easily find my way."
+  }
+ },
+ "at fjerne": {
+  "file": "f.json",
+  "explanation": "\"At fjerne\" means \"to remove\", to take something away from where it is. It is built from fjern (far away). The same word is in \"en fjernbetjening\" (a remote control).",
+  "forms": [
+   {
+    "da": "at fjerne",
+    "en": "to remove"
+   },
+   {
+    "da": "jeg fjerner",
+    "en": "I remove"
+   },
+   {
+    "da": "jeg fjernede",
+    "en": "I removed"
+   },
+   {
+    "da": "jeg har fjernet",
+    "en": "I have removed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage væk",
+    "en": "to take away"
+   },
+   {
+    "da": "at slette",
+    "en": "to delete"
+   },
+   {
+    "da": "at rydde",
+    "en": "to clear"
+   },
+   {
+    "da": "at tilføje",
+    "en": "to add"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **fjerne** skoene fra bordet?",
+   "en": "Can you take the shoes off the table?"
+  }
+ },
+ "at flirte": {
+  "file": "f.json",
+  "explanation": "\"At flirte\" means \"to flirt\", to show playful romantic interest through looks and jokes. To name the person you flirt with, add \"med\" (with): \"Hun flirter med bartenderen\" (She flirts with the bartender).",
+  "forms": [
+   {
+    "da": "at flirte",
+    "en": "to flirt"
+   },
+   {
+    "da": "jeg flirter",
+    "en": "I flirt"
+   },
+   {
+    "da": "jeg flirtede",
+    "en": "I flirted"
+   },
+   {
+    "da": "jeg har flirtet",
+    "en": "I have flirted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at charmere",
+    "en": "to charm"
+   },
+   {
+    "da": "at lokke",
+    "en": "to lure"
+   },
+   {
+    "da": "at kokettere",
+    "en": "to be coy"
+   },
+   {
+    "da": "at imponere",
+    "en": "to impress"
+   }
+  ],
+  "sentence": {
+   "da": "Han plejer at **flirte** med alle på kontoret.",
+   "en": "He usually flirts with everyone at the office."
+  }
+ },
+ "at flyde": {
+  "file": "f.json",
+  "explanation": "\"At flyde\" means both \"to float\" and \"to flow\". For liquids it means \"to flow\": \"Floden flyder ud i havet\" (The river flows into the sea). For things that stay on top of water it means \"to float\".",
+  "forms": [
+   {
+    "da": "at flyde",
+    "en": "to float / flow"
+   },
+   {
+    "da": "jeg flyder",
+    "en": "I float / flow"
+   },
+   {
+    "da": "jeg flød",
+    "en": "I floated / flowed"
+   },
+   {
+    "da": "jeg har flydt",
+    "en": "I have floated / flowed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at synke",
+    "en": "to sink"
+   },
+   {
+    "da": "at strømme",
+    "en": "to stream"
+   },
+   {
+    "da": "at svømme",
+    "en": "to swim"
+   },
+   {
+    "da": "at drive",
+    "en": "to drift"
+   }
+  ],
+  "sentence": {
+   "da": "Træ kan **flyde** på vand, men sten kan ikke.",
+   "en": "Wood can float on water, but stone cannot."
+  }
+ },
+ "at flygte": {
+  "file": "f.json",
+  "explanation": "\"At flygte\" means \"to flee\", to get away from danger.",
+  "forms": [
+   {
+    "da": "at flygte",
+    "en": "to flee"
+   },
+   {
+    "da": "jeg flygter",
+    "en": "I flee"
+   },
+   {
+    "da": "jeg flygtede",
+    "en": "I fled"
+   },
+   {
+    "da": "jeg er flygtet",
+    "en": "I have fled"
+   }
+  ],
+  "related": [
+   {
+    "da": "en flugt",
+    "en": "an escape"
+   },
+   {
+    "da": "en flygtning",
+    "en": "a refugee"
+   },
+   {
+    "da": "at stikke af",
+    "en": "to run away"
+   },
+   {
+    "da": "at undslippe",
+    "en": "to escape"
+   }
+  ],
+  "sentence": {
+   "da": "De måtte **flygte** fra deres hjem.",
+   "en": "They had to flee from their home."
+  }
+ },
+ "at flytte": {
+  "file": "f.json",
+  "explanation": "\"At flytte\" means \"to move\", either to a new home or to shift something from one place to another: \"Kan du flytte bilen?\" (Can you move the car?)",
+  "forms": [
+   {
+    "da": "at flytte",
+    "en": "to move"
+   },
+   {
+    "da": "jeg flytter",
+    "en": "I move"
+   },
+   {
+    "da": "jeg flyttede",
+    "en": "I moved"
+   },
+   {
+    "da": "jeg er flyttet",
+    "en": "I have moved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en flytning",
+    "en": "a move"
+   },
+   {
+    "da": "at flytte ind",
+    "en": "to move in"
+   },
+   {
+    "da": "at flytte ud",
+    "en": "to move out"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **flytte** til et nyt hus.",
+   "en": "We are going to move to a new house."
+  }
+ },
+ "at flytte ind": {
+  "file": "f.json",
+  "explanation": "\"At flytte ind\" means \"to move in\", to start living in a new home. Without \"ind\" (in), \"at flytte\" (to move) means to move something: \"Jeg flytter bordet\" (I move the table).",
+  "forms": [
+   {
+    "da": "at flytte ind",
+    "en": "to move in"
+   },
+   {
+    "da": "jeg flytter ind",
+    "en": "I move in"
+   },
+   {
+    "da": "jeg flyttede ind",
+    "en": "I moved in"
+   },
+   {
+    "da": "jeg er flyttet ind",
+    "en": "I have moved in"
+   }
+  ],
+  "related": [
+   {
+    "da": "at flytte ud",
+    "en": "to move out"
+   },
+   {
+    "da": "en flyttekasse",
+    "en": "a moving box"
+   },
+   {
+    "da": "en flyttemand",
+    "en": "a mover"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **flytte ind** i vores nye hus.",
+   "en": "We are going to move into our new house."
+  }
+ },
+ "at flytte sammen": {
+  "file": "f.json",
+  "explanation": "\"At flytte sammen\" means \"to move in together\", when two people start sharing a home.",
+  "forms": [
+   {
+    "da": "at flytte sammen",
+    "en": "to move in together"
+   },
+   {
+    "da": "vi flytter sammen",
+    "en": "we move in together"
+   },
+   {
+    "da": "vi flyttede sammen",
+    "en": "we moved in together"
+   },
+   {
+    "da": "vi er flyttet sammen",
+    "en": "we have moved in together"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bo sammen",
+    "en": "to live together"
+   },
+   {
+    "da": "at flytte ind",
+    "en": "to move in"
+   },
+   {
+    "da": "at flytte ud",
+    "en": "to move out"
+   },
+   {
+    "da": "en kæreste",
+    "en": "a boyfriend, a girlfriend"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil gerne **flytte sammen** næste år.",
+   "en": "We would like to move in together next year."
+  }
+ },
+ "at flytte sig": {
+  "file": "f.json",
+  "explanation": "\"At flytte sig\" means \"to move (oneself)\", like stepping aside: \"Kan du flytte dig?\" (Can you move over?) Without \"sig\" (oneself), \"at flytte\" means to move house or to move a thing: \"Vi flytter til Aarhus\" (We are moving to Aarhus).",
+  "forms": [
+   {
+    "da": "at flytte sig",
+    "en": "to move (oneself)"
+   },
+   {
+    "da": "jeg flytter mig",
+    "en": "I move"
+   },
+   {
+    "da": "jeg flyttede mig",
+    "en": "I moved"
+   },
+   {
+    "da": "jeg har flyttet mig",
+    "en": "I have moved"
+   }
+  ],
+  "related": [
+   {
+    "da": "at rykke",
+    "en": "to shift"
+   },
+   {
+    "da": "at træde til side",
+    "en": "to step aside"
+   },
+   {
+    "da": "at bevæge sig",
+    "en": "to move"
+   },
+   {
+    "da": "at gå væk",
+    "en": "to go away"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen står i vejen, og han vil ikke **flytte sig**.",
+   "en": "The car is in the way, and he won't move."
+  }
+ },
+ "at flytte ud": {
+  "file": "f.json",
+  "explanation": "\"At flytte ud\" means \"to move out\", to leave a home where you lived. The opposite is \"at flytte ind\" (to move in).",
+  "forms": [
+   {
+    "da": "at flytte ud",
+    "en": "to move out"
+   },
+   {
+    "da": "jeg flytter ud",
+    "en": "I move out"
+   },
+   {
+    "da": "jeg flyttede ud",
+    "en": "I moved out"
+   },
+   {
+    "da": "jeg er flyttet ud",
+    "en": "I have moved out"
+   }
+  ],
+  "related": [
+   {
+    "da": "en flyttekasse",
+    "en": "a moving box"
+   },
+   {
+    "da": "en flyttemand",
+    "en": "a mover"
+   },
+   {
+    "da": "at flytte sammen",
+    "en": "to move in together"
+   }
+  ],
+  "sentence": {
+   "da": "Min datter skal **flytte ud** og bo alene.",
+   "en": "My daughter is going to move out and live alone."
+  }
+ },
+ "at flyve": {
+  "file": "f.json",
+  "explanation": "\"At flyve\" means \"to fly\", for birds and for people traveling by plane. It is also used for time: \"Tiden flyver\" (Time flies).",
+  "forms": [
+   {
+    "da": "at flyve",
+    "en": "to fly"
+   },
+   {
+    "da": "jeg flyver",
+    "en": "I fly"
+   },
+   {
+    "da": "jeg fløj",
+    "en": "I flew"
+   },
+   {
+    "da": "jeg har fløjet",
+    "en": "I have flown"
+   }
+  ],
+  "related": [
+   {
+    "da": "en flyvemaskine",
+    "en": "an airplane"
+   },
+   {
+    "da": "en flyvetur",
+    "en": "a flight"
+   },
+   {
+    "da": "en lufthavn",
+    "en": "an airport"
+   }
+  ],
+  "sentence": {
+   "da": "Fuglen kan **flyve** højt.",
+   "en": "The bird can fly high."
+  }
+ },
+ "at flå": {
+  "file": "f.json",
+  "explanation": "\"At flå\" means \"to rip\" or \"to skin\". It is used for tearing something off or open with force, and for taking the skin off an animal: \"Han flåede pakken op\" (He ripped the package open). It is also used for charging far too much: \"Hotellet flår turisterne\" (The hotel rips off the tourists).",
+  "forms": [
+   {
+    "da": "at flå",
+    "en": "to rip / skin"
+   },
+   {
+    "da": "jeg flår",
+    "en": "I rip / skin"
+   },
+   {
+    "da": "jeg flåede",
+    "en": "I ripped / skinned"
+   },
+   {
+    "da": "jeg har flået",
+    "en": "I have ripped / skinned"
+   }
+  ],
+  "related": [
+   {
+    "da": "at plukke",
+    "en": "to pluck"
+   },
+   {
+    "da": "at skrælle",
+    "en": "to peel"
+   },
+   {
+    "da": "at pille",
+    "en": "to pick off"
+   },
+   {
+    "da": "at snyde",
+    "en": "to cheat"
+   }
+  ],
+  "sentence": {
+   "da": "Slagteren skal **flå** dyret og bruge kødet.",
+   "en": "The butcher must skin the animal and use the meat."
+  }
+ },
+ "at flække": {
+  "file": "f.json",
+  "explanation": "\"At flække\" means \"to split\", to cut or break something into two parts along its length, such as a log.",
+  "forms": [
+   {
+    "da": "at flække",
+    "en": "to split"
+   },
+   {
+    "da": "jeg flækker",
+    "en": "I split"
+   },
+   {
+    "da": "jeg flækkede",
+    "en": "I split"
+   },
+   {
+    "da": "jeg har flækket",
+    "en": "I have split"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kløve",
+    "en": "to cleave"
+   },
+   {
+    "da": "at hugge",
+    "en": "to chop"
+   },
+   {
+    "da": "at save",
+    "en": "to saw"
+   },
+   {
+    "da": "en kile",
+    "en": "a wedge"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **flække** et træstykke med en økse.",
+   "en": "You can split a piece of wood with an ax."
+  }
+ },
+ "at fnise": {
+  "file": "f.json",
+  "explanation": "\"At fnise\" means \"to giggle\", a short, quiet, silly sound of amusement. It often comes when you are nervous or shy: \"Børnene fnisede bag bogen\" (The children giggled behind the book).",
+  "forms": [
+   {
+    "da": "at fnise",
+    "en": "to giggle"
+   },
+   {
+    "da": "jeg fniser",
+    "en": "I giggle"
+   },
+   {
+    "da": "jeg fnisede",
+    "en": "I giggled"
+   },
+   {
+    "da": "jeg har fniset",
+    "en": "I have giggled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at le",
+    "en": "to laugh"
+   },
+   {
+    "da": "at klukke",
+    "en": "to chuckle"
+   },
+   {
+    "da": "at fnyse",
+    "en": "to snort"
+   },
+   {
+    "da": "at hvine",
+    "en": "to squeal"
+   }
+  ],
+  "sentence": {
+   "da": "Eleverne kan ikke lade være med at **fnise** i timen.",
+   "en": "The students cannot help giggling in class."
+  }
+ },
+ "at fodre": {
+  "file": "f.json",
+  "explanation": "\"At fodre\" means \"to feed\", giving food to an animal or a baby.",
+  "forms": [
+   {
+    "da": "at fodre",
+    "en": "to feed"
+   },
+   {
+    "da": "jeg fodrer",
+    "en": "I feed"
+   },
+   {
+    "da": "jeg fodrede",
+    "en": "I fed"
+   },
+   {
+    "da": "jeg har fodret",
+    "en": "I have fed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et foder",
+    "en": "animal feed"
+   },
+   {
+    "da": "at die",
+    "en": "to nurse a baby"
+   },
+   {
+    "da": "at spise",
+    "en": "to eat"
+   },
+   {
+    "da": "at sulte",
+    "en": "to starve"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **fodre** hundene klokken seks.",
+   "en": "I have to feed the dogs at six o'clock."
+  }
+ },
+ "at fokusere": {
+  "file": "f.json",
+  "explanation": "\"At fokusere\" means \"to focus\", to put your attention on one thing. To name the topic or task you focus on, add \"på\" (on): \"Jeg fokuserer på arbejdet\" (I focus on the work).",
+  "forms": [
+   {
+    "da": "at fokusere",
+    "en": "to focus"
+   },
+   {
+    "da": "jeg fokuserer",
+    "en": "I focus"
+   },
+   {
+    "da": "jeg fokuserede",
+    "en": "I focused"
+   },
+   {
+    "da": "jeg har fokuseret",
+    "en": "I have focused"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fokus",
+    "en": "a focus"
+   },
+   {
+    "da": "at koncentrere sig",
+    "en": "to concentrate"
+   },
+   {
+    "da": "at distrahere",
+    "en": "to distract"
+   },
+   {
+    "da": "at lægge vægt på",
+    "en": "to put weight on"
+   }
+  ],
+  "sentence": {
+   "da": "Det er svært at **fokusere**, når der er så meget larm.",
+   "en": "It is hard to focus when there is so much noise."
+  }
+ },
+ "at folde": {
+  "file": "f.json",
+  "explanation": "\"At folde\" means \"to fold\", for clothes, paper and towels. It is also used for hands: \"at folde hænderne\" (to fold your hands).",
+  "forms": [
+   {
+    "da": "at folde",
+    "en": "to fold"
+   },
+   {
+    "da": "jeg folder",
+    "en": "I fold"
+   },
+   {
+    "da": "jeg foldede",
+    "en": "I folded"
+   },
+   {
+    "da": "jeg har foldet",
+    "en": "I have folded"
+   }
+  ],
+  "related": [
+   {
+    "da": "at folde ud",
+    "en": "to unfold"
+   },
+   {
+    "da": "at folde sammen",
+    "en": "to fold up"
+   },
+   {
+    "da": "at rulle",
+    "en": "to roll"
+   },
+   {
+    "da": "at krølle",
+    "en": "to wrinkle"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **folde** tøjet og lægge det i skabet.",
+   "en": "I have to fold the clothes and put them in the closet."
+  }
+ },
+ "at forandre": {
+  "file": "f.json",
+  "explanation": "\"At forandre\" means \"to change\", making something different. To replace one thing with another, use \"at skifte\" (to switch): \"Jeg skifter job\" (I am changing jobs).",
+  "forms": [
+   {
+    "da": "at forandre",
+    "en": "to change"
+   },
+   {
+    "da": "jeg forandrer",
+    "en": "I change"
+   },
+   {
+    "da": "jeg forandrede",
+    "en": "I changed"
+   },
+   {
+    "da": "jeg har forandret",
+    "en": "I have changed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ændre",
+    "en": "to change"
+   },
+   {
+    "da": "en forandring",
+    "en": "a change"
+   },
+   {
+    "da": "at bytte",
+    "en": "to swap"
+   },
+   {
+    "da": "uændret",
+    "en": "unchanged"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **forandre** mit liv i år.",
+   "en": "I want to change my life this year."
+  }
+ },
+ "at forandre sig": {
+  "file": "f.json",
+  "explanation": "\"At forandre sig\" means \"to change\", when someone or something becomes different: \"Byen har forandret sig\" (The city has changed). Without \"sig\" (oneself), it means \"to change something\": \"Han forandrer planen\" (He changes the plan).",
+  "forms": [
+   {
+    "da": "at forandre sig",
+    "en": "to change"
+   },
+   {
+    "da": "jeg forandrer mig",
+    "en": "I change"
+   },
+   {
+    "da": "jeg forandrede mig",
+    "en": "I changed"
+   },
+   {
+    "da": "jeg har forandret mig",
+    "en": "I have changed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ændre",
+    "en": "to change"
+   },
+   {
+    "da": "at udvikle sig",
+    "en": "to develop"
+   },
+   {
+    "da": "en forandring",
+    "en": "a change"
+   },
+   {
+    "da": "at skifte",
+    "en": "to switch"
+   }
+  ],
+  "sentence": {
+   "da": "Mange ting vil **forandre sig** i fremtiden.",
+   "en": "Many things will change in the future."
+  }
+ },
+ "at forankre": {
+  "file": "f.json",
+  "explanation": "\"At forankre\" means \"to anchor\", to fix something firmly in place. It is used for a ship, and for an idea or decision that is rooted in something: \"Beslutningen er forankret i ledelsen\" (The decision is anchored in the management).",
+  "forms": [
+   {
+    "da": "at forankre",
+    "en": "to anchor"
+   },
+   {
+    "da": "jeg forankrer",
+    "en": "I anchor"
+   },
+   {
+    "da": "jeg forankrede",
+    "en": "I anchored"
+   },
+   {
+    "da": "jeg har forankret",
+    "en": "I have anchored"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fortøje",
+    "en": "to moor"
+   },
+   {
+    "da": "at fæstne",
+    "en": "to fasten"
+   },
+   {
+    "da": "at rodfæste",
+    "en": "to establish firmly"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **forankre** den nye plan i hele organisationen.",
+   "en": "We want to anchor the new plan across the whole organization."
+  }
+ },
+ "at forbedre": {
+  "file": "f.json",
+  "explanation": "\"At forbedre\" means \"to improve\", to make something better. When something gets better without anyone working on it, say \"at blive bedre\" (to get better): \"Vejret bliver bedre\" (The weather is getting better).",
+  "forms": [
+   {
+    "da": "at forbedre",
+    "en": "to improve"
+   },
+   {
+    "da": "jeg forbedrer",
+    "en": "I improve"
+   },
+   {
+    "da": "jeg forbedrede",
+    "en": "I improved"
+   },
+   {
+    "da": "jeg har forbedret",
+    "en": "I have improved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forbedring",
+    "en": "an improvement"
+   },
+   {
+    "da": "at forværre",
+    "en": "to worsen"
+   },
+   {
+    "da": "at perfektionere",
+    "en": "to perfect"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **forbedre** mit danske ordforråd.",
+   "en": "I would like to improve my Danish vocabulary."
+  }
+ },
+ "at forbeholde": {
+  "file": "f.json",
+  "explanation": "\"At forbeholde\" means \"to reserve\", to keep something for certain people, not for everyone: \"Pladsen er forbeholdt gæster\" (The seat is reserved for guests). With \"sig\" (oneself) it appears in the phrase \"at forbeholde sig retten til\" (to reserve the right to).",
+  "forms": [
+   {
+    "da": "at forbeholde",
+    "en": "to reserve"
+   },
+   {
+    "da": "jeg forbeholder",
+    "en": "I reserve"
+   },
+   {
+    "da": "jeg forbeholdt",
+    "en": "I reserved"
+   },
+   {
+    "da": "jeg har forbeholdt",
+    "en": "I have reserved"
+   }
+  ],
+  "related": [
+   {
+    "da": "et forbehold",
+    "en": "a caveat"
+   },
+   {
+    "da": "at reservere",
+    "en": "to book"
+   },
+   {
+    "da": "eksklusiv",
+    "en": "exclusive"
+   },
+   {
+    "da": "at tilhøre",
+    "en": "to belong to"
+   }
+  ],
+  "sentence": {
+   "da": "Kommunen vil **forbeholde** den nye parkeringsplads beboerne.",
+   "en": "The municipality will reserve the new parking lot for the residents."
+  }
+ },
+ "at forberede": {
+  "file": "f.json",
+  "explanation": "\"At forberede\" means \"to prepare\". To get yourself ready, add \"mig\" (myself): \"Jeg forbereder mig til prøven\" (I am getting ready for the test).",
+  "forms": [
+   {
+    "da": "at forberede",
+    "en": "to prepare"
+   },
+   {
+    "da": "jeg forbereder",
+    "en": "I prepare"
+   },
+   {
+    "da": "jeg forberedte",
+    "en": "I prepared"
+   },
+   {
+    "da": "jeg har forberedt",
+    "en": "I have prepared"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forberedelse",
+    "en": "a preparation"
+   },
+   {
+    "da": "at gøre klar",
+    "en": "to get ready"
+   },
+   {
+    "da": "klar",
+    "en": "ready"
+   },
+   {
+    "da": "at øve",
+    "en": "to practice"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **forberede** et møde i morgen.",
+   "en": "I have to prepare a meeting tomorrow."
+  }
+ },
+ "at forberede sig": {
+  "file": "f.json",
+  "explanation": "\"At forberede sig\" means \"to prepare\", getting yourself ready. Without \"sig\" (oneself), it means \"to prepare something\": \"Hun forbereder et møde\" (She prepares a meeting).",
+  "forms": [
+   {
+    "da": "at forberede sig",
+    "en": "to prepare oneself"
+   },
+   {
+    "da": "jeg forbereder mig",
+    "en": "I prepare myself"
+   },
+   {
+    "da": "jeg forberedte mig",
+    "en": "I prepared myself"
+   },
+   {
+    "da": "jeg har forberedt mig",
+    "en": "I have prepared myself"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forberedelse",
+    "en": "a preparation"
+   },
+   {
+    "da": "at øve sig",
+    "en": "to practice"
+   },
+   {
+    "da": "at gøre klar",
+    "en": "to get ready"
+   },
+   {
+    "da": "at planlægge",
+    "en": "to plan"
+   }
+  ],
+  "sentence": {
+   "da": "Eleverne skal **forberede sig** til prøven.",
+   "en": "The students have to prepare for the test."
+  }
+ },
+ "at forbinde": {
+  "file": "f.json",
+  "explanation": "\"At forbinde\" means \"to connect\". To name the second device you connect to, add \"med\" (with): \"Jeg forbinder printeren med computeren\" (I connect the printer to the computer). It also means \"to associate\": \"Jeg forbinder sommer med is\" (I associate summer with ice cream).",
+  "forms": [
+   {
+    "da": "at forbinde",
+    "en": "to connect"
+   },
+   {
+    "da": "jeg forbinder",
+    "en": "I connect"
+   },
+   {
+    "da": "jeg forbandt",
+    "en": "I connected"
+   },
+   {
+    "da": "jeg har forbundet",
+    "en": "I have connected"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forbindelse",
+    "en": "a connection"
+   },
+   {
+    "da": "at koble",
+    "en": "to link"
+   },
+   {
+    "da": "at afbryde",
+    "en": "to cut off"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **forbinde** din telefon med højttaleren.",
+   "en": "You can connect your phone to the speaker."
+  }
+ },
+ "at forblive": {
+  "file": "f.json",
+  "explanation": "\"At forblive\" means \"to remain\", to stay the same and not change: \"Vi forbliver venner\" (We remain friends). To say someone turns into something new, use \"at blive\" (to become): \"Hun bliver direktør\" (She becomes director).",
+  "forms": [
+   {
+    "da": "at forblive",
+    "en": "to remain"
+   },
+   {
+    "da": "jeg forbliver",
+    "en": "I remain"
+   },
+   {
+    "da": "jeg forblev",
+    "en": "I remained"
+   },
+   {
+    "da": "jeg er forblevet",
+    "en": "I have remained"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vedblive",
+    "en": "to continue to be"
+   },
+   {
+    "da": "at holde sig",
+    "en": "to keep oneself"
+   },
+   {
+    "da": "at blive ved",
+    "en": "to keep on"
+   },
+   {
+    "da": "at skifte",
+    "en": "to switch"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **forblive** direktør, selvom firmaet bliver solgt.",
+   "en": "She will remain director even though the company is sold."
+  }
+ },
+ "at forbruge": {
+  "file": "f.json",
+  "explanation": "\"At forbruge\" means \"to consume\", to get through a supply of something, such as water, fuel or money. For a meal, say \"at spise\" (to eat) instead.",
+  "forms": [
+   {
+    "da": "at forbruge",
+    "en": "to consume"
+   },
+   {
+    "da": "jeg forbruger",
+    "en": "I consume"
+   },
+   {
+    "da": "jeg forbrugte",
+    "en": "I consumed"
+   },
+   {
+    "da": "jeg har forbrugt",
+    "en": "I have consumed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et forbrug",
+    "en": "consumption"
+   },
+   {
+    "da": "en forbruger",
+    "en": "a consumer"
+   },
+   {
+    "da": "at opbruge",
+    "en": "to use up"
+   },
+   {
+    "da": "at spare",
+    "en": "to save"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **forbruge** mindre strøm, når prisen stiger.",
+   "en": "We must consume less electricity when the price rises."
+  }
+ },
+ "at forbyde": {
+  "file": "f.json",
+  "explanation": "\"At forbyde\" means \"to forbid\" and \"to ban\": \"Regeringen forbyder plastikposer\" (The government bans plastic bags). On a sign, Danish uses \"forbudt\" (forbidden): \"Det er forbudt at ryge her\" (Smoking is forbidden here).",
+  "forms": [
+   {
+    "da": "at forbyde",
+    "en": "to forbid / ban"
+   },
+   {
+    "da": "jeg forbyder",
+    "en": "I forbid / ban"
+   },
+   {
+    "da": "jeg forbød",
+    "en": "I forbade / banned"
+   },
+   {
+    "da": "jeg har forbudt",
+    "en": "I have forbidden / banned"
+   }
+  ],
+  "related": [
+   {
+    "da": "et forbud",
+    "en": "a ban"
+   },
+   {
+    "da": "at tillade",
+    "en": "to allow"
+   },
+   {
+    "da": "en regel",
+    "en": "a rule"
+   },
+   {
+    "da": "at nægte",
+    "en": "to refuse"
+   }
+  ],
+  "sentence": {
+   "da": "Skolen vil **forbyde** mobiler i timerne.",
+   "en": "The school wants to ban phones in class."
+  }
+ },
+ "at fordele": {
+  "file": "f.json",
+  "explanation": "\"At fordele\" means \"to distribute\", to divide something between different people or places so that each person or place receives a part. To name the people who share the money, use \"mellem\" (between): \"Vi fordeler pengene mellem børnene\" (We distribute the money between the children).",
+  "forms": [
+   {
+    "da": "at fordele",
+    "en": "to distribute"
+   },
+   {
+    "da": "jeg fordeler",
+    "en": "I distribute"
+   },
+   {
+    "da": "jeg fordelte",
+    "en": "I distributed"
+   },
+   {
+    "da": "jeg har fordelt",
+    "en": "I have distributed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dele",
+    "en": "to share"
+   },
+   {
+    "da": "at uddele",
+    "en": "to hand out"
+   },
+   {
+    "da": "en fordeling",
+    "en": "a distribution"
+   },
+   {
+    "da": "at samle",
+    "en": "to collect"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren vil **fordele** eleverne i tre grupper.",
+   "en": "The teacher wants to divide the students into three groups."
+  }
+ },
+ "at fordoble": {
+  "file": "f.json",
+  "explanation": "\"At fordoble\" means \"to double\", to make something twice as big. When it happens by itself, add \"sig\" (itself): \"Antallet fordobler sig hvert år\" (The number doubles every year).",
+  "forms": [
+   {
+    "da": "at fordoble",
+    "en": "to double"
+   },
+   {
+    "da": "jeg fordobler",
+    "en": "I double"
+   },
+   {
+    "da": "jeg fordoblede",
+    "en": "I doubled"
+   },
+   {
+    "da": "jeg har fordoblet",
+    "en": "I have doubled"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fordobling",
+    "en": "a doubling"
+   },
+   {
+    "da": "at halvere",
+    "en": "to halve"
+   },
+   {
+    "da": "at tredoble",
+    "en": "to triple"
+   },
+   {
+    "da": "at forøge",
+    "en": "to increase"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet vil **fordoble** produktionen i løbet af to år.",
+   "en": "The company wants to double production within two years."
+  }
+ },
+ "at fordybe sig": {
+  "file": "f.json",
+  "explanation": "\"At fordybe sig\" means \"to immerse oneself\", to give all your attention to one thing for a long time. It is followed by \"i\" (in): \"Han fordyber sig i sin forskning\" (He immerses himself in his research).",
+  "forms": [
+   {
+    "da": "at fordybe sig",
+    "en": "to immerse oneself"
+   },
+   {
+    "da": "jeg fordyber mig",
+    "en": "I immerse myself"
+   },
+   {
+    "da": "jeg fordybede mig",
+    "en": "I immersed myself"
+   },
+   {
+    "da": "jeg har fordybet mig",
+    "en": "I have immersed myself"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fordybelse",
+    "en": "deep focus"
+   },
+   {
+    "da": "at koncentrere sig",
+    "en": "to concentrate"
+   },
+   {
+    "da": "at studere",
+    "en": "to study"
+   },
+   {
+    "da": "at forstyrre",
+    "en": "to disturb"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kan **fordybe sig** i en bog i flere timer.",
+   "en": "She can immerse herself in a book for hours."
+  }
+ },
+ "at foregive": {
+  "file": "f.json",
+  "explanation": "\"At foregive\" means \"to pretend\", to claim something that is not true: \"Han foregav at være syg\" (He pretended to be sick). Danes more often say \"at lade som om\" (to act as if), followed by a full sentence: \"Han lod som om, han var syg\" (He pretended he was sick).",
+  "forms": [
+   {
+    "da": "at foregive",
+    "en": "to pretend"
+   },
+   {
+    "da": "jeg foregiver",
+    "en": "I pretend"
+   },
+   {
+    "da": "jeg foregav",
+    "en": "I pretended"
+   },
+   {
+    "da": "jeg har foregivet",
+    "en": "I have pretended"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lyve",
+    "en": "to lie"
+   },
+   {
+    "da": "at hykle",
+    "en": "to feign"
+   },
+   {
+    "da": "en hykler",
+    "en": "a hypocrite"
+   },
+   {
+    "da": "et påskud",
+    "en": "a pretext"
+   }
+  ],
+  "sentence": {
+   "da": "Han kan ikke **foregive**, at han ikke ved noget.",
+   "en": "He cannot pretend that he knows nothing."
+  }
+ },
+ "at foregå": {
+  "file": "f.json",
+  "explanation": "\"At foregå\" means \"to take place\", said about a meeting, a party or a process that is going on somewhere: \"Mødet foregår i konferencelokalet\" (The meeting takes place in the conference room). It is for things, never people, so its forms start with \"det\" (it).",
+  "forms": [
+   {
+    "da": "at foregå",
+    "en": "to take place / happen"
+   },
+   {
+    "da": "det foregår",
+    "en": "it takes place / happens"
+   },
+   {
+    "da": "det foregik",
+    "en": "it took place / happened"
+   },
+   {
+    "da": "det har foregået",
+    "en": "it has taken place / happened"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ske",
+    "en": "to happen"
+   },
+   {
+    "da": "at gå for sig",
+    "en": "to go on"
+   },
+   {
+    "da": "at afholde",
+    "en": "to hold"
+   },
+   {
+    "da": "en begivenhed",
+    "en": "an event"
+   }
+  ],
+  "sentence": {
+   "da": "Hvor skal festen **foregå**?",
+   "en": "Where will the party take place?"
+  }
+ },
+ "at forene": {
+  "file": "f.json",
+  "explanation": "\"At forene\" means \"to unite\", to bring separate things or people together into one: \"at forene to lande\" (to unite two countries). It also means to combine two things in life: \"at forene arbejde og familie\" (to combine work and family).",
+  "forms": [
+   {
+    "da": "at forene",
+    "en": "to unite"
+   },
+   {
+    "da": "jeg forener",
+    "en": "I unite"
+   },
+   {
+    "da": "jeg forenede",
+    "en": "I united"
+   },
+   {
+    "da": "jeg har forenet",
+    "en": "I have united"
+   }
+  ],
+  "related": [
+   {
+    "da": "at samle",
+    "en": "to gather"
+   },
+   {
+    "da": "at forbinde",
+    "en": "to connect"
+   },
+   {
+    "da": "en forening",
+    "en": "an association"
+   },
+   {
+    "da": "at splitte",
+    "en": "to split"
+   }
+  ],
+  "sentence": {
+   "da": "Musikken kan **forene** mennesker fra hele verden.",
+   "en": "Music can unite people from all over the world."
+  }
+ },
+ "at forenkle": {
+  "file": "f.json",
+  "explanation": "\"At forenkle\" means \"to simplify\", to make something easier and less complicated. It is built from enkel (simple).",
+  "forms": [
+   {
+    "da": "at forenkle",
+    "en": "to simplify"
+   },
+   {
+    "da": "jeg forenkler",
+    "en": "I simplify"
+   },
+   {
+    "da": "jeg forenklede",
+    "en": "I simplified"
+   },
+   {
+    "da": "jeg har forenklet",
+    "en": "I have simplified"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komplicere",
+    "en": "to complicate"
+   },
+   {
+    "da": "at lette",
+    "en": "to ease"
+   },
+   {
+    "da": "en forenkling",
+    "en": "a simplification"
+   },
+   {
+    "da": "at effektivisere",
+    "en": "to streamline"
+   }
+  ],
+  "sentence": {
+   "da": "Vi bør **forenkle** formularen, fordi den er for svær.",
+   "en": "We should simplify the form because it is too hard."
+  }
+ },
+ "at foreslå": {
+  "file": "f.json",
+  "explanation": "\"At foreslå\" means \"to suggest\", putting an idea forward for others to accept or turn down. To suggest a thing, say it straight after the verb: \"Jeg foreslår en anden dag\" (I suggest another day). To suggest a full sentence, add \"at\" (that) first: \"Jeg foreslår, at vi går hjem\" (I suggest that we go home).",
+  "forms": [
+   {
+    "da": "at foreslå",
+    "en": "to suggest"
+   },
+   {
+    "da": "jeg foreslår",
+    "en": "I suggest"
+   },
+   {
+    "da": "jeg foreslog",
+    "en": "I suggested"
+   },
+   {
+    "da": "jeg har foreslået",
+    "en": "I have suggested"
+   }
+  ],
+  "related": [
+   {
+    "da": "et forslag",
+    "en": "a suggestion"
+   },
+   {
+    "da": "at anbefale",
+    "en": "to recommend"
+   },
+   {
+    "da": "at tilbyde",
+    "en": "to offer"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **foreslå**, at vi spiser ude.",
+   "en": "I want to suggest that we eat out."
+  }
+ },
+ "at forestille sig": {
+  "file": "f.json",
+  "explanation": "\"At forestille sig\" means \"to imagine\", to picture something in your mind: \"Jeg kan ikke forestille mig det\" (I cannot imagine that).",
+  "forms": [
+   {
+    "da": "at forestille sig",
+    "en": "to imagine"
+   },
+   {
+    "da": "jeg forestiller mig",
+    "en": "I imagine"
+   },
+   {
+    "da": "jeg forestillede mig",
+    "en": "I imagined"
+   },
+   {
+    "da": "jeg har forestillet mig",
+    "en": "I have imagined"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fantasi",
+    "en": "an imagination"
+   },
+   {
+    "da": "at drømme",
+    "en": "to dream"
+   },
+   {
+    "da": "at fantasere",
+    "en": "to fantasize"
+   },
+   {
+    "da": "at tænke",
+    "en": "to think"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kan ikke **forestille sig** livet uden musik.",
+   "en": "She cannot imagine life without music."
+  }
+ },
+ "at forestå": {
+  "file": "f.json",
+  "explanation": "\"At forestå\" means \"to be in charge of\", to run something and take responsibility for it: \"Hun forestår afdelingen\" (She is in charge of the department). It also means \"to lie ahead\", about what is coming: \"Der forestår en svær tid\" (A hard time lies ahead).",
+  "forms": [
+   {
+    "da": "at forestå",
+    "en": "to be in charge of / lie ahead"
+   },
+   {
+    "da": "jeg forestår",
+    "en": "I am in charge of"
+   },
+   {
+    "da": "jeg forestod",
+    "en": "I was in charge of"
+   },
+   {
+    "da": "jeg har forestået",
+    "en": "I have been in charge of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lede",
+    "en": "to lead"
+   },
+   {
+    "da": "at styre",
+    "en": "to manage"
+   },
+   {
+    "da": "at organisere",
+    "en": "to organize"
+   },
+   {
+    "da": "at stå foran",
+    "en": "to be facing"
+   }
+  ],
+  "sentence": {
+   "da": "En erfaren leder skal **forestå** projektet og holde styr på pengene.",
+   "en": "An experienced leader must be in charge of the project and keep track of the money."
+  }
+ },
+ "at foretage": {
+  "file": "f.json",
+  "explanation": "\"At foretage\" means \"to carry out\", for a deliberate act: \"at foretage en ændring\" (to make a change), \"at foretage et opkald\" (to make a call). For making objects like a cake, say \"at lave\" (to make) instead: \"Jeg laver en kage\" (I am making a cake).",
+  "forms": [
+   {
+    "da": "at foretage",
+    "en": "to make / carry out"
+   },
+   {
+    "da": "jeg foretager",
+    "en": "I make / carry out"
+   },
+   {
+    "da": "jeg foretog",
+    "en": "I made / carried out"
+   },
+   {
+    "da": "jeg har foretaget",
+    "en": "I have made / carried out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at udføre",
+    "en": "to perform"
+   },
+   {
+    "da": "at gennemføre",
+    "en": "to carry through"
+   },
+   {
+    "da": "at udrette",
+    "en": "to accomplish"
+   },
+   {
+    "da": "at iværksætte",
+    "en": "to launch"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen skal **foretage** en lille undersøgelse i morgen.",
+   "en": "The doctor will carry out a small examination tomorrow."
+  }
+ },
+ "at foretrække": {
+  "file": "f.json",
+  "explanation": "\"At foretrække\" means \"to prefer\": \"Hun foretrækker at gå\" (She prefers to walk). To name the option you like less, add \"frem for\" (over): \"Jeg foretrækker hunde frem for katte\" (I prefer dogs to cats).",
+  "forms": [
+   {
+    "da": "at foretrække",
+    "en": "to prefer"
+   },
+   {
+    "da": "jeg foretrækker",
+    "en": "I prefer"
+   },
+   {
+    "da": "jeg foretrak",
+    "en": "I preferred"
+   },
+   {
+    "da": "jeg har foretrukket",
+    "en": "I have preferred"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kunne lide",
+    "en": "to like"
+   },
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   },
+   {
+    "da": "helst",
+    "en": "rather / preferably"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg ville **foretrække** te frem for kaffe.",
+   "en": "I would prefer tea to coffee."
+  }
+ },
+ "at forfalde": {
+  "file": "f.json",
+  "explanation": "\"At forfalde\" means \"to fall due\" and \"to decay\". A payment falls due on a set day: \"Fakturaen forfalder om fjorten dage\" (The invoice falls due in fourteen days). A building can decay: \"Huset forfalder\" (The house is falling apart).",
+  "forms": [
+   {
+    "da": "at forfalde",
+    "en": "to fall due / decay"
+   },
+   {
+    "da": "det forfalder",
+    "en": "it falls due / decays"
+   },
+   {
+    "da": "det forfaldt",
+    "en": "it fell due / decayed"
+   },
+   {
+    "da": "det er forfaldet",
+    "en": "it has fallen due / decayed"
+   }
+  ],
+  "related": [
+   {
+    "da": "forfald",
+    "en": "decline"
+   },
+   {
+    "da": "en forfaldsdato",
+    "en": "a payment deadline"
+   },
+   {
+    "da": "at rådne",
+    "en": "to rot"
+   },
+   {
+    "da": "at forsømme",
+    "en": "to neglect"
+   }
+  ],
+  "sentence": {
+   "da": "Uden vedligehold vil huset hurtigt **forfalde**.",
+   "en": "Without upkeep the house will quickly decay."
+  }
+ },
+ "at forfatte": {
+  "file": "f.json",
+  "explanation": "\"At forfatte\" means \"to compose\", to put together a text with care, such as a speech or an official document: \"Hun forfattede et brev til ministeren\" (She drew up a letter to the minister).",
+  "forms": [
+   {
+    "da": "at forfatte",
+    "en": "to compose"
+   },
+   {
+    "da": "jeg forfatter",
+    "en": "I compose"
+   },
+   {
+    "da": "jeg forfattede",
+    "en": "I composed"
+   },
+   {
+    "da": "jeg har forfattet",
+    "en": "I have composed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forfatter",
+    "en": "a writer"
+   },
+   {
+    "da": "at udarbejde",
+    "en": "to prepare"
+   },
+   {
+    "da": "at udgive",
+    "en": "to publish"
+   },
+   {
+    "da": "at digte",
+    "en": "to write poetry"
+   }
+  ],
+  "sentence": {
+   "da": "Borgmesteren vil **forfatte** en tale til festen.",
+   "en": "The mayor will compose a speech for the party."
+  }
+ },
+ "at forfremme": {
+  "file": "f.json",
+  "explanation": "\"At forfremme\" means \"to promote\", but only in the sense of moving a person up to a better job. To promote a product, Danes say \"at markedsføre\" (to market).",
+  "forms": [
+   {
+    "da": "at forfremme",
+    "en": "to promote"
+   },
+   {
+    "da": "jeg forfremmer",
+    "en": "I promote"
+   },
+   {
+    "da": "jeg forfremmede",
+    "en": "I promoted"
+   },
+   {
+    "da": "jeg har forfremmet",
+    "en": "I have promoted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forfremmelse",
+    "en": "a promotion"
+   },
+   {
+    "da": "at avancere",
+    "en": "to advance"
+   },
+   {
+    "da": "at degradere",
+    "en": "to demote"
+   }
+  ],
+  "sentence": {
+   "da": "Chefen vil **forfremme** hende, fordi hun arbejder så hårdt.",
+   "en": "The boss wants to promote her because she works so hard."
+  }
+ },
+ "at forfølge": {
+  "file": "f.json",
+  "explanation": "\"At forfølge\" means \"to pursue\", to follow someone closely in order to reach them, or to follow a goal: \"at forfølge sin drøm\" (to pursue your dream). It also means \"to persecute\", to treat a group of people cruelly because of who they are.",
+  "forms": [
+   {
+    "da": "at forfølge",
+    "en": "to pursue / persecute"
+   },
+   {
+    "da": "jeg forfølger",
+    "en": "I pursue / persecute"
+   },
+   {
+    "da": "jeg forfulgte",
+    "en": "I pursued / persecuted"
+   },
+   {
+    "da": "jeg har forfulgt",
+    "en": "I have pursued / persecuted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at jagte",
+    "en": "to chase"
+   },
+   {
+    "da": "at fange",
+    "en": "to catch"
+   },
+   {
+    "da": "at undertrykke",
+    "en": "to oppress"
+   },
+   {
+    "da": "at efterstræbe",
+    "en": "to strive for"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet kan ikke **forfølge** bilen længere, fordi den er for hurtig.",
+   "en": "The police cannot pursue the car any longer because it is too fast."
+  }
+ },
+ "at forføre": {
+  "file": "f.json",
+  "explanation": "\"At forføre\" means \"to seduce\": to win someone over romantically. It can also mean to lead someone into something they should not do.",
+  "forms": [
+   {
+    "da": "at forføre",
+    "en": "to seduce"
+   },
+   {
+    "da": "jeg forfører",
+    "en": "I seduce"
+   },
+   {
+    "da": "jeg forførte",
+    "en": "I seduced"
+   },
+   {
+    "da": "jeg har forført",
+    "en": "I have seduced"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forfører",
+    "en": "a seducer"
+   },
+   {
+    "da": "at lokke",
+    "en": "to lure"
+   },
+   {
+    "da": "at charmere",
+    "en": "to charm"
+   },
+   {
+    "da": "at forlede",
+    "en": "to mislead"
+   }
+  ],
+  "sentence": {
+   "da": "Skurken vil **forføre** hende og få hendes penge.",
+   "en": "The villain wants to seduce her and get her money."
+  }
+ },
+ "at forhandle": {
+  "file": "f.json",
+  "explanation": "\"At forhandle\" means \"to negotiate\", for example prices, contracts or pay. To name the topic of the negotiation, add \"om\" (about): \"forhandle om prisen\" (negotiate the price). Do not mix it up with \"en forhandler\" (a dealer), who is not a negotiator but a retailer, such as a car dealer.",
+  "forms": [
+   {
+    "da": "at forhandle",
+    "en": "to negotiate"
+   },
+   {
+    "da": "jeg forhandler",
+    "en": "I negotiate"
+   },
+   {
+    "da": "jeg forhandlede",
+    "en": "I negotiated"
+   },
+   {
+    "da": "jeg har forhandlet",
+    "en": "I have negotiated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forhandling",
+    "en": "a negotiation"
+   },
+   {
+    "da": "at aftale",
+    "en": "to agree"
+   },
+   {
+    "da": "et kompromis",
+    "en": "a compromise"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **forhandle** om prisen.",
+   "en": "We want to negotiate the price."
+  }
+ },
+ "at forhindre": {
+  "file": "f.json",
+  "explanation": "\"At forhindre\" means \"to prevent\", stopping something from happening. To name the activity someone was stopped from, add \"i at\" (from) before the verb: \"Regnen forhindrede os i at gå\" (The rain stopped us from going).",
+  "forms": [
+   {
+    "da": "at forhindre",
+    "en": "to prevent"
+   },
+   {
+    "da": "jeg forhindrer",
+    "en": "I prevent"
+   },
+   {
+    "da": "jeg forhindrede",
+    "en": "I prevented"
+   },
+   {
+    "da": "jeg har forhindret",
+    "en": "I have prevented"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hindre",
+    "en": "to hinder"
+   },
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   },
+   {
+    "da": "en forhindring",
+    "en": "an obstacle"
+   },
+   {
+    "da": "at undgå",
+    "en": "to avoid"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **forhindre** mange ulykker med bedre veje.",
+   "en": "We can prevent many accidents with better roads."
+  }
+ },
+ "at forhøre sig": {
+  "file": "f.json",
+  "explanation": "\"At forhøre sig\" means \"to inquire\", to check something with a person or an office before you decide. To name the topic you ask about, add \"om\" (about): \"Jeg forhører mig om åbningstiderne\" (I am checking on the opening hours). Without \"sig\" (oneself), \"at forhøre\" means to interrogate, which is something the police do to a suspect.",
+  "forms": [
+   {
+    "da": "at forhøre sig",
+    "en": "to inquire"
+   },
+   {
+    "da": "jeg forhører mig",
+    "en": "I inquire"
+   },
+   {
+    "da": "jeg forhørte mig",
+    "en": "I inquired"
+   },
+   {
+    "da": "jeg har forhørt mig",
+    "en": "I have inquired"
+   }
+  ],
+  "related": [
+   {
+    "da": "at spørge",
+    "en": "to ask"
+   },
+   {
+    "da": "at undersøge",
+    "en": "to investigate"
+   },
+   {
+    "da": "at kontakte",
+    "en": "to contact"
+   },
+   {
+    "da": "en forespørgsel",
+    "en": "a request"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **forhøre sig** om prisen i butikken.",
+   "en": "He wants to inquire about the price at the shop."
+  }
+ },
+ "at forklare": {
+  "file": "f.json",
+  "explanation": "\"At forklare\" means \"to explain\". Danish says \"forklare noget for nogen\" (explain something to someone): \"Kan du forklare det for mig?\" (Can you explain it to me?)",
+  "forms": [
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   },
+   {
+    "da": "jeg forklarer",
+    "en": "I explain"
+   },
+   {
+    "da": "jeg forklarede",
+    "en": "I explained"
+   },
+   {
+    "da": "jeg har forklaret",
+    "en": "I have explained"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forklaring",
+    "en": "an explanation"
+   },
+   {
+    "da": "at beskrive",
+    "en": "to describe"
+   },
+   {
+    "da": "uforklarlig",
+    "en": "inexplicable"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren vil **forklare** ordet.",
+   "en": "The teacher will explain the word."
+  }
+ },
+ "at forklæde sig": {
+  "file": "f.json",
+  "explanation": "\"At forklæde sig\" means \"to disguise oneself\": to dress so that people do not recognize you. Add \"som\" (as) to say as what: \"Hun forklædte sig som tjener\" (She disguised herself as a waiter).",
+  "forms": [
+   {
+    "da": "at forklæde sig",
+    "en": "to disguise oneself"
+   },
+   {
+    "da": "jeg forklæder mig",
+    "en": "I disguise myself"
+   },
+   {
+    "da": "jeg forklædte mig",
+    "en": "I disguised myself"
+   },
+   {
+    "da": "jeg har forklædt mig",
+    "en": "I have disguised myself"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forklædning",
+    "en": "a disguise"
+   },
+   {
+    "da": "at klæde sig ud",
+    "en": "to dress up"
+   },
+   {
+    "da": "en maske",
+    "en": "a mask"
+   },
+   {
+    "da": "at skjule",
+    "en": "to hide"
+   }
+  ],
+  "sentence": {
+   "da": "Tyven vil **forklæde sig** som politibetjent og gå ind i banken.",
+   "en": "The thief wants to disguise himself as a police officer and go into the bank."
+  }
+ },
+ "at forkorte": {
+  "file": "f.json",
+  "explanation": "\"At forkorte\" means \"to shorten\", to make something shorter in time or length. With a word it means to abbreviate it, and the result is called \"en forkortelse\" (an abbreviation).",
+  "forms": [
+   {
+    "da": "at forkorte",
+    "en": "to shorten"
+   },
+   {
+    "da": "jeg forkorter",
+    "en": "I shorten"
+   },
+   {
+    "da": "jeg forkortede",
+    "en": "I shortened"
+   },
+   {
+    "da": "jeg har forkortet",
+    "en": "I have shortened"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afkorte",
+    "en": "to cut short"
+   },
+   {
+    "da": "at forlænge",
+    "en": "to lengthen"
+   },
+   {
+    "da": "at skære ned",
+    "en": "to cut back"
+   },
+   {
+    "da": "at beskære",
+    "en": "to trim"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **forkorte** turen ved at tage motorvejen.",
+   "en": "We can shorten the trip by taking the highway."
+  }
+ },
+ "at forkæle": {
+  "file": "f.json",
+  "explanation": "\"At forkæle\" means \"to spoil\" in the kind sense, to pamper someone with nice things: \"Jeg vil forkæle dig i dag\" (I want to pamper you today). It can also be negative, when someone gets too much and expects it: \"Børnene er forkælede\" (The children are spoiled).",
+  "forms": [
+   {
+    "da": "at forkæle",
+    "en": "to spoil (pamper)"
+   },
+   {
+    "da": "jeg forkæler",
+    "en": "I spoil (pamper)"
+   },
+   {
+    "da": "jeg forkælede",
+    "en": "I spoiled (pampered)"
+   },
+   {
+    "da": "jeg har forkælet",
+    "en": "I have spoiled (pampered)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skåne",
+    "en": "to go easy on"
+   },
+   {
+    "da": "at pylre om",
+    "en": "to fuss over"
+   },
+   {
+    "da": "at forsømme",
+    "en": "to neglect"
+   }
+  ],
+  "sentence": {
+   "da": "Bedsteforældrene vil **forkæle** børnebørnene med is og slik.",
+   "en": "The grandparents want to spoil the grandchildren with ice cream and candy."
+  }
+ },
+ "at forlade": {
+  "file": "f.json",
+  "explanation": "\"At forlade\" means \"to leave\" a place or a person: \"Hun forlod huset klokken 8\" (She left the house at 8). \"Hun forlod ham\" (She left him). For simply going away, use \"at gå\" (to go): \"Jeg går nu\" (I am leaving now).",
+  "forms": [
+   {
+    "da": "at forlade",
+    "en": "to leave"
+   },
+   {
+    "da": "jeg forlader",
+    "en": "I leave"
+   },
+   {
+    "da": "jeg forlod",
+    "en": "I left"
+   },
+   {
+    "da": "jeg har forladt",
+    "en": "I have left"
+   }
+  ],
+  "related": [
+   {
+    "da": "at efterlade",
+    "en": "to leave behind"
+   },
+   {
+    "da": "at rejse",
+    "en": "to travel / leave"
+   },
+   {
+    "da": "at flytte",
+    "en": "to move"
+   },
+   {
+    "da": "at blive",
+    "en": "to stay"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **forlade** landet i næste måned.",
+   "en": "He will leave the country next month."
+  }
+ },
+ "at forlange": {
+  "file": "f.json",
+  "explanation": "\"At forlange\" means \"to demand\", to ask for something firmly because you think you have a right to it: \"Han forlangte sine penge tilbage\" (He demanded his money back). It is stronger than politely asking.",
+  "forms": [
+   {
+    "da": "at forlange",
+    "en": "to demand"
+   },
+   {
+    "da": "jeg forlanger",
+    "en": "I demand"
+   },
+   {
+    "da": "jeg forlangte",
+    "en": "I demanded"
+   },
+   {
+    "da": "jeg har forlangt",
+    "en": "I have demanded"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kræve",
+    "en": "to require"
+   },
+   {
+    "da": "at befale",
+    "en": "to order"
+   },
+   {
+    "da": "at ønske",
+    "en": "to wish"
+   },
+   {
+    "da": "at anmode",
+    "en": "to request"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **forlange** en ny vare, hvis den er gået i stykker.",
+   "en": "You can demand a new item if it has broken."
+  }
+ },
+ "at forlove sig": {
+  "file": "f.json",
+  "explanation": "\"At forlove sig\" means \"to get engaged\", the promise to marry someone before the wedding. To name the person you get engaged to, add \"med\" (with): \"Hun forlovede sig med Peter i sommer\" (She got engaged to Peter last summer).",
+  "forms": [
+   {
+    "da": "at forlove sig",
+    "en": "to get engaged"
+   },
+   {
+    "da": "jeg forlover mig",
+    "en": "I get engaged"
+   },
+   {
+    "da": "jeg forlovede mig",
+    "en": "I got engaged"
+   },
+   {
+    "da": "jeg har forlovet mig",
+    "en": "I have gotten engaged"
+   }
+  ],
+  "related": [
+   {
+    "da": "forlovet",
+    "en": "engaged"
+   },
+   {
+    "da": "en forlovelse",
+    "en": "an engagement"
+   },
+   {
+    "da": "en forlovelsesring",
+    "en": "an engagement ring"
+   },
+   {
+    "da": "at blive gift",
+    "en": "to get married"
+   }
+  ],
+  "sentence": {
+   "da": "Han har en ring og vil **forlove sig** med hende.",
+   "en": "He has a ring and wants to get engaged to her."
+  }
+ },
+ "at forlænge": {
+  "file": "f.json",
+  "explanation": "\"At forlænge\" means \"to extend\", to make something longer, in time or in size: \"at forlænge et visum\" (to extend a visa), \"at forlænge et bord\" (to make a table longer).",
+  "forms": [
+   {
+    "da": "at forlænge",
+    "en": "to extend"
+   },
+   {
+    "da": "jeg forlænger",
+    "en": "I extend"
+   },
+   {
+    "da": "jeg forlængede",
+    "en": "I extended"
+   },
+   {
+    "da": "jeg har forlænget",
+    "en": "I have extended"
+   }
+  ],
+  "related": [
+   {
+    "da": "at udvide",
+    "en": "to expand"
+   },
+   {
+    "da": "at forkorte",
+    "en": "to shorten"
+   },
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   },
+   {
+    "da": "en forlængerledning",
+    "en": "an extension cord"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil gerne **forlænge** vores ophold med to dage.",
+   "en": "We would like to extend our stay by two days."
+  }
+ },
+ "at forløbe": {
+  "file": "f.json",
+  "explanation": "\"At forløbe\" means \"to proceed\" or \"to go\", for how an event develops from start to finish. It is used for events and processes, not for people: \"Festen forløb roligt\" (The party went calmly).",
+  "forms": [
+   {
+    "da": "at forløbe",
+    "en": "to proceed / go"
+   },
+   {
+    "da": "det forløber",
+    "en": "it proceeds / goes"
+   },
+   {
+    "da": "det forløb",
+    "en": "it proceeded / went"
+   },
+   {
+    "da": "det er forløbet",
+    "en": "it has proceeded / gone"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ske",
+    "en": "to happen"
+   },
+   {
+    "da": "at foregå",
+    "en": "to take place"
+   },
+   {
+    "da": "at udvikle sig",
+    "en": "to develop"
+   },
+   {
+    "da": "at udfolde sig",
+    "en": "to unfold"
+   }
+  ],
+  "sentence": {
+   "da": "En operation som denne kan **forløbe** uden problemer.",
+   "en": "An operation like this can go without problems."
+  }
+ },
+ "at formidle": {
+  "file": "f.json",
+  "explanation": "\"At formidle\" means \"to convey\" or \"to mediate\": to get something across between people, such as knowledge, news or a deal: \"Læreren formidler viden til eleverne\" (The teacher conveys knowledge to the students).",
+  "forms": [
+   {
+    "da": "at formidle",
+    "en": "to convey / mediate"
+   },
+   {
+    "da": "jeg formidler",
+    "en": "I convey / mediate"
+   },
+   {
+    "da": "jeg formidlede",
+    "en": "I conveyed / mediated"
+   },
+   {
+    "da": "jeg har formidlet",
+    "en": "I have conveyed / mediated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en formidling",
+    "en": "mediation"
+   },
+   {
+    "da": "en mægler",
+    "en": "a broker"
+   },
+   {
+    "da": "at videregive",
+    "en": "to pass on"
+   },
+   {
+    "da": "at overbringe",
+    "en": "to deliver (a message)"
+   }
+  ],
+  "sentence": {
+   "da": "En god journalist kan **formidle** svære ting på en enkel måde.",
+   "en": "A good journalist can convey difficult things in a simple way."
+  }
+ },
+ "at formindske": {
+  "file": "f.json",
+  "explanation": "\"At formindske\" means \"to reduce\", to make something smaller in size, amount or effect: \"at formindske udgifterne\" (to reduce the costs). Danes also say \"at mindske\" (to lessen), which means the same.",
+  "forms": [
+   {
+    "da": "at formindske",
+    "en": "to reduce"
+   },
+   {
+    "da": "jeg formindsker",
+    "en": "I reduce"
+   },
+   {
+    "da": "jeg formindskede",
+    "en": "I reduced"
+   },
+   {
+    "da": "jeg har formindsket",
+    "en": "I have reduced"
+   }
+  ],
+  "related": [
+   {
+    "da": "at reducere",
+    "en": "to cut down"
+   },
+   {
+    "da": "at øge",
+    "en": "to increase"
+   },
+   {
+    "da": "at forøge",
+    "en": "to raise"
+   },
+   {
+    "da": "at begrænse",
+    "en": "to limit"
+   }
+  ],
+  "sentence": {
+   "da": "Mere motion kan **formindske** risikoen for sygdom.",
+   "en": "More exercise can reduce the risk of illness."
+  }
+ },
+ "at formode": {
+  "file": "f.json",
+  "explanation": "\"At formode\" means \"to suppose\" or \"to presume\": to take something as true on good grounds without being sure. It rests on reasons, so it is more than a hunch: \"Jeg formoder, at han kommer snart\" (I presume he is coming soon).",
+  "forms": [
+   {
+    "da": "at formode",
+    "en": "to suppose / presume"
+   },
+   {
+    "da": "jeg formoder",
+    "en": "I suppose / presume"
+   },
+   {
+    "da": "jeg formodede",
+    "en": "I supposed / presumed"
+   },
+   {
+    "da": "jeg har formodet",
+    "en": "I have supposed / presumed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en formodning",
+    "en": "a presumption"
+   },
+   {
+    "da": "at antage",
+    "en": "to assume"
+   },
+   {
+    "da": "formentlig",
+    "en": "probably"
+   },
+   {
+    "da": "at tro",
+    "en": "to believe"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **formode**, at toget er forsinket på grund af sneen.",
+   "en": "We can presume that the train is late because of the snow."
+  }
+ },
+ "at formulere": {
+  "file": "f.json",
+  "explanation": "\"At formulere\" means \"to formulate\", to put a thought into clear words in speech or writing: \"Kan du formulere spørgsmålet anderledes?\" (Can you put the question differently?)",
+  "forms": [
+   {
+    "da": "at formulere",
+    "en": "to formulate"
+   },
+   {
+    "da": "jeg formulerer",
+    "en": "I formulate"
+   },
+   {
+    "da": "jeg formulerede",
+    "en": "I formulated"
+   },
+   {
+    "da": "jeg har formuleret",
+    "en": "I have formulated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en formulering",
+    "en": "a wording"
+   },
+   {
+    "da": "at udtrykke",
+    "en": "to express"
+   },
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   },
+   {
+    "da": "at skrive ned",
+    "en": "to write down"
+   }
+  ],
+  "sentence": {
+   "da": "Det er svært at **formulere** sine tanker på et fremmedsprog.",
+   "en": "It is hard to put your thoughts into words in a foreign language."
+  }
+ },
+ "at fornemme": {
+  "file": "f.json",
+  "explanation": "\"At fornemme\" means \"to sense\", to notice something you cannot see or prove, like a mood or a danger: \"Jeg fornemmer, at noget er galt\" (I sense that something is wrong).",
+  "forms": [
+   {
+    "da": "at fornemme",
+    "en": "to sense"
+   },
+   {
+    "da": "jeg fornemmer",
+    "en": "I sense"
+   },
+   {
+    "da": "jeg fornemmede",
+    "en": "I sensed"
+   },
+   {
+    "da": "jeg har fornemmet",
+    "en": "I have sensed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fornemmelse",
+    "en": "a feeling"
+   },
+   {
+    "da": "at mærke",
+    "en": "to feel"
+   },
+   {
+    "da": "at ane",
+    "en": "to suspect"
+   },
+   {
+    "da": "at opfatte",
+    "en": "to perceive"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden kan **fornemme**, når ejeren er ked af det.",
+   "en": "The dog can sense when its owner is sad."
+  }
+ },
+ "at forny": {
+  "file": "f.json",
+  "explanation": "\"At forny\" means \"to renew\", to make something fresh again or valid for another period: \"Jeg skal forny mit pas\" (I have to renew my passport).",
+  "forms": [
+   {
+    "da": "at forny",
+    "en": "to renew"
+   },
+   {
+    "da": "jeg fornyer",
+    "en": "I renew"
+   },
+   {
+    "da": "jeg fornyede",
+    "en": "I renewed"
+   },
+   {
+    "da": "jeg har fornyet",
+    "en": "I have renewed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fornyelse",
+    "en": "a renewal"
+   },
+   {
+    "da": "at forlænge",
+    "en": "to extend"
+   },
+   {
+    "da": "ny",
+    "en": "new"
+   },
+   {
+    "da": "at modernisere",
+    "en": "to modernize"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **forny** dit pas, før du rejser.",
+   "en": "You must renew your passport before you travel."
+  }
+ },
+ "at fornægte": {
+  "file": "f.json",
+  "explanation": "\"At fornægte\" means \"to deny\": to refuse to accept that something is real, such as the truth or your own feelings. For denying that you did something, \"at nægte\" (to deny / refuse) is more usual: \"Jeg nægter at have taget pengene\" (I deny taking the money).",
+  "forms": [
+   {
+    "da": "at fornægte",
+    "en": "to deny"
+   },
+   {
+    "da": "jeg fornægter",
+    "en": "I deny"
+   },
+   {
+    "da": "jeg fornægtede",
+    "en": "I denied"
+   },
+   {
+    "da": "jeg har fornægtet",
+    "en": "I have denied"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fornægtelse",
+    "en": "a denial"
+   },
+   {
+    "da": "at tilstå",
+    "en": "to confess"
+   },
+   {
+    "da": "at erkende",
+    "en": "to admit"
+   },
+   {
+    "da": "at afvise",
+    "en": "to reject"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan ikke **fornægte** din fortid.",
+   "en": "You cannot deny your past."
+  }
+ },
+ "at fornærme": {
+  "file": "f.json",
+  "explanation": "\"At fornærme\" means \"to offend\", to hurt someone's feelings or pride with what you say or do: \"Jeg ville ikke fornærme dig\" (I did not mean to offend you).",
+  "forms": [
+   {
+    "da": "at fornærme",
+    "en": "to offend"
+   },
+   {
+    "da": "jeg fornærmer",
+    "en": "I offend"
+   },
+   {
+    "da": "jeg fornærmede",
+    "en": "I offended"
+   },
+   {
+    "da": "jeg har fornærmet",
+    "en": "I have offended"
+   }
+  ],
+  "related": [
+   {
+    "da": "at krænke",
+    "en": "to violate"
+   },
+   {
+    "da": "at såre",
+    "en": "to wound"
+   },
+   {
+    "da": "en fornærmelse",
+    "en": "an insult"
+   },
+   {
+    "da": "at støde",
+    "en": "to upset"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **fornærme** folk, hvis du er for direkte.",
+   "en": "You can offend people if you are too direct."
+  }
+ },
+ "at forpligte": {
+  "file": "f.json",
+  "explanation": "\"At forpligte\" means \"to commit\" or \"to oblige\": to tie someone to doing something through an agreement or a rule. Add \"sig\" (oneself) when you tie yourself: \"Jeg forpligter mig til at komme\" (I commit myself to coming).",
+  "forms": [
+   {
+    "da": "at forpligte",
+    "en": "to commit / oblige"
+   },
+   {
+    "da": "jeg forpligter",
+    "en": "I commit / oblige"
+   },
+   {
+    "da": "jeg forpligtede",
+    "en": "I committed / obliged"
+   },
+   {
+    "da": "jeg har forpligtet",
+    "en": "I have committed / obliged"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forpligtelse",
+    "en": "an obligation"
+   },
+   {
+    "da": "en pligt",
+    "en": "a duty"
+   },
+   {
+    "da": "at love",
+    "en": "to promise"
+   },
+   {
+    "da": "at påtage sig",
+    "en": "to take on"
+   }
+  ],
+  "sentence": {
+   "da": "En underskrift kan **forpligte** dig til at betale.",
+   "en": "A signature can commit you to paying."
+  }
+ },
+ "at forråde": {
+  "file": "f.json",
+  "explanation": "\"At forråde\" means \"to betray\": to break someone's trust, for example by turning on a friend or giving away a secret. It can also be a thing that gives you away: \"Hans smil forrådte ham\" (His smile gave him away).",
+  "forms": [
+   {
+    "da": "at forråde",
+    "en": "to betray"
+   },
+   {
+    "da": "jeg forråder",
+    "en": "I betray"
+   },
+   {
+    "da": "jeg forrådte",
+    "en": "I betrayed"
+   },
+   {
+    "da": "jeg har forrådt",
+    "en": "I have betrayed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forræder",
+    "en": "a traitor"
+   },
+   {
+    "da": "forræderi",
+    "en": "treason"
+   },
+   {
+    "da": "at svigte",
+    "en": "to let down"
+   },
+   {
+    "da": "at afsløre",
+    "en": "to reveal"
+   }
+  ],
+  "sentence": {
+   "da": "Man må aldrig **forråde** en ven, der stoler på en.",
+   "en": "You must never betray a friend who trusts you."
+  }
+ },
+ "at forsikre": {
+  "file": "f.json",
+  "explanation": "\"At forsikre\" means both \"to assure\" and \"to insure\". To assure is to tell someone that something is certain: \"Jeg forsikrer dig om, at det er sikkert\" (I assure you it is safe). To insure is to buy cover against damage: \"at forsikre bilen\" (to insure the car), and the cover itself is \"en forsikring\" (an insurance).",
+  "forms": [
+   {
+    "da": "at forsikre",
+    "en": "to assure / insure"
+   },
+   {
+    "da": "jeg forsikrer",
+    "en": "I assure / insure"
+   },
+   {
+    "da": "jeg forsikrede",
+    "en": "I assured / insured"
+   },
+   {
+    "da": "jeg har forsikret",
+    "en": "I have assured / insured"
+   }
+  ],
+  "related": [
+   {
+    "da": "at garantere",
+    "en": "to guarantee"
+   },
+   {
+    "da": "at sikre",
+    "en": "to secure"
+   },
+   {
+    "da": "en police",
+    "en": "a policy"
+   },
+   {
+    "da": "at love",
+    "en": "to promise"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **forsikre** huset mod brand og tyveri.",
+   "en": "I want to insure the house against fire and theft."
+  }
+ },
+ "at forsinke": {
+  "file": "f.json",
+  "explanation": "\"At forsinke\" means \"to delay\", making something late. Something that is late is \"forsinket\" (delayed): \"Toget er forsinket\" (The train is delayed).",
+  "forms": [
+   {
+    "da": "at forsinke",
+    "en": "to delay"
+   },
+   {
+    "da": "jeg forsinker",
+    "en": "I delay"
+   },
+   {
+    "da": "jeg forsinkede",
+    "en": "I delayed"
+   },
+   {
+    "da": "jeg har forsinket",
+    "en": "I have delayed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forsinkelse",
+    "en": "a delay"
+   },
+   {
+    "da": "at udsætte",
+    "en": "to postpone"
+   },
+   {
+    "da": "at skynde sig",
+    "en": "to hurry"
+   }
+  ],
+  "sentence": {
+   "da": "Trafikken kan **forsinke** os med en time.",
+   "en": "The traffic can delay us by an hour."
+  }
+ },
+ "at forske": {
+  "file": "f.json",
+  "explanation": "\"At forske\" means \"to research\", to dig deep into a subject, often at a university, to find new knowledge. To name the subject you research, add \"i\" (in): \"Hun har forsket i kræft i ti år\" (She has researched cancer for ten years).",
+  "forms": [
+   {
+    "da": "at forske",
+    "en": "to research"
+   },
+   {
+    "da": "jeg forsker",
+    "en": "I research"
+   },
+   {
+    "da": "jeg forskede",
+    "en": "I researched"
+   },
+   {
+    "da": "jeg har forsket",
+    "en": "I have researched"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forsker",
+    "en": "a researcher"
+   },
+   {
+    "da": "at undersøge",
+    "en": "to investigate"
+   },
+   {
+    "da": "at studere",
+    "en": "to study"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **forske** i, hvorfor bier forsvinder.",
+   "en": "She wants to research why bees are disappearing."
+  }
+ },
+ "at forskrække": {
+  "file": "f.json",
+  "explanation": "\"At forskrække\" means \"to frighten\", usually a sudden, brief shock, like someone jumping out at you. A longer fear is closer to \"at skræmme\" (to scare).",
+  "forms": [
+   {
+    "da": "at forskrække",
+    "en": "to frighten"
+   },
+   {
+    "da": "jeg forskrækker",
+    "en": "I frighten"
+   },
+   {
+    "da": "jeg forskrækkede",
+    "en": "I frightened"
+   },
+   {
+    "da": "jeg har forskrækket",
+    "en": "I have frightened"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forskrækkelse",
+    "en": "a fright"
+   },
+   {
+    "da": "at forfærde",
+    "en": "to horrify"
+   },
+   {
+    "da": "at overraske",
+    "en": "to surprise"
+   },
+   {
+    "da": "at blive bange",
+    "en": "to get scared"
+   }
+  ],
+  "sentence": {
+   "da": "Et højt knald kan **forskrække** børnene, fordi det kommer pludseligt.",
+   "en": "A loud bang can frighten the children because it comes suddenly."
+  }
+ },
+ "at forskyde": {
+  "file": "f.json",
+  "explanation": "\"At forskyde\" means \"to shift\" or \"to displace\": to move something slightly away from where it was, in place or in time. \"Forskudt arbejdstid\" means working hours that start at different times (staggered hours).",
+  "forms": [
+   {
+    "da": "at forskyde",
+    "en": "to shift / displace"
+   },
+   {
+    "da": "jeg forskyder",
+    "en": "I shift / displace"
+   },
+   {
+    "da": "jeg forskød",
+    "en": "I shifted / displaced"
+   },
+   {
+    "da": "jeg har forskudt",
+    "en": "I have shifted / displaced"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forskydning",
+    "en": "a shift"
+   },
+   {
+    "da": "at flytte",
+    "en": "to move"
+   },
+   {
+    "da": "at udskyde",
+    "en": "to postpone"
+   },
+   {
+    "da": "at rykke",
+    "en": "to nudge"
+   }
+  ],
+  "sentence": {
+   "da": "Et jordskælv kan **forskyde** jordlagene under byen.",
+   "en": "An earthquake can shift the layers of earth under the city."
+  }
+ },
+ "at forsone sig": {
+  "file": "f.json",
+  "explanation": "\"At forsone sig\" means \"to reconcile\": to end a quarrel and be on good terms again, or to accept something hard. To name the person you make peace with, add \"med\" (with): \"Jeg vil forsone mig med min bror\" (I want to reconcile with my brother).",
+  "forms": [
+   {
+    "da": "at forsone sig",
+    "en": "to reconcile"
+   },
+   {
+    "da": "jeg forsoner mig",
+    "en": "I reconcile"
+   },
+   {
+    "da": "jeg forsonede mig",
+    "en": "I reconciled"
+   },
+   {
+    "da": "jeg har forsonet mig",
+    "en": "I have reconciled"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forsoning",
+    "en": "a reconciliation"
+   },
+   {
+    "da": "at tilgive",
+    "en": "to forgive"
+   },
+   {
+    "da": "forsonlig",
+    "en": "conciliatory"
+   },
+   {
+    "da": "at slutte fred",
+    "en": "to make peace"
+   }
+  ],
+  "sentence": {
+   "da": "Efter mange års skænderi vil brødrene gerne **forsone sig**.",
+   "en": "After many years of quarreling the brothers want to reconcile."
+  }
+ },
+ "at forstyrre": {
+  "file": "f.json",
+  "explanation": "\"At forstyrre\" means \"to disturb\". To ask politely when you walk in on someone, say \"Må jeg forstyrre?\" (May I interrupt?)",
+  "forms": [
+   {
+    "da": "at forstyrre",
+    "en": "to disturb"
+   },
+   {
+    "da": "jeg forstyrrer",
+    "en": "I disturb"
+   },
+   {
+    "da": "jeg forstyrrede",
+    "en": "I disturbed"
+   },
+   {
+    "da": "jeg har forstyrret",
+    "en": "I have disturbed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afbryde",
+    "en": "to interrupt"
+   },
+   {
+    "da": "en forstyrrelse",
+    "en": "a disturbance"
+   },
+   {
+    "da": "at genere",
+    "en": "to bother"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene må ikke **forstyrre** hende, når hun arbejder.",
+   "en": "The children must not disturb her when she works."
+  }
+ },
+ "at forstå": {
+  "file": "f.json",
+  "explanation": "\"At forstå\" means \"to understand\". To say you know a fact, use \"at vide\" (to know) instead: \"Jeg ved det ikke\" (I don't know).",
+  "forms": [
+   {
+    "da": "at forstå",
+    "en": "to understand"
+   },
+   {
+    "da": "jeg forstår",
+    "en": "I understand"
+   },
+   {
+    "da": "jeg forstod",
+    "en": "I understood"
+   },
+   {
+    "da": "jeg har forstået",
+    "en": "I have understood"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forståelse",
+    "en": "an understanding"
+   },
+   {
+    "da": "at misforstå",
+    "en": "to misunderstand"
+   },
+   {
+    "da": "forståelig",
+    "en": "understandable"
+   },
+   {
+    "da": "at fatte",
+    "en": "to grasp"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **forstå** ham.",
+   "en": "I cannot understand him."
+  }
+ },
+ "at forstærke": {
+  "file": "f.json",
+  "explanation": "\"At forstærke\" means \"to reinforce\", to make something stronger or louder, such as a wall, a feeling or a sound. The device that does it is \"en forstærker\" (an amplifier).",
+  "forms": [
+   {
+    "da": "at forstærke",
+    "en": "to reinforce"
+   },
+   {
+    "da": "jeg forstærker",
+    "en": "I reinforce"
+   },
+   {
+    "da": "jeg forstærkede",
+    "en": "I reinforced"
+   },
+   {
+    "da": "jeg har forstærket",
+    "en": "I have reinforced"
+   }
+  ],
+  "related": [
+   {
+    "da": "at styrke",
+    "en": "to strengthen"
+   },
+   {
+    "da": "at forøge",
+    "en": "to increase"
+   },
+   {
+    "da": "at svække",
+    "en": "to weaken"
+   },
+   {
+    "da": "at understøtte",
+    "en": "to support"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **forstærke** broen, før tunge biler kører over den.",
+   "en": "We must reinforce the bridge before heavy cars drive over it."
+  }
+ },
+ "at forsvare": {
+  "file": "f.json",
+  "explanation": "\"At forsvare\" means \"to defend\", to keep someone or something safe when it is under threat, in a war, in sport or in an argument. Denmark's armed forces are called \"Forsvaret\" (the Defense).",
+  "forms": [
+   {
+    "da": "at forsvare",
+    "en": "to defend"
+   },
+   {
+    "da": "jeg forsvarer",
+    "en": "I defend"
+   },
+   {
+    "da": "jeg forsvarede",
+    "en": "I defended"
+   },
+   {
+    "da": "jeg har forsvaret",
+    "en": "I have defended"
+   }
+  ],
+  "related": [
+   {
+    "da": "et forsvar",
+    "en": "a defense"
+   },
+   {
+    "da": "at beskytte",
+    "en": "to protect"
+   },
+   {
+    "da": "at angribe",
+    "en": "to attack"
+   },
+   {
+    "da": "en forsvarer",
+    "en": "a defense lawyer"
+   }
+  ],
+  "sentence": {
+   "da": "Soldaterne skal **forsvare** grænsen mod fjenden.",
+   "en": "The soldiers must defend the border against the enemy."
+  }
+ },
+ "at forsvinde": {
+  "file": "f.json",
+  "explanation": "\"At forsvinde\" means \"to disappear\" or \"to vanish\": something that was there is suddenly gone: \"Min taske er forsvundet\" (My bag has disappeared).",
+  "forms": [
+   {
+    "da": "at forsvinde",
+    "en": "to disappear"
+   },
+   {
+    "da": "jeg forsvinder",
+    "en": "I disappear"
+   },
+   {
+    "da": "jeg forsvandt",
+    "en": "I disappeared"
+   },
+   {
+    "da": "jeg er forsvundet",
+    "en": "I have disappeared"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dukke op",
+    "en": "to show up"
+   },
+   {
+    "da": "væk",
+    "en": "gone / away"
+   },
+   {
+    "da": "at vise sig",
+    "en": "to appear"
+   }
+  ],
+  "sentence": {
+   "da": "Tyven kan **forsvinde** i mængden.",
+   "en": "The thief can disappear in the crowd."
+  }
+ },
+ "at forsyne": {
+  "file": "f.json",
+  "explanation": "\"At forsyne\" means \"to supply\", to provide someone or something with what is needed. To name the goods you supply, add \"med\" (with): \"at forsyne byen med vand\" (to supply the city with water). At a meal, \"Forsyn dig!\" means \"Help yourself!\"",
+  "forms": [
+   {
+    "da": "at forsyne",
+    "en": "to supply"
+   },
+   {
+    "da": "jeg forsyner",
+    "en": "I supply"
+   },
+   {
+    "da": "jeg forsynede",
+    "en": "I supplied"
+   },
+   {
+    "da": "jeg har forsynet",
+    "en": "I have supplied"
+   }
+  ],
+  "related": [
+   {
+    "da": "at levere",
+    "en": "to deliver"
+   },
+   {
+    "da": "at udstyre",
+    "en": "to equip"
+   },
+   {
+    "da": "at skaffe",
+    "en": "to obtain"
+   },
+   {
+    "da": "at tilføre",
+    "en": "to add"
+   }
+  ],
+  "sentence": {
+   "da": "Vindmøllerne kan **forsyne** tusind hjem med strøm.",
+   "en": "The wind turbines can supply a thousand homes with electricity."
+  }
+ },
+ "at forsøge": {
+  "file": "f.json",
+  "explanation": "\"At forsøge\" means \"to attempt\" or \"to try\": \"Jeg forsøger at forstå\" (I am trying to understand). Unlike \"at prøve\" (to try), it is not used for trying out or tasting: \"Jeg prøver kagen\" (I try the cake).",
+  "forms": [
+   {
+    "da": "at forsøge",
+    "en": "to attempt"
+   },
+   {
+    "da": "jeg forsøger",
+    "en": "I attempt"
+   },
+   {
+    "da": "jeg forsøgte",
+    "en": "I attempted"
+   },
+   {
+    "da": "jeg har forsøgt",
+    "en": "I have attempted"
+   }
+  ],
+  "related": [
+   {
+    "da": "et forsøg",
+    "en": "an attempt"
+   },
+   {
+    "da": "at lykkes",
+    "en": "to succeed"
+   },
+   {
+    "da": "at mislykkes",
+    "en": "to fail"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **forsøge** at komme i morgen.",
+   "en": "I will try to come tomorrow."
+  }
+ },
+ "at forsømme": {
+  "file": "f.json",
+  "explanation": "\"At forsømme\" means \"to neglect\", to fail to give something the care or time it needs: \"at forsømme sin have\" (to neglect your garden). At school it also means to miss lessons: \"en elev, der forsømmer undervisningen\" (a student who skips class).",
+  "forms": [
+   {
+    "da": "at forsømme",
+    "en": "to neglect"
+   },
+   {
+    "da": "jeg forsømmer",
+    "en": "I neglect"
+   },
+   {
+    "da": "jeg forsømte",
+    "en": "I neglected"
+   },
+   {
+    "da": "jeg har forsømt",
+    "en": "I have neglected"
+   }
+  ],
+  "related": [
+   {
+    "da": "at svigte",
+    "en": "to let down"
+   },
+   {
+    "da": "at negligere",
+    "en": "to ignore"
+   },
+   {
+    "da": "at glemme",
+    "en": "to forget"
+   },
+   {
+    "da": "at passe",
+    "en": "to look after"
+   }
+  ],
+  "sentence": {
+   "da": "Man må ikke **forsømme** sine tænder, hvis man vil beholde dem.",
+   "en": "You must not neglect your teeth if you want to keep them."
+  }
+ },
+ "at forsørge": {
+  "file": "f.json",
+  "explanation": "\"At forsørge\" means \"to support (financially)\": to earn the money that others live on, like children or a family. It is not the word for help or encouragement, which is \"at støtte\" (to support).",
+  "forms": [
+   {
+    "da": "at forsørge",
+    "en": "to support (financially)"
+   },
+   {
+    "da": "jeg forsørger",
+    "en": "I support (financially)"
+   },
+   {
+    "da": "jeg forsørgede",
+    "en": "I supported (financially)"
+   },
+   {
+    "da": "jeg har forsørget",
+    "en": "I have supported (financially)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forsørger",
+    "en": "a provider"
+   },
+   {
+    "da": "en forsørgelse",
+    "en": "financial support"
+   },
+   {
+    "da": "at sørge for",
+    "en": "to provide for"
+   },
+   {
+    "da": "at ernære",
+    "en": "to feed / provide a living for"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skal **forsørge** tre børn og arbejder to steder.",
+   "en": "She has to support three children and works in two places."
+  }
+ },
+ "at fortage sig": {
+  "file": "f.json",
+  "explanation": "\"At fortage sig\" means \"to wear off\": to go away slowly by itself, usually a feeling or a pain: \"Smerten fortager sig langsomt\" (The pain slowly wears off).",
+  "forms": [
+   {
+    "da": "at fortage sig",
+    "en": "to wear off"
+   },
+   {
+    "da": "det fortager sig",
+    "en": "it wears off"
+   },
+   {
+    "da": "det fortog sig",
+    "en": "it wore off"
+   },
+   {
+    "da": "det har fortaget sig",
+    "en": "it has worn off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forsvinde",
+    "en": "to disappear"
+   },
+   {
+    "da": "at aftage",
+    "en": "to subside"
+   },
+   {
+    "da": "at fortone sig",
+    "en": "to fade away"
+   },
+   {
+    "da": "at lægge sig",
+    "en": "to settle down"
+   }
+  ],
+  "sentence": {
+   "da": "Smerten i foden vil **fortage sig** af sig selv.",
+   "en": "The pain in the foot will wear off on its own."
+  }
+ },
+ "at fortie": {
+  "file": "f.json",
+  "explanation": "\"At fortie\" means \"to conceal\": to keep quiet about a fact that others ought to be told, such as a mistake or a risk: \"Han fortiede fejlen\" (He kept the mistake quiet).",
+  "forms": [
+   {
+    "da": "at fortie",
+    "en": "to conceal / keep quiet about"
+   },
+   {
+    "da": "jeg fortier",
+    "en": "I conceal / keep quiet about"
+   },
+   {
+    "da": "jeg fortav",
+    "en": "I concealed / kept quiet about"
+   },
+   {
+    "da": "jeg har fortiet",
+    "en": "I have concealed / kept quiet about"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skjule",
+    "en": "to hide"
+   },
+   {
+    "da": "at tie",
+    "en": "to be silent"
+   },
+   {
+    "da": "at hemmeligholde",
+    "en": "to keep secret"
+   },
+   {
+    "da": "at afsløre",
+    "en": "to reveal"
+   }
+  ],
+  "sentence": {
+   "da": "Sælgeren må ikke **fortie**, at bilen har skader.",
+   "en": "The seller must not conceal that the car has damage."
+  }
+ },
+ "at fortjene": {
+  "file": "f.json",
+  "explanation": "\"At fortjene\" means \"to deserve\": \"Du fortjener en pause\" (You deserve a break). It is built on tjene (to earn), but to say you earn money, use \"tjene\" alone: \"Jeg tjener penge\" (I earn money).",
+  "forms": [
+   {
+    "da": "at fortjene",
+    "en": "to deserve"
+   },
+   {
+    "da": "jeg fortjener",
+    "en": "I deserve"
+   },
+   {
+    "da": "jeg fortjente",
+    "en": "I deserved"
+   },
+   {
+    "da": "jeg har fortjent",
+    "en": "I have deserved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fortjeneste",
+    "en": "a merit / profit"
+   },
+   {
+    "da": "fortjent",
+    "en": "deserved"
+   },
+   {
+    "da": "værdig",
+    "en": "worthy"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har trænet hårdt og kan **fortjene** prisen.",
+   "en": "She has trained hard and may deserve the prize."
+  }
+ },
+ "at fortolke": {
+  "file": "f.json",
+  "explanation": "\"At fortolke\" means \"to interpret\", to work out what a text, a rule, a dream or a signal means. Different people can reach different results: \"Man kan fortolke et digt på mange måder\" (A poem can be read in many ways).",
+  "forms": [
+   {
+    "da": "at fortolke",
+    "en": "to interpret"
+   },
+   {
+    "da": "jeg fortolker",
+    "en": "I interpret"
+   },
+   {
+    "da": "jeg fortolkede",
+    "en": "I interpreted"
+   },
+   {
+    "da": "jeg har fortolket",
+    "en": "I have interpreted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   },
+   {
+    "da": "at oversætte",
+    "en": "to translate"
+   },
+   {
+    "da": "en fortolkning",
+    "en": "an interpretation"
+   },
+   {
+    "da": "at tyde",
+    "en": "to decipher"
+   }
+  ],
+  "sentence": {
+   "da": "Hvert land kan **fortolke** reglerne på sin egen måde.",
+   "en": "Each country can interpret the rules in its own way."
+  }
+ },
+ "at fortryde": {
+  "file": "f.json",
+  "explanation": "\"At fortryde\" means \"to regret\". To name what you regret, add \"at\" (that) and a full sentence: \"Jeg fortryder, at jeg sagde det\" (I regret that I said it).",
+  "forms": [
+   {
+    "da": "at fortryde",
+    "en": "to regret"
+   },
+   {
+    "da": "jeg fortryder",
+    "en": "I regret"
+   },
+   {
+    "da": "jeg fortrød",
+    "en": "I regretted"
+   },
+   {
+    "da": "jeg har fortrudt",
+    "en": "I have regretted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fortrydelse",
+    "en": "a regret"
+   },
+   {
+    "da": "at angre",
+    "en": "to regret"
+   },
+   {
+    "da": "at beklage",
+    "en": "to be sorry about"
+   }
+  ],
+  "sentence": {
+   "da": "Du kommer til at **fortryde** det senere.",
+   "en": "You will regret it later."
+  }
+ },
+ "at fortrænge": {
+  "file": "f.json",
+  "explanation": "\"At fortrænge\" means \"to repress\": to push a painful memory out of your mind so you do not think about it. It also means \"to displace\", when something takes the place of something else: \"Bilen har fortrængt hesten\" (The car has displaced the horse).",
+  "forms": [
+   {
+    "da": "at fortrænge",
+    "en": "to repress / displace"
+   },
+   {
+    "da": "jeg fortrænger",
+    "en": "I repress / displace"
+   },
+   {
+    "da": "jeg fortrængte",
+    "en": "I repressed / displaced"
+   },
+   {
+    "da": "jeg har fortrængt",
+    "en": "I have repressed / displaced"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fortrængning",
+    "en": "a repression"
+   },
+   {
+    "da": "at glemme",
+    "en": "to forget"
+   },
+   {
+    "da": "at erstatte",
+    "en": "to replace"
+   },
+   {
+    "da": "at undertrykke",
+    "en": "to suppress"
+   }
+  ],
+  "sentence": {
+   "da": "Hjernen kan **fortrænge** minder, der gør for ondt.",
+   "en": "The brain can repress memories that hurt too much."
+  }
+ },
+ "at fortsætte": {
+  "file": "f.json",
+  "explanation": "\"At fortsætte\" means \"to continue\". To name the activity you keep doing, add \"med at\" (with ...ing) before the verb: \"Fortsæt med at læse!\" (Keep reading!)",
+  "forms": [
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   },
+   {
+    "da": "jeg fortsætter",
+    "en": "I continue"
+   },
+   {
+    "da": "jeg fortsatte",
+    "en": "I continued"
+   },
+   {
+    "da": "jeg har fortsat",
+    "en": "I have continued"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   },
+   {
+    "da": "at afslutte",
+    "en": "to finish"
+   },
+   {
+    "da": "at blive ved",
+    "en": "to keep on"
+   },
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   }
+  ],
+  "sentence": {
+   "da": "Efter pausen kan vi **fortsætte** timen.",
+   "en": "After the break, we can continue the class."
+  }
+ },
+ "at fortsætte med": {
+  "file": "f.json",
+  "explanation": "\"At fortsætte med\" means \"to continue with\" something you are already doing: \"Jeg fortsætter med arbejdet\" (I continue with the work). To just keep going, say \"Fortsæt!\" (Keep going!)",
+  "forms": [
+   {
+    "da": "at fortsætte med",
+    "en": "to continue with"
+   },
+   {
+    "da": "jeg fortsætter med",
+    "en": "I continue with"
+   },
+   {
+    "da": "jeg fortsatte med",
+    "en": "I continued with"
+   },
+   {
+    "da": "jeg har fortsat med",
+    "en": "I have continued with"
+   }
+  ],
+  "related": [
+   {
+    "da": "at holde op med",
+    "en": "to stop doing"
+   },
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   },
+   {
+    "da": "at genoptage",
+    "en": "to resume"
+   },
+   {
+    "da": "en fortsættelse",
+    "en": "a continuation"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **fortsætte med** øvelsen efter pausen.",
+   "en": "We can continue with the exercise after the break."
+  }
+ },
+ "at fortælle": {
+  "file": "f.json",
+  "explanation": "\"At fortælle\" means \"to tell\", especially to tell a story or give someone information. For simply speaking a few words aloud, use \"at sige\" (to say): \"Han siger hej\" (He says hello). To name the person you tell and the story, put the person first: \"Jeg fortæller dig en historie\" (I am telling you a story).",
+  "forms": [
+   {
+    "da": "at fortælle",
+    "en": "to tell"
+   },
+   {
+    "da": "jeg fortæller",
+    "en": "I tell"
+   },
+   {
+    "da": "jeg fortalte",
+    "en": "I told"
+   },
+   {
+    "da": "jeg har fortalt",
+    "en": "I have told"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fortælling",
+    "en": "a story, a tale"
+   },
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   },
+   {
+    "da": "at berette",
+    "en": "to report, to recount"
+   }
+  ],
+  "sentence": {
+   "da": "Min mormor vil **fortælle** en historie til børnene.",
+   "en": "My grandmother will tell the children a story."
+  }
+ }
+}

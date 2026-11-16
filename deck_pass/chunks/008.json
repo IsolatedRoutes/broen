@@ -1,0 +1,4206 @@
+{
+ "en bille": {
+  "file": "b.json",
+  "explanation": "\"En bille\" means \"a beetle\", an animal with six legs and a hard shell that covers its wings. A ladybug (\"en mariehøne\") is a beetle too.",
+  "forms": [
+   {
+    "da": "en bille",
+    "en": "a beetle"
+   },
+   {
+    "da": "billen",
+    "en": "the beetle"
+   },
+   {
+    "da": "biller",
+    "en": "beetles"
+   },
+   {
+    "da": "billerne",
+    "en": "the beetles"
+   }
+  ],
+  "related": [
+   {
+    "da": "et insekt",
+    "en": "an insect"
+   },
+   {
+    "da": "en oldenborre",
+    "en": "a cockchafer"
+   },
+   {
+    "da": "en skarnbasse",
+    "en": "a dung beetle"
+   },
+   {
+    "da": "en løbebille",
+    "en": "a ground beetle"
+   }
+  ],
+  "sentence": {
+   "da": "En **bille** har et hårdt skjold på ryggen.",
+   "en": "A beetle has a hard shield on its back."
+  }
+ },
+ "en billedhugger": {
+  "file": "b.json",
+  "explanation": "\"En billedhugger\" means \"a sculptor\", a person who carves or shapes figures out of stone, wood or clay. It is built from et billede (a picture) and at hugge (to chop), so it is literally someone who chops out an image.",
+  "forms": [
+   {
+    "da": "en billedhugger",
+    "en": "a sculptor"
+   },
+   {
+    "da": "billedhuggeren",
+    "en": "the sculptor"
+   },
+   {
+    "da": "billedhuggere",
+    "en": "sculptors"
+   },
+   {
+    "da": "billedhuggerne",
+    "en": "the sculptors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skulptur",
+    "en": "a sculpture"
+   },
+   {
+    "da": "en statue",
+    "en": "a statue"
+   },
+   {
+    "da": "en maler",
+    "en": "a painter"
+   },
+   {
+    "da": "en kunstner",
+    "en": "an artist"
+   }
+  ],
+  "sentence": {
+   "da": "En **billedhugger** laver figurer af sten og ler.",
+   "en": "A sculptor makes figures out of stone and clay."
+  }
+ },
+ "en billet": {
+  "file": "b.json",
+  "explanation": "\"En billet\" means \"a ticket\" for a train, bus, film or concert. You say \"at købe en billet\" (to buy a ticket).",
+  "forms": [
+   {
+    "da": "en billet",
+    "en": "a ticket"
+   },
+   {
+    "da": "billetten",
+    "en": "the ticket"
+   },
+   {
+    "da": "billetter",
+    "en": "tickets"
+   },
+   {
+    "da": "billetterne",
+    "en": "the tickets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en flybillet",
+    "en": "a plane ticket"
+   },
+   {
+    "da": "en togbillet",
+    "en": "a train ticket"
+   },
+   {
+    "da": "en returbillet",
+    "en": "a round-trip ticket"
+   },
+   {
+    "da": "en enkeltbillet",
+    "en": "a one-way ticket"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har købt en **billet** til toget.",
+   "en": "I have bought a ticket for the train."
+  }
+ },
+ "en billetautomat": {
+  "file": "b.json",
+  "explanation": "\"En billetautomat\" means \"a ticket machine\", the machine at a station where you buy a ticket yourself. It is built from billet (ticket) and automat (machine).",
+  "forms": [
+   {
+    "da": "en billetautomat",
+    "en": "a ticket machine"
+   },
+   {
+    "da": "billetautomaten",
+    "en": "the ticket machine"
+   },
+   {
+    "da": "billetautomater",
+    "en": "ticket machines"
+   },
+   {
+    "da": "billetautomaterne",
+    "en": "the ticket machines"
+   }
+  ],
+  "related": [
+   {
+    "da": "en billetluge",
+    "en": "a ticket counter"
+   },
+   {
+    "da": "en billetkontrollør",
+    "en": "a ticket inspector"
+   },
+   {
+    "da": "en billetpris",
+    "en": "a ticket price"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan købe en billet ved en **billetautomat**.",
+   "en": "You can buy a ticket at a ticket machine."
+  }
+ },
+ "en billetkontrollør": {
+  "file": "b.json",
+  "explanation": "\"En billetkontrollør\" means \"a ticket inspector\", a person who checks tickets on trains and buses. It is built from billet (ticket) and kontrollør (inspector).",
+  "forms": [
+   {
+    "da": "en billetkontrollør",
+    "en": "a ticket inspector"
+   },
+   {
+    "da": "billetkontrolløren",
+    "en": "the ticket inspector"
+   },
+   {
+    "da": "billetkontrollører",
+    "en": "ticket inspectors"
+   },
+   {
+    "da": "billetkontrollørerne",
+    "en": "the ticket inspectors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kontrol",
+    "en": "a check"
+   },
+   {
+    "da": "en kontrolafgift",
+    "en": "a penalty fare"
+   },
+   {
+    "da": "en togfører",
+    "en": "a train conductor"
+   },
+   {
+    "da": "en chauffør",
+    "en": "a driver"
+   }
+  ],
+  "sentence": {
+   "da": "En **billetkontrollør** tjekker billetterne i toget.",
+   "en": "A ticket inspector checks the tickets on the train."
+  }
+ },
+ "en bilnøgle": {
+  "file": "b.json",
+  "explanation": "\"En bilnøgle\" means \"a car key\", the key that starts your car.",
+  "forms": [
+   {
+    "da": "en bilnøgle",
+    "en": "a car key"
+   },
+   {
+    "da": "bilnøglen",
+    "en": "the car key"
+   },
+   {
+    "da": "bilnøgler",
+    "en": "car keys"
+   },
+   {
+    "da": "bilnøglerne",
+    "en": "the car keys"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nøgle",
+    "en": "a key"
+   },
+   {
+    "da": "en nøglering",
+    "en": "a key ring"
+   },
+   {
+    "da": "en lås",
+    "en": "a lock"
+   },
+   {
+    "da": "en reservenøgle",
+    "en": "a spare key"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke køre, fordi jeg har mistet min **bilnøgle**.",
+   "en": "I can't drive because I lost my car key."
+  }
+ },
+ "en bilulykke": {
+  "file": "b.json",
+  "explanation": "\"En bilulykke\" means \"a car accident\". It is built from bil (car) and ulykke (accident).",
+  "forms": [
+   {
+    "da": "en bilulykke",
+    "en": "a car accident"
+   },
+   {
+    "da": "bilulykken",
+    "en": "the car accident"
+   },
+   {
+    "da": "bilulykker",
+    "en": "car accidents"
+   },
+   {
+    "da": "bilulykkerne",
+    "en": "the car accidents"
+   }
+  ],
+  "related": [
+   {
+    "da": "et uheld",
+    "en": "a mishap"
+   },
+   {
+    "da": "en kollision",
+    "en": "a collision"
+   },
+   {
+    "da": "en færdselsulykke",
+    "en": "a traffic accident"
+   }
+  ],
+  "sentence": {
+   "da": "Der var en **bilulykke** på motorvejen i morges.",
+   "en": "There was a car accident on the highway this morning."
+  }
+ },
+ "en bilvask": {
+  "file": "b.json",
+  "explanation": "\"En bilvask\" means \"a car wash\", a place with machines that clean your car.",
+  "forms": [
+   {
+    "da": "en bilvask",
+    "en": "a car wash"
+   },
+   {
+    "da": "bilvasken",
+    "en": "the car wash"
+   },
+   {
+    "da": "bilvaske",
+    "en": "car washes"
+   },
+   {
+    "da": "bilvaskene",
+    "en": "the car washes"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vaske",
+    "en": "to wash"
+   },
+   {
+    "da": "en bil",
+    "en": "a car"
+   },
+   {
+    "da": "en tankstation",
+    "en": "a gas station"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen er meget beskidt, og vi skal finde en **bilvask**.",
+   "en": "The car is very dirty, and we have to find a car wash."
+  }
+ },
+ "en bindestreg": {
+  "file": "b.json",
+  "explanation": "\"En bindestreg\" means \"a hyphen\", the short line used to join words or word parts, for example in \"sort-hvid\" (black-and-white). The longer line is \"en tankestreg\" (a dash), which marks a pause in a sentence.",
+  "forms": [
+   {
+    "da": "en bindestreg",
+    "en": "a hyphen"
+   },
+   {
+    "da": "bindestregen",
+    "en": "the hyphen"
+   },
+   {
+    "da": "bindestreger",
+    "en": "hyphens"
+   },
+   {
+    "da": "bindestregerne",
+    "en": "the hyphens"
+   }
+  ],
+  "related": [
+   {
+    "da": "et komma",
+    "en": "a comma"
+   },
+   {
+    "da": "et punktum",
+    "en": "a period"
+   },
+   {
+    "da": "et kolon",
+    "en": "a colon"
+   },
+   {
+    "da": "et tegn",
+    "en": "a sign / symbol"
+   }
+  ],
+  "sentence": {
+   "da": "Man skriver en **bindestreg** i ordet S-tog.",
+   "en": "You write a hyphen in the word S-tog."
+  }
+ },
+ "en biograf": {
+  "file": "b.json",
+  "explanation": "\"En biograf\" means \"a movie theater\", the place where you watch films. You say \"at gå i biografen\" (to go to the movies). Danes often shorten it to \"bio\", as in \"gå i bio\" (go to the movies).",
+  "forms": [
+   {
+    "da": "en biograf",
+    "en": "a movie theater"
+   },
+   {
+    "da": "biografen",
+    "en": "the movie theater"
+   },
+   {
+    "da": "biografer",
+    "en": "movie theaters"
+   },
+   {
+    "da": "biograferne",
+    "en": "the movie theaters"
+   }
+  ],
+  "related": [
+   {
+    "da": "en film",
+    "en": "a movie"
+   },
+   {
+    "da": "et teater",
+    "en": "a theater"
+   },
+   {
+    "da": "en biografbillet",
+    "en": "a movie ticket"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ser en film i en stor **biograf**.",
+   "en": "We watch a movie in a big movie theater."
+  }
+ },
+ "en biografi": {
+  "file": "b.json",
+  "explanation": "\"En biografi\" means \"a biography\", a book or movie that tells the story of a real person's life. When people write about their own life, it is \"en selvbiografi\" (an autobiography).",
+  "forms": [
+   {
+    "da": "en biografi",
+    "en": "a biography"
+   },
+   {
+    "da": "biografien",
+    "en": "the biography"
+   },
+   {
+    "da": "biografier",
+    "en": "biographies"
+   },
+   {
+    "da": "biografierne",
+    "en": "the biographies"
+   }
+  ],
+  "related": [
+   {
+    "da": "erindringer",
+    "en": "memoirs"
+   },
+   {
+    "da": "en roman",
+    "en": "a novel"
+   },
+   {
+    "da": "en dokumentar",
+    "en": "a documentary"
+   },
+   {
+    "da": "en dagbog",
+    "en": "a diary"
+   }
+  ],
+  "sentence": {
+   "da": "En **biografi** om Niels Bohr fortæller om hans liv.",
+   "en": "A biography of Niels Bohr tells about his life."
+  }
+ },
+ "en biolog": {
+  "file": "b.json",
+  "explanation": "\"En biolog\" means \"a biologist\", a scientist who studies living things such as plants, animals and cells. The ending \"-log\" is on many Danish names for experts: \"en psykolog\" (a psychologist), \"en geolog\" (a geologist).",
+  "forms": [
+   {
+    "da": "en biolog",
+    "en": "a biologist"
+   },
+   {
+    "da": "biologen",
+    "en": "the biologist"
+   },
+   {
+    "da": "biologer",
+    "en": "biologists"
+   },
+   {
+    "da": "biologerne",
+    "en": "the biologists"
+   }
+  ],
+  "related": [
+   {
+    "da": "en zoolog",
+    "en": "a zoologist"
+   },
+   {
+    "da": "en botaniker",
+    "en": "a botanist"
+   },
+   {
+    "da": "en forsker",
+    "en": "a researcher"
+   },
+   {
+    "da": "biologi",
+    "en": "biology"
+   }
+  ],
+  "sentence": {
+   "da": "En **biolog** undersøger, hvordan dyr og planter lever sammen.",
+   "en": "A biologist studies how animals and plants live together."
+  }
+ },
+ "en birk": {
+  "file": "b.json",
+  "explanation": "\"En birk\" means \"a birch\", a tree with thin, light-green leaves that grows in Danish forests and parks. The wood is pale and is used for furniture and firewood.",
+  "forms": [
+   {
+    "da": "en birk",
+    "en": "a birch"
+   },
+   {
+    "da": "birken",
+    "en": "the birch"
+   },
+   {
+    "da": "birke",
+    "en": "birches"
+   },
+   {
+    "da": "birkene",
+    "en": "the birches"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bøg",
+    "en": "a beech"
+   },
+   {
+    "da": "en eg",
+    "en": "an oak"
+   },
+   {
+    "da": "en gran",
+    "en": "a spruce"
+   },
+   {
+    "da": "en ask",
+    "en": "an ash"
+   }
+  ],
+  "sentence": {
+   "da": "Stammen på en **birk** er hvid med sorte pletter.",
+   "en": "The trunk of a birch is white with black spots."
+  }
+ },
+ "en bivirkning": {
+  "file": "b.json",
+  "explanation": "\"En bivirkning\" means \"a side effect\", an unwanted effect that comes along with a treatment, such as a pill, besides what it is meant to do. The prefix \"bi-\" means \"secondary\", as in \"et bijob\" (a side job).",
+  "forms": [
+   {
+    "da": "en bivirkning",
+    "en": "a side effect"
+   },
+   {
+    "da": "bivirkningen",
+    "en": "the side effect"
+   },
+   {
+    "da": "bivirkninger",
+    "en": "side effects"
+   },
+   {
+    "da": "bivirkningerne",
+    "en": "the side effects"
+   }
+  ],
+  "related": [
+   {
+    "da": "en virkning",
+    "en": "an effect"
+   },
+   {
+    "da": "en følgevirkning",
+    "en": "an aftereffect"
+   },
+   {
+    "da": "en pakkeseddel",
+    "en": "a package leaflet"
+   }
+  ],
+  "sentence": {
+   "da": "Træthed er en almindelig **bivirkning** af den slags medicin.",
+   "en": "Tiredness is a common side effect of that kind of medicine."
+  }
+ },
+ "en bjergbestigning": {
+  "file": "b.json",
+  "explanation": "\"En bjergbestigning\" means \"a mountain climb\", the trip up a mountain on foot. It is built from bjerg (mountain) and bestigning (climbing up).",
+  "forms": [
+   {
+    "da": "en bjergbestigning",
+    "en": "a mountain climb"
+   },
+   {
+    "da": "bjergbestigningen",
+    "en": "the mountain climb"
+   },
+   {
+    "da": "bjergbestigninger",
+    "en": "mountain climbs"
+   },
+   {
+    "da": "bjergbestigningerne",
+    "en": "the mountain climbs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vandretur",
+    "en": "a hike"
+   },
+   {
+    "da": "en bjergtop",
+    "en": "a mountain top"
+   },
+   {
+    "da": "en klatrer",
+    "en": "a climber"
+   },
+   {
+    "da": "en klatrevæg",
+    "en": "a climbing wall"
+   }
+  ],
+  "sentence": {
+   "da": "Efter en lang **bjergbestigning** stod vi på toppen.",
+   "en": "After a long mountain climb we stood on top."
+  }
+ },
+ "en bjørn": {
+  "file": "b.json",
+  "explanation": "\"En bjørn\" means \"a bear\". A polar bear is \"en isbjørn\", built from is (ice) and bjørn.",
+  "forms": [
+   {
+    "da": "en bjørn",
+    "en": "a bear"
+   },
+   {
+    "da": "bjørnen",
+    "en": "the bear"
+   },
+   {
+    "da": "bjørne",
+    "en": "bears"
+   },
+   {
+    "da": "bjørnene",
+    "en": "the bears"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ulv",
+    "en": "a wolf"
+   },
+   {
+    "da": "en panda",
+    "en": "a panda"
+   },
+   {
+    "da": "en bamse",
+    "en": "a teddy bear"
+   },
+   {
+    "da": "en bjørneunge",
+    "en": "a bear cub"
+   }
+  ],
+  "sentence": {
+   "da": "En **bjørn** er stor og kan løbe hurtigt.",
+   "en": "A bear is big and can run fast."
+  }
+ },
+ "en blanding": {
+  "file": "b.json",
+  "explanation": "\"En blanding\" means \"a mixture\", two or more things put together.",
+  "forms": [
+   {
+    "da": "en blanding",
+    "en": "a mixture"
+   },
+   {
+    "da": "blandingen",
+    "en": "the mixture"
+   },
+   {
+    "da": "blandinger",
+    "en": "mixtures"
+   },
+   {
+    "da": "blandingerne",
+    "en": "the mixtures"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blande",
+    "en": "to mix"
+   },
+   {
+    "da": "blandet",
+    "en": "mixed"
+   },
+   {
+    "da": "en kombination",
+    "en": "a combination"
+   }
+  ],
+  "sentence": {
+   "da": "Dejen er en **blanding** af mel og vand.",
+   "en": "The dough is a mixture of flour and water."
+  }
+ },
+ "en blanket": {
+  "file": "b.json",
+  "explanation": "\"En blanket\" means \"a form\" that you fill in, for example at the doctor's or the bank. To fill one in you say \"at udfylde en blanket\" (to fill in a form).",
+  "forms": [
+   {
+    "da": "en blanket",
+    "en": "a form"
+   },
+   {
+    "da": "blanketten",
+    "en": "the form"
+   },
+   {
+    "da": "blanketter",
+    "en": "forms"
+   },
+   {
+    "da": "blanketterne",
+    "en": "the forms"
+   }
+  ],
+  "related": [
+   {
+    "da": "et skema",
+    "en": "a schedule / table"
+   },
+   {
+    "da": "en formular",
+    "en": "an official form"
+   },
+   {
+    "da": "en ansøgning",
+    "en": "an application"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal udfylde denne **blanket**.",
+   "en": "You have to fill in this form."
+  }
+ },
+ "en ble": {
+  "file": "b.json",
+  "explanation": "\"En ble\" means \"a diaper\", the soft pad a baby wears under its clothes. To change a diaper, say \"at skifte en ble\" (to change a diaper).",
+  "forms": [
+   {
+    "da": "en ble",
+    "en": "a diaper"
+   },
+   {
+    "da": "bleen",
+    "en": "the diaper"
+   },
+   {
+    "da": "bleer",
+    "en": "diapers"
+   },
+   {
+    "da": "bleerne",
+    "en": "the diapers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et puslebord",
+    "en": "a changing table"
+   },
+   {
+    "da": "en sut",
+    "en": "a pacifier"
+   },
+   {
+    "da": "en sutteflaske",
+    "en": "a baby bottle"
+   }
+  ],
+  "sentence": {
+   "da": "Babyen har en våd **ble**.",
+   "en": "The baby has a wet diaper."
+  }
+ },
+ "en blender": {
+  "file": "b.json",
+  "explanation": "\"En blender\" means \"a blender\", the machine for smoothies and soups.",
+  "forms": [
+   {
+    "da": "en blender",
+    "en": "a blender"
+   },
+   {
+    "da": "blenderen",
+    "en": "the blender"
+   },
+   {
+    "da": "blendere",
+    "en": "blenders"
+   },
+   {
+    "da": "blenderne",
+    "en": "the blenders"
+   }
+  ],
+  "related": [
+   {
+    "da": "en stavblender",
+    "en": "a hand blender"
+   },
+   {
+    "da": "en røremaskine",
+    "en": "a stand mixer"
+   },
+   {
+    "da": "en foodprocessor",
+    "en": "a food processor"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg laver en smoothie i min **blender**.",
+   "en": "I make a smoothie in my blender."
+  }
+ },
+ "en blikkenslager": {
+  "file": "b.json",
+  "explanation": "\"En blikkenslager\" means \"a plumber\", a tradesperson who also works with sheet metal. The name comes from \"blik\" (tin plate), and the job covers gutters, roof edges and water pipes.",
+  "forms": [
+   {
+    "da": "en blikkenslager",
+    "en": "a plumber"
+   },
+   {
+    "da": "blikkenslageren",
+    "en": "the plumber"
+   },
+   {
+    "da": "blikkenslagere",
+    "en": "plumbers"
+   },
+   {
+    "da": "blikkenslagerne",
+    "en": "the plumbers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en VVS'er",
+    "en": "a plumbing and heating installer"
+   },
+   {
+    "da": "en tømrer",
+    "en": "a carpenter"
+   },
+   {
+    "da": "en elektriker",
+    "en": "an electrician"
+   },
+   {
+    "da": "en murer",
+    "en": "a bricklayer"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ringer efter en **blikkenslager**, fordi hanen drypper.",
+   "en": "We call a plumber because the tap is dripping."
+  }
+ },
+ "en blodprop": {
+  "file": "b.json",
+  "explanation": "\"En blodprop\" means \"a blood clot\", a lump of blood that blocks a tube in the body. In the brain, \"en blodprop i hjernen\" means a stroke; in the heart, \"en blodprop i hjertet\" means a heart attack.",
+  "forms": [
+   {
+    "da": "en blodprop",
+    "en": "a blood clot"
+   },
+   {
+    "da": "blodproppen",
+    "en": "the blood clot"
+   },
+   {
+    "da": "blodpropper",
+    "en": "blood clots"
+   },
+   {
+    "da": "blodpropperne",
+    "en": "the blood clots"
+   }
+  ],
+  "related": [
+   {
+    "da": "en blodåre",
+    "en": "a blood vessel"
+   },
+   {
+    "da": "en blødning",
+    "en": "a bleeding"
+   },
+   {
+    "da": "en puls",
+    "en": "a pulse"
+   },
+   {
+    "da": "en åreforkalkning",
+    "en": "hardening of the arteries"
+   }
+  ],
+  "sentence": {
+   "da": "En **blodprop** kan stoppe blodet i en åre.",
+   "en": "A blood clot can stop the blood in a blood vessel."
+  }
+ },
+ "en blodprøve": {
+  "file": "b.json",
+  "explanation": "\"En blodprøve\" means \"a blood test\", a small sample of blood that is checked. It is built from blod (blood) and prøve (sample, test). You say \"at tage en blodprøve\" (to take a blood sample).",
+  "forms": [
+   {
+    "da": "en blodprøve",
+    "en": "a blood test"
+   },
+   {
+    "da": "blodprøven",
+    "en": "the blood test"
+   },
+   {
+    "da": "blodprøver",
+    "en": "blood tests"
+   },
+   {
+    "da": "blodprøverne",
+    "en": "the blood tests"
+   }
+  ],
+  "related": [
+   {
+    "da": "en urinprøve",
+    "en": "a urine sample"
+   },
+   {
+    "da": "et blodtryk",
+    "en": "blood pressure"
+   },
+   {
+    "da": "en blodtype",
+    "en": "a blood type"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen vil tage en **blodprøve**.",
+   "en": "The doctor wants to take a blood sample."
+  }
+ },
+ "en blodåre": {
+  "file": "b.json",
+  "explanation": "\"En blodåre\" means \"a blood vessel\", any tube that carries blood around the body. The two kinds are \"en vene\" (a vein), which carries blood to the heart, and \"en pulsåre\" (an artery), which carries it away from the heart.",
+  "forms": [
+   {
+    "da": "en blodåre",
+    "en": "a blood vessel"
+   },
+   {
+    "da": "blodåren",
+    "en": "the blood vessel"
+   },
+   {
+    "da": "blodårer",
+    "en": "blood vessels"
+   },
+   {
+    "da": "blodårerne",
+    "en": "the blood vessels"
+   }
+  ],
+  "related": [
+   {
+    "da": "en blodprop",
+    "en": "a clot"
+   },
+   {
+    "da": "en puls",
+    "en": "a pulse"
+   },
+   {
+    "da": "en åreforkalkning",
+    "en": "hardening of the arteries"
+   },
+   {
+    "da": "en kapillær",
+    "en": "a capillary"
+   }
+  ],
+  "sentence": {
+   "da": "Når man skærer sig dybt, kan man ramme en **blodåre**.",
+   "en": "When you cut yourself deeply, you can hit a blood vessel."
+  }
+ },
+ "en blog": {
+  "file": "b.json",
+  "explanation": "\"En blog\" means \"a blog\", a website where someone writes posts. The writer is \"en blogger\" (a blogger).",
+  "forms": [
+   {
+    "da": "en blog",
+    "en": "a blog"
+   },
+   {
+    "da": "bloggen",
+    "en": "the blog"
+   },
+   {
+    "da": "blogs",
+    "en": "blogs"
+   },
+   {
+    "da": "bloggene",
+    "en": "the blogs"
+   }
+  ],
+  "related": [
+   {
+    "da": "et opslag",
+    "en": "a post"
+   },
+   {
+    "da": "en hjemmeside",
+    "en": "a website"
+   },
+   {
+    "da": "en dagbog",
+    "en": "a diary"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster skriver en **blog** om sin hund.",
+   "en": "My sister writes a blog about her dog."
+  }
+ },
+ "en blok": {
+  "file": "b.json",
+  "explanation": "\"En blok\" means \"a notepad\" and also \"a block\", a solid piece of something such as ice or wood. For an apartment building, Danes say \"en boligblok\" (an apartment block).",
+  "forms": [
+   {
+    "da": "en blok",
+    "en": "a notepad"
+   },
+   {
+    "da": "blokken",
+    "en": "the notepad"
+   },
+   {
+    "da": "blokke",
+    "en": "notepads"
+   },
+   {
+    "da": "blokkene",
+    "en": "the notepads"
+   }
+  ],
+  "related": [
+   {
+    "da": "en notesbog",
+    "en": "a notebook"
+   },
+   {
+    "da": "en tegneblok",
+    "en": "a sketchpad"
+   },
+   {
+    "da": "en klods",
+    "en": "a chunk"
+   },
+   {
+    "da": "en klump",
+    "en": "a lump"
+   }
+  ],
+  "sentence": {
+   "da": "Man river et ark af en **blok**, når man har skrevet noget.",
+   "en": "You tear a sheet off a notepad when you have written something."
+  }
+ },
+ "en blomme": {
+  "file": "b.json",
+  "explanation": "\"En blomme\" means \"a plum\", a soft sweet fruit with a stone inside. Do not mix it up with \"en blomst\" (a flower): \"Jeg spiser en blomme\" (I eat a plum), but \"Jeg plukker en blomst\" (I pick a flower).",
+  "forms": [
+   {
+    "da": "en blomme",
+    "en": "a plum"
+   },
+   {
+    "da": "blommen",
+    "en": "the plum"
+   },
+   {
+    "da": "blommer",
+    "en": "plums"
+   },
+   {
+    "da": "blommerne",
+    "en": "the plums"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sveske",
+    "en": "a prune"
+   },
+   {
+    "da": "en fersken",
+    "en": "a peach"
+   },
+   {
+    "da": "en abrikos",
+    "en": "an apricot"
+   },
+   {
+    "da": "et kirsebær",
+    "en": "a cherry"
+   }
+  ],
+  "sentence": {
+   "da": "Denne **blomme** er sød og lilla.",
+   "en": "This plum is sweet and purple."
+  }
+ },
+ "en blomst": {
+  "file": "b.json",
+  "explanation": "\"En blomst\" means \"a flower\". It appears in compound words such as \"en blomsterbutik\" (a flower shop) and \"en blomstervase\" (a flower vase).",
+  "forms": [
+   {
+    "da": "en blomst",
+    "en": "a flower"
+   },
+   {
+    "da": "blomsten",
+    "en": "the flower"
+   },
+   {
+    "da": "blomster",
+    "en": "flowers"
+   },
+   {
+    "da": "blomsterne",
+    "en": "the flowers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rose",
+    "en": "a rose"
+   },
+   {
+    "da": "en tulipan",
+    "en": "a tulip"
+   },
+   {
+    "da": "en buket",
+    "en": "a bouquet"
+   }
+  ],
+  "sentence": {
+   "da": "Hun plukker en smuk **blomst** i haven.",
+   "en": "She picks a pretty flower in the garden."
+  }
+ },
+ "en blomsterbuket": {
+  "file": "b.json",
+  "explanation": "\"En blomsterbuket\" means \"a bouquet\", flowers tied together in one bunch. Danes often shorten it to \"en buket\" (a bouquet).",
+  "forms": [
+   {
+    "da": "en blomsterbuket",
+    "en": "a bouquet"
+   },
+   {
+    "da": "blomsterbuketten",
+    "en": "the bouquet"
+   },
+   {
+    "da": "blomsterbuketter",
+    "en": "bouquets"
+   },
+   {
+    "da": "blomsterbuketterne",
+    "en": "the bouquets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vase",
+    "en": "a vase"
+   },
+   {
+    "da": "en krans",
+    "en": "a wreath"
+   },
+   {
+    "da": "et blomsterarrangement",
+    "en": "a flower arrangement"
+   },
+   {
+    "da": "en blomsterhandler",
+    "en": "a florist"
+   }
+  ],
+  "sentence": {
+   "da": "Han kom med en **blomsterbuket** af røde roser til min fødselsdag.",
+   "en": "He came with a bouquet of red roses for my birthday."
+  }
+ },
+ "en blomsterhandler": {
+  "file": "b.json",
+  "explanation": "\"En blomsterhandler\" means \"a florist\", a person who sells flowers and arranges them for gifts and parties. Danes also use it for the shop: \"Jeg går forbi blomsterhandleren\" (I am going past the florist's).",
+  "forms": [
+   {
+    "da": "en blomsterhandler",
+    "en": "a florist"
+   },
+   {
+    "da": "blomsterhandleren",
+    "en": "the florist"
+   },
+   {
+    "da": "blomsterhandlere",
+    "en": "florists"
+   },
+   {
+    "da": "blomsterhandlerne",
+    "en": "the florists"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gartner",
+    "en": "a gardener"
+   },
+   {
+    "da": "et gartneri",
+    "en": "a plant nursery"
+   },
+   {
+    "da": "en krans",
+    "en": "a wreath"
+   },
+   {
+    "da": "en blomsterbuket",
+    "en": "a bouquet"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg købte roser hos en **blomsterhandler** på hjørnet af gaden.",
+   "en": "I bought roses from a florist on the corner of the street."
+  }
+ },
+ "en blondine": {
+  "file": "b.json",
+  "explanation": "\"En blondine\" means \"a blonde\", a woman with pale yellow hair. For a man or any person, use the word \"blond\": \"en blond mand\" (a blond man).",
+  "forms": [
+   {
+    "da": "en blondine",
+    "en": "a blonde"
+   },
+   {
+    "da": "blondinen",
+    "en": "the blonde"
+   },
+   {
+    "da": "blondiner",
+    "en": "blondes"
+   },
+   {
+    "da": "blondinerne",
+    "en": "the blondes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en brunette",
+    "en": "a brunette"
+   },
+   {
+    "da": "en rødhåret",
+    "en": "a redhead"
+   },
+   {
+    "da": "lyshåret",
+    "en": "fair-haired"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster er en **blondine**, og jeg har mørkt hår.",
+   "en": "My sister is a blonde, and I have dark hair."
+  }
+ },
+ "en bluse": {
+  "file": "b.json",
+  "explanation": "\"En bluse\" means \"a blouse\", a light top for a woman or girl.",
+  "forms": [
+   {
+    "da": "en bluse",
+    "en": "a blouse"
+   },
+   {
+    "da": "blusen",
+    "en": "the blouse"
+   },
+   {
+    "da": "bluser",
+    "en": "blouses"
+   },
+   {
+    "da": "blusene",
+    "en": "the blouses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kjole",
+    "en": "a dress"
+   },
+   {
+    "da": "en nederdel",
+    "en": "a skirt"
+   },
+   {
+    "da": "en trøje",
+    "en": "a sweater"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en rød **bluse** på.",
+   "en": "She is wearing a red blouse."
+  }
+ },
+ "en blyant": {
+  "file": "b.json",
+  "explanation": "\"En blyant\" means \"a pencil\", a wooden writing tool with a gray core. Its marks can be erased. To sharpen one, say \"at spidse en blyant\" (to sharpen a pencil).",
+  "forms": [
+   {
+    "da": "en blyant",
+    "en": "a pencil"
+   },
+   {
+    "da": "blyanten",
+    "en": "the pencil"
+   },
+   {
+    "da": "blyanter",
+    "en": "pencils"
+   },
+   {
+    "da": "blyanterne",
+    "en": "the pencils"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kuglepen",
+    "en": "a ballpoint pen"
+   },
+   {
+    "da": "en blyantspidser",
+    "en": "a pencil sharpener"
+   },
+   {
+    "da": "et viskelæder",
+    "en": "an eraser"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skriver med en **blyant**.",
+   "en": "I write with a pencil."
+  }
+ },
+ "en blæksprutte": {
+  "file": "b.json",
+  "explanation": "\"En blæksprutte\" means \"an octopus\" and also \"a squid\", a sea animal that squirts dark ink. An octopus is \"en ottearmet blæksprutte\" (an eight-armed one) and a squid is \"en tiarmet blæksprutte\" (a ten-armed one).",
+  "forms": [
+   {
+    "da": "en blæksprutte",
+    "en": "an octopus / squid"
+   },
+   {
+    "da": "blæksprutten",
+    "en": "the octopus / squid"
+   },
+   {
+    "da": "blæksprutter",
+    "en": "octopuses / squids"
+   },
+   {
+    "da": "blækspruttene",
+    "en": "the octopuses / squids"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tintefisk",
+    "en": "a cuttlefish"
+   },
+   {
+    "da": "en tentakel",
+    "en": "a tentacle"
+   },
+   {
+    "da": "en sugekop",
+    "en": "a sucker"
+   }
+  ],
+  "sentence": {
+   "da": "En **blæksprutte** sprøjter blæk ud i vandet, når den er bange.",
+   "en": "An octopus squirts ink into the water when it is scared."
+  }
+ },
+ "en blære": {
+  "file": "b.json",
+  "explanation": "\"En blære\" means \"a bladder\", the body part that holds urine, and also \"a blister\" on the skin, for example after a burn: \"en brandblære\" (a burn blister). For a blister from a shoe, use \"et vabel\" (a friction blister).",
+  "forms": [
+   {
+    "da": "en blære",
+    "en": "a bladder"
+   },
+   {
+    "da": "blæren",
+    "en": "the bladder"
+   },
+   {
+    "da": "blærer",
+    "en": "bladders"
+   },
+   {
+    "da": "blærerne",
+    "en": "the bladders"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blære sig",
+    "en": "to show off"
+   },
+   {
+    "da": "en boble",
+    "en": "a bubble"
+   },
+   {
+    "da": "en blærebetændelse",
+    "en": "a bladder infection"
+   },
+   {
+    "da": "et brandsår",
+    "en": "a burn wound"
+   }
+  ],
+  "sentence": {
+   "da": "Nyrerne laver urin, som samles i en **blære**.",
+   "en": "The kidneys make urine, which collects in a bladder."
+  }
+ },
+ "en blødning": {
+  "file": "b.json",
+  "explanation": "\"En blødning\" means \"a bleeding\", blood that leaves the blood vessels, from a cut or inside the body. One you cannot see is \"en indre blødning\" (internal bleeding).",
+  "forms": [
+   {
+    "da": "en blødning",
+    "en": "a bleeding"
+   },
+   {
+    "da": "blødningen",
+    "en": "the bleeding"
+   },
+   {
+    "da": "blødninger",
+    "en": "bleedings"
+   },
+   {
+    "da": "blødningerne",
+    "en": "the bleedings"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bløde",
+    "en": "to bleed"
+   },
+   {
+    "da": "en hjerneblødning",
+    "en": "a brain hemorrhage"
+   },
+   {
+    "da": "en næseblødning",
+    "en": "a nosebleed"
+   }
+  ],
+  "sentence": {
+   "da": "Tryk på såret, hvis du vil stoppe en **blødning**.",
+   "en": "Press on the wound if you want to stop bleeding."
+  }
+ },
+ "en bodega": {
+  "file": "b.json",
+  "explanation": "\"En bodega\" means \"a local bar\", a small, simple neighborhood bar, not a fancy place.",
+  "forms": [
+   {
+    "da": "en bodega",
+    "en": "a local bar"
+   },
+   {
+    "da": "bodegaen",
+    "en": "the local bar"
+   },
+   {
+    "da": "bodegaer",
+    "en": "local bars"
+   },
+   {
+    "da": "bodegaerne",
+    "en": "the local bars"
+   }
+  ],
+  "related": [
+   {
+    "da": "et værtshus",
+    "en": "a pub"
+   },
+   {
+    "da": "en pub",
+    "en": "an English-style pub"
+   },
+   {
+    "da": "en kro",
+    "en": "an inn"
+   },
+   {
+    "da": "en stamgæst",
+    "en": "a regular customer"
+   }
+  ],
+  "sentence": {
+   "da": "På vores lokale **bodega** kender alle hinanden og drikker billig øl.",
+   "en": "At our local bodega everyone knows each other and drinks cheap beer."
+  }
+ },
+ "en bodylotion": {
+  "file": "b.json",
+  "explanation": "\"En bodylotion\" means \"a body lotion\", a light cream for your whole body after a shower. To put it on, say \"Jeg smører mig ind\" (I rub lotion on myself).",
+  "forms": [
+   {
+    "da": "en bodylotion",
+    "en": "a body lotion"
+   },
+   {
+    "da": "bodylotionen",
+    "en": "the body lotion"
+   },
+   {
+    "da": "bodylotioner",
+    "en": "body lotions"
+   },
+   {
+    "da": "bodylotionerne",
+    "en": "the body lotions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en håndcreme",
+    "en": "a hand cream"
+   },
+   {
+    "da": "en hudcreme",
+    "en": "a skin cream"
+   },
+   {
+    "da": "en hud",
+    "en": "skin"
+   },
+   {
+    "da": "solcreme",
+    "en": "sunscreen"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bruger **bodylotion** efter badet, fordi min hud er tør.",
+   "en": "I use body lotion after the bath because my skin is dry."
+  }
+ },
+ "en bog": {
+  "file": "b.json",
+  "explanation": "\"En bog\" means \"a book\", something you read, from a novel to a school book.",
+  "forms": [
+   {
+    "da": "en bog",
+    "en": "a book"
+   },
+   {
+    "da": "bogen",
+    "en": "the book"
+   },
+   {
+    "da": "bøger",
+    "en": "books"
+   },
+   {
+    "da": "bøgerne",
+    "en": "the books"
+   }
+  ],
+  "related": [
+   {
+    "da": "en boghandel",
+    "en": "a bookstore"
+   },
+   {
+    "da": "en bogreol",
+    "en": "a bookshelf"
+   },
+   {
+    "da": "et bibliotek",
+    "en": "a library"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan låne en **bog** på biblioteket.",
+   "en": "You can borrow a book at the library."
+  }
+ },
+ "en boghandel": {
+  "file": "b.json",
+  "explanation": "\"En boghandel\" means \"a bookstore\", a shop that sells books. To borrow books for free, go to \"et bibliotek\" (a library): \"Jeg låner bogen på biblioteket\" (I borrow the book at the library).",
+  "forms": [
+   {
+    "da": "en boghandel",
+    "en": "a bookstore"
+   },
+   {
+    "da": "boghandelen",
+    "en": "the bookstore"
+   },
+   {
+    "da": "boghandler",
+    "en": "bookstores"
+   },
+   {
+    "da": "boghandlerne",
+    "en": "the bookstores"
+   }
+  ],
+  "related": [
+   {
+    "da": "en boghandler",
+    "en": "a bookseller"
+   },
+   {
+    "da": "et antikvariat",
+    "en": "a used bookstore"
+   },
+   {
+    "da": "en papirhandel",
+    "en": "a stationery store"
+   },
+   {
+    "da": "en butik",
+    "en": "a store"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg køber en roman i en **boghandel** i byen.",
+   "en": "I buy a novel in a bookstore in town."
+  }
+ },
+ "en boghandler": {
+  "file": "b.json",
+  "explanation": "\"En boghandler\" means \"a bookseller\", the person who sells books, and in everyday speech also the shop itself: \"Jeg går forbi boghandleren\" (I am going past the bookstore). The shop is also called \"en boghandel\" (a bookstore).",
+  "forms": [
+   {
+    "da": "en boghandler",
+    "en": "a bookseller"
+   },
+   {
+    "da": "boghandleren",
+    "en": "the bookseller"
+   },
+   {
+    "da": "boghandlere",
+    "en": "booksellers"
+   },
+   {
+    "da": "boghandlerne",
+    "en": "the booksellers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et antikvariat",
+    "en": "a used-book store"
+   },
+   {
+    "da": "et forlag",
+    "en": "a publisher"
+   },
+   {
+    "da": "en forfatter",
+    "en": "an author"
+   }
+  ],
+  "sentence": {
+   "da": "En **boghandler** sælger bøger, men en bibliotekar låner dem ud.",
+   "en": "A bookseller sells books, but a librarian lends them out."
+  }
+ },
+ "en bogreol": {
+  "file": "b.json",
+  "explanation": "\"En bogreol\" means \"a bookcase\". It is built from bog (book) and reol (open rack).",
+  "forms": [
+   {
+    "da": "en bogreol",
+    "en": "a bookcase"
+   },
+   {
+    "da": "bogreolen",
+    "en": "the bookcase"
+   },
+   {
+    "da": "bogreoler",
+    "en": "bookcases"
+   },
+   {
+    "da": "bogreolerne",
+    "en": "the bookcases"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hylde",
+    "en": "a shelf"
+   },
+   {
+    "da": "et skab",
+    "en": "a cabinet"
+   },
+   {
+    "da": "et bogskab",
+    "en": "a book cabinet"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har brug for en større **bogreol** til alle bøgerne.",
+   "en": "We need a bigger bookcase for all the books."
+  }
+ },
+ "en bold": {
+  "file": "b.json",
+  "explanation": "\"En bold\" means \"a ball\", a round thing used in sports and games. To play with one, say \"at spille bold\" (to play ball).",
+  "forms": [
+   {
+    "da": "en bold",
+    "en": "a ball"
+   },
+   {
+    "da": "bolden",
+    "en": "the ball"
+   },
+   {
+    "da": "bolde",
+    "en": "balls"
+   },
+   {
+    "da": "boldene",
+    "en": "the balls"
+   }
+  ],
+  "related": [
+   {
+    "da": "fodbold",
+    "en": "soccer"
+   },
+   {
+    "da": "håndbold",
+    "en": "handball"
+   },
+   {
+    "da": "basketball",
+    "en": "basketball"
+   },
+   {
+    "da": "en ballon",
+    "en": "a balloon"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan sparke og kaste en **bold**.",
+   "en": "You can kick and throw a ball."
+  }
+ },
+ "en bolig": {
+  "file": "b.json",
+  "explanation": "\"En bolig\" means \"a home\" in the sense of a place to live. For the feeling of home, use \"et hjem\" (a home): \"Vi har et rart hjem\" (We have a lovely home).",
+  "forms": [
+   {
+    "da": "en bolig",
+    "en": "a home"
+   },
+   {
+    "da": "boligen",
+    "en": "the home"
+   },
+   {
+    "da": "boliger",
+    "en": "homes"
+   },
+   {
+    "da": "boligerne",
+    "en": "the homes"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bo",
+    "en": "to live"
+   },
+   {
+    "da": "en lejlighed",
+    "en": "an apartment"
+   },
+   {
+    "da": "et hus",
+    "en": "a house"
+   },
+   {
+    "da": "en bopæl",
+    "en": "a residence"
+   }
+  ],
+  "sentence": {
+   "da": "Vi leder efter en billig **bolig** i byen.",
+   "en": "We are looking for a cheap home in the city."
+  }
+ },
+ "en boligblok": {
+  "file": "b.json",
+  "explanation": "\"En boligblok\" means \"an apartment block\", a building with many homes. It is built from bolig (home) and blok (block).",
+  "forms": [
+   {
+    "da": "en boligblok",
+    "en": "an apartment block"
+   },
+   {
+    "da": "boligblokken",
+    "en": "the apartment block"
+   },
+   {
+    "da": "boligblokke",
+    "en": "apartment blocks"
+   },
+   {
+    "da": "boligblokkene",
+    "en": "the apartment blocks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lejlighed",
+    "en": "an apartment"
+   },
+   {
+    "da": "et højhus",
+    "en": "a high-rise"
+   },
+   {
+    "da": "et rækkehus",
+    "en": "a row house"
+   }
+  ],
+  "sentence": {
+   "da": "Der bor mange familier i en **boligblok**.",
+   "en": "Many families live in an apartment block."
+  }
+ },
+ "en boligforening": {
+  "file": "b.json",
+  "explanation": "\"En boligforening\" means \"a housing association\", a non-profit organization that owns homes and lets them to its residents at fair prices. Residents vote on how it is run at meetings.",
+  "forms": [
+   {
+    "da": "en boligforening",
+    "en": "a housing association"
+   },
+   {
+    "da": "boligforeningen",
+    "en": "the housing association"
+   },
+   {
+    "da": "boligforeninger",
+    "en": "housing associations"
+   },
+   {
+    "da": "boligforeningerne",
+    "en": "the housing associations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en husleje",
+    "en": "rent"
+   },
+   {
+    "da": "en andelsbolig",
+    "en": "a co-op apartment"
+   },
+   {
+    "da": "en lejer",
+    "en": "a tenant"
+   },
+   {
+    "da": "en udlejer",
+    "en": "a landlord"
+   }
+  ],
+  "sentence": {
+   "da": "En **boligforening** ejer mange lejligheder og har en lang venteliste.",
+   "en": "A housing association owns many apartments and has a long waiting list."
+  }
+ },
+ "en boligkarré": {
+  "file": "b.json",
+  "explanation": "\"En boligkarré\" means \"a city block\" of homes, usually buildings built in a ring around a shared courtyard.",
+  "forms": [
+   {
+    "da": "en boligkarré",
+    "en": "a city block"
+   },
+   {
+    "da": "boligkarréen",
+    "en": "the city block"
+   },
+   {
+    "da": "boligkarréer",
+    "en": "city blocks"
+   },
+   {
+    "da": "boligkarréerne",
+    "en": "the city blocks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lejlighed",
+    "en": "an apartment"
+   },
+   {
+    "da": "en opgang",
+    "en": "a stairwell"
+   },
+   {
+    "da": "en baggård",
+    "en": "a backyard"
+   },
+   {
+    "da": "en etageejendom",
+    "en": "an apartment building"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene leger i gården midt i en **boligkarré**.",
+   "en": "The children play in the yard in the middle of a city block."
+  }
+ },
+ "en bolle": {
+  "file": "b.json",
+  "explanation": "\"En bolle\" means \"a bun\" or \"a bread roll\". In \"boller i karry\" (meatballs in curry), it means a meatball.",
+  "forms": [
+   {
+    "da": "en bolle",
+    "en": "a bun"
+   },
+   {
+    "da": "bollen",
+    "en": "the bun"
+   },
+   {
+    "da": "boller",
+    "en": "buns"
+   },
+   {
+    "da": "bollerne",
+    "en": "the buns"
+   }
+  ],
+  "related": [
+   {
+    "da": "et rundstykke",
+    "en": "a bread roll"
+   },
+   {
+    "da": "et brød",
+    "en": "bread"
+   },
+   {
+    "da": "en frikadelle",
+    "en": "a meatball"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser en **bolle** med smør.",
+   "en": "I eat a bun with butter."
+  }
+ },
+ "en bombe": {
+  "file": "b.json",
+  "explanation": "\"En bombe\" means \"a bomb\". A bomb threat is \"en bombetrussel\", built from bombe and \"en trussel\" (a threat).",
+  "forms": [
+   {
+    "da": "en bombe",
+    "en": "a bomb"
+   },
+   {
+    "da": "bomben",
+    "en": "the bomb"
+   },
+   {
+    "da": "bomber",
+    "en": "bombs"
+   },
+   {
+    "da": "bomberne",
+    "en": "the bombs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en eksplosion",
+    "en": "an explosion"
+   },
+   {
+    "da": "et våben",
+    "en": "a weapon"
+   },
+   {
+    "da": "en granat",
+    "en": "a grenade"
+   },
+   {
+    "da": "at sprænge",
+    "en": "to blow up"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet fandt en **bombe** ved stationen.",
+   "en": "The police found a bomb at the station."
+  }
+ },
+ "en bon": {
+  "file": "b.json",
+  "explanation": "\"En bon\" means \"a receipt\", especially the small paper one from the register. At the checkout you may hear \"Skal du have bonen med?\" (Do you want the receipt?)",
+  "forms": [
+   {
+    "da": "en bon",
+    "en": "a receipt"
+   },
+   {
+    "da": "bonen",
+    "en": "the receipt"
+   },
+   {
+    "da": "boner",
+    "en": "receipts"
+   },
+   {
+    "da": "bonerne",
+    "en": "the receipts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kvittering",
+    "en": "a receipt"
+   },
+   {
+    "da": "en regning",
+    "en": "a bill"
+   },
+   {
+    "da": "en kasse",
+    "en": "a register"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg betaler i kassen og får en **bon**.",
+   "en": "I pay at the register and get a receipt."
+  }
+ },
+ "en bonde": {
+  "file": "b.json",
+  "explanation": "\"En bonde\" means \"a farmer\", someone who works the land and keeps animals.",
+  "forms": [
+   {
+    "da": "en bonde",
+    "en": "a farmer"
+   },
+   {
+    "da": "bonden",
+    "en": "the farmer"
+   },
+   {
+    "da": "bønder",
+    "en": "farmers"
+   },
+   {
+    "da": "bønderne",
+    "en": "the farmers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gård",
+    "en": "a farm"
+   },
+   {
+    "da": "en mark",
+    "en": "a field"
+   },
+   {
+    "da": "landbrug",
+    "en": "farming"
+   }
+  ],
+  "sentence": {
+   "da": "En **bonde** står tidligt op og malker køerne.",
+   "en": "A farmer gets up early and milks the cows."
+  }
+ },
+ "en bonus": {
+  "file": "b.json",
+  "explanation": "\"En bonus\" means \"a bonus\", extra pay or a reward on top of your normal pay, such as money from an employer after a good year or a discount for loyal customers.",
+  "forms": [
+   {
+    "da": "en bonus",
+    "en": "a bonus"
+   },
+   {
+    "da": "bonussen",
+    "en": "the bonus"
+   },
+   {
+    "da": "bonusser",
+    "en": "bonuses"
+   },
+   {
+    "da": "bonusserne",
+    "en": "the bonuses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en præmie",
+    "en": "a prize"
+   },
+   {
+    "da": "et tillæg",
+    "en": "a supplement"
+   },
+   {
+    "da": "en løn",
+    "en": "a salary"
+   },
+   {
+    "da": "et gratiale",
+    "en": "a gratuity"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet giver os en **bonus**, når året er gået godt.",
+   "en": "The company gives us a bonus when the year has gone well."
+  }
+ },
+ "en bordplade": {
+  "file": "b.json",
+  "explanation": "\"En bordplade\" means \"a tabletop\" and also \"a countertop\" in a kitchen. It is built from bord (table) and plade (board).",
+  "forms": [
+   {
+    "da": "en bordplade",
+    "en": "a tabletop / countertop"
+   },
+   {
+    "da": "bordpladen",
+    "en": "the tabletop / countertop"
+   },
+   {
+    "da": "bordplader",
+    "en": "tabletops / countertops"
+   },
+   {
+    "da": "bordpladerne",
+    "en": "the tabletops / countertops"
+   }
+  ],
+  "related": [
+   {
+    "da": "et køkkenbord",
+    "en": "a kitchen counter"
+   },
+   {
+    "da": "et spisebord",
+    "en": "a dining table"
+   },
+   {
+    "da": "en køkkenvask",
+    "en": "a kitchen sink"
+   },
+   {
+    "da": "et skærebræt",
+    "en": "a cutting board"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal have en ny **bordplade** i køkkenet.",
+   "en": "We need a new countertop in the kitchen."
+  }
+ },
+ "en boremaskine": {
+  "file": "b.json",
+  "explanation": "\"En boremaskine\" means \"a drill\". It is bore (to drill) plus maskine (machine). The verb is \"at bore\": \"at bore et hul i væggen\" (to drill a hole in the wall).",
+  "forms": [
+   {
+    "da": "en boremaskine",
+    "en": "a drill"
+   },
+   {
+    "da": "boremaskinen",
+    "en": "the drill"
+   },
+   {
+    "da": "boremaskiner",
+    "en": "drills"
+   },
+   {
+    "da": "boremaskinerne",
+    "en": "the drills"
+   }
+  ],
+  "related": [
+   {
+    "da": "en slagboremaskine",
+    "en": "a hammer drill"
+   },
+   {
+    "da": "en skruetrækker",
+    "en": "a screwdriver"
+   },
+   {
+    "da": "en skruemaskine",
+    "en": "a cordless screwdriver"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal bruge en **boremaskine** til at lave et hul.",
+   "en": "I need a drill to make a hole."
+  }
+ },
+ "en borg": {
+  "file": "b.json",
+  "explanation": "\"En borg\" means \"a castle\", an old, strong building with thick walls, made to defend a place. For a grand royal residence, use \"et slot\" (a palace or stately castle): \"Kongen bor på et slot\" (The king lives in a palace).",
+  "forms": [
+   {
+    "da": "en borg",
+    "en": "a castle"
+   },
+   {
+    "da": "borgen",
+    "en": "the castle"
+   },
+   {
+    "da": "borge",
+    "en": "castles"
+   },
+   {
+    "da": "borgene",
+    "en": "the castles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fæstning",
+    "en": "a fortress"
+   },
+   {
+    "da": "en voldgrav",
+    "en": "a moat"
+   },
+   {
+    "da": "et tårn",
+    "en": "a tower"
+   },
+   {
+    "da": "en ridder",
+    "en": "a knight"
+   }
+  ],
+  "sentence": {
+   "da": "I middelalderen byggede man en **borg** for at forsvare sig.",
+   "en": "In the Middle Ages, people built a castle to defend themselves."
+  }
+ },
+ "en borger": {
+  "file": "b.json",
+  "explanation": "\"En borger\" means \"a citizen\", a person who lives in a country or town and has rights and duties there. Public offices also call everyone they serve \"borgere\" (citizens): \"Kommunen hjælper borgerne\" (The municipality helps the residents).",
+  "forms": [
+   {
+    "da": "en borger",
+    "en": "a citizen"
+   },
+   {
+    "da": "borgeren",
+    "en": "the citizen"
+   },
+   {
+    "da": "borgere",
+    "en": "citizens"
+   },
+   {
+    "da": "borgerne",
+    "en": "the citizens"
+   }
+  ],
+  "related": [
+   {
+    "da": "en indbygger",
+    "en": "an inhabitant"
+   },
+   {
+    "da": "en statsborger",
+    "en": "a citizen of a country"
+   },
+   {
+    "da": "et statsborgerskab",
+    "en": "citizenship"
+   },
+   {
+    "da": "en medborger",
+    "en": "a fellow member of society"
+   }
+  ],
+  "sentence": {
+   "da": "Hver **borger** over atten år må stemme ved valg.",
+   "en": "Every citizen over eighteen may vote in elections."
+  }
+ },
+ "en borgmester": {
+  "file": "b.json",
+  "explanation": "\"En borgmester\" means \"a mayor\", the person who leads a town or city. The leader of a whole country is \"en statsminister\" (a prime minister).",
+  "forms": [
+   {
+    "da": "en borgmester",
+    "en": "a mayor"
+   },
+   {
+    "da": "borgmesteren",
+    "en": "the mayor"
+   },
+   {
+    "da": "borgmestre",
+    "en": "mayors"
+   },
+   {
+    "da": "borgmestrene",
+    "en": "the mayors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kommune",
+    "en": "a municipality"
+   },
+   {
+    "da": "en by",
+    "en": "a town / city"
+   },
+   {
+    "da": "en politiker",
+    "en": "a politician"
+   },
+   {
+    "da": "et rådhus",
+    "en": "a city hall"
+   }
+  ],
+  "sentence": {
+   "da": "Byens **borgmester** holder en tale i dag.",
+   "en": "The town's mayor gives a speech today."
+  }
+ },
+ "en bosætning": {
+  "file": "b.json",
+  "explanation": "\"En bosætning\" means \"a settlement\", a place where people come to live, or the act of making a home somewhere new.",
+  "forms": [
+   {
+    "da": "en bosætning",
+    "en": "a settlement"
+   },
+   {
+    "da": "bosætningen",
+    "en": "the settlement"
+   },
+   {
+    "da": "bosætninger",
+    "en": "settlements"
+   },
+   {
+    "da": "bosætningerne",
+    "en": "the settlements"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bosætte sig",
+    "en": "to settle down"
+   },
+   {
+    "da": "en by",
+    "en": "a town"
+   },
+   {
+    "da": "en koloni",
+    "en": "a colony"
+   },
+   {
+    "da": "en nybygger",
+    "en": "a settler"
+   }
+  ],
+  "sentence": {
+   "da": "Ved åen opstod en **bosætning**, hvor folk byggede de første huse.",
+   "en": "By the stream, a settlement arose where people built the first houses."
+  }
+ },
+ "en botanisk have": {
+  "file": "b.json",
+  "explanation": "\"En botanisk have\" means \"a botanical garden\", a place where plants are labeled with their names and grown for research as well as for visitors.",
+  "forms": [
+   {
+    "da": "en botanisk have",
+    "en": "a botanical garden"
+   },
+   {
+    "da": "den botaniske have",
+    "en": "the botanical garden"
+   },
+   {
+    "da": "botaniske haver",
+    "en": "botanical gardens"
+   },
+   {
+    "da": "de botaniske haver",
+    "en": "the botanical gardens"
+   }
+  ],
+  "related": [
+   {
+    "da": "en park",
+    "en": "a park"
+   },
+   {
+    "da": "en botaniker",
+    "en": "a botanist"
+   },
+   {
+    "da": "et væksthus",
+    "en": "a greenhouse"
+   },
+   {
+    "da": "et arboret",
+    "en": "an arboretum"
+   }
+  ],
+  "sentence": {
+   "da": "I en **botanisk have** kan man se planter fra hele verden.",
+   "en": "In a botanical garden you can see plants from all over the world."
+  }
+ },
+ "en bowlinghal": {
+  "file": "b.json",
+  "explanation": "\"En bowlinghal\" means \"a bowling alley\", a place with lanes where you roll a ball at pins.",
+  "forms": [
+   {
+    "da": "en bowlinghal",
+    "en": "a bowling alley"
+   },
+   {
+    "da": "bowlinghallen",
+    "en": "the bowling alley"
+   },
+   {
+    "da": "bowlinghaller",
+    "en": "bowling alleys"
+   },
+   {
+    "da": "bowlinghallerne",
+    "en": "the bowling alleys"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bowlingbane",
+    "en": "a bowling lane"
+   },
+   {
+    "da": "en svømmehal",
+    "en": "an indoor pool"
+   },
+   {
+    "da": "en idrætshal",
+    "en": "a sports hall"
+   },
+   {
+    "da": "en kegle",
+    "en": "a bowling pin"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en **bowlinghal** i byen, hvor man kan spille bowling.",
+   "en": "There is a bowling alley in town where you can play bowling."
+  }
+ },
+ "en bradepande": {
+  "file": "b.json",
+  "explanation": "\"En bradepande\" means \"a roasting pan\", a wide, shallow pan for the oven, used for roasts, potatoes and vegetables. Do not mix it up with \"en stegepande\" (a frying pan), which goes on the stove.",
+  "forms": [
+   {
+    "da": "en bradepande",
+    "en": "a roasting pan"
+   },
+   {
+    "da": "bradepanden",
+    "en": "the roasting pan"
+   },
+   {
+    "da": "bradepander",
+    "en": "roasting pans"
+   },
+   {
+    "da": "bradepanderne",
+    "en": "the roasting pans"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bageplade",
+    "en": "a baking sheet"
+   },
+   {
+    "da": "et ildfast fad",
+    "en": "an ovenproof dish"
+   },
+   {
+    "da": "et fad",
+    "en": "a serving dish"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg lægger kartoflerne i en **bradepande** og sætter dem i ovnen.",
+   "en": "I put the potatoes in a roasting pan and place them in the oven."
+  }
+ },
+ "en branche": {
+  "file": "b.json",
+  "explanation": "\"En branche\" means \"an industry\" or \"a line of business\", a field of work such as tourism or construction. You use it to name your field of work: \"Hun arbejder i it-branchen\" (She works in the IT industry).",
+  "forms": [
+   {
+    "da": "en branche",
+    "en": "an industry"
+   },
+   {
+    "da": "branchen",
+    "en": "the industry"
+   },
+   {
+    "da": "brancher",
+    "en": "industries"
+   },
+   {
+    "da": "branchene",
+    "en": "the industries"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sektor",
+    "en": "a sector"
+   },
+   {
+    "da": "et erhverv",
+    "en": "a trade / profession"
+   },
+   {
+    "da": "en virksomhed",
+    "en": "a company"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror har arbejdet i den samme **branche** i ti år.",
+   "en": "My brother has worked in the same line of business for ten years."
+  }
+ },
+ "en brand": {
+  "file": "b.json",
+  "explanation": "\"En brand\" means \"a fire\" that is out of control. For a campfire, say \"et bål\" (a campfire): \"Vi tænder et bål\" (We light a campfire).",
+  "forms": [
+   {
+    "da": "en brand",
+    "en": "a fire (blaze)"
+   },
+   {
+    "da": "branden",
+    "en": "the fire (blaze)"
+   },
+   {
+    "da": "brande",
+    "en": "fires"
+   },
+   {
+    "da": "brandene",
+    "en": "the fires"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ild",
+    "en": "a fire (flames)"
+   },
+   {
+    "da": "at brænde",
+    "en": "to burn"
+   },
+   {
+    "da": "en brandmand",
+    "en": "a firefighter"
+   },
+   {
+    "da": "en brandbil",
+    "en": "a fire truck"
+   }
+  ],
+  "sentence": {
+   "da": "Der var en stor **brand** i byen i nat.",
+   "en": "There was a big fire in town last night."
+  }
+ },
+ "en brandalarm": {
+  "file": "b.json",
+  "explanation": "\"En brandalarm\" means \"a fire alarm\", the loud signal that warns of fire: \"Brandalarmen går\" (The fire alarm is going off). It is built from brand (fire) and alarm (alarm).",
+  "forms": [
+   {
+    "da": "en brandalarm",
+    "en": "a fire alarm"
+   },
+   {
+    "da": "brandalarmen",
+    "en": "the fire alarm"
+   },
+   {
+    "da": "brandalarmer",
+    "en": "fire alarms"
+   },
+   {
+    "da": "brandalarmerne",
+    "en": "the fire alarms"
+   }
+  ],
+  "related": [
+   {
+    "da": "en røgalarm",
+    "en": "a smoke alarm"
+   },
+   {
+    "da": "en brandmand",
+    "en": "a firefighter"
+   },
+   {
+    "da": "en sirene",
+    "en": "a siren"
+   }
+  ],
+  "sentence": {
+   "da": "En **brandalarm** ringer højt, når der er røg.",
+   "en": "A fire alarm rings loudly when there is smoke."
+  }
+ },
+ "en brandbil": {
+  "file": "b.json",
+  "explanation": "\"En brandbil\" means \"a fire truck\", the big red truck that goes to fires.",
+  "forms": [
+   {
+    "da": "en brandbil",
+    "en": "a fire truck"
+   },
+   {
+    "da": "brandbilen",
+    "en": "the fire truck"
+   },
+   {
+    "da": "brandbiler",
+    "en": "fire trucks"
+   },
+   {
+    "da": "brandbilerne",
+    "en": "the fire trucks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en brandmand",
+    "en": "a firefighter"
+   },
+   {
+    "da": "en ambulance",
+    "en": "an ambulance"
+   },
+   {
+    "da": "en politibil",
+    "en": "a police car"
+   },
+   {
+    "da": "en brandstation",
+    "en": "a fire station"
+   }
+  ],
+  "sentence": {
+   "da": "Der er ild i huset, og en **brandbil** kommer.",
+   "en": "There is a fire in the house, and a fire truck is coming."
+  }
+ },
+ "en brandmand": {
+  "file": "b.json",
+  "explanation": "\"En brandmand\" means \"a firefighter\", a person who puts out fires.",
+  "forms": [
+   {
+    "da": "en brandmand",
+    "en": "a firefighter"
+   },
+   {
+    "da": "brandmanden",
+    "en": "the firefighter"
+   },
+   {
+    "da": "brandmænd",
+    "en": "firefighters"
+   },
+   {
+    "da": "brandmændene",
+    "en": "the firefighters"
+   }
+  ],
+  "related": [
+   {
+    "da": "en brandbil",
+    "en": "a fire truck"
+   },
+   {
+    "da": "en brandstation",
+    "en": "a fire station"
+   },
+   {
+    "da": "en brandalarm",
+    "en": "a fire alarm"
+   }
+  ],
+  "sentence": {
+   "da": "En **brandmand** redder folk fra et brændende hus.",
+   "en": "A firefighter rescues people from a burning house."
+  }
+ },
+ "en brandslukker": {
+  "file": "b.json",
+  "explanation": "\"En brandslukker\" means \"a fire extinguisher\". It is built from brand (fire) and at slukke (to put out), and \"at slukke\" also means to switch off: \"at slukke lyset\" (to turn off the light).",
+  "forms": [
+   {
+    "da": "en brandslukker",
+    "en": "a fire extinguisher"
+   },
+   {
+    "da": "brandslukkeren",
+    "en": "the fire extinguisher"
+   },
+   {
+    "da": "brandslukkere",
+    "en": "fire extinguishers"
+   },
+   {
+    "da": "brandslukkerne",
+    "en": "the fire extinguishers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en brandmand",
+    "en": "a firefighter"
+   },
+   {
+    "da": "en brandbil",
+    "en": "a fire truck"
+   },
+   {
+    "da": "en ild",
+    "en": "a fire"
+   }
+  ],
+  "sentence": {
+   "da": "Brug en **brandslukker**, hvis det brænder.",
+   "en": "Use a fire extinguisher if something is burning."
+  }
+ },
+ "en brandstation": {
+  "file": "b.json",
+  "explanation": "\"En brandstation\" means \"a fire station\", the building where firefighters and their trucks wait for emergency calls. It is built from brand (fire) and station (station).",
+  "forms": [
+   {
+    "da": "en brandstation",
+    "en": "a fire station"
+   },
+   {
+    "da": "brandstationen",
+    "en": "the fire station"
+   },
+   {
+    "da": "brandstationer",
+    "en": "fire stations"
+   },
+   {
+    "da": "brandstationerne",
+    "en": "the fire stations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en brandmand",
+    "en": "a firefighter"
+   },
+   {
+    "da": "en brandbil",
+    "en": "a fire truck"
+   },
+   {
+    "da": "en politistation",
+    "en": "a police station"
+   }
+  ],
+  "sentence": {
+   "da": "Brandbilen holder foran den lille **brandstation**.",
+   "en": "The fire truck is parked in front of the small fire station."
+  }
+ },
+ "en brandtrappe": {
+  "file": "b.json",
+  "explanation": "\"En brandtrappe\" means \"a fire escape\", stairs that lead out of a building when the normal way is blocked, usually on the outside wall.",
+  "forms": [
+   {
+    "da": "en brandtrappe",
+    "en": "a fire escape"
+   },
+   {
+    "da": "brandtrappen",
+    "en": "the fire escape"
+   },
+   {
+    "da": "brandtrapper",
+    "en": "fire escapes"
+   },
+   {
+    "da": "brandtrapperne",
+    "en": "the fire escapes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nødudgang",
+    "en": "an emergency exit"
+   },
+   {
+    "da": "en evakuering",
+    "en": "an evacuation"
+   },
+   {
+    "da": "en stige",
+    "en": "a ladder"
+   }
+  ],
+  "sentence": {
+   "da": "En **brandtrappe** bruges, når den almindelige trappe er spærret af ild.",
+   "en": "A fire escape is used when the ordinary stairs are blocked by fire."
+  }
+ },
+ "en bredde": {
+  "file": "b.json",
+  "explanation": "\"En bredde\" means \"a width\", how far something measures from side to side. When both are named, length comes first: \"længde og bredde\" (length and width).",
+  "forms": [
+   {
+    "da": "en bredde",
+    "en": "a width"
+   },
+   {
+    "da": "bredden",
+    "en": "the width"
+   },
+   {
+    "da": "bredder",
+    "en": "widths"
+   },
+   {
+    "da": "bredderne",
+    "en": "the widths"
+   }
+  ],
+  "related": [
+   {
+    "da": "en højde",
+    "en": "a height"
+   },
+   {
+    "da": "en dybde",
+    "en": "a depth"
+   },
+   {
+    "da": "bred",
+    "en": "wide"
+   },
+   {
+    "da": "en afstand",
+    "en": "a distance"
+   }
+  ],
+  "sentence": {
+   "da": "Vinduet har en **bredde** på to meter.",
+   "en": "The window has a width of two meters."
+  }
+ },
+ "en bregne": {
+  "file": "b.json",
+  "explanation": "\"En bregne\" means \"a fern\", a green plant with feathery leaves.",
+  "forms": [
+   {
+    "da": "en bregne",
+    "en": "a fern"
+   },
+   {
+    "da": "bregnen",
+    "en": "the fern"
+   },
+   {
+    "da": "bregner",
+    "en": "ferns"
+   },
+   {
+    "da": "bregnerne",
+    "en": "the ferns"
+   }
+  ],
+  "related": [
+   {
+    "da": "et mos",
+    "en": "moss"
+   },
+   {
+    "da": "en padderok",
+    "en": "a horsetail"
+   },
+   {
+    "da": "en urt",
+    "en": "a herb"
+   }
+  ],
+  "sentence": {
+   "da": "I skoven vokser der en **bregne** med lange, fine blade.",
+   "en": "In the forest there grows a fern with long, fine leaves."
+  }
+ },
+ "en bremse": {
+  "file": "b.json",
+  "explanation": "\"En bremse\" means \"a brake\", the part that slows a car or a bike. The same word is also the action: \"at bremse\" (to brake).",
+  "forms": [
+   {
+    "da": "en bremse",
+    "en": "a brake"
+   },
+   {
+    "da": "bremsen",
+    "en": "the brake"
+   },
+   {
+    "da": "bremser",
+    "en": "brakes"
+   },
+   {
+    "da": "bremserne",
+    "en": "the brakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en speeder",
+    "en": "an accelerator"
+   },
+   {
+    "da": "en kobling",
+    "en": "a clutch"
+   },
+   {
+    "da": "en bremseklods",
+    "en": "a brake pad"
+   },
+   {
+    "da": "et gear",
+    "en": "a gear"
+   }
+  ],
+  "sentence": {
+   "da": "En **bremse** får bilen til at stoppe.",
+   "en": "A brake makes the car stop."
+  }
+ },
+ "en brevkasse": {
+  "file": "b.json",
+  "explanation": "\"En brevkasse\" means \"a mailbox\", the box where letters are delivered. It also means \"an advice column\", where readers send in questions about life and love and an expert answers.",
+  "forms": [
+   {
+    "da": "en brevkasse",
+    "en": "a mailbox"
+   },
+   {
+    "da": "brevkassen",
+    "en": "the mailbox"
+   },
+   {
+    "da": "brevkasser",
+    "en": "mailboxes"
+   },
+   {
+    "da": "brevkasserne",
+    "en": "the mailboxes"
+   }
+  ],
+  "related": [
+   {
+    "da": "et råd",
+    "en": "a piece of advice"
+   },
+   {
+    "da": "et læserbrev",
+    "en": "a letter to the editor"
+   },
+   {
+    "da": "et postbud",
+    "en": "a mail carrier"
+   }
+  ],
+  "sentence": {
+   "da": "Læserne sender deres spørgsmål til avisens **brevkasse** og får råd.",
+   "en": "The readers send their questions to the paper's advice column and get advice."
+  }
+ },
+ "en brevsprække": {
+  "file": "b.json",
+  "explanation": "\"En brevsprække\" means \"a mail slot\", the narrow opening in a door with a flap, where the mail is pushed through. It is built from brev (letter) and sprække (slit).",
+  "forms": [
+   {
+    "da": "en brevsprække",
+    "en": "a mail slot"
+   },
+   {
+    "da": "brevsprækken",
+    "en": "the mail slot"
+   },
+   {
+    "da": "brevsprækker",
+    "en": "mail slots"
+   },
+   {
+    "da": "brevsprækkerne",
+    "en": "the mail slots"
+   }
+  ],
+  "related": [
+   {
+    "da": "en postkasse",
+    "en": "a mailbox"
+   },
+   {
+    "da": "en brevkasse",
+    "en": "a letter box"
+   },
+   {
+    "da": "et postbud",
+    "en": "a mail carrier"
+   }
+  ],
+  "sentence": {
+   "da": "Posten falder på gulvet gennem en **brevsprække**.",
+   "en": "The mail falls onto the floor through a mail slot."
+  }
+ },
+ "en brik": {
+  "file": "b.json",
+  "explanation": "\"En brik\" means \"a game piece\" or \"a tile\", a small piece you move or place in a game. A tile in Scrabble is \"en scrabblebrik\" (a Scrabble tile).",
+  "forms": [
+   {
+    "da": "en brik",
+    "en": "a piece"
+   },
+   {
+    "da": "briken",
+    "en": "the piece"
+   },
+   {
+    "da": "brikker",
+    "en": "pieces"
+   },
+   {
+    "da": "brikkerne",
+    "en": "the pieces"
+   }
+  ],
+  "related": [
+   {
+    "da": "en terning",
+    "en": "a die"
+   },
+   {
+    "da": "en bonde",
+    "en": "a pawn"
+   },
+   {
+    "da": "et skakbræt",
+    "en": "a chessboard"
+   }
+  ],
+  "sentence": {
+   "da": "Spilleren flytter en **brik** hen over brættet.",
+   "en": "The player moves a piece across the board."
+  }
+ },
+ "en brise": {
+  "file": "b.json",
+  "explanation": "\"En brise\" means \"a breeze\", a light, gentle wind that is usually pleasant, for example by the sea.",
+  "forms": [
+   {
+    "da": "en brise",
+    "en": "a breeze"
+   },
+   {
+    "da": "brisen",
+    "en": "the breeze"
+   },
+   {
+    "da": "briser",
+    "en": "breezes"
+   },
+   {
+    "da": "briserne",
+    "en": "the breezes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en storm",
+    "en": "a storm"
+   },
+   {
+    "da": "et vindstød",
+    "en": "a gust"
+   },
+   {
+    "da": "en kuling",
+    "en": "a gale"
+   },
+   {
+    "da": "en orkan",
+    "en": "a hurricane"
+   }
+  ],
+  "sentence": {
+   "da": "Der kommer en let **brise** ind fra havet.",
+   "en": "A light breeze comes in from the sea."
+  }
+ },
+ "en brite": {
+  "file": "b.json",
+  "explanation": "\"En brite\" means \"a Brit\", a person from Great Britain. Nationality words are not capitalized in Danish, so \"brite\" starts with a lowercase b. The country is \"Storbritannien\" (Great Britain).",
+  "forms": [
+   {
+    "da": "en brite",
+    "en": "a Brit"
+   },
+   {
+    "da": "briten",
+    "en": "the Brit"
+   },
+   {
+    "da": "briter",
+    "en": "Brits"
+   },
+   {
+    "da": "briterne",
+    "en": "the Brits"
+   }
+  ],
+  "related": [
+   {
+    "da": "en englænder",
+    "en": "an Englishman"
+   },
+   {
+    "da": "en skotte",
+    "en": "a Scot"
+   },
+   {
+    "da": "en irer",
+    "en": "an Irishman"
+   },
+   {
+    "da": "britisk",
+    "en": "British"
+   }
+  ],
+  "sentence": {
+   "da": "En **brite** kan komme fra England, Skotland eller Wales.",
+   "en": "A Brit can come from England, Scotland or Wales."
+  }
+ },
+ "en bro": {
+  "file": "b.json",
+  "explanation": "\"En bro\" means \"a bridge\", something you cross over a river, road or sea.",
+  "forms": [
+   {
+    "da": "en bro",
+    "en": "a bridge"
+   },
+   {
+    "da": "broen",
+    "en": "the bridge"
+   },
+   {
+    "da": "broer",
+    "en": "bridges"
+   },
+   {
+    "da": "broerne",
+    "en": "the bridges"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tunnel",
+    "en": "a tunnel"
+   },
+   {
+    "da": "en færge",
+    "en": "a ferry"
+   },
+   {
+    "da": "en gangbro",
+    "en": "a footbridge"
+   }
+  ],
+  "sentence": {
+   "da": "Vi går over en **bro** over vandet.",
+   "en": "We walk over a bridge over the water."
+  }
+ },
+ "en brochure": {
+  "file": "b.json",
+  "explanation": "\"En brochure\" means \"a brochure\", a small printed booklet with information, for example from a hotel or a travel company.",
+  "forms": [
+   {
+    "da": "en brochure",
+    "en": "a brochure"
+   },
+   {
+    "da": "brochuren",
+    "en": "the brochure"
+   },
+   {
+    "da": "brochurer",
+    "en": "brochures"
+   },
+   {
+    "da": "brochurerne",
+    "en": "the brochures"
+   }
+  ],
+  "related": [
+   {
+    "da": "en folder",
+    "en": "a leaflet"
+   },
+   {
+    "da": "en pjece",
+    "en": "a pamphlet"
+   },
+   {
+    "da": "et katalog",
+    "en": "a catalog"
+   }
+  ],
+  "sentence": {
+   "da": "Hotellet sendte mig en **brochure** med mange billeder.",
+   "en": "The hotel sent me a brochure with many pictures."
+  }
+ },
+ "en bror": {
+  "file": "b.json",
+  "explanation": "\"En bror\" means \"a brother\". Danish has separate words for older and younger: \"storebror\" (big brother) and \"lillebror\" (little brother), as in \"Min lillebror er fem år\" (My little brother is five years old).",
+  "forms": [
+   {
+    "da": "en bror",
+    "en": "a brother"
+   },
+   {
+    "da": "broren",
+    "en": "the brother"
+   },
+   {
+    "da": "brødre",
+    "en": "brothers"
+   },
+   {
+    "da": "brødrene",
+    "en": "the brothers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en søster",
+    "en": "a sister"
+   },
+   {
+    "da": "søskende",
+    "en": "brothers and sisters"
+   },
+   {
+    "da": "en søn",
+    "en": "a son"
+   },
+   {
+    "da": "en halvbror",
+    "en": "a half brother"
+   }
+  ],
+  "sentence": {
+   "da": "Min **bror** og jeg har samme mor.",
+   "en": "My brother and I have the same mother."
+  }
+ },
+ "en brownie": {
+  "file": "b.json",
+  "explanation": "\"En brownie\" means \"a brownie\", a small, dense chocolate cake that is cut into squares.",
+  "forms": [
+   {
+    "da": "en brownie",
+    "en": "a brownie"
+   },
+   {
+    "da": "brownien",
+    "en": "the brownie"
+   },
+   {
+    "da": "brownies",
+    "en": "brownies"
+   },
+   {
+    "da": "browniesene",
+    "en": "the brownies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en chokoladekage",
+    "en": "a chocolate cake"
+   },
+   {
+    "da": "en muffin",
+    "en": "a muffin"
+   },
+   {
+    "da": "en småkage",
+    "en": "a cookie"
+   },
+   {
+    "da": "en kage",
+    "en": "a cake"
+   }
+  ],
+  "sentence": {
+   "da": "En **brownie** er en kage med meget chokolade.",
+   "en": "A brownie is a cake with a lot of chocolate."
+  }
+ },
+ "en browser": {
+  "file": "b.json",
+  "explanation": "\"En browser\" means \"a browser\", the program you use to open web pages.",
+  "forms": [
+   {
+    "da": "en browser",
+    "en": "a browser"
+   },
+   {
+    "da": "browseren",
+    "en": "the browser"
+   },
+   {
+    "da": "browsere",
+    "en": "browsers"
+   },
+   {
+    "da": "browserne",
+    "en": "the browsers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hjemmeside",
+    "en": "a website"
+   },
+   {
+    "da": "en side",
+    "en": "a page"
+   },
+   {
+    "da": "internettet",
+    "en": "the internet"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg åbner min **browser** og søger efter opskriften.",
+   "en": "I open my browser and search for the recipe."
+  }
+ },
+ "en brudekjole": {
+  "file": "b.json",
+  "explanation": "\"En brudekjole\" means \"a wedding dress\", the dress a bride wears for the ceremony. The word is built from en brud (a bride) and en kjole (a dress).",
+  "forms": [
+   {
+    "da": "en brudekjole",
+    "en": "a wedding dress"
+   },
+   {
+    "da": "brudekjolen",
+    "en": "the wedding dress"
+   },
+   {
+    "da": "brudekjoler",
+    "en": "wedding dresses"
+   },
+   {
+    "da": "brudekjolerne",
+    "en": "the wedding dresses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en brudebuket",
+    "en": "a bridal bouquet"
+   },
+   {
+    "da": "en brudgom",
+    "en": "a groom"
+   },
+   {
+    "da": "et slør",
+    "en": "a veil"
+   },
+   {
+    "da": "en brudepige",
+    "en": "a bridesmaid"
+   }
+  ],
+  "sentence": {
+   "da": "Til brylluppet har bruden en hvid **brudekjole** på.",
+   "en": "At the wedding, the bride is wearing a white wedding dress."
+  }
+ },
+ "en brudepige": {
+  "file": "b.json",
+  "explanation": "\"En brudepige\" means \"a bridesmaid\", a girl or woman who helps the bride on the wedding day.",
+  "forms": [
+   {
+    "da": "en brudepige",
+    "en": "a bridesmaid"
+   },
+   {
+    "da": "brudepigen",
+    "en": "the bridesmaid"
+   },
+   {
+    "da": "brudepiger",
+    "en": "bridesmaids"
+   },
+   {
+    "da": "brudepigerne",
+    "en": "the bridesmaids"
+   }
+  ],
+  "related": [
+   {
+    "da": "en brudgom",
+    "en": "a groom"
+   },
+   {
+    "da": "en forlover",
+    "en": "a best man / maid of honor"
+   },
+   {
+    "da": "et bryllup",
+    "en": "a wedding"
+   },
+   {
+    "da": "et brudepar",
+    "en": "a bridal couple"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster skal være **brudepige** til brylluppet.",
+   "en": "My sister is going to be a bridesmaid at the wedding."
+  }
+ },
+ "en brudgom": {
+  "file": "b.json",
+  "explanation": "\"En brudgom\" means \"a groom\", the man who is getting married. The couple together are \"et brudepar\" (a bridal couple).",
+  "forms": [
+   {
+    "da": "en brudgom",
+    "en": "a groom"
+   },
+   {
+    "da": "brudgommen",
+    "en": "the groom"
+   },
+   {
+    "da": "brudgomme",
+    "en": "grooms"
+   },
+   {
+    "da": "brudgommene",
+    "en": "the grooms"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bryllup",
+    "en": "a wedding"
+   },
+   {
+    "da": "en forlover",
+    "en": "a best man / maid of honor"
+   },
+   {
+    "da": "en brudepige",
+    "en": "a bridesmaid"
+   }
+  ],
+  "sentence": {
+   "da": "Han er en glad **brudgom** på sin bryllupsdag.",
+   "en": "He is a happy groom on his wedding day."
+  }
+ },
+ "en bruger": {
+  "file": "b.json",
+  "explanation": "\"En bruger\" means \"a user\", a person who uses an app, a website or a service. It is built from \"at bruge\" (to use), which also means to spend: \"at bruge penge\" (to spend money).",
+  "forms": [
+   {
+    "da": "en bruger",
+    "en": "a user"
+   },
+   {
+    "da": "brugeren",
+    "en": "the user"
+   },
+   {
+    "da": "brugere",
+    "en": "users"
+   },
+   {
+    "da": "brugerne",
+    "en": "the users"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kunde",
+    "en": "a customer"
+   },
+   {
+    "da": "en deltager",
+    "en": "a participant"
+   },
+   {
+    "da": "et brugernavn",
+    "en": "a username"
+   }
+  ],
+  "sentence": {
+   "da": "Hver **bruger** har sin egen adgangskode.",
+   "en": "Every user has their own password."
+  }
+ },
+ "en brugsanvisning": {
+  "file": "b.json",
+  "explanation": "\"En brugsanvisning\" means \"a user manual\", the paper that explains how to use a product.",
+  "forms": [
+   {
+    "da": "en brugsanvisning",
+    "en": "a user manual"
+   },
+   {
+    "da": "brugsanvisningen",
+    "en": "the user manual"
+   },
+   {
+    "da": "brugsanvisninger",
+    "en": "user manuals"
+   },
+   {
+    "da": "brugsanvisningerne",
+    "en": "the user manuals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vejledning",
+    "en": "a guide"
+   },
+   {
+    "da": "en anvisning",
+    "en": "an instruction"
+   },
+   {
+    "da": "at bruge",
+    "en": "to use"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg læser en **brugsanvisning**, fordi maskinen er ny.",
+   "en": "I am reading a user manual because the machine is new."
+  }
+ },
+ "en brunch": {
+  "file": "b.json",
+  "explanation": "\"En brunch\" means \"a brunch\", a big breakfast eaten late in the morning. A normal early breakfast is \"morgenmad\" (breakfast).",
+  "forms": [
+   {
+    "da": "en brunch",
+    "en": "a brunch"
+   },
+   {
+    "da": "brunchen",
+    "en": "the brunch"
+   },
+   {
+    "da": "bruncher",
+    "en": "brunches"
+   },
+   {
+    "da": "bruncherne",
+    "en": "the brunches"
+   }
+  ],
+  "related": [
+   {
+    "da": "frokost",
+    "en": "lunch"
+   },
+   {
+    "da": "et måltid",
+    "en": "a meal"
+   },
+   {
+    "da": "aftensmad",
+    "en": "dinner"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiser **brunch** sent om søndagen.",
+   "en": "We eat brunch late on Sundays."
+  }
+ },
+ "en brunkage": {
+  "file": "b.json",
+  "explanation": "\"En brunkage\" means \"a Danish spice cookie\", a thin, dark cookie that Danes bake for Christmas. The dough is rolled out and cut into shapes.",
+  "forms": [
+   {
+    "da": "en brunkage",
+    "en": "a Danish spice cookie"
+   },
+   {
+    "da": "brunkagen",
+    "en": "the Danish spice cookie"
+   },
+   {
+    "da": "brunkager",
+    "en": "Danish spice cookies"
+   },
+   {
+    "da": "brunkagerne",
+    "en": "the Danish spice cookies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pebernød",
+    "en": "a small Christmas spice cookie"
+   },
+   {
+    "da": "en jødekage",
+    "en": "a butter cookie"
+   },
+   {
+    "da": "en vaniljekrans",
+    "en": "a vanilla butter cookie"
+   },
+   {
+    "da": "en klejne",
+    "en": "a Christmas cruller"
+   }
+  ],
+  "sentence": {
+   "da": "En **brunkage** smager af kanel, nelliker og sirup.",
+   "en": "A brunkage tastes of cinnamon, cloves and syrup."
+  }
+ },
+ "en brunsviger": {
+  "file": "b.json",
+  "explanation": "\"En brunsviger\" means \"a Funen brown-sugar cake\". It comes from the island of Funen (Fyn) but is now eaten all over Denmark.",
+  "forms": [
+   {
+    "da": "en brunsviger",
+    "en": "a Funen brown-sugar cake"
+   },
+   {
+    "da": "brunsvigeren",
+    "en": "the Funen brown-sugar cake"
+   },
+   {
+    "da": "brunsvigere",
+    "en": "Funen brown-sugar cakes"
+   },
+   {
+    "da": "brunsvigerne",
+    "en": "the Funen brown-sugar cakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kanelsnegl",
+    "en": "a cinnamon roll"
+   },
+   {
+    "da": "et wienerbrød",
+    "en": "a Danish pastry"
+   },
+   {
+    "da": "en tebirkes",
+    "en": "a poppy-seed pastry"
+   },
+   {
+    "da": "en lagkage",
+    "en": "a layer cake"
+   }
+  ],
+  "sentence": {
+   "da": "En **brunsviger** er en blød gærkage med sukker og smør på toppen.",
+   "en": "A brunsviger is a soft yeast cake with sugar and butter on top."
+  }
+ },
+ "en bruser": {
+  "file": "b.json",
+  "explanation": "\"En bruser\" means \"a shower\", the fixture you stand under.",
+  "forms": [
+   {
+    "da": "en bruser",
+    "en": "a shower"
+   },
+   {
+    "da": "bruseren",
+    "en": "the shower"
+   },
+   {
+    "da": "brusere",
+    "en": "showers"
+   },
+   {
+    "da": "bruserne",
+    "en": "the showers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et brusebad",
+    "en": "a shower (the act)"
+   },
+   {
+    "da": "en brusekabine",
+    "en": "a shower stall"
+   },
+   {
+    "da": "en håndbruser",
+    "en": "a handheld shower"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en ny **bruser** på badeværelset.",
+   "en": "There is a new shower in the bathroom."
+  }
+ },
+ "en bryllupsdag": {
+  "file": "b.json",
+  "explanation": "\"En bryllupsdag\" means \"a wedding anniversary\", the day each year when a couple married. It can also be the wedding day itself: \"Han er en glad brudgom på sin bryllupsdag\" (He is a happy groom on his wedding day).",
+  "forms": [
+   {
+    "da": "en bryllupsdag",
+    "en": "a wedding anniversary"
+   },
+   {
+    "da": "bryllupsdagen",
+    "en": "the wedding anniversary"
+   },
+   {
+    "da": "bryllupsdage",
+    "en": "wedding anniversaries"
+   },
+   {
+    "da": "bryllupsdagene",
+    "en": "the wedding anniversaries"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fødselsdag",
+    "en": "a birthday"
+   },
+   {
+    "da": "et jubilæum",
+    "en": "an anniversary"
+   },
+   {
+    "da": "en årsdag",
+    "en": "an anniversary (of an event)"
+   }
+  ],
+  "sentence": {
+   "da": "I dag er det vores **bryllupsdag**, og vi spiser ude.",
+   "en": "Today is our wedding anniversary, and we are eating out."
+  }
+ },
+ "en bryllupsrejse": {
+  "file": "b.json",
+  "explanation": "\"En bryllupsrejse\" means \"a honeymoon\", the journey a couple takes after the wedding. It is built from bryllup (wedding) and rejse (journey).",
+  "forms": [
+   {
+    "da": "en bryllupsrejse",
+    "en": "a honeymoon"
+   },
+   {
+    "da": "bryllupsrejsen",
+    "en": "the honeymoon"
+   },
+   {
+    "da": "bryllupsrejser",
+    "en": "honeymoons"
+   },
+   {
+    "da": "bryllupsrejserne",
+    "en": "the honeymoons"
+   }
+  ],
+  "related": [
+   {
+    "da": "et brudepar",
+    "en": "a bride and groom"
+   },
+   {
+    "da": "en ferie",
+    "en": "a vacation"
+   },
+   {
+    "da": "en tur",
+    "en": "a trip"
+   },
+   {
+    "da": "flitterdage",
+    "en": "honeymoon days"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil på **bryllupsrejse** til Italien i maj.",
+   "en": "We want to go on our honeymoon to Italy in May."
+  }
+ },
+ "en brændenælde": {
+  "file": "b.json",
+  "explanation": "\"En brændenælde\" means \"a stinging nettle\", a wild plant whose leaves sting the skin when you touch them. It is often shortened to \"en nælde\" (a nettle).",
+  "forms": [
+   {
+    "da": "en brændenælde",
+    "en": "a stinging nettle"
+   },
+   {
+    "da": "brændenælden",
+    "en": "the stinging nettle"
+   },
+   {
+    "da": "brændenælder",
+    "en": "stinging nettles"
+   },
+   {
+    "da": "brændenælderne",
+    "en": "the stinging nettles"
+   }
+  ],
+  "related": [
+   {
+    "da": "et dokblad",
+    "en": "a dock leaf"
+   },
+   {
+    "da": "en tidsel",
+    "en": "a thistle"
+   },
+   {
+    "da": "en kløe",
+    "en": "an itch"
+   },
+   {
+    "da": "en nældefeber",
+    "en": "hives"
+   }
+  ],
+  "sentence": {
+   "da": "Hvis du rører ved en **brændenælde**, svier huden.",
+   "en": "If you touch a stinging nettle, the skin stings."
+  }
+ },
+ "en brødkniv": {
+  "file": "b.json",
+  "explanation": "\"En brødkniv\" means \"a bread knife\", the long knife with small teeth that cuts bread without crushing it.",
+  "forms": [
+   {
+    "da": "en brødkniv",
+    "en": "a bread knife"
+   },
+   {
+    "da": "brødkniven",
+    "en": "the bread knife"
+   },
+   {
+    "da": "brødknive",
+    "en": "bread knives"
+   },
+   {
+    "da": "brødknivene",
+    "en": "the bread knives"
+   }
+  ],
+  "related": [
+   {
+    "da": "en smørkniv",
+    "en": "a butter knife"
+   },
+   {
+    "da": "en osteskærer",
+    "en": "a cheese slicer"
+   },
+   {
+    "da": "et skærebræt",
+    "en": "a cutting board"
+   }
+  ],
+  "sentence": {
+   "da": "Han skærer det friske brød med en **brødkniv**.",
+   "en": "He cuts the fresh bread with a bread knife."
+  }
+ },
+ "en brødkurv": {
+  "file": "b.json",
+  "explanation": "\"En brødkurv\" means \"a bread basket\", a basket for bread or rolls that stands on the table at a meal. It is built from brød (bread) and kurv (basket).",
+  "forms": [
+   {
+    "da": "en brødkurv",
+    "en": "a bread basket"
+   },
+   {
+    "da": "brødkurven",
+    "en": "the bread basket"
+   },
+   {
+    "da": "brødkurve",
+    "en": "bread baskets"
+   },
+   {
+    "da": "brødkurvene",
+    "en": "the bread baskets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en brødkasse",
+    "en": "a bread box"
+   },
+   {
+    "da": "en frugtskål",
+    "en": "a fruit bowl"
+   },
+   {
+    "da": "en bakke",
+    "en": "a tray"
+   }
+  ],
+  "sentence": {
+   "da": "Vi lægger brødet i en **brødkurv**.",
+   "en": "We put the bread in a bread basket."
+  }
+ },
+ "en brødrister": {
+  "file": "b.json",
+  "explanation": "\"En brødrister\" means \"a toaster\". It is built from brød (bread) and at riste (to toast).",
+  "forms": [
+   {
+    "da": "en brødrister",
+    "en": "a toaster"
+   },
+   {
+    "da": "brødristeren",
+    "en": "the toaster"
+   },
+   {
+    "da": "brødristere",
+    "en": "toasters"
+   },
+   {
+    "da": "brødristerne",
+    "en": "the toasters"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ovn",
+    "en": "an oven"
+   },
+   {
+    "da": "en grill",
+    "en": "a grill"
+   },
+   {
+    "da": "en kaffemaskine",
+    "en": "a coffee maker"
+   },
+   {
+    "da": "en elkedel",
+    "en": "an electric kettle"
+   }
+  ],
+  "sentence": {
+   "da": "En **brødrister** gør brødet varmt og sprødt.",
+   "en": "A toaster makes the bread warm and crispy."
+  }
+ },
+ "en brøk": {
+  "file": "b.json",
+  "explanation": "\"En brøk\" means \"a fraction\", a part of a whole in math, like 1/2 or 3/4.",
+  "forms": [
+   {
+    "da": "en brøk",
+    "en": "a fraction"
+   },
+   {
+    "da": "brøken",
+    "en": "the fraction"
+   },
+   {
+    "da": "brøker",
+    "en": "fractions"
+   },
+   {
+    "da": "brøkerne",
+    "en": "the fractions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en halvdel",
+    "en": "a half"
+   },
+   {
+    "da": "en fjerdedel",
+    "en": "a quarter"
+   },
+   {
+    "da": "en tredjedel",
+    "en": "a third"
+   },
+   {
+    "da": "en procent",
+    "en": "a percent"
+   }
+  ],
+  "sentence": {
+   "da": "En fjerdedel af en pizza er en **brøk**.",
+   "en": "A quarter of a pizza is a fraction."
+  }
+ },
+ "en brønd": {
+  "file": "b.json",
+  "explanation": "\"En brønd\" means \"a well\", a deep hole dug in the ground to reach water. A hole dug for oil is also a \"brønd\": \"en oliebrønd\" (an oil well).",
+  "forms": [
+   {
+    "da": "en brønd",
+    "en": "a well"
+   },
+   {
+    "da": "brønden",
+    "en": "the well"
+   },
+   {
+    "da": "brønde",
+    "en": "wells"
+   },
+   {
+    "da": "brøndene",
+    "en": "the wells"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pumpe",
+    "en": "a pump"
+   },
+   {
+    "da": "en spand",
+    "en": "a bucket"
+   },
+   {
+    "da": "en kilde",
+    "en": "a spring"
+   }
+  ],
+  "sentence": {
+   "da": "Vandet i landsbyen kommer op fra en dyb **brønd**.",
+   "en": "The water in the village comes up from a deep well."
+  }
+ },
+ "en buffet": {
+  "file": "b.json",
+  "explanation": "\"En buffet\" means \"a buffet\", a long table with many dishes where you serve yourself.",
+  "forms": [
+   {
+    "da": "en buffet",
+    "en": "a buffet"
+   },
+   {
+    "da": "buffeten",
+    "en": "the buffet"
+   },
+   {
+    "da": "buffeter",
+    "en": "buffets"
+   },
+   {
+    "da": "buffeterne",
+    "en": "the buffets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en morgenmadsbuffet",
+    "en": "a breakfast buffet"
+   },
+   {
+    "da": "en frokostbuffet",
+    "en": "a lunch buffet"
+   },
+   {
+    "da": "en salatbar",
+    "en": "a salad bar"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager selv mad fra den store **buffet**.",
+   "en": "We take food ourselves from the big buffet."
+  }
+ }
+}

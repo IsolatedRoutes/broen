@@ -1,0 +1,4158 @@
+{
+ "en liste": {
+  "file": "l.json",
+  "explanation": "\"En liste\" means \"a list\", items written one under the other so you do not forget them.",
+  "forms": [
+   {
+    "da": "en liste",
+    "en": "a list"
+   },
+   {
+    "da": "listen",
+    "en": "the list"
+   },
+   {
+    "da": "lister",
+    "en": "lists"
+   },
+   {
+    "da": "listerne",
+    "en": "the lists"
+   }
+  ],
+  "related": [
+   {
+    "da": "en indkøbsliste",
+    "en": "a shopping list"
+   },
+   {
+    "da": "en ønskeliste",
+    "en": "a wish list"
+   },
+   {
+    "da": "en huskeliste",
+    "en": "a reminder list"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skriver mælk og brød på en **liste**.",
+   "en": "I write milk and bread on a list."
+  }
+ },
+ "en liter": {
+  "file": "l.json",
+  "explanation": "\"En liter\" means \"a liter\", a unit for measuring liquids such as milk, water and juice.",
+  "forms": [
+   {
+    "da": "en liter",
+    "en": "a liter"
+   },
+   {
+    "da": "literen",
+    "en": "the liter"
+   },
+   {
+    "da": "liter",
+    "en": "liters"
+   },
+   {
+    "da": "literne",
+    "en": "the liters"
+   }
+  ],
+  "related": [
+   {
+    "da": "en halv liter",
+    "en": "half a liter"
+   },
+   {
+    "da": "en deciliter",
+    "en": "a deciliter"
+   },
+   {
+    "da": "et gram",
+    "en": "a gram"
+   },
+   {
+    "da": "et kilo",
+    "en": "a kilo"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg køber to **liter** mælk.",
+   "en": "I am buying two liters of milk."
+  }
+ },
+ "en litteraturliste": {
+  "file": "l.json",
+  "explanation": "\"En litteraturliste\" means \"a bibliography\", the list of books and articles you used for a paper or report. You put the list at the end of the paper.",
+  "forms": [
+   {
+    "da": "en litteraturliste",
+    "en": "a bibliography"
+   },
+   {
+    "da": "litteraturlisten",
+    "en": "the bibliography"
+   },
+   {
+    "da": "litteraturlister",
+    "en": "bibliographies"
+   },
+   {
+    "da": "litteraturlisterne",
+    "en": "the bibliographies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kilde",
+    "en": "a source"
+   },
+   {
+    "da": "en henvisning",
+    "en": "a reference"
+   },
+   {
+    "da": "et citat",
+    "en": "a quote"
+   }
+  ],
+  "sentence": {
+   "da": "Sidst i opgaven skal der være en **litteraturliste** med alle bøgerne.",
+   "en": "At the end of the paper there must be a bibliography with all the books."
+  }
+ },
+ "en livredder": {
+  "file": "l.json",
+  "explanation": "\"En livredder\" means \"a lifeguard\", a person who watches swimmers and saves them if needed. It is built from liv (life) and redder (one who saves). \"Liv\" also appears in \"en livsstil\" (a lifestyle).",
+  "forms": [
+   {
+    "da": "en livredder",
+    "en": "a lifeguard"
+   },
+   {
+    "da": "livredderen",
+    "en": "the lifeguard"
+   },
+   {
+    "da": "livreddere",
+    "en": "lifeguards"
+   },
+   {
+    "da": "livredderne",
+    "en": "the lifeguards"
+   }
+  ],
+  "related": [
+   {
+    "da": "at redde",
+    "en": "to rescue"
+   },
+   {
+    "da": "en redningsvest",
+    "en": "a life jacket"
+   },
+   {
+    "da": "en redningskrans",
+    "en": "a life ring"
+   }
+  ],
+  "sentence": {
+   "da": "En **livredder** passer på børnene ved vandet.",
+   "en": "A lifeguard watches the children by the water."
+  }
+ },
+ "en livret": {
+  "file": "l.json",
+  "explanation": "\"En livret\" means \"a favorite dish\", the meal you love most. It is built from liv (life) and ret (dish). \"Ret\" also counts the dishes of a meal: \"en middag med tre retter\" (a dinner with three dishes).",
+  "forms": [
+   {
+    "da": "en livret",
+    "en": "a favorite dish"
+   },
+   {
+    "da": "livretten",
+    "en": "the favorite dish"
+   },
+   {
+    "da": "livretter",
+    "en": "favorite dishes"
+   },
+   {
+    "da": "livretterne",
+    "en": "the favorite dishes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en favorit",
+    "en": "a favorite"
+   },
+   {
+    "da": "en hovedret",
+    "en": "a main course"
+   },
+   {
+    "da": "en forret",
+    "en": "a starter"
+   },
+   {
+    "da": "en specialitet",
+    "en": "a specialty"
+   }
+  ],
+  "sentence": {
+   "da": "Min **livret** er lasagne, og jeg elsker den.",
+   "en": "My favorite dish is lasagna, and I love it."
+  }
+ },
+ "en livsstil": {
+  "file": "l.json",
+  "explanation": "\"En livsstil\" means \"a lifestyle\", the way a person lives. It is built from liv (life) and stil (style). \"Stil\" is also the word for personal style: \"Det er ikke min stil\" (That is not my style).",
+  "forms": [
+   {
+    "da": "en livsstil",
+    "en": "a lifestyle"
+   },
+   {
+    "da": "livsstilen",
+    "en": "the lifestyle"
+   },
+   {
+    "da": "livsstile",
+    "en": "lifestyles"
+   },
+   {
+    "da": "livsstilene",
+    "en": "the lifestyles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vane",
+    "en": "a habit"
+   },
+   {
+    "da": "sundhed",
+    "en": "health"
+   },
+   {
+    "da": "en dagligdag",
+    "en": "everyday life"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en meget sund **livsstil**.",
+   "en": "She has a very healthy lifestyle."
+  }
+ },
+ "en livstid": {
+  "file": "l.json",
+  "explanation": "\"En livstid\" means \"a lifetime\", all the years a person lives. \"Livstid\" also means a life sentence: \"Han fik livstid\" (He got life in prison).",
+  "forms": [
+   {
+    "da": "en livstid",
+    "en": "a lifetime"
+   },
+   {
+    "da": "livstiden",
+    "en": "the lifetime"
+   },
+   {
+    "da": "livstider",
+    "en": "lifetimes"
+   },
+   {
+    "da": "livstiderne",
+    "en": "the lifetimes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en levetid",
+    "en": "a lifespan (for things)"
+   },
+   {
+    "da": "en levealder",
+    "en": "a life expectancy"
+   },
+   {
+    "da": "at leve",
+    "en": "to live"
+   },
+   {
+    "da": "et liv",
+    "en": "a life"
+   }
+  ],
+  "sentence": {
+   "da": "Det sker kun én gang i en **livstid**.",
+   "en": "It only happens once in a lifetime."
+  }
+ },
+ "en lobby": {
+  "file": "l.json",
+  "explanation": "\"En lobby\" means \"a lobby\", the big open room just inside the door of a hotel or an office building.",
+  "forms": [
+   {
+    "da": "en lobby",
+    "en": "a lobby"
+   },
+   {
+    "da": "lobbyen",
+    "en": "the lobby"
+   },
+   {
+    "da": "lobbyer",
+    "en": "lobbies"
+   },
+   {
+    "da": "lobbyerne",
+    "en": "the lobbies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forhal",
+    "en": "an entrance hall"
+   },
+   {
+    "da": "en hal",
+    "en": "a hall"
+   },
+   {
+    "da": "en entré",
+    "en": "an entryway"
+   },
+   {
+    "da": "en reception",
+    "en": "a reception desk"
+   }
+  ],
+  "sentence": {
+   "da": "Vi venter i hotellets **lobby**.",
+   "en": "We are waiting in the hotel's lobby."
+  }
+ },
+ "en lobbyist": {
+  "file": "l.json",
+  "explanation": "\"En lobbyist\" means \"a lobbyist\", a person who works to influence the people who make laws, on behalf of a company or a group. The work itself is called \"lobbyisme\" (lobbying).",
+  "forms": [
+   {
+    "da": "en lobbyist",
+    "en": "a lobbyist"
+   },
+   {
+    "da": "lobbyisten",
+    "en": "the lobbyist"
+   },
+   {
+    "da": "lobbyister",
+    "en": "lobbyists"
+   },
+   {
+    "da": "lobbyisterne",
+    "en": "the lobbyists"
+   }
+  ],
+  "related": [
+   {
+    "da": "en politiker",
+    "en": "a politician"
+   },
+   {
+    "da": "en rådgiver",
+    "en": "an adviser"
+   },
+   {
+    "da": "en interesseorganisation",
+    "en": "an advocacy body"
+   },
+   {
+    "da": "en kampagne",
+    "en": "a campaign"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet har hyret en **lobbyist** til at påvirke ministeren.",
+   "en": "The company has hired a lobbyist to influence the minister."
+  }
+ },
+ "en loftslampe": {
+  "file": "l.json",
+  "explanation": "\"En loftslampe\" means \"a ceiling light\", a light fixed to the ceiling. It is built from loft (ceiling) and lampe (lamp). \"Loft\" also means an attic: \"Vi har gamle ting på loftet\" (We have old things in the attic).",
+  "forms": [
+   {
+    "da": "en loftslampe",
+    "en": "a ceiling light"
+   },
+   {
+    "da": "loftslampen",
+    "en": "the ceiling light"
+   },
+   {
+    "da": "loftslamper",
+    "en": "ceiling lights"
+   },
+   {
+    "da": "loftslamperne",
+    "en": "the ceiling lights"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lysekrone",
+    "en": "a chandelier"
+   },
+   {
+    "da": "en gulvlampe",
+    "en": "a floor lamp"
+   },
+   {
+    "da": "en bordlampe",
+    "en": "a table lamp"
+   },
+   {
+    "da": "en spot",
+    "en": "a spotlight"
+   }
+  ],
+  "sentence": {
+   "da": "En **loftslampe** hænger i loftet over bordet.",
+   "en": "A ceiling light hangs from the ceiling over the table."
+  }
+ },
+ "en lokalavis": {
+  "file": "l.json",
+  "explanation": "\"En lokalavis\" means \"a local newspaper\", a paper that covers one town or area, so it is where you read about what happens close to home.",
+  "forms": [
+   {
+    "da": "en lokalavis",
+    "en": "a local newspaper"
+   },
+   {
+    "da": "lokalavisen",
+    "en": "the local newspaper"
+   },
+   {
+    "da": "lokalaviser",
+    "en": "local newspapers"
+   },
+   {
+    "da": "lokalaviserne",
+    "en": "the local newspapers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et dagblad",
+    "en": "a daily paper"
+   },
+   {
+    "da": "et ugeblad",
+    "en": "a weekly magazine"
+   },
+   {
+    "da": "en journalist",
+    "en": "a journalist"
+   },
+   {
+    "da": "en nyhed",
+    "en": "a piece of news"
+   }
+  ],
+  "sentence": {
+   "da": "Vores **lokalavis** skriver om skolen, markedet og byrådet.",
+   "en": "Our local newspaper writes about the school, the market and the town council."
+  }
+ },
+ "en lokalbefolkning": {
+  "file": "l.json",
+  "explanation": "\"En lokalbefolkning\" means \"a local population\", the people who live in an area all year, as opposed to visitors passing through.",
+  "forms": [
+   {
+    "da": "en lokalbefolkning",
+    "en": "a local population"
+   },
+   {
+    "da": "lokalbefolkningen",
+    "en": "the local population"
+   },
+   {
+    "da": "lokalbefolkninger",
+    "en": "local populations"
+   },
+   {
+    "da": "lokalbefolkningerne",
+    "en": "the local populations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en turist",
+    "en": "a tourist"
+   },
+   {
+    "da": "en indbygger",
+    "en": "an inhabitant"
+   },
+   {
+    "da": "en beboer",
+    "en": "a resident"
+   },
+   {
+    "da": "en tilflytter",
+    "en": "a newcomer"
+   }
+  ],
+  "sentence": {
+   "da": "Kun en lille **lokalbefolkning** bor på øen hele året.",
+   "en": "Only a small local population lives on the island all year."
+  }
+ },
+ "en lokomotivfører": {
+  "file": "l.json",
+  "explanation": "\"En lokomotivfører\" means \"a train driver\". The word is built from et lokomotiv (a locomotive) and fører (driver). \"En togfører\" (a conductor) has a different job and looks after the passengers.",
+  "forms": [
+   {
+    "da": "en lokomotivfører",
+    "en": "a train driver"
+   },
+   {
+    "da": "lokomotivføreren",
+    "en": "the train driver"
+   },
+   {
+    "da": "lokomotivførere",
+    "en": "train drivers"
+   },
+   {
+    "da": "lokomotivførerne",
+    "en": "the train drivers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en buschauffør",
+    "en": "a bus driver"
+   },
+   {
+    "da": "en pilot",
+    "en": "a pilot"
+   },
+   {
+    "da": "en kontrollør",
+    "en": "an inspector"
+   }
+  ],
+  "sentence": {
+   "da": "En **lokomotivfører** sidder forrest og kører toget.",
+   "en": "A train driver sits at the front and drives the train."
+  }
+ },
+ "en lomme": {
+  "file": "l.json",
+  "explanation": "\"En lomme\" means \"a pocket\", the small bag sewn into clothes such as pants and jackets.",
+  "forms": [
+   {
+    "da": "en lomme",
+    "en": "a pocket"
+   },
+   {
+    "da": "lommen",
+    "en": "the pocket"
+   },
+   {
+    "da": "lommer",
+    "en": "pockets"
+   },
+   {
+    "da": "lommerne",
+    "en": "the pockets"
+   }
+  ],
+  "related": [
+   {
+    "da": "lommepenge",
+    "en": "pocket money"
+   },
+   {
+    "da": "en lommelygte",
+    "en": "a flashlight"
+   },
+   {
+    "da": "en lommeregner",
+    "en": "a calculator"
+   }
+  ],
+  "sentence": {
+   "da": "Min jakke har en **lomme** til telefonen.",
+   "en": "My jacket has a pocket for the phone."
+  }
+ },
+ "en lommelygte": {
+  "file": "l.json",
+  "explanation": "\"En lommelygte\" means \"a flashlight\". It is built from lomme (pocket) and lygte (light). The same \"lygte\" is in \"en baglygte\" (a taillight) and \"en forlygte\" (a headlight).",
+  "forms": [
+   {
+    "da": "en lommelygte",
+    "en": "a flashlight"
+   },
+   {
+    "da": "lommelygten",
+    "en": "the flashlight"
+   },
+   {
+    "da": "lommelygter",
+    "en": "flashlights"
+   },
+   {
+    "da": "lommelygterne",
+    "en": "the flashlights"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pandelampe",
+    "en": "a headlamp"
+   },
+   {
+    "da": "et batteri",
+    "en": "a battery"
+   },
+   {
+    "da": "en lampe",
+    "en": "a lamp"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bruger en **lommelygte**, fordi det er mørkt.",
+   "en": "I use a flashlight because it is dark."
+  }
+ },
+ "en lommeregner": {
+  "file": "l.json",
+  "explanation": "\"En lommeregner\" means \"a calculator\". It is built from lomme (pocket) and regne (calculate). \"Lomme\" also appears in \"lommepenge\" (allowance) and \"en lommekniv\" (a pocket knife).",
+  "forms": [
+   {
+    "da": "en lommeregner",
+    "en": "a calculator"
+   },
+   {
+    "da": "lommeregneren",
+    "en": "the calculator"
+   },
+   {
+    "da": "lommeregnere",
+    "en": "calculators"
+   },
+   {
+    "da": "lommeregnerne",
+    "en": "the calculators"
+   }
+  ],
+  "related": [
+   {
+    "da": "en regnemaskine",
+    "en": "a calculator"
+   },
+   {
+    "da": "et regnestykke",
+    "en": "a math problem"
+   },
+   {
+    "da": "et tal",
+    "en": "a number"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bruger en **lommeregner** til matematik.",
+   "en": "I use a calculator for math."
+  }
+ },
+ "en loppe": {
+  "file": "l.json",
+  "explanation": "\"En loppe\" means \"a flea\", a tiny jumping insect that lives on animals such as dogs and cats and bites them. \"Loppe\" is also the start of \"loppemarked\" (a flea market), where people sell used things.",
+  "forms": [
+   {
+    "da": "en loppe",
+    "en": "a flea"
+   },
+   {
+    "da": "loppen",
+    "en": "the flea"
+   },
+   {
+    "da": "lopper",
+    "en": "fleas"
+   },
+   {
+    "da": "lopperne",
+    "en": "the fleas"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lus",
+    "en": "a louse"
+   },
+   {
+    "da": "en myg",
+    "en": "a mosquito"
+   },
+   {
+    "da": "en flåt",
+    "en": "a tick"
+   }
+  ],
+  "sentence": {
+   "da": "En **loppe** kan hoppe langt og bor i hundens pels.",
+   "en": "A flea can jump far and lives in the dog's fur."
+  }
+ },
+ "en lov": {
+  "file": "l.json",
+  "explanation": "\"En lov\" means \"a law\", a rule that the country has decided everyone must obey, made by parliament.",
+  "forms": [
+   {
+    "da": "en lov",
+    "en": "a law"
+   },
+   {
+    "da": "loven",
+    "en": "the law"
+   },
+   {
+    "da": "love",
+    "en": "laws"
+   },
+   {
+    "da": "lovene",
+    "en": "the laws"
+   }
+  ],
+  "related": [
+   {
+    "da": "en regel",
+    "en": "a rule"
+   },
+   {
+    "da": "lovlig",
+    "en": "legal"
+   },
+   {
+    "da": "ulovlig",
+    "en": "illegal"
+   },
+   {
+    "da": "en dommer",
+    "en": "a judge"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en ny **lov** om cykelhjelme.",
+   "en": "There is a new law about bicycle helmets."
+  }
+ },
+ "en lufthavn": {
+  "file": "l.json",
+  "explanation": "\"En lufthavn\" means \"an airport\". It is built from luft (air) and havn (harbor). \"Havn\" is also the place for boats: \"Båden ligger i havnen\" (The boat is in the harbor).",
+  "forms": [
+   {
+    "da": "en lufthavn",
+    "en": "an airport"
+   },
+   {
+    "da": "lufthavnen",
+    "en": "the airport"
+   },
+   {
+    "da": "lufthavne",
+    "en": "airports"
+   },
+   {
+    "da": "lufthavnene",
+    "en": "the airports"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fly",
+    "en": "an airplane"
+   },
+   {
+    "da": "en flyplads",
+    "en": "an airfield"
+   },
+   {
+    "da": "en terminal",
+    "en": "a terminal"
+   }
+  ],
+  "sentence": {
+   "da": "Flyene lander og letter i en stor **lufthavn**.",
+   "en": "The planes land and take off at a big airport."
+  }
+ },
+ "en lugt": {
+  "file": "l.json",
+  "explanation": "\"En lugt\" means \"a smell\", good or bad. For a nice smell, you can say \"en duft\" (a scent).",
+  "forms": [
+   {
+    "da": "en lugt",
+    "en": "a smell"
+   },
+   {
+    "da": "lugten",
+    "en": "the smell"
+   },
+   {
+    "da": "lugte",
+    "en": "smells"
+   },
+   {
+    "da": "lugtene",
+    "en": "the smells"
+   }
+  ],
+  "related": [
+   {
+    "da": "en stank",
+    "en": "a stench"
+   },
+   {
+    "da": "at dufte",
+    "en": "to smell nice"
+   },
+   {
+    "da": "en smag",
+    "en": "a taste"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en dejlig **lugt** i køkkenet.",
+   "en": "There is a lovely smell in the kitchen."
+  }
+ },
+ "en lukkedag": {
+  "file": "l.json",
+  "explanation": "\"En lukkedag\" means \"a closing day\", a day when a business or institution is shut on purpose and planned ahead. It is not the same as \"en lukketid\" (a closing time), which is only the hour of the day when a place closes.",
+  "forms": [
+   {
+    "da": "en lukkedag",
+    "en": "a closing day"
+   },
+   {
+    "da": "lukkedagen",
+    "en": "the closing day"
+   },
+   {
+    "da": "lukkedage",
+    "en": "closing days"
+   },
+   {
+    "da": "lukkedagene",
+    "en": "the closing days"
+   }
+  ],
+  "related": [
+   {
+    "da": "en helligdag",
+    "en": "a public holiday"
+   },
+   {
+    "da": "en fridag",
+    "en": "a day off"
+   },
+   {
+    "da": "en åbningstid",
+    "en": "an opening time"
+   }
+  ],
+  "sentence": {
+   "da": "Børnehaven har en **lukkedag** mellem jul og nytår.",
+   "en": "The daycare has a closing day between Christmas and New Year."
+  }
+ },
+ "en lukketid": {
+  "file": "l.json",
+  "explanation": "\"En lukketid\" means \"a closing time\", the hour when a shop, bar or museum shuts for the day. A whole day when a place is shut is called \"en lukkedag\" (a closing day).",
+  "forms": [
+   {
+    "da": "en lukketid",
+    "en": "a closing time"
+   },
+   {
+    "da": "lukketiden",
+    "en": "the closing time"
+   },
+   {
+    "da": "lukketider",
+    "en": "closing times"
+   },
+   {
+    "da": "lukketiderne",
+    "en": "the closing times"
+   }
+  ],
+  "related": [
+   {
+    "da": "en åbningstid",
+    "en": "opening hours"
+   },
+   {
+    "da": "at lukke",
+    "en": "to close"
+   },
+   {
+    "da": "at åbne",
+    "en": "to open"
+   }
+  ],
+  "sentence": {
+   "da": "Ved **lukketid** går alle gæsterne hjem fra baren.",
+   "en": "At closing time all the guests go home from the bar."
+  }
+ },
+ "en lunge": {
+  "file": "l.json",
+  "explanation": "\"En lunge\" means \"a lung\", the body part you breathe with. \"Lungebetændelse\" (pneumonia) is built from lunge and betændelse (inflammation).",
+  "forms": [
+   {
+    "da": "en lunge",
+    "en": "a lung"
+   },
+   {
+    "da": "lungen",
+    "en": "the lung"
+   },
+   {
+    "da": "lunger",
+    "en": "lungs"
+   },
+   {
+    "da": "lungerne",
+    "en": "the lungs"
+   }
+  ],
+  "related": [
+   {
+    "da": "et hjerte",
+    "en": "a heart"
+   },
+   {
+    "da": "at trække vejret",
+    "en": "to breathe"
+   },
+   {
+    "da": "et luftrør",
+    "en": "a windpipe"
+   },
+   {
+    "da": "en ånde",
+    "en": "a breath"
+   }
+  ],
+  "sentence": {
+   "da": "Hjertet sidder mellem den højre og venstre **lunge**.",
+   "en": "The heart sits between the right and left lung."
+  }
+ },
+ "en lup": {
+  "file": "l.json",
+  "explanation": "\"En lup\" means \"a magnifying glass\", which makes small things look bigger.",
+  "forms": [
+   {
+    "da": "en lup",
+    "en": "a magnifying glass"
+   },
+   {
+    "da": "luppen",
+    "en": "the magnifying glass"
+   },
+   {
+    "da": "luper",
+    "en": "magnifying glasses"
+   },
+   {
+    "da": "luperne",
+    "en": "the magnifying glasses"
+   }
+  ],
+  "related": [
+   {
+    "da": "et mikroskop",
+    "en": "a microscope"
+   },
+   {
+    "da": "en kikkert",
+    "en": "binoculars"
+   },
+   {
+    "da": "et forstørrelsesglas",
+    "en": "a magnifying glass"
+   },
+   {
+    "da": "et teleskop",
+    "en": "a telescope"
+   }
+  ],
+  "sentence": {
+   "da": "Teksten er lille, så jeg bruger en **lup**.",
+   "en": "The text is small, so I use a magnifying glass."
+  }
+ },
+ "en lur": {
+  "file": "l.json",
+  "explanation": "\"En lur\" means \"a nap\", a short sleep during the day. It also means a phone receiver: \"Han tog luren\" (He picked up the phone).",
+  "forms": [
+   {
+    "da": "en lur",
+    "en": "a nap"
+   },
+   {
+    "da": "luren",
+    "en": "the nap"
+   },
+   {
+    "da": "lurer",
+    "en": "naps"
+   },
+   {
+    "da": "lurerne",
+    "en": "the naps"
+   }
+  ],
+  "related": [
+   {
+    "da": "en middagslur",
+    "en": "a midday nap"
+   },
+   {
+    "da": "at døse",
+    "en": "to doze"
+   },
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   }
+  ],
+  "sentence": {
+   "da": "Efter frokost lægger han sig og tager en **lur**.",
+   "en": "After lunch he lies down and takes a nap."
+  }
+ },
+ "en lus": {
+  "file": "l.json",
+  "explanation": "\"En lus\" means \"a louse\", a tiny insect that lives on the skin or hair of people and animals.",
+  "forms": [
+   {
+    "da": "en lus",
+    "en": "a louse"
+   },
+   {
+    "da": "lusen",
+    "en": "the louse"
+   },
+   {
+    "da": "lus",
+    "en": "lice"
+   },
+   {
+    "da": "lusene",
+    "en": "the lice"
+   }
+  ],
+  "related": [
+   {
+    "da": "en loppe",
+    "en": "a flea"
+   },
+   {
+    "da": "en bladlus",
+    "en": "an aphid"
+   },
+   {
+    "da": "en flåt",
+    "en": "a tick"
+   }
+  ],
+  "sentence": {
+   "da": "Mange børn får **lus** i håret, når de leger tæt sammen.",
+   "en": "Many children get lice in their hair when they play close together."
+  }
+ },
+ "en lyd": {
+  "file": "l.json",
+  "explanation": "\"En lyd\" means \"a sound\", anything you hear. It also means the volume on a device: \"Skru op for lyden\" (Turn up the sound).",
+  "forms": [
+   {
+    "da": "en lyd",
+    "en": "a sound"
+   },
+   {
+    "da": "lyden",
+    "en": "the sound"
+   },
+   {
+    "da": "lyde",
+    "en": "sounds"
+   },
+   {
+    "da": "lydene",
+    "en": "the sounds"
+   }
+  ],
+  "related": [
+   {
+    "da": "en støj",
+    "en": "a noise"
+   },
+   {
+    "da": "en stemme",
+    "en": "a voice"
+   },
+   {
+    "da": "en tone",
+    "en": "a tone"
+   },
+   {
+    "da": "stilhed",
+    "en": "silence"
+   }
+  ],
+  "sentence": {
+   "da": "Vi hørte en høj **lyd** i natten.",
+   "en": "We heard a loud sound in the night."
+  }
+ },
+ "en lydbog": {
+  "file": "l.json",
+  "explanation": "\"En lydbog\" means \"an audiobook\", a book that someone reads aloud and records, so you listen instead of reading. It is built from lyd (sound) and bog (book).",
+  "forms": [
+   {
+    "da": "en lydbog",
+    "en": "an audiobook"
+   },
+   {
+    "da": "lydbogen",
+    "en": "the audiobook"
+   },
+   {
+    "da": "lydbøger",
+    "en": "audiobooks"
+   },
+   {
+    "da": "lydbøgerne",
+    "en": "the audiobooks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en e-bog",
+    "en": "an e-book"
+   },
+   {
+    "da": "en podcast",
+    "en": "a podcast"
+   },
+   {
+    "da": "en oplæser",
+    "en": "a narrator"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg lytter til en **lydbog**, når jeg går tur.",
+   "en": "I listen to an audiobook when I go for a walk."
+  }
+ },
+ "en lygte": {
+  "file": "l.json",
+  "explanation": "\"En lygte\" means \"a light\", such as a bike light or a lantern. A lamp in a room is \"en lampe\" (a lamp).",
+  "forms": [
+   {
+    "da": "en lygte",
+    "en": "a light, a lamp (on a bike or in the street)"
+   },
+   {
+    "da": "lygten",
+    "en": "the light"
+   },
+   {
+    "da": "lygter",
+    "en": "lights"
+   },
+   {
+    "da": "lygterne",
+    "en": "the lights"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lommelygte",
+    "en": "a flashlight"
+   },
+   {
+    "da": "en gadelygte",
+    "en": "a streetlight"
+   },
+   {
+    "da": "en baglygte",
+    "en": "a rear light"
+   }
+  ],
+  "sentence": {
+   "da": "Når det bliver mørkt, tænder jeg min **lygte**.",
+   "en": "When it gets dark, I turn on my light."
+  }
+ },
+ "en lynlås": {
+  "file": "l.json",
+  "explanation": "\"En lynlås\" means \"a zipper\". To zip up, say \"at lukke lynlåsen\" (to close the zipper).",
+  "forms": [
+   {
+    "da": "en lynlås",
+    "en": "a zipper"
+   },
+   {
+    "da": "lynlåsen",
+    "en": "the zipper"
+   },
+   {
+    "da": "lynlåse",
+    "en": "zippers"
+   },
+   {
+    "da": "lynlåsene",
+    "en": "the zippers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en knap",
+    "en": "a button"
+   },
+   {
+    "da": "en lås",
+    "en": "a lock"
+   },
+   {
+    "da": "et lyn",
+    "en": "a lightning bolt"
+   },
+   {
+    "da": "en trykknap",
+    "en": "a snap"
+   }
+  ],
+  "sentence": {
+   "da": "Jakken har en **lynlås** foran, ikke knapper.",
+   "en": "The jacket has a zipper in front, not buttons."
+  }
+ },
+ "en lysestage": {
+  "file": "l.json",
+  "explanation": "\"En lysestage\" means \"a candlestick\", a holder that keeps a candle standing upright. The first part is lys (light, candle).",
+  "forms": [
+   {
+    "da": "en lysestage",
+    "en": "a candlestick"
+   },
+   {
+    "da": "lysestagen",
+    "en": "the candlestick"
+   },
+   {
+    "da": "lysestager",
+    "en": "candlesticks"
+   },
+   {
+    "da": "lysestagerne",
+    "en": "the candlesticks"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fyrfadslys",
+    "en": "a tea light"
+   },
+   {
+    "da": "en kandelaber",
+    "en": "a candelabra"
+   },
+   {
+    "da": "en lanterne",
+    "en": "a lantern"
+   }
+  ],
+  "sentence": {
+   "da": "Du sætter lyset i en **lysestage** og tænder det.",
+   "en": "You put the candle in a candlestick and light it."
+  }
+ },
+ "en lyskontakt": {
+  "file": "l.json",
+  "explanation": "\"En lyskontakt\" means \"a light switch\". It is built from lys (light) and kontakt (switch, contact). You use it to \"tænde lyset\" (turn on the light) and \"slukke lyset\" (turn off the light).",
+  "forms": [
+   {
+    "da": "en lyskontakt",
+    "en": "a light switch"
+   },
+   {
+    "da": "lyskontakten",
+    "en": "the light switch"
+   },
+   {
+    "da": "lyskontakter",
+    "en": "light switches"
+   },
+   {
+    "da": "lyskontakterne",
+    "en": "the light switches"
+   }
+  ],
+  "related": [
+   {
+    "da": "en stikkontakt",
+    "en": "an electrical outlet"
+   },
+   {
+    "da": "en afbryder",
+    "en": "a switch"
+   },
+   {
+    "da": "en dimmer",
+    "en": "a dimmer"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en **lyskontakt** ved siden af døren.",
+   "en": "There is a light switch next to the door."
+  }
+ },
+ "en lysning": {
+  "file": "l.json",
+  "explanation": "\"En lysning\" means \"a clearing\", an open spot among trees where daylight reaches the ground. The word is built from lys (light).",
+  "forms": [
+   {
+    "da": "en lysning",
+    "en": "a clearing"
+   },
+   {
+    "da": "lysningen",
+    "en": "the clearing"
+   },
+   {
+    "da": "lysninger",
+    "en": "clearings"
+   },
+   {
+    "da": "lysningerne",
+    "en": "the clearings"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skov",
+    "en": "a forest"
+   },
+   {
+    "da": "en eng",
+    "en": "a meadow"
+   },
+   {
+    "da": "en rydning",
+    "en": "a cleared patch"
+   },
+   {
+    "da": "et skovbryn",
+    "en": "a forest edge"
+   }
+  ],
+  "sentence": {
+   "da": "Mellem træerne er der en åben **lysning** med masser af sol.",
+   "en": "Between the trees there is an open clearing with lots of sun."
+  }
+ },
+ "en lyspære": {
+  "file": "l.json",
+  "explanation": "\"En lyspære\" means \"a lightbulb\". It is built from lys (light) and pære (pear), because of its shape. To replace a burned-out one, you say \"at skifte pæren\" (to change the bulb).",
+  "forms": [
+   {
+    "da": "en lyspære",
+    "en": "a lightbulb"
+   },
+   {
+    "da": "lyspæren",
+    "en": "the lightbulb"
+   },
+   {
+    "da": "lyspærer",
+    "en": "lightbulbs"
+   },
+   {
+    "da": "lyspærerne",
+    "en": "the lightbulbs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en glødepære",
+    "en": "an incandescent bulb"
+   },
+   {
+    "da": "en LED-pære",
+    "en": "an LED bulb"
+   },
+   {
+    "da": "en kontakt",
+    "en": "a switch"
+   },
+   {
+    "da": "en lampe",
+    "en": "a lamp"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal købe en ny **lyspære** til lampen.",
+   "en": "I have to buy a new lightbulb for the lamp."
+  }
+ },
+ "en lytteøvelse": {
+  "file": "l.json",
+  "explanation": "\"En lytteøvelse\" means \"a listening exercise\", a task in a language course where you listen to a recording and answer questions. \"At lytte\" (to listen) is done on purpose: \"Jeg lytter til musik\" (I listen to music). \"At høre\" (to hear) just happens: \"Jeg hører en lyd\" (I hear a sound).",
+  "forms": [
+   {
+    "da": "en lytteøvelse",
+    "en": "a listening exercise"
+   },
+   {
+    "da": "lytteøvelsen",
+    "en": "the listening exercise"
+   },
+   {
+    "da": "lytteøvelser",
+    "en": "listening exercises"
+   },
+   {
+    "da": "lytteøvelserne",
+    "en": "the listening exercises"
+   }
+  ],
+  "related": [
+   {
+    "da": "en læseøvelse",
+    "en": "a reading exercise"
+   },
+   {
+    "da": "en skriveøvelse",
+    "en": "a writing exercise"
+   },
+   {
+    "da": "en prøve",
+    "en": "a test"
+   }
+  ],
+  "sentence": {
+   "da": "I en **lytteøvelse** hører du en samtale og svarer på spørgsmål.",
+   "en": "In a listening exercise you hear a conversation and answer questions."
+  }
+ },
+ "en låge": {
+  "file": "l.json",
+  "explanation": "\"En låge\" means \"a gate\", a small gate for people on foot. A big gate, for example for cars, is \"en port\" (a large gate).",
+  "forms": [
+   {
+    "da": "en låge",
+    "en": "a gate (small)"
+   },
+   {
+    "da": "lågen",
+    "en": "the gate"
+   },
+   {
+    "da": "låger",
+    "en": "gates"
+   },
+   {
+    "da": "lågerne",
+    "en": "the gates"
+   }
+  ],
+  "related": [
+   {
+    "da": "et hegn",
+    "en": "a fence"
+   },
+   {
+    "da": "en hæk",
+    "en": "a hedge"
+   },
+   {
+    "da": "en havelåge",
+    "en": "a garden gate"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en lille **låge** ind til haven.",
+   "en": "There is a small gate into the garden."
+  }
+ },
+ "en lås": {
+  "file": "l.json",
+  "explanation": "\"En lås\" means \"a lock\", on a door, a bike or a suitcase. The action is \"at låse\" (to lock).",
+  "forms": [
+   {
+    "da": "en lås",
+    "en": "a lock"
+   },
+   {
+    "da": "låsen",
+    "en": "the lock"
+   },
+   {
+    "da": "låse",
+    "en": "locks"
+   },
+   {
+    "da": "låsene",
+    "en": "the locks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hængelås",
+    "en": "a padlock"
+   },
+   {
+    "da": "en nøgle",
+    "en": "a key"
+   },
+   {
+    "da": "at låse op",
+    "en": "to unlock"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sætter en **lås** på min cykel.",
+   "en": "I put a lock on my bike."
+  }
+ },
+ "en læbe": {
+  "file": "l.json",
+  "explanation": "\"En læbe\" means \"a lip\", one of the two soft edges around your mouth. Words like \"en læbestift\" (a lipstick) are built from it.",
+  "forms": [
+   {
+    "da": "en læbe",
+    "en": "a lip"
+   },
+   {
+    "da": "læben",
+    "en": "the lip"
+   },
+   {
+    "da": "læber",
+    "en": "lips"
+   },
+   {
+    "da": "læberne",
+    "en": "the lips"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mund",
+    "en": "a mouth"
+   },
+   {
+    "da": "en tand",
+    "en": "a tooth"
+   },
+   {
+    "da": "en tunge",
+    "en": "a tongue"
+   },
+   {
+    "da": "en kind",
+    "en": "a cheek"
+   }
+  ],
+  "sentence": {
+   "da": "Munden har en øvre og en nedre **læbe**.",
+   "en": "The mouth has an upper and a lower lip."
+  }
+ },
+ "en læbestift": {
+  "file": "l.json",
+  "explanation": "\"En læbestift\" means \"a lipstick\". It is built from læbe (lip) and stift (stick). Another lip product is \"en læbepomade\" (a lip balm), which also contains \"læbe\".",
+  "forms": [
+   {
+    "da": "en læbestift",
+    "en": "a lipstick"
+   },
+   {
+    "da": "læbestiften",
+    "en": "the lipstick"
+   },
+   {
+    "da": "læbestifter",
+    "en": "lipsticks"
+   },
+   {
+    "da": "læbestifterne",
+    "en": "the lipsticks"
+   }
+  ],
+  "related": [
+   {
+    "da": "makeup",
+    "en": "makeup"
+   },
+   {
+    "da": "en mascara",
+    "en": "a mascara"
+   },
+   {
+    "da": "en neglelak",
+    "en": "a nail polish"
+   }
+  ],
+  "sentence": {
+   "da": "Hun tager rød **læbestift** på.",
+   "en": "She puts on red lipstick."
+  }
+ },
+ "en læg": {
+  "file": "l.json",
+  "explanation": "\"En læg\" means \"a calf (of the leg)\", the fleshy part at the back of your lower leg. Do not mix it up with \"en læge\" (a doctor), which has one more letter.",
+  "forms": [
+   {
+    "da": "en læg",
+    "en": "a calf (of the leg)"
+   },
+   {
+    "da": "læggen",
+    "en": "the calf (of the leg)"
+   },
+   {
+    "da": "lægge",
+    "en": "calves (of the leg)"
+   },
+   {
+    "da": "læggene",
+    "en": "the calves (of the leg)"
+   }
+  ],
+  "related": [
+   {
+    "da": "et lår",
+    "en": "a thigh"
+   },
+   {
+    "da": "en ankel",
+    "en": "an ankle"
+   },
+   {
+    "da": "et skinneben",
+    "en": "a shin bone"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg fik krampe i min **læg** under løbeturen.",
+   "en": "I got a cramp in my calf during the run."
+  }
+ },
+ "en læge": {
+  "file": "l.json",
+  "explanation": "\"En læge\" means \"a doctor\", a person who treats sick people. \"At gå til lægen\" (to go to the doctor) is how you say you are seeing one.",
+  "forms": [
+   {
+    "da": "en læge",
+    "en": "a doctor"
+   },
+   {
+    "da": "lægen",
+    "en": "the doctor"
+   },
+   {
+    "da": "læger",
+    "en": "doctors"
+   },
+   {
+    "da": "lægerne",
+    "en": "the doctors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tandlæge",
+    "en": "a dentist"
+   },
+   {
+    "da": "en dyrlæge",
+    "en": "a vet"
+   },
+   {
+    "da": "en doktor",
+    "en": "a doctor"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er syg og ringer til en **læge**.",
+   "en": "I am sick and call a doctor."
+  }
+ },
+ "en lægevagt": {
+  "file": "l.json",
+  "explanation": "\"En lægevagt\" means \"an after-hours medical service\", for illness that cannot wait until your own doctor is open again. You usually phone first, and they decide what help you need. The word is built from læge (doctor) and vagt (duty).",
+  "forms": [
+   {
+    "da": "en lægevagt",
+    "en": "an after-hours medical service"
+   },
+   {
+    "da": "lægevagten",
+    "en": "the after-hours medical service"
+   },
+   {
+    "da": "lægevagter",
+    "en": "after-hours medical services"
+   },
+   {
+    "da": "lægevagterne",
+    "en": "the after-hours medical services"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skadestue",
+    "en": "an emergency room"
+   },
+   {
+    "da": "et sygehus",
+    "en": "a hospital"
+   },
+   {
+    "da": "en vagtlæge",
+    "en": "an on-call doctor"
+   }
+  ],
+  "sentence": {
+   "da": "Der findes en **lægevagt**, som har åbent hele natten.",
+   "en": "There is an after-hours medical service that is open all night."
+  }
+ },
+ "en lænestol": {
+  "file": "l.json",
+  "explanation": "\"En lænestol\" means \"an armchair\", a soft chair you sit back in.",
+  "forms": [
+   {
+    "da": "en lænestol",
+    "en": "an armchair"
+   },
+   {
+    "da": "lænestolen",
+    "en": "the armchair"
+   },
+   {
+    "da": "lænestole",
+    "en": "armchairs"
+   },
+   {
+    "da": "lænestolene",
+    "en": "the armchairs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gyngestol",
+    "en": "a rocking chair"
+   },
+   {
+    "da": "en sofa",
+    "en": "a sofa"
+   },
+   {
+    "da": "en puf",
+    "en": "a pouf"
+   },
+   {
+    "da": "at læne sig",
+    "en": "to lean"
+   }
+  ],
+  "sentence": {
+   "da": "Han sidder i en **lænestol** og læser avis.",
+   "en": "He sits in an armchair and reads the newspaper."
+  }
+ },
+ "en længde": {
+  "file": "l.json",
+  "explanation": "\"En længde\" means \"a length\", how long something is. In a pool, it is one trip from end to end: \"Jeg svømmer ti længder\" (I swim ten lengths).",
+  "forms": [
+   {
+    "da": "en længde",
+    "en": "a length"
+   },
+   {
+    "da": "længden",
+    "en": "the length"
+   },
+   {
+    "da": "længder",
+    "en": "lengths"
+   },
+   {
+    "da": "længderne",
+    "en": "the lengths"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bredde",
+    "en": "a width"
+   },
+   {
+    "da": "en højde",
+    "en": "a height"
+   },
+   {
+    "da": "en dybde",
+    "en": "a depth"
+   },
+   {
+    "da": "en afstand",
+    "en": "a distance"
+   }
+  ],
+  "sentence": {
+   "da": "Bordets **længde** er to meter.",
+   "en": "The table's length is two meters."
+  }
+ },
+ "en lænke": {
+  "file": "l.json",
+  "explanation": "\"En lænke\" means \"a chain\", but one that holds someone or something fixed, like a shackle. It also stands for anything that takes away freedom: \"at leve i lænker\" (to live in chains). For an ordinary chain, such as on a bike or around the neck, use \"en kæde\" (a chain).",
+  "forms": [
+   {
+    "da": "en lænke",
+    "en": "a chain"
+   },
+   {
+    "da": "lænken",
+    "en": "the chain"
+   },
+   {
+    "da": "lænker",
+    "en": "chains"
+   },
+   {
+    "da": "lænkerne",
+    "en": "the chains"
+   }
+  ],
+  "related": [
+   {
+    "da": "et led",
+    "en": "a link"
+   },
+   {
+    "da": "et håndjern",
+    "en": "a handcuff"
+   },
+   {
+    "da": "fri",
+    "en": "free"
+   },
+   {
+    "da": "et fangenskab",
+    "en": "a captivity"
+   }
+  ],
+  "sentence": {
+   "da": "Fangen havde en tung **lænke** om anklen.",
+   "en": "The prisoner had a heavy chain around his ankle."
+  }
+ },
+ "en lærebog": {
+  "file": "l.json",
+  "explanation": "\"En lærebog\" means \"a textbook\", a book you learn from. It is built from at lære (to learn) and en bog (a book). \"At lære\" means both \"to learn\" and \"to teach\": \"Hun lærer mig dansk\" (She teaches me Danish).",
+  "forms": [
+   {
+    "da": "en lærebog",
+    "en": "a textbook"
+   },
+   {
+    "da": "lærebogen",
+    "en": "the textbook"
+   },
+   {
+    "da": "lærebøger",
+    "en": "textbooks"
+   },
+   {
+    "da": "lærebøgerne",
+    "en": "the textbooks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en opgavebog",
+    "en": "an exercise book"
+   },
+   {
+    "da": "en ordbog",
+    "en": "a dictionary"
+   },
+   {
+    "da": "en notesbog",
+    "en": "a notebook"
+   },
+   {
+    "da": "en håndbog",
+    "en": "a handbook"
+   }
+  ],
+  "sentence": {
+   "da": "Min **lærebog** i dansk er meget tyk.",
+   "en": "My Danish textbook is very thick."
+  }
+ },
+ "en lærer": {
+  "file": "l.json",
+  "explanation": "\"En lærer\" means \"a teacher\", for a man or a woman. To state someone's job, you leave out \"en\": \"Hun er lærer\" (She is a teacher).",
+  "forms": [
+   {
+    "da": "en lærer",
+    "en": "a teacher"
+   },
+   {
+    "da": "læreren",
+    "en": "the teacher"
+   },
+   {
+    "da": "lærere",
+    "en": "teachers"
+   },
+   {
+    "da": "lærerne",
+    "en": "the teachers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en elev",
+    "en": "a pupil"
+   },
+   {
+    "da": "at lære",
+    "en": "to learn"
+   },
+   {
+    "da": "en lærerinde",
+    "en": "a female teacher"
+   }
+  ],
+  "sentence": {
+   "da": "Vores **lærer** underviser os i dansk i skolen.",
+   "en": "Our teacher teaches us Danish at school."
+  }
+ },
+ "en lærestreg": {
+  "file": "l.json",
+  "explanation": "\"En lærestreg\" means \"a lesson learned the hard way\", something that goes wrong and teaches you not to repeat it. A lesson in school is \"en lektion\" (a lesson).",
+  "forms": [
+   {
+    "da": "en lærestreg",
+    "en": "a hard lesson"
+   },
+   {
+    "da": "lærestregen",
+    "en": "the hard lesson"
+   },
+   {
+    "da": "lærestreger",
+    "en": "hard lessons"
+   },
+   {
+    "da": "lærestregerne",
+    "en": "the hard lessons"
+   }
+  ],
+  "related": [
+   {
+    "da": "en erfaring",
+    "en": "an experience"
+   },
+   {
+    "da": "en fejl",
+    "en": "a mistake"
+   },
+   {
+    "da": "at lære",
+    "en": "to learn"
+   },
+   {
+    "da": "en advarsel",
+    "en": "a warning"
+   }
+  ],
+  "sentence": {
+   "da": "Det blev en dyr **lærestreg**, da jeg mistede min telefon.",
+   "en": "It became an expensive lesson when I lost my phone."
+  }
+ },
+ "en lærling": {
+  "file": "l.json",
+  "explanation": "\"En lærling\" means \"an apprentice\", someone who learns a trade, such as electrician, by working at a company and also attending trade school.",
+  "forms": [
+   {
+    "da": "en lærling",
+    "en": "an apprentice"
+   },
+   {
+    "da": "lærlingen",
+    "en": "the apprentice"
+   },
+   {
+    "da": "lærlinge",
+    "en": "apprentices"
+   },
+   {
+    "da": "lærlingene",
+    "en": "the apprentices"
+   }
+  ],
+  "related": [
+   {
+    "da": "en elev",
+    "en": "a student"
+   },
+   {
+    "da": "en praktikant",
+    "en": "an intern"
+   },
+   {
+    "da": "en svend",
+    "en": "a journeyman"
+   },
+   {
+    "da": "en mester",
+    "en": "a master craftsman"
+   }
+  ],
+  "sentence": {
+   "da": "I tre år er han **lærling** hos en tømrer.",
+   "en": "For three years he is an apprentice with a carpenter."
+  }
+ },
+ "en læser": {
+  "file": "l.json",
+  "explanation": "\"En læser\" means \"a reader\", a person who reads books or newspapers. The same word also means \"reads\": \"Hun læser en bog\" (She reads a book).",
+  "forms": [
+   {
+    "da": "en læser",
+    "en": "a reader"
+   },
+   {
+    "da": "læseren",
+    "en": "the reader"
+   },
+   {
+    "da": "læsere",
+    "en": "readers"
+   },
+   {
+    "da": "læserne",
+    "en": "the readers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forfatter",
+    "en": "an author"
+   },
+   {
+    "da": "en lytter",
+    "en": "a listener"
+   },
+   {
+    "da": "en seer",
+    "en": "a viewer"
+   },
+   {
+    "da": "en bogorm",
+    "en": "a bookworm"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er en flittig **læser** og låner mange bøger.",
+   "en": "She is a diligent reader and borrows many books."
+  }
+ },
+ "en læsesal": {
+  "file": "l.json",
+  "explanation": "\"En læsesal\" means \"a reading room\", a quiet room where students read and study, usually at a university. It is built from at læse (to read) and sal (a hall).",
+  "forms": [
+   {
+    "da": "en læsesal",
+    "en": "a reading room"
+   },
+   {
+    "da": "læsesalen",
+    "en": "the reading room"
+   },
+   {
+    "da": "læsesale",
+    "en": "reading rooms"
+   },
+   {
+    "da": "læsesalene",
+    "en": "the reading rooms"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bibliotek",
+    "en": "a library"
+   },
+   {
+    "da": "et auditorium",
+    "en": "a lecture hall"
+   },
+   {
+    "da": "et klasseværelse",
+    "en": "a classroom"
+   }
+  ],
+  "sentence": {
+   "da": "Det er forbudt at snakke højt på en **læsesal**.",
+   "en": "It is forbidden to talk loudly in a reading room."
+  }
+ },
+ "en læsning": {
+  "file": "l.json",
+  "explanation": "\"En læsning\" means \"a reading\", one way of understanding a text: \"en kritisk læsning af romanen\" (a critical reading of the novel). Without \"en\", \"læsning\" is reading as a skill or school subject: \"Vi har læsning i anden time\" (We have reading in second period).",
+  "forms": [
+   {
+    "da": "en læsning",
+    "en": "a reading"
+   },
+   {
+    "da": "læsningen",
+    "en": "the reading"
+   },
+   {
+    "da": "læsninger",
+    "en": "readings"
+   },
+   {
+    "da": "læsningerne",
+    "en": "the readings"
+   }
+  ],
+  "related": [
+   {
+    "da": "at læse",
+    "en": "to read"
+   },
+   {
+    "da": "en læser",
+    "en": "a reader"
+   },
+   {
+    "da": "en tolkning",
+    "en": "an interpretation"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes **læsning** af digtet var meget anderledes end min.",
+   "en": "Her reading of the poem was very different from mine."
+  }
+ },
+ "en løbesko": {
+  "file": "l.json",
+  "explanation": "\"En løbesko\" means \"a running shoe\", a shoe made for jogging and sport. It is built from løbe (run) and sko (shoe). \"Løbe-\" at the start of a word means \"for running\", as in \"et løbebånd\" (a treadmill).",
+  "forms": [
+   {
+    "da": "en løbesko",
+    "en": "a running shoe"
+   },
+   {
+    "da": "løbeskoen",
+    "en": "the running shoe"
+   },
+   {
+    "da": "løbesko",
+    "en": "running shoes"
+   },
+   {
+    "da": "løbeskoene",
+    "en": "the running shoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sportssko",
+    "en": "a sports shoe"
+   },
+   {
+    "da": "en støvle",
+    "en": "a boot"
+   },
+   {
+    "da": "en sandal",
+    "en": "a sandal"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har nye **løbesko**, så jeg løber en tur.",
+   "en": "I have new running shoes, so I am going for a run."
+  }
+ },
+ "en løbetur": {
+  "file": "l.json",
+  "explanation": "\"En løbetur\" means \"a run\", a jog for exercise. It is built from løbe (to run) and tur (trip). \"Tur\" also means a turn: \"Det er din tur\" (It is your turn).",
+  "forms": [
+   {
+    "da": "en løbetur",
+    "en": "a run"
+   },
+   {
+    "da": "løbeturen",
+    "en": "the run"
+   },
+   {
+    "da": "løbeture",
+    "en": "runs"
+   },
+   {
+    "da": "løbeturene",
+    "en": "the runs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gåtur",
+    "en": "a walk"
+   },
+   {
+    "da": "en cykeltur",
+    "en": "a bike ride"
+   },
+   {
+    "da": "at jogge",
+    "en": "to jog"
+   },
+   {
+    "da": "en vandretur",
+    "en": "a hike"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager en **løbetur** i parken hver morgen.",
+   "en": "I go for a run in the park every morning."
+  }
+ },
+ "en løgn": {
+  "file": "l.json",
+  "explanation": "\"En løgn\" means \"a lie\", something untrue that someone says on purpose. To tell a lie, use \"at fortælle\" (to tell): \"Han fortalte en løgn\" (He told a lie).",
+  "forms": [
+   {
+    "da": "en løgn",
+    "en": "a lie"
+   },
+   {
+    "da": "løgnen",
+    "en": "the lie"
+   },
+   {
+    "da": "løgne",
+    "en": "lies"
+   },
+   {
+    "da": "løgnene",
+    "en": "the lies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sandhed",
+    "en": "a truth"
+   },
+   {
+    "da": "en løgner",
+    "en": "a liar"
+   },
+   {
+    "da": "ærlig",
+    "en": "honest"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **løgn**, og det ved du godt.",
+   "en": "That is a lie, and you know it."
+  }
+ },
+ "en løgner": {
+  "file": "l.json",
+  "explanation": "\"En løgner\" means \"a liar\", a person who often says false things on purpose. It is a harsh word: calling someone \"en løgner\" is a real accusation. For a milder way to say something is wrong, use \"Det passer ikke\" (That is not right).",
+  "forms": [
+   {
+    "da": "en løgner",
+    "en": "a liar"
+   },
+   {
+    "da": "løgneren",
+    "en": "the liar"
+   },
+   {
+    "da": "løgnere",
+    "en": "liars"
+   },
+   {
+    "da": "løgnerne",
+    "en": "the liars"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lyve",
+    "en": "to lie"
+   },
+   {
+    "da": "ærlig",
+    "en": "honest"
+   },
+   {
+    "da": "en svindler",
+    "en": "a swindler"
+   }
+  ],
+  "sentence": {
+   "da": "Han er en **løgner** og fortæller aldrig sandheden.",
+   "en": "He is a liar and never tells the truth."
+  }
+ },
+ "en løjtnant": {
+  "file": "l.json",
+  "explanation": "\"En løjtnant\" means \"a lieutenant\", one of the lower officer ranks in the military, below \"en kaptajn\" (a captain).",
+  "forms": [
+   {
+    "da": "en løjtnant",
+    "en": "a lieutenant"
+   },
+   {
+    "da": "løjtnanten",
+    "en": "the lieutenant"
+   },
+   {
+    "da": "løjtnanter",
+    "en": "lieutenants"
+   },
+   {
+    "da": "løjtnanterne",
+    "en": "the lieutenants"
+   }
+  ],
+  "related": [
+   {
+    "da": "en major",
+    "en": "a major"
+   },
+   {
+    "da": "en oberst",
+    "en": "a colonel"
+   },
+   {
+    "da": "en sergent",
+    "en": "a sergeant"
+   }
+  ],
+  "sentence": {
+   "da": "En **løjtnant** er officer og leder en lille gruppe soldater.",
+   "en": "A lieutenant is an officer and leads a small group of soldiers."
+  }
+ },
+ "en løkke": {
+  "file": "l.json",
+  "explanation": "\"En løkke\" means \"a loop\", the round shape a rope or string makes when it curves around. It is also the word for a loop in computer code that repeats the same steps: \"en løkke i programmet\" (a loop in the program).",
+  "forms": [
+   {
+    "da": "en løkke",
+    "en": "a loop"
+   },
+   {
+    "da": "løkken",
+    "en": "the loop"
+   },
+   {
+    "da": "løkker",
+    "en": "loops"
+   },
+   {
+    "da": "løkkerne",
+    "en": "the loops"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sløjfe",
+    "en": "a bow"
+   },
+   {
+    "da": "en knude",
+    "en": "a knot"
+   },
+   {
+    "da": "en cirkel",
+    "en": "a circle"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan lave en **løkke** i rebet og hænge den på krogen.",
+   "en": "You can make a loop in the rope and hang it on the hook."
+  }
+ },
+ "en løn": {
+  "file": "l.json",
+  "explanation": "\"En løn\" means \"a salary\", the money you receive for your work. Pay per hour is called \"timeløn\" (hourly pay).",
+  "forms": [
+   {
+    "da": "en løn",
+    "en": "a salary"
+   },
+   {
+    "da": "lønnen",
+    "en": "the salary"
+   },
+   {
+    "da": "lønninger",
+    "en": "salaries"
+   },
+   {
+    "da": "lønningerne",
+    "en": "the salaries"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tjene",
+    "en": "to earn"
+   },
+   {
+    "da": "en lønseddel",
+    "en": "a paystub"
+   },
+   {
+    "da": "en lønforhøjelse",
+    "en": "a raise"
+   },
+   {
+    "da": "en indtægt",
+    "en": "an income"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg får min **løn** den første i måneden.",
+   "en": "I get my salary on the first of the month."
+  }
+ },
+ "en lønforhøjelse": {
+  "file": "l.json",
+  "explanation": "\"En lønforhøjelse\" means \"a raise\", more pay for the same job. It is built from løn (pay) and forhøjelse (an increase). It is often settled in \"en lønforhandling\" (a pay negotiation).",
+  "forms": [
+   {
+    "da": "en lønforhøjelse",
+    "en": "a raise"
+   },
+   {
+    "da": "lønforhøjelsen",
+    "en": "the raise"
+   },
+   {
+    "da": "lønforhøjelser",
+    "en": "raises"
+   },
+   {
+    "da": "lønforhøjelserne",
+    "en": "the raises"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bonus",
+    "en": "a bonus"
+   },
+   {
+    "da": "en forfremmelse",
+    "en": "a promotion"
+   },
+   {
+    "da": "et tillæg",
+    "en": "an extra payment"
+   }
+  ],
+  "sentence": {
+   "da": "Efter to gode år fik hun endelig en **lønforhøjelse**.",
+   "en": "After two good years she finally got a raise."
+  }
+ },
+ "en lønseddel": {
+  "file": "l.json",
+  "explanation": "\"En lønseddel\" means \"a paystub\", the statement you get each month that shows what you earned and what was taken out, such as tax. \"Seddel\" (a slip of paper) also appears in \"en pengeseddel\" (a banknote).",
+  "forms": [
+   {
+    "da": "en lønseddel",
+    "en": "a paystub"
+   },
+   {
+    "da": "lønsedlen",
+    "en": "the paystub"
+   },
+   {
+    "da": "lønsedler",
+    "en": "paystubs"
+   },
+   {
+    "da": "lønsedlerne",
+    "en": "the paystubs"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kontoudtog",
+    "en": "a bank statement"
+   },
+   {
+    "da": "en kvittering",
+    "en": "a receipt"
+   },
+   {
+    "da": "en faktura",
+    "en": "an invoice"
+   },
+   {
+    "da": "en løn",
+    "en": "a salary"
+   }
+  ],
+  "sentence": {
+   "da": "På din **lønseddel** står både din løn og din skat.",
+   "en": "Your paystub shows both your pay and your tax."
+  }
+ },
+ "en løsning": {
+  "file": "l.json",
+  "explanation": "\"En løsning\" means \"a solution\", for a problem or a puzzle. It comes from \"at løse\" (to solve).",
+  "forms": [
+   {
+    "da": "en løsning",
+    "en": "a solution"
+   },
+   {
+    "da": "løsningen",
+    "en": "the solution"
+   },
+   {
+    "da": "løsninger",
+    "en": "solutions"
+   },
+   {
+    "da": "løsningerne",
+    "en": "the solutions"
+   }
+  ],
+  "related": [
+   {
+    "da": "et svar",
+    "en": "an answer"
+   },
+   {
+    "da": "et forslag",
+    "en": "a suggestion"
+   },
+   {
+    "da": "en idé",
+    "en": "an idea"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har et problem og leder efter en **løsning**.",
+   "en": "We have a problem and are looking for a solution."
+  }
+ },
+ "en løve": {
+  "file": "l.json",
+  "explanation": "\"En løve\" means \"a lion\", a big wild cat from Africa. The male has a thick mane around its head. A female lion is \"en løvinde\" (a lioness).",
+  "forms": [
+   {
+    "da": "en løve",
+    "en": "a lion"
+   },
+   {
+    "da": "løven",
+    "en": "the lion"
+   },
+   {
+    "da": "løver",
+    "en": "lions"
+   },
+   {
+    "da": "løverne",
+    "en": "the lions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tiger",
+    "en": "a tiger"
+   },
+   {
+    "da": "en elefant",
+    "en": "an elephant"
+   },
+   {
+    "da": "en løvetand",
+    "en": "a dandelion (lion's tooth)"
+   }
+  ],
+  "sentence": {
+   "da": "En **løve** brøler højt.",
+   "en": "A lion roars loudly."
+  }
+ },
+ "et laboratorium": {
+  "file": "l.json",
+  "explanation": "\"Et laboratorium\" means \"a laboratory\", a room or building where people do scientific tests, for example in medicine or chemistry.",
+  "forms": [
+   {
+    "da": "et laboratorium",
+    "en": "a laboratory"
+   },
+   {
+    "da": "laboratoriet",
+    "en": "the laboratory"
+   },
+   {
+    "da": "laboratorier",
+    "en": "laboratories"
+   },
+   {
+    "da": "laboratorierne",
+    "en": "the laboratories"
+   }
+  ],
+  "related": [
+   {
+    "da": "et forsøg",
+    "en": "an experiment"
+   },
+   {
+    "da": "et mikroskop",
+    "en": "a microscope"
+   },
+   {
+    "da": "et reagensglas",
+    "en": "a test tube"
+   },
+   {
+    "da": "en kemiker",
+    "en": "a chemist"
+   }
+  ],
+  "sentence": {
+   "da": "Hun arbejder i et **laboratorium** og undersøger blodprøver.",
+   "en": "She works in a laboratory and examines blood samples."
+  }
+ },
+ "et lag": {
+  "file": "l.json",
+  "explanation": "\"Et lag\" means \"a layer\", one level on top of another, like the layers of a cake. It is also the start of \"en lagkage\" (a layer cake).",
+  "forms": [
+   {
+    "da": "et lag",
+    "en": "a layer"
+   },
+   {
+    "da": "laget",
+    "en": "the layer"
+   },
+   {
+    "da": "lag",
+    "en": "layers"
+   },
+   {
+    "da": "lagene",
+    "en": "the layers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et niveau",
+    "en": "a level"
+   },
+   {
+    "da": "en etage",
+    "en": "a floor"
+   },
+   {
+    "da": "at lægge",
+    "en": "to lay / put"
+   }
+  ],
+  "sentence": {
+   "da": "Der ligger et tykt **lag** sne på taget.",
+   "en": "There is a thick layer of snow on the roof."
+  }
+ },
+ "et lagen": {
+  "file": "l.json",
+  "explanation": "\"Et lagen\" means \"a sheet\" for a bed, the large cloth that covers the mattress. A sheet of paper is not \"et lagen\" but \"et ark\" (a sheet of paper).",
+  "forms": [
+   {
+    "da": "et lagen",
+    "en": "a sheet"
+   },
+   {
+    "da": "lagenet",
+    "en": "the sheet"
+   },
+   {
+    "da": "lagner",
+    "en": "sheets"
+   },
+   {
+    "da": "lagnerne",
+    "en": "the sheets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dyne",
+    "en": "a duvet"
+   },
+   {
+    "da": "en pude",
+    "en": "a pillow"
+   },
+   {
+    "da": "et tæppe",
+    "en": "a blanket"
+   },
+   {
+    "da": "sengetøj",
+    "en": "bedding"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal skifte **lagen** på sengen i dag.",
+   "en": "I have to change the sheet on the bed today."
+  }
+ },
+ "et lager": {
+  "file": "l.json",
+  "explanation": "\"Et lager\" means \"a warehouse\" and also \"stock\", the goods a shop has: \"Er den på lager?\" (Is it in stock?)",
+  "forms": [
+   {
+    "da": "et lager",
+    "en": "a warehouse / stock"
+   },
+   {
+    "da": "lageret",
+    "en": "the warehouse / stock"
+   },
+   {
+    "da": "lagre",
+    "en": "warehouses / stocks"
+   },
+   {
+    "da": "lagrene",
+    "en": "the warehouses / stocks"
+   }
+  ],
+  "related": [
+   {
+    "da": "et pakhus",
+    "en": "a storehouse"
+   },
+   {
+    "da": "et depot",
+    "en": "a depot"
+   },
+   {
+    "da": "en forsyning",
+    "en": "a supply"
+   },
+   {
+    "da": "udsolgt",
+    "en": "sold out"
+   }
+  ],
+  "sentence": {
+   "da": "Alle varerne står i et stort **lager** uden for byen.",
+   "en": "All the goods are in a big warehouse outside the city."
+  }
+ },
+ "et lam": {
+  "file": "l.json",
+  "explanation": "\"Et lam\" means \"a lamb\", both the animal and the meat you eat. As food it is used without \"et\": \"Jeg elsker lam\" (I love lamb).",
+  "forms": [
+   {
+    "da": "et lam",
+    "en": "a lamb"
+   },
+   {
+    "da": "lammet",
+    "en": "the lamb"
+   },
+   {
+    "da": "lam",
+    "en": "lambs"
+   },
+   {
+    "da": "lammene",
+    "en": "the lambs"
+   }
+  ],
+  "related": [
+   {
+    "da": "et får",
+    "en": "a sheep"
+   },
+   {
+    "da": "en vædder",
+    "en": "a ram"
+   },
+   {
+    "da": "en kalv",
+    "en": "a calf"
+   },
+   {
+    "da": "uld",
+    "en": "wool"
+   }
+  ],
+  "sentence": {
+   "da": "Et **lam** er et ungt får.",
+   "en": "A lamb is a young sheep."
+  }
+ },
+ "et land": {
+  "file": "l.json",
+  "explanation": "\"Et land\" means \"a country\", and it can also mean \"land\" or \"countryside\". \"På landet\" means \"in the countryside\".",
+  "forms": [
+   {
+    "da": "et land",
+    "en": "a country"
+   },
+   {
+    "da": "landet",
+    "en": "the country"
+   },
+   {
+    "da": "lande",
+    "en": "countries"
+   },
+   {
+    "da": "landene",
+    "en": "the countries"
+   }
+  ],
+  "related": [
+   {
+    "da": "en by",
+    "en": "a town"
+   },
+   {
+    "da": "udlandet",
+    "en": "abroad"
+   },
+   {
+    "da": "en landsby",
+    "en": "a village"
+   }
+  ],
+  "sentence": {
+   "da": "Danmark er et lille **land**.",
+   "en": "Denmark is a small country."
+  }
+ },
+ "et landbrug": {
+  "file": "l.json",
+  "explanation": "\"Et landbrug\" means \"a farm\" run as a business, and also \"agriculture\", the work of growing crops and keeping animals: \"Der er meget landbrug i Danmark\" (There is a lot of agriculture in Denmark). The farmhouse and yard is \"en gård\" (a farm).",
+  "forms": [
+   {
+    "da": "et landbrug",
+    "en": "agriculture / a farm"
+   },
+   {
+    "da": "landbruget",
+    "en": "the farm / the agriculture"
+   },
+   {
+    "da": "landbrug",
+    "en": "farms"
+   },
+   {
+    "da": "landbrugene",
+    "en": "the farms"
+   }
+  ],
+  "related": [
+   {
+    "da": "en landmand",
+    "en": "a farmer"
+   },
+   {
+    "da": "en bonde",
+    "en": "a farmer"
+   },
+   {
+    "da": "en mark",
+    "en": "a field"
+   }
+  ],
+  "sentence": {
+   "da": "Min onkel har et **landbrug** med køer og grise.",
+   "en": "My uncle has a farm with cows and pigs."
+  }
+ },
+ "et landkort": {
+  "file": "l.json",
+  "explanation": "\"Et landkort\" means \"a map\", a map of a country or a region. The shorter \"et kort\" (a map or a card) is used too, but it can also be a card, so \"landkort\" is clearer.",
+  "forms": [
+   {
+    "da": "et landkort",
+    "en": "a map"
+   },
+   {
+    "da": "landkortet",
+    "en": "the map"
+   },
+   {
+    "da": "landkort",
+    "en": "maps"
+   },
+   {
+    "da": "landkortene",
+    "en": "the maps"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bykort",
+    "en": "a city map"
+   },
+   {
+    "da": "en globus",
+    "en": "a globe"
+   },
+   {
+    "da": "et atlas",
+    "en": "an atlas"
+   }
+  ],
+  "sentence": {
+   "da": "På et **landkort** kan man se alle lande.",
+   "en": "On a map you can see all the countries."
+  }
+ },
+ "et landshold": {
+  "file": "l.json",
+  "explanation": "\"Et landshold\" means \"a national team\", the team that plays for a whole country. It is built from land (country) and hold (team).",
+  "forms": [
+   {
+    "da": "et landshold",
+    "en": "a national team"
+   },
+   {
+    "da": "landsholdet",
+    "en": "the national team"
+   },
+   {
+    "da": "landshold",
+    "en": "national teams"
+   },
+   {
+    "da": "landsholdene",
+    "en": "the national teams"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klub",
+    "en": "a club"
+   },
+   {
+    "da": "en træner",
+    "en": "a coach"
+   },
+   {
+    "da": "en holdkammerat",
+    "en": "a teammate"
+   }
+  ],
+  "sentence": {
+   "da": "Vores **landshold** vandt kampen i går.",
+   "en": "Our national team won the match yesterday."
+  }
+ },
+ "et landskab": {
+  "file": "l.json",
+  "explanation": "\"Et landskab\" means \"a landscape\", the land you see around you, such as hills, fields and forests. For the view from one spot, use \"en udsigt\" (a view).",
+  "forms": [
+   {
+    "da": "et landskab",
+    "en": "a landscape"
+   },
+   {
+    "da": "landskabet",
+    "en": "the landscape"
+   },
+   {
+    "da": "landskaber",
+    "en": "landscapes"
+   },
+   {
+    "da": "landskaberne",
+    "en": "the landscapes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en landsby",
+    "en": "a village"
+   },
+   {
+    "da": "en natur",
+    "en": "nature"
+   },
+   {
+    "da": "et område",
+    "en": "an area"
+   },
+   {
+    "da": "en egn",
+    "en": "a region"
+   }
+  ],
+  "sentence": {
+   "da": "Marker, skove og søer er en del af et **landskab**.",
+   "en": "Fields, forests and lakes are part of a landscape."
+  }
+ },
+ "et lavtryk": {
+  "file": "l.json",
+  "explanation": "\"Et lavtryk\" means \"a low-pressure system\", an area where the pressure of the air is low, which usually brings bad weather. The opposite is \"et højtryk\" (a high-pressure system), which brings calm, dry weather.",
+  "forms": [
+   {
+    "da": "et lavtryk",
+    "en": "a low-pressure system"
+   },
+   {
+    "da": "lavtrykket",
+    "en": "the low-pressure system"
+   },
+   {
+    "da": "lavtryk",
+    "en": "low-pressure systems"
+   },
+   {
+    "da": "lavtrykkene",
+    "en": "the low-pressure systems"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vejrudsigt",
+    "en": "a weather forecast"
+   },
+   {
+    "da": "en storm",
+    "en": "a storm"
+   },
+   {
+    "da": "en front",
+    "en": "a front"
+   },
+   {
+    "da": "en regnbyge",
+    "en": "a rain shower"
+   }
+  ],
+  "sentence": {
+   "da": "Et **lavtryk** fra Atlanterhavet giver regn og blæst i weekenden.",
+   "en": "A low-pressure system from the Atlantic brings rain and wind this weekend."
+  }
+ },
+ "et led": {
+  "file": "l.json",
+  "explanation": "\"Et led\" means \"a joint\" in the body, a place where two bones meet and the body can bend. It is also a link in a chain and a step in a process: \"et led i kæden\" (a link in the chain).",
+  "forms": [
+   {
+    "da": "et led",
+    "en": "a joint"
+   },
+   {
+    "da": "ledet",
+    "en": "the joint"
+   },
+   {
+    "da": "led",
+    "en": "joints"
+   },
+   {
+    "da": "ledene",
+    "en": "the joints"
+   }
+  ],
+  "related": [
+   {
+    "da": "et knæ",
+    "en": "a knee"
+   },
+   {
+    "da": "en albue",
+    "en": "an elbow"
+   },
+   {
+    "da": "en knogle",
+    "en": "a bone"
+   },
+   {
+    "da": "en hofte",
+    "en": "a hip"
+   }
+  ],
+  "sentence": {
+   "da": "Fingeren har tre **led**, så du kan bøje den.",
+   "en": "The finger has three joints, so you can bend it."
+  }
+ },
+ "et leksikon": {
+  "file": "l.json",
+  "explanation": "\"Et leksikon\" means \"an encyclopedia\", a book or website that explains many subjects, arranged alphabetically. Do not mix it up with \"en ordbog\" (a dictionary), which explains words instead of subjects.",
+  "forms": [
+   {
+    "da": "et leksikon",
+    "en": "an encyclopedia"
+   },
+   {
+    "da": "leksikonet",
+    "en": "the encyclopedia"
+   },
+   {
+    "da": "leksikoner",
+    "en": "encyclopedias"
+   },
+   {
+    "da": "leksikonerne",
+    "en": "the encyclopedias"
+   }
+  ],
+  "related": [
+   {
+    "da": "et opslagsværk",
+    "en": "a reference work"
+   },
+   {
+    "da": "et opslagsord",
+    "en": "a headword"
+   },
+   {
+    "da": "et register",
+    "en": "an index"
+   },
+   {
+    "da": "en encyklopædi",
+    "en": "an encyclopedia"
+   }
+  ],
+  "sentence": {
+   "da": "I et **leksikon** kan du læse om mange emner fra A til Å.",
+   "en": "In an encyclopedia you can read about many topics from A to Z."
+  }
+ },
+ "et lig": {
+  "file": "l.json",
+  "explanation": "\"Et lig\" means \"a corpse\", the body of a dead person. It is a blunt word, so in a gentle setting Danes say \"den afdøde\" (the deceased person).",
+  "forms": [
+   {
+    "da": "et lig",
+    "en": "a corpse"
+   },
+   {
+    "da": "liget",
+    "en": "the corpse"
+   },
+   {
+    "da": "lig",
+    "en": "corpses"
+   },
+   {
+    "da": "ligene",
+    "en": "the corpses"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kadaver",
+    "en": "a carcass"
+   },
+   {
+    "da": "en begravelse",
+    "en": "a funeral"
+   },
+   {
+    "da": "en ligkiste",
+    "en": "a coffin"
+   },
+   {
+    "da": "en kirkegård",
+    "en": "a cemetery"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet fandt et **lig** i skoven tidligt i morges.",
+   "en": "The police found a corpse in the forest early this morning."
+  }
+ },
+ "et like": {
+  "file": "l.json",
+  "explanation": "\"Et like\" means \"a like\", the thumbs-up on social media. To give one, say \"at give et like\" (to give a like).",
+  "forms": [
+   {
+    "da": "et like",
+    "en": "a like"
+   },
+   {
+    "da": "liket",
+    "en": "the like"
+   },
+   {
+    "da": "likes",
+    "en": "likes"
+   },
+   {
+    "da": "likene",
+    "en": "the likes"
+   }
+  ],
+  "related": [
+   {
+    "da": "at synes om",
+    "en": "to like"
+   },
+   {
+    "da": "at dele",
+    "en": "to share"
+   },
+   {
+    "da": "en følger",
+    "en": "a follower"
+   }
+  ],
+  "sentence": {
+   "da": "Mit billede fik et **like** fra min mor.",
+   "en": "My picture got a like from my mom."
+  }
+ },
+ "et link": {
+  "file": "l.json",
+  "explanation": "\"Et link\" means \"a link\", a piece of text in a message or an email that opens something else when you tap it.",
+  "forms": [
+   {
+    "da": "et link",
+    "en": "a link"
+   },
+   {
+    "da": "linket",
+    "en": "the link"
+   },
+   {
+    "da": "links",
+    "en": "links"
+   },
+   {
+    "da": "linkene",
+    "en": "the links"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hjemmeside",
+    "en": "a website"
+   },
+   {
+    "da": "at klikke",
+    "en": "to click"
+   },
+   {
+    "da": "en adresse",
+    "en": "an address"
+   },
+   {
+    "da": "en side",
+    "en": "a page"
+   }
+  ],
+  "sentence": {
+   "da": "Klik på det **link** for at se videoen.",
+   "en": "Click on that link to see the video."
+  }
+ },
+ "et liv": {
+  "file": "l.json",
+  "explanation": "\"Et liv\" means \"a life\", both one person's life and the state of being alive: \"livet er godt\" (life is good) and \"at have et godt liv\" (to have a good life).",
+  "forms": [
+   {
+    "da": "et liv",
+    "en": "a life"
+   },
+   {
+    "da": "livet",
+    "en": "the life"
+   },
+   {
+    "da": "liv",
+    "en": "lives"
+   },
+   {
+    "da": "livene",
+    "en": "the lives"
+   }
+  ],
+  "related": [
+   {
+    "da": "at leve",
+    "en": "to live"
+   },
+   {
+    "da": "døden",
+    "en": "death"
+   },
+   {
+    "da": "levende",
+    "en": "alive"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har kun ét **liv**.",
+   "en": "We only have one life."
+  }
+ },
+ "et loft": {
+  "file": "l.json",
+  "explanation": "\"Et loft\" means \"a ceiling\", the top surface of a room, or \"an attic\", the space under the roof.",
+  "forms": [
+   {
+    "da": "et loft",
+    "en": "a ceiling / attic"
+   },
+   {
+    "da": "loftet",
+    "en": "the ceiling / attic"
+   },
+   {
+    "da": "lofter",
+    "en": "ceilings / attics"
+   },
+   {
+    "da": "lofterne",
+    "en": "the ceilings / attics"
+   }
+  ],
+  "related": [
+   {
+    "da": "et gulv",
+    "en": "a floor"
+   },
+   {
+    "da": "en væg",
+    "en": "a wall"
+   },
+   {
+    "da": "et tag",
+    "en": "a roof"
+   },
+   {
+    "da": "en kælder",
+    "en": "a basement"
+   }
+  ],
+  "sentence": {
+   "da": "Vi bor i en lejlighed med et højt **loft**.",
+   "en": "We live in an apartment with a high ceiling."
+  }
+ },
+ "et loftsrum": {
+  "file": "l.json",
+  "explanation": "\"Et loftsrum\" means \"an attic room\", a room built in the space under the roof of a house. \"Et loft\" can mean the attic or a ceiling, but \"et loftsrum\" is always a room under the roof.",
+  "forms": [
+   {
+    "da": "et loftsrum",
+    "en": "an attic room"
+   },
+   {
+    "da": "loftsrummet",
+    "en": "the attic room"
+   },
+   {
+    "da": "loftsrum",
+    "en": "attic rooms"
+   },
+   {
+    "da": "loftsrummene",
+    "en": "the attic rooms"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kælderrum",
+    "en": "a basement room"
+   },
+   {
+    "da": "en kvist",
+    "en": "a dormer"
+   },
+   {
+    "da": "en tagetage",
+    "en": "a top floor"
+   }
+  ],
+  "sentence": {
+   "da": "Børneværelset ligger i et lille **loftsrum** under taget.",
+   "en": "The children's room is in a small attic room under the roof."
+  }
+ },
+ "et loppemarked": {
+  "file": "l.json",
+  "explanation": "\"Et loppemarked\" means \"a flea market\", where you can buy used clothes, books and furniture cheaply. To go there, say \"at gå på loppemarked\" (to go to a flea market).",
+  "forms": [
+   {
+    "da": "et loppemarked",
+    "en": "a flea market"
+   },
+   {
+    "da": "loppemarkedet",
+    "en": "the flea market"
+   },
+   {
+    "da": "loppemarkeder",
+    "en": "flea markets"
+   },
+   {
+    "da": "loppemarkederne",
+    "en": "the flea markets"
+   }
+  ],
+  "related": [
+   {
+    "da": "et marked",
+    "en": "a market"
+   },
+   {
+    "da": "en genbrugsbutik",
+    "en": "a secondhand shop"
+   },
+   {
+    "da": "et julemarked",
+    "en": "a Christmas market"
+   },
+   {
+    "da": "en bazar",
+    "en": "a bazaar"
+   }
+  ],
+  "sentence": {
+   "da": "Folk sælger brugte ting på et **loppemarked**.",
+   "en": "People sell used things at a flea market."
+  }
+ },
+ "et lotteri": {
+  "file": "l.json",
+  "explanation": "\"Et lotteri\" means \"a lottery\", a game where winners are drawn by chance and get prizes.",
+  "forms": [
+   {
+    "da": "et lotteri",
+    "en": "a lottery"
+   },
+   {
+    "da": "lotteriet",
+    "en": "the lottery"
+   },
+   {
+    "da": "lotterier",
+    "en": "lotteries"
+   },
+   {
+    "da": "lotterierne",
+    "en": "the lotteries"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lodseddel",
+    "en": "a raffle slip"
+   },
+   {
+    "da": "en gevinst",
+    "en": "a win"
+   },
+   {
+    "da": "en tombola",
+    "en": "a raffle"
+   },
+   {
+    "da": "en trækning",
+    "en": "a drawing"
+   }
+  ],
+  "sentence": {
+   "da": "Skolen holder et **lotteri**, og alle kan vinde en præmie.",
+   "en": "The school holds a lottery, and everyone can win a prize."
+  }
+ },
+ "et lovforslag": {
+  "file": "l.json",
+  "explanation": "\"Et lovforslag\" means \"a bill\", the written text of a new law that politicians have not yet decided on. It is read and debated before the final decision.",
+  "forms": [
+   {
+    "da": "et lovforslag",
+    "en": "a bill (proposed law)"
+   },
+   {
+    "da": "lovforslaget",
+    "en": "the bill (proposed law)"
+   },
+   {
+    "da": "lovforslag",
+    "en": "bills (proposed laws)"
+   },
+   {
+    "da": "lovforslagene",
+    "en": "the bills (proposed laws)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en afstemning",
+    "en": "a vote"
+   },
+   {
+    "da": "et udkast",
+    "en": "a draft"
+   },
+   {
+    "da": "et forslag",
+    "en": "a proposal"
+   },
+   {
+    "da": "en lovgivning",
+    "en": "legislation"
+   }
+  ],
+  "sentence": {
+   "da": "Politikerne diskuterer et nyt **lovforslag** om skat i dag.",
+   "en": "The politicians are discussing a new bill about tax today."
+  }
+ },
+ "et lykønskningskort": {
+  "file": "l.json",
+  "explanation": "\"Et lykønskningskort\" means \"a congratulations card\", sent for a wedding, a new baby or a graduation. It is built from lykønskning (congratulation) and kort (card).",
+  "forms": [
+   {
+    "da": "et lykønskningskort",
+    "en": "a congratulations card"
+   },
+   {
+    "da": "lykønskningskortet",
+    "en": "the congratulations card"
+   },
+   {
+    "da": "lykønskningskort",
+    "en": "congratulations cards"
+   },
+   {
+    "da": "lykønskningskortene",
+    "en": "the congratulations cards"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lykønske",
+    "en": "to congratulate"
+   },
+   {
+    "da": "et julekort",
+    "en": "a Christmas card"
+   },
+   {
+    "da": "et fødselsdagskort",
+    "en": "a birthday card"
+   },
+   {
+    "da": "tillykke",
+    "en": "congratulations"
+   }
+  ],
+  "sentence": {
+   "da": "Vi sendte et **lykønskningskort** til de nygifte.",
+   "en": "We sent a congratulations card to the newlyweds."
+  }
+ },
+ "et lyskryds": {
+  "file": "l.json",
+  "explanation": "\"Et lyskryds\" means \"an intersection with traffic lights\". It is built from lys (light) and kryds (cross). One without lights is just \"et vejkryds\" (an intersection).",
+  "forms": [
+   {
+    "da": "et lyskryds",
+    "en": "an intersection with traffic lights"
+   },
+   {
+    "da": "lyskrydset",
+    "en": "the intersection"
+   },
+   {
+    "da": "lyskryds",
+    "en": "intersections with traffic lights"
+   },
+   {
+    "da": "lyskrydsene",
+    "en": "the intersections"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rundkørsel",
+    "en": "a roundabout"
+   },
+   {
+    "da": "et trafiklys",
+    "en": "a traffic light"
+   },
+   {
+    "da": "et fodgængerfelt",
+    "en": "a crosswalk"
+   }
+  ],
+  "sentence": {
+   "da": "Drej til højre ved det næste **lyskryds**.",
+   "en": "Turn right at the next intersection with traffic lights."
+  }
+ },
+ "et lån": {
+  "file": "l.json",
+  "explanation": "\"Et lån\" means \"a loan\", money you borrow and pay back. The word \"at låne\" means both \"to borrow\" and \"to lend\": \"Jeg låner dig en pen\" (I lend you a pen).",
+  "forms": [
+   {
+    "da": "et lån",
+    "en": "a loan"
+   },
+   {
+    "da": "lånet",
+    "en": "the loan"
+   },
+   {
+    "da": "lån",
+    "en": "loans"
+   },
+   {
+    "da": "lånene",
+    "en": "the loans"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rente",
+    "en": "an interest rate"
+   },
+   {
+    "da": "en gæld",
+    "en": "a debt"
+   },
+   {
+    "da": "at betale tilbage",
+    "en": "to pay back"
+   },
+   {
+    "da": "et afdrag",
+    "en": "a repayment"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal have et **lån**, når jeg køber huset.",
+   "en": "I need a loan when I buy the house."
+  }
+ },
+ "et lår": {
+  "file": "l.json",
+  "explanation": "\"Et lår\" means \"a thigh\", the top part of your leg. It is also used in cooking: \"et kyllingelår\" (a chicken thigh).",
+  "forms": [
+   {
+    "da": "et lår",
+    "en": "a thigh"
+   },
+   {
+    "da": "låret",
+    "en": "the thigh"
+   },
+   {
+    "da": "lår",
+    "en": "thighs"
+   },
+   {
+    "da": "lårene",
+    "en": "the thighs"
+   }
+  ],
+  "related": [
+   {
+    "da": "et ben",
+    "en": "a leg"
+   },
+   {
+    "da": "et knæ",
+    "en": "a knee"
+   },
+   {
+    "da": "en læg",
+    "en": "a calf"
+   }
+  ],
+  "sentence": {
+   "da": "Mit **lår** er over mit knæ.",
+   "en": "My thigh is above my knee."
+  }
+ },
+ "et læserbrev": {
+  "file": "l.json",
+  "explanation": "\"Et læserbrev\" means \"a letter to the editor\", a short letter in which a reader gives an opinion to a newspaper, which may print it. It is built from læser (reader) and brev (letter).",
+  "forms": [
+   {
+    "da": "et læserbrev",
+    "en": "a letter to the editor"
+   },
+   {
+    "da": "læserbrevet",
+    "en": "the letter to the editor"
+   },
+   {
+    "da": "læserbreve",
+    "en": "letters to the editor"
+   },
+   {
+    "da": "læserbrevene",
+    "en": "the letters to the editor"
+   }
+  ],
+  "related": [
+   {
+    "da": "et debatindlæg",
+    "en": "a discussion piece"
+   },
+   {
+    "da": "en leder",
+    "en": "an editorial"
+   },
+   {
+    "da": "en indsender",
+    "en": "a contributor"
+   },
+   {
+    "da": "en kronik",
+    "en": "a long opinion article"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skrev et **læserbrev**, fordi hun var uenig i artiklen.",
+   "en": "She wrote a letter to the editor because she disagreed with the article."
+  }
+ },
+ "et løbebånd": {
+  "file": "l.json",
+  "explanation": "\"Et løbebånd\" means \"a treadmill\", a machine with a moving belt that you walk or run on without going anywhere.",
+  "forms": [
+   {
+    "da": "et løbebånd",
+    "en": "a treadmill"
+   },
+   {
+    "da": "løbebåndet",
+    "en": "the treadmill"
+   },
+   {
+    "da": "løbebånd",
+    "en": "treadmills"
+   },
+   {
+    "da": "løbebåndene",
+    "en": "the treadmills"
+   }
+  ],
+  "related": [
+   {
+    "da": "en motionscykel",
+    "en": "an exercise bike"
+   },
+   {
+    "da": "en romaskine",
+    "en": "a rowing machine"
+   },
+   {
+    "da": "et fitnesscenter",
+    "en": "a gym"
+   },
+   {
+    "da": "en crosstrainer",
+    "en": "an elliptical trainer"
+   }
+  ],
+  "sentence": {
+   "da": "Når det regner, løber hun på et **løbebånd** indendørs.",
+   "en": "When it rains, she runs on a treadmill indoors."
+  }
+ },
+ "et løfte": {
+  "file": "l.json",
+  "explanation": "\"Et løfte\" means \"a promise\", when you say you will do something for sure. You keep one with \"at holde\" (to hold): \"Jeg holder mit løfte\" (I keep my promise). To break one, use \"at bryde\" (to break).",
+  "forms": [
+   {
+    "da": "et løfte",
+    "en": "a promise"
+   },
+   {
+    "da": "løftet",
+    "en": "the promise"
+   },
+   {
+    "da": "løfter",
+    "en": "promises"
+   },
+   {
+    "da": "løfterne",
+    "en": "the promises"
+   }
+  ],
+  "related": [
+   {
+    "da": "at love",
+    "en": "to promise"
+   },
+   {
+    "da": "en aftale",
+    "en": "an agreement"
+   },
+   {
+    "da": "en ed",
+    "en": "an oath"
+   }
+  ],
+  "sentence": {
+   "da": "Et **løfte** skal man holde.",
+   "en": "A promise must be kept."
+  }
+ },
+ "et løg": {
+  "file": "l.json",
+  "explanation": "\"Et løg\" means \"an onion\". It is also part of \"hvidløg\" (garlic), which is literally \"white onion\".",
+  "forms": [
+   {
+    "da": "et løg",
+    "en": "an onion"
+   },
+   {
+    "da": "løget",
+    "en": "the onion"
+   },
+   {
+    "da": "løg",
+    "en": "onions"
+   },
+   {
+    "da": "løgene",
+    "en": "the onions"
+   }
+  ],
+  "related": [
+   {
+    "da": "et rødløg",
+    "en": "a red onion"
+   },
+   {
+    "da": "purløg",
+    "en": "chives"
+   },
+   {
+    "da": "en porre",
+    "en": "a leek"
+   }
+  ],
+  "sentence": {
+   "da": "Et **løg** får mig til at græde.",
+   "en": "An onion makes me cry."
+  }
+ },
+ "lad os se": {
+  "file": "l.json",
+  "explanation": "\"Lad os se\" means \"let's see\", and you say it while you think, check something or wait for a result. \"Lad\" works like \"let\", so \"lad os gå\" (let's go) is built the same way.",
+  "forms": [
+   {
+    "da": "Lad os se.",
+    "en": "Let's see."
+   },
+   {
+    "da": "Lad os se, hvad klokken er.",
+    "en": "Let's see what time it is."
+   },
+   {
+    "da": "Lad os se, om han kommer.",
+    "en": "Let's see if he comes."
+   }
+  ],
+  "related": [
+   {
+    "da": "lad os spise",
+    "en": "let's eat"
+   },
+   {
+    "da": "vi må se",
+    "en": "we'll have to see"
+   },
+   {
+    "da": "lad os prøve",
+    "en": "let's try"
+   }
+  ],
+  "sentence": {
+   "da": "**Lad os se** i køleskabet.",
+   "en": "Let's look in the fridge."
+  }
+ },
+ "lad være": {
+  "file": "l.json",
+  "explanation": "\"Lad være\" means \"don't\" or \"leave it\". To name what you tell the person not to do, add \"med at\" (with to) followed by a verb: \"Lad være med at ringe\" (Don't call).",
+  "forms": [
+   {
+    "da": "Lad være!",
+    "en": "Don't!"
+   },
+   {
+    "da": "Lad være med at spise det",
+    "en": "Don't eat it"
+   },
+   {
+    "da": "Han lod være",
+    "en": "He left it alone"
+   }
+  ],
+  "related": [
+   {
+    "da": "hold op",
+    "en": "stop it"
+   },
+   {
+    "da": "at undlade",
+    "en": "to refrain from"
+   },
+   {
+    "da": "at holde sig fra",
+    "en": "to keep away from"
+   },
+   {
+    "da": "lad det være",
+    "en": "leave it / let it be"
+   }
+  ],
+  "sentence": {
+   "da": "**Lad være** med at røre ved kagen!",
+   "en": "Don't touch the cake!"
+  }
+ },
+ "lakrids": {
+  "file": "l.json",
+  "explanation": "\"Lakrids\" means \"licorice\", the black, chewy candy. It is also used in ice cream: \"lakridsis\" (licorice ice cream).",
+  "forms": [
+   {
+    "da": "lakrids",
+    "en": "licorice"
+   },
+   {
+    "da": "lakridsen",
+    "en": "the licorice"
+   },
+   {
+    "da": "salt lakrids",
+    "en": "salty licorice"
+   }
+  ],
+  "related": [
+   {
+    "da": "lakridsrod",
+    "en": "licorice root"
+   },
+   {
+    "da": "lakridspibe",
+    "en": "licorice pipe"
+   },
+   {
+    "da": "salmiak",
+    "en": "salmiak (a salty candy)"
+   }
+  ],
+  "sentence": {
+   "da": "**Lakrids** er sort og lidt salt.",
+   "en": "Licorice is black and a little salty."
+  }
+ },
+ "laks": {
+  "file": "l.json",
+  "explanation": "\"Laks\" means \"salmon\". For one fish, you can say \"en laks\" (a salmon), but as food there is no \"en\": \"Jeg spiser laks\" (I eat salmon).",
+  "forms": [
+   {
+    "da": "laks",
+    "en": "salmon"
+   },
+   {
+    "da": "laksen",
+    "en": "the salmon"
+   },
+   {
+    "da": "røget laks",
+    "en": "smoked salmon"
+   }
+  ],
+  "related": [
+   {
+    "da": "fisk",
+    "en": "fish"
+   },
+   {
+    "da": "torsk",
+    "en": "cod"
+   },
+   {
+    "da": "sild",
+    "en": "herring"
+   }
+  ],
+  "sentence": {
+   "da": "**Laks** er en lyserød fisk.",
+   "en": "Salmon is a pink fish."
+  }
+ },
+ "laktosefri": {
+  "file": "l.json",
+  "explanation": "\"Laktosefri\" means \"lactose-free\", used for food and drinks without lactose. It is built from laktose (lactose) and fri (free), so adding \"-fri\" to a word says that thing is left out.",
+  "forms": [
+   {
+    "da": "en laktosefri ost",
+    "en": "a lactose-free cheese"
+   },
+   {
+    "da": "et laktosefrit produkt",
+    "en": "a lactose-free product"
+   },
+   {
+    "da": "laktosefri produkter",
+    "en": "lactose-free products"
+   }
+  ],
+  "related": [
+   {
+    "da": "glutenfri",
+    "en": "gluten-free"
+   },
+   {
+    "da": "sukkerfri",
+    "en": "sugar-free"
+   },
+   {
+    "da": "mælkefri",
+    "en": "dairy-free"
+   }
+  ],
+  "sentence": {
+   "da": "Han køber **laktosefri** ost, fordi han ikke tåler laktose.",
+   "en": "He buys lactose-free cheese because he cannot tolerate lactose."
+  }
+ },
+ "lammekød": {
+  "file": "l.json",
+  "explanation": "\"Lammekød\" means \"lamb\" as meat. It is built from et lam (a lamb) and kød (meat).",
+  "forms": [
+   {
+    "da": "Jeg køber lammekød.",
+    "en": "I buy lamb."
+   },
+   {
+    "da": "et kilo lammekød",
+    "en": "a kilo of lamb"
+   },
+   {
+    "da": "stegt lammekød",
+    "en": "fried lamb"
+   }
+  ],
+  "related": [
+   {
+    "da": "oksekød",
+    "en": "beef"
+   },
+   {
+    "da": "svinekød",
+    "en": "pork"
+   },
+   {
+    "da": "et får",
+    "en": "a sheep"
+   }
+  ],
+  "sentence": {
+   "da": "**Lammekød** kommer fra unge får.",
+   "en": "Lamb comes from young sheep."
+  }
+ },
+ "lammet": {
+  "file": "l.json",
+  "explanation": "\"Lammet\" means \"paralyzed\", not able to move a body part. It also describes being frozen by fear or shock, for example when you hear terrible news. Do not mix it up with \"lammet\" meaning \"the lamb\", which is \"et lam\" (a lamb) with \"the\" added: \"Lammet løber\" (The lamb runs). You can tell from the context of the sentence whether it means \"paralyzed\" or \"the lamb\".",
+  "forms": [
+   {
+    "da": "en lammet mand",
+    "en": "a paralyzed man"
+   },
+   {
+    "da": "et lammet ben",
+    "en": "a paralyzed leg"
+   },
+   {
+    "da": "lammede hænder",
+    "en": "paralyzed hands"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lamme",
+    "en": "to paralyze"
+   },
+   {
+    "da": "en lammelse",
+    "en": "a paralysis"
+   },
+   {
+    "da": "følelsesløs",
+    "en": "numb"
+   },
+   {
+    "da": "stiv",
+    "en": "stiff"
+   }
+  ],
+  "sentence": {
+   "da": "Hun stod **lammet** af skræk og kunne ikke sige noget.",
+   "en": "She stood paralyzed by fear and could not say anything."
+  }
+ }
+}

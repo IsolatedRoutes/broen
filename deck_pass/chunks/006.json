@@ -1,0 +1,3910 @@
+{
+ "beige": {
+  "file": "b.json",
+  "explanation": "\"Beige\" means \"beige\", a light, sandy color like dry sand.",
+  "forms": [
+   {
+    "da": "en beige jakke",
+    "en": "a beige jacket"
+   },
+   {
+    "da": "et beige hus",
+    "en": "a beige house"
+   },
+   {
+    "da": "beige sko",
+    "en": "beige shoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "brun",
+    "en": "brown"
+   },
+   {
+    "da": "hvid",
+    "en": "white"
+   },
+   {
+    "da": "gul",
+    "en": "yellow"
+   },
+   {
+    "da": "grå",
+    "en": "gray"
+   }
+  ],
+  "sentence": {
+   "da": "Sandet på stranden er **beige**.",
+   "en": "The sand on the beach is beige."
+  }
+ },
+ "bekendt": {
+  "file": "b.json",
+  "explanation": "\"Bekendt\" means \"familiar\" or \"known\". The same word is also a person: \"en bekendt\" (an acquaintance) is someone you know only slightly, not a close friend.",
+  "forms": [
+   {
+    "da": "en bekendt stemme",
+    "en": "a familiar voice"
+   },
+   {
+    "da": "et bekendt ansigt",
+    "en": "a familiar face"
+   },
+   {
+    "da": "bekendte steder",
+    "en": "familiar places"
+   }
+  ],
+  "related": [
+   {
+    "da": "kendt",
+    "en": "known / famous"
+   },
+   {
+    "da": "ukendt",
+    "en": "unknown"
+   },
+   {
+    "da": "at kende",
+    "en": "to know"
+   },
+   {
+    "da": "velkendt",
+    "en": "well known"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes stemme lyder **bekendt**.",
+   "en": "Her voice sounds familiar."
+  }
+ },
+ "bekvem": {
+  "file": "b.json",
+  "explanation": "\"Bekvem\" means \"convenient\" or \"comfortable\", but it is often used about easy solutions: \"en bekvem undskyldning\" (a convenient excuse). For a comfortable chair, Danes say \"behagelig\" (pleasant): \"en behagelig stol\" (a comfortable chair).",
+  "forms": [
+   {
+    "da": "en bekvem metode",
+    "en": "a convenient method"
+   },
+   {
+    "da": "et bekvemt tidspunkt",
+    "en": "a convenient time"
+   },
+   {
+    "da": "bekvemme løsninger",
+    "en": "convenient solutions"
+   }
+  ],
+  "related": [
+   {
+    "da": "praktisk",
+    "en": "practical"
+   },
+   {
+    "da": "ubekvem",
+    "en": "inconvenient"
+   },
+   {
+    "da": "en bekvemmelighed",
+    "en": "a convenience"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **bekvem** måde at betale på.",
+   "en": "It is a convenient way to pay."
+  }
+ },
+ "bekymrende": {
+  "file": "b.json",
+  "explanation": "\"Bekymrende\" means \"worrying\": it describes the thing that makes you worried. The person who feels it is \"bekymret\" (worried): \"Jeg er bekymret\" (I am worried).",
+  "forms": [
+   {
+    "da": "en bekymrende nyhed",
+    "en": "a worrying piece of news"
+   },
+   {
+    "da": "et bekymrende tegn",
+    "en": "a worrying sign"
+   },
+   {
+    "da": "bekymrende tal",
+    "en": "worrying figures"
+   }
+  ],
+  "related": [
+   {
+    "da": "alarmerende",
+    "en": "alarming"
+   },
+   {
+    "da": "betænkelig",
+    "en": "doubtful"
+   },
+   {
+    "da": "betryggende",
+    "en": "reassuring"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **bekymrende**, at så mange unge sover for lidt.",
+   "en": "It is worrying that so many young people sleep too little."
+  }
+ },
+ "belysning": {
+  "file": "b.json",
+  "explanation": "\"Belysning\" means \"lighting\": the lamps and light that make a place bright, in a room or on a street. It can also mean that a subject is examined: \"en belysning af sagen\" (a closer look at the matter).",
+  "forms": [
+   {
+    "da": "belysning",
+    "en": "lighting"
+   },
+   {
+    "da": "belysningen",
+    "en": "the lighting"
+   },
+   {
+    "da": "belysninger",
+    "en": "types of lighting"
+   },
+   {
+    "da": "belysningerne",
+    "en": "the types of lighting"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lampe",
+    "en": "a lamp"
+   },
+   {
+    "da": "en pære",
+    "en": "a bulb"
+   },
+   {
+    "da": "at belyse",
+    "en": "to illuminate"
+   }
+  ],
+  "sentence": {
+   "da": "God **belysning** i gaden gør os trygge, når det er mørkt.",
+   "en": "Good lighting in the street makes us feel safe when it is dark."
+  }
+ },
+ "bemærkelsesværdig": {
+  "file": "b.json",
+  "explanation": "\"Bemærkelsesværdig\" means \"remarkable\", worth noticing: \"et bemærkelsesværdigt resultat\" (a remarkable result). It is built from at bemærke (to notice) and værdig (worthy).",
+  "forms": [
+   {
+    "da": "en bemærkelsesværdig person",
+    "en": "a remarkable person"
+   },
+   {
+    "da": "et bemærkelsesværdigt resultat",
+    "en": "a remarkable result"
+   },
+   {
+    "da": "bemærkelsesværdige fund",
+    "en": "remarkable findings"
+   }
+  ],
+  "related": [
+   {
+    "da": "usædvanlig",
+    "en": "unusual"
+   },
+   {
+    "da": "enestående",
+    "en": "outstanding"
+   },
+   {
+    "da": "opsigtsvækkende",
+    "en": "sensational"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes udholdenhed er **bemærkelsesværdig**, når man tænker på hendes alder.",
+   "en": "Her stamina is remarkable when you think of her age."
+  }
+ },
+ "benzin": {
+  "file": "b.json",
+  "explanation": "\"Benzin\" means \"gasoline\", which Americans often call gas. A diesel car needs diesel instead.",
+  "forms": [
+   {
+    "da": "benzin",
+    "en": "gasoline"
+   },
+   {
+    "da": "benzinen",
+    "en": "the gasoline"
+   },
+   {
+    "da": "en liter benzin",
+    "en": "a liter of gasoline"
+   }
+  ],
+  "related": [
+   {
+    "da": "et brændstof",
+    "en": "a fuel"
+   },
+   {
+    "da": "en tankstation",
+    "en": "a gas station"
+   },
+   {
+    "da": "en tank",
+    "en": "a tank"
+   }
+  ],
+  "sentence": {
+   "da": "Min bil kører på **benzin**, ikke på diesel.",
+   "en": "My car runs on gasoline, not on diesel."
+  }
+ },
+ "beredvillighed": {
+  "file": "b.json",
+  "explanation": "\"En beredvillighed\" means \"a readiness\", being quick and glad to help others.",
+  "forms": [
+   {
+    "da": "en beredvillighed",
+    "en": "a readiness"
+   },
+   {
+    "da": "beredvilligheden",
+    "en": "the readiness"
+   },
+   {
+    "da": "med beredvillighed",
+    "en": "with readiness"
+   }
+  ],
+  "related": [
+   {
+    "da": "villig",
+    "en": "willing"
+   },
+   {
+    "da": "en hjælpsomhed",
+    "en": "helpfulness"
+   },
+   {
+    "da": "en velvilje",
+    "en": "goodwill"
+   },
+   {
+    "da": "en parathed",
+    "en": "preparedness"
+   }
+  ],
+  "sentence": {
+   "da": "Når man gerne og hurtigt hjælper, viser man **beredvillighed**.",
+   "en": "When you help gladly and quickly, you show readiness."
+  }
+ },
+ "berettiget": {
+  "file": "b.json",
+  "explanation": "\"Berettiget\" means \"justified\": it has good reasons behind it. It also means \"entitled\": allowed to receive something: \"Du er berettiget til hjælp\" (You are entitled to help).",
+  "forms": [
+   {
+    "da": "en berettiget kritik",
+    "en": "a justified criticism"
+   },
+   {
+    "da": "et berettiget krav",
+    "en": "a justified demand"
+   },
+   {
+    "da": "berettigede spørgsmål",
+    "en": "justified questions"
+   }
+  ],
+  "related": [
+   {
+    "da": "begrundet",
+    "en": "well-founded"
+   },
+   {
+    "da": "retfærdig",
+    "en": "fair"
+   },
+   {
+    "da": "en ret",
+    "en": "a right"
+   },
+   {
+    "da": "legitim",
+    "en": "legitimate"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes kritik var **berettiget**, fordi fejlen var tydelig.",
+   "en": "Her criticism was justified because the mistake was obvious."
+  }
+ },
+ "beruset": {
+  "file": "b.json",
+  "explanation": "\"Beruset\" means \"drunk\" or \"intoxicated\". It is the formal word used in police reports and news, such as \"en beruset bilist\" (an intoxicated driver). In everyday speech Danes say \"fuld\" (drunk): \"Han er fuld\" (He is drunk).",
+  "forms": [
+   {
+    "da": "en beruset mand",
+    "en": "an intoxicated man"
+   },
+   {
+    "da": "et beruset par",
+    "en": "an intoxicated couple"
+   },
+   {
+    "da": "berusede gæster",
+    "en": "intoxicated guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "ædru",
+    "en": "sober"
+   },
+   {
+    "da": "påvirket",
+    "en": "under the influence"
+   },
+   {
+    "da": "en rus",
+    "en": "a drunken state"
+   }
+  ],
+  "sentence": {
+   "da": "Det er forbudt at køre bil, når man er **beruset**.",
+   "en": "It is forbidden to drive a car when you are drunk."
+  }
+ },
+ "berømt": {
+  "file": "b.json",
+  "explanation": "\"Berømt\" means \"famous\". To say what someone or something is famous for, put \"for\" after it: \"Den er berømt for sin ost\" (It is famous for its cheese).",
+  "forms": [
+   {
+    "da": "en berømt skuespiller",
+    "en": "a famous actor"
+   },
+   {
+    "da": "et berømt maleri",
+    "en": "a famous painting"
+   },
+   {
+    "da": "berømte steder",
+    "en": "famous places"
+   }
+  ],
+  "related": [
+   {
+    "da": "en berømthed",
+    "en": "a celebrity"
+   },
+   {
+    "da": "populær",
+    "en": "popular"
+   },
+   {
+    "da": "ukendt",
+    "en": "unknown"
+   },
+   {
+    "da": "legendarisk",
+    "en": "legendary"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er en **berømt** sanger i hele landet.",
+   "en": "She is a famous singer all over the country."
+  }
+ },
+ "beskadiget": {
+  "file": "b.json",
+  "explanation": "\"Beskadiget\" means \"damaged\", for something that has been harmed but is not necessarily broken: \"Pakken er beskadiget\" (The package is damaged).",
+  "forms": [
+   {
+    "da": "en beskadiget bil",
+    "en": "a damaged car"
+   },
+   {
+    "da": "et beskadiget tag",
+    "en": "a damaged roof"
+   },
+   {
+    "da": "beskadigede varer",
+    "en": "damaged goods"
+   }
+  ],
+  "related": [
+   {
+    "da": "ødelagt",
+    "en": "broken, ruined"
+   },
+   {
+    "da": "en skade",
+    "en": "damage, an injury"
+   },
+   {
+    "da": "hel",
+    "en": "whole, intact"
+   },
+   {
+    "da": "slidt",
+    "en": "worn"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen er **beskadiget** efter ulykken.",
+   "en": "The car is damaged after the accident."
+  }
+ },
+ "beskeden": {
+  "file": "b.json",
+  "explanation": "\"Beskeden\" means \"modest\" and describes someone who does not brag. It is also used for a small amount: \"en beskeden løn\" (a modest salary).",
+  "forms": [
+   {
+    "da": "en beskeden mand",
+    "en": "a modest man"
+   },
+   {
+    "da": "et beskedent svar",
+    "en": "a modest answer"
+   },
+   {
+    "da": "beskedne folk",
+    "en": "modest people"
+   }
+  ],
+  "related": [
+   {
+    "da": "en beskedenhed",
+    "en": "modesty"
+   },
+   {
+    "da": "nøjsom",
+    "en": "content with little"
+   },
+   {
+    "da": "stolt",
+    "en": "proud"
+   },
+   {
+    "da": "en besked",
+    "en": "a message (look-alike)"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **beskeden** og snakker aldrig om sine succeser.",
+   "en": "She is modest and never talks about her successes."
+  }
+ },
+ "beskidt": {
+  "file": "b.json",
+  "explanation": "\"Beskidt\" means \"dirty\", covered in dirt or mud.",
+  "forms": [
+   {
+    "da": "en beskidt jakke",
+    "en": "a dirty jacket"
+   },
+   {
+    "da": "et beskidt glas",
+    "en": "a dirty glass"
+   },
+   {
+    "da": "beskidte sko",
+    "en": "dirty shoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "ren",
+    "en": "clean"
+   },
+   {
+    "da": "snavset",
+    "en": "dirty"
+   },
+   {
+    "da": "snavs",
+    "en": "dirt"
+   }
+  ],
+  "sentence": {
+   "da": "Man bliver **beskidt** af at lege i mudder.",
+   "en": "You get dirty from playing in mud."
+  }
+ },
+ "beskyttelse": {
+  "file": "b.json",
+  "explanation": "\"Beskyttelse\" means \"protection\", something that keeps you safe from harm.",
+  "forms": [
+   {
+    "da": "en beskyttelse",
+    "en": "a protection"
+   },
+   {
+    "da": "beskyttelsen",
+    "en": "the protection"
+   },
+   {
+    "da": "beskyttelser",
+    "en": "protections"
+   },
+   {
+    "da": "beskyttelserne",
+    "en": "the protections"
+   }
+  ],
+  "related": [
+   {
+    "da": "at beskytte",
+    "en": "to protect"
+   },
+   {
+    "da": "en sikkerhed",
+    "en": "a safety / security"
+   },
+   {
+    "da": "et forsvar",
+    "en": "a defense"
+   },
+   {
+    "da": "et værn",
+    "en": "a guard"
+   }
+  ],
+  "sentence": {
+   "da": "Solcreme giver **beskyttelse** mod solen.",
+   "en": "Sunscreen gives protection from the sun."
+  }
+ },
+ "beskyttende": {
+  "file": "b.json",
+  "explanation": "\"Beskyttende\" means \"protective\". It describes things that keep harm away, such as \"en beskyttende hjelm\" (a protective helmet), and people who watch over someone: \"en beskyttende far\" (a protective father). It comes from \"at beskytte\" (to protect).",
+  "forms": [
+   {
+    "da": "en beskyttende hjelm",
+    "en": "a protective helmet"
+   },
+   {
+    "da": "et beskyttende lag",
+    "en": "a protective layer"
+   },
+   {
+    "da": "beskyttende handsker",
+    "en": "protective gloves"
+   }
+  ],
+  "related": [
+   {
+    "da": "en beskyttelse",
+    "en": "protection"
+   },
+   {
+    "da": "ubeskyttet",
+    "en": "unprotected"
+   },
+   {
+    "da": "sårbar",
+    "en": "vulnerable"
+   }
+  ],
+  "sentence": {
+   "da": "Han bruger **beskyttende** briller, når han saver i træ.",
+   "en": "He uses protective goggles when he saws wood."
+  }
+ },
+ "beslutsomhed": {
+  "file": "b.json",
+  "explanation": "\"En beslutsomhed\" means \"a determination\", acting firmly without doubt once your mind is made up. It describes how a person acts, unlike \"en beslutning\" (a decision), which is the decision itself.",
+  "forms": [
+   {
+    "da": "en beslutsomhed",
+    "en": "a determination"
+   },
+   {
+    "da": "beslutsomheden",
+    "en": "the determination"
+   },
+   {
+    "da": "med beslutsomhed",
+    "en": "with determination"
+   }
+  ],
+  "related": [
+   {
+    "da": "beslutsom",
+    "en": "decisive"
+   },
+   {
+    "da": "en vilje",
+    "en": "a will"
+   },
+   {
+    "da": "en handlekraft",
+    "en": "drive"
+   },
+   {
+    "da": "en målbevidsthed",
+    "en": "single-mindedness"
+   }
+  ],
+  "sentence": {
+   "da": "Hun tøvede ikke, men handlede med **beslutsomhed**.",
+   "en": "She did not hesitate but acted with determination."
+  }
+ },
+ "beslægtet": {
+  "file": "b.json",
+  "explanation": "\"Beslægtet\" means \"related\" in the family sense: \"Er I beslægtede?\" (Are you two related?). It is also used for languages and words that come from the same origin.",
+  "forms": [
+   {
+    "da": "en beslægtet art",
+    "en": "a related species"
+   },
+   {
+    "da": "et beslægtet ord",
+    "en": "a related word"
+   },
+   {
+    "da": "beslægtede sprog",
+    "en": "related languages"
+   }
+  ],
+  "related": [
+   {
+    "da": "en slægtning",
+    "en": "a relative"
+   },
+   {
+    "da": "en slægt",
+    "en": "a family line"
+   },
+   {
+    "da": "relateret",
+    "en": "linked to a topic"
+   }
+  ],
+  "sentence": {
+   "da": "Ulven er tæt **beslægtet** med vores hunde.",
+   "en": "The wolf is closely related to our dogs."
+  }
+ },
+ "bestemt": {
+  "file": "b.json",
+  "explanation": "\"Bestemt\" means \"for sure\" and \"certain\", in two uses. To stress a statement it means \"for sure\": \"Hun kommer bestemt\" (She is coming for sure). To point at one particular thing it means \"certain\": \"en bestemt bog\" (a certain book).",
+  "forms": [
+   {
+    "da": "Det er bestemt rigtigt",
+    "en": "That is definitely right"
+   },
+   {
+    "da": "Jeg vil bestemt ikke",
+    "en": "I definitely do not want to"
+   },
+   {
+    "da": "en bestemt dag",
+    "en": "a certain day"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bestemme",
+    "en": "to decide"
+   },
+   {
+    "da": "en beslutning",
+    "en": "a decision"
+   },
+   {
+    "da": "sikker",
+    "en": "sure"
+   },
+   {
+    "da": "afgjort",
+    "en": "certainly"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **bestemt** en god idé.",
+   "en": "That is definitely a good idea."
+  }
+ },
+ "bestemt form": {
+  "file": "b.json",
+  "explanation": "\"En bestemt form\" means \"a form with the\", the version of a word that says \"the\". Danish usually puts \"the\" on the end of the word instead of in front: \"en hund\" (a dog) becomes \"hunden\" (the dog), and \"et hus\" (a house) becomes \"huset\" (the house).",
+  "forms": [
+   {
+    "da": "en bestemt form",
+    "en": "a definite form"
+   },
+   {
+    "da": "den bestemte form",
+    "en": "the definite form"
+   },
+   {
+    "da": "bestemte former",
+    "en": "definite forms"
+   },
+   {
+    "da": "de bestemte former",
+    "en": "the definite forms"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ubestemt form",
+    "en": "an indefinite form"
+   },
+   {
+    "da": "en flertalsform",
+    "en": "a plural form"
+   },
+   {
+    "da": "en grundform",
+    "en": "a base form"
+   }
+  ],
+  "sentence": {
+   "da": "Ordet bilen er i **bestemt form**, men en bil er det ikke.",
+   "en": "The word bilen is in the definite form, but en bil is not."
+  }
+ },
+ "bestik": {
+  "file": "b.json",
+  "explanation": "\"Bestik\" means \"cutlery\": the knives, forks and spoons you eat with. For a single piece, say \"en kniv\" (a knife), \"en gaffel\" (a fork) or \"en ske\" (a spoon).",
+  "forms": [
+   {
+    "da": "et bestik",
+    "en": "a set of cutlery"
+   },
+   {
+    "da": "bestikket",
+    "en": "the cutlery"
+   },
+   {
+    "da": "noget bestik",
+    "en": "some cutlery"
+   }
+  ],
+  "related": [
+   {
+    "da": "en teske",
+    "en": "a teaspoon"
+   },
+   {
+    "da": "en spiseske",
+    "en": "a tablespoon"
+   },
+   {
+    "da": "spisepinde",
+    "en": "chopsticks"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg lægger **bestik** og tallerkener på bordet.",
+   "en": "I put cutlery and plates on the table."
+  }
+ },
+ "bestikkelse": {
+  "file": "b.json",
+  "explanation": "\"En bestikkelse\" means \"a bribe\", money or a gift given to someone in power to get an unfair favor. Without \"en\", it names the crime: \"Han blev anklaget for bestikkelse\" (He was accused of bribery).",
+  "forms": [
+   {
+    "da": "en bestikkelse",
+    "en": "a bribe"
+   },
+   {
+    "da": "bestikkelsen",
+    "en": "the bribe"
+   },
+   {
+    "da": "bestikkelser",
+    "en": "bribes"
+   },
+   {
+    "da": "bestikkelserne",
+    "en": "the bribes"
+   }
+  ],
+  "related": [
+   {
+    "da": "korruption",
+    "en": "corruption"
+   },
+   {
+    "da": "svindel",
+    "en": "fraud"
+   },
+   {
+    "da": "et underslæb",
+    "en": "embezzlement"
+   },
+   {
+    "da": "en afpresning",
+    "en": "blackmail"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet mener, at manden tog imod **bestikkelse** fra firmaet.",
+   "en": "The police believe the man took bribes from the company."
+  }
+ },
+ "besvær": {
+  "file": "b.json",
+  "explanation": "\"Et besvær\" means \"trouble\" or \"a hassle\", the effort or inconvenience that something costs you. It is also part of a polite phrase: \"Undskyld besværet\" (Sorry for the trouble), said after you have asked someone for something.",
+  "forms": [
+   {
+    "da": "et stort besvær",
+    "en": "a big hassle"
+   },
+   {
+    "da": "uden besvær",
+    "en": "without trouble"
+   },
+   {
+    "da": "Tak for besværet",
+    "en": "Thanks for the trouble"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ulejlighed",
+    "en": "an inconvenience"
+   },
+   {
+    "da": "et bøvl",
+    "en": "a nuisance"
+   },
+   {
+    "da": "et problem",
+    "en": "a problem"
+   },
+   {
+    "da": "en byrde",
+    "en": "a burden"
+   }
+  ],
+  "sentence": {
+   "da": "Det er for meget **besvær** at rejse så langt for et møde.",
+   "en": "It is too much trouble to travel so far for a meeting."
+  }
+ },
+ "besværlig": {
+  "file": "b.json",
+  "explanation": "\"Besværlig\" means \"troublesome\", costing a lot of effort. It also describes a person who is awkward to deal with: \"en besværlig kunde\" (a demanding customer).",
+  "forms": [
+   {
+    "da": "en besværlig vej",
+    "en": "a troublesome road"
+   },
+   {
+    "da": "et besværligt arbejde",
+    "en": "a laborious job"
+   },
+   {
+    "da": "besværlige forhold",
+    "en": "difficult conditions"
+   }
+  ],
+  "related": [
+   {
+    "da": "et besvær",
+    "en": "a hassle"
+   },
+   {
+    "da": "svær",
+    "en": "hard"
+   },
+   {
+    "da": "anstrengende",
+    "en": "tiring"
+   }
+  ],
+  "sentence": {
+   "da": "Vejen til hytten er **besværlig**, fordi den er stejl og mudret.",
+   "en": "The road to the cabin is troublesome because it is steep and muddy."
+  }
+ },
+ "beton": {
+  "file": "b.json",
+  "explanation": "\"Beton\" means \"concrete\", the hard gray building material. It is the finished material, while \"cement\" (cement) is only the powder it is made from. You say \"beton\" with no \"en\": \"Der er beton overalt\" (There is concrete everywhere).",
+  "forms": [
+   {
+    "da": "en betonmur",
+    "en": "a concrete wall"
+   },
+   {
+    "da": "betonen",
+    "en": "the concrete"
+   },
+   {
+    "da": "at støbe beton",
+    "en": "to pour concrete"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mursten",
+    "en": "a brick"
+   },
+   {
+    "da": "stål",
+    "en": "steel"
+   },
+   {
+    "da": "asfalt",
+    "en": "asphalt"
+   }
+  ],
+  "sentence": {
+   "da": "Gulvet i kælderen er lavet af **beton**.",
+   "en": "The floor in the basement is made of concrete."
+  }
+ },
+ "betydelig": {
+  "file": "b.json",
+  "explanation": "\"Betydelig\" means \"significant\", mostly in the sense of large in amount or degree: \"en betydelig stigning\" (a considerable rise). To say that something has great meaning, use \"betydningsfuld\" (full of meaning).",
+  "forms": [
+   {
+    "da": "en betydelig forskel",
+    "en": "a significant difference"
+   },
+   {
+    "da": "et betydeligt beløb",
+    "en": "a considerable amount"
+   },
+   {
+    "da": "betydelige ændringer",
+    "en": "significant changes"
+   }
+  ],
+  "related": [
+   {
+    "da": "stor",
+    "en": "large"
+   },
+   {
+    "da": "væsentlig",
+    "en": "substantial"
+   },
+   {
+    "da": "markant",
+    "en": "marked"
+   },
+   {
+    "da": "ubetydelig",
+    "en": "insignificant"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en **betydelig** indflydelse på beslutningen.",
+   "en": "She has a significant influence on the decision."
+  }
+ },
+ "betydningsfuld": {
+  "file": "b.json",
+  "explanation": "\"Betydningsfuld\" means \"significant\", full of meaning and weight, built from betydning (meaning) and fuld (full). You use it when something matters a lot: \"en betydningsfuld opdagelse\" (a significant discovery). Do not mix it up with \"betydelig\" (considerable), which says something is large in amount: \"en betydelig stigning\" (a considerable rise).",
+  "forms": [
+   {
+    "da": "en betydningsfuld person",
+    "en": "a significant person"
+   },
+   {
+    "da": "et betydningsfuldt valg",
+    "en": "a significant choice"
+   },
+   {
+    "da": "betydningsfulde år",
+    "en": "significant years"
+   }
+  ],
+  "related": [
+   {
+    "da": "vigtig",
+    "en": "important"
+   },
+   {
+    "da": "afgørende",
+    "en": "decisive"
+   },
+   {
+    "da": "meningsfuld",
+    "en": "meaningful"
+   },
+   {
+    "da": "banebrydende",
+    "en": "groundbreaking"
+   }
+  ],
+  "sentence": {
+   "da": "Opfindelsen af trykpressen var en **betydningsfuld** begivenhed i historien.",
+   "en": "The invention of the printing press was a significant event in history."
+  }
+ },
+ "betænkelig": {
+  "file": "b.json",
+  "explanation": "\"Betænkelig\" means \"doubtful\" or \"worrying\", for something that makes you uneasy about whether it is wise or safe.",
+  "forms": [
+   {
+    "da": "en betænkelig situation",
+    "en": "a worrying situation"
+   },
+   {
+    "da": "et betænkeligt tegn",
+    "en": "a worrying sign"
+   },
+   {
+    "da": "betænkelige tal",
+    "en": "worrying figures"
+   }
+  ],
+  "related": [
+   {
+    "da": "bekymrende",
+    "en": "concerning"
+   },
+   {
+    "da": "tvivlsom",
+    "en": "questionable"
+   },
+   {
+    "da": "at betænke sig",
+    "en": "to hesitate"
+   },
+   {
+    "da": "betryggende",
+    "en": "reassuring"
+   }
+  ],
+  "sentence": {
+   "da": "Situationen er **betænkelig**, fordi floden stiger hurtigt.",
+   "en": "The situation is worrying because the river is rising fast."
+  }
+ },
+ "bevidst": {
+  "file": "b.json",
+  "explanation": "\"Bevidst\" means \"conscious\" or \"deliberate\". About an act it means that it was done with intent: \"Hun gjorde det bevidst\" (She did it on purpose). With \"om\" (about), it means aware of something: \"bevidst om faren\" (aware of the danger).",
+  "forms": [
+   {
+    "da": "en bevidst handling",
+    "en": "a deliberate act"
+   },
+   {
+    "da": "et bevidst valg",
+    "en": "a deliberate choice"
+   },
+   {
+    "da": "bevidste fejl",
+    "en": "deliberate mistakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "ubevidst",
+    "en": "unconscious"
+   },
+   {
+    "da": "med vilje",
+    "en": "on purpose"
+   },
+   {
+    "da": "en bevidsthed",
+    "en": "consciousness"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **bevidst** om, at det kan være farligt.",
+   "en": "He is aware that it can be dangerous."
+  }
+ },
+ "bevidsthed": {
+  "file": "b.json",
+  "explanation": "\"Bevidsthed\" means \"consciousness\", both being awake and being aware of something. To say someone passes out, use \"at miste bevidstheden\" (to lose consciousness).",
+  "forms": [
+   {
+    "da": "bevidsthed",
+    "en": "consciousness"
+   },
+   {
+    "da": "bevidstheden",
+    "en": "the consciousness"
+   },
+   {
+    "da": "ved bevidsthed",
+    "en": "conscious, awake"
+   }
+  ],
+  "related": [
+   {
+    "da": "bevidst",
+    "en": "aware, deliberate"
+   },
+   {
+    "da": "bevidstløs",
+    "en": "unconscious"
+   },
+   {
+    "da": "ubevidst",
+    "en": "unconscious, unaware"
+   }
+  ],
+  "sentence": {
+   "da": "Efter ulykken kom han til **bevidsthed** igen.",
+   "en": "After the accident he regained consciousness."
+  }
+ },
+ "bevidstløs": {
+  "file": "b.json",
+  "explanation": "\"Bevidstløs\" means \"unconscious\", not awake and not reacting, for example after a fall. The ending \"løs\" means \"without\", as in \"hjælpeløs\" (helpless).",
+  "forms": [
+   {
+    "da": "en bevidstløs mand",
+    "en": "an unconscious man"
+   },
+   {
+    "da": "et bevidstløst barn",
+    "en": "an unconscious child"
+   },
+   {
+    "da": "bevidstløse patienter",
+    "en": "unconscious patients"
+   }
+  ],
+  "related": [
+   {
+    "da": "at besvime",
+    "en": "to faint"
+   },
+   {
+    "da": "vågen",
+    "en": "awake"
+   },
+   {
+    "da": "en bevidsthed",
+    "en": "consciousness"
+   }
+  ],
+  "sentence": {
+   "da": "Efter faldet lå cyklisten **bevidstløs** på vejen.",
+   "en": "After the fall the cyclist lay unconscious on the road."
+  }
+ },
+ "bevismateriale": {
+  "file": "b.json",
+  "explanation": "\"Et bevismateriale\" means \"evidence\", all the documents, photos and recordings collected to show what happened in a case.",
+  "forms": [
+   {
+    "da": "et bevismateriale",
+    "en": "a body of evidence"
+   },
+   {
+    "da": "bevismaterialet",
+    "en": "the evidence"
+   },
+   {
+    "da": "stærkt bevismateriale",
+    "en": "strong evidence"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bevis",
+    "en": "a piece of proof"
+   },
+   {
+    "da": "at bevise",
+    "en": "to prove"
+   },
+   {
+    "da": "et indicium",
+    "en": "an indication"
+   },
+   {
+    "da": "en bevisbyrde",
+    "en": "a burden of proof"
+   }
+  ],
+  "sentence": {
+   "da": "Fotos, breve og optagelser er alt sammen **bevismateriale** i en retssag.",
+   "en": "Photos, letters and recordings are all evidence in a trial."
+  }
+ },
+ "bevæbnet": {
+  "file": "b.json",
+  "explanation": "\"Bevæbnet\" means \"armed\", carrying something to fight with. Add \"med\" (with) to name the weapon: \"Han er bevæbnet med en kniv\" (He is armed with a knife).",
+  "forms": [
+   {
+    "da": "en bevæbnet mand",
+    "en": "an armed man"
+   },
+   {
+    "da": "et bevæbnet røveri",
+    "en": "an armed robbery"
+   },
+   {
+    "da": "bevæbnede vagter",
+    "en": "armed guards"
+   }
+  ],
+  "related": [
+   {
+    "da": "et våben",
+    "en": "a weapon"
+   },
+   {
+    "da": "ubevæbnet",
+    "en": "unarmed"
+   },
+   {
+    "da": "en soldat",
+    "en": "a soldier"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet sagde, at manden var **bevæbnet** med en kniv.",
+   "en": "The police said that the man was armed with a knife."
+  }
+ },
+ "beæret": {
+  "file": "b.json",
+  "explanation": "\"Beæret\" means \"honored\", feeling that someone has shown you great respect. Add \"over\" (about) to give the reason: \"Jeg er beæret over invitationen\" (I am honored by the invitation).",
+  "forms": [
+   {
+    "da": "en beæret gæst",
+    "en": "an honored guest"
+   },
+   {
+    "da": "et beæret medlem",
+    "en": "an honored member"
+   },
+   {
+    "da": "beærede gæster",
+    "en": "honored guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "stolt",
+    "en": "proud"
+   },
+   {
+    "da": "hædret",
+    "en": "distinguished"
+   },
+   {
+    "da": "smigret",
+    "en": "flattered"
+   },
+   {
+    "da": "taknemmelig",
+    "en": "grateful"
+   }
+  ],
+  "sentence": {
+   "da": "Hun følte sig **beæret**, da kongen takkede hende personligt.",
+   "en": "She felt honored when the king thanked her personally."
+  }
+ },
+ "bifald": {
+  "file": "b.json",
+  "explanation": "\"Et bifald\" means \"applause\", the sound an audience makes to show it liked something. It is also used for \"approval\" of an idea or decision: \"Forslaget fik bifald\" (The proposal got approval).",
+  "forms": [
+   {
+    "da": "et bifald",
+    "en": "applause"
+   },
+   {
+    "da": "bifaldet",
+    "en": "the applause"
+   },
+   {
+    "da": "stormende bifald",
+    "en": "thunderous applause"
+   }
+  ],
+  "related": [
+   {
+    "da": "at klappe",
+    "en": "to clap"
+   },
+   {
+    "da": "en klapsalve",
+    "en": "a round of applause"
+   },
+   {
+    "da": "en ovation",
+    "en": "an ovation"
+   },
+   {
+    "da": "en jubel",
+    "en": "cheering"
+   }
+  ],
+  "sentence": {
+   "da": "Efter koncerten fik orkestret et langt **bifald** fra publikum.",
+   "en": "After the concert, the orchestra got long applause from the audience."
+  }
+ },
+ "billedkunst": {
+  "file": "b.json",
+  "explanation": "\"Billedkunst\" means \"art\", the school subject where pupils draw, paint and make pictures.",
+  "forms": [
+   {
+    "da": "billedkunst",
+    "en": "art (the subject)"
+   },
+   {
+    "da": "billedkunsten",
+    "en": "the art"
+   },
+   {
+    "da": "i billedkunst",
+    "en": "in art class"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tegning",
+    "en": "a drawing"
+   },
+   {
+    "da": "et maleri",
+    "en": "a painting"
+   },
+   {
+    "da": "en skulptur",
+    "en": "a sculpture"
+   },
+   {
+    "da": "en pensel",
+    "en": "a brush"
+   }
+  ],
+  "sentence": {
+   "da": "I **billedkunst** lærer børnene at tegne og male.",
+   "en": "In art, the children learn to draw and paint."
+  }
+ },
+ "billig": {
+  "file": "b.json",
+  "explanation": "\"Billig\" means \"cheap\", costing little. It can also sound negative, as if the thing is poorly made: \"Jakken ser billig ud\" (The jacket looks cheap). In a shop you can ask: \"Har du noget billigere?\" (Do you have something cheaper?)",
+  "forms": [
+   {
+    "da": "en billig billet",
+    "en": "a cheap ticket"
+   },
+   {
+    "da": "et billigt hotel",
+    "en": "a cheap hotel"
+   },
+   {
+    "da": "billige billetter",
+    "en": "cheap tickets"
+   }
+  ],
+  "related": [
+   {
+    "da": "dyr",
+    "en": "expensive"
+   },
+   {
+    "da": "gratis",
+    "en": "free"
+   },
+   {
+    "da": "et tilbud",
+    "en": "a special offer"
+   }
+  ],
+  "sentence": {
+   "da": "Maden er **billig**, kun tyve kroner.",
+   "en": "The food is cheap, only twenty kroner."
+  }
+ },
+ "biodiversitet": {
+  "file": "b.json",
+  "explanation": "\"Biodiversitet\" means \"biodiversity\", the variety of living things in one place. A forest with many kinds of plants and animals has a lot of it, while a field with a single crop has little.",
+  "forms": [
+   {
+    "da": "biodiversitet",
+    "en": "biodiversity"
+   },
+   {
+    "da": "biodiversiteten",
+    "en": "the biodiversity"
+   },
+   {
+    "da": "rig biodiversitet",
+    "en": "rich biodiversity"
+   },
+   {
+    "da": "tab af biodiversitet",
+    "en": "loss of biodiversity"
+   }
+  ],
+  "related": [
+   {
+    "da": "en art",
+    "en": "a species"
+   },
+   {
+    "da": "et økosystem",
+    "en": "an ecosystem"
+   },
+   {
+    "da": "en udryddelse",
+    "en": "an extinction"
+   },
+   {
+    "da": "et levested",
+    "en": "a habitat"
+   }
+  ],
+  "sentence": {
+   "da": "Skoven har stor **biodiversitet**, fordi der lever mange forskellige arter.",
+   "en": "The forest has great biodiversity because many different species live there."
+  }
+ },
+ "biologi": {
+  "file": "b.json",
+  "explanation": "\"Biologi\" means \"biology\", the study of plants, animals and the human body. To say you are good at it, use \"til\" (at): \"Jeg er god til biologi\" (I am good at biology).",
+  "forms": [
+   {
+    "da": "Jeg har biologi i dag",
+    "en": "I have biology today"
+   },
+   {
+    "da": "Biologi er spændende",
+    "en": "Biology is exciting"
+   },
+   {
+    "da": "en biologilærer",
+    "en": "a biology teacher"
+   }
+  ],
+  "related": [
+   {
+    "da": "en zoolog",
+    "en": "a zoologist"
+   },
+   {
+    "da": "kemi",
+    "en": "chemistry"
+   },
+   {
+    "da": "fysik",
+    "en": "physics"
+   },
+   {
+    "da": "naturfag",
+    "en": "science classes"
+   }
+  ],
+  "sentence": {
+   "da": "Vi lærer om dyr og planter i **biologi**.",
+   "en": "We learn about animals and plants in biology."
+  }
+ },
+ "biologisk": {
+  "file": "b.json",
+  "explanation": "\"Biologisk\" means \"biological\", about living things and the science of them. It is also used for family by birth, as in \"biologiske forældre\" (biological parents), as opposed to adoptive ones.",
+  "forms": [
+   {
+    "da": "en biologisk mor",
+    "en": "a biological mother"
+   },
+   {
+    "da": "et biologisk våben",
+    "en": "a biological weapon"
+   },
+   {
+    "da": "biologiske processer",
+    "en": "biological processes"
+   }
+  ],
+  "related": [
+   {
+    "da": "økologisk",
+    "en": "organic"
+   },
+   {
+    "da": "kemisk",
+    "en": "chemical"
+   },
+   {
+    "da": "naturlig",
+    "en": "natural"
+   },
+   {
+    "da": "en biolog",
+    "en": "a biologist"
+   }
+  ],
+  "sentence": {
+   "da": "**Biologisk** affald er rester af planter og dyr.",
+   "en": "Biological waste is what is left of plants and animals."
+  }
+ },
+ "bitter": {
+  "file": "b.json",
+  "explanation": "\"Bitter\" means \"bitter\", the taste of strong coffee. It also describes a person who stays angry about something that happened: \"Hun er bitter\" (She is bitter).",
+  "forms": [
+   {
+    "da": "en bitter smag",
+    "en": "a bitter taste"
+   },
+   {
+    "da": "et bittert svar",
+    "en": "a bitter answer"
+   },
+   {
+    "da": "bitre tabere",
+    "en": "bitter losers"
+   }
+  ],
+  "related": [
+   {
+    "da": "sød",
+    "en": "sweet"
+   },
+   {
+    "da": "salt",
+    "en": "salty"
+   },
+   {
+    "da": "skarp",
+    "en": "sharp"
+   },
+   {
+    "da": "vred",
+    "en": "angry"
+   }
+  ],
+  "sentence": {
+   "da": "Kaffen er for **bitter** for mig.",
+   "en": "The coffee is too bitter for me."
+  }
+ },
+ "blandet": {
+  "file": "b.json",
+  "explanation": "\"Blandet\" means \"mixed\" and is used for things made of different kinds, such as \"en blandet salat\" (a mixed salad). It is also used for feelings: \"blandede følelser\" (mixed feelings).",
+  "forms": [
+   {
+    "da": "en blandet pose",
+    "en": "a mixed bag"
+   },
+   {
+    "da": "et blandet selskab",
+    "en": "a mixed group"
+   },
+   {
+    "da": "blandede nødder",
+    "en": "mixed nuts"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blande",
+    "en": "to mix"
+   },
+   {
+    "da": "en blanding",
+    "en": "a mixture"
+   },
+   {
+    "da": "ren",
+    "en": "pure"
+   },
+   {
+    "da": "forskellig",
+    "en": "different"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg køber **blandet** slik til børnene.",
+   "en": "I buy mixed candy for the kids."
+  }
+ },
+ "blandt": {
+  "file": "b.json",
+  "explanation": "\"Blandt\" means \"among\": \"Han er blandt de bedste\" (He is among the best). For just two things, use \"mellem\" (between): \"mellem huset og træet\" (between the house and the tree).",
+  "forms": [
+   {
+    "da": "blandt venner",
+    "en": "among friends"
+   },
+   {
+    "da": "blandt andet",
+    "en": "among other things"
+   },
+   {
+    "da": "blandt mange",
+    "en": "among many"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blande",
+    "en": "to mix"
+   },
+   {
+    "da": "en blanding",
+    "en": "a mixture"
+   },
+   {
+    "da": "blandet",
+    "en": "mixed"
+   },
+   {
+    "da": "imellem",
+    "en": "between"
+   }
+  ],
+  "sentence": {
+   "da": "Katten gemmer sig **blandt** blomsterne.",
+   "en": "The cat hides among the flowers."
+  }
+ },
+ "blandt andet": {
+  "file": "b.json",
+  "explanation": "\"Blandt andet\" means \"among other things\". Say it when you name one example out of several: \"Vi talte blandt andet om prisen\" (We talked about the price, among other things). In writing it is shortened to \"bl.a.\"",
+  "forms": [
+   {
+    "da": "blandt andet",
+    "en": "among other things"
+   },
+   {
+    "da": "Vi talte blandt andet om musik.",
+    "en": "We talked about music, among other things."
+   },
+   {
+    "da": "Hun kan blandt andet svømme.",
+    "en": "She can swim, among other things."
+   }
+  ],
+  "related": [
+   {
+    "da": "for eksempel",
+    "en": "for example"
+   },
+   {
+    "da": "blandt andre",
+    "en": "among others"
+   },
+   {
+    "da": "og så videre",
+    "en": "and so on"
+   },
+   {
+    "da": "især",
+    "en": "especially"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg købte **blandt andet** brød og ost.",
+   "en": "I bought bread and cheese, among other things."
+  }
+ },
+ "blank": {
+  "file": "b.json",
+  "explanation": "\"Blank\" means \"shiny\": \"en blank overflade\" (a shiny surface). It can also describe a page with nothing on it: \"et blankt ark\" (a blank sheet).",
+  "forms": [
+   {
+    "da": "en blank bil",
+    "en": "a shiny car"
+   },
+   {
+    "da": "et blankt bord",
+    "en": "a shiny table"
+   },
+   {
+    "da": "blanke sko",
+    "en": "shiny shoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "skinnende",
+    "en": "shining"
+   },
+   {
+    "da": "mat",
+    "en": "dull / matte"
+   },
+   {
+    "da": "glat",
+    "en": "smooth / slippery"
+   },
+   {
+    "da": "tom",
+    "en": "empty"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen er **blank**, fordi jeg har vasket den.",
+   "en": "The car is shiny because I washed it."
+  }
+ },
+ "bleg": {
+  "file": "b.json",
+  "explanation": "\"Bleg\" means \"pale\", for a face or skin that has lost its color, such as from illness, fear or cold. It also describes washed-out colors: \"blege farver\" (pale colors).",
+  "forms": [
+   {
+    "da": "en bleg mand",
+    "en": "a pale man"
+   },
+   {
+    "da": "et blegt ansigt",
+    "en": "a pale face"
+   },
+   {
+    "da": "blege kinder",
+    "en": "pale cheeks"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvid",
+    "en": "white"
+   },
+   {
+    "da": "grå",
+    "en": "gray"
+   },
+   {
+    "da": "rødmosset",
+    "en": "rosy-cheeked"
+   },
+   {
+    "da": "sygelig",
+    "en": "sickly"
+   }
+  ],
+  "sentence": {
+   "da": "Hun blev helt **bleg** i ansigtet, da hun hørte nyheden.",
+   "en": "She turned completely pale in the face when she heard the news."
+  }
+ },
+ "blind": {
+  "file": "b.json",
+  "explanation": "\"Blind\" means \"blind\", for someone who cannot see.",
+  "forms": [
+   {
+    "da": "en blind kvinde",
+    "en": "a blind woman"
+   },
+   {
+    "da": "et blindt barn",
+    "en": "a blind child"
+   },
+   {
+    "da": "blinde børn",
+    "en": "blind children"
+   }
+  ],
+  "related": [
+   {
+    "da": "en blindgyde",
+    "en": "a dead end"
+   },
+   {
+    "da": "en blindhed",
+    "en": "blindness"
+   },
+   {
+    "da": "synshandicappet",
+    "en": "visually impaired"
+   },
+   {
+    "da": "at blænde",
+    "en": "to dazzle"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **blind** og kan ikke se.",
+   "en": "He is blind and cannot see."
+  }
+ },
+ "blod": {
+  "file": "b.json",
+  "explanation": "\"Blod\" means \"blood\". It is the first part of many longer words: \"blodprøve\" (blood test) and \"blodtryk\" (blood pressure).",
+  "forms": [
+   {
+    "da": "blod",
+    "en": "blood"
+   },
+   {
+    "da": "blodet",
+    "en": "the blood"
+   },
+   {
+    "da": "mit blod",
+    "en": "my blood"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bløde",
+    "en": "to bleed"
+   },
+   {
+    "da": "en blodtype",
+    "en": "a blood type"
+   },
+   {
+    "da": "blodig",
+    "en": "bloody"
+   },
+   {
+    "da": "en åre",
+    "en": "a vein"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen tager en prøve af mit **blod**.",
+   "en": "The doctor takes a sample of my blood."
+  }
+ },
+ "blodig": {
+  "file": "b.json",
+  "explanation": "\"Blodig\" means \"bloody\", covered in blood or full of violence.",
+  "forms": [
+   {
+    "da": "en blodig kniv",
+    "en": "a bloody knife"
+   },
+   {
+    "da": "et blodigt slagsmål",
+    "en": "a bloody fight"
+   },
+   {
+    "da": "blodige hænder",
+    "en": "bloody hands"
+   }
+  ],
+  "related": [
+   {
+    "da": "et sår",
+    "en": "a wound"
+   },
+   {
+    "da": "blødende",
+    "en": "bleeding"
+   },
+   {
+    "da": "voldelig",
+    "en": "violent"
+   },
+   {
+    "da": "grusom",
+    "en": "cruel"
+   }
+  ],
+  "sentence": {
+   "da": "Han fik en **blodig** næse, da bolden ramte ham.",
+   "en": "He got a bloody nose when the ball hit him."
+  }
+ },
+ "blodsukker": {
+  "file": "b.json",
+  "explanation": "\"Blodsukker\" means \"blood sugar\", the amount of sugar in your blood. People with diabetes check it often with a small device, to see whether they need food or medicine.",
+  "forms": [
+   {
+    "da": "et blodsukker",
+    "en": "a blood sugar"
+   },
+   {
+    "da": "blodsukkeret",
+    "en": "the blood sugar"
+   },
+   {
+    "da": "højt blodsukker",
+    "en": "high blood sugar"
+   },
+   {
+    "da": "lavt blodsukker",
+    "en": "low blood sugar"
+   }
+  ],
+  "related": [
+   {
+    "da": "en diabetiker",
+    "en": "a diabetic"
+   },
+   {
+    "da": "insulin",
+    "en": "insulin"
+   },
+   {
+    "da": "et blodtryk",
+    "en": "blood pressure"
+   },
+   {
+    "da": "et kolesterol",
+    "en": "cholesterol"
+   }
+  ],
+  "sentence": {
+   "da": "Efter et stort måltid stiger mit **blodsukker**.",
+   "en": "After a big meal my blood sugar rises."
+  }
+ },
+ "blodtryk": {
+  "file": "b.json",
+  "explanation": "\"Et blodtryk\" means \"blood pressure\", how hard your blood pushes against the walls of the vessels in your body. Doctors often check it, because a value that is too high can strain the heart.",
+  "forms": [
+   {
+    "da": "et blodtryk",
+    "en": "blood pressure"
+   },
+   {
+    "da": "blodtrykket",
+    "en": "the blood pressure"
+   },
+   {
+    "da": "højt blodtryk",
+    "en": "high blood pressure"
+   },
+   {
+    "da": "lavt blodtryk",
+    "en": "low blood pressure"
+   }
+  ],
+  "related": [
+   {
+    "da": "en puls",
+    "en": "a pulse"
+   },
+   {
+    "da": "et blodsukker",
+    "en": "a blood sugar"
+   },
+   {
+    "da": "et kolesterol",
+    "en": "cholesterol"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen måler mit **blodtryk** med en manchet om overarmen.",
+   "en": "The doctor measures my blood pressure with a cuff around the upper arm."
+  }
+ },
+ "blokeret": {
+  "file": "b.json",
+  "explanation": "\"Blokeret\" means \"blocked\", when something is in the way or shut, so nothing can get through. It is also used for a bank card or account that has been stopped, often after a theft: \"Dit kort er blokeret\" (Your card is blocked).",
+  "forms": [
+   {
+    "da": "en blokeret vej",
+    "en": "a blocked road"
+   },
+   {
+    "da": "et blokeret afløb",
+    "en": "a blocked drain"
+   },
+   {
+    "da": "blokerede døre",
+    "en": "blocked doors"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blokere",
+    "en": "to block"
+   },
+   {
+    "da": "tilstoppet",
+    "en": "clogged"
+   },
+   {
+    "da": "spærret",
+    "en": "closed off"
+   },
+   {
+    "da": "åben",
+    "en": "open"
+   }
+  ],
+  "sentence": {
+   "da": "Vejen er **blokeret** af et væltet træ.",
+   "en": "The road is blocked by a fallen tree."
+  }
+ },
+ "blomkål": {
+  "file": "b.json",
+  "explanation": "\"Blomkål\" means \"cauliflower\". It is built from blomst (flower) and kål (cabbage), so it literally means \"flower cabbage\".",
+  "forms": [
+   {
+    "da": "en blomkål",
+    "en": "a cauliflower"
+   },
+   {
+    "da": "blomkålen",
+    "en": "the cauliflower"
+   },
+   {
+    "da": "blomkål",
+    "en": "cauliflower"
+   }
+  ],
+  "related": [
+   {
+    "da": "broccoli",
+    "en": "broccoli"
+   },
+   {
+    "da": "rosenkål",
+    "en": "Brussels sprouts"
+   },
+   {
+    "da": "rødkål",
+    "en": "red cabbage"
+   },
+   {
+    "da": "grønkål",
+    "en": "kale"
+   }
+  ],
+  "sentence": {
+   "da": "**Blomkål** er hvid og ligner en lille blomst.",
+   "en": "Cauliflower is white and looks like a small flower."
+  }
+ },
+ "blond": {
+  "file": "b.json",
+  "explanation": "\"Blond\" means \"blond\", a light yellow hair color: \"blondt hår\" (blond hair), \"en blond kvinde\" (a blond woman).",
+  "forms": [
+   {
+    "da": "en blond pige",
+    "en": "a blond girl"
+   },
+   {
+    "da": "et blondt hår",
+    "en": "blond hair"
+   },
+   {
+    "da": "blonde piger",
+    "en": "blond girls"
+   }
+  ],
+  "related": [
+   {
+    "da": "mørk",
+    "en": "dark"
+   },
+   {
+    "da": "lys",
+    "en": "light / fair"
+   },
+   {
+    "da": "rødhåret",
+    "en": "red-haired"
+   },
+   {
+    "da": "grå",
+    "en": "gray"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster er **blond**, men jeg har mørkt hår.",
+   "en": "My sister is blond, but I have dark hair."
+  }
+ },
+ "blot": {
+  "file": "b.json",
+  "explanation": "\"Blot\" means \"merely\" or \"just\". It also appears in wishes: \"Havde jeg blot vidst det!\" (If only I had known!).",
+  "forms": [
+   {
+    "da": "Det tager blot et minut.",
+    "en": "It takes just a minute."
+   },
+   {
+    "da": "Han er blot ti år.",
+    "en": "He is only ten years old."
+   },
+   {
+    "da": "Det er blot en idé.",
+    "en": "It is merely an idea."
+   }
+  ],
+  "related": [
+   {
+    "da": "bare",
+    "en": "just"
+   },
+   {
+    "da": "kun",
+    "en": "only"
+   },
+   {
+    "da": "udelukkende",
+    "en": "solely"
+   },
+   {
+    "da": "simpelthen",
+    "en": "simply"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg ville **blot** sige tak.",
+   "en": "I just wanted to say thanks."
+  }
+ },
+ "bly": {
+  "file": "b.json",
+  "explanation": "\"Et bly\" means \"lead\", the heavy, soft, gray metal.",
+  "forms": [
+   {
+    "da": "et bly",
+    "en": "lead"
+   },
+   {
+    "da": "blyet",
+    "en": "the lead"
+   },
+   {
+    "da": "blyfri benzin",
+    "en": "unleaded gasoline"
+   },
+   {
+    "da": "bly i vandet",
+    "en": "lead in the water"
+   }
+  ],
+  "related": [
+   {
+    "da": "jern",
+    "en": "iron"
+   },
+   {
+    "da": "tin",
+    "en": "tin"
+   },
+   {
+    "da": "kviksølv",
+    "en": "mercury"
+   },
+   {
+    "da": "sølv",
+    "en": "silver"
+   }
+  ],
+  "sentence": {
+   "da": "Gamle rør kan være lavet af **bly**, som er giftigt.",
+   "en": "Old pipes can be made of lead, which is poisonous."
+  }
+ },
+ "blå": {
+  "file": "b.json",
+  "explanation": "\"Blå\" means \"blue\". Put \"lyse\" (light) or \"mørke\" (dark) in front to make shades: \"lyseblå\" means \"light blue\" and \"mørkeblå\" means \"dark blue\".",
+  "forms": [
+   {
+    "da": "en blå bil",
+    "en": "a blue car"
+   },
+   {
+    "da": "et blåt hus",
+    "en": "a blue house"
+   },
+   {
+    "da": "blå biler",
+    "en": "blue cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "grøn",
+    "en": "green"
+   },
+   {
+    "da": "rød",
+    "en": "red"
+   },
+   {
+    "da": "gul",
+    "en": "yellow"
+   }
+  ],
+  "sentence": {
+   "da": "Himlen er **blå** i dag.",
+   "en": "The sky is blue today."
+  }
+ },
+ "blæsende": {
+  "file": "b.json",
+  "explanation": "\"Blæsende\" means \"windy\", with strong wind blowing. It comes from \"at blæse\" (to blow). To say it is windy right now, use \"Det blæser\" (It is windy).",
+  "forms": [
+   {
+    "da": "en blæsende dag",
+    "en": "a windy day"
+   },
+   {
+    "da": "et blæsende vejr",
+    "en": "windy weather"
+   },
+   {
+    "da": "blæsende dage",
+    "en": "windy days"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vind",
+    "en": "a wind"
+   },
+   {
+    "da": "stormfuld",
+    "en": "stormy"
+   },
+   {
+    "da": "vindstille",
+    "en": "calm, without wind"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en **blæsende** dag ved havet.",
+   "en": "It was a windy day by the sea."
+  }
+ },
+ "blæst": {
+  "file": "b.json",
+  "explanation": "\"Blæst\" means \"wind\", the windy weather you feel outdoors.",
+  "forms": [
+   {
+    "da": "meget blæst",
+    "en": "a lot of wind"
+   },
+   {
+    "da": "kraftig blæst",
+    "en": "strong wind"
+   },
+   {
+    "da": "blæsten",
+    "en": "the wind"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vind",
+    "en": "a wind"
+   },
+   {
+    "da": "en storm",
+    "en": "a storm"
+   },
+   {
+    "da": "et vindstød",
+    "en": "a gust"
+   },
+   {
+    "da": "blæsende",
+    "en": "windy"
+   }
+  ],
+  "sentence": {
+   "da": "Der er meget **blæst** på stranden i dag.",
+   "en": "There is a lot of wind on the beach today."
+  }
+ },
+ "blød": {
+  "file": "b.json",
+  "explanation": "\"Blød\" means \"soft\", pleasant to touch. It also describes a quiet, gentle sound: \"en blød stemme\" (a soft voice).",
+  "forms": [
+   {
+    "da": "en blød pude",
+    "en": "a soft pillow"
+   },
+   {
+    "da": "et blødt tæppe",
+    "en": "a soft blanket"
+   },
+   {
+    "da": "bløde sko",
+    "en": "soft shoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "hård",
+    "en": "hard"
+   },
+   {
+    "da": "mør",
+    "en": "tender"
+   },
+   {
+    "da": "øm",
+    "en": "sore, tender"
+   },
+   {
+    "da": "fast",
+    "en": "firm"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sover godt i en **blød** seng.",
+   "en": "I sleep well in a soft bed."
+  }
+ },
+ "blødende": {
+  "file": "b.json",
+  "explanation": "\"Blødende\" means \"bleeding\", for a person or a body part that is losing blood right now. It comes from \"at bløde\" (to bleed).",
+  "forms": [
+   {
+    "da": "en blødende næse",
+    "en": "a bleeding nose"
+   },
+   {
+    "da": "et blødende sår",
+    "en": "a bleeding wound"
+   },
+   {
+    "da": "blødende knæ",
+    "en": "bleeding knees"
+   }
+  ],
+  "related": [
+   {
+    "da": "et sår",
+    "en": "a wound"
+   },
+   {
+    "da": "en blødning",
+    "en": "a bleeding"
+   },
+   {
+    "da": "blodig",
+    "en": "bloody"
+   }
+  ],
+  "sentence": {
+   "da": "Pres på det **blødende** sted, indtil blødningen stopper.",
+   "en": "Press on the bleeding spot until the bleeding stops."
+  }
+ },
+ "bogstavelig talt": {
+  "file": "b.json",
+  "explanation": "\"Bogstavelig talt\" means \"literally\", used when something is really true as said, not as a figure of speech. The opposite is \"billedligt talt\" (figuratively speaking).",
+  "forms": [
+   {
+    "da": "bogstavelig talt umuligt",
+    "en": "literally impossible"
+   },
+   {
+    "da": "bogstavelig talt hele dagen",
+    "en": "literally all day"
+   },
+   {
+    "da": "Vi var bogstavelig talt alene",
+    "en": "We were literally alone"
+   }
+  ],
+  "related": [
+   {
+    "da": "bogstaveligt",
+    "en": "literally"
+   },
+   {
+    "da": "ordret",
+    "en": "word for word"
+   },
+   {
+    "da": "præcis",
+    "en": "exactly"
+   },
+   {
+    "da": "faktisk",
+    "en": "actually"
+   }
+  ],
+  "sentence": {
+   "da": "Der var **bogstavelig talt** ingen mennesker på gaden, ikke en eneste.",
+   "en": "There were literally no people in the street, not a single one."
+  }
+ },
+ "bogstaveligt": {
+  "file": "b.json",
+  "explanation": "\"Bogstaveligt\" means \"literally\", exactly as the words say, with no hidden meaning. It usually comes after \"at forstå\" (to understand) or \"at tage\" (to take): \"at tage noget bogstaveligt\" (to take something literally).",
+  "forms": [
+   {
+    "da": "at tage det bogstaveligt",
+    "en": "to take it literally"
+   },
+   {
+    "da": "Det skal forstås bogstaveligt",
+    "en": "It must be understood literally"
+   },
+   {
+    "da": "Du skal ikke tage det bogstaveligt",
+    "en": "Do not take it literally"
+   }
+  ],
+  "related": [
+   {
+    "da": "ordret",
+    "en": "word for word"
+   },
+   {
+    "da": "billedligt",
+    "en": "figuratively"
+   },
+   {
+    "da": "bogstavelig",
+    "en": "literal"
+   },
+   {
+    "da": "direkte",
+    "en": "directly"
+   }
+  ],
+  "sentence": {
+   "da": "Små børn forstår ofte ord **bogstaveligt**, så ironi er svær for dem.",
+   "en": "Small children often understand words literally, so irony is hard for them."
+  }
+ },
+ "boligmarkedet": {
+  "file": "b.json",
+  "explanation": "\"Boligmarkedet\" means \"the housing market\", the buying, selling and renting of apartments and houses, with the prices that go with it.",
+  "forms": [
+   {
+    "da": "boligmarkedet",
+    "en": "the housing market"
+   },
+   {
+    "da": "et boligmarked",
+    "en": "a housing market"
+   },
+   {
+    "da": "et stærkt boligmarked",
+    "en": "a strong housing market"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ejendomsmægler",
+    "en": "a real estate agent"
+   },
+   {
+    "da": "en bolig",
+    "en": "a place to live"
+   },
+   {
+    "da": "en lejebolig",
+    "en": "a rental"
+   },
+   {
+    "da": "en boligkøber",
+    "en": "a home buyer"
+   }
+  ],
+  "sentence": {
+   "da": "Priserne på **boligmarkedet** er steget meget i København.",
+   "en": "Prices on the housing market have risen a lot in Copenhagen."
+  }
+ },
+ "boligstøtte": {
+  "file": "b.json",
+  "explanation": "\"En boligstøtte\" means \"housing benefit\", money from the state that helps people with a low income pay for where they live. It comes in two forms: \"boligsikring\" (housing benefit for most people) and \"boligydelse\" (housing benefit for pensioners).",
+  "forms": [
+   {
+    "da": "en boligstøtte",
+    "en": "a housing benefit"
+   },
+   {
+    "da": "boligstøtten",
+    "en": "the housing benefit"
+   },
+   {
+    "da": "at søge om boligstøtte",
+    "en": "to apply for housing benefit"
+   },
+   {
+    "da": "at få boligstøtte",
+    "en": "to get housing benefit"
+   }
+  ],
+  "related": [
+   {
+    "da": "et tilskud",
+    "en": "a grant"
+   },
+   {
+    "da": "en lejer",
+    "en": "a tenant"
+   },
+   {
+    "da": "en udlejer",
+    "en": "a landlord"
+   },
+   {
+    "da": "kontanthjælp",
+    "en": "cash assistance"
+   }
+  ],
+  "sentence": {
+   "da": "Staten giver **boligstøtte** til folk med lav indkomst og dyr husleje.",
+   "en": "The state gives housing benefit to people with a low income and expensive rent."
+  }
+ },
+ "boller i karry": {
+  "file": "b.json",
+  "explanation": "\"Boller i karry\" means \"meatballs in curry sauce\", a classic Danish home-cooked dish of small balls of minced meat in a mild curry sauce. Here \"boller\" means meatballs, not the sweet buns that are also called \"boller\".",
+  "forms": [
+   {
+    "da": "boller i karry",
+    "en": "meatballs in curry sauce"
+   },
+   {
+    "da": "boller i karry med ris",
+    "en": "meatballs in curry sauce with rice"
+   },
+   {
+    "da": "en portion boller i karry",
+    "en": "a portion of meatballs in curry sauce"
+   }
+  ],
+  "related": [
+   {
+    "da": "frikadeller",
+    "en": "pan-fried meatballs"
+   },
+   {
+    "da": "stegt flæsk",
+    "en": "fried pork"
+   },
+   {
+    "da": "gule ærter",
+    "en": "yellow pea soup"
+   },
+   {
+    "da": "medisterpølse",
+    "en": "pork sausage"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg laver **boller i karry** af hakket svinekød og serverer dem med ris.",
+   "en": "I make meatballs in curry sauce from minced pork and serve them with rice."
+  }
+ },
+ "bomuld": {
+  "file": "b.json",
+  "explanation": "\"Bomuld\" means \"cotton\", the soft fiber from the cotton plant, used for T-shirts and towels.",
+  "forms": [
+   {
+    "da": "bomuld",
+    "en": "cotton"
+   },
+   {
+    "da": "bomulden",
+    "en": "the cotton"
+   },
+   {
+    "da": "100 % bomuld",
+    "en": "100% cotton"
+   },
+   {
+    "da": "en bomuldsskjorte",
+    "en": "a cotton shirt"
+   }
+  ],
+  "related": [
+   {
+    "da": "hør",
+    "en": "linen"
+   },
+   {
+    "da": "uld",
+    "en": "wool"
+   },
+   {
+    "da": "silke",
+    "en": "silk"
+   },
+   {
+    "da": "polyester",
+    "en": "polyester"
+   }
+  ],
+  "sentence": {
+   "da": "Man dyrker **bomuld** i varme lande og laver tøj af det.",
+   "en": "Cotton is grown in warm countries and clothes are made from it."
+  }
+ },
+ "borgerservice": {
+  "file": "b.json",
+  "explanation": "\"Borgerservice\" means \"Citizen Services\": the municipal office for practical matters like a health insurance card, a passport or registering your address. It is written with a capital B, like the name of an office.",
+  "forms": [
+   {
+    "da": "Borgerservice",
+    "en": "Citizen Services"
+   },
+   {
+    "da": "på Borgerservice",
+    "en": "at Citizen Services"
+   },
+   {
+    "da": "Jeg skal på Borgerservice.",
+    "en": "I have to go to Citizen Services."
+   }
+  ],
+  "related": [
+   {
+    "da": "en borger",
+    "en": "a citizen"
+   },
+   {
+    "da": "et rådhus",
+    "en": "a town hall"
+   },
+   {
+    "da": "en kommune",
+    "en": "a municipality"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal have nyt pas på **Borgerservice**.",
+   "en": "I need a new passport at Citizen Services."
+  }
+ },
+ "bortset fra": {
+  "file": "b.json",
+  "explanation": "\"Bortset fra\" means \"apart from\" or \"except\". It introduces the exception to what you just said: \"Alle kom, bortset fra Anna\" (Everyone came, except Anna).",
+  "forms": [
+   {
+    "da": "bortset fra mig",
+    "en": "apart from me"
+   },
+   {
+    "da": "bortset fra søndag",
+    "en": "except Sunday"
+   },
+   {
+    "da": "bortset fra det",
+    "en": "apart from that"
+   }
+  ],
+  "related": [
+   {
+    "da": "undtagen",
+    "en": "except"
+   },
+   {
+    "da": "med undtagelse af",
+    "en": "with the exception of"
+   },
+   {
+    "da": "udover",
+    "en": "besides, in addition to"
+   }
+  ],
+  "sentence": {
+   "da": "Alle kom **bortset fra** Lars.",
+   "en": "Everyone came except Lars."
+  }
+ },
+ "bravo": {
+  "file": "b.json",
+  "explanation": "\"Bravo\" means \"bravo\" and is the same word as in English. Shout it to praise a performance or a good effort.",
+  "forms": [
+   {
+    "da": "Bravo!",
+    "en": "Bravo!"
+   },
+   {
+    "da": "Bravo, Anna!",
+    "en": "Bravo, Anna!"
+   },
+   {
+    "da": "Bravo for dig!",
+    "en": "Bravo to you!"
+   }
+  ],
+  "related": [
+   {
+    "da": "godt gået",
+    "en": "well done"
+   },
+   {
+    "da": "tillykke",
+    "en": "congratulations"
+   },
+   {
+    "da": "hurra",
+    "en": "hooray"
+   }
+  ],
+  "sentence": {
+   "da": "**Bravo**, det var en flot koncert!",
+   "en": "Bravo, that was a great concert!"
+  }
+ },
+ "bred": {
+  "file": "b.json",
+  "explanation": "\"Bred\" means \"wide\" or \"broad\", for how far something stretches from side to side: a road, a river, a smile.",
+  "forms": [
+   {
+    "da": "en bred vej",
+    "en": "a wide road"
+   },
+   {
+    "da": "et bredt smil",
+    "en": "a wide smile"
+   },
+   {
+    "da": "brede veje",
+    "en": "wide roads"
+   }
+  ],
+  "related": [
+   {
+    "da": "smal",
+    "en": "narrow"
+   },
+   {
+    "da": "en bredde",
+    "en": "a width"
+   },
+   {
+    "da": "lang",
+    "en": "long"
+   }
+  ],
+  "sentence": {
+   "da": "Vejen er **bred**, ikke smal.",
+   "en": "The road is wide, not narrow."
+  }
+ },
+ "briller": {
+  "file": "b.json",
+  "explanation": "\"Briller\" means \"glasses\" (for your eyes). It always ends in \"r\", even for one pair: \"Jeg har nye briller\" (I have new glasses). To say you are wearing them, use \"at have briller på\" (to have glasses on).",
+  "forms": [
+   {
+    "da": "briller",
+    "en": "glasses"
+   },
+   {
+    "da": "brillerne",
+    "en": "the glasses"
+   },
+   {
+    "da": "et par briller",
+    "en": "a pair of glasses"
+   }
+  ],
+  "related": [
+   {
+    "da": "solbriller",
+    "en": "sunglasses"
+   },
+   {
+    "da": "kontaktlinser",
+    "en": "contact lenses"
+   },
+   {
+    "da": "en optiker",
+    "en": "an optician"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke læse uden mine **briller**.",
+   "en": "I cannot read without my glasses."
+  }
+ },
+ "brint": {
+  "file": "b.json",
+  "explanation": "\"Brint\" means \"hydrogen\", the lightest gas there is. It is also used as a clean fuel for cars and buses, since burning it gives only water.",
+  "forms": [
+   {
+    "da": "brint",
+    "en": "hydrogen"
+   },
+   {
+    "da": "brinten",
+    "en": "the hydrogen"
+   },
+   {
+    "da": "en brintbil",
+    "en": "a hydrogen car"
+   },
+   {
+    "da": "grøn brint",
+    "en": "green hydrogen"
+   }
+  ],
+  "related": [
+   {
+    "da": "ilt",
+    "en": "oxygen"
+   },
+   {
+    "da": "kvælstof",
+    "en": "nitrogen"
+   },
+   {
+    "da": "helium",
+    "en": "helium"
+   },
+   {
+    "da": "et grundstof",
+    "en": "an element"
+   }
+  ],
+  "sentence": {
+   "da": "Vand består af ilt og **brint**.",
+   "en": "Water consists of oxygen and hydrogen."
+  }
+ },
+ "britisk": {
+  "file": "b.json",
+  "explanation": "\"Britisk\" means \"British\", from Great Britain. Do not mix it up with \"engelsk\" (English), which is about England and the English language.",
+  "forms": [
+   {
+    "da": "en britisk bil",
+    "en": "a British car"
+   },
+   {
+    "da": "et britisk hus",
+    "en": "a British house"
+   },
+   {
+    "da": "britiske biler",
+    "en": "British cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "Storbritannien",
+    "en": "Great Britain"
+   },
+   {
+    "da": "en brite",
+    "en": "a Briton"
+   },
+   {
+    "da": "amerikansk",
+    "en": "American"
+   }
+  ],
+  "sentence": {
+   "da": "Han bor i London og er **britisk**.",
+   "en": "He lives in London and is British."
+  }
+ },
+ "broccoli": {
+  "file": "b.json",
+  "explanation": "\"Broccoli\" means \"broccoli\", a green vegetable with a thick stalk and many small tops.",
+  "forms": [
+   {
+    "da": "en broccoli",
+    "en": "a broccoli"
+   },
+   {
+    "da": "broccolien",
+    "en": "the broccoli"
+   }
+  ],
+  "related": [
+   {
+    "da": "blomkål",
+    "en": "cauliflower"
+   },
+   {
+    "da": "kål",
+    "en": "cabbage"
+   },
+   {
+    "da": "en gulerod",
+    "en": "a carrot"
+   }
+  ],
+  "sentence": {
+   "da": "**Broccoli** er grøn og ligner et lille træ.",
+   "en": "Broccoli is green and looks like a little tree."
+  }
+ },
+ "brugbar": {
+  "file": "b.json",
+  "explanation": "\"Brugbar\" means \"usable\" or \"useful\", for something that works well enough for the job: \"et brugbart forslag\" (a usable suggestion). Do not mix it up with \"nyttig\" (helpful), which you say about something that helps you a lot: \"en nyttig tip\" (a helpful tip).",
+  "forms": [
+   {
+    "da": "en brugbar idé",
+    "en": "a usable idea"
+   },
+   {
+    "da": "et brugbart værktøj",
+    "en": "a usable tool"
+   },
+   {
+    "da": "brugbare svar",
+    "en": "useful answers"
+   }
+  ],
+  "related": [
+   {
+    "da": "ubrugelig",
+    "en": "useless"
+   },
+   {
+    "da": "anvendelig",
+    "en": "applicable"
+   },
+   {
+    "da": "egnet",
+    "en": "suitable"
+   },
+   {
+    "da": "praktisk",
+    "en": "practical"
+   }
+  ],
+  "sentence": {
+   "da": "Cyklen er gammel, men den er stadig **brugbar**.",
+   "en": "The bike is old, but it is still usable."
+  }
+ },
+ "brugt": {
+  "file": "b.json",
+  "explanation": "\"Brugt\" means \"used\" or \"secondhand\", for things that someone owned before you. It comes from \"at bruge\" (to use).",
+  "forms": [
+   {
+    "da": "en brugt cykel",
+    "en": "a used bike"
+   },
+   {
+    "da": "et brugt kamera",
+    "en": "a used camera"
+   },
+   {
+    "da": "brugte bøger",
+    "en": "used books"
+   }
+  ],
+  "related": [
+   {
+    "da": "ny",
+    "en": "new"
+   },
+   {
+    "da": "slidt",
+    "en": "worn"
+   },
+   {
+    "da": "gammel",
+    "en": "old"
+   },
+   {
+    "da": "genbrugt",
+    "en": "recycled"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg købte en **brugt** cykel på nettet.",
+   "en": "I bought a used bike online."
+  }
+ },
+ "brun": {
+  "file": "b.json",
+  "explanation": "\"Brun\" means \"brown\". It is also used for a suntan: \"Du er blevet brun\" (You have gotten a tan).",
+  "forms": [
+   {
+    "da": "en brun hund",
+    "en": "a brown dog"
+   },
+   {
+    "da": "et brunt bord",
+    "en": "a brown table"
+   },
+   {
+    "da": "brune hunde",
+    "en": "brown dogs"
+   }
+  ],
+  "related": [
+   {
+    "da": "rød",
+    "en": "red"
+   },
+   {
+    "da": "sort",
+    "en": "black"
+   },
+   {
+    "da": "grå",
+    "en": "gray"
+   }
+  ],
+  "sentence": {
+   "da": "Chokolade er **brun**, ikke hvid.",
+   "en": "Chocolate is brown, not white."
+  }
+ },
+ "brunede kartofler": {
+  "file": "b.json",
+  "explanation": "\"Brunede kartofler\" means \"caramelized potatoes\", small boiled potatoes turned in caramel until they are golden and sweet. They are a traditional side dish for the Christmas roast.",
+  "forms": [
+   {
+    "da": "brunede kartofler",
+    "en": "caramelized potatoes"
+   },
+   {
+    "da": "små brunede kartofler",
+    "en": "small caramelized potatoes"
+   },
+   {
+    "da": "at brune kartofler",
+    "en": "to caramelize potatoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "rødkål",
+    "en": "red cabbage"
+   },
+   {
+    "da": "risalamande",
+    "en": "rice pudding"
+   },
+   {
+    "da": "en sovs",
+    "en": "a gravy"
+   },
+   {
+    "da": "en gås",
+    "en": "a goose"
+   }
+  ],
+  "sentence": {
+   "da": "Til julemaden laver vi **brunede kartofler** med sukker og smør.",
+   "en": "For the Christmas meal we make caramelized potatoes with sugar and butter."
+  }
+ },
+ "brutal": {
+  "file": "b.json",
+  "explanation": "\"Brutal\" means \"brutal\", for violence that is harsh and cruel. It is also used for honesty that is blunt and painful, as in \"brutal ærlighed\" (brutal honesty).",
+  "forms": [
+   {
+    "da": "en brutal mand",
+    "en": "a brutal man"
+   },
+   {
+    "da": "et brutalt angreb",
+    "en": "a brutal attack"
+   },
+   {
+    "da": "brutale metoder",
+    "en": "brutal methods"
+   }
+  ],
+  "related": [
+   {
+    "da": "hård",
+    "en": "hard"
+   },
+   {
+    "da": "blid",
+    "en": "gentle"
+   },
+   {
+    "da": "skånselsløs",
+    "en": "ruthless"
+   },
+   {
+    "da": "venlig",
+    "en": "kind"
+   }
+  ],
+  "sentence": {
+   "da": "Filmen var **brutal**, og mange vendte blikket væk.",
+   "en": "The film was brutal, and many looked away."
+  }
+ },
+ "brændende": {
+  "file": "b.json",
+  "explanation": "\"Brændende\" means \"burning\", something that is alight right now. It is also used for strong feelings and urgent matters: \"et brændende ønske\" (a burning wish).",
+  "forms": [
+   {
+    "da": "et brændende hus",
+    "en": "a burning house"
+   },
+   {
+    "da": "en brændende cigaret",
+    "en": "a burning cigarette"
+   },
+   {
+    "da": "brændende lys",
+    "en": "burning candles"
+   }
+  ],
+  "related": [
+   {
+    "da": "at brænde",
+    "en": "to burn"
+   },
+   {
+    "da": "en brand",
+    "en": "a fire"
+   },
+   {
+    "da": "flammende",
+    "en": "flaming"
+   },
+   {
+    "da": "slukket",
+    "en": "extinguished"
+   }
+  ],
+  "sentence": {
+   "da": "De hentede børnene ud af det **brændende** hus og slukkede ilden.",
+   "en": "They got the children out of the burning house and put out the fire."
+  }
+ },
+ "brændstof": {
+  "file": "b.json",
+  "explanation": "\"Brændstof\" means \"fuel\", for example for a car. It is built from brænde (to burn) and stof (material), and the same \"stof\" is in \"et sprængstof\" (an explosive).",
+  "forms": [
+   {
+    "da": "et brændstof",
+    "en": "a fuel"
+   },
+   {
+    "da": "brændstoffet",
+    "en": "the fuel"
+   },
+   {
+    "da": "brændstoffer",
+    "en": "fuels"
+   },
+   {
+    "da": "brændstofferne",
+    "en": "the fuels"
+   }
+  ],
+  "related": [
+   {
+    "da": "benzin",
+    "en": "gasoline"
+   },
+   {
+    "da": "diesel",
+    "en": "diesel"
+   },
+   {
+    "da": "en tankstation",
+    "en": "a gas station"
+   },
+   {
+    "da": "at tanke",
+    "en": "to fill up"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen bruger meget **brændstof** på motorvejen.",
+   "en": "The car uses a lot of fuel on the highway."
+  }
+ },
+ "brød": {
+  "file": "b.json",
+  "explanation": "\"Brød\" means \"bread\". To say how many loaves, put the number before \"brød\" and leave the word unchanged: \"to brød\" (two loaves).",
+  "forms": [
+   {
+    "da": "et brød",
+    "en": "a loaf of bread"
+   },
+   {
+    "da": "brødet",
+    "en": "the bread"
+   },
+   {
+    "da": "brød",
+    "en": "breads / loaves"
+   }
+  ],
+  "related": [
+   {
+    "da": "rugbrød",
+    "en": "rye bread"
+   },
+   {
+    "da": "et franskbrød",
+    "en": "white bread"
+   },
+   {
+    "da": "en brødskive",
+    "en": "a slice of bread"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg køber **brød** hos bageren.",
+   "en": "I buy bread at the baker's."
+  }
+ },
+ "buddhisme": {
+  "file": "b.json",
+  "explanation": "\"Buddhisme\" means \"Buddhism\", the religion based on the teachings of Buddha. Danish writes it with a lowercase b, while English writes Buddhism with an uppercase B.",
+  "forms": [
+   {
+    "da": "buddhisme",
+    "en": "Buddhism"
+   },
+   {
+    "da": "buddhismens lære",
+    "en": "the teachings of Buddhism"
+   },
+   {
+    "da": "en buddhist",
+    "en": "a Buddhist"
+   },
+   {
+    "da": "buddhistisk",
+    "en": "Buddhist"
+   }
+  ],
+  "related": [
+   {
+    "da": "kristendom",
+    "en": "Christianity"
+   },
+   {
+    "da": "islam",
+    "en": "Islam"
+   },
+   {
+    "da": "hinduisme",
+    "en": "Hinduism"
+   },
+   {
+    "da": "en munk",
+    "en": "a monk"
+   }
+  ],
+  "sentence": {
+   "da": "I **buddhisme** er meditation en vigtig del af livet.",
+   "en": "In Buddhism, meditation is an important part of life."
+  }
+ },
+ "bukser": {
+  "file": "b.json",
+  "explanation": "\"Bukser\" means \"pants\" or \"trousers\". It always ends in \"r\", even for one pair, so you count pairs: \"to par bukser\" (two pairs of pants).",
+  "forms": [
+   {
+    "da": "bukser",
+    "en": "pants"
+   },
+   {
+    "da": "bukserne",
+    "en": "the pants"
+   },
+   {
+    "da": "et par bukser",
+    "en": "a pair of pants"
+   }
+  ],
+  "related": [
+   {
+    "da": "et par jeans",
+    "en": "a pair of jeans"
+   },
+   {
+    "da": "underbukser",
+    "en": "underpants"
+   },
+   {
+    "da": "shorts",
+    "en": "shorts"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **bukser** og sko på.",
+   "en": "I am wearing pants and shoes."
+  }
+ },
+ "bulgur": {
+  "file": "b.json",
+  "explanation": "\"Bulgur\" means \"bulgur\", cracked wheat that is boiled until soft.",
+  "forms": [
+   {
+    "da": "bulgur",
+    "en": "bulgur"
+   },
+   {
+    "da": "bulguren",
+    "en": "the bulgur"
+   },
+   {
+    "da": "kogt bulgur",
+    "en": "cooked bulgur"
+   }
+  ],
+  "related": [
+   {
+    "da": "couscous",
+    "en": "couscous"
+   },
+   {
+    "da": "quinoa",
+    "en": "quinoa"
+   },
+   {
+    "da": "hvede",
+    "en": "wheat"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg laver en salat af **bulgur**, tomat og persille.",
+   "en": "I make a salad of bulgur, tomato and parsley."
+  }
+ },
+ "buttet": {
+  "file": "b.json",
+  "explanation": "\"Buttet\" means \"chubby\", pleasantly soft and full, mostly about babies and small children. About an adult it can sound unkind.",
+  "forms": [
+   {
+    "da": "en buttet dreng",
+    "en": "a chubby boy"
+   },
+   {
+    "da": "et buttet ansigt",
+    "en": "a chubby face"
+   },
+   {
+    "da": "buttede kinder",
+    "en": "chubby cheeks"
+   }
+  ],
+  "related": [
+   {
+    "da": "rund",
+    "en": "round"
+   },
+   {
+    "da": "lubben",
+    "en": "plump"
+   },
+   {
+    "da": "tyk",
+    "en": "fat"
+   },
+   {
+    "da": "tynd",
+    "en": "thin"
+   }
+  ],
+  "sentence": {
+   "da": "Den lille baby er **buttet**, og hans arme er bløde.",
+   "en": "The little baby is chubby, and his arms are soft."
+  }
+ },
+ "bydemåde": {
+  "file": "b.json",
+  "explanation": "\"En bydemåde\" means \"imperative\", the form of a word you use to give an order or make a request, like \"Kom her!\" (Come here!) or \"Hjælp mig!\" (Help me!). The word literally means \"ordering way\", from byde (to order) and måde (way).",
+  "forms": [
+   {
+    "da": "en bydemåde",
+    "en": "an imperative"
+   },
+   {
+    "da": "bydemåden",
+    "en": "the imperative"
+   },
+   {
+    "da": "bydemåder",
+    "en": "imperatives"
+   },
+   {
+    "da": "bydemåderne",
+    "en": "the imperatives"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nutid",
+    "en": "a present tense"
+   },
+   {
+    "da": "en datid",
+    "en": "a past tense"
+   },
+   {
+    "da": "et udsagnsord",
+    "en": "a verb"
+   }
+  ],
+  "sentence": {
+   "da": "Sætningen Luk døren! står i **bydemåde**.",
+   "en": "The sentence Close the door! is in the imperative."
+  }
+ },
+ "byg": {
+  "file": "b.json",
+  "explanation": "\"Et byg\" means \"barley\", a grain used for animal feed and for \"byggryn\" (pearl barley). \"Byg!\" is also the command \"Build!\", from \"at bygge\" (to build).",
+  "forms": [
+   {
+    "da": "et byg",
+    "en": "barley"
+   },
+   {
+    "da": "bygget",
+    "en": "the barley"
+   },
+   {
+    "da": "en mark med byg",
+    "en": "a field of barley"
+   },
+   {
+    "da": "bygmarker",
+    "en": "barley fields"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvede",
+    "en": "wheat"
+   },
+   {
+    "da": "havre",
+    "en": "oats"
+   },
+   {
+    "da": "rug",
+    "en": "rye"
+   }
+  ],
+  "sentence": {
+   "da": "Man bruger **byg** til at lave øl.",
+   "en": "Barley is used to make beer."
+  }
+ },
+ "byplanlægning": {
+  "file": "b.json",
+  "explanation": "\"Byplanlægning\" means \"urban planning\", deciding how a town or city grows: where roads, buildings and green areas go. It is built from by (town) and planlægning (planning).",
+  "forms": [
+   {
+    "da": "byplanlægning",
+    "en": "urban planning"
+   },
+   {
+    "da": "god byplanlægning",
+    "en": "good urban planning"
+   },
+   {
+    "da": "en byplanlægger",
+    "en": "an urban planner"
+   }
+  ],
+  "related": [
+   {
+    "da": "en arkitekt",
+    "en": "an architect"
+   },
+   {
+    "da": "en lokalplan",
+    "en": "a local plan"
+   },
+   {
+    "da": "et kvarter",
+    "en": "a neighborhood"
+   }
+  ],
+  "sentence": {
+   "da": "God **byplanlægning** gør det let at gå og cykle i byen.",
+   "en": "Good urban planning makes it easy to walk and bike in the city."
+  }
+ },
+ "byttepenge": {
+  "file": "b.json",
+  "explanation": "\"Byttepenge\" means \"change\", the money you get back when you pay more than the price. Like \"penge\" (money), it has no article in front: \"Her er dine byttepenge\" (Here is your change). It comes from \"at bytte\" (to exchange).",
+  "forms": [
+   {
+    "da": "byttepenge",
+    "en": "change (money)"
+   },
+   {
+    "da": "få byttepenge",
+    "en": "to get change"
+   },
+   {
+    "da": "Her er dine byttepenge",
+    "en": "Here is your change"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mønt",
+    "en": "a coin"
+   },
+   {
+    "da": "en seddel",
+    "en": "a banknote"
+   },
+   {
+    "da": "kontanter",
+    "en": "cash"
+   }
+  ],
+  "sentence": {
+   "da": "Du får 20 kroner i **byttepenge**.",
+   "en": "You get 20 kroner in change."
+  }
+ },
+ "både…og": {
+  "file": "b.json",
+  "explanation": "\"Både … og\" means \"both … and\", with \"både\" at the start and \"og\" in the middle: \"Det er både billigt og godt\" (It is both cheap and good).",
+  "forms": [
+   {
+    "da": "både jeg og min bror",
+    "en": "both I and my brother"
+   },
+   {
+    "da": "både sød og klog",
+    "en": "both kind and clever"
+   },
+   {
+    "da": "både i dag og i morgen",
+    "en": "both today and tomorrow"
+   }
+  ],
+  "related": [
+   {
+    "da": "hverken…eller",
+    "en": "neither…nor"
+   },
+   {
+    "da": "enten…eller",
+    "en": "either…or"
+   },
+   {
+    "da": "såvel…som",
+    "en": "as well as"
+   }
+  ],
+  "sentence": {
+   "da": "Hun taler **både** dansk **og** engelsk.",
+   "en": "She speaks both Danish and English."
+  }
+ },
+ "bærbar": {
+  "file": "b.json",
+  "explanation": "\"Bærbar\" means \"portable\", something you can carry. You can also name the laptop with just \"en bærbar\": \"Jeg har købt en ny bærbar\" (I bought a new laptop).",
+  "forms": [
+   {
+    "da": "en bærbar computer",
+    "en": "a laptop computer"
+   },
+   {
+    "da": "et bærbart tv",
+    "en": "a portable TV"
+   },
+   {
+    "da": "bærbare højttalere",
+    "en": "portable speakers"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bære",
+    "en": "to carry"
+   },
+   {
+    "da": "mobil",
+    "en": "mobile"
+   },
+   {
+    "da": "trådløs",
+    "en": "wireless"
+   }
+  ],
+  "sentence": {
+   "da": "Min computer er **bærbar** og let at tage med.",
+   "en": "My computer is portable and easy to take along."
+  }
+ },
+ "bæredygtig": {
+  "file": "b.json",
+  "explanation": "\"Bæredygtig\" means \"sustainable\", something that can continue without using up nature's resources. The word literally means \"able to carry\", from bære (carry) and dygtig (able).",
+  "forms": [
+   {
+    "da": "en bæredygtig fremtid",
+    "en": "a sustainable future"
+   },
+   {
+    "da": "et bæredygtigt valg",
+    "en": "a sustainable choice"
+   },
+   {
+    "da": "bæredygtige materialer",
+    "en": "sustainable materials"
+   }
+  ],
+  "related": [
+   {
+    "da": "bæredygtighed",
+    "en": "sustainability"
+   },
+   {
+    "da": "klimavenlig",
+    "en": "climate-friendly"
+   },
+   {
+    "da": "grøn",
+    "en": "green"
+   },
+   {
+    "da": "genanvendelig",
+    "en": "recyclable"
+   }
+  ],
+  "sentence": {
+   "da": "En **bæredygtig** løsning kan holde i mange år uden at ødelægge naturen.",
+   "en": "A sustainable solution can last for many years without destroying nature."
+  }
+ },
+ "bæredygtighed": {
+  "file": "b.json",
+  "explanation": "\"Bæredygtighed\" means \"sustainability\", the idea of living and producing without using up what nature gives. To describe a choice or a product, use \"bæredygtig\" (sustainable): \"en bæredygtig løsning\" (a sustainable solution).",
+  "forms": [
+   {
+    "da": "bæredygtighed",
+    "en": "sustainability"
+   },
+   {
+    "da": "bæredygtigheden",
+    "en": "the sustainability"
+   },
+   {
+    "da": "social bæredygtighed",
+    "en": "social sustainability"
+   },
+   {
+    "da": "bæredygtighed i byggeriet",
+    "en": "sustainability in construction"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ressource",
+    "en": "a resource"
+   },
+   {
+    "da": "genbrug",
+    "en": "recycling"
+   },
+   {
+    "da": "en omstilling",
+    "en": "a transition"
+   },
+   {
+    "da": "et verdensmål",
+    "en": "a global goal"
+   }
+  ],
+  "sentence": {
+   "da": "Eleverne lærer om **bæredygtighed** og om at passe på naturen.",
+   "en": "The students learn about sustainability and about taking care of nature."
+  }
+ },
+ "bønner": {
+  "file": "b.json",
+  "explanation": "\"Bønner\" means \"beans\". It also means \"prayers\" (from \"en bøn\", a prayer): \"Mine bønner blev hørt\" (My prayers were heard). A sentence about food or cooking means beans.",
+  "forms": [
+   {
+    "da": "en bønne",
+    "en": "a bean"
+   },
+   {
+    "da": "bønnen",
+    "en": "the bean"
+   },
+   {
+    "da": "bønner",
+    "en": "beans"
+   },
+   {
+    "da": "bønnerne",
+    "en": "the beans"
+   }
+  ],
+  "related": [
+   {
+    "da": "kaffebønner",
+    "en": "coffee beans"
+   },
+   {
+    "da": "ærter",
+    "en": "peas"
+   },
+   {
+    "da": "linser",
+    "en": "lentils"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser **bønner** og majs til aftensmad.",
+   "en": "I eat beans and corn for dinner."
+  }
+ },
+ "børnepasning": {
+  "file": "b.json",
+  "explanation": "\"Børnepasning\" means \"childcare\", looking after small children during the day while adults work. In Denmark the municipality arranges and partly pays for it.",
+  "forms": [
+   {
+    "da": "børnepasning",
+    "en": "childcare"
+   },
+   {
+    "da": "børnepasningen",
+    "en": "the childcare"
+   },
+   {
+    "da": "at ordne børnepasning",
+    "en": "to arrange childcare"
+   },
+   {
+    "da": "gratis børnepasning",
+    "en": "free childcare"
+   }
+  ],
+  "related": [
+   {
+    "da": "barsel",
+    "en": "parental leave"
+   },
+   {
+    "da": "en pædagog",
+    "en": "an early childhood educator"
+   },
+   {
+    "da": "en babysitter",
+    "en": "a babysitter"
+   },
+   {
+    "da": "en pasningsgaranti",
+    "en": "a care guarantee"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har brug for **børnepasning**, fordi begge forældre arbejder.",
+   "en": "We need childcare because both parents work."
+  }
+ },
+ "en baby": {
+  "file": "b.json",
+  "explanation": "\"En baby\" means \"a baby\", someone only a few months or a year old.",
+  "forms": [
+   {
+    "da": "en baby",
+    "en": "a baby"
+   },
+   {
+    "da": "babyen",
+    "en": "the baby"
+   },
+   {
+    "da": "babyer",
+    "en": "babies"
+   },
+   {
+    "da": "babyerne",
+    "en": "the babies"
+   }
+  ],
+  "related": [
+   {
+    "da": "et barn",
+    "en": "a child"
+   },
+   {
+    "da": "et spædbarn",
+    "en": "an infant"
+   },
+   {
+    "da": "en barnevogn",
+    "en": "a baby carriage"
+   }
+  ],
+  "sentence": {
+   "da": "Vores **baby** er to måneder gammel.",
+   "en": "Our baby is two months old."
+  }
+ },
+ "en babyalarm": {
+  "file": "b.json",
+  "explanation": "\"En babyalarm\" means \"a baby monitor\", a device with two parts: a microphone by the baby and a receiver for the parents.",
+  "forms": [
+   {
+    "da": "en babyalarm",
+    "en": "a baby monitor"
+   },
+   {
+    "da": "babyalarmen",
+    "en": "the baby monitor"
+   },
+   {
+    "da": "babyalarmer",
+    "en": "baby monitors"
+   },
+   {
+    "da": "babyalarmerne",
+    "en": "the baby monitors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en røgalarm",
+    "en": "a smoke alarm"
+   },
+   {
+    "da": "en tyverialarm",
+    "en": "a burglar alarm"
+   },
+   {
+    "da": "et spædbarn",
+    "en": "an infant"
+   }
+  ],
+  "sentence": {
+   "da": "Med en **babyalarm** kan vi høre barnet, når vi er i stuen.",
+   "en": "With a baby monitor we can hear the child when we are in the living room."
+  }
+ },
+ "en babysitter": {
+  "file": "b.json",
+  "explanation": "\"En babysitter\" means \"a babysitter\", someone who stays with kids for an evening.",
+  "forms": [
+   {
+    "da": "en babysitter",
+    "en": "a babysitter"
+   },
+   {
+    "da": "babysitteren",
+    "en": "the babysitter"
+   },
+   {
+    "da": "babysittere",
+    "en": "babysitters"
+   },
+   {
+    "da": "babysitterne",
+    "en": "the babysitters"
+   }
+  ],
+  "related": [
+   {
+    "da": "en au pair",
+    "en": "an au pair"
+   },
+   {
+    "da": "en barnepige",
+    "en": "a nanny / babysitter"
+   },
+   {
+    "da": "at passe børn",
+    "en": "to look after children"
+   }
+  ],
+  "sentence": {
+   "da": "En **babysitter** passer børnene, når vi er ude.",
+   "en": "A babysitter looks after the children when we are out."
+  }
+ }
+}

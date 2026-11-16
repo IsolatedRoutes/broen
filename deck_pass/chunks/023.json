@@ -1,0 +1,4198 @@
+{
+ "at gemme sig": {
+  "file": "g.json",
+  "explanation": "\"At gemme sig\" means \"to hide\" yourself. To hide an object, use \"at gemme\" without \"sig\" (oneself): \"Jeg gemmer nøglen\" (I hide the key).",
+  "forms": [
+   {
+    "da": "at gemme sig",
+    "en": "to hide (oneself)"
+   },
+   {
+    "da": "jeg gemmer mig",
+    "en": "I hide (oneself)"
+   },
+   {
+    "da": "jeg gemte mig",
+    "en": "I hid (oneself)"
+   },
+   {
+    "da": "jeg har gemt mig",
+    "en": "I have hidden (oneself)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skjule",
+    "en": "to conceal"
+   },
+   {
+    "da": "et skjulested",
+    "en": "a hiding place"
+   },
+   {
+    "da": "at finde",
+    "en": "to find"
+   },
+   {
+    "da": "en gemmeleg",
+    "en": "hide-and-seek"
+   }
+  ],
+  "sentence": {
+   "da": "Katten plejer at **gemme sig** under sengen.",
+   "en": "The cat usually hides under the bed."
+  }
+ },
+ "at genbruge": {
+  "file": "g.json",
+  "explanation": "\"At genbruge\" means \"to recycle\" or \"to reuse\". The start \"gen-\" means \"again\", so it is bruge (to use) again.",
+  "forms": [
+   {
+    "da": "at genbruge",
+    "en": "to recycle / reuse"
+   },
+   {
+    "da": "jeg genbruger",
+    "en": "I recycle / reuse"
+   },
+   {
+    "da": "jeg genbrugte",
+    "en": "I recycled / reused"
+   },
+   {
+    "da": "jeg har genbrugt",
+    "en": "I have recycled / reused"
+   }
+  ],
+  "related": [
+   {
+    "da": "at genanvende",
+    "en": "to reuse"
+   },
+   {
+    "da": "at sortere",
+    "en": "to sort"
+   },
+   {
+    "da": "at smide ud",
+    "en": "to throw away"
+   },
+   {
+    "da": "en genbrugsstation",
+    "en": "a recycling center"
+   }
+  ],
+  "sentence": {
+   "da": "Papir og glas kan man **genbruge**.",
+   "en": "Paper and glass can be recycled."
+  }
+ },
+ "at generalisere": {
+  "file": "g.json",
+  "explanation": "\"At generalisere\" means \"to generalize\", to treat something that is true for a few cases as true for all of them: \"Man skal ikke generalisere\" (You should not generalize).",
+  "forms": [
+   {
+    "da": "at generalisere",
+    "en": "to generalize"
+   },
+   {
+    "da": "jeg generaliserer",
+    "en": "I generalize"
+   },
+   {
+    "da": "jeg generaliserede",
+    "en": "I generalized"
+   },
+   {
+    "da": "jeg har generaliseret",
+    "en": "I have generalized"
+   }
+  ],
+  "related": [
+   {
+    "da": "en generalisering",
+    "en": "a generalization"
+   },
+   {
+    "da": "generel",
+    "en": "general"
+   },
+   {
+    "da": "at specificere",
+    "en": "to specify"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan ikke **generalisere** ud fra kun to eksempler.",
+   "en": "You cannot generalize from only two examples."
+  }
+ },
+ "at genere": {
+  "file": "g.json",
+  "explanation": "\"At genere\" means \"to bother\", when something or someone is unpleasant or in your way. It is often used politely: \"Generer jeg dig?\" (Am I bothering you?)",
+  "forms": [
+   {
+    "da": "at genere",
+    "en": "to bother"
+   },
+   {
+    "da": "jeg generer",
+    "en": "I bother"
+   },
+   {
+    "da": "jeg generede",
+    "en": "I bothered"
+   },
+   {
+    "da": "jeg har generet",
+    "en": "I have bothered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forstyrre",
+    "en": "to disturb"
+   },
+   {
+    "da": "at irritere",
+    "en": "to annoy"
+   },
+   {
+    "da": "at plage",
+    "en": "to trouble"
+   }
+  ],
+  "sentence": {
+   "da": "Musikken kan **genere** naboerne om natten.",
+   "en": "The music can bother the neighbors at night."
+  }
+ },
+ "at gengive": {
+  "file": "g.json",
+  "explanation": "\"At gengive\" means \"to reproduce\" or \"to render\": to tell or show again what someone said or wrote, staying close to the original. You can use it for a picture too: \"Maleriet gengiver en storm\" (The painting shows a storm).",
+  "forms": [
+   {
+    "da": "at gengive",
+    "en": "to reproduce / render"
+   },
+   {
+    "da": "jeg gengiver",
+    "en": "I reproduce / render"
+   },
+   {
+    "da": "jeg gengav",
+    "en": "I reproduced / rendered"
+   },
+   {
+    "da": "jeg har gengivet",
+    "en": "I have reproduced / rendered"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gengivelse",
+    "en": "a rendering"
+   },
+   {
+    "da": "at kopiere",
+    "en": "to copy"
+   },
+   {
+    "da": "at citere",
+    "en": "to quote"
+   },
+   {
+    "da": "at skildre",
+    "en": "to depict"
+   }
+  ],
+  "sentence": {
+   "da": "En god journalist skal **gengive** politikerens ord præcist.",
+   "en": "A good journalist must reproduce the politician's words exactly."
+  }
+ },
+ "at genkende": {
+  "file": "g.json",
+  "explanation": "\"At genkende\" means \"to recognize\", when you know someone or something from before. It is built from gen (again) and kende (to know), and \"gen\" is also in \"at genbruge\" (to reuse).",
+  "forms": [
+   {
+    "da": "at genkende",
+    "en": "to recognize"
+   },
+   {
+    "da": "jeg genkender",
+    "en": "I recognize"
+   },
+   {
+    "da": "jeg genkendte",
+    "en": "I recognized"
+   },
+   {
+    "da": "jeg har genkendt",
+    "en": "I have recognized"
+   }
+  ],
+  "related": [
+   {
+    "da": "at huske",
+    "en": "to remember"
+   },
+   {
+    "da": "at gense",
+    "en": "to see again"
+   },
+   {
+    "da": "at erkende",
+    "en": "to admit"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **genkende** manden på billedet?",
+   "en": "Can you recognize the man in the picture?"
+  }
+ },
+ "at gennemføre": {
+  "file": "g.json",
+  "explanation": "\"At gennemføre\" means \"to carry out\", to take a plan, a test or a course through all its steps until it is done. \"Gennem\" means \"through\", so you go through the whole thing, not just the start.",
+  "forms": [
+   {
+    "da": "at gennemføre",
+    "en": "to carry out"
+   },
+   {
+    "da": "jeg gennemfører",
+    "en": "I carry out"
+   },
+   {
+    "da": "jeg gennemførte",
+    "en": "I carried out"
+   },
+   {
+    "da": "jeg har gennemført",
+    "en": "I have carried out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fuldføre",
+    "en": "to complete"
+   },
+   {
+    "da": "at udføre",
+    "en": "to perform"
+   },
+   {
+    "da": "at opgive",
+    "en": "to give up"
+   }
+  ],
+  "sentence": {
+   "da": "Kommunen vil **gennemføre** planen og bygge en ny skole.",
+   "en": "The municipality will carry out the plan and build a new school."
+  }
+ },
+ "at gennemgå": {
+  "file": "g.json",
+  "explanation": "\"At gennemgå\" means \"to go through\" or \"to review\", to take things one by one, such as a text, a lesson or a list, often to explain them. It can also mean to live through something hard: \"Hun har gennemgået en stor operation\" (She has been through a major operation).",
+  "forms": [
+   {
+    "da": "at gennemgå",
+    "en": "to go through / review"
+   },
+   {
+    "da": "jeg gennemgår",
+    "en": "I go through / review"
+   },
+   {
+    "da": "jeg gennemgik",
+    "en": "I went through / reviewed"
+   },
+   {
+    "da": "jeg har gennemgået",
+    "en": "I have gone through / reviewed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gennemgang",
+    "en": "a walkthrough"
+   },
+   {
+    "da": "at repetere",
+    "en": "to go over again"
+   },
+   {
+    "da": "at gennemlæse",
+    "en": "to read through"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren vil **gennemgå** opgaverne med klassen i morgen.",
+   "en": "The teacher will go through the exercises with the class tomorrow."
+  }
+ },
+ "at gennemskue": {
+  "file": "g.json",
+  "explanation": "\"At gennemskue\" means \"to see through\": to understand what is really going on behind a trick, a lie or a person's plan. It is about figuring something out, not about looking through glass: \"Jeg gennemskuede hans løgn\" (I saw through his lie).",
+  "forms": [
+   {
+    "da": "at gennemskue",
+    "en": "to see through"
+   },
+   {
+    "da": "jeg gennemskuer",
+    "en": "I see through"
+   },
+   {
+    "da": "jeg gennemskuede",
+    "en": "I saw through"
+   },
+   {
+    "da": "jeg har gennemskuet",
+    "en": "I have seen through"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afsløre",
+    "en": "to expose"
+   },
+   {
+    "da": "at opdage",
+    "en": "to discover"
+   },
+   {
+    "da": "gennemsigtig",
+    "en": "transparent"
+   },
+   {
+    "da": "uigennemskuelig",
+    "en": "impossible to figure out"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet kunne hurtigt **gennemskue** svindlerens plan.",
+   "en": "The police could quickly see through the swindler's plan."
+  }
+ },
+ "at genopbygge": {
+  "file": "g.json",
+  "explanation": "\"At genopbygge\" means \"to rebuild\", to build up again something that was destroyed or damaged, such as a house after a fire or a city after a war. \"Gen-\" at the start means \"again\", as in \"at genstarte\" (to restart).",
+  "forms": [
+   {
+    "da": "at genopbygge",
+    "en": "to rebuild"
+   },
+   {
+    "da": "jeg genopbygger",
+    "en": "I rebuild"
+   },
+   {
+    "da": "jeg genopbyggede",
+    "en": "I rebuilt"
+   },
+   {
+    "da": "jeg har genopbygget",
+    "en": "I have rebuilt"
+   }
+  ],
+  "related": [
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   },
+   {
+    "da": "at restaurere",
+    "en": "to restore"
+   },
+   {
+    "da": "en genopbygning",
+    "en": "a rebuilding"
+   }
+  ],
+  "sentence": {
+   "da": "Efter branden vil de **genopbygge** huset på samme sted.",
+   "en": "After the fire they will rebuild the house in the same place."
+  }
+ },
+ "at genoplive": {
+  "file": "g.json",
+  "explanation": "\"At genoplive\" means \"to revive\", to bring someone back to life, or to bring something forgotten back into use, such as an old tradition. \"Gen-\" means \"again\", as in \"at genskabe\" (to recreate).",
+  "forms": [
+   {
+    "da": "at genoplive",
+    "en": "to revive"
+   },
+   {
+    "da": "jeg genopliver",
+    "en": "I revive"
+   },
+   {
+    "da": "jeg genoplivede",
+    "en": "I revived"
+   },
+   {
+    "da": "jeg har genoplivet",
+    "en": "I have revived"
+   }
+  ],
+  "related": [
+   {
+    "da": "en genoplivning",
+    "en": "a resuscitation"
+   },
+   {
+    "da": "at genopfriske",
+    "en": "to refresh"
+   },
+   {
+    "da": "at genindføre",
+    "en": "to reintroduce"
+   },
+   {
+    "da": "at dø",
+    "en": "to die"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen forsøgte at **genoplive** manden efter hjertestoppet.",
+   "en": "The doctor tried to revive the man after the cardiac arrest."
+  }
+ },
+ "at genoprette": {
+  "file": "g.json",
+  "explanation": "\"At genoprette\" means \"to restore\": to bring back a normal state that was lost, such as order, contact or power. For an old building or painting, the word is \"at restaurere\" (to restore).",
+  "forms": [
+   {
+    "da": "at genoprette",
+    "en": "to restore"
+   },
+   {
+    "da": "jeg genopretter",
+    "en": "I restore"
+   },
+   {
+    "da": "jeg genoprettede",
+    "en": "I restored"
+   },
+   {
+    "da": "jeg har genoprettet",
+    "en": "I have restored"
+   }
+  ],
+  "related": [
+   {
+    "da": "en genopretning",
+    "en": "a recovery"
+   },
+   {
+    "da": "at gendanne",
+    "en": "to recreate"
+   },
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet skal **genoprette** roen efter urolighederne.",
+   "en": "The police must restore calm after the riots."
+  }
+ },
+ "at genoptage": {
+  "file": "g.json",
+  "explanation": "\"At genoptage\" means \"to resume\", to take up something again after it was paused, such as work after a break or a meeting after lunch. \"Gen-\" means \"again\", as in \"at genoverveje\" (to reconsider).",
+  "forms": [
+   {
+    "da": "at genoptage",
+    "en": "to resume"
+   },
+   {
+    "da": "jeg genoptager",
+    "en": "I resume"
+   },
+   {
+    "da": "jeg genoptog",
+    "en": "I resumed"
+   },
+   {
+    "da": "jeg har genoptaget",
+    "en": "I have resumed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   },
+   {
+    "da": "at afbryde",
+    "en": "to interrupt"
+   },
+   {
+    "da": "at standse",
+    "en": "to stop"
+   },
+   {
+    "da": "en genoptagelse",
+    "en": "a resumption"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **genoptage** mødet efter frokost.",
+   "en": "We will resume the meeting after lunch."
+  }
+ },
+ "at genoverveje": {
+  "file": "g.json",
+  "explanation": "\"At genoverveje\" means \"to reconsider\": \"gen-\" means \"again\", and \"at overveje\" (to consider) is to think a choice over. So you think over a decision a second time, often before you change it.",
+  "forms": [
+   {
+    "da": "at genoverveje",
+    "en": "to reconsider"
+   },
+   {
+    "da": "jeg genovervejer",
+    "en": "I reconsider"
+   },
+   {
+    "da": "jeg genovervejede",
+    "en": "I reconsidered"
+   },
+   {
+    "da": "jeg har genovervejet",
+    "en": "I have reconsidered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ombestemme sig",
+    "en": "to change one's mind"
+   },
+   {
+    "da": "at revurdere",
+    "en": "to reassess"
+   },
+   {
+    "da": "at fortryde",
+    "en": "to regret"
+   },
+   {
+    "da": "en overvejelse",
+    "en": "a consideration"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **genoverveje** tilbuddet og svare dig i morgen.",
+   "en": "I will reconsider the offer and answer you tomorrow."
+  }
+ },
+ "at genskabe": {
+  "file": "g.json",
+  "explanation": "\"At genskabe\" means \"to recreate\" or \"to restore\", to make something exist again the way it was, such as a mood, a lost file or a design: \"Vi kan ikke genskabe fejlen\" (We cannot reproduce the error).",
+  "forms": [
+   {
+    "da": "at genskabe",
+    "en": "to recreate / restore"
+   },
+   {
+    "da": "jeg genskaber",
+    "en": "I recreate / restore"
+   },
+   {
+    "da": "jeg genskabte",
+    "en": "I recreated / restored"
+   },
+   {
+    "da": "jeg har genskabt",
+    "en": "I have recreated / restored"
+   }
+  ],
+  "related": [
+   {
+    "da": "at rekonstruere",
+    "en": "to reconstruct"
+   },
+   {
+    "da": "at genoprette",
+    "en": "to re-establish"
+   },
+   {
+    "da": "at kopiere",
+    "en": "to copy"
+   }
+  ],
+  "sentence": {
+   "da": "Forskerne kunne ikke **genskabe** resultatet i deres eget laboratorium.",
+   "en": "The researchers could not recreate the result in their own laboratory."
+  }
+ },
+ "at genstarte": {
+  "file": "g.json",
+  "explanation": "\"At genstarte\" means \"to restart\", to turn something off and on again: \"Jeg genstarter computeren\" (I restart the computer). You can also use it for a project that begins anew.",
+  "forms": [
+   {
+    "da": "at genstarte",
+    "en": "to restart"
+   },
+   {
+    "da": "jeg genstarter",
+    "en": "I restart"
+   },
+   {
+    "da": "jeg genstartede",
+    "en": "I restarted"
+   },
+   {
+    "da": "jeg har genstartet",
+    "en": "I have restarted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en genstart",
+    "en": "a reboot"
+   },
+   {
+    "da": "at nulstille",
+    "en": "to reset"
+   },
+   {
+    "da": "at lukke ned",
+    "en": "to shut down"
+   },
+   {
+    "da": "at starte",
+    "en": "to start"
+   }
+  ],
+  "sentence": {
+   "da": "Hvis skærmen fryser, kan du **genstarte** computeren.",
+   "en": "If the screen freezes, you can restart the computer."
+  }
+ },
+ "at gentage": {
+  "file": "g.json",
+  "explanation": "\"At gentage\" means \"to repeat\", to say or do something again. It is also used for events, with \"sig\" (itself): \"Historien gentager sig\" (History repeats itself).",
+  "forms": [
+   {
+    "da": "at gentage",
+    "en": "to repeat"
+   },
+   {
+    "da": "jeg gentager",
+    "en": "I repeat"
+   },
+   {
+    "da": "jeg gentog",
+    "en": "I repeated"
+   },
+   {
+    "da": "jeg har gentaget",
+    "en": "I have repeated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gentagelse",
+    "en": "a repetition"
+   },
+   {
+    "da": "at øve",
+    "en": "to practice"
+   },
+   {
+    "da": "at gøre om",
+    "en": "to redo"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **gentage** det langsomt, tak?",
+   "en": "Can you repeat that slowly, please?"
+  }
+ },
+ "at gide": {
+  "file": "g.json",
+  "explanation": "\"At gide\" means \"to be bothered to\", and it is about having the energy or will. It is mostly used with \"ikke\" (not) or in questions: \"Jeg gider ikke\" (I can't be bothered). \"Gider du komme med?\" (Do you feel like coming along?)",
+  "forms": [
+   {
+    "da": "at gide",
+    "en": "to bother / can be bothered"
+   },
+   {
+    "da": "jeg gider",
+    "en": "I can be bothered to"
+   },
+   {
+    "da": "jeg gad",
+    "en": "I could be bothered to"
+   },
+   {
+    "da": "jeg har gidet",
+    "en": "I have bothered to"
+   }
+  ],
+  "related": [
+   {
+    "da": "at orke",
+    "en": "to have the energy for"
+   },
+   {
+    "da": "at have lyst til",
+    "en": "to feel like"
+   },
+   {
+    "da": "doven",
+    "en": "lazy"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil nok ikke **gide** at hjælpe os.",
+   "en": "He probably won't feel like helping us."
+  }
+ },
+ "at gifte sig": {
+  "file": "g.json",
+  "explanation": "\"At gifte sig\" means \"to get married\". The small word \"sig\" changes to match who is marrying: \"du gifter dig\" (you get married), \"han gifter sig\" (he gets married). The word \"gift\" (married) describes the state: \"Jeg er gift\" (I am married).",
+  "forms": [
+   {
+    "da": "at gifte sig",
+    "en": "to get married"
+   },
+   {
+    "da": "jeg gifter mig",
+    "en": "I get married"
+   },
+   {
+    "da": "jeg giftede mig",
+    "en": "I got married"
+   },
+   {
+    "da": "jeg har giftet mig",
+    "en": "I have gotten married"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blive skilt",
+    "en": "to get divorced"
+   },
+   {
+    "da": "et bryllup",
+    "en": "a wedding"
+   },
+   {
+    "da": "en brud",
+    "en": "a bride"
+   }
+  ],
+  "sentence": {
+   "da": "De vil **gifte sig** i kirken.",
+   "en": "They want to get married in the church."
+  }
+ },
+ "at give": {
+  "file": "g.json",
+  "explanation": "\"At give\" means \"to give\". It is part of many phrases, such as \"at give op\" (to give up) and \"at give besked\" (to let someone know).",
+  "forms": [
+   {
+    "da": "at give",
+    "en": "to give"
+   },
+   {
+    "da": "jeg giver",
+    "en": "I give"
+   },
+   {
+    "da": "jeg gav",
+    "en": "I gave"
+   },
+   {
+    "da": "jeg har givet",
+    "en": "I have given"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage",
+    "en": "to take"
+   },
+   {
+    "da": "at få",
+    "en": "to get"
+   },
+   {
+    "da": "en gave",
+    "en": "a present"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **give** dig en gave.",
+   "en": "I want to give you a present."
+  }
+ },
+ "at give afkald på": {
+  "file": "g.json",
+  "explanation": "\"At give afkald på\" means \"to renounce\" or \"to give up\": to choose not to use something you have a right to, such as money, a claim or a pleasure. It is your own choice, not a loss: \"Hun gav afkald på sin løn\" (She gave up her pay).",
+  "forms": [
+   {
+    "da": "at give afkald på",
+    "en": "to give up / renounce"
+   },
+   {
+    "da": "jeg giver afkald på",
+    "en": "I give up / renounce"
+   },
+   {
+    "da": "jeg gav afkald på",
+    "en": "I gave up / renounced"
+   },
+   {
+    "da": "jeg har givet afkald på",
+    "en": "I have given up / renounced"
+   }
+  ],
+  "related": [
+   {
+    "da": "at undvære",
+    "en": "to do without"
+   },
+   {
+    "da": "at afstå fra",
+    "en": "to refrain from"
+   },
+   {
+    "da": "at frasige sig",
+    "en": "to disclaim"
+   },
+   {
+    "da": "at fravælge",
+    "en": "to opt out of"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **give afkald på** sin arv og lade andre få den.",
+   "en": "You can renounce your inheritance and let others get it."
+  }
+ },
+ "at give besked": {
+  "file": "g.json",
+  "explanation": "\"At give besked\" means \"to let someone know\". To be the one who is told, use \"at få besked\" (to be notified): \"Jeg fik besked i går\" (I was notified yesterday).",
+  "forms": [
+   {
+    "da": "at give besked",
+    "en": "to let someone know"
+   },
+   {
+    "da": "jeg giver besked",
+    "en": "I notify"
+   },
+   {
+    "da": "jeg gav besked",
+    "en": "I notified"
+   },
+   {
+    "da": "jeg har givet besked",
+    "en": "I have notified"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fortælle",
+    "en": "to tell"
+   },
+   {
+    "da": "at meddele",
+    "en": "to inform"
+   },
+   {
+    "da": "at sige til",
+    "en": "to tell / let know"
+   },
+   {
+    "da": "at underrette",
+    "en": "to notify"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **give besked**, når du er fremme?",
+   "en": "Can you let me know when you arrive?"
+  }
+ },
+ "at give efter": {
+  "file": "g.json",
+  "explanation": "\"At give efter\" means \"to give in\": to stop resisting and let the other person have their way. It is also used for things that bend or break under pressure: \"Isen gav efter\" (The ice gave way).",
+  "forms": [
+   {
+    "da": "at give efter",
+    "en": "to give in"
+   },
+   {
+    "da": "jeg giver efter",
+    "en": "I give in"
+   },
+   {
+    "da": "jeg gav efter",
+    "en": "I gave in"
+   },
+   {
+    "da": "jeg har givet efter",
+    "en": "I have given in"
+   }
+  ],
+  "related": [
+   {
+    "da": "at give op",
+    "en": "to give up"
+   },
+   {
+    "da": "at stå fast",
+    "en": "to stand firm"
+   },
+   {
+    "da": "at bøje sig",
+    "en": "to bow to"
+   },
+   {
+    "da": "at kapitulere",
+    "en": "to surrender"
+   }
+  ],
+  "sentence": {
+   "da": "Forældrene vil ikke **give efter**, selv om barnet græder.",
+   "en": "The parents will not give in, even though the child is crying."
+  }
+ },
+ "at give en hånd med": {
+  "file": "g.json",
+  "explanation": "\"At give en hånd med\" means \"to give a hand\" or \"to help out\": \"Kan du give en hånd med?\" (Can you lend a hand?) Literally, it is \"to give a hand along\". The word \"med\" (along) means you join in on a job that someone is already doing.",
+  "forms": [
+   {
+    "da": "at give en hånd med",
+    "en": "to give a hand"
+   },
+   {
+    "da": "jeg giver en hånd med",
+    "en": "I give a hand"
+   },
+   {
+    "da": "jeg gav en hånd med",
+    "en": "I gave a hand"
+   },
+   {
+    "da": "jeg har givet en hånd med",
+    "en": "I have given a hand"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hjælpe",
+    "en": "to help"
+   },
+   {
+    "da": "at hjælpe til",
+    "en": "to help out"
+   },
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "at bidrage",
+    "en": "to contribute"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil gerne **give en hånd med** flytningen.",
+   "en": "We would like to give a hand with the move."
+  }
+ },
+ "at give lov": {
+  "file": "g.json",
+  "explanation": "\"At give lov\" means \"to give permission\": \"Min mor gav lov\" (My mother gave permission). The word \"lov\" also means \"law\", but in this phrase it means permission.",
+  "forms": [
+   {
+    "da": "at give lov",
+    "en": "to give permission"
+   },
+   {
+    "da": "jeg giver lov",
+    "en": "I give permission"
+   },
+   {
+    "da": "jeg gav lov",
+    "en": "I gave permission"
+   },
+   {
+    "da": "jeg har givet lov",
+    "en": "I have given permission"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tillade",
+    "en": "to allow"
+   },
+   {
+    "da": "at forbyde",
+    "en": "to forbid"
+   },
+   {
+    "da": "en tilladelse",
+    "en": "a permission"
+   },
+   {
+    "da": "at have lov",
+    "en": "to be allowed"
+   }
+  ],
+  "sentence": {
+   "da": "Far vil nok **give lov**, når vi spørger pænt.",
+   "en": "Dad will probably give permission when we ask nicely."
+  }
+ },
+ "at give op": {
+  "file": "g.json",
+  "explanation": "\"At give op\" means \"to give up\", when you stop trying. \"Op\" (up) is a small word that changes the verb in many phrases: \"at skrive op\" (to write down), \"at ringe op\" (to call up).",
+  "forms": [
+   {
+    "da": "at give op",
+    "en": "to give up"
+   },
+   {
+    "da": "jeg giver op",
+    "en": "I give up"
+   },
+   {
+    "da": "jeg gav op",
+    "en": "I gave up"
+   },
+   {
+    "da": "jeg har givet op",
+    "en": "I have given up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opgive",
+    "en": "to abandon"
+   },
+   {
+    "da": "at holde ud",
+    "en": "to endure"
+   },
+   {
+    "da": "at blive ved",
+    "en": "to keep going"
+   },
+   {
+    "da": "at kæmpe",
+    "en": "to fight"
+   }
+  ],
+  "sentence": {
+   "da": "Det er svært, men jeg vil ikke **give op**.",
+   "en": "It is hard, but I won't give up."
+  }
+ },
+ "at give sig": {
+  "file": "g.json",
+  "explanation": "\"At give sig\" means \"to give in\" or \"to yield\". You mostly hear it in the negative, for someone who will not back down: \"Jeg giver mig ikke\" (I will not back down). It also describes pain or weather that eases off: \"Smerterne giver sig\" (The pain eases off).",
+  "forms": [
+   {
+    "da": "at give sig",
+    "en": "to give in / yield"
+   },
+   {
+    "da": "jeg giver mig",
+    "en": "I give in / yield"
+   },
+   {
+    "da": "jeg gav mig",
+    "en": "I gave in / yielded"
+   },
+   {
+    "da": "jeg har givet mig",
+    "en": "I have given in / yielded"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bøje sig",
+    "en": "to bow to"
+   },
+   {
+    "da": "at give op",
+    "en": "to give up"
+   },
+   {
+    "da": "at holde fast",
+    "en": "to hold on"
+   },
+   {
+    "da": "at stå fast",
+    "en": "to stand firm"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil ikke **give sig**, før hun har fået et svar.",
+   "en": "She will not back down until she has an answer."
+  }
+ },
+ "at give tilbage": {
+  "file": "g.json",
+  "explanation": "\"At give tilbage\" means \"to give back\". To take something back to a shop or library, use \"at returnere\" (to return).",
+  "forms": [
+   {
+    "da": "at give tilbage",
+    "en": "to give back"
+   },
+   {
+    "da": "jeg giver tilbage",
+    "en": "I give back"
+   },
+   {
+    "da": "jeg gav tilbage",
+    "en": "I gave back"
+   },
+   {
+    "da": "jeg har givet tilbage",
+    "en": "I have given back"
+   }
+  ],
+  "related": [
+   {
+    "da": "at aflevere",
+    "en": "to hand in"
+   },
+   {
+    "da": "at låne",
+    "en": "to borrow"
+   },
+   {
+    "da": "at låne ud",
+    "en": "to lend"
+   },
+   {
+    "da": "at få tilbage",
+    "en": "to get back"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **give tilbage**, hvad jeg har lånt.",
+   "en": "I want to give back what I borrowed."
+  }
+ },
+ "at glemme": {
+  "file": "g.json",
+  "explanation": "\"At glemme\" means \"to forget\", both facts and things you were meant to bring or do.",
+  "forms": [
+   {
+    "da": "at glemme",
+    "en": "to forget"
+   },
+   {
+    "da": "jeg glemmer",
+    "en": "I forget"
+   },
+   {
+    "da": "jeg glemte",
+    "en": "I forgot"
+   },
+   {
+    "da": "jeg har glemt",
+    "en": "I have forgotten"
+   }
+  ],
+  "related": [
+   {
+    "da": "at huske",
+    "en": "to remember"
+   },
+   {
+    "da": "glemsom",
+    "en": "forgetful"
+   },
+   {
+    "da": "at minde om",
+    "en": "to remind of"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg må ikke **glemme** min paraply.",
+   "en": "I must not forget my umbrella."
+  }
+ },
+ "at glide": {
+  "file": "g.json",
+  "explanation": "\"At glide\" means \"to slide\" or \"to slip\", to move smoothly over a surface, like a boat on water. It can also be an accident: \"Kniven gled\" (The knife slipped).",
+  "forms": [
+   {
+    "da": "at glide",
+    "en": "to slide / slip"
+   },
+   {
+    "da": "jeg glider",
+    "en": "I slide / slip"
+   },
+   {
+    "da": "jeg gled",
+    "en": "I slid / slipped"
+   },
+   {
+    "da": "jeg har gledet",
+    "en": "I have slid / slipped"
+   }
+  ],
+  "related": [
+   {
+    "da": "glat",
+    "en": "slippery"
+   },
+   {
+    "da": "at skride",
+    "en": "to skid"
+   },
+   {
+    "da": "at glippe",
+    "en": "to slip away"
+   },
+   {
+    "da": "glidende",
+    "en": "smooth, gliding"
+   }
+  ],
+  "sentence": {
+   "da": "Skøjteløberen kan **glide** hen over isen uden at anstrenge sig.",
+   "en": "The skater can glide across the ice without any effort."
+  }
+ },
+ "at glo": {
+  "file": "g.json",
+  "explanation": "\"At glo\" means \"to stare\", looking at someone or something for too long with fixed eyes. It is everyday speech and often sounds critical: \"Hvad glor du på?\" (What are you staring at?) means \"Stop looking at me\".",
+  "forms": [
+   {
+    "da": "at glo",
+    "en": "to stare"
+   },
+   {
+    "da": "jeg glor",
+    "en": "I stare"
+   },
+   {
+    "da": "jeg gloede",
+    "en": "I stared"
+   },
+   {
+    "da": "jeg har gloet",
+    "en": "I have stared"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stirre",
+    "en": "to gaze"
+   },
+   {
+    "da": "at kigge",
+    "en": "to look"
+   },
+   {
+    "da": "at titte",
+    "en": "to peek"
+   },
+   {
+    "da": "at betragte",
+    "en": "to observe"
+   }
+  ],
+  "sentence": {
+   "da": "Det er uhøfligt at **glo** på folk.",
+   "en": "It is rude to stare at people."
+  }
+ },
+ "at glæde": {
+  "file": "g.json",
+  "explanation": "\"At glæde\" means \"to please\" or \"to delight\", to give someone a good feeling. Do not mix it up with \"at glæde sig til\" (to look forward to), where \"sig\" (oneself) makes you the one who feels it: \"Jeg glæder mig til ferien\" (I look forward to the vacation).",
+  "forms": [
+   {
+    "da": "at glæde",
+    "en": "to please / delight"
+   },
+   {
+    "da": "jeg glæder",
+    "en": "I please / delight"
+   },
+   {
+    "da": "jeg glædede",
+    "en": "I pleased / delighted"
+   },
+   {
+    "da": "jeg har glædet",
+    "en": "I have pleased / delighted"
+   }
+  ],
+  "related": [
+   {
+    "da": "glad",
+    "en": "happy"
+   },
+   {
+    "da": "tilfreds",
+    "en": "satisfied"
+   },
+   {
+    "da": "at more",
+    "en": "to amuse"
+   }
+  ],
+  "sentence": {
+   "da": "Det vil **glæde** mormor meget at se dig.",
+   "en": "It will please grandma a lot to see you."
+  }
+ },
+ "at glæde sig over": {
+  "file": "g.json",
+  "explanation": "\"At glæde sig over\" means \"to be happy about\" something that is here now: \"Jeg glæder mig over gaven\" (I am happy about the gift). For the future, use \"at glæde sig til\" (to look forward to): \"Jeg glæder mig til ferien\" (I look forward to the vacation).",
+  "forms": [
+   {
+    "da": "at glæde sig over",
+    "en": "to be happy about"
+   },
+   {
+    "da": "jeg glæder mig over",
+    "en": "I am happy about"
+   },
+   {
+    "da": "jeg glædede mig over",
+    "en": "I was happy about"
+   },
+   {
+    "da": "jeg har glædet mig over",
+    "en": "I have been happy about"
+   }
+  ],
+  "related": [
+   {
+    "da": "glad",
+    "en": "happy"
+   },
+   {
+    "da": "at nyde",
+    "en": "to enjoy"
+   },
+   {
+    "da": "at være tilfreds med",
+    "en": "to be satisfied with"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kan **glæde sig over** de små ting i livet.",
+   "en": "She can be happy about the small things in life."
+  }
+ },
+ "at glæde sig til": {
+  "file": "g.json",
+  "explanation": "\"At glæde sig til\" means \"to look forward to\". The word \"sig\" changes with the person: \"Vi glæder os til festen\" (We look forward to the party).",
+  "forms": [
+   {
+    "da": "at glæde sig til",
+    "en": "to look forward to"
+   },
+   {
+    "da": "jeg glæder mig til",
+    "en": "I look forward to"
+   },
+   {
+    "da": "jeg glædede mig til",
+    "en": "I looked forward to"
+   },
+   {
+    "da": "jeg har glædet mig til",
+    "en": "I have looked forward to"
+   }
+  ],
+  "related": [
+   {
+    "da": "spændt",
+    "en": "excited"
+   },
+   {
+    "da": "at se frem til",
+    "en": "to look forward to"
+   },
+   {
+    "da": "at glæde sig over",
+    "en": "to be happy about"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene begynder at **glæde sig til** sommerferien.",
+   "en": "The children are starting to look forward to the summer vacation."
+  }
+ },
+ "at gløde": {
+  "file": "g.json",
+  "explanation": "\"At gløde\" means \"to glow\", to give off a steady warm light, like hot coals or metal heated in a fire. It also describes a person who beams with joy: \"Hun gløder af stolthed\" (She glows with pride).",
+  "forms": [
+   {
+    "da": "at gløde",
+    "en": "to glow"
+   },
+   {
+    "da": "jeg gløder",
+    "en": "I glow"
+   },
+   {
+    "da": "jeg glødede",
+    "en": "I glowed"
+   },
+   {
+    "da": "jeg har glødet",
+    "en": "I have glowed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gnist",
+    "en": "a spark"
+   },
+   {
+    "da": "at lyse",
+    "en": "to shine"
+   },
+   {
+    "da": "at brænde",
+    "en": "to burn"
+   },
+   {
+    "da": "glødende",
+    "en": "red-hot"
+   }
+  ],
+  "sentence": {
+   "da": "Jernet skal **gløde**, før smeden kan forme det.",
+   "en": "The iron must glow before the smith can shape it."
+  }
+ },
+ "at gnave": {
+  "file": "g.json",
+  "explanation": "\"At gnave\" means \"to gnaw\": to bite at something hard again and again, as mice and dogs do. It is also used for a worry that will not leave you alone: \"Tanken gnavede i mig\" (The thought gnawed at me).",
+  "forms": [
+   {
+    "da": "at gnave",
+    "en": "to gnaw"
+   },
+   {
+    "da": "jeg gnaver",
+    "en": "I gnaw"
+   },
+   {
+    "da": "jeg gnavede",
+    "en": "I gnawed"
+   },
+   {
+    "da": "jeg har gnavet",
+    "en": "I have gnawed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gnaver",
+    "en": "a rodent"
+   },
+   {
+    "da": "at tygge",
+    "en": "to chew"
+   },
+   {
+    "da": "gnaven",
+    "en": "grumpy"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden vil **gnave** på knoglen hele dagen.",
+   "en": "The dog wants to gnaw on the bone all day."
+  }
+ },
+ "at gnide": {
+  "file": "g.json",
+  "explanation": "\"At gnide\" means \"to rub\", to press something against a surface and move it back and forth. Adding \"ind\" (in) makes it \"to rub in\": \"at gnide creme ind\" (to rub in cream).",
+  "forms": [
+   {
+    "da": "at gnide",
+    "en": "to rub"
+   },
+   {
+    "da": "jeg gnider",
+    "en": "I rub"
+   },
+   {
+    "da": "jeg gned",
+    "en": "I rubbed"
+   },
+   {
+    "da": "jeg har gnedet",
+    "en": "I have rubbed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at massere",
+    "en": "to massage"
+   },
+   {
+    "da": "at skrubbe",
+    "en": "to scrub"
+   },
+   {
+    "da": "at pudse",
+    "en": "to polish"
+   },
+   {
+    "da": "at klø",
+    "en": "to scratch"
+   }
+  ],
+  "sentence": {
+   "da": "Hun må **gnide** sine kolde hænder for at få varmen.",
+   "en": "She has to rub her cold hands to get warm."
+  }
+ },
+ "at godkende": {
+  "file": "g.json",
+  "explanation": "\"At godkende\" means \"to approve\", to officially say yes to something so it may go ahead, such as a plan, a budget, an application or a medicine.",
+  "forms": [
+   {
+    "da": "at godkende",
+    "en": "to approve"
+   },
+   {
+    "da": "jeg godkender",
+    "en": "I approve"
+   },
+   {
+    "da": "jeg godkendte",
+    "en": "I approved"
+   },
+   {
+    "da": "jeg har godkendt",
+    "en": "I have approved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en godkendelse",
+    "en": "an approval"
+   },
+   {
+    "da": "at afvise",
+    "en": "to reject"
+   },
+   {
+    "da": "at tillade",
+    "en": "to allow"
+   },
+   {
+    "da": "at acceptere",
+    "en": "to accept"
+   }
+  ],
+  "sentence": {
+   "da": "Chefen skal **godkende** budgettet, før vi bruger penge.",
+   "en": "The boss has to approve the budget before we spend money."
+  }
+ },
+ "at godtage": {
+  "file": "g.json",
+  "explanation": "\"At godtage\" means \"to accept\", to agree that something is good enough or allowed, such as an explanation, an offer or a rule.",
+  "forms": [
+   {
+    "da": "at godtage",
+    "en": "to accept"
+   },
+   {
+    "da": "jeg godtager",
+    "en": "I accept"
+   },
+   {
+    "da": "jeg godtog",
+    "en": "I accepted"
+   },
+   {
+    "da": "jeg har godtaget",
+    "en": "I have accepted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage imod",
+    "en": "to receive, to accept"
+   },
+   {
+    "da": "at afvise",
+    "en": "to reject"
+   },
+   {
+    "da": "at samtykke",
+    "en": "to consent"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan ikke **godtage** den høje pris.",
+   "en": "We cannot accept the high price."
+  }
+ },
+ "at google": {
+  "file": "g.json",
+  "explanation": "\"At google\" means \"to google\", to search for something online.",
+  "forms": [
+   {
+    "da": "at google",
+    "en": "to google"
+   },
+   {
+    "da": "jeg googler",
+    "en": "I google"
+   },
+   {
+    "da": "jeg googlede",
+    "en": "I googled"
+   },
+   {
+    "da": "jeg har googlet",
+    "en": "I have googled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at søge efter",
+    "en": "to search for"
+   },
+   {
+    "da": "en søgemaskine",
+    "en": "a search engine"
+   },
+   {
+    "da": "et søgeord",
+    "en": "a keyword"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **google** en opskrift på pandekager.",
+   "en": "I want to google a recipe for pancakes."
+  }
+ },
+ "at grave": {
+  "file": "g.json",
+  "explanation": "\"At grave\" means \"to dig\", to make a hole in the ground. With \"op\" (up) it means digging something out: \"grave noget op\" (dig something up).",
+  "forms": [
+   {
+    "da": "at grave",
+    "en": "to dig"
+   },
+   {
+    "da": "jeg graver",
+    "en": "I dig"
+   },
+   {
+    "da": "jeg gravede",
+    "en": "I dug"
+   },
+   {
+    "da": "jeg har gravet",
+    "en": "I have dug"
+   }
+  ],
+  "related": [
+   {
+    "da": "en grav",
+    "en": "a grave"
+   },
+   {
+    "da": "at begrave",
+    "en": "to bury"
+   },
+   {
+    "da": "en grøft",
+    "en": "a ditch"
+   }
+  ],
+  "sentence": {
+   "da": "Med en spade kan man **grave** et dybt hul.",
+   "en": "With a spade you can dig a deep hole."
+  }
+ },
+ "at gribe": {
+  "file": "g.json",
+  "explanation": "\"At gribe\" means \"to grab\" and \"to catch\" something that is thrown: \"Hun greb bolden\" (She caught the ball). \"Han greb min arm\" (He grabbed my arm).",
+  "forms": [
+   {
+    "da": "at gribe",
+    "en": "to grab / catch"
+   },
+   {
+    "da": "jeg griber",
+    "en": "I grab / catch"
+   },
+   {
+    "da": "jeg greb",
+    "en": "I grabbed / caught"
+   },
+   {
+    "da": "jeg har grebet",
+    "en": "I have grabbed / caught"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fange",
+    "en": "to catch"
+   },
+   {
+    "da": "at tage fat i",
+    "en": "to take hold of"
+   },
+   {
+    "da": "at holde fast",
+    "en": "to hold on"
+   },
+   {
+    "da": "at kaste",
+    "en": "to throw"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **gribe** bolden, når jeg kaster den?",
+   "en": "Can you catch the ball when I throw it?"
+  }
+ },
+ "at gribe ind": {
+  "file": "g.json",
+  "explanation": "\"At gribe ind\" means \"to intervene\", to step into a situation and change what is happening: \"Læreren greb ind i skænderiet\" (The teacher stepped into the quarrel). The root \"at gribe\" means \"to grab\" or \"to catch\", and \"ind\" (in) gives the picture of reaching into the situation.",
+  "forms": [
+   {
+    "da": "at gribe ind",
+    "en": "to intervene"
+   },
+   {
+    "da": "jeg griber ind",
+    "en": "I intervene"
+   },
+   {
+    "da": "jeg greb ind",
+    "en": "I intervened"
+   },
+   {
+    "da": "jeg har grebet ind",
+    "en": "I have intervened"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blande sig",
+    "en": "to interfere"
+   },
+   {
+    "da": "at afbryde",
+    "en": "to interrupt"
+   },
+   {
+    "da": "at standse",
+    "en": "to stop"
+   },
+   {
+    "da": "et indgreb",
+    "en": "an intervention"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren må **gribe ind**, når børnene begynder at slås.",
+   "en": "The teacher has to intervene when the children start fighting."
+  }
+ },
+ "at grille": {
+  "file": "g.json",
+  "explanation": "\"At grille\" means \"to grill\", to cook food over hot coals, gas or electricity, usually outdoors. You can use it without naming the food: \"Vi griller i aften\" (We are grilling tonight).",
+  "forms": [
+   {
+    "da": "at grille",
+    "en": "to grill"
+   },
+   {
+    "da": "jeg griller",
+    "en": "I grill"
+   },
+   {
+    "da": "jeg grillede",
+    "en": "I grilled"
+   },
+   {
+    "da": "jeg har grillet",
+    "en": "I have grilled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stege",
+    "en": "to fry"
+   },
+   {
+    "da": "at bage",
+    "en": "to bake"
+   },
+   {
+    "da": "at koge",
+    "en": "to boil"
+   },
+   {
+    "da": "at riste",
+    "en": "to toast"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **grille** pølser i haven, når det er varmt.",
+   "en": "We can grill sausages in the garden when it is warm."
+  }
+ },
+ "at grine": {
+  "file": "g.json",
+  "explanation": "\"At grine\" means \"to laugh\", usually out loud at something funny: \"Vi grinede meget\" (We laughed a lot). The phrase \"grine af\" (to laugh at someone) can mean mocking them: \"Hvorfor griner du af mig?\" (Why are you laughing at me?)",
+  "forms": [
+   {
+    "da": "at grine",
+    "en": "to laugh"
+   },
+   {
+    "da": "jeg griner",
+    "en": "I laugh"
+   },
+   {
+    "da": "jeg grinede",
+    "en": "I laughed"
+   },
+   {
+    "da": "jeg har grinet",
+    "en": "I have laughed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at le",
+    "en": "to laugh"
+   },
+   {
+    "da": "at græde",
+    "en": "to cry"
+   },
+   {
+    "da": "at smile",
+    "en": "to smile"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene vil **grine** af den sjove klovn.",
+   "en": "The children want to laugh at the funny clown."
+  }
+ },
+ "at gro": {
+  "file": "g.json",
+  "explanation": "\"At gro\" means \"to grow\", for things that come up out of the ground or skin, such as plants, moss and hair. For a child getting taller or something getting bigger, use \"at vokse\" (to grow bigger).",
+  "forms": [
+   {
+    "da": "at gro",
+    "en": "to grow"
+   },
+   {
+    "da": "jeg gror",
+    "en": "I grow"
+   },
+   {
+    "da": "jeg groede",
+    "en": "I grew"
+   },
+   {
+    "da": "jeg har groet",
+    "en": "I have grown"
+   }
+  ],
+  "related": [
+   {
+    "da": "et frø",
+    "en": "a seed"
+   },
+   {
+    "da": "at spire",
+    "en": "to sprout"
+   },
+   {
+    "da": "at så",
+    "en": "to sow"
+   },
+   {
+    "da": "en vækst",
+    "en": "a growth"
+   }
+  ],
+  "sentence": {
+   "da": "Tomater kan **gro** i et drivhus, når det er koldt ude.",
+   "en": "Tomatoes can grow in a greenhouse when it is cold outside."
+  }
+ },
+ "at gruble": {
+  "file": "g.json",
+  "explanation": "\"At gruble\" means \"to brood\" or \"to ponder\": to think about something for a long time, often with worry and without getting anywhere. To name the topic of your thoughts, add \"over\" (about): \"Jeg grubler over, hvad jeg skal gøre\" (I am brooding over what to do).",
+  "forms": [
+   {
+    "da": "at gruble",
+    "en": "to brood / ponder"
+   },
+   {
+    "da": "jeg grubler",
+    "en": "I brood / ponder"
+   },
+   {
+    "da": "jeg grublede",
+    "en": "I brooded / pondered"
+   },
+   {
+    "da": "jeg har grublet",
+    "en": "I have brooded / pondered"
+   }
+  ],
+  "related": [
+   {
+    "da": "grublerier",
+    "en": "brooding thoughts"
+   },
+   {
+    "da": "at spekulere",
+    "en": "to speculate"
+   },
+   {
+    "da": "at fundere",
+    "en": "to wonder"
+   },
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ligge vågen og **gruble** over mine problemer.",
+   "en": "I can lie awake and brood over my problems."
+  }
+ },
+ "at gruppere": {
+  "file": "g.json",
+  "explanation": "\"At gruppere\" means \"to group\": to put people or things into groups by something they have in common, such as age, size or topic.",
+  "forms": [
+   {
+    "da": "at gruppere",
+    "en": "to group"
+   },
+   {
+    "da": "jeg grupperer",
+    "en": "I group"
+   },
+   {
+    "da": "jeg grupperede",
+    "en": "I grouped"
+   },
+   {
+    "da": "jeg har grupperet",
+    "en": "I have grouped"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gruppe",
+    "en": "a group"
+   },
+   {
+    "da": "at sortere",
+    "en": "to sort"
+   },
+   {
+    "da": "at inddele",
+    "en": "to divide"
+   },
+   {
+    "da": "at ordne",
+    "en": "to arrange"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren vil **gruppere** eleverne efter niveau.",
+   "en": "The teacher will group the students by level."
+  }
+ },
+ "at græde": {
+  "file": "g.json",
+  "explanation": "\"At græde\" means \"to cry\", to shed tears from sadness, pain or even joy: \"Barnet græder\" (The child is crying).",
+  "forms": [
+   {
+    "da": "at græde",
+    "en": "to cry"
+   },
+   {
+    "da": "jeg græder",
+    "en": "I cry"
+   },
+   {
+    "da": "jeg græd",
+    "en": "I cried"
+   },
+   {
+    "da": "jeg har grædt",
+    "en": "I have cried"
+   }
+  ],
+  "related": [
+   {
+    "da": "at grine",
+    "en": "to laugh"
+   },
+   {
+    "da": "en tåre",
+    "en": "a tear"
+   },
+   {
+    "da": "at le",
+    "en": "to laugh"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet er ked af det og vil **græde**.",
+   "en": "The child is sad and wants to cry."
+  }
+ },
+ "at gynge": {
+  "file": "g.json",
+  "explanation": "\"At gynge\" means \"to swing\", to move gently back and forth or up and down, like a boat on waves or a child in the playground. To swing a bat or a golf club, use \"at svinge\" (to swing) instead.",
+  "forms": [
+   {
+    "da": "at gynge",
+    "en": "to swing"
+   },
+   {
+    "da": "jeg gynger",
+    "en": "I swing"
+   },
+   {
+    "da": "jeg gyngede",
+    "en": "I swung"
+   },
+   {
+    "da": "jeg har gynget",
+    "en": "I have swung"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vippe",
+    "en": "a seesaw"
+   },
+   {
+    "da": "en gyngestol",
+    "en": "a rocking chair"
+   },
+   {
+    "da": "at vugge",
+    "en": "to rock"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene elsker at **gynge** på legepladsen.",
+   "en": "The children love to swing at the playground."
+  }
+ },
+ "at gå": {
+  "file": "g.json",
+  "explanation": "\"At gå\" means \"to go on foot\", so to walk, and also \"to leave\": \"Jeg går nu\" (I am leaving now). It also describes how things are going: \"Det går godt\" (It is going well). For buses and trains it means that they run: \"Bussen går hver time\" (The bus runs every hour). For going by car or plane, use \"at køre\" (to drive) or \"at flyve\" (to fly) instead.",
+  "forms": [
+   {
+    "da": "at gå",
+    "en": "to go / walk"
+   },
+   {
+    "da": "jeg går",
+    "en": "I go / walk"
+   },
+   {
+    "da": "jeg gik",
+    "en": "I went / walked"
+   },
+   {
+    "da": "jeg er gået",
+    "en": "I have gone / walked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme",
+    "en": "to come"
+   },
+   {
+    "da": "en gåtur",
+    "en": "a walk"
+   },
+   {
+    "da": "at spadsere",
+    "en": "to stroll"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil hellere **gå** end køre.",
+   "en": "We would rather walk than drive."
+  }
+ },
+ "at gå af": {
+  "file": "g.json",
+  "explanation": "\"At gå af\" means \"to resign\", for someone who leaves a post such as a minister or a boss. It also means \"to get off\" a bus or train: \"Jeg går af ved næste stop\" (I get off at the next stop). For an alarm clock it means \"to go off\": \"Alarmen gik af\" (The alarm went off).",
+  "forms": [
+   {
+    "da": "at gå af",
+    "en": "to resign / go off"
+   },
+   {
+    "da": "jeg går af",
+    "en": "I resign / go off"
+   },
+   {
+    "da": "jeg gik af",
+    "en": "I resigned / went off"
+   },
+   {
+    "da": "jeg er gået af",
+    "en": "I have resigned / gone off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at træde tilbage",
+    "en": "to step down"
+   },
+   {
+    "da": "at fratræde",
+    "en": "to leave office"
+   },
+   {
+    "da": "at opsige",
+    "en": "to give notice"
+   },
+   {
+    "da": "at stige på",
+    "en": "to board"
+   }
+  ],
+  "sentence": {
+   "da": "Direktøren vil **gå af**, når året er slut.",
+   "en": "The director will resign when the year is over."
+  }
+ },
+ "at gå agurk": {
+  "file": "g.json",
+  "explanation": "\"At gå agurk\" means \"to go crazy\": to go to pieces from stress, anger or excitement. Literally, it is \"to go cucumber\" (\"en agurk\" is a cucumber).",
+  "forms": [
+   {
+    "da": "Nu går jeg agurk!",
+    "en": "Now I am going crazy!"
+   },
+   {
+    "da": "Han gik agurk af raseri",
+    "en": "He went crazy with rage"
+   },
+   {
+    "da": "Jeg er ved at gå agurk",
+    "en": "I am about to go crazy"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå amok",
+    "en": "to go berserk"
+   },
+   {
+    "da": "at flippe",
+    "en": "to flip out"
+   },
+   {
+    "da": "at blive vanvittig",
+    "en": "to go insane"
+   },
+   {
+    "da": "at miste besindelsen",
+    "en": "to lose one's temper"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **gå agurk**, når børnene larmer hele dagen.",
+   "en": "I could go crazy when the children make noise all day."
+  }
+ },
+ "at gå amok": {
+  "file": "g.json",
+  "explanation": "\"At gå amok\" means \"to go berserk\": to stop controlling yourself and act wildly, often with anger or violence: \"Hesten gik amok\" (The horse went berserk).",
+  "forms": [
+   {
+    "da": "at gå amok",
+    "en": "to go berserk"
+   },
+   {
+    "da": "jeg går amok",
+    "en": "I go berserk"
+   },
+   {
+    "da": "jeg gik amok",
+    "en": "I went berserk"
+   },
+   {
+    "da": "jeg er gået amok",
+    "en": "I have gone berserk"
+   }
+  ],
+  "related": [
+   {
+    "da": "at rase",
+    "en": "to rage"
+   },
+   {
+    "da": "at gå agurk",
+    "en": "to go crazy"
+   },
+   {
+    "da": "en amokmand",
+    "en": "a man running amok"
+   },
+   {
+    "da": "at miste besindelsen",
+    "en": "to lose one's temper"
+   }
+  ],
+  "sentence": {
+   "da": "Tyren kan **gå amok** og løbe ind i folkemængden.",
+   "en": "The bull can go berserk and run into the crowd."
+  }
+ },
+ "at gå en tur": {
+  "file": "g.json",
+  "explanation": "\"At gå en tur\" means \"to go for a walk\", just for pleasure or fresh air. You can add the place you walk in: \"gå en tur i parken\" (go for a walk in the park). \"En tur\" can also mean \"a trip\", as in \"en tur til Aarhus\" (a trip to Aarhus). You can tell which meaning is used from the context of the sentence.",
+  "forms": [
+   {
+    "da": "at gå en tur",
+    "en": "to go for a walk"
+   },
+   {
+    "da": "jeg går en tur",
+    "en": "I go for a walk"
+   },
+   {
+    "da": "jeg gik en tur",
+    "en": "I went for a walk"
+   },
+   {
+    "da": "jeg har gået en tur",
+    "en": "I have been for a walk"
+   }
+  ],
+  "related": [
+   {
+    "da": "at løbe en tur",
+    "en": "to go for a run"
+   },
+   {
+    "da": "en gåtur",
+    "en": "a walk"
+   },
+   {
+    "da": "en spadseretur",
+    "en": "a stroll"
+   }
+  ],
+  "sentence": {
+   "da": "Efter maden vil vi **gå en tur**.",
+   "en": "After the meal we want to go for a walk."
+  }
+ },
+ "at gå forbi": {
+  "file": "g.json",
+  "explanation": "\"At gå forbi\" means \"to pass by\" on foot. \"Forbi\" (past) works with other verbs too: \"køre forbi\" (drive past).",
+  "forms": [
+   {
+    "da": "at gå forbi",
+    "en": "to pass by"
+   },
+   {
+    "da": "jeg går forbi",
+    "en": "I pass by"
+   },
+   {
+    "da": "jeg gik forbi",
+    "en": "I passed by"
+   },
+   {
+    "da": "jeg er gået forbi",
+    "en": "I have passed by"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme forbi",
+    "en": "to drop by"
+   },
+   {
+    "da": "en forbipasserende",
+    "en": "a passerby"
+   },
+   {
+    "da": "at overhale",
+    "en": "to overtake"
+   },
+   {
+    "da": "at passere",
+    "en": "to pass"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg plejer at **gå forbi** bageren på vej hjem.",
+   "en": "I usually pass the bakery on the way home."
+  }
+ },
+ "at gå fra hinanden": {
+  "file": "g.json",
+  "explanation": "\"At gå fra hinanden\" means \"to break up\". Literally, it is \"to go from each other\". It is used when two people end a relationship together, and \"hinanden\" (each other) shows that both are involved.",
+  "forms": [
+   {
+    "da": "at gå fra hinanden",
+    "en": "to break up"
+   },
+   {
+    "da": "vi går fra hinanden",
+    "en": "we break up"
+   },
+   {
+    "da": "vi gik fra hinanden",
+    "en": "we broke up"
+   },
+   {
+    "da": "vi er gået fra hinanden",
+    "en": "we have broken up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at slå op",
+    "en": "to break up with someone"
+   },
+   {
+    "da": "at blive skilt",
+    "en": "to get divorced"
+   },
+   {
+    "da": "at blive kærester",
+    "en": "to become a couple"
+   }
+  ],
+  "sentence": {
+   "da": "Efter tre år besluttede de at **gå fra hinanden**.",
+   "en": "After three years they decided to break up."
+  }
+ },
+ "at gå galt": {
+  "file": "g.json",
+  "explanation": "\"At gå galt\" means \"to go wrong\": \"Planen gik galt\" (The plan went wrong). For a wrong answer, use \"forkert\" (wrong): \"Svaret er forkert\" (The answer is wrong).",
+  "forms": [
+   {
+    "da": "at gå galt",
+    "en": "to go wrong"
+   },
+   {
+    "da": "det går galt",
+    "en": "it goes wrong"
+   },
+   {
+    "da": "det gik galt",
+    "en": "it went wrong"
+   },
+   {
+    "da": "det er gået galt",
+    "en": "it has gone wrong"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå godt",
+    "en": "to go well"
+   },
+   {
+    "da": "at lykkes",
+    "en": "to succeed"
+   },
+   {
+    "da": "at mislykkes",
+    "en": "to fail"
+   },
+   {
+    "da": "en fejl",
+    "en": "a mistake"
+   }
+  ],
+  "sentence": {
+   "da": "Det kan **gå galt**, når vejen er glat.",
+   "en": "It can go wrong when the road is slippery."
+  }
+ },
+ "at gå glip af": {
+  "file": "g.json",
+  "explanation": "\"At gå glip af\" means \"to miss out on\" something you wanted to be part of. For a bus, Danes say \"Jeg missede bussen\" (I missed the bus).",
+  "forms": [
+   {
+    "da": "at gå glip af",
+    "en": "to miss out on"
+   },
+   {
+    "da": "jeg går glip af",
+    "en": "I miss out on"
+   },
+   {
+    "da": "jeg gik glip af",
+    "en": "I missed out on"
+   },
+   {
+    "da": "jeg har gået glip af",
+    "en": "I have missed out on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at nå",
+    "en": "to make it"
+   },
+   {
+    "da": "at savne",
+    "en": "to miss / long for"
+   },
+   {
+    "da": "at deltage",
+    "en": "to take part"
+   },
+   {
+    "da": "at udnytte",
+    "en": "to take advantage of"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke **gå glip af** koncerten.",
+   "en": "I don't want to miss out on the concert."
+  }
+ },
+ "at gå hjem": {
+  "file": "g.json",
+  "explanation": "\"At gå hjem\" means \"to go home\", usually on foot. By car, say \"at køre hjem\" (to drive home). \"At tage hjem\" (to head home) works whatever way you travel.",
+  "forms": [
+   {
+    "da": "at gå hjem",
+    "en": "to go home"
+   },
+   {
+    "da": "jeg går hjem",
+    "en": "I go home"
+   },
+   {
+    "da": "jeg gik hjem",
+    "en": "I went home"
+   },
+   {
+    "da": "jeg er gået hjem",
+    "en": "I have gone home"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme hjem",
+    "en": "to come home"
+   },
+   {
+    "da": "hjemme",
+    "en": "at home"
+   },
+   {
+    "da": "at rejse hjem",
+    "en": "to travel home"
+   },
+   {
+    "da": "en hjemvej",
+    "en": "the way home"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er træt og vil **gå hjem**.",
+   "en": "I am tired and want to go home."
+  }
+ },
+ "at gå i biografen": {
+  "file": "g.json",
+  "explanation": "\"At gå i biografen\" means \"to go to the movies\". Literally it is \"to go in the movie theater\". The shorter \"at gå i bio\" (to go to the movies) means the same.",
+  "forms": [
+   {
+    "da": "at gå i biografen",
+    "en": "to go to the movies"
+   },
+   {
+    "da": "jeg går i biografen",
+    "en": "I go to the movies"
+   },
+   {
+    "da": "jeg gik i biografen",
+    "en": "I went to the movies"
+   },
+   {
+    "da": "jeg er gået i biografen",
+    "en": "I have gone to the movies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en biograf",
+    "en": "a movie theater"
+   },
+   {
+    "da": "at gå i teatret",
+    "en": "to go to the theater"
+   },
+   {
+    "da": "en biografbillet",
+    "en": "a movie ticket"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **gå i biografen** i aften.",
+   "en": "We want to go to the movies tonight."
+  }
+ },
+ "at gå i gang med": {
+  "file": "g.json",
+  "explanation": "\"At gå i gang med\" means \"to get started on\", for beginning a task. To name the task you started, add \"med\" (with): \"Hun gik i gang med maden\" (She got started on the food). Leave \"med\" out when nothing follows: \"Vi er gået i gang\" (We have started).",
+  "forms": [
+   {
+    "da": "at gå i gang med",
+    "en": "to get started on"
+   },
+   {
+    "da": "jeg går i gang med",
+    "en": "I get started on"
+   },
+   {
+    "da": "jeg gik i gang med",
+    "en": "I got started on"
+   },
+   {
+    "da": "jeg er gået i gang med",
+    "en": "I have gotten started on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at starte",
+    "en": "to start"
+   },
+   {
+    "da": "at afslutte",
+    "en": "to finish"
+   },
+   {
+    "da": "at blive færdig med",
+    "en": "to be done with"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **gå i gang med** opgaven nu.",
+   "en": "We have to get started on the task now."
+  }
+ },
+ "at gå i panik": {
+  "file": "g.json",
+  "explanation": "\"At gå i panik\" means \"to panic\". Literally, it is \"to go into panic\". The calm opposite is \"at bevare roen\" (to stay calm).",
+  "forms": [
+   {
+    "da": "at gå i panik",
+    "en": "to panic"
+   },
+   {
+    "da": "jeg går i panik",
+    "en": "I panic"
+   },
+   {
+    "da": "jeg gik i panik",
+    "en": "I panicked"
+   },
+   {
+    "da": "jeg er gået i panik",
+    "en": "I have panicked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at blive bange",
+    "en": "to get scared"
+   },
+   {
+    "da": "at bekymre sig",
+    "en": "to worry"
+   },
+   {
+    "da": "nervøs",
+    "en": "nervous"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal ikke **gå i panik**, for vi har god tid.",
+   "en": "Don't panic, because we have plenty of time."
+  }
+ },
+ "at gå i seng": {
+  "file": "g.json",
+  "explanation": "\"At gå i seng\" means \"to go to bed\", the moment you lie down for the night. Falling asleep is something different: \"at falde i søvn\" (to fall asleep).",
+  "forms": [
+   {
+    "da": "at gå i seng",
+    "en": "to go to bed"
+   },
+   {
+    "da": "jeg går i seng",
+    "en": "I go to bed"
+   },
+   {
+    "da": "jeg gik i seng",
+    "en": "I went to bed"
+   },
+   {
+    "da": "jeg er gået i seng",
+    "en": "I have gone to bed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stå op",
+    "en": "to get up"
+   },
+   {
+    "da": "at sove",
+    "en": "to sleep"
+   },
+   {
+    "da": "at lægge sig",
+    "en": "to lie down"
+   },
+   {
+    "da": "at vågne",
+    "en": "to wake up"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene er trætte og skal **gå i seng**.",
+   "en": "The children are tired and have to go to bed."
+  }
+ },
+ "at gå i stykker": {
+  "file": "g.json",
+  "explanation": "\"At gå i stykker\" means \"to break\": \"Min telefon gik i stykker\" (My phone broke). It is for something that falls apart or stops working. To break it yourself, use \"at ødelægge\" (to ruin): \"Jeg ødelagde telefonen\" (I ruined the phone).",
+  "forms": [
+   {
+    "da": "at gå i stykker",
+    "en": "to break"
+   },
+   {
+    "da": "det går i stykker",
+    "en": "it breaks"
+   },
+   {
+    "da": "det gik i stykker",
+    "en": "it broke"
+   },
+   {
+    "da": "det er gået i stykker",
+    "en": "it has broken"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå itu",
+    "en": "to break in two"
+   },
+   {
+    "da": "at knække",
+    "en": "to snap"
+   },
+   {
+    "da": "at smadre",
+    "en": "to smash"
+   },
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   }
+  ],
+  "sentence": {
+   "da": "Den gamle cykel kan nemt **gå i stykker**.",
+   "en": "The old bike can easily break."
+  }
+ },
+ "at gå i stå": {
+  "file": "g.json",
+  "explanation": "\"At gå i stå\" means \"to come to a standstill\": to stop working or stop moving forward, for a machine or a process. It also describes a person whose mind suddenly goes blank: \"Jeg gik helt i stå\" (My mind went completely blank).",
+  "forms": [
+   {
+    "da": "at gå i stå",
+    "en": "to come to a standstill"
+   },
+   {
+    "da": "det går i stå",
+    "en": "it comes to a standstill"
+   },
+   {
+    "da": "det gik i stå",
+    "en": "it came to a standstill"
+   },
+   {
+    "da": "det er gået i stå",
+    "en": "it has come to a standstill"
+   }
+  ],
+  "related": [
+   {
+    "da": "at køre fast",
+    "en": "to get stuck"
+   },
+   {
+    "da": "at gå i baglås",
+    "en": "to deadlock"
+   },
+   {
+    "da": "at gå i gang",
+    "en": "to get going"
+   }
+  ],
+  "sentence": {
+   "da": "Arbejdet kan **gå i stå**, når pengene slipper op.",
+   "en": "The work can come to a standstill when the money runs out."
+  }
+ },
+ "at gå igennem": {
+  "file": "g.json",
+  "explanation": "\"At gå igennem\" means \"to go through\", passing from one side of a place to the other: \"Vi gik igennem skoven\" (We went through the forest). It also means \"to go over\" something, checking it step by step: \"Vi går opgaven igennem\" (We go over the task).",
+  "forms": [
+   {
+    "da": "at gå igennem",
+    "en": "to go through"
+   },
+   {
+    "da": "jeg går igennem",
+    "en": "I go through"
+   },
+   {
+    "da": "jeg gik igennem",
+    "en": "I went through"
+   },
+   {
+    "da": "jeg er gået igennem",
+    "en": "I have gone through"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gennemgå",
+    "en": "to review"
+   },
+   {
+    "da": "at komme igennem",
+    "en": "to get through"
+   },
+   {
+    "da": "en gennemgang",
+    "en": "a review"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **gå igennem** tunnelen til den anden side.",
+   "en": "We can go through the tunnel to the other side."
+  }
+ },
+ "at gå ind": {
+  "file": "g.json",
+  "explanation": "\"At gå ind\" means \"to go in\", walking into a place such as a room or a house. Use \"ind\" (in) for going in, and \"inde\" (inside) for being there: \"Han er inde i huset\" (He is inside the house).",
+  "forms": [
+   {
+    "da": "at gå ind",
+    "en": "to go in"
+   },
+   {
+    "da": "jeg går ind",
+    "en": "I go in"
+   },
+   {
+    "da": "jeg gik ind",
+    "en": "I went in"
+   },
+   {
+    "da": "jeg er gået ind",
+    "en": "I have gone in"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå ud",
+    "en": "to go out"
+   },
+   {
+    "da": "at komme ind",
+    "en": "to come in"
+   },
+   {
+    "da": "en indgang",
+    "en": "an entrance"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **gå ind** i huset nu.",
+   "en": "We have to go into the house now."
+  }
+ },
+ "at gå ind for": {
+  "file": "g.json",
+  "explanation": "\"At gå ind for\" means \"to be in favor of\", to back an idea, a proposal or a rule and want it to happen. Its opposite is \"at gå imod\" (to go against): \"Jeg går imod forslaget\" (I am against the proposal).",
+  "forms": [
+   {
+    "da": "at gå ind for",
+    "en": "to be in favor of"
+   },
+   {
+    "da": "jeg går ind for",
+    "en": "I am in favor of"
+   },
+   {
+    "da": "jeg gik ind for",
+    "en": "I was in favor of"
+   },
+   {
+    "da": "jeg er gået ind for",
+    "en": "I have been in favor of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "at tale for",
+    "en": "to argue for"
+   },
+   {
+    "da": "at forsvare",
+    "en": "to defend"
+   },
+   {
+    "da": "at kæmpe for",
+    "en": "to fight for"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **gå ind for** forslaget, hvis prisen er rimelig.",
+   "en": "I will support the proposal if the price is reasonable."
+  }
+ },
+ "at gå med til": {
+  "file": "g.json",
+  "explanation": "\"At gå med til\" means \"to agree to\", to say yes to a plan or a request, often after first being unsure: \"Jeg går med til forslaget\" (I agree to the proposal).",
+  "forms": [
+   {
+    "da": "at gå med til",
+    "en": "to agree to"
+   },
+   {
+    "da": "jeg går med til",
+    "en": "I agree to"
+   },
+   {
+    "da": "jeg gik med til",
+    "en": "I agreed to"
+   },
+   {
+    "da": "jeg er gået med til",
+    "en": "I have agreed to"
+   }
+  ],
+  "related": [
+   {
+    "da": "at acceptere",
+    "en": "to accept"
+   },
+   {
+    "da": "at indvillige",
+    "en": "to consent"
+   },
+   {
+    "da": "at afslå",
+    "en": "to decline"
+   },
+   {
+    "da": "at nægte",
+    "en": "to refuse"
+   }
+  ],
+  "sentence": {
+   "da": "Han ville ikke **gå med til** at sælge huset.",
+   "en": "He did not want to agree to sell the house."
+  }
+ },
+ "at gå ned": {
+  "file": "g.json",
+  "explanation": "\"At gå ned\" means \"to go down\", moving to a lower place, such as a basement or down a hill. It is also used for the sun: \"solen går ned\" means \"the sun sets\".",
+  "forms": [
+   {
+    "da": "at gå ned",
+    "en": "to go down"
+   },
+   {
+    "da": "jeg går ned",
+    "en": "I go down"
+   },
+   {
+    "da": "jeg gik ned",
+    "en": "I went down"
+   },
+   {
+    "da": "jeg er gået ned",
+    "en": "I have gone down"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå op",
+    "en": "to go up"
+   },
+   {
+    "da": "at komme ned",
+    "en": "to come down"
+   },
+   {
+    "da": "nede",
+    "en": "down below"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **gå ned** ad trappen.",
+   "en": "We have to walk down the stairs."
+  }
+ },
+ "at gå op": {
+  "file": "g.json",
+  "explanation": "\"At gå op\" means \"to go up\", moving to a higher place, such as an upper floor or up a hill. It is also used for the sun: \"solen går op\" means \"the sun rises\".",
+  "forms": [
+   {
+    "da": "at gå op",
+    "en": "to go up"
+   },
+   {
+    "da": "jeg går op",
+    "en": "I go up"
+   },
+   {
+    "da": "jeg gik op",
+    "en": "I went up"
+   },
+   {
+    "da": "jeg er gået op",
+    "en": "I have gone up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå ned",
+    "en": "to go down"
+   },
+   {
+    "da": "at komme op",
+    "en": "to come up"
+   },
+   {
+    "da": "oppe",
+    "en": "up above"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **gå op** ad trappen.",
+   "en": "We have to walk up the stairs."
+  }
+ },
+ "at gå op for": {
+  "file": "g.json",
+  "explanation": "\"At gå op for\" means \"to dawn on\", for the moment when someone suddenly realizes something. The person who realizes comes after \"for\": \"Det gik op for mig, at jeg tog fejl\" (It dawned on me that I was wrong).",
+  "forms": [
+   {
+    "da": "at gå op for",
+    "en": "to dawn on"
+   },
+   {
+    "da": "det går op for mig",
+    "en": "it dawns on me"
+   },
+   {
+    "da": "det gik op for mig",
+    "en": "it dawned on me"
+   },
+   {
+    "da": "det er gået op for mig",
+    "en": "it has dawned on me"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forstå",
+    "en": "to understand"
+   },
+   {
+    "da": "at opdage",
+    "en": "to discover"
+   },
+   {
+    "da": "at indse",
+    "en": "to realize"
+   },
+   {
+    "da": "at fatte",
+    "en": "to grasp"
+   }
+  ],
+  "sentence": {
+   "da": "Det vil snart **gå op for** dig, hvor svært det er.",
+   "en": "It will soon dawn on you how hard it is."
+  }
+ },
+ "at gå over åen efter vand": {
+  "file": "g.json",
+  "explanation": "\"At gå over åen efter vand\" means \"to make things unnecessarily complicated\". The picture is crossing a stream to fetch water when there is water close by.",
+  "forms": [
+   {
+    "da": "Du går over åen efter vand",
+    "en": "You are making things unnecessarily complicated"
+   },
+   {
+    "da": "Lad os ikke gå over åen efter vand",
+    "en": "Let us not complicate things"
+   },
+   {
+    "da": "Hvorfor gå over åen efter vand?",
+    "en": "Why take the long way round?"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gøre en myg til en elefant",
+    "en": "to make a mountain out of a molehill"
+   },
+   {
+    "da": "at tage en omvej",
+    "en": "to take a detour"
+   },
+   {
+    "da": "at holde det enkelt",
+    "en": "to keep it simple"
+   }
+  ],
+  "sentence": {
+   "da": "Det er dumt at **gå over åen efter vand**, når løsningen er nem.",
+   "en": "It is silly to make things unnecessarily complicated when the solution is easy."
+  }
+ },
+ "at gå på café": {
+  "file": "g.json",
+  "explanation": "\"At gå på café\" means \"to go to a café\". Danish says \"på café\" (literally, \"on café\") with no \"en\" (a) in front of \"café\".",
+  "forms": [
+   {
+    "da": "at gå på café",
+    "en": "to go to a café"
+   },
+   {
+    "da": "jeg går på café",
+    "en": "I go to a café"
+   },
+   {
+    "da": "jeg gik på café",
+    "en": "I went to a café"
+   },
+   {
+    "da": "jeg er gået på café",
+    "en": "I have gone to a café"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå på restaurant",
+    "en": "to go to a restaurant"
+   },
+   {
+    "da": "at gå på bar",
+    "en": "to go to a bar"
+   },
+   {
+    "da": "at gå i byen",
+    "en": "to go out on the town"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **gå på café** i dag.",
+   "en": "We want to go to a café today."
+  }
+ },
+ "at gå på nerverne": {
+  "file": "g.json",
+  "explanation": "\"At gå på nerverne\" means \"to get on someone's nerves\": to annoy someone a lot, often with a noise or a habit that keeps going. To name the person who is annoyed, put that person right after \"går\" (goes): \"Larmen går mig på nerverne\" (The noise gets on my nerves).",
+  "forms": [
+   {
+    "da": "at gå på nerverne",
+    "en": "to get on someone's nerves"
+   },
+   {
+    "da": "jeg går ham på nerverne",
+    "en": "I get on his nerves"
+   },
+   {
+    "da": "jeg gik ham på nerverne",
+    "en": "I got on his nerves"
+   },
+   {
+    "da": "jeg er gået ham på nerverne",
+    "en": "I have gotten on his nerves"
+   }
+  ],
+  "related": [
+   {
+    "da": "at irritere",
+    "en": "to irritate"
+   },
+   {
+    "da": "at plage",
+    "en": "to pester"
+   },
+   {
+    "da": "at genere",
+    "en": "to bother"
+   }
+  ],
+  "sentence": {
+   "da": "Lyden fra en dryppende vandhane kan **gå på nerverne**.",
+   "en": "The sound of a dripping faucet can get on your nerves."
+  }
+ },
+ "at gå på pension": {
+  "file": "g.json",
+  "explanation": "\"At gå på pension\" means \"to retire\", to stop working for good, usually because of age.",
+  "forms": [
+   {
+    "da": "at gå på pension",
+    "en": "to retire"
+   },
+   {
+    "da": "jeg går på pension",
+    "en": "I retire"
+   },
+   {
+    "da": "jeg gik på pension",
+    "en": "I retired"
+   },
+   {
+    "da": "jeg er gået på pension",
+    "en": "I have retired"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pensionist",
+    "en": "a retiree"
+   },
+   {
+    "da": "en folkepension",
+    "en": "a state pension"
+   },
+   {
+    "da": "at fratræde",
+    "en": "to leave a position"
+   },
+   {
+    "da": "at opsige",
+    "en": "to give notice"
+   }
+  ],
+  "sentence": {
+   "da": "Min far vil **gå på pension**, når han bliver 67.",
+   "en": "My father will retire when he turns 67."
+  }
+ },
+ "at gå rundt": {
+  "file": "g.json",
+  "explanation": "\"At gå rundt\" means \"to walk around\", with no fixed goal. To name the place you walk around, add \"om\" (around) before the place: \"Vi gik rundt om søen\" (We walked around the lake).",
+  "forms": [
+   {
+    "da": "at gå rundt",
+    "en": "to walk around"
+   },
+   {
+    "da": "jeg går rundt",
+    "en": "I walk around"
+   },
+   {
+    "da": "jeg gik rundt",
+    "en": "I walked around"
+   },
+   {
+    "da": "jeg har gået rundt",
+    "en": "I have walked around"
+   }
+  ],
+  "related": [
+   {
+    "da": "at slentre",
+    "en": "to stroll"
+   },
+   {
+    "da": "at spadsere",
+    "en": "to walk / stroll"
+   },
+   {
+    "da": "at vandre",
+    "en": "to hike"
+   },
+   {
+    "da": "at løbe rundt",
+    "en": "to run around"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **gå rundt** og se på butikkerne.",
+   "en": "I would like to walk around and look at the stores."
+  }
+ },
+ "at gå som katten om den varme grød": {
+  "file": "g.json",
+  "explanation": "\"At gå som katten om den varme grød\" means \"to beat around the bush\": to stay away from the main subject. The picture is a cat circling hot porridge without daring to eat it.",
+  "forms": [
+   {
+    "da": "Du går som katten om den varme grød",
+    "en": "You are beating around the bush"
+   },
+   {
+    "da": "Gå ikke som katten om den varme grød",
+    "en": "Do not beat around the bush"
+   },
+   {
+    "da": "Hun gik som katten om den varme grød",
+    "en": "She beat around the bush"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tale udenom",
+    "en": "to talk around it"
+   },
+   {
+    "da": "at komme til sagen",
+    "en": "to get to the point"
+   },
+   {
+    "da": "at sige det ligeud",
+    "en": "to say it straight"
+   },
+   {
+    "da": "at omgå",
+    "en": "to avoid"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **gå som katten om den varme grød** i stedet for at svare.",
+   "en": "He wants to beat around the bush instead of answering."
+  }
+ },
+ "at gå som smurt": {
+  "file": "g.json",
+  "explanation": "\"At gå som smurt\" means \"to go smoothly\", used for anything that runs without trouble, such as plans, trips and tasks. \"Smurt\" comes from \"at smøre\" (to grease), so it is like a machine that runs well because it is oiled.",
+  "forms": [
+   {
+    "da": "at gå som smurt",
+    "en": "to go smoothly"
+   },
+   {
+    "da": "det går som smurt",
+    "en": "it goes smoothly"
+   },
+   {
+    "da": "det gik som smurt",
+    "en": "it went smoothly"
+   },
+   {
+    "da": "det er gået som smurt",
+    "en": "it has gone smoothly"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå galt",
+    "en": "to go wrong"
+   },
+   {
+    "da": "at lykkes",
+    "en": "to succeed"
+   },
+   {
+    "da": "problemfri",
+    "en": "problem-free"
+   }
+  ],
+  "sentence": {
+   "da": "Hvis vi forbereder os godt, vil prøven **gå som smurt**.",
+   "en": "If we prepare well, the test will go smoothly."
+  }
+ },
+ "at gå tabt": {
+  "file": "g.json",
+  "explanation": "\"At gå tabt\" means \"to be lost\", for something that disappears and is not found again, such as a file, a letter or a chance. If you are the one who loses it, use \"at miste\" (to lose): \"Jeg mistede min nøgle\" (I lost my key).",
+  "forms": [
+   {
+    "da": "at gå tabt",
+    "en": "to be lost"
+   },
+   {
+    "da": "det går tabt",
+    "en": "it is lost"
+   },
+   {
+    "da": "det gik tabt",
+    "en": "it was lost"
+   },
+   {
+    "da": "det er gået tabt",
+    "en": "it has been lost"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forsvinde",
+    "en": "to disappear"
+   },
+   {
+    "da": "at forspilde",
+    "en": "to waste"
+   },
+   {
+    "da": "et tab",
+    "en": "a loss"
+   }
+  ],
+  "sentence": {
+   "da": "Hvis computeren går i stykker, kan data **gå tabt**.",
+   "en": "If the computer breaks, data can be lost."
+  }
+ },
+ "at gå til": {
+  "file": "g.json",
+  "explanation": "\"At gå til\" means \"to go to (regularly)\", for a hobby or class you attend every week: \"Jeg går til svømning\" (I go to swimming lessons). It is also used in the question \"Hvordan gik det til?\" (How did that happen?).",
+  "forms": [
+   {
+    "da": "at gå til",
+    "en": "to go to (regularly)"
+   },
+   {
+    "da": "jeg går til",
+    "en": "I go to (regularly)"
+   },
+   {
+    "da": "jeg gik til",
+    "en": "I went to (regularly)"
+   },
+   {
+    "da": "jeg har gået til",
+    "en": "I have gone to (regularly)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå på",
+    "en": "to attend"
+   },
+   {
+    "da": "at dyrke",
+    "en": "to do (a sport)"
+   },
+   {
+    "da": "en træning",
+    "en": "a practice session"
+   },
+   {
+    "da": "et hold",
+    "en": "a team"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil gerne **gå til** fodbold, ligesom sin storebror.",
+   "en": "He would like to play soccer, just like his big brother."
+  }
+ },
+ "at gå til eksamen": {
+  "file": "g.json",
+  "explanation": "\"At gå til eksamen\" means \"to take an exam\", sitting a test at school or university. To study for it, say \"at læse til eksamen\" (to study for an exam): \"Jeg læser til eksamen\" (I am studying for the exam).",
+  "forms": [
+   {
+    "da": "at gå til eksamen",
+    "en": "to take an exam"
+   },
+   {
+    "da": "jeg går til eksamen",
+    "en": "I take an exam"
+   },
+   {
+    "da": "jeg gik til eksamen",
+    "en": "I took an exam"
+   },
+   {
+    "da": "jeg er gået til eksamen",
+    "en": "I have taken an exam"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bestå",
+    "en": "to pass"
+   },
+   {
+    "da": "at dumpe",
+    "en": "to fail"
+   },
+   {
+    "da": "en prøve",
+    "en": "a test"
+   },
+   {
+    "da": "et eksamensbevis",
+    "en": "an exam certificate"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har læst meget, og nu skal jeg **gå til eksamen**.",
+   "en": "I have studied a lot, and now I have to take the exam."
+  }
+ },
+ "at gå tilbage": {
+  "file": "g.json",
+  "explanation": "\"At gå tilbage\" means \"to go back\", returning to where you came from. This one is for going on foot. By car, say \"at køre tilbage\" (to drive back).",
+  "forms": [
+   {
+    "da": "at gå tilbage",
+    "en": "to go back"
+   },
+   {
+    "da": "jeg går tilbage",
+    "en": "I go back"
+   },
+   {
+    "da": "jeg gik tilbage",
+    "en": "I went back"
+   },
+   {
+    "da": "jeg er gået tilbage",
+    "en": "I have gone back"
+   }
+  ],
+  "related": [
+   {
+    "da": "at komme tilbage",
+    "en": "to come back"
+   },
+   {
+    "da": "at gå frem",
+    "en": "to go forward"
+   },
+   {
+    "da": "at vende tilbage",
+    "en": "to return"
+   }
+  ],
+  "sentence": {
+   "da": "Nu skal vi **gå tilbage** til stationen.",
+   "en": "Now we have to walk back to the station."
+  }
+ },
+ "at gå ud": {
+  "file": "g.json",
+  "explanation": "\"At gå ud\" means \"to go out\", either to leave a place such as the house, or to go out for the evening, for example to a bar or restaurant.",
+  "forms": [
+   {
+    "da": "at gå ud",
+    "en": "to go out"
+   },
+   {
+    "da": "jeg går ud",
+    "en": "I go out"
+   },
+   {
+    "da": "jeg gik ud",
+    "en": "I went out"
+   },
+   {
+    "da": "jeg er gået ud",
+    "en": "I have gone out"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå ind",
+    "en": "to go in"
+   },
+   {
+    "da": "at komme ud",
+    "en": "to come out"
+   },
+   {
+    "da": "en udgang",
+    "en": "an exit"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **gå ud** i haven nu.",
+   "en": "We want to go out into the garden now."
+  }
+ },
+ "at gå ud fra": {
+  "file": "g.json",
+  "explanation": "\"At gå ud fra\" means \"to assume\", taking something as true without checking.",
+  "forms": [
+   {
+    "da": "at gå ud fra",
+    "en": "to assume"
+   },
+   {
+    "da": "jeg går ud fra",
+    "en": "I assume"
+   },
+   {
+    "da": "jeg gik ud fra",
+    "en": "I assumed"
+   },
+   {
+    "da": "jeg er gået ud fra",
+    "en": "I have assumed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at antage",
+    "en": "to suppose"
+   },
+   {
+    "da": "at formode",
+    "en": "to presume"
+   },
+   {
+    "da": "at tro",
+    "en": "to believe"
+   },
+   {
+    "da": "at regne med",
+    "en": "to count on"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **gå ud fra**, at han kommer.",
+   "en": "We have to assume that he is coming."
+  }
+ },
+ "at gå ud med": {
+  "file": "g.json",
+  "explanation": "\"At gå ud med\" means \"to go out with\", as in dating someone: \"Hun går ud med Peter\" (She is going out with Peter). It is also used for walking a dog: \"Jeg går ud med hunden\" (I am taking the dog out).",
+  "forms": [
+   {
+    "da": "at gå ud med",
+    "en": "to go out with"
+   },
+   {
+    "da": "jeg går ud med",
+    "en": "I go out with"
+   },
+   {
+    "da": "jeg gik ud med",
+    "en": "I went out with"
+   },
+   {
+    "da": "jeg er gået ud med",
+    "en": "I have gone out with"
+   }
+  ],
+  "related": [
+   {
+    "da": "at date",
+    "en": "to date"
+   },
+   {
+    "da": "en date",
+    "en": "a date"
+   },
+   {
+    "da": "en kæreste",
+    "en": "a boyfriend / girlfriend"
+   },
+   {
+    "da": "at være kærester",
+    "en": "to be dating"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil gerne **gå ud med** hende, fordi han kan lide hende.",
+   "en": "He would like to go out with her because he likes her."
+  }
+ },
+ "at gå videre": {
+  "file": "g.json",
+  "explanation": "\"At gå videre\" means \"to move on\", going on to the next thing. It works for life too: \"Hun er gået videre\" (She has moved on).",
+  "forms": [
+   {
+    "da": "at gå videre",
+    "en": "to move on"
+   },
+   {
+    "da": "jeg går videre",
+    "en": "I move on"
+   },
+   {
+    "da": "jeg gik videre",
+    "en": "I moved on"
+   },
+   {
+    "da": "jeg er gået videre",
+    "en": "I have moved on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at fortsætte",
+    "en": "to continue"
+   },
+   {
+    "da": "at stoppe",
+    "en": "to stop"
+   },
+   {
+    "da": "at komme videre",
+    "en": "to get further"
+   },
+   {
+    "da": "at gå tilbage",
+    "en": "to go back"
+   }
+  ],
+  "sentence": {
+   "da": "Efter pausen skal vi **gå videre** til næste emne.",
+   "en": "After the break we move on to the next topic."
+  }
+ },
+ "at gå væk": {
+  "file": "g.json",
+  "explanation": "\"At gå væk\" means \"to go away\" or \"to walk off\", leaving a place. As a command, \"Gå væk!\" means \"Go away!\", a blunt order like \"Get lost!\".",
+  "forms": [
+   {
+    "da": "at gå væk",
+    "en": "to go away"
+   },
+   {
+    "da": "jeg går væk",
+    "en": "I go away"
+   },
+   {
+    "da": "jeg gik væk",
+    "en": "I went away"
+   },
+   {
+    "da": "jeg er gået væk",
+    "en": "I have gone away"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gå tilbage",
+    "en": "to go back"
+   },
+   {
+    "da": "at være væk",
+    "en": "to be gone"
+   },
+   {
+    "da": "at forsvinde",
+    "en": "to disappear"
+   }
+  ],
+  "sentence": {
+   "da": "Katten vil **gå væk** fra hunden.",
+   "en": "The cat wants to go away from the dog."
+  }
+ },
+ "at gætte": {
+  "file": "g.json",
+  "explanation": "\"At gætte\" means \"to guess\", giving an answer without knowing it for sure. To name your guess, add \"på\" (on): \"Jeg gætter på Peter\" (I am guessing Peter). \"Gæt hvad!\" means \"Guess what!\".",
+  "forms": [
+   {
+    "da": "at gætte",
+    "en": "to guess"
+   },
+   {
+    "da": "jeg gætter",
+    "en": "I guess"
+   },
+   {
+    "da": "jeg gættede",
+    "en": "I guessed"
+   },
+   {
+    "da": "jeg har gættet",
+    "en": "I have guessed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tro",
+    "en": "to think / believe"
+   },
+   {
+    "da": "at vide",
+    "en": "to know"
+   },
+   {
+    "da": "at antage",
+    "en": "to assume"
+   },
+   {
+    "da": "at formode",
+    "en": "to suppose"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **gætte** min alder?",
+   "en": "Can you guess my age?"
+  }
+ },
+ "at gø": {
+  "file": "g.json",
+  "explanation": "\"At gø\" means \"to bark\", the sound a dog makes. The present form \"gør\" is spelled exactly like \"gør\" from \"at gøre\" (to do). You can tell which verb is meant from the context of the sentence.",
+  "forms": [
+   {
+    "da": "at gø",
+    "en": "to bark"
+   },
+   {
+    "da": "hunden gør",
+    "en": "the dog barks"
+   },
+   {
+    "da": "hunden gøede",
+    "en": "the dog barked"
+   },
+   {
+    "da": "hunden har gøet",
+    "en": "the dog has barked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at knurre",
+    "en": "to growl"
+   },
+   {
+    "da": "at hyle",
+    "en": "to howl"
+   },
+   {
+    "da": "at mjave",
+    "en": "to meow"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden må ikke **gø** om natten.",
+   "en": "The dog is not allowed to bark at night."
+  }
+ },
+ "at gøre": {
+  "file": "g.json",
+  "explanation": "\"At gøre\" means \"to do\". It can stand in for an action you do not want to repeat: \"Jeg læser, og det gør hun også\" (I am reading, and she does too). For making things, such as food, Danish uses \"at lave\" (to make): \"at lave mad\" (to cook).",
+  "forms": [
+   {
+    "da": "at gøre",
+    "en": "to do"
+   },
+   {
+    "da": "jeg gør",
+    "en": "I do"
+   },
+   {
+    "da": "jeg gjorde",
+    "en": "I did"
+   },
+   {
+    "da": "jeg har gjort",
+    "en": "I have done"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gøre rent",
+    "en": "to clean"
+   },
+   {
+    "da": "at gøre ondt",
+    "en": "to hurt"
+   },
+   {
+    "da": "at udføre",
+    "en": "to carry out"
+   }
+  ],
+  "sentence": {
+   "da": "Hvad vil du **gøre** i dag?",
+   "en": "What do you want to do today?"
+  }
+ },
+ "at gøre det forbi": {
+  "file": "g.json",
+  "explanation": "\"At gøre det forbi\" means \"to end it (a relationship)\". To name the person you ended it with, add \"med\" (with): \"Hun gjorde det forbi med ham\" (She ended it with him). Another way to say it is \"at slå op\" (to break up).",
+  "forms": [
+   {
+    "da": "at gøre det forbi",
+    "en": "to end it (a relationship)"
+   },
+   {
+    "da": "jeg gør det forbi",
+    "en": "I end it"
+   },
+   {
+    "da": "jeg gjorde det forbi",
+    "en": "I ended it"
+   },
+   {
+    "da": "jeg har gjort det forbi",
+    "en": "I have ended it"
+   }
+  ],
+  "related": [
+   {
+    "da": "et brud",
+    "en": "a breakup"
+   },
+   {
+    "da": "at blive droppet",
+    "en": "to get dumped"
+   },
+   {
+    "da": "at gå fra hinanden",
+    "en": "to split up"
+   }
+  ],
+  "sentence": {
+   "da": "Hun elsker ham ikke mere og vil **gøre det forbi**.",
+   "en": "She no longer loves him and wants to end it."
+  }
+ },
+ "at gøre en dyd af nødvendigheden": {
+  "file": "g.json",
+  "explanation": "\"At gøre en dyd af nødvendigheden\" means \"to make a virtue of necessity\": to do what you must do anyway and present it as a good choice of your own. People say it when someone has no choice but acts proud of it.",
+  "forms": [
+   {
+    "da": "Han gør en dyd af nødvendigheden",
+    "en": "He makes a virtue of necessity"
+   },
+   {
+    "da": "Hun gjorde en dyd af nødvendigheden",
+    "en": "She made a virtue of necessity"
+   },
+   {
+    "da": "Vi må gøre en dyd af nødvendigheden",
+    "en": "We have to make a virtue of necessity"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gøre det bedste ud af det",
+    "en": "to make the best of it"
+   },
+   {
+    "da": "at gøre gode miner til slet spil",
+    "en": "to put on a brave face"
+   },
+   {
+    "da": "at bide i det sure æble",
+    "en": "to bite the bullet"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har ikke råd til ferie og må **gøre en dyd af nødvendigheden**.",
+   "en": "We cannot afford a vacation and must make a virtue of necessity."
+  }
+ },
+ "at gøre en forskel": {
+  "file": "g.json",
+  "explanation": "\"At gøre en forskel\" means \"to make a difference\". To describe the size of the difference, put a word such as \"stor\" (big) before \"forskel\" (difference): \"at gøre en stor forskel\" (to make a big difference).",
+  "forms": [
+   {
+    "da": "at gøre en forskel",
+    "en": "to make a difference"
+   },
+   {
+    "da": "jeg gør en forskel",
+    "en": "I make a difference"
+   },
+   {
+    "da": "jeg gjorde en forskel",
+    "en": "I made a difference"
+   },
+   {
+    "da": "jeg har gjort en forskel",
+    "en": "I have made a difference"
+   }
+  ],
+  "related": [
+   {
+    "da": "at betyde noget",
+    "en": "to matter"
+   },
+   {
+    "da": "at hjælpe",
+    "en": "to help"
+   },
+   {
+    "da": "at have betydning",
+    "en": "to be important"
+   },
+   {
+    "da": "at ændre",
+    "en": "to change"
+   }
+  ],
+  "sentence": {
+   "da": "Et smil kan **gøre en forskel** for en ensom person.",
+   "en": "A smile can make a difference for a lonely person."
+  }
+ },
+ "at gøre færdig": {
+  "file": "g.json",
+  "explanation": "\"At gøre færdig\" means \"to finish\" something: \"Jeg gør opgaven færdig\" (I am finishing the assignment). To say you are done yourself, use \"at blive færdig\" (to be done): \"Jeg bliver færdig klokken fem\" (I will be done at five).",
+  "forms": [
+   {
+    "da": "at gøre færdig",
+    "en": "to finish"
+   },
+   {
+    "da": "jeg gør færdig",
+    "en": "I finish"
+   },
+   {
+    "da": "jeg gjorde færdig",
+    "en": "I finished"
+   },
+   {
+    "da": "jeg har gjort færdig",
+    "en": "I have finished"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afslutte",
+    "en": "to wrap up"
+   },
+   {
+    "da": "at fuldføre",
+    "en": "to complete"
+   },
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at gøre klar",
+    "en": "to get ready"
+   }
+  ],
+  "sentence": {
+   "da": "Lad mig lige **gøre færdig**, og så kommer jeg.",
+   "en": "Let me just finish, and then I will come."
+  }
+ },
+ "at gøre grin med": {
+  "file": "g.json",
+  "explanation": "\"At gøre grin med\" means \"to make fun of\" someone: \"Hun gør grin med mig\" (She makes fun of me).",
+  "forms": [
+   {
+    "da": "at gøre grin med",
+    "en": "to make fun of"
+   },
+   {
+    "da": "jeg gør grin med",
+    "en": "I make fun of"
+   },
+   {
+    "da": "jeg gjorde grin med",
+    "en": "I made fun of"
+   },
+   {
+    "da": "jeg har gjort grin med",
+    "en": "I have made fun of"
+   }
+  ],
+  "related": [
+   {
+    "da": "at drille",
+    "en": "to tease"
+   },
+   {
+    "da": "at håne",
+    "en": "to mock"
+   },
+   {
+    "da": "at le ad",
+    "en": "to laugh at"
+   },
+   {
+    "da": "at latterliggøre",
+    "en": "to ridicule"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal ikke **gøre grin med** andre.",
+   "en": "You should not make fun of others."
+  }
+ },
+ "at gøre indtryk": {
+  "file": "g.json",
+  "explanation": "\"At gøre indtryk\" means \"to make an impression\", to affect someone so strongly that the person remembers the moment. To name the person who was affected, add \"på\" (on) before that person: \"Filmen gjorde stort indtryk på mig\" (The film made a big impression on me).",
+  "forms": [
+   {
+    "da": "at gøre indtryk",
+    "en": "to make an impression"
+   },
+   {
+    "da": "jeg gør indtryk",
+    "en": "I make an impression"
+   },
+   {
+    "da": "jeg gjorde indtryk",
+    "en": "I made an impression"
+   },
+   {
+    "da": "jeg har gjort indtryk",
+    "en": "I have made an impression"
+   }
+  ],
+  "related": [
+   {
+    "da": "at imponere",
+    "en": "to impress"
+   },
+   {
+    "da": "at præge",
+    "en": "to leave a mark on"
+   },
+   {
+    "da": "at berøre",
+    "en": "to move emotionally"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil gerne **gøre indtryk** på sine nye kolleger.",
+   "en": "He wants to make an impression on his new colleagues."
+  }
+ },
+ "at gøre klar": {
+  "file": "g.json",
+  "explanation": "\"At gøre klar\" means \"to get something ready\": \"Jeg gør maden klar\" (I am getting the food ready). To get yourself ready, add \"mig\" (myself): \"Jeg gør mig klar\" (I am getting myself ready).",
+  "forms": [
+   {
+    "da": "at gøre klar",
+    "en": "to get ready"
+   },
+   {
+    "da": "jeg gør klar",
+    "en": "I get ready"
+   },
+   {
+    "da": "jeg gjorde klar",
+    "en": "I got ready"
+   },
+   {
+    "da": "jeg har gjort klar",
+    "en": "I have gotten ready"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forberede",
+    "en": "to prepare"
+   },
+   {
+    "da": "parat",
+    "en": "prepared"
+   },
+   {
+    "da": "at gøre færdig",
+    "en": "to finish"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **gøre klar** til festen.",
+   "en": "I have to get ready for the party."
+  }
+ },
+ "at gøre noget ved": {
+  "file": "g.json",
+  "explanation": "\"At gøre noget ved\" means \"to do something about\" a problem. As a command, \"Gør noget!\" means \"Do something!\".",
+  "forms": [
+   {
+    "da": "at gøre noget ved",
+    "en": "to do something about"
+   },
+   {
+    "da": "jeg gør noget ved",
+    "en": "I do something about"
+   },
+   {
+    "da": "jeg gjorde noget ved",
+    "en": "I did something about"
+   },
+   {
+    "da": "jeg har gjort noget ved",
+    "en": "I have done something about"
+   }
+  ],
+  "related": [
+   {
+    "da": "at løse",
+    "en": "to solve"
+   },
+   {
+    "da": "at handle",
+    "en": "to take action"
+   },
+   {
+    "da": "at ordne",
+    "en": "to sort out"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **gøre noget ved** det nu.",
+   "en": "We have to do something about it now."
+  }
+ }
+}

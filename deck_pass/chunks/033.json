@@ -1,0 +1,4066 @@
+{
+ "individuel": {
+  "file": "i.json",
+  "explanation": "\"Individuel\" means \"individual\", made for or about one person instead of a group. A person seen on their own is \"et individ\" (an individual).",
+  "forms": [
+   {
+    "da": "individuel træning",
+    "en": "individual training"
+   },
+   {
+    "da": "et individuelt valg",
+    "en": "an individual choice"
+   },
+   {
+    "da": "individuelle behov",
+    "en": "individual needs"
+   }
+  ],
+  "related": [
+   {
+    "da": "personlig",
+    "en": "personal"
+   },
+   {
+    "da": "særlig",
+    "en": "special"
+   },
+   {
+    "da": "enkelt",
+    "en": "single"
+   },
+   {
+    "da": "fælles",
+    "en": "shared"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren laver en **individuel** plan til hver elev.",
+   "en": "The teacher makes an individual plan for each student."
+  }
+ },
+ "indlysende": {
+  "file": "i.json",
+  "explanation": "\"Indlysende\" means \"obvious\", so clear that no explanation is needed. The opposite is \"uklar\" (unclear).",
+  "forms": [
+   {
+    "da": "et indlysende svar",
+    "en": "an obvious answer"
+   },
+   {
+    "da": "en indlysende fejl",
+    "en": "an obvious mistake"
+   },
+   {
+    "da": "indlysende grunde",
+    "en": "obvious reasons"
+   }
+  ],
+  "related": [
+   {
+    "da": "åbenlys",
+    "en": "evident"
+   },
+   {
+    "da": "oplagt",
+    "en": "plain to see"
+   },
+   {
+    "da": "selvfølgelig",
+    "en": "of course"
+   },
+   {
+    "da": "tvivlsom",
+    "en": "doubtful"
+   }
+  ],
+  "sentence": {
+   "da": "Svaret er **indlysende**, når man kigger på tallene.",
+   "en": "The answer is obvious when you look at the numbers."
+  }
+ },
+ "indre": {
+  "file": "i.json",
+  "explanation": "\"Indre\" means \"inner\", for what is on the inside: \"den indre by\" (the inner city). It is also used for feelings: \"indre uro\" (inner unrest).",
+  "forms": [
+   {
+    "da": "en indre stemme",
+    "en": "an inner voice"
+   },
+   {
+    "da": "et indre rum",
+    "en": "an inner room"
+   },
+   {
+    "da": "indre værdier",
+    "en": "inner values"
+   }
+  ],
+  "related": [
+   {
+    "da": "ydre",
+    "en": "outer"
+   },
+   {
+    "da": "inde",
+    "en": "inside"
+   },
+   {
+    "da": "inderst",
+    "en": "innermost"
+   },
+   {
+    "da": "indvendig",
+    "en": "on the inside"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg finder **indre** ro i naturen.",
+   "en": "I find inner peace in nature."
+  }
+ },
+ "indsigt": {
+  "file": "i.json",
+  "explanation": "\"En indsigt\" means \"insight\", a deeper grasp of something. It is often used with \"i\" (in): \"Hun har god indsigt i økonomi\" (She has good insight into economics).",
+  "forms": [
+   {
+    "da": "en indsigt",
+    "en": "an insight"
+   },
+   {
+    "da": "indsigten",
+    "en": "the insight"
+   },
+   {
+    "da": "indsigter",
+    "en": "insights"
+   },
+   {
+    "da": "indsigterne",
+    "en": "the insights"
+   }
+  ],
+  "related": [
+   {
+    "da": "forståelse",
+    "en": "understanding"
+   },
+   {
+    "da": "viden",
+    "en": "knowledge"
+   },
+   {
+    "da": "et indblik",
+    "en": "a glimpse"
+   },
+   {
+    "da": "et overblik",
+    "en": "an overview"
+   }
+  ],
+  "sentence": {
+   "da": "Bogen giver os **indsigt** i, hvordan hjernen virker.",
+   "en": "The book gives us insight into how the brain works."
+  }
+ },
+ "indtil": {
+  "file": "i.json",
+  "explanation": "\"Indtil\" means \"until\". It works with a time: \"indtil fredag\" (until Friday). It also works with a whole sentence: \"Bliv, indtil du er rask\" (Stay until you are well). \"Indtil videre\" means \"for now\".",
+  "forms": [
+   {
+    "da": "indtil i morgen",
+    "en": "until tomorrow"
+   },
+   {
+    "da": "indtil klokken fem",
+    "en": "until five o'clock"
+   },
+   {
+    "da": "indtil videre",
+    "en": "for now"
+   }
+  ],
+  "related": [
+   {
+    "da": "til",
+    "en": "to / until"
+   },
+   {
+    "da": "inden",
+    "en": "before"
+   },
+   {
+    "da": "indtil nu",
+    "en": "until now"
+   }
+  ],
+  "sentence": {
+   "da": "Vi venter **indtil** klokken seks.",
+   "en": "We wait until six o'clock."
+  }
+ },
+ "indtil nu": {
+  "file": "i.json",
+  "explanation": "\"Indtil nu\" means \"until now\" and looks back at how things have been. To look ahead, use \"fra nu af\" (from now on).",
+  "forms": [
+   {
+    "da": "Indtil nu har det været godt.",
+    "en": "Until now it has been good."
+   },
+   {
+    "da": "Indtil nu har jeg ikke set filmen.",
+    "en": "Until now I have not seen the film."
+   },
+   {
+    "da": "Indtil nu er vi ikke kommet for sent.",
+    "en": "Until now we haven't been late."
+   }
+  ],
+  "related": [
+   {
+    "da": "hidtil",
+    "en": "so far"
+   },
+   {
+    "da": "indtil da",
+    "en": "until then"
+   },
+   {
+    "da": "endnu ikke",
+    "en": "not yet"
+   },
+   {
+    "da": "indtil videre",
+    "en": "for now"
+   }
+  ],
+  "sentence": {
+   "da": "Det har været en god dag **indtil nu**.",
+   "en": "It has been a good day until now."
+  }
+ },
+ "indtil videre": {
+  "file": "i.json",
+  "explanation": "\"Indtil videre\" means \"for now\" or \"so far\", until something changes. It means \"for now\" when you describe the coming days and \"so far\" when you describe the days up to today: \"Det går godt indtil videre\" (It is going well so far).",
+  "forms": [
+   {
+    "da": "Det går godt indtil videre.",
+    "en": "It is going well so far."
+   },
+   {
+    "da": "Vi bliver her indtil videre.",
+    "en": "We are staying here for now."
+   },
+   {
+    "da": "Indtil videre er alt fint.",
+    "en": "So far everything is fine."
+   }
+  ],
+  "related": [
+   {
+    "da": "foreløbig",
+    "en": "for the time being"
+   },
+   {
+    "da": "midlertidig",
+    "en": "temporary"
+   },
+   {
+    "da": "endnu",
+    "en": "yet"
+   },
+   {
+    "da": "hidtil",
+    "en": "up to now"
+   }
+  ],
+  "sentence": {
+   "da": "Vi bor i en lille lejlighed **indtil videre**.",
+   "en": "We live in a small apartment for now."
+  }
+ },
+ "indviklet": {
+  "file": "i.json",
+  "explanation": "\"Indviklet\" means \"complicated\", with so many parts or steps that it is hard to follow. It comes from \"at indvikle\" (to wrap up or tangle), so something \"indviklet\" is tangled.",
+  "forms": [
+   {
+    "da": "en indviklet historie",
+    "en": "a complicated story"
+   },
+   {
+    "da": "et indviklet system",
+    "en": "a complicated system"
+   },
+   {
+    "da": "indviklede regler",
+    "en": "complicated rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "kompliceret",
+    "en": "complex"
+   },
+   {
+    "da": "enkel",
+    "en": "simple"
+   },
+   {
+    "da": "nem",
+    "en": "easy"
+   },
+   {
+    "da": "forvirrende",
+    "en": "confusing"
+   }
+  ],
+  "sentence": {
+   "da": "Spillet er **indviklet** og svært at lære.",
+   "en": "The game is complicated and hard to learn."
+  }
+ },
+ "ineffektiv": {
+  "file": "i.json",
+  "explanation": "\"Ineffektiv\" means \"inefficient\", doing something in a way that wastes time or effort. It can also mean that something does not give the result you want: \"en ineffektiv medicin\" (a medicine that does not work well).",
+  "forms": [
+   {
+    "da": "en ineffektiv metode",
+    "en": "an inefficient method"
+   },
+   {
+    "da": "et ineffektivt system",
+    "en": "an inefficient system"
+   },
+   {
+    "da": "ineffektive møder",
+    "en": "inefficient meetings"
+   }
+  ],
+  "related": [
+   {
+    "da": "effektiv",
+    "en": "efficient"
+   },
+   {
+    "da": "uproduktiv",
+    "en": "unproductive"
+   },
+   {
+    "da": "virkningsløs",
+    "en": "without effect"
+   },
+   {
+    "da": "langsom",
+    "en": "slow"
+   }
+  ],
+  "sentence": {
+   "da": "Metoden er **ineffektiv**, fordi den tager alt for lang tid.",
+   "en": "The method is inefficient because it takes far too long."
+  }
+ },
+ "inficeret": {
+  "file": "i.json",
+  "explanation": "\"Inficeret\" means \"infected\", reached by germs, as in a wound. Computers can be \"inficeret\" too, by a harmful program. For a person with an illness, Danes usually say \"smittet\" (infected): \"Han er smittet\" (He is infected).",
+  "forms": [
+   {
+    "da": "et inficeret sår",
+    "en": "an infected wound"
+   },
+   {
+    "da": "en inficeret fil",
+    "en": "an infected file"
+   },
+   {
+    "da": "inficerede patienter",
+    "en": "infected patients"
+   }
+  ],
+  "related": [
+   {
+    "da": "en infektion",
+    "en": "an infection"
+   },
+   {
+    "da": "en bakterie",
+    "en": "a bacterium"
+   },
+   {
+    "da": "at desinficere",
+    "en": "to disinfect"
+   },
+   {
+    "da": "rask",
+    "en": "healthy"
+   }
+  ],
+  "sentence": {
+   "da": "Såret blev **inficeret**, fordi vi ikke rensede det.",
+   "en": "The wound became infected because we did not clean it."
+  }
+ },
+ "inflation": {
+  "file": "i.json",
+  "explanation": "\"Inflation\" means \"inflation\", a general rise in prices over time, so the same money buys less.",
+  "forms": [
+   {
+    "da": "inflation",
+    "en": "inflation"
+   },
+   {
+    "da": "inflationen",
+    "en": "the inflation"
+   },
+   {
+    "da": "høj inflation",
+    "en": "high inflation"
+   },
+   {
+    "da": "lav inflation",
+    "en": "low inflation"
+   }
+  ],
+  "related": [
+   {
+    "da": "deflation",
+    "en": "deflation"
+   },
+   {
+    "da": "en pris",
+    "en": "a price"
+   },
+   {
+    "da": "en prisstigning",
+    "en": "a price rise"
+   },
+   {
+    "da": "købekraft",
+    "en": "buying power"
+   }
+  ],
+  "sentence": {
+   "da": "Med høj **inflation** kan man købe mindre for de samme penge.",
+   "en": "With high inflation, you can buy less for the same money."
+  }
+ },
+ "influenza": {
+  "file": "i.json",
+  "explanation": "\"Influenza\" means \"flu\". Danes say \"Jeg har influenza\" (I have the flu) without \"en\" (a) in front.",
+  "forms": [
+   {
+    "da": "influenza",
+    "en": "flu"
+   },
+   {
+    "da": "influenzaen",
+    "en": "the flu"
+   },
+   {
+    "da": "at få influenza",
+    "en": "to catch the flu"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forkølelse",
+    "en": "a cold (illness)"
+   },
+   {
+    "da": "en feber",
+    "en": "a fever"
+   },
+   {
+    "da": "en hoste",
+    "en": "a cough"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **influenza** og skal blive hjemme.",
+   "en": "I have the flu and have to stay home."
+  }
+ },
+ "information": {
+  "file": "i.json",
+  "explanation": "\"Information\" means \"information\", facts that tell you about something, such as a place, a time or a price. Like most words ending in \"-ion\", it uses \"en\": \"en station\" (a station), \"en lektion\" (a lesson).",
+  "forms": [
+   {
+    "da": "en information",
+    "en": "a piece of information"
+   },
+   {
+    "da": "informationen",
+    "en": "the information"
+   },
+   {
+    "da": "informationer",
+    "en": "pieces of information"
+   },
+   {
+    "da": "informationerne",
+    "en": "the pieces of information"
+   }
+  ],
+  "related": [
+   {
+    "da": "at informere",
+    "en": "to inform"
+   },
+   {
+    "da": "en oplysning",
+    "en": "a fact, a detail"
+   },
+   {
+    "da": "en besked",
+    "en": "a message"
+   },
+   {
+    "da": "en nyhed",
+    "en": "a piece of news"
+   }
+  ],
+  "sentence": {
+   "da": "Turistkontoret giver **information** om byen.",
+   "en": "The tourist office gives information about the city."
+  }
+ },
+ "informeret": {
+  "file": "i.json",
+  "explanation": "\"Informeret\" means \"informed\", knowing the facts you need before you decide or act. To name the topic you know about, use \"om\" (about): \"Er du informeret om ændringen?\" (Are you informed about the change?)",
+  "forms": [
+   {
+    "da": "en informeret borger",
+    "en": "an informed citizen"
+   },
+   {
+    "da": "et informeret valg",
+    "en": "an informed choice"
+   },
+   {
+    "da": "informerede kunder",
+    "en": "informed customers"
+   }
+  ],
+  "related": [
+   {
+    "da": "at informere",
+    "en": "to inform"
+   },
+   {
+    "da": "orienteret",
+    "en": "briefed"
+   },
+   {
+    "da": "uvidende",
+    "en": "unaware"
+   },
+   {
+    "da": "bekendt med",
+    "en": "familiar with"
+   }
+  ],
+  "sentence": {
+   "da": "Før valget vil jeg gerne være godt **informeret**.",
+   "en": "Before the election, I want to be well informed."
+  }
+ },
+ "ingefær": {
+  "file": "i.json",
+  "explanation": "\"Ingefær\" means \"ginger\", the sharp, warm root used to flavor food and drinks.",
+  "forms": [
+   {
+    "da": "ingefær",
+    "en": "ginger"
+   },
+   {
+    "da": "ingefæren",
+    "en": "the ginger"
+   },
+   {
+    "da": "et stykke ingefær",
+    "en": "a piece of ginger"
+   }
+  ],
+  "related": [
+   {
+    "da": "gurkemeje",
+    "en": "turmeric"
+   },
+   {
+    "da": "ingefærte",
+    "en": "ginger tea"
+   },
+   {
+    "da": "ingefærøl",
+    "en": "ginger beer"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg laver te med frisk **ingefær**.",
+   "en": "I make tea with fresh ginger."
+  }
+ },
+ "ingen": {
+  "file": "i.json",
+  "explanation": "\"Ingen\" means \"no one\" or \"no\". Its opposite is \"nogen\" (anyone), used in questions: \"Er der nogen hjemme?\" (Is anyone home?). The answer uses \"ingen\": \"Nej, der er ingen hjemme\" (No, no one is home). Do not add \"ikke\" (not) next to \"ingen\"; the word already means \"not any\".",
+  "forms": [
+   {
+    "da": "Ingen er hjemme.",
+    "en": "No one is home."
+   },
+   {
+    "da": "Jeg har ingen penge.",
+    "en": "I have no money."
+   },
+   {
+    "da": "Ingen kan se det.",
+    "en": "No one can see it."
+   }
+  ],
+  "related": [
+   {
+    "da": "ingenting",
+    "en": "nothing"
+   },
+   {
+    "da": "intet",
+    "en": "nothing (et-word)"
+   },
+   {
+    "da": "alle",
+    "en": "everyone"
+   },
+   {
+    "da": "nogle",
+    "en": "some"
+   }
+  ],
+  "sentence": {
+   "da": "Der er **ingen** hjemme.",
+   "en": "No one is home."
+  }
+ },
+ "ingen problemer": {
+  "file": "i.json",
+  "explanation": "\"Ingen problemer\" means \"no problem\" and is a relaxed answer when someone asks you for help. A longer way to say it is \"det er ikke noget problem\" (it is not a problem).",
+  "forms": [
+   {
+    "da": "Ingen problemer!",
+    "en": "No problem!"
+   },
+   {
+    "da": "Det er ingen problemer.",
+    "en": "That's no problem."
+   },
+   {
+    "da": "Ingen problemer, jeg hjælper dig.",
+    "en": "No problem, I'll help you."
+   }
+  ],
+  "related": [
+   {
+    "da": "ingen sag",
+    "en": "no problem (casual)"
+   },
+   {
+    "da": "det er i orden",
+    "en": "it's okay"
+   },
+   {
+    "da": "ingen årsag",
+    "en": "don't mention it"
+   },
+   {
+    "da": "selv tak",
+    "en": "you're welcome"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du hjælpe mig? — **Ingen problemer**.",
+   "en": "Can you help me? — No problem."
+  }
+ },
+ "ingen årsag": {
+  "file": "i.json",
+  "explanation": "\"Ingen årsag\" means \"don't mention it\" and is a reply to thanks. Literally, it says \"no reason\".",
+  "forms": [
+   {
+    "da": "Ingen årsag!",
+    "en": "Don't mention it!"
+   },
+   {
+    "da": "Tak for hjælpen. Ingen årsag.",
+    "en": "Thanks for the help. Don't mention it."
+   },
+   {
+    "da": "Ingen årsag, det var så lidt.",
+    "en": "No problem, it was nothing."
+   }
+  ],
+  "related": [
+   {
+    "da": "selv tak",
+    "en": "you're welcome"
+   },
+   {
+    "da": "det var så lidt",
+    "en": "it was nothing"
+   },
+   {
+    "da": "tak",
+    "en": "thanks"
+   }
+  ],
+  "sentence": {
+   "da": "Tusind tak! — **Ingen årsag**.",
+   "en": "Thanks a lot! — Don't mention it."
+  }
+ },
+ "ingenting": {
+  "file": "i.json",
+  "explanation": "\"Ingenting\" means \"nothing\", the opposite of \"noget\" (something): \"Jeg ser noget\" (I see something), \"Jeg ser ingenting\" (I see nothing). Do not add \"ikke\" (not): the word already means \"not anything\". For people, use \"ingen\" (no one): \"Ingen er her\" (No one is here).",
+  "forms": [
+   {
+    "da": "Jeg ser ingenting.",
+    "en": "I see nothing."
+   },
+   {
+    "da": "Der er ingenting her.",
+    "en": "There is nothing here."
+   },
+   {
+    "da": "Ingenting er umuligt.",
+    "en": "Nothing is impossible."
+   }
+  ],
+  "related": [
+   {
+    "da": "alt",
+    "en": "everything"
+   },
+   {
+    "da": "en ting",
+    "en": "a thing"
+   },
+   {
+    "da": "intet",
+    "en": "nothing (formal)"
+   },
+   {
+    "da": "ingen steder",
+    "en": "nowhere"
+   }
+  ],
+  "sentence": {
+   "da": "Køleskabet er tomt. Der er **ingenting** i det.",
+   "en": "The fridge is empty. There is nothing in it."
+  }
+ },
+ "inklusive": {
+  "file": "i.json",
+  "explanation": "\"Inklusive\" means \"including\". It can come before the price or item: \"inklusive moms\" (including tax). It can also come after: \"Morgenmad inklusive\" (Breakfast included).",
+  "forms": [
+   {
+    "da": "inklusive moms",
+    "en": "including VAT"
+   },
+   {
+    "da": "inklusive drikkevarer",
+    "en": "including drinks"
+   },
+   {
+    "da": "inklusive mig",
+    "en": "including me"
+   }
+  ],
+  "related": [
+   {
+    "da": "eksklusive",
+    "en": "excluding"
+   },
+   {
+    "da": "at inkludere",
+    "en": "to include"
+   },
+   {
+    "da": "medregnet",
+    "en": "counted in"
+   },
+   {
+    "da": "undtagen",
+    "en": "except"
+   }
+  ],
+  "sentence": {
+   "da": "Hotellet koster 800 kroner **inklusive** morgenmad.",
+   "en": "The hotel costs 800 kroner including breakfast."
+  }
+ },
+ "inspireret": {
+  "file": "i.json",
+  "explanation": "\"Inspireret\" means \"inspired\", full of ideas and energy after seeing or hearing something good. To name the person or thing that inspired you, add \"af\" (by) after \"inspireret\": \"inspireret af en bog\" (inspired by a book).",
+  "forms": [
+   {
+    "da": "en inspireret kunstner",
+    "en": "an inspired artist"
+   },
+   {
+    "da": "et inspireret band",
+    "en": "an inspired band"
+   },
+   {
+    "da": "inspirerede elever",
+    "en": "inspired students"
+   }
+  ],
+  "related": [
+   {
+    "da": "en inspiration",
+    "en": "an inspiration"
+   },
+   {
+    "da": "motiveret",
+    "en": "motivated"
+   },
+   {
+    "da": "begejstret",
+    "en": "enthusiastic"
+   },
+   {
+    "da": "kreativ",
+    "en": "creative"
+   }
+  ],
+  "sentence": {
+   "da": "Hun blev **inspireret** af naturen og begyndte at male.",
+   "en": "She was inspired by nature and started to paint."
+  }
+ },
+ "intakt": {
+  "file": "i.json",
+  "explanation": "\"Intakt\" means \"intact\", in one piece with nothing broken: \"Pakken er intakt\" (The package is intact).",
+  "forms": [
+   {
+    "da": "en intakt rude",
+    "en": "an intact window"
+   },
+   {
+    "da": "et intakt hus",
+    "en": "an intact house"
+   },
+   {
+    "da": "intakte vinduer",
+    "en": "intact windows"
+   }
+  ],
+  "related": [
+   {
+    "da": "hel",
+    "en": "whole"
+   },
+   {
+    "da": "ubeskadiget",
+    "en": "undamaged"
+   },
+   {
+    "da": "uskadt",
+    "en": "unharmed"
+   },
+   {
+    "da": "ødelagt",
+    "en": "ruined"
+   }
+  ],
+  "sentence": {
+   "da": "Selv efter den store storm var taget helt **intakt**.",
+   "en": "Even after the big storm, the roof was completely intact."
+  }
+ },
+ "intelligens": {
+  "file": "i.json",
+  "explanation": "\"En intelligens\" means \"intelligence\", the ability to learn, understand and solve problems. The describing word is \"intelligent\" (intelligent).",
+  "forms": [
+   {
+    "da": "en intelligens",
+    "en": "an intelligence"
+   },
+   {
+    "da": "intelligensen",
+    "en": "the intelligence"
+   },
+   {
+    "da": "høj intelligens",
+    "en": "high intelligence"
+   },
+   {
+    "da": "kunstig intelligens",
+    "en": "artificial intelligence"
+   }
+  ],
+  "related": [
+   {
+    "da": "klog",
+    "en": "smart"
+   },
+   {
+    "da": "begavet",
+    "en": "gifted"
+   },
+   {
+    "da": "en hjerne",
+    "en": "a brain"
+   },
+   {
+    "da": "dum",
+    "en": "stupid"
+   }
+  ],
+  "sentence": {
+   "da": "Hans **intelligens** viser sig, når han løser svære opgaver.",
+   "en": "His intelligence shows when he solves hard tasks."
+  }
+ },
+ "intelligent": {
+  "file": "i.json",
+  "explanation": "\"Intelligent\" means \"intelligent\" and is spelled almost like the English word. You say it about anyone or anything that shows good thinking: \"et intelligent svar\" (an intelligent answer), \"en intelligent hund\" (an intelligent dog).",
+  "forms": [
+   {
+    "da": "en intelligent pige",
+    "en": "an intelligent girl"
+   },
+   {
+    "da": "et intelligent svar",
+    "en": "an intelligent answer"
+   },
+   {
+    "da": "intelligente børn",
+    "en": "intelligent children"
+   }
+  ],
+  "related": [
+   {
+    "da": "klog",
+    "en": "smart / wise"
+   },
+   {
+    "da": "dum",
+    "en": "stupid"
+   },
+   {
+    "da": "en intelligens",
+    "en": "an intelligence"
+   },
+   {
+    "da": "snedig",
+    "en": "clever / cunning"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **intelligent** og løser alle svære opgaver.",
+   "en": "She is intelligent and solves all difficult problems."
+  }
+ },
+ "interessant": {
+  "file": "i.json",
+  "explanation": "\"Interessant\" means \"interesting\". To say you are interested, use \"interesseret\" (interested): \"Jeg er interesseret i musik\" (I am interested in music).",
+  "forms": [
+   {
+    "da": "en interessant bog",
+    "en": "an interesting book"
+   },
+   {
+    "da": "et interessant spørgsmål",
+    "en": "an interesting question"
+   },
+   {
+    "da": "interessante bøger",
+    "en": "interesting books"
+   }
+  ],
+  "related": [
+   {
+    "da": "kedelig",
+    "en": "boring"
+   },
+   {
+    "da": "en interesse",
+    "en": "an interest"
+   },
+   {
+    "da": "at interessere",
+    "en": "to interest"
+   },
+   {
+    "da": "spændende",
+    "en": "exciting"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **interessant** at lære om andre lande.",
+   "en": "It is interesting to learn about other countries."
+  }
+ },
+ "interesseret": {
+  "file": "i.json",
+  "explanation": "\"Interesseret\" means \"interested\", and it is followed by \"i\" (in): \"Jeg er interesseret i musik\" (I am interested in music).",
+  "forms": [
+   {
+    "da": "en interesseret elev",
+    "en": "an interested student"
+   },
+   {
+    "da": "et interesseret publikum",
+    "en": "an interested audience"
+   },
+   {
+    "da": "interesserede kunder",
+    "en": "interested customers"
+   }
+  ],
+  "related": [
+   {
+    "da": "nysgerrig",
+    "en": "curious"
+   },
+   {
+    "da": "en interesse",
+    "en": "an interest"
+   },
+   {
+    "da": "at interessere",
+    "en": "to interest"
+   },
+   {
+    "da": "uinteresseret",
+    "en": "uninterested"
+   }
+  ],
+  "sentence": {
+   "da": "Min søn er meget **interesseret** i dinosaurer.",
+   "en": "My son is very interested in dinosaurs."
+  }
+ },
+ "interesseret i": {
+  "file": "i.json",
+  "explanation": "\"Interesseret i\" means \"interested in\". To say you are interested in doing something, add \"at\" (to) before the action word: \"interesseret i at lære\" (interested in learning).",
+  "forms": [
+   {
+    "da": "Jeg er interesseret i musik.",
+    "en": "I am interested in music."
+   },
+   {
+    "da": "Er du interesseret i mad?",
+    "en": "Are you interested in food?"
+   },
+   {
+    "da": "Vi er interesserede i kunst.",
+    "en": "We are interested in art."
+   }
+  ],
+  "related": [
+   {
+    "da": "en interesse",
+    "en": "an interest"
+   },
+   {
+    "da": "interessant",
+    "en": "interesting"
+   },
+   {
+    "da": "nysgerrig",
+    "en": "curious"
+   },
+   {
+    "da": "uinteresseret",
+    "en": "uninterested"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **interesseret i** gamle huse.",
+   "en": "She is interested in old houses."
+  }
+ },
+ "intern": {
+  "file": "i.json",
+  "explanation": "\"Intern\" means \"internal\", something that stays inside one company or group and is not meant for outsiders. The opposite is \"ekstern\" (external).",
+  "forms": [
+   {
+    "da": "en intern regel",
+    "en": "an internal rule"
+   },
+   {
+    "da": "et internt møde",
+    "en": "an internal meeting"
+   },
+   {
+    "da": "interne problemer",
+    "en": "internal problems"
+   }
+  ],
+  "related": [
+   {
+    "da": "indre",
+    "en": "inner"
+   },
+   {
+    "da": "fortrolig",
+    "en": "confidential"
+   },
+   {
+    "da": "offentlig",
+    "en": "public"
+   },
+   {
+    "da": "privat",
+    "en": "private"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en **intern** sag i firmaet.",
+   "en": "It is an internal matter in the company."
+  }
+ },
+ "international": {
+  "file": "i.json",
+  "explanation": "\"International\" means \"international\", between or across countries. The word for something inside one country is \"national\" (national).",
+  "forms": [
+   {
+    "da": "en international skole",
+    "en": "an international school"
+   },
+   {
+    "da": "et internationalt firma",
+    "en": "an international company"
+   },
+   {
+    "da": "internationale nyheder",
+    "en": "international news"
+   }
+  ],
+  "related": [
+   {
+    "da": "europæisk",
+    "en": "European"
+   },
+   {
+    "da": "global",
+    "en": "global"
+   },
+   {
+    "da": "udenlandsk",
+    "en": "foreign"
+   },
+   {
+    "da": "en nation",
+    "en": "a nation"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster går på en **international** skole.",
+   "en": "My sister goes to an international school."
+  }
+ },
+ "internet": {
+  "file": "i.json",
+  "explanation": "\"Internet\" means \"internet\" and is spelled the same as in English. It also means an internet connection: \"Der er ikke internet her\" (There is no internet here).",
+  "forms": [
+   {
+    "da": "internettet",
+    "en": "the internet"
+   },
+   {
+    "da": "på internettet",
+    "en": "on the internet"
+   },
+   {
+    "da": "Har du internet?",
+    "en": "Do you have internet?"
+   }
+  ],
+  "related": [
+   {
+    "da": "nettet",
+    "en": "the net / online"
+   },
+   {
+    "da": "en internetforbindelse",
+    "en": "an internet connection"
+   },
+   {
+    "da": "wifi",
+    "en": "wifi"
+   }
+  ],
+  "sentence": {
+   "da": "Har du **internet** hjemme?",
+   "en": "Do you have internet at home?"
+  }
+ },
+ "intet": {
+  "file": "i.json",
+  "explanation": "\"Intet\" means \"nothing\", and also \"no\" in front of an et-word: \"Det er intet problem\" (It is no problem). In everyday talk, Danes often say \"ikke noget\" (not anything) instead: \"Jeg har ikke noget\" (I have nothing).",
+  "forms": [
+   {
+    "da": "intet svar",
+    "en": "no answer"
+   },
+   {
+    "da": "Jeg ser intet.",
+    "en": "I see nothing."
+   },
+   {
+    "da": "intet vand",
+    "en": "no water"
+   }
+  ],
+  "related": [
+   {
+    "da": "ingen",
+    "en": "no one / none"
+   },
+   {
+    "da": "ingenting",
+    "en": "nothing"
+   },
+   {
+    "da": "alt",
+    "en": "everything"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **intet** at sige.",
+   "en": "I have nothing to say."
+  }
+ },
+ "intetkøn": {
+  "file": "i.json",
+  "explanation": "\"Et intetkøn\" means \"the gender of et-words\", the group of words that use \"et\", like \"et hus\" (a house) and \"et barn\" (a child). The other group is en-words. It is built from intet (nothing) and køn (gender), so it literally means \"no gender\".",
+  "forms": [
+   {
+    "da": "et intetkøn",
+    "en": "a neuter gender"
+   },
+   {
+    "da": "intetkønnet",
+    "en": "the neuter gender"
+   },
+   {
+    "da": "et intetkønsord",
+    "en": "a neuter word"
+   }
+  ],
+  "related": [
+   {
+    "da": "fælleskøn",
+    "en": "common gender"
+   },
+   {
+    "da": "en artikel",
+    "en": "an article"
+   },
+   {
+    "da": "et navneord",
+    "en": "a noun"
+   }
+  ],
+  "sentence": {
+   "da": "Ordet vand hører til **intetkøn**.",
+   "en": "The word vand belongs to the neuter gender."
+  }
+ },
+ "involveret": {
+  "file": "i.json",
+  "explanation": "\"Involveret\" means \"involved\", taking part in something or tied up in it. To name the project or event you take part in, add \"i\" (in) after \"involveret\": \"Hun er involveret i projektet\" (She is involved in the project).",
+  "forms": [
+   {
+    "da": "en involveret person",
+    "en": "an involved person"
+   },
+   {
+    "da": "et involveret firma",
+    "en": "an involved company"
+   },
+   {
+    "da": "involverede parter",
+    "en": "involved parties"
+   }
+  ],
+  "related": [
+   {
+    "da": "indblandet",
+    "en": "mixed up in"
+   },
+   {
+    "da": "berørt",
+    "en": "affected"
+   },
+   {
+    "da": "engageret",
+    "en": "committed"
+   },
+   {
+    "da": "impliceret",
+    "en": "implicated"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet mener, at føreren var **involveret** i ulykken.",
+   "en": "The police believe the driver was involved in the accident."
+  }
+ },
+ "ironisk": {
+  "file": "i.json",
+  "explanation": "\"Ironisk\" means \"ironic\", saying the opposite of what you mean, or something that turns out the opposite of what you would expect: \"Det er ironisk, at bageren aldrig spiser brød\" (It is ironic that the baker never eats bread).",
+  "forms": [
+   {
+    "da": "en ironisk bemærkning",
+    "en": "an ironic remark"
+   },
+   {
+    "da": "et ironisk smil",
+    "en": "an ironic smile"
+   },
+   {
+    "da": "ironiske ord",
+    "en": "ironic words"
+   }
+  ],
+  "related": [
+   {
+    "da": "sarkastisk",
+    "en": "sarcastic"
+   },
+   {
+    "da": "en ironi",
+    "en": "an irony"
+   },
+   {
+    "da": "alvorlig",
+    "en": "serious"
+   },
+   {
+    "da": "spydig",
+    "en": "sharp-tongued"
+   }
+  ],
+  "sentence": {
+   "da": "Hun sagde \"Flot vejr!\" i regnen, og det var **ironisk**.",
+   "en": "She said \"Nice weather!\" in the rain, and it was ironic."
+  }
+ },
+ "irrationel": {
+  "file": "i.json",
+  "explanation": "\"Irrationel\" means \"irrational\", not based on logic, like a feeling with no good reason. In math it is a number that cannot be written as a simple fraction: \"et irrationelt tal\" (an irrational number).",
+  "forms": [
+   {
+    "da": "en irrationel frygt",
+    "en": "an irrational fear"
+   },
+   {
+    "da": "et irrationelt valg",
+    "en": "an irrational choice"
+   },
+   {
+    "da": "irrationelle tanker",
+    "en": "irrational thoughts"
+   }
+  ],
+  "related": [
+   {
+    "da": "rationel",
+    "en": "rational"
+   },
+   {
+    "da": "logisk",
+    "en": "logical"
+   },
+   {
+    "da": "fornuftig",
+    "en": "sensible"
+   },
+   {
+    "da": "urimelig",
+    "en": "unreasonable"
+   }
+  ],
+  "sentence": {
+   "da": "Hans frygt for harmløse edderkopper er **irrationel**.",
+   "en": "His fear of harmless spiders is irrational."
+  }
+ },
+ "irrelevant": {
+  "file": "i.json",
+  "explanation": "\"Irrelevant\" means \"irrelevant\", having nothing to do with the matter at hand. To name the matter that the fact does not concern, add \"for\" (for) after \"irrelevant\": \"Det er irrelevant for sagen\" (It is irrelevant to the case).",
+  "forms": [
+   {
+    "da": "en irrelevant detalje",
+    "en": "an irrelevant detail"
+   },
+   {
+    "da": "et irrelevant spørgsmål",
+    "en": "an irrelevant question"
+   },
+   {
+    "da": "irrelevante oplysninger",
+    "en": "irrelevant information"
+   }
+  ],
+  "related": [
+   {
+    "da": "relevant",
+    "en": "relevant"
+   },
+   {
+    "da": "uvæsentlig",
+    "en": "insignificant"
+   },
+   {
+    "da": "ligegyldig",
+    "en": "unimportant"
+   },
+   {
+    "da": "væsentlig",
+    "en": "essential"
+   }
+  ],
+  "sentence": {
+   "da": "Din alder er **irrelevant**, når du søger jobbet.",
+   "en": "Your age is irrelevant when you apply for the job."
+  }
+ },
+ "irriterende": {
+  "file": "i.json",
+  "explanation": "\"Irriterende\" means \"annoying\" and describes what bothers you. When you are the one who is bothered, say \"irriteret\" (irritated): \"Jeg er irriteret\" (I am irritated).",
+  "forms": [
+   {
+    "da": "en irriterende lyd",
+    "en": "an annoying sound"
+   },
+   {
+    "da": "et irriterende problem",
+    "en": "an annoying problem"
+   },
+   {
+    "da": "irriterende lyde",
+    "en": "annoying sounds"
+   }
+  ],
+  "related": [
+   {
+    "da": "at irritere",
+    "en": "to annoy"
+   },
+   {
+    "da": "forstyrrende",
+    "en": "disturbing"
+   },
+   {
+    "da": "en irritation",
+    "en": "an irritation"
+   },
+   {
+    "da": "generende",
+    "en": "bothersome"
+   }
+  ],
+  "sentence": {
+   "da": "Den høje lyd er meget **irriterende**.",
+   "en": "The loud sound is very annoying."
+  }
+ },
+ "irriteret": {
+  "file": "i.json",
+  "explanation": "\"Irriteret\" means \"irritated\", how you feel. \"Irriterende\" (annoying) describes what causes it: \"Lyden er irriterende\" (The sound is annoying).",
+  "forms": [
+   {
+    "da": "en irriteret mand",
+    "en": "an irritated man"
+   },
+   {
+    "da": "et irriteret barn",
+    "en": "an irritated child"
+   },
+   {
+    "da": "irriterede børn",
+    "en": "irritated children"
+   }
+  ],
+  "related": [
+   {
+    "da": "sur",
+    "en": "grumpy"
+   },
+   {
+    "da": "vred",
+    "en": "angry"
+   },
+   {
+    "da": "ærgerlig",
+    "en": "annoyed / unfortunate"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **irriteret**, fordi bussen er forsinket.",
+   "en": "I am irritated because the bus is late."
+  }
+ },
+ "is": {
+  "file": "i.json",
+  "explanation": "\"Is\" means \"ice cream\" and also \"ice\". You can tell which one it is from the context of the sentence. To order a scoop, say \"en kugle is\" (a scoop of ice cream, literally \"a ball of ice cream\").",
+  "forms": [
+   {
+    "da": "en is",
+    "en": "an ice cream"
+   },
+   {
+    "da": "isen",
+    "en": "the ice cream / the ice"
+   },
+   {
+    "da": "to is",
+    "en": "two ice creams"
+   }
+  ],
+  "related": [
+   {
+    "da": "en isterning",
+    "en": "an ice cube"
+   },
+   {
+    "da": "iskaffe",
+    "en": "iced coffee"
+   },
+   {
+    "da": "en isbjørn",
+    "en": "a polar bear"
+   }
+  ],
+  "sentence": {
+   "da": "**Is** smager godt på en varm sommerdag.",
+   "en": "Ice cream tastes good on a hot summer day."
+  }
+ },
+ "ishockey": {
+  "file": "i.json",
+  "explanation": "\"Ishockey\" means \"ice hockey\". It is built from is (ice) and hockey. Danish also uses \"is\" for ice cream, but in this word it means ice.",
+  "forms": [
+   {
+    "da": "Jeg spiller ishockey.",
+    "en": "I play ice hockey."
+   },
+   {
+    "da": "en ishockeykamp",
+    "en": "an ice hockey game"
+   },
+   {
+    "da": "et ishockeyhold",
+    "en": "an ice hockey team"
+   }
+  ],
+  "related": [
+   {
+    "da": "skøjteløb",
+    "en": "ice skating"
+   },
+   {
+    "da": "en skøjte",
+    "en": "an ice skate"
+   },
+   {
+    "da": "håndbold",
+    "en": "handball"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror spiller **ishockey** hver vinter.",
+   "en": "My brother plays ice hockey every winter."
+  }
+ },
+ "iskold": {
+  "file": "i.json",
+  "explanation": "\"Iskold\" means \"ice-cold\", built from is (ice) and kold (cold). It is stronger than \"kold\" (cold): it describes something as cold as ice.",
+  "forms": [
+   {
+    "da": "en iskold vind",
+    "en": "an ice-cold wind"
+   },
+   {
+    "da": "et iskoldt glas",
+    "en": "an ice-cold glass"
+   },
+   {
+    "da": "iskolde hænder",
+    "en": "ice-cold hands"
+   }
+  ],
+  "related": [
+   {
+    "da": "hed",
+    "en": "hot"
+   },
+   {
+    "da": "kølig",
+    "en": "cool"
+   },
+   {
+    "da": "lun",
+    "en": "lukewarm"
+   },
+   {
+    "da": "frossen",
+    "en": "frozen"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne have en **iskold** sodavand.",
+   "en": "I would like an ice-cold soda."
+  }
+ },
+ "islam": {
+  "file": "i.json",
+  "explanation": "\"Islam\" means \"Islam\", the religion. Danish writes the names of religions with a lowercase letter and uses no article: \"Islam er en verdensreligion\" (Islam is a world religion). A follower is \"en muslim\" (a Muslim).",
+  "forms": [
+   {
+    "da": "islam",
+    "en": "Islam"
+   },
+   {
+    "da": "islamisk kunst",
+    "en": "Islamic art"
+   },
+   {
+    "da": "islams historie",
+    "en": "the history of Islam"
+   }
+  ],
+  "related": [
+   {
+    "da": "en moské",
+    "en": "a mosque"
+   },
+   {
+    "da": "koranen",
+    "en": "the Koran"
+   },
+   {
+    "da": "kristendom",
+    "en": "Christianity"
+   },
+   {
+    "da": "buddhisme",
+    "en": "Buddhism"
+   }
+  ],
+  "sentence": {
+   "da": "I **islam** beder man fem gange om dagen.",
+   "en": "In Islam, people pray five times a day."
+  }
+ },
+ "island": {
+  "file": "i.json",
+  "explanation": "\"Island\" means \"Iceland\". Do not mix it up with the English word \"island\": the Danish word for an island is \"en ø\".",
+  "forms": [
+   {
+    "da": "Island",
+    "en": "Iceland"
+   },
+   {
+    "da": "i Island",
+    "en": "in Iceland"
+   },
+   {
+    "da": "til Island",
+    "en": "to Iceland"
+   }
+  ],
+  "related": [
+   {
+    "da": "en islænding",
+    "en": "an Icelander"
+   },
+   {
+    "da": "islandsk",
+    "en": "Icelandic"
+   },
+   {
+    "da": "Grønland",
+    "en": "Greenland"
+   },
+   {
+    "da": "Norge",
+    "en": "Norway"
+   }
+  ],
+  "sentence": {
+   "da": "**Island** er et land med meget sne.",
+   "en": "Iceland is a country with a lot of snow."
+  }
+ },
+ "islandsk": {
+  "file": "i.json",
+  "explanation": "\"Islandsk\" means \"Icelandic\" and describes things from Iceland. It is also the language: \"Hun taler islandsk\" (She speaks Icelandic).",
+  "forms": [
+   {
+    "da": "en islandsk hest",
+    "en": "an Icelandic horse"
+   },
+   {
+    "da": "et islandsk landskab",
+    "en": "an Icelandic landscape"
+   },
+   {
+    "da": "islandske heste",
+    "en": "Icelandic horses"
+   }
+  ],
+  "related": [
+   {
+    "da": "Island",
+    "en": "Iceland"
+   },
+   {
+    "da": "norsk",
+    "en": "Norwegian"
+   },
+   {
+    "da": "svensk",
+    "en": "Swedish"
+   },
+   {
+    "da": "dansk",
+    "en": "Danish"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kan tale **islandsk**, og hun bor i Reykjavik.",
+   "en": "She can speak Icelandic, and she lives in Reykjavik."
+  }
+ },
+ "isolation": {
+  "file": "i.json",
+  "explanation": "\"Isolation\" means \"isolation\", being kept apart from other people, for example a patient with a contagious illness, or someone who feels cut off. To keep heat in a house, the word is \"isolering\" (insulation).",
+  "forms": [
+   {
+    "da": "isolation",
+    "en": "isolation"
+   },
+   {
+    "da": "isolationen",
+    "en": "the isolation"
+   },
+   {
+    "da": "social isolation",
+    "en": "social isolation"
+   },
+   {
+    "da": "i isolation",
+    "en": "in isolation"
+   }
+  ],
+  "related": [
+   {
+    "da": "ensomhed",
+    "en": "loneliness"
+   },
+   {
+    "da": "karantæne",
+    "en": "quarantine"
+   },
+   {
+    "da": "at isolere",
+    "en": "to isolate"
+   },
+   {
+    "da": "et fællesskab",
+    "en": "a community"
+   }
+  ],
+  "sentence": {
+   "da": "Efter flere uger i **isolation** savnede hun andre mennesker.",
+   "en": "After several weeks in isolation, she missed other people."
+  }
+ },
+ "isoleret": {
+  "file": "i.json",
+  "explanation": "\"Isoleret\" means \"isolated\", far from or cut off from others. For a house, it means \"insulated\", keeping heat in: \"et velisoleret hus\" (a well-insulated house).",
+  "forms": [
+   {
+    "da": "en isoleret ø",
+    "en": "an isolated island"
+   },
+   {
+    "da": "isolerede ledninger",
+    "en": "insulated wires"
+   },
+   {
+    "da": "isoleret fra de andre",
+    "en": "isolated from the others"
+   }
+  ],
+  "related": [
+   {
+    "da": "afsides",
+    "en": "remote"
+   },
+   {
+    "da": "afsondret",
+    "en": "secluded"
+   },
+   {
+    "da": "ensom",
+    "en": "lonely"
+   },
+   {
+    "da": "en isolering",
+    "en": "insulation"
+   }
+  ],
+  "sentence": {
+   "da": "Landsbyen er **isoleret**, fordi vejen er lukket om vinteren.",
+   "en": "The village is isolated because the road is closed in winter."
+  }
+ },
+ "isolering": {
+  "file": "i.json",
+  "explanation": "\"Isolering\" means \"insulation\", the material or work that keeps heat inside a building. Do not mix it up with \"isolation\" (isolation), which is about people being kept apart.",
+  "forms": [
+   {
+    "da": "isolering",
+    "en": "insulation"
+   },
+   {
+    "da": "isoleringen",
+    "en": "the insulation"
+   },
+   {
+    "da": "god isolering",
+    "en": "good insulation"
+   },
+   {
+    "da": "isolering af loftet",
+    "en": "insulation of the attic"
+   }
+  ],
+  "related": [
+   {
+    "da": "at isolere",
+    "en": "to insulate"
+   },
+   {
+    "da": "isoleret",
+    "en": "insulated"
+   },
+   {
+    "da": "mineraluld",
+    "en": "mineral wool"
+   }
+  ],
+  "sentence": {
+   "da": "Med bedre **isolering** i væggene bliver huset varmere om vinteren.",
+   "en": "With better insulation in the walls, the house gets warmer in winter."
+  }
+ },
+ "isslag": {
+  "file": "i.json",
+  "explanation": "\"Isslag\" means \"freezing rain\". It is built from is (ice) and slag (a blow, a hit). When it happens, a thin layer of ice covers roads and trees.",
+  "forms": [
+   {
+    "da": "et isslag",
+    "en": "a freezing-rain event"
+   },
+   {
+    "da": "isslaget",
+    "en": "the freezing-rain event"
+   },
+   {
+    "da": "isslag",
+    "en": "freezing-rain events"
+   },
+   {
+    "da": "isslagene",
+    "en": "the freezing-rain events"
+   }
+  ],
+  "related": [
+   {
+    "da": "slud",
+    "en": "sleet"
+   },
+   {
+    "da": "hagl",
+    "en": "hail"
+   },
+   {
+    "da": "sne",
+    "en": "snow"
+   },
+   {
+    "da": "regn",
+    "en": "rain"
+   }
+  ],
+  "sentence": {
+   "da": "Vejen er glat efter **isslag**.",
+   "en": "The road is slippery after freezing rain."
+  }
+ },
+ "især": {
+  "file": "i.json",
+  "explanation": "\"Især\" means \"especially\" and singles out one case from a group you just named, often after a comma: \"Jeg holder af dyr, især hunde\" (I like animals, especially dogs).",
+  "forms": [
+   {
+    "da": "Jeg elsker frugt, især æbler",
+    "en": "I love fruit, especially apples"
+   },
+   {
+    "da": "Det gælder især børn",
+    "en": "That applies especially to children"
+   },
+   {
+    "da": "især i dag",
+    "en": "especially today"
+   }
+  ],
+  "related": [
+   {
+    "da": "særlig",
+    "en": "special"
+   },
+   {
+    "da": "specielt",
+    "en": "especially"
+   },
+   {
+    "da": "særligt",
+    "en": "particularly"
+   },
+   {
+    "da": "en særhed",
+    "en": "an oddity"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan godt lide frugt, **især** æbler.",
+   "en": "I like fruit, especially apples."
+  }
+ },
+ "italien": {
+  "file": "i.json",
+  "explanation": "\"Italien\" means \"Italy\". The word for Italian is \"italiensk\", as in \"italiensk mad\" (Italian food).",
+  "forms": [
+   {
+    "da": "Italien",
+    "en": "Italy"
+   },
+   {
+    "da": "i Italien",
+    "en": "in Italy"
+   },
+   {
+    "da": "til Italien",
+    "en": "to Italy"
+   }
+  ],
+  "related": [
+   {
+    "da": "en italiener",
+    "en": "an Italian"
+   },
+   {
+    "da": "Frankrig",
+    "en": "France"
+   },
+   {
+    "da": "Spanien",
+    "en": "Spain"
+   }
+  ],
+  "sentence": {
+   "da": "Pizza og pasta kommer fra **Italien**.",
+   "en": "Pizza and pasta come from Italy."
+  }
+ },
+ "italiensk": {
+  "file": "i.json",
+  "explanation": "\"Italiensk\" means \"Italian\", for things from Italy and for the language, as in \"Jeg taler italiensk\" (I speak Italian). It is written with a lowercase letter (\"italiensk\"), while the English word \"Italian\" has an uppercase letter.",
+  "forms": [
+   {
+    "da": "en italiensk bil",
+    "en": "an Italian car"
+   },
+   {
+    "da": "et italiensk hus",
+    "en": "an Italian house"
+   },
+   {
+    "da": "italienske biler",
+    "en": "Italian cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "Italien",
+    "en": "Italy"
+   },
+   {
+    "da": "en italiener",
+    "en": "an Italian (person)"
+   },
+   {
+    "da": "spansk",
+    "en": "Spanish"
+   }
+  ],
+  "sentence": {
+   "da": "Pizza og pasta er **italiensk** mad.",
+   "en": "Pizza and pasta are Italian food."
+  }
+ },
+ "ivrig": {
+  "file": "i.json",
+  "explanation": "\"Ivrig\" means \"eager\", for someone who wants something a lot and shows it with energy. For a hobby it means \"keen\": \"en ivrig cyklist\" (a keen cyclist).",
+  "forms": [
+   {
+    "da": "en ivrig elev",
+    "en": "an eager pupil"
+   },
+   {
+    "da": "et ivrigt barn",
+    "en": "an eager child"
+   },
+   {
+    "da": "ivrige tilskuere",
+    "en": "eager spectators"
+   }
+  ],
+  "related": [
+   {
+    "da": "begejstret",
+    "en": "enthusiastic"
+   },
+   {
+    "da": "utålmodig",
+    "en": "impatient"
+   },
+   {
+    "da": "ligeglad",
+    "en": "indifferent"
+   },
+   {
+    "da": "nysgerrig",
+    "en": "curious"
+   }
+  ],
+  "sentence": {
+   "da": "Eleven er **ivrig** og rækker hånden op hele tiden.",
+   "en": "The pupil is eager and raises his hand all the time."
+  }
+ },
+ "iøjnefaldende": {
+  "file": "i.json",
+  "explanation": "\"Iøjnefaldende\" means \"conspicuous\", easy to see and noticed right away. The word comes from \"falde i øjnene\" (to catch the eye). You say it when something stands out from what is around it: \"Logoet er meget iøjnefaldende\" (The logo is very conspicuous).",
+  "forms": [
+   {
+    "da": "en iøjnefaldende farve",
+    "en": "a conspicuous color"
+   },
+   {
+    "da": "et iøjnefaldende tegn",
+    "en": "a conspicuous sign"
+   },
+   {
+    "da": "iøjnefaldende forskelle",
+    "en": "conspicuous differences"
+   }
+  ],
+  "related": [
+   {
+    "da": "synlig",
+    "en": "visible"
+   },
+   {
+    "da": "påfaldende",
+    "en": "striking"
+   },
+   {
+    "da": "tydelig",
+    "en": "clear"
+   },
+   {
+    "da": "umærkelig",
+    "en": "unnoticeable"
+   }
+  ],
+  "sentence": {
+   "da": "Den røde jakke er **iøjnefaldende** blandt alle de grå frakker.",
+   "en": "The red jacket is conspicuous among all the gray coats."
+  }
+ },
+ "at jage": {
+  "file": "j.json",
+  "explanation": "\"At jage\" means \"to chase\" and \"to hunt\": \"Politiet jager tyven\" (The police chase the thief). For animals, it means hunting: \"Han jager hjorte\" (He hunts deer).",
+  "forms": [
+   {
+    "da": "at jage",
+    "en": "to hunt / chase"
+   },
+   {
+    "da": "jeg jager",
+    "en": "I hunt / chase"
+   },
+   {
+    "da": "jeg jagede",
+    "en": "I hunted / chased"
+   },
+   {
+    "da": "jeg har jaget",
+    "en": "I have hunted / chased"
+   }
+  ],
+  "related": [
+   {
+    "da": "en jæger",
+    "en": "a hunter"
+   },
+   {
+    "da": "en jagt",
+    "en": "a hunt, a chase"
+   },
+   {
+    "da": "at forfølge",
+    "en": "to pursue"
+   },
+   {
+    "da": "at fange",
+    "en": "to catch"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden vil **jage** katten ud af haven.",
+   "en": "The dog wants to chase the cat out of the garden."
+  }
+ },
+ "at jamre": {
+  "file": "j.json",
+  "explanation": "\"At jamre\" means \"to wail\" or \"to whine\": to grumble in a sad, drawn-out way, often about small things and as if you feel sorry for yourself: \"Han jamrer over vejret\" (He whines about the weather).",
+  "forms": [
+   {
+    "da": "at jamre",
+    "en": "to wail / whine"
+   },
+   {
+    "da": "jeg jamrer",
+    "en": "I wail / whine"
+   },
+   {
+    "da": "jeg jamrede",
+    "en": "I wailed / whined"
+   },
+   {
+    "da": "jeg har jamret",
+    "en": "I have wailed / whined"
+   }
+  ],
+  "related": [
+   {
+    "da": "at klage",
+    "en": "to complain"
+   },
+   {
+    "da": "at klynke",
+    "en": "to whimper"
+   },
+   {
+    "da": "at brokke sig",
+    "en": "to gripe"
+   }
+  ],
+  "sentence": {
+   "da": "Hun bliver ved med at **jamre** over, at det regner.",
+   "en": "She keeps whining that it is raining."
+  }
+ },
+ "at juble": {
+  "file": "j.json",
+  "explanation": "\"At juble\" means \"to cheer\", to shout with joy, often together with others: \"Folk jubler, når holdet scorer\" (People cheer when the team scores).",
+  "forms": [
+   {
+    "da": "at juble",
+    "en": "to cheer"
+   },
+   {
+    "da": "jeg jubler",
+    "en": "I cheer"
+   },
+   {
+    "da": "jeg jublede",
+    "en": "I cheered"
+   },
+   {
+    "da": "jeg har jublet",
+    "en": "I have cheered"
+   }
+  ],
+  "related": [
+   {
+    "da": "en jubel",
+    "en": "jubilation"
+   },
+   {
+    "da": "at klappe",
+    "en": "to clap"
+   },
+   {
+    "da": "at fejre",
+    "en": "to celebrate"
+   }
+  ],
+  "sentence": {
+   "da": "Publikum begynder at **juble**, når sangeren kommer ind.",
+   "en": "The audience starts to cheer when the singer comes in."
+  }
+ },
+ "at justere": {
+  "file": "j.json",
+  "explanation": "\"At justere\" means \"to adjust\", to make a small change so that something becomes exactly right. It is used for prices, plans, numbers and machines: \"Vi justerer planen\" (We are adjusting the plan).",
+  "forms": [
+   {
+    "da": "at justere",
+    "en": "to adjust"
+   },
+   {
+    "da": "jeg justerer",
+    "en": "I adjust"
+   },
+   {
+    "da": "jeg justerede",
+    "en": "I adjusted"
+   },
+   {
+    "da": "jeg har justeret",
+    "en": "I have adjusted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tilpasse",
+    "en": "to adapt"
+   },
+   {
+    "da": "at rette til",
+    "en": "to correct"
+   },
+   {
+    "da": "at finjustere",
+    "en": "to fine-tune"
+   },
+   {
+    "da": "at regulere",
+    "en": "to regulate"
+   }
+  ],
+  "sentence": {
+   "da": "Mekanikeren vil **justere** bremserne, fordi de er for løse.",
+   "en": "The mechanic wants to adjust the brakes because they are too loose."
+  }
+ },
+ "en jagt": {
+  "file": "j.json",
+  "explanation": "\"En jagt\" means \"a hunt\", chasing wild animals to catch or shoot them. It is also used for any eager search: \"jagten på en bolig\" (the hunt for a home). The verb is \"at jage\" (to chase).",
+  "forms": [
+   {
+    "da": "en jagt",
+    "en": "a hunt"
+   },
+   {
+    "da": "jagten",
+    "en": "the hunt"
+   },
+   {
+    "da": "jagter",
+    "en": "hunts"
+   },
+   {
+    "da": "jagterne",
+    "en": "the hunts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en jæger",
+    "en": "a hunter"
+   },
+   {
+    "da": "et vildt",
+    "en": "a game animal"
+   },
+   {
+    "da": "et gevær",
+    "en": "a rifle"
+   },
+   {
+    "da": "et bytte",
+    "en": "prey"
+   }
+  ],
+  "sentence": {
+   "da": "Mange danskere går på **jagt** efter hjorte om efteråret.",
+   "en": "Many Danes go hunting for deer in the fall."
+  }
+ },
+ "en jakke": {
+  "file": "j.json",
+  "explanation": "\"En jakke\" means \"a jacket\". A thicker, longer one is \"en frakke\" (a coat).",
+  "forms": [
+   {
+    "da": "en jakke",
+    "en": "a jacket"
+   },
+   {
+    "da": "jakken",
+    "en": "the jacket"
+   },
+   {
+    "da": "jakker",
+    "en": "jackets"
+   },
+   {
+    "da": "jakkerne",
+    "en": "the jackets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en regnjakke",
+    "en": "a rain jacket"
+   },
+   {
+    "da": "en vinterjakke",
+    "en": "a winter jacket"
+   },
+   {
+    "da": "et jakkesæt",
+    "en": "a suit"
+   }
+  ],
+  "sentence": {
+   "da": "Tag din **jakke** på i kulden.",
+   "en": "Put your jacket on in the cold."
+  }
+ },
+ "en japaner": {
+  "file": "j.json",
+  "explanation": "\"En japaner\" means \"a Japanese person\". For things from Japan, use \"japansk\": \"japansk te\" (Japanese tea).",
+  "forms": [
+   {
+    "da": "en japaner",
+    "en": "a Japanese person"
+   },
+   {
+    "da": "japaneren",
+    "en": "the Japanese person"
+   },
+   {
+    "da": "japanere",
+    "en": "Japanese people"
+   },
+   {
+    "da": "japanerne",
+    "en": "the Japanese people"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kineser",
+    "en": "a Chinese person"
+   },
+   {
+    "da": "en koreaner",
+    "en": "a Korean"
+   },
+   {
+    "da": "en amerikaner",
+    "en": "an American"
+   },
+   {
+    "da": "en thailænder",
+    "en": "a Thai person"
+   }
+  ],
+  "sentence": {
+   "da": "Min ven er **japaner**, og han bor i Tokyo.",
+   "en": "My friend is Japanese, and he lives in Tokyo."
+  }
+ },
+ "en jobannonce": {
+  "file": "j.json",
+  "explanation": "\"En jobannonce\" means \"a job ad\", a notice that a company is looking for a new employee. It lists the tasks and what the company wants from you.",
+  "forms": [
+   {
+    "da": "en jobannonce",
+    "en": "a job ad"
+   },
+   {
+    "da": "jobannoncen",
+    "en": "the job ad"
+   },
+   {
+    "da": "jobannoncer",
+    "en": "job ads"
+   },
+   {
+    "da": "jobannoncerne",
+    "en": "the job ads"
+   }
+  ],
+  "related": [
+   {
+    "da": "en stillingsannonce",
+    "en": "a job posting"
+   },
+   {
+    "da": "en ansøgning",
+    "en": "an application"
+   },
+   {
+    "da": "en ansøger",
+    "en": "an applicant"
+   },
+   {
+    "da": "en jobsamtale",
+    "en": "a job interview"
+   }
+  ],
+  "sentence": {
+   "da": "I en **jobannonce** står der, hvilke opgaver du skal løse.",
+   "en": "A job ad says which tasks you will do."
+  }
+ },
+ "en jobsamtale": {
+  "file": "j.json",
+  "explanation": "\"En jobsamtale\" means \"a job interview\", a meeting where an employer talks with someone who wants a job.",
+  "forms": [
+   {
+    "da": "en jobsamtale",
+    "en": "a job interview"
+   },
+   {
+    "da": "jobsamtalen",
+    "en": "the job interview"
+   },
+   {
+    "da": "jobsamtaler",
+    "en": "job interviews"
+   },
+   {
+    "da": "jobsamtalerne",
+    "en": "the job interviews"
+   }
+  ],
+  "related": [
+   {
+    "da": "en samtale",
+    "en": "a conversation"
+   },
+   {
+    "da": "en ansøgning",
+    "en": "an application"
+   },
+   {
+    "da": "en ansøger",
+    "en": "an applicant"
+   },
+   {
+    "da": "et CV",
+    "en": "a résumé"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har en **jobsamtale** i morgen og er nervøs.",
+   "en": "I have a job interview tomorrow and am nervous."
+  }
+ },
+ "en joke": {
+  "file": "j.json",
+  "explanation": "\"En joke\" means \"a joke\" you tell to make people laugh. To say you are joking, use \"at lave sjov\" (to kid around): \"Jeg laver bare sjov\" (I am just joking).",
+  "forms": [
+   {
+    "da": "en joke",
+    "en": "a joke"
+   },
+   {
+    "da": "joken",
+    "en": "the joke"
+   },
+   {
+    "da": "jokes",
+    "en": "jokes"
+   },
+   {
+    "da": "jokene",
+    "en": "the jokes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vittighed",
+    "en": "a joke"
+   },
+   {
+    "da": "en spøg",
+    "en": "a jest"
+   },
+   {
+    "da": "en pointe",
+    "en": "a punchline"
+   },
+   {
+    "da": "at spøge",
+    "en": "to joke"
+   }
+  ],
+  "sentence": {
+   "da": "Hans **joke** fik os alle til at grine.",
+   "en": "His joke made us all laugh."
+  }
+ },
+ "en jomfru": {
+  "file": "j.json",
+  "explanation": "\"En jomfru\" means \"a virgin\" or \"a maiden\", a young woman, mostly in old stories and fairy tales. It is also in fixed names: \"Jomfru Maria\" (the Virgin Mary), and \"Jomfruen\" is the star sign Virgo. Today the word is rare for a living person.",
+  "forms": [
+   {
+    "da": "en jomfru",
+    "en": "a virgin / maiden"
+   },
+   {
+    "da": "jomfruen",
+    "en": "the virgin / maiden"
+   },
+   {
+    "da": "jomfruer",
+    "en": "virgins / maidens"
+   },
+   {
+    "da": "jomfruerne",
+    "en": "the virgins / maidens"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mø",
+    "en": "a maiden"
+   },
+   {
+    "da": "en pige",
+    "en": "a girl"
+   },
+   {
+    "da": "en jomfrurejse",
+    "en": "a maiden voyage"
+   },
+   {
+    "da": "en prinsesse",
+    "en": "a princess"
+   }
+  ],
+  "sentence": {
+   "da": "I eventyret redder ridderen den smukke **jomfru** fra tårnet.",
+   "en": "In the fairy tale the knight saves the beautiful maiden from the tower."
+  }
+ },
+ "en jordemoder": {
+  "file": "j.json",
+  "explanation": "\"En jordemoder\" means \"a midwife\", a trained health worker who helps women while they are expecting and when a baby is born. In Denmark most births are led by a \"jordemoder\", and a doctor comes only if there are problems.",
+  "forms": [
+   {
+    "da": "en jordemoder",
+    "en": "a midwife"
+   },
+   {
+    "da": "jordemoderen",
+    "en": "the midwife"
+   },
+   {
+    "da": "jordemødre",
+    "en": "midwives"
+   },
+   {
+    "da": "jordemødrene",
+    "en": "the midwives"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fødsel",
+    "en": "a birth"
+   },
+   {
+    "da": "en sygeplejerske",
+    "en": "a nurse"
+   },
+   {
+    "da": "en fødselslæge",
+    "en": "an obstetrician"
+   },
+   {
+    "da": "en graviditet",
+    "en": "a pregnancy"
+   }
+  ],
+  "sentence": {
+   "da": "En **jordemoder** hjælper kvinden, mens hun føder.",
+   "en": "A midwife helps the woman while she gives birth."
+  }
+ },
+ "en jordnød": {
+  "file": "j.json",
+  "explanation": "\"En jordnød\" means \"a peanut\", built from jord (ground) and nød (nut).",
+  "forms": [
+   {
+    "da": "en jordnød",
+    "en": "a peanut"
+   },
+   {
+    "da": "jordnødden",
+    "en": "the peanut"
+   },
+   {
+    "da": "jordnødder",
+    "en": "peanuts"
+   },
+   {
+    "da": "jordnødderne",
+    "en": "the peanuts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hasselnød",
+    "en": "a hazelnut"
+   },
+   {
+    "da": "en valnød",
+    "en": "a walnut"
+   },
+   {
+    "da": "en mandel",
+    "en": "an almond"
+   },
+   {
+    "da": "jordnøddesmør",
+    "en": "peanut butter"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg åbner skallen og spiser en **jordnød**.",
+   "en": "I open the shell and eat a peanut."
+  }
+ },
+ "en journal": {
+  "file": "j.json",
+  "explanation": "\"En journal\" means \"a medical record\", the file where a doctor or a hospital writes down your health history. It is also used for a case file at other offices. Do not use it for a diary: that is \"en dagbog\" (a diary).",
+  "forms": [
+   {
+    "da": "en journal",
+    "en": "a medical record"
+   },
+   {
+    "da": "journalen",
+    "en": "the medical record"
+   },
+   {
+    "da": "journaler",
+    "en": "medical records"
+   },
+   {
+    "da": "journalerne",
+    "en": "the medical records"
+   }
+  ],
+  "related": [
+   {
+    "da": "et tidsskrift",
+    "en": "a journal (periodical)"
+   },
+   {
+    "da": "en patient",
+    "en": "a patient"
+   },
+   {
+    "da": "en sygehistorie",
+    "en": "a medical history"
+   },
+   {
+    "da": "en lægeerklæring",
+    "en": "a medical certificate"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen skriver i din **journal**, hvilken medicin du har fået.",
+   "en": "The doctor writes in your medical record which medicine you have gotten."
+  }
+ },
+ "en journalist": {
+  "file": "j.json",
+  "explanation": "\"En journalist\" means \"a journalist\", someone who reports news for papers, radio or TV.",
+  "forms": [
+   {
+    "da": "en journalist",
+    "en": "a journalist"
+   },
+   {
+    "da": "journalisten",
+    "en": "the journalist"
+   },
+   {
+    "da": "journalister",
+    "en": "journalists"
+   },
+   {
+    "da": "journalisterne",
+    "en": "the journalists"
+   }
+  ],
+  "related": [
+   {
+    "da": "en avis",
+    "en": "a newspaper"
+   },
+   {
+    "da": "en redaktør",
+    "en": "an editor"
+   },
+   {
+    "da": "en forfatter",
+    "en": "an author"
+   }
+  ],
+  "sentence": {
+   "da": "En **journalist** skriver om nyheder i avisen.",
+   "en": "A journalist writes about news in the paper."
+  }
+ },
+ "en juleferie": {
+  "file": "j.json",
+  "explanation": "\"En juleferie\" means \"a Christmas vacation\", the time off from school or work around Christmas. It is built from jul (Christmas) and ferie (vacation). \"Ferie\" is also used as a separate word: \"Jeg har ferie\" (I am on vacation).",
+  "forms": [
+   {
+    "da": "en juleferie",
+    "en": "a Christmas vacation"
+   },
+   {
+    "da": "juleferien",
+    "en": "the Christmas vacation"
+   },
+   {
+    "da": "juleferier",
+    "en": "Christmas vacations"
+   },
+   {
+    "da": "juleferierne",
+    "en": "the Christmas vacations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vinterferie",
+    "en": "a winter break"
+   },
+   {
+    "da": "en sommerferie",
+    "en": "a summer vacation"
+   },
+   {
+    "da": "en påskeferie",
+    "en": "an Easter vacation"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal have en lang **juleferie** sammen med familien.",
+   "en": "We are going to have a long Christmas vacation together with the family."
+  }
+ },
+ "en julefrokost": {
+  "file": "j.json",
+  "explanation": "\"En julefrokost\" means \"a Christmas lunch\", a big get-together before Christmas with food and drinks. Despite the name, it often starts at noon and runs late into the evening.",
+  "forms": [
+   {
+    "da": "en julefrokost",
+    "en": "a Christmas lunch"
+   },
+   {
+    "da": "julefrokosten",
+    "en": "the Christmas lunch"
+   },
+   {
+    "da": "julefrokoster",
+    "en": "Christmas lunches"
+   },
+   {
+    "da": "julefrokosterne",
+    "en": "the Christmas lunches"
+   }
+  ],
+  "related": [
+   {
+    "da": "en julemiddag",
+    "en": "a Christmas dinner"
+   },
+   {
+    "da": "en fest",
+    "en": "a party"
+   },
+   {
+    "da": "en firmafest",
+    "en": "a company party"
+   },
+   {
+    "da": "en middag",
+    "en": "a dinner"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har **julefrokost** med kollegerne i december.",
+   "en": "We have a Christmas lunch with our coworkers in December."
+  }
+ },
+ "en julegave": {
+  "file": "j.json",
+  "explanation": "\"En julegave\" means \"a Christmas present\". It is built from jul (Christmas) and en gave (a gift). The word \"gave\" also stands alone for any gift: \"Tak for gaven!\" (Thanks for the gift!)",
+  "forms": [
+   {
+    "da": "en julegave",
+    "en": "a Christmas present"
+   },
+   {
+    "da": "julegaven",
+    "en": "the Christmas present"
+   },
+   {
+    "da": "julegaver",
+    "en": "Christmas presents"
+   },
+   {
+    "da": "julegaverne",
+    "en": "the Christmas presents"
+   }
+  ],
+  "related": [
+   {
+    "da": "et juletræ",
+    "en": "a Christmas tree"
+   },
+   {
+    "da": "juleaften",
+    "en": "Christmas Eve"
+   },
+   {
+    "da": "en julemand",
+    "en": "Santa Claus"
+   },
+   {
+    "da": "en fødselsdagsgave",
+    "en": "a birthday present"
+   }
+  ],
+  "sentence": {
+   "da": "Under juletræet ligger en **julegave** til dig.",
+   "en": "Under the Christmas tree there is a Christmas present for you."
+  }
+ },
+ "en julemand": {
+  "file": "j.json",
+  "explanation": "\"En julemand\" means \"a Santa Claus\", the man in a red suit who brings gifts at Christmas. It is built from jul (Christmas) and mand (man). The part \"jul\" starts many words, such as \"et julekort\" (a Christmas card) and \"en julesang\" (a Christmas carol).",
+  "forms": [
+   {
+    "da": "en julemand",
+    "en": "a Santa Claus"
+   },
+   {
+    "da": "julemanden",
+    "en": "the Santa Claus"
+   },
+   {
+    "da": "julemænd",
+    "en": "Santa Clauses"
+   },
+   {
+    "da": "julemændene",
+    "en": "the Santa Clauses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nisse",
+    "en": "a gnome / elf"
+   },
+   {
+    "da": "et juletræ",
+    "en": "a Christmas tree"
+   },
+   {
+    "da": "en julegave",
+    "en": "a Christmas present"
+   },
+   {
+    "da": "juleaften",
+    "en": "Christmas Eve"
+   }
+  ],
+  "sentence": {
+   "da": "Far er klædt ud som **julemand** i dag.",
+   "en": "Dad is dressed up as Santa Claus today."
+  }
+ },
+ "en julemiddag": {
+  "file": "j.json",
+  "explanation": "\"En julemiddag\" means \"a Christmas dinner\", the big meal at Christmas. It is built from jul (Christmas) and middag (dinner). \"Middag\" is the main hot meal of the day, eaten in the evening.",
+  "forms": [
+   {
+    "da": "en julemiddag",
+    "en": "a Christmas dinner"
+   },
+   {
+    "da": "julemiddagen",
+    "en": "the Christmas dinner"
+   },
+   {
+    "da": "julemiddage",
+    "en": "Christmas dinners"
+   },
+   {
+    "da": "julemiddagene",
+    "en": "the Christmas dinners"
+   }
+  ],
+  "related": [
+   {
+    "da": "en julefrokost",
+    "en": "a Christmas lunch party"
+   },
+   {
+    "da": "juleaften",
+    "en": "Christmas Eve"
+   },
+   {
+    "da": "en julegave",
+    "en": "a Christmas present"
+   },
+   {
+    "da": "et juletræ",
+    "en": "a Christmas tree"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiser **julemiddag** hos min mormor.",
+   "en": "We eat Christmas dinner at my grandmother's."
+  }
+ },
+ "en julesang": {
+  "file": "j.json",
+  "explanation": "\"En julesang\" means \"a Christmas carol\", a song that belongs to Christmas. It is built from jul (Christmas) and sang (song).",
+  "forms": [
+   {
+    "da": "en julesang",
+    "en": "a Christmas carol"
+   },
+   {
+    "da": "julesangen",
+    "en": "the Christmas carol"
+   },
+   {
+    "da": "julesange",
+    "en": "Christmas carols"
+   },
+   {
+    "da": "julesangene",
+    "en": "the Christmas carols"
+   }
+  ],
+  "related": [
+   {
+    "da": "en julesalme",
+    "en": "a Christmas hymn"
+   },
+   {
+    "da": "en salme",
+    "en": "a hymn"
+   },
+   {
+    "da": "at synge",
+    "en": "to sing"
+   }
+  ],
+  "sentence": {
+   "da": "Vi synger altid en **julesang** ved juletræet.",
+   "en": "We always sing a Christmas carol at the Christmas tree."
+  }
+ },
+ "en julestjerne": {
+  "file": "j.json",
+  "explanation": "\"En julestjerne\" means \"a poinsettia\", the plant with red leaves that many Danes put in the window before Christmas. The word can also mean a star decoration for the tree or the window. You can tell which one it is from the context of the sentence.",
+  "forms": [
+   {
+    "da": "en julestjerne",
+    "en": "a poinsettia"
+   },
+   {
+    "da": "julestjernen",
+    "en": "the poinsettia"
+   },
+   {
+    "da": "julestjerner",
+    "en": "poinsettias"
+   },
+   {
+    "da": "julestjernerne",
+    "en": "the poinsettias"
+   }
+  ],
+  "related": [
+   {
+    "da": "et juletræ",
+    "en": "a Christmas tree"
+   },
+   {
+    "da": "en julekalender",
+    "en": "a Christmas calendar"
+   },
+   {
+    "da": "en adventskrans",
+    "en": "an Advent wreath"
+   },
+   {
+    "da": "en julepynt",
+    "en": "Christmas decoration"
+   }
+  ],
+  "sentence": {
+   "da": "I december står der en rød **julestjerne** i vinduet i stuen.",
+   "en": "In December a red poinsettia stands in the living room window."
+  }
+ },
+ "en jungle": {
+  "file": "j.json",
+  "explanation": "\"En jungle\" means \"a jungle\", the thick, hot tropical land full of plants and trees. It also means a confusing mess: \"en jungle af regler\" (a jungle of rules).",
+  "forms": [
+   {
+    "da": "en jungle",
+    "en": "a jungle"
+   },
+   {
+    "da": "junglen",
+    "en": "the jungle"
+   },
+   {
+    "da": "jungler",
+    "en": "jungles"
+   },
+   {
+    "da": "junglerne",
+    "en": "the jungles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en regnskov",
+    "en": "a rainforest"
+   },
+   {
+    "da": "en skov",
+    "en": "a forest"
+   },
+   {
+    "da": "en savanne",
+    "en": "a savanna"
+   }
+  ],
+  "sentence": {
+   "da": "Tigeren bor i en tæt **jungle**.",
+   "en": "The tiger lives in a dense jungle."
+  }
+ },
+ "en jurist": {
+  "file": "j.json",
+  "explanation": "\"En jurist\" means \"a legal professional\", someone with a university degree in law. A \"jurist\" may work for the state, a company or a union. The word is wider than the English \"lawyer\": a \"jurist\" may never argue a case in court. For that job, use \"en advokat\" (a lawyer).",
+  "forms": [
+   {
+    "da": "en jurist",
+    "en": "a legal professional"
+   },
+   {
+    "da": "juristen",
+    "en": "the legal professional"
+   },
+   {
+    "da": "jurister",
+    "en": "legal professionals"
+   },
+   {
+    "da": "juristerne",
+    "en": "the legal professionals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dommer",
+    "en": "a judge"
+   },
+   {
+    "da": "en anklager",
+    "en": "a prosecutor"
+   },
+   {
+    "da": "en ret",
+    "en": "a court"
+   }
+  ],
+  "sentence": {
+   "da": "Han er uddannet **jurist** og arbejder i et ministerium.",
+   "en": "He is a trained legal professional and works in a ministry."
+  }
+ },
+ "en jury": {
+  "file": "j.json",
+  "explanation": "\"En jury\" means \"a jury\", a group of people who judge something, such as a talent show or a prize contest. They give points or pick the winner.",
+  "forms": [
+   {
+    "da": "en jury",
+    "en": "a jury"
+   },
+   {
+    "da": "juryen",
+    "en": "the jury"
+   },
+   {
+    "da": "juryer",
+    "en": "juries"
+   },
+   {
+    "da": "juryerne",
+    "en": "the juries"
+   }
+  ],
+  "related": [
+   {
+    "da": "en domstol",
+    "en": "a court"
+   },
+   {
+    "da": "en konkurrence",
+    "en": "a contest"
+   },
+   {
+    "da": "en dommer",
+    "en": "a judge"
+   },
+   {
+    "da": "en bedømmelse",
+    "en": "an assessment"
+   }
+  ],
+  "sentence": {
+   "da": "I tv-programmet giver en **jury** point til hver deltager.",
+   "en": "In the TV show a jury gives points to each contestant."
+  }
+ },
+ "en jyde": {
+  "file": "j.json",
+  "explanation": "\"En jyde\" means \"a Jutlander\", a person from the large part of Denmark that is connected to Germany. Their way of speaking is called \"jysk\" (Jutlandic), a dialect that can be hard to understand for other Danes.",
+  "forms": [
+   {
+    "da": "en jyde",
+    "en": "a Jutlander"
+   },
+   {
+    "da": "jyden",
+    "en": "the Jutlander"
+   },
+   {
+    "da": "jyder",
+    "en": "Jutlanders"
+   },
+   {
+    "da": "jyderne",
+    "en": "the Jutlanders"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fynbo",
+    "en": "a person from Funen"
+   },
+   {
+    "da": "en sjællænder",
+    "en": "a person from Zealand"
+   },
+   {
+    "da": "en bornholmer",
+    "en": "a person from Bornholm"
+   },
+   {
+    "da": "en københavner",
+    "en": "a Copenhagener"
+   }
+  ],
+  "sentence": {
+   "da": "Min nabo er **jyde** og kommer fra Aalborg.",
+   "en": "My neighbor is a Jutlander and comes from Aalborg."
+  }
+ },
+ "en jæger": {
+  "file": "j.json",
+  "explanation": "\"En jæger\" means \"a hunter\", a person who shoots wild animals, usually in forests and fields. In Denmark, a hunter needs a license called \"et jagttegn\" (a hunting license).",
+  "forms": [
+   {
+    "da": "en jæger",
+    "en": "a hunter"
+   },
+   {
+    "da": "jægeren",
+    "en": "the hunter"
+   },
+   {
+    "da": "jægere",
+    "en": "hunters"
+   },
+   {
+    "da": "jægerne",
+    "en": "the hunters"
+   }
+  ],
+  "related": [
+   {
+    "da": "et vildt",
+    "en": "game (hunted animals)"
+   },
+   {
+    "da": "en jagt",
+    "en": "a hunt"
+   },
+   {
+    "da": "en skytte",
+    "en": "a shooter"
+   },
+   {
+    "da": "et gevær",
+    "en": "a rifle"
+   }
+  ],
+  "sentence": {
+   "da": "En **jæger** skyder hjorte og fasaner i skoven.",
+   "en": "A hunter shoots deer and pheasants in the forest."
+  }
+ },
+ "en jætte": {
+  "file": "j.json",
+  "explanation": "\"En jætte\" means \"a giant\". In old Norse stories, \"jætter\" (giants) are huge beings who live in the wild and are often enemies of the gods. Ancient stone burial chambers are called \"jættestuer\" (giants' chambers), because people once believed giants built them.",
+  "forms": [
+   {
+    "da": "en jætte",
+    "en": "a giant (Norse mythology)"
+   },
+   {
+    "da": "jætten",
+    "en": "the giant"
+   },
+   {
+    "da": "jætter",
+    "en": "giants"
+   },
+   {
+    "da": "jætterne",
+    "en": "the giants"
+   }
+  ],
+  "related": [
+   {
+    "da": "en trold",
+    "en": "a troll"
+   },
+   {
+    "da": "en dværg",
+    "en": "a dwarf"
+   },
+   {
+    "da": "et uhyre",
+    "en": "a monster"
+   },
+   {
+    "da": "en alf",
+    "en": "an elf"
+   }
+  ],
+  "sentence": {
+   "da": "I de gamle nordiske sagn bor der en **jætte** i bjerget.",
+   "en": "In the old Norse legends a giant lives in the mountain."
+  }
+ },
+ "en jøde": {
+  "file": "j.json",
+  "explanation": "\"En jøde\" means \"a Jew\", a person who belongs to the Jewish people or religion. Danish writes \"jøde\" with a lowercase j. The word for Jewish is \"jødisk\".",
+  "forms": [
+   {
+    "da": "en jøde",
+    "en": "a Jew"
+   },
+   {
+    "da": "jøden",
+    "en": "the Jew"
+   },
+   {
+    "da": "jøder",
+    "en": "Jews"
+   },
+   {
+    "da": "jøderne",
+    "en": "the Jews"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rabbiner",
+    "en": "a rabbi"
+   },
+   {
+    "da": "jødedom",
+    "en": "Judaism"
+   },
+   {
+    "da": "en kristen",
+    "en": "a Christian"
+   },
+   {
+    "da": "en muslim",
+    "en": "a Muslim"
+   }
+  ],
+  "sentence": {
+   "da": "Min ven er **jøde** og går i synagoge om lørdagen.",
+   "en": "My friend is Jewish and goes to synagogue on Saturdays."
+  }
+ },
+ "et jakkesæt": {
+  "file": "j.json",
+  "explanation": "\"Et jakkesæt\" means \"a suit\", a jacket with matching pants. It is built from jakke (jacket) and sæt (set). \"Et sæt\" also means a set of things that belong together: \"et sæt bestik\" (a set of silverware).",
+  "forms": [
+   {
+    "da": "et jakkesæt",
+    "en": "a suit"
+   },
+   {
+    "da": "jakkesættet",
+    "en": "the suit"
+   },
+   {
+    "da": "jakkesæt",
+    "en": "suits"
+   },
+   {
+    "da": "jakkesættene",
+    "en": "the suits"
+   }
+  ],
+  "related": [
+   {
+    "da": "et slips",
+    "en": "a tie"
+   },
+   {
+    "da": "en skjorte",
+    "en": "a shirt"
+   },
+   {
+    "da": "en vest",
+    "en": "a vest"
+   },
+   {
+    "da": "en butterfly",
+    "en": "a bow tie"
+   }
+  ],
+  "sentence": {
+   "da": "Mange mænd har et **jakkesæt** på til et bryllup.",
+   "en": "Many men wear a suit to a wedding."
+  }
+ },
+ "et job": {
+  "file": "j.json",
+  "explanation": "\"Et job\" means \"a job\", the paid position you hold: \"Jeg har et nyt job\" (I have a new job). For the activity or the place where you work, Danes say \"arbejde\" (work): \"Jeg skal på arbejde\" (I am going to work).",
+  "forms": [
+   {
+    "da": "et job",
+    "en": "a job"
+   },
+   {
+    "da": "jobbet",
+    "en": "the job"
+   },
+   {
+    "da": "job",
+    "en": "jobs"
+   },
+   {
+    "da": "jobbene",
+    "en": "the jobs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en jobsamtale",
+    "en": "a job interview"
+   },
+   {
+    "da": "en jobansøgning",
+    "en": "a job application"
+   },
+   {
+    "da": "et jobtilbud",
+    "en": "a job offer"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan lide mit **job** på kontoret.",
+   "en": "I like my job at the office."
+  }
+ },
+ "et jobcenter": {
+  "file": "j.json",
+  "explanation": "\"Et jobcenter\" means \"a job center\", the public office run by the local council where people without work get help finding a new job and applying for financial support.",
+  "forms": [
+   {
+    "da": "et jobcenter",
+    "en": "a job center"
+   },
+   {
+    "da": "jobcenteret",
+    "en": "the job center"
+   },
+   {
+    "da": "jobcentre",
+    "en": "job centers"
+   },
+   {
+    "da": "jobcentrene",
+    "en": "the job centers"
+   }
+  ],
+  "related": [
+   {
+    "da": "dagpenge",
+    "en": "unemployment benefit"
+   },
+   {
+    "da": "en kommune",
+    "en": "a municipality"
+   },
+   {
+    "da": "arbejdsløs",
+    "en": "unemployed"
+   },
+   {
+    "da": "en sagsbehandler",
+    "en": "a caseworker"
+   }
+  ],
+  "sentence": {
+   "da": "Kommunens **jobcenter** hjælper folk uden arbejde med at finde et nyt.",
+   "en": "The municipality's job center helps people without work find a new one."
+  }
+ },
+ "et jordbær": {
+  "file": "j.json",
+  "explanation": "\"Et jordbær\" means \"a strawberry\". It is made of jord (earth, ground) and et bær (a berry). \"Jord\" also means soil: \"Planten står i jord\" (The plant is in the soil).",
+  "forms": [
+   {
+    "da": "et jordbær",
+    "en": "a strawberry"
+   },
+   {
+    "da": "jordbærret",
+    "en": "the strawberry"
+   },
+   {
+    "da": "jordbær",
+    "en": "strawberries"
+   },
+   {
+    "da": "jordbærrene",
+    "en": "the strawberries"
+   }
+  ],
+  "related": [
+   {
+    "da": "et hindbær",
+    "en": "a raspberry"
+   },
+   {
+    "da": "et blåbær",
+    "en": "a blueberry"
+   },
+   {
+    "da": "et brombær",
+    "en": "a blackberry"
+   }
+  ],
+  "sentence": {
+   "da": "Om sommeren spiser vi **jordbær** med fløde.",
+   "en": "In the summer we eat strawberries with cream."
+  }
+ },
+ "et jordskælv": {
+  "file": "j.json",
+  "explanation": "\"Et jordskælv\" means \"an earthquake\". It is built from jord (earth) and skælv (a tremble). \"At skælve\" (to tremble) also describes a person: \"Han skælver af kulde\" (He trembles from cold).",
+  "forms": [
+   {
+    "da": "et jordskælv",
+    "en": "an earthquake"
+   },
+   {
+    "da": "jordskælvet",
+    "en": "the earthquake"
+   },
+   {
+    "da": "jordskælv",
+    "en": "earthquakes"
+   },
+   {
+    "da": "jordskælvene",
+    "en": "the earthquakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vulkan",
+    "en": "a volcano"
+   },
+   {
+    "da": "at ryste",
+    "en": "to shake"
+   },
+   {
+    "da": "en tsunami",
+    "en": "a tsunami"
+   },
+   {
+    "da": "en naturkatastrofe",
+    "en": "a natural disaster"
+   }
+  ],
+  "sentence": {
+   "da": "Husene faldt sammen efter et **jordskælv**.",
+   "en": "The houses collapsed after an earthquake."
+  }
+ },
+ "et jubilæum": {
+  "file": "j.json",
+  "explanation": "\"Et jubilæum\" means \"an anniversary\" of a round number of years, such as 25 or 50, for a company, a club or someone's job. A couple's anniversary uses a different word, \"en bryllupsdag\" (a wedding anniversary).",
+  "forms": [
+   {
+    "da": "et jubilæum",
+    "en": "an anniversary"
+   },
+   {
+    "da": "jubilæet",
+    "en": "the anniversary"
+   },
+   {
+    "da": "jubilæer",
+    "en": "anniversaries"
+   },
+   {
+    "da": "jubilæerne",
+    "en": "the anniversaries"
+   }
+  ],
+  "related": [
+   {
+    "da": "en jubilar",
+    "en": "a person being honored"
+   },
+   {
+    "da": "en mærkedag",
+    "en": "a milestone day"
+   },
+   {
+    "da": "en fødselsdag",
+    "en": "a birthday"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet fejrer sit 25-års **jubilæum** med en stor fest.",
+   "en": "The company is celebrating its 25th anniversary with a big party."
+  }
+ },
+ "et julesalg": {
+  "file": "j.json",
+  "explanation": "\"Et julesalg\" means \"a Christmas sale\", special offers in shops around Christmas.",
+  "forms": [
+   {
+    "da": "et julesalg",
+    "en": "a Christmas sale"
+   },
+   {
+    "da": "julesalget",
+    "en": "the Christmas sale"
+   },
+   {
+    "da": "julesalg",
+    "en": "Christmas sales"
+   },
+   {
+    "da": "julesalgene",
+    "en": "the Christmas sales"
+   }
+  ],
+  "related": [
+   {
+    "da": "et salg",
+    "en": "a sale"
+   },
+   {
+    "da": "et udsalg",
+    "en": "a clearance sale"
+   },
+   {
+    "da": "et tilbud",
+    "en": "an offer"
+   },
+   {
+    "da": "en rabat",
+    "en": "a discount"
+   }
+  ],
+  "sentence": {
+   "da": "I december har mange butikker **julesalg**.",
+   "en": "In December, many shops have a Christmas sale."
+  }
+ },
+ "et juletræ": {
+  "file": "j.json",
+  "explanation": "\"Et juletræ\" means \"a Christmas tree\". It is made of jul (Christmas) and et træ (a tree). \"Jul\" also begins other words, such as \"et julekort\" (a Christmas card).",
+  "forms": [
+   {
+    "da": "et juletræ",
+    "en": "a Christmas tree"
+   },
+   {
+    "da": "juletræet",
+    "en": "the Christmas tree"
+   },
+   {
+    "da": "juletræer",
+    "en": "Christmas trees"
+   },
+   {
+    "da": "juletræerne",
+    "en": "the Christmas trees"
+   }
+  ],
+  "related": [
+   {
+    "da": "en julegave",
+    "en": "a Christmas present"
+   },
+   {
+    "da": "juleaften",
+    "en": "Christmas Eve"
+   },
+   {
+    "da": "en julemand",
+    "en": "Santa Claus"
+   },
+   {
+    "da": "en julekalender",
+    "en": "an advent calendar"
+   }
+  ],
+  "sentence": {
+   "da": "Vi pynter et **juletræ** med lys og kugler.",
+   "en": "We decorate a Christmas tree with lights and ornaments."
+  }
+ },
+ "ja": {
+  "file": "j.json",
+  "explanation": "\"Ja\" means \"yes\". \"Ja, tak\" means \"yes, please\" and is the polite way to accept an offer. If a question has \"ikke\" (not) in it, like \"Kommer du ikke?\" (Aren't you coming?), Danes answer \"jo\" (yes) instead of \"ja\".",
+  "forms": [
+   {
+    "da": "Ja, tak.",
+    "en": "Yes, please."
+   },
+   {
+    "da": "Ja, det er rigtigt.",
+    "en": "Yes, that's right."
+   },
+   {
+    "da": "Ja, selvfølgelig.",
+    "en": "Yes, of course."
+   }
+  ],
+  "related": [
+   {
+    "da": "nej",
+    "en": "no"
+   },
+   {
+    "da": "gerne",
+    "en": "gladly"
+   },
+   {
+    "da": "nej tak",
+    "en": "no thanks"
+   }
+  ],
+  "sentence": {
+   "da": "Vil du have kaffe? **Ja**, tak.",
+   "en": "Do you want coffee? Yes, please."
+  }
+ },
+ "jalousi": {
+  "file": "j.json",
+  "explanation": "\"Jalousi\" means \"jealousy\", the painful feeling when you fear losing someone or want what another person has. Someone who feels it is \"jaloux\" (jealous).",
+  "forms": [
+   {
+    "da": "en jalousi",
+    "en": "jealousy"
+   },
+   {
+    "da": "jalousien",
+    "en": "the jealousy"
+   },
+   {
+    "da": "fuld af jalousi",
+    "en": "full of jealousy"
+   },
+   {
+    "da": "jalousi i et forhold",
+    "en": "jealousy in a relationship"
+   }
+  ],
+  "related": [
+   {
+    "da": "en misundelse",
+    "en": "envy"
+   },
+   {
+    "da": "skinsyge",
+    "en": "jealousy in love"
+   },
+   {
+    "da": "misundelig",
+    "en": "envious"
+   },
+   {
+    "da": "at misunde",
+    "en": "to envy"
+   }
+  ],
+  "sentence": {
+   "da": "**Jalousi** kan ødelægge et godt forhold.",
+   "en": "Jealousy can ruin a good relationship."
+  }
+ },
+ "jaloux": {
+  "file": "j.json",
+  "explanation": "\"Jaloux\" means \"jealous\", fearing that someone may take what you love or want. To name the person you are jealous of, add \"på\" (of) after \"jaloux\": \"jaloux på mig\" (jealous of me).",
+  "forms": [
+   {
+    "da": "Jeg er jaloux",
+    "en": "I am jealous"
+   },
+   {
+    "da": "Hun er jaloux på mig",
+    "en": "She is jealous of me"
+   },
+   {
+    "da": "Vi er ikke jaloux",
+    "en": "We are not jealous"
+   }
+  ],
+  "related": [
+   {
+    "da": "misundelig",
+    "en": "envious"
+   },
+   {
+    "da": "en jalousi",
+    "en": "jealousy"
+   },
+   {
+    "da": "at misunde",
+    "en": "to envy"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **jaloux** på sin bror.",
+   "en": "He is jealous of his brother."
+  }
+ },
+ "jaloux på": {
+  "file": "j.json",
+  "explanation": "\"Jaloux på\" means \"jealous of\". It can be about wanting what someone has: \"Jeg er jaloux på din nye bil\" (I am jealous of your new car). It can also be about love: \"Han er jaloux på hendes ven\" (He is jealous of her friend).",
+  "forms": [
+   {
+    "da": "Er du jaloux på ham?",
+    "en": "Are you jealous of him?"
+   },
+   {
+    "da": "Hun er jaloux på sin søster.",
+    "en": "She is jealous of her sister."
+   },
+   {
+    "da": "De er jaloux på os.",
+    "en": "They are jealous of us."
+   }
+  ],
+  "related": [
+   {
+    "da": "misundelig på",
+    "en": "envious of"
+   },
+   {
+    "da": "at misunde",
+    "en": "to envy"
+   },
+   {
+    "da": "en jalousi",
+    "en": "jealousy"
+   },
+   {
+    "da": "skinsyg",
+    "en": "jealous in love"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **jaloux på** min nye cykel.",
+   "en": "He is jealous of my new bike."
+  }
+ },
+ "jamen": {
+  "file": "j.json",
+  "explanation": "\"Jamen\" means \"but\" or \"well\" and starts a reply when you disagree or object: \"Jamen, det passer ikke!\" (But that is not true!).",
+  "forms": [
+   {
+    "da": "Jamen, det er sandt!",
+    "en": "But it is true!"
+   },
+   {
+    "da": "Jamen, hvorfor ikke?",
+    "en": "Well, why not?"
+   },
+   {
+    "da": "Jamen dog!",
+    "en": "Well, I never!"
+   }
+  ],
+  "related": [
+   {
+    "da": "men",
+    "en": "but"
+   },
+   {
+    "da": "altså",
+    "en": "well, you know"
+   },
+   {
+    "da": "nå",
+    "en": "oh, well"
+   }
+  ],
+  "sentence": {
+   "da": "**Jamen**, det var slet ikke min idé!",
+   "en": "But that was not my idea at all!"
+  }
+ },
+ "januar": {
+  "file": "j.json",
+  "explanation": "\"Januar\" means \"January\". Month names are written with a lowercase letter: \"midt i januar\" (in the middle of January).",
+  "forms": [
+   {
+    "da": "januar",
+    "en": "January"
+   },
+   {
+    "da": "i januar",
+    "en": "in January"
+   },
+   {
+    "da": "i starten af januar",
+    "en": "early in January"
+   }
+  ],
+  "related": [
+   {
+    "da": "februar",
+    "en": "February"
+   },
+   {
+    "da": "december",
+    "en": "December"
+   },
+   {
+    "da": "marts",
+    "en": "March"
+   }
+  ],
+  "sentence": {
+   "da": "Det er koldt i **januar**.",
+   "en": "It is cold in January."
+  }
+ },
+ "japan": {
+  "file": "j.json",
+  "explanation": "\"Japan\" means \"Japan\". The J is pronounced like an English Y, so it sounds like YAH-pan.",
+  "forms": [
+   {
+    "da": "Japan",
+    "en": "Japan"
+   },
+   {
+    "da": "i Japan",
+    "en": "in Japan"
+   },
+   {
+    "da": "til Japan",
+    "en": "to Japan"
+   }
+  ],
+  "related": [
+   {
+    "da": "en japaner",
+    "en": "a Japanese person"
+   },
+   {
+    "da": "japansk",
+    "en": "Japanese"
+   },
+   {
+    "da": "Kina",
+    "en": "China"
+   }
+  ],
+  "sentence": {
+   "da": "Sushi kommer fra **Japan**.",
+   "en": "Sushi comes from Japan."
+  }
+ },
+ "japansk": {
+  "file": "j.json",
+  "explanation": "\"Japansk\" means \"Japanese\". It is written with a lowercase letter (\"japansk\"), while the English word \"Japanese\" has an uppercase letter. It is also the name of the language: \"Jeg taler japansk\" (I speak Japanese).",
+  "forms": [
+   {
+    "da": "en japansk bil",
+    "en": "a Japanese car"
+   },
+   {
+    "da": "et japansk hus",
+    "en": "a Japanese house"
+   },
+   {
+    "da": "japanske biler",
+    "en": "Japanese cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "Japan",
+    "en": "Japan"
+   },
+   {
+    "da": "en japaner",
+    "en": "a Japanese person"
+   },
+   {
+    "da": "kinesisk",
+    "en": "Chinese"
+   }
+  ],
+  "sentence": {
+   "da": "Sushi er **japansk** mad.",
+   "en": "Sushi is Japanese food."
+  }
+ },
+ "jaså": {
+  "file": "j.json",
+  "explanation": "\"Jaså\" means \"is that so\" and answers news that you find surprising: \"Jeg har købt en hund. Jaså!\" (I have bought a dog. Is that so!).",
+  "forms": [
+   {
+    "da": "Jaså?",
+    "en": "Is that so?"
+   },
+   {
+    "da": "Jaså, det vidste jeg ikke.",
+    "en": "Oh, I did not know that."
+   },
+   {
+    "da": "Nå, jaså.",
+    "en": "Oh, I see."
+   }
+  ],
+  "related": [
+   {
+    "da": "javel",
+    "en": "I see"
+   },
+   {
+    "da": "virkelig",
+    "en": "really"
+   },
+   {
+    "da": "nå",
+    "en": "oh, well"
+   },
+   {
+    "da": "aha",
+    "en": "aha"
+   }
+  ],
+  "sentence": {
+   "da": "Du har fået nyt job? **Jaså**, det er flot.",
+   "en": "You have a new job? Is that so? That is great."
+  }
+ },
+ "javel": {
+  "file": "j.json",
+  "explanation": "\"Javel\" means \"I see\" and shows you have heard something, often with a hint of surprise: \"Jeg er flyttet. Javel\" (I have moved. I see). A formal, old-fashioned reply is \"Javel, hr. Hansen\" (Very well, Mr. Hansen).",
+  "forms": [
+   {
+    "da": "Javel.",
+    "en": "I see."
+   },
+   {
+    "da": "Javel, hr. Hansen.",
+    "en": "Very well, Mr. Hansen."
+   },
+   {
+    "da": "Nå, javel.",
+    "en": "Oh, I see."
+   }
+  ],
+  "related": [
+   {
+    "da": "jaså",
+    "en": "is that so"
+   },
+   {
+    "da": "nå",
+    "en": "oh, well"
+   },
+   {
+    "da": "udmærket",
+    "en": "fine, very well"
+   },
+   {
+    "da": "aha",
+    "en": "oh, I see"
+   }
+  ],
+  "sentence": {
+   "da": "Du kommer for sent? **Javel**.",
+   "en": "You are coming late? I see."
+  }
+ }
+}

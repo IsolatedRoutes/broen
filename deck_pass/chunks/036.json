@@ -1,0 +1,4250 @@
+{
+ "en kirke": {
+  "file": "k.json",
+  "explanation": "\"En kirke\" means \"a church\", a building where people hold services, weddings and funerals.",
+  "forms": [
+   {
+    "da": "en kirke",
+    "en": "a church"
+   },
+   {
+    "da": "kirken",
+    "en": "the church"
+   },
+   {
+    "da": "kirker",
+    "en": "churches"
+   },
+   {
+    "da": "kirkerne",
+    "en": "the churches"
+   }
+  ],
+  "related": [
+   {
+    "da": "en præst",
+    "en": "a priest"
+   },
+   {
+    "da": "en kirkeklokke",
+    "en": "a church bell"
+   },
+   {
+    "da": "et kirketårn",
+    "en": "a church tower"
+   }
+  ],
+  "sentence": {
+   "da": "Folk beder og synger i en **kirke**.",
+   "en": "People pray and sing in a church."
+  }
+ },
+ "en kirkegård": {
+  "file": "k.json",
+  "explanation": "\"En kirkegård\" means \"a cemetery\", the place where the dead are buried, usually next to a church. It is built from kirke (church) and gård (yard). \"Gård\" also means \"a farm\": \"en gård på landet\" (a farm in the country).",
+  "forms": [
+   {
+    "da": "en kirkegård",
+    "en": "a cemetery"
+   },
+   {
+    "da": "kirkegården",
+    "en": "the cemetery"
+   },
+   {
+    "da": "kirkegårde",
+    "en": "cemeteries"
+   },
+   {
+    "da": "kirkegårdene",
+    "en": "the cemeteries"
+   }
+  ],
+  "related": [
+   {
+    "da": "en grav",
+    "en": "a grave"
+   },
+   {
+    "da": "en begravelse",
+    "en": "a funeral"
+   },
+   {
+    "da": "en gravsten",
+    "en": "a gravestone"
+   }
+  ],
+  "sentence": {
+   "da": "Der er mange grave på den gamle **kirkegård**.",
+   "en": "There are many graves in the old cemetery."
+  }
+ },
+ "en kirurg": {
+  "file": "k.json",
+  "explanation": "\"En kirurg\" means \"a surgeon\", a medical specialist who treats illness and injury by cutting into the body. The work itself is called \"kirurgi\" (surgery).",
+  "forms": [
+   {
+    "da": "en kirurg",
+    "en": "a surgeon"
+   },
+   {
+    "da": "kirurgen",
+    "en": "the surgeon"
+   },
+   {
+    "da": "kirurger",
+    "en": "surgeons"
+   },
+   {
+    "da": "kirurgerne",
+    "en": "the surgeons"
+   }
+  ],
+  "related": [
+   {
+    "da": "en læge",
+    "en": "a doctor"
+   },
+   {
+    "da": "en operation",
+    "en": "an operation"
+   },
+   {
+    "da": "en sygeplejerske",
+    "en": "a nurse"
+   },
+   {
+    "da": "en narkoselæge",
+    "en": "an anesthetist"
+   }
+  ],
+  "sentence": {
+   "da": "En **kirurg** kan fjerne blindtarmen, hvis den er betændt.",
+   "en": "A surgeon can remove the appendix if it is inflamed."
+  }
+ },
+ "en kiste": {
+  "file": "k.json",
+  "explanation": "\"En kiste\" means \"a chest\", a large container with a lid, for example for treasure or old clothes. It is also the common word for a coffin.",
+  "forms": [
+   {
+    "da": "en kiste",
+    "en": "a chest"
+   },
+   {
+    "da": "kisten",
+    "en": "the chest"
+   },
+   {
+    "da": "kister",
+    "en": "chests"
+   },
+   {
+    "da": "kisterne",
+    "en": "the chests"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kasse",
+    "en": "a crate"
+   },
+   {
+    "da": "et skrin",
+    "en": "a small chest"
+   },
+   {
+    "da": "en kuffert",
+    "en": "a suitcase"
+   },
+   {
+    "da": "en begravelse",
+    "en": "a funeral"
+   }
+  ],
+  "sentence": {
+   "da": "Skatten lå gemt i en gammel **kiste** under jorden.",
+   "en": "The treasure lay hidden in an old chest under the ground."
+  }
+ },
+ "en kiwi": {
+  "file": "k.json",
+  "explanation": "\"En kiwi\" means \"a kiwi\", a small fruit with fuzzy brown skin.",
+  "forms": [
+   {
+    "da": "en kiwi",
+    "en": "a kiwi"
+   },
+   {
+    "da": "kiwien",
+    "en": "the kiwi"
+   },
+   {
+    "da": "kiwier",
+    "en": "kiwis"
+   },
+   {
+    "da": "kiwierne",
+    "en": "the kiwis"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kiwifrugt",
+    "en": "a kiwi fruit (longer word)"
+   },
+   {
+    "da": "en ananas",
+    "en": "a pineapple"
+   },
+   {
+    "da": "en papaya",
+    "en": "a papaya"
+   }
+  ],
+  "sentence": {
+   "da": "En **kiwi** er grøn indeni og har små sorte kerner.",
+   "en": "A kiwi is green inside and has small black seeds."
+  }
+ },
+ "en kjole": {
+  "file": "k.json",
+  "explanation": "\"En kjole\" means \"a dress\", a piece of clothing for women and girls that covers the body and part of the legs. You can build words from it, such as \"en festkjole\" (a party dress) and \"en sommerkjole\" (a summer dress).",
+  "forms": [
+   {
+    "da": "en kjole",
+    "en": "a dress"
+   },
+   {
+    "da": "kjolen",
+    "en": "the dress"
+   },
+   {
+    "da": "kjoler",
+    "en": "dresses"
+   },
+   {
+    "da": "kjolerne",
+    "en": "the dresses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nederdel",
+    "en": "a skirt"
+   },
+   {
+    "da": "en brudekjole",
+    "en": "a wedding dress"
+   },
+   {
+    "da": "en bluse",
+    "en": "a blouse"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en lang **kjole** på til festen.",
+   "en": "She is wearing a long dress to the party."
+  }
+ },
+ "en klage": {
+  "file": "k.json",
+  "explanation": "\"En klage\" means \"a complaint\". The matching verb is \"at klage over\" (to complain about).",
+  "forms": [
+   {
+    "da": "en klage",
+    "en": "a complaint"
+   },
+   {
+    "da": "klagen",
+    "en": "the complaint"
+   },
+   {
+    "da": "klager",
+    "en": "complaints"
+   },
+   {
+    "da": "klagerne",
+    "en": "the complaints"
+   }
+  ],
+  "related": [
+   {
+    "da": "en reklamation",
+    "en": "a claim about faulty goods"
+   },
+   {
+    "da": "en anke",
+    "en": "an appeal"
+   },
+   {
+    "da": "en beklagelse",
+    "en": "a regret"
+   },
+   {
+    "da": "kundeservice",
+    "en": "customer service"
+   }
+  ],
+  "sentence": {
+   "da": "Vi sendte en **klage** til firmaet.",
+   "en": "We sent a complaint to the company."
+  }
+ },
+ "en klapvogn": {
+  "file": "k.json",
+  "explanation": "\"En klapvogn\" means \"a stroller\", the light folding kind where the child sits up. For a newborn who lies down, use \"en barnevogn\" (a baby carriage).",
+  "forms": [
+   {
+    "da": "en klapvogn",
+    "en": "a stroller"
+   },
+   {
+    "da": "klapvognen",
+    "en": "the stroller"
+   },
+   {
+    "da": "klapvogne",
+    "en": "strollers"
+   },
+   {
+    "da": "klapvognene",
+    "en": "the strollers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vogn",
+    "en": "a carriage, a cart"
+   },
+   {
+    "da": "en indkøbsvogn",
+    "en": "a shopping cart"
+   },
+   {
+    "da": "en klapstol",
+    "en": "a folding chair"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan folde min **klapvogn** sammen.",
+   "en": "I can fold my stroller up."
+  }
+ },
+ "en klasse": {
+  "file": "k.json",
+  "explanation": "\"En klasse\" means \"a class\", the group of pupils who are taught together. Danish schools count the school years as classes: \"2. klasse\" means \"second grade\".",
+  "forms": [
+   {
+    "da": "en klasse",
+    "en": "a class"
+   },
+   {
+    "da": "klassen",
+    "en": "the class"
+   },
+   {
+    "da": "klasser",
+    "en": "classes"
+   },
+   {
+    "da": "klasserne",
+    "en": "the classes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klassekammerat",
+    "en": "a classmate"
+   },
+   {
+    "da": "et klasseværelse",
+    "en": "a classroom"
+   },
+   {
+    "da": "en skoleklasse",
+    "en": "a school class"
+   }
+  ],
+  "sentence": {
+   "da": "Der er tyve børn i min **klasse**.",
+   "en": "There are twenty children in my class."
+  }
+ },
+ "en klassekammerat": {
+  "file": "k.json",
+  "explanation": "\"En klassekammerat\" means \"a classmate\". It is built from klasse (class) and kammerat (pal). \"Kammerat\" also appears in \"en holdkammerat\" (a teammate).",
+  "forms": [
+   {
+    "da": "en klassekammerat",
+    "en": "a classmate"
+   },
+   {
+    "da": "klassekammeraten",
+    "en": "the classmate"
+   },
+   {
+    "da": "klassekammerater",
+    "en": "classmates"
+   },
+   {
+    "da": "klassekammeraterne",
+    "en": "the classmates"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ven",
+    "en": "a friend"
+   },
+   {
+    "da": "en veninde",
+    "en": "a female friend"
+   },
+   {
+    "da": "en skolekammerat",
+    "en": "a schoolmate"
+   },
+   {
+    "da": "en kollega",
+    "en": "a colleague"
+   }
+  ],
+  "sentence": {
+   "da": "Min **klassekammerat** hjælper mig med lektierne.",
+   "en": "My classmate helps me with the homework."
+  }
+ },
+ "en klasselærer": {
+  "file": "k.json",
+  "explanation": "\"En klasselærer\" means \"a class teacher\", the teacher who looks after one class. Often the same teacher stays with the class for years and is the main contact for each child's home.",
+  "forms": [
+   {
+    "da": "en klasselærer",
+    "en": "a class teacher"
+   },
+   {
+    "da": "klasselæreren",
+    "en": "the class teacher"
+   },
+   {
+    "da": "klasselærere",
+    "en": "class teachers"
+   },
+   {
+    "da": "klasselærerne",
+    "en": "the class teachers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skoleleder",
+    "en": "a principal"
+   },
+   {
+    "da": "en elev",
+    "en": "a pupil"
+   },
+   {
+    "da": "et forældremøde",
+    "en": "a parent-teacher meeting"
+   },
+   {
+    "da": "en vikar",
+    "en": "a substitute"
+   }
+  ],
+  "sentence": {
+   "da": "Min **klasselærer** ringede til mine forældre, da jeg var syg.",
+   "en": "My class teacher called my parents when I was sick."
+  }
+ },
+ "en klassificering": {
+  "file": "k.json",
+  "explanation": "\"En klassificering\" means \"a classification\", putting things into groups by what they have in common. The verb is \"at klassificere\" (to classify).",
+  "forms": [
+   {
+    "da": "en klassificering",
+    "en": "a classification"
+   },
+   {
+    "da": "klassificeringen",
+    "en": "the classification"
+   },
+   {
+    "da": "klassificeringer",
+    "en": "classifications"
+   },
+   {
+    "da": "klassificeringerne",
+    "en": "the classifications"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kategori",
+    "en": "a category"
+   },
+   {
+    "da": "en inddeling",
+    "en": "a division"
+   },
+   {
+    "da": "at sortere",
+    "en": "to sort"
+   },
+   {
+    "da": "en taksonomi",
+    "en": "a taxonomy"
+   }
+  ],
+  "sentence": {
+   "da": "Biologer arbejder med **klassificering** af levende ting i arter.",
+   "en": "Biologists work with the classification of living things into species."
+  }
+ },
+ "en klassiker": {
+  "file": "k.json",
+  "explanation": "\"En klassiker\" means \"a classic\", something very well known that has lasted for many years, such as a book, a movie or a song. You also use it for a dish or a design that never goes out of style: \"en klassiker på menuen\" (a classic on the menu). For classical music, say \"klassisk musik\".",
+  "forms": [
+   {
+    "da": "en klassiker",
+    "en": "a classic"
+   },
+   {
+    "da": "klassikeren",
+    "en": "the classic"
+   },
+   {
+    "da": "klassikere",
+    "en": "classics"
+   },
+   {
+    "da": "klassikerne",
+    "en": "the classics"
+   }
+  ],
+  "related": [
+   {
+    "da": "et mesterværk",
+    "en": "a masterpiece"
+   },
+   {
+    "da": "en slager",
+    "en": "a hit song"
+   },
+   {
+    "da": "en bestseller",
+    "en": "a bestseller"
+   },
+   {
+    "da": "en evergreen",
+    "en": "an evergreen"
+   }
+  ],
+  "sentence": {
+   "da": "Den gamle film er blevet en **klassiker**, som alle har set.",
+   "en": "The old movie has become a classic that everyone has seen."
+  }
+ },
+ "en klat": {
+  "file": "k.json",
+  "explanation": "\"En klat\" means \"a dollop\" or \"a blob\", a small, soft bit of something thick or sticky. To name the material, put its name straight after \"klat\", with no word for \"of\": \"en klat maling\" (a blob of paint).",
+  "forms": [
+   {
+    "da": "en klat",
+    "en": "a dollop / blob"
+   },
+   {
+    "da": "klatten",
+    "en": "the dollop / blob"
+   },
+   {
+    "da": "klatter",
+    "en": "dollops / blobs"
+   },
+   {
+    "da": "klatterne",
+    "en": "the dollops / blobs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klump",
+    "en": "a lump"
+   },
+   {
+    "da": "en dråbe",
+    "en": "a drop"
+   },
+   {
+    "da": "en skefuld",
+    "en": "a spoonful"
+   },
+   {
+    "da": "en plet",
+    "en": "a stain"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager en **klat** smør på brødet.",
+   "en": "I put a dollop of butter on the bread."
+  }
+ },
+ "en klejne": {
+  "file": "k.json",
+  "explanation": "\"En klejne\" means \"a Christmas cruller\", a twisted strip of dough that is fried in fat. It is a traditional Danish Christmas treat.",
+  "forms": [
+   {
+    "da": "en klejne",
+    "en": "a Christmas cruller"
+   },
+   {
+    "da": "klejnen",
+    "en": "the Christmas cruller"
+   },
+   {
+    "da": "klejner",
+    "en": "Christmas crullers"
+   },
+   {
+    "da": "klejnerne",
+    "en": "the Christmas crullers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en æbleskive",
+    "en": "a ball-shaped pancake"
+   },
+   {
+    "da": "en brunkage",
+    "en": "a Danish spice cookie"
+   },
+   {
+    "da": "en vaniljekrans",
+    "en": "a vanilla butter cookie"
+   },
+   {
+    "da": "en risalamande",
+    "en": "a rice pudding dessert"
+   }
+  ],
+  "sentence": {
+   "da": "Til jul spiser vi en sprød **klejne** med kaffe.",
+   "en": "At Christmas we eat a crisp cruller with coffee."
+  }
+ },
+ "en klemme": {
+  "file": "k.json",
+  "explanation": "\"En klemme\" means \"a clothespin\" or \"a clip\", a small tool with a spring that holds things together. It also means a tight spot: \"at sidde i klemme\" (to be in a bind).",
+  "forms": [
+   {
+    "da": "en klemme",
+    "en": "a clothespin / clip"
+   },
+   {
+    "da": "klemmen",
+    "en": "the clothespin / clip"
+   },
+   {
+    "da": "klemmer",
+    "en": "clothespins / clips"
+   },
+   {
+    "da": "klemmerne",
+    "en": "the clothespins / clips"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tøjsnor",
+    "en": "a clothesline"
+   },
+   {
+    "da": "en tang",
+    "en": "pliers"
+   },
+   {
+    "da": "en knibtang",
+    "en": "pincers"
+   },
+   {
+    "da": "en skruetvinge",
+    "en": "a clamp"
+   }
+  ],
+  "sentence": {
+   "da": "Hver sok hænger på snoren med en **klemme**.",
+   "en": "Each sock hangs on the line with a clothespin."
+  }
+ },
+ "en klient": {
+  "file": "k.json",
+  "explanation": "\"En klient\" means \"a client\", a person who receives advice or help from a professional, such as a lawyer. In a shop or café, you are \"en kunde\" (a customer) instead.",
+  "forms": [
+   {
+    "da": "en klient",
+    "en": "a client"
+   },
+   {
+    "da": "klienten",
+    "en": "the client"
+   },
+   {
+    "da": "klienter",
+    "en": "clients"
+   },
+   {
+    "da": "klienterne",
+    "en": "the clients"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rådgiver",
+    "en": "an adviser"
+   },
+   {
+    "da": "en patient",
+    "en": "a patient"
+   },
+   {
+    "da": "en bruger",
+    "en": "a user"
+   },
+   {
+    "da": "en sagsbehandler",
+    "en": "a caseworker"
+   }
+  ],
+  "sentence": {
+   "da": "Advokaten møder sin **klient** i morgen klokken ti.",
+   "en": "The lawyer meets her client tomorrow at ten."
+  }
+ },
+ "en klinik": {
+  "file": "k.json",
+  "explanation": "\"En klinik\" means \"a clinic\", a place where you see a doctor or dentist without staying overnight. Where people can stay overnight, you say \"et sygehus\" or \"et hospital\" (both mean a hospital).",
+  "forms": [
+   {
+    "da": "en klinik",
+    "en": "a clinic"
+   },
+   {
+    "da": "klinikken",
+    "en": "the clinic"
+   },
+   {
+    "da": "klinikker",
+    "en": "clinics"
+   },
+   {
+    "da": "klinikkerne",
+    "en": "the clinics"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lægeklinik",
+    "en": "a doctor's clinic"
+   },
+   {
+    "da": "en tandlægeklinik",
+    "en": "a dental clinic"
+   },
+   {
+    "da": "en skadestue",
+    "en": "an emergency room"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg ser en læge på en **klinik**.",
+   "en": "I see a doctor at a clinic."
+  }
+ },
+ "en klipning": {
+  "file": "k.json",
+  "explanation": "\"En klipning\" means \"a haircut\", the act of getting your hair shortened or shaped. The look itself is called \"en frisure\" (a hairstyle).",
+  "forms": [
+   {
+    "da": "en klipning",
+    "en": "a haircut"
+   },
+   {
+    "da": "klipningen",
+    "en": "the haircut"
+   },
+   {
+    "da": "klipninger",
+    "en": "haircuts"
+   },
+   {
+    "da": "klipningerne",
+    "en": "the haircuts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en frisør",
+    "en": "a hairdresser"
+   },
+   {
+    "da": "en saks",
+    "en": "scissors"
+   },
+   {
+    "da": "at klippe",
+    "en": "to cut"
+   },
+   {
+    "da": "en barber",
+    "en": "a barber"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har booket en **klipning**, fordi mit hår er blevet for langt.",
+   "en": "I booked a haircut because my hair has gotten too long."
+  }
+ },
+ "en klippe": {
+  "file": "k.json",
+  "explanation": "\"En klippe\" means \"a cliff\" or \"a big rock\" in nature. A small rock you can pick up is \"en sten\" (a stone). Do not mix it up with the verb \"at klippe\" (to cut): \"Jeg klipper papir\" (I cut paper).",
+  "forms": [
+   {
+    "da": "en klippe",
+    "en": "a cliff / rock"
+   },
+   {
+    "da": "klippen",
+    "en": "the cliff / rock"
+   },
+   {
+    "da": "klipper",
+    "en": "cliffs / rocks"
+   },
+   {
+    "da": "klipperne",
+    "en": "the cliffs / rocks"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bjerg",
+    "en": "a mountain"
+   },
+   {
+    "da": "en skrænt",
+    "en": "a steep slope"
+   },
+   {
+    "da": "en stenblok",
+    "en": "a boulder"
+   },
+   {
+    "da": "en bakke",
+    "en": "a hill"
+   }
+  ],
+  "sentence": {
+   "da": "Vi sad på en stor **klippe** og så på havet.",
+   "en": "We sat on a big rock and looked at the sea."
+  }
+ },
+ "en klit": {
+  "file": "k.json",
+  "explanation": "\"En klit\" means \"a sand dune\", a heap of sand shaped by the wind along the coast. It is often held in place by tough grass.",
+  "forms": [
+   {
+    "da": "en klit",
+    "en": "a sand dune"
+   },
+   {
+    "da": "klitten",
+    "en": "the sand dune"
+   },
+   {
+    "da": "klitter",
+    "en": "sand dunes"
+   },
+   {
+    "da": "klitterne",
+    "en": "the sand dunes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en strand",
+    "en": "a beach"
+   },
+   {
+    "da": "en bakke",
+    "en": "a hill"
+   },
+   {
+    "da": "en sandbanke",
+    "en": "a sandbank"
+   },
+   {
+    "da": "et hav",
+    "en": "a sea"
+   }
+  ],
+  "sentence": {
+   "da": "Vinden har blæst sandet op til en høj **klit**.",
+   "en": "The wind has blown the sand up into a tall dune."
+  }
+ },
+ "en klo": {
+  "file": "k.json",
+  "explanation": "\"En klo\" means \"a claw\", the hard, sharp nail on an animal's paw or a bird's foot, and also the pincer of a crab. It appears in the saying \"at falde i kløerne på nogen\" (to fall into someone's clutches).",
+  "forms": [
+   {
+    "da": "en klo",
+    "en": "a claw"
+   },
+   {
+    "da": "kloen",
+    "en": "the claw"
+   },
+   {
+    "da": "kløer",
+    "en": "claws"
+   },
+   {
+    "da": "kløerne",
+    "en": "the claws"
+   }
+  ],
+  "related": [
+   {
+    "da": "et næb",
+    "en": "a beak"
+   },
+   {
+    "da": "en tand",
+    "en": "a tooth"
+   },
+   {
+    "da": "en hov",
+    "en": "a hoof"
+   },
+   {
+    "da": "et horn",
+    "en": "a horn"
+   }
+  ],
+  "sentence": {
+   "da": "En ørn har en skarp **klo** på hver tå.",
+   "en": "An eagle has a sharp claw on each toe."
+  }
+ },
+ "en klode": {
+  "file": "k.json",
+  "explanation": "\"En klode\" means \"a planet\", but Danes mostly use it for Earth: \"vores klode\" (our planet). For any other planet, such as Mars, say \"en planet\" (a planet).",
+  "forms": [
+   {
+    "da": "en klode",
+    "en": "a planet"
+   },
+   {
+    "da": "kloden",
+    "en": "the Earth"
+   },
+   {
+    "da": "kloder",
+    "en": "planets"
+   },
+   {
+    "da": "kloderne",
+    "en": "the planets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en globus",
+    "en": "a globe"
+   },
+   {
+    "da": "en verden",
+    "en": "a world"
+   },
+   {
+    "da": "en måne",
+    "en": "a moon"
+   },
+   {
+    "da": "en sol",
+    "en": "a sun"
+   }
+  ],
+  "sentence": {
+   "da": "Der bor otte milliarder mennesker på vores **klode**.",
+   "en": "Eight billion people live on our planet."
+  }
+ },
+ "en klods": {
+  "file": "k.json",
+  "explanation": "\"En klods\" means \"a block\", like a toy block or a chunk of wood. Lego bricks are \"legoklodser\" (Lego blocks).",
+  "forms": [
+   {
+    "da": "en klods",
+    "en": "a block"
+   },
+   {
+    "da": "klodsen",
+    "en": "the block"
+   },
+   {
+    "da": "klodser",
+    "en": "blocks"
+   },
+   {
+    "da": "klodserne",
+    "en": "the blocks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en byggeklods",
+    "en": "a building block"
+   },
+   {
+    "da": "en terning",
+    "en": "a cube, a die"
+   },
+   {
+    "da": "en træklods",
+    "en": "a wooden block"
+   }
+  ],
+  "sentence": {
+   "da": "Hun sætter en **klods** oven på tårnet.",
+   "en": "She puts a block on top of the tower."
+  }
+ },
+ "en klokke": {
+  "file": "k.json",
+  "explanation": "\"En klokke\" means \"a bell\", and also \"a clock\". The form \"klokken\" (the bell, the clock) is also how you ask the time: \"Hvad er klokken?\" (What time is it?)",
+  "forms": [
+   {
+    "da": "en klokke",
+    "en": "a bell"
+   },
+   {
+    "da": "klokken",
+    "en": "the bell"
+   },
+   {
+    "da": "klokker",
+    "en": "bells"
+   },
+   {
+    "da": "klokkerne",
+    "en": "the bells"
+   }
+  ],
+  "related": [
+   {
+    "da": "et ur",
+    "en": "a clock / watch"
+   },
+   {
+    "da": "en kirkeklokke",
+    "en": "a church bell"
+   },
+   {
+    "da": "en dørklokke",
+    "en": "a doorbell"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg hører en **klokke** ringe i kirken.",
+   "en": "I hear a bell ring in the church."
+  }
+ },
+ "en klovn": {
+  "file": "k.json",
+  "explanation": "\"En klovn\" means \"a clown\", the funny performer in colorful clothes. It can also mean a silly person: \"Du er en klovn\" (You are a clown).",
+  "forms": [
+   {
+    "da": "en klovn",
+    "en": "a clown"
+   },
+   {
+    "da": "klovnen",
+    "en": "the clown"
+   },
+   {
+    "da": "klovne",
+    "en": "clowns"
+   },
+   {
+    "da": "klovnene",
+    "en": "the clowns"
+   }
+  ],
+  "related": [
+   {
+    "da": "et cirkus",
+    "en": "a circus"
+   },
+   {
+    "da": "en nar",
+    "en": "a fool / jester"
+   },
+   {
+    "da": "en jonglør",
+    "en": "a juggler"
+   }
+  ],
+  "sentence": {
+   "da": "Den sjove **klovn** har en stor rød næse.",
+   "en": "The funny clown has a big red nose."
+  }
+ },
+ "en klub": {
+  "file": "k.json",
+  "explanation": "\"En klub\" means \"a club\", a group that meets for a shared activity. It also means a nightclub: \"Vi går i klub i aften\" (We are going clubbing tonight).",
+  "forms": [
+   {
+    "da": "en klub",
+    "en": "a club"
+   },
+   {
+    "da": "klubben",
+    "en": "the club"
+   },
+   {
+    "da": "klubber",
+    "en": "clubs"
+   },
+   {
+    "da": "klubberne",
+    "en": "the clubs"
+   }
+  ],
+  "related": [
+   {
+    "da": "et medlem",
+    "en": "a member"
+   },
+   {
+    "da": "en forening",
+    "en": "an association"
+   },
+   {
+    "da": "et fællesskab",
+    "en": "a community"
+   },
+   {
+    "da": "en natklub",
+    "en": "a nightclub"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiller skak i en **klub** hver torsdag.",
+   "en": "I play chess in a club every Thursday."
+  }
+ },
+ "en klud": {
+  "file": "k.json",
+  "explanation": "\"En klud\" means \"a cloth\" or \"a rag\" for cleaning. For drying plates, you use \"et viskestykke\" (a dish towel).",
+  "forms": [
+   {
+    "da": "en klud",
+    "en": "a cloth / rag"
+   },
+   {
+    "da": "kluden",
+    "en": "the cloth"
+   },
+   {
+    "da": "klude",
+    "en": "cloths"
+   },
+   {
+    "da": "kludene",
+    "en": "the cloths"
+   }
+  ],
+  "related": [
+   {
+    "da": "en karklud",
+    "en": "a dishcloth"
+   },
+   {
+    "da": "en svamp",
+    "en": "a sponge"
+   },
+   {
+    "da": "en moppe",
+    "en": "a mop"
+   }
+  ],
+  "sentence": {
+   "da": "Tag en **klud**, og tør vandet op!",
+   "en": "Take a cloth and wipe up the water!"
+  }
+ },
+ "en klump": {
+  "file": "k.json",
+  "explanation": "\"En klump\" means \"a lump\", a solid piece without a clear shape. You also use it for something unwanted in a smooth mix: \"Der er klumper i saucen\" (There are lumps in the sauce).",
+  "forms": [
+   {
+    "da": "en klump",
+    "en": "a lump"
+   },
+   {
+    "da": "klumpen",
+    "en": "the lump"
+   },
+   {
+    "da": "klumper",
+    "en": "lumps"
+   },
+   {
+    "da": "klumperne",
+    "en": "the lumps"
+   }
+  ],
+  "related": [
+   {
+    "da": "et stykke",
+    "en": "a piece"
+   },
+   {
+    "da": "en kugle",
+    "en": "a ball"
+   },
+   {
+    "da": "en bule",
+    "en": "a bump"
+   },
+   {
+    "da": "en klods",
+    "en": "a block"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager en **klump** smør og smelter den i panden.",
+   "en": "I take a lump of butter and melt it in the pan."
+  }
+ },
+ "en kløver": {
+  "file": "k.json",
+  "explanation": "\"En kløver\" means \"a clover\", a low plant with three small round leaves. A clover with four leaves is called \"en firkløver\" (a four-leaf clover) and is said to bring luck.",
+  "forms": [
+   {
+    "da": "en kløver",
+    "en": "a clover"
+   },
+   {
+    "da": "kløveren",
+    "en": "the clover"
+   },
+   {
+    "da": "kløvere",
+    "en": "clovers"
+   },
+   {
+    "da": "kløverne",
+    "en": "the clovers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kløverblad",
+    "en": "a clover leaf"
+   },
+   {
+    "da": "en lucerne",
+    "en": "alfalfa"
+   },
+   {
+    "da": "et græs",
+    "en": "a grass"
+   },
+   {
+    "da": "en eng",
+    "en": "a meadow"
+   }
+  ],
+  "sentence": {
+   "da": "Der vokser hvid **kløver** i plænen hele sommeren.",
+   "en": "White clover grows in the lawn all summer."
+  }
+ },
+ "en knage": {
+  "file": "k.json",
+  "explanation": "\"En knage\" means \"a coat hook\", a small hook fixed to a wall or door where you hang coats, hats and bags.",
+  "forms": [
+   {
+    "da": "en knage",
+    "en": "a coat hook"
+   },
+   {
+    "da": "knagen",
+    "en": "the coat hook"
+   },
+   {
+    "da": "knager",
+    "en": "coat hooks"
+   },
+   {
+    "da": "knagerne",
+    "en": "the coat hooks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bøjle",
+    "en": "a coat hanger"
+   },
+   {
+    "da": "en knagerække",
+    "en": "a row of hooks"
+   },
+   {
+    "da": "en krog",
+    "en": "a hook"
+   },
+   {
+    "da": "en garderobe",
+    "en": "a closet / cloakroom"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg hænger min jakke på en **knage** i gangen.",
+   "en": "I hang my jacket on a coat hook in the hallway."
+  }
+ },
+ "en knallert": {
+  "file": "k.json",
+  "explanation": "\"En knallert\" means \"a moped\", a small, light motorbike with a low top speed of about 45 km/h, used for short trips.",
+  "forms": [
+   {
+    "da": "en knallert",
+    "en": "a moped"
+   },
+   {
+    "da": "knallerten",
+    "en": "the moped"
+   },
+   {
+    "da": "knallerter",
+    "en": "mopeds"
+   },
+   {
+    "da": "knallerterne",
+    "en": "the mopeds"
+   }
+  ],
+  "related": [
+   {
+    "da": "en scooter",
+    "en": "a scooter"
+   },
+   {
+    "da": "en cykel",
+    "en": "a bike"
+   },
+   {
+    "da": "en elcykel",
+    "en": "an electric bike"
+   }
+  ],
+  "sentence": {
+   "da": "En **knallert** er langsommere end en motorcykel.",
+   "en": "A moped is slower than a motorcycle."
+  }
+ },
+ "en knap": {
+  "file": "k.json",
+  "explanation": "\"En knap\" means \"a button\", on clothes and on a machine. Without \"en\", \"knap\" means \"barely\": \"Der er knap tid\" (There is barely any time).",
+  "forms": [
+   {
+    "da": "en knap",
+    "en": "a button"
+   },
+   {
+    "da": "knappen",
+    "en": "the button"
+   },
+   {
+    "da": "knapper",
+    "en": "buttons"
+   },
+   {
+    "da": "knapperne",
+    "en": "the buttons"
+   }
+  ],
+  "related": [
+   {
+    "da": "at knappe",
+    "en": "to button"
+   },
+   {
+    "da": "en lynlås",
+    "en": "a zipper"
+   },
+   {
+    "da": "en trykknap",
+    "en": "a push button"
+   },
+   {
+    "da": "en tast",
+    "en": "a key"
+   }
+  ],
+  "sentence": {
+   "da": "Der mangler en **knap** på min jakke.",
+   "en": "A button is missing on my jacket."
+  }
+ },
+ "en knibe": {
+  "file": "k.json",
+  "explanation": "\"En knibe\" means \"a fix\", a difficult situation that is hard to escape. It almost always appears as \"i knibe\" (in a fix), without \"en\".",
+  "forms": [
+   {
+    "da": "i knibe",
+    "en": "in a fix"
+   },
+   {
+    "da": "komme i knibe",
+    "en": "to get into trouble"
+   },
+   {
+    "da": "hjælpe en ud af knibe",
+    "en": "to help someone out of a fix"
+   }
+  ],
+  "related": [
+   {
+    "da": "et dilemma",
+    "en": "a dilemma"
+   },
+   {
+    "da": "et problem",
+    "en": "a problem"
+   },
+   {
+    "da": "en klemme",
+    "en": "a jam"
+   },
+   {
+    "da": "en udvej",
+    "en": "a way out"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er i **knibe**, fordi jeg har mistet min nøgle.",
+   "en": "I am in a fix because I have lost my key."
+  }
+ },
+ "en kniv": {
+  "file": "k.json",
+  "explanation": "\"En kniv\" means \"a knife\", the tool with a sharp blade for cutting food. At the table, you eat with \"en kniv\" and \"en gaffel\" (a fork).",
+  "forms": [
+   {
+    "da": "en kniv",
+    "en": "a knife"
+   },
+   {
+    "da": "kniven",
+    "en": "the knife"
+   },
+   {
+    "da": "knive",
+    "en": "knives"
+   },
+   {
+    "da": "knivene",
+    "en": "the knives"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ske",
+    "en": "a spoon"
+   },
+   {
+    "da": "et bestik",
+    "en": "cutlery"
+   },
+   {
+    "da": "en smørkniv",
+    "en": "a butter knife"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skærer brød med en **kniv**.",
+   "en": "I cut bread with a knife."
+  }
+ },
+ "en knivspids": {
+  "file": "k.json",
+  "explanation": "\"En knivspids\" means \"a pinch\", built from en kniv (a knife) and en spids (a tip): the tiny amount that fits on the tip of a knife. Recipes use it for spices and salt.",
+  "forms": [
+   {
+    "da": "en knivspids",
+    "en": "a pinch"
+   },
+   {
+    "da": "knivspidsen",
+    "en": "the pinch"
+   },
+   {
+    "da": "knivspidser",
+    "en": "pinches"
+   },
+   {
+    "da": "knivspidserne",
+    "en": "the pinches"
+   }
+  ],
+  "related": [
+   {
+    "da": "en smule",
+    "en": "a little bit"
+   },
+   {
+    "da": "en dråbe",
+    "en": "a drop"
+   },
+   {
+    "da": "en skefuld",
+    "en": "a spoonful"
+   },
+   {
+    "da": "en håndfuld",
+    "en": "a handful"
+   }
+  ],
+  "sentence": {
+   "da": "Tilsæt en **knivspids** salt til suppen.",
+   "en": "Add a pinch of salt to the soup."
+  }
+ },
+ "en knogle": {
+  "file": "k.json",
+  "explanation": "\"En knogle\" means \"a bone\", one of the hard parts that make up the body's frame. You also use it for the bone of an animal: \"en knogle til hunden\" (a bone for the dog).",
+  "forms": [
+   {
+    "da": "en knogle",
+    "en": "a bone"
+   },
+   {
+    "da": "knoglen",
+    "en": "the bone"
+   },
+   {
+    "da": "knogler",
+    "en": "bones"
+   },
+   {
+    "da": "knoglerne",
+    "en": "the bones"
+   }
+  ],
+  "related": [
+   {
+    "da": "et skelet",
+    "en": "a skeleton"
+   },
+   {
+    "da": "et led",
+    "en": "a joint"
+   },
+   {
+    "da": "et brud",
+    "en": "a fracture"
+   },
+   {
+    "da": "et kranie",
+    "en": "a skull"
+   }
+  ],
+  "sentence": {
+   "da": "Røntgen viser, om en **knogle** er brækket.",
+   "en": "The X-ray shows whether a bone is broken."
+  }
+ },
+ "en knop": {
+  "file": "k.json",
+  "explanation": "\"En knop\" means \"a bud\", the small closed part of a plant that later opens into a flower or leaf. Do not mix it up with \"en knap\" (a button).",
+  "forms": [
+   {
+    "da": "en knop",
+    "en": "a bud"
+   },
+   {
+    "da": "knoppen",
+    "en": "the bud"
+   },
+   {
+    "da": "knopper",
+    "en": "buds"
+   },
+   {
+    "da": "knopperne",
+    "en": "the buds"
+   }
+  ],
+  "related": [
+   {
+    "da": "en spire",
+    "en": "a sprout"
+   },
+   {
+    "da": "at blomstre",
+    "en": "to bloom"
+   },
+   {
+    "da": "at springe ud",
+    "en": "to burst into bloom"
+   },
+   {
+    "da": "et skud",
+    "en": "a shoot"
+   }
+  ],
+  "sentence": {
+   "da": "Træet har en lille **knop**, som åbner sig i morgen.",
+   "en": "The tree has a small bud that opens tomorrow."
+  }
+ },
+ "en knude": {
+  "file": "k.json",
+  "explanation": "\"En knude\" means \"a knot\", in a rope or in hair: \"en knude i håret\" (a knot in the hair). It is also used for a tight spot in a muscle: \"en knude i nakken\" (a knot in the neck).",
+  "forms": [
+   {
+    "da": "en knude",
+    "en": "a knot"
+   },
+   {
+    "da": "knuden",
+    "en": "the knot"
+   },
+   {
+    "da": "knuder",
+    "en": "knots"
+   },
+   {
+    "da": "knuderne",
+    "en": "the knots"
+   }
+  ],
+  "related": [
+   {
+    "da": "at binde",
+    "en": "to tie"
+   },
+   {
+    "da": "et reb",
+    "en": "a rope"
+   },
+   {
+    "da": "en sløjfe",
+    "en": "a bow"
+   },
+   {
+    "da": "at løsne",
+    "en": "to loosen"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en **knude** på rebet.",
+   "en": "There is a knot in the rope."
+  }
+ },
+ "en knægt": {
+  "file": "k.json",
+  "explanation": "\"En knægt\" means \"a lad\" or \"a kid\", a warm word for a young male.",
+  "forms": [
+   {
+    "da": "en knægt",
+    "en": "a lad / kid"
+   },
+   {
+    "da": "knægten",
+    "en": "the lad / kid"
+   },
+   {
+    "da": "knægte",
+    "en": "lads / kids"
+   },
+   {
+    "da": "knægtene",
+    "en": "the lads / kids"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dreng",
+    "en": "a boy"
+   },
+   {
+    "da": "en fyr",
+    "en": "a guy"
+   },
+   {
+    "da": "en teenager",
+    "en": "a teenager"
+   },
+   {
+    "da": "en ung mand",
+    "en": "a young man"
+   }
+  ],
+  "sentence": {
+   "da": "Han er kun otte, men han er en stærk **knægt**.",
+   "en": "He is only eight, but he is a strong lad."
+  }
+ },
+ "en ko": {
+  "file": "k.json",
+  "explanation": "\"En ko\" means \"a cow\", a large farm animal kept for its milk and meat.",
+  "forms": [
+   {
+    "da": "en ko",
+    "en": "a cow"
+   },
+   {
+    "da": "koen",
+    "en": "the cow"
+   },
+   {
+    "da": "køer",
+    "en": "cows"
+   },
+   {
+    "da": "køerne",
+    "en": "the cows"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tyr",
+    "en": "a bull"
+   },
+   {
+    "da": "en kalv",
+    "en": "a calf"
+   },
+   {
+    "da": "en okse",
+    "en": "an ox"
+   }
+  ],
+  "sentence": {
+   "da": "En **ko** spiser græs på marken.",
+   "en": "A cow eats grass in the field."
+  }
+ },
+ "en koalition": {
+  "file": "k.json",
+  "explanation": "\"En koalition\" means \"a coalition\", several groups joining forces to reach a goal. In Danish politics it is a government made up of several parties, because no single party has enough votes alone.",
+  "forms": [
+   {
+    "da": "en koalition",
+    "en": "a coalition"
+   },
+   {
+    "da": "koalitionen",
+    "en": "the coalition"
+   },
+   {
+    "da": "koalitioner",
+    "en": "coalitions"
+   },
+   {
+    "da": "koalitionerne",
+    "en": "the coalitions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en regering",
+    "en": "a government"
+   },
+   {
+    "da": "et parti",
+    "en": "a party"
+   },
+   {
+    "da": "en alliance",
+    "en": "an alliance"
+   },
+   {
+    "da": "et flertal",
+    "en": "a majority"
+   }
+  ],
+  "sentence": {
+   "da": "Den nye regering er en **koalition** mellem tre partier.",
+   "en": "The new government is a coalition between three parties."
+  }
+ },
+ "en kobling": {
+  "file": "k.json",
+  "explanation": "\"En kobling\" means \"a clutch\", the pedal in a manual car that you press to change gears. It also means a link between two things, like the coupling between two train cars.",
+  "forms": [
+   {
+    "da": "en kobling",
+    "en": "a clutch"
+   },
+   {
+    "da": "koblingen",
+    "en": "the clutch"
+   },
+   {
+    "da": "koblinger",
+    "en": "clutches"
+   },
+   {
+    "da": "koblingerne",
+    "en": "the clutches"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bremse",
+    "en": "a brake"
+   },
+   {
+    "da": "et rat",
+    "en": "a steering wheel"
+   },
+   {
+    "da": "en motor",
+    "en": "an engine"
+   },
+   {
+    "da": "en håndbremse",
+    "en": "a hand brake"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen har en **kobling**, så man kan skifte gear.",
+   "en": "The car has a clutch so that you can change gears."
+  }
+ },
+ "en kode": {
+  "file": "k.json",
+  "explanation": "\"En kode\" means \"a code\", letters or numbers that open or identify something. It also means computer code: \"Han skriver kode\" (He writes code).",
+  "forms": [
+   {
+    "da": "en kode",
+    "en": "a code"
+   },
+   {
+    "da": "koden",
+    "en": "the code"
+   },
+   {
+    "da": "koder",
+    "en": "codes"
+   },
+   {
+    "da": "koderne",
+    "en": "the codes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en pinkode",
+    "en": "a PIN code"
+   },
+   {
+    "da": "en adgangskode",
+    "en": "a password"
+   },
+   {
+    "da": "en kodelås",
+    "en": "a code lock"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal bruge en **kode** for at åbne døren.",
+   "en": "You need a code to open the door."
+  }
+ },
+ "en kofanger": {
+  "file": "k.json",
+  "explanation": "\"En kofanger\" means \"a bumper\", the bar at the front and back of a car that takes the hit in a small crash.",
+  "forms": [
+   {
+    "da": "en kofanger",
+    "en": "a bumper"
+   },
+   {
+    "da": "kofangeren",
+    "en": "the bumper"
+   },
+   {
+    "da": "kofangere",
+    "en": "bumpers"
+   },
+   {
+    "da": "kofangerne",
+    "en": "the bumpers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et uheld",
+    "en": "an accident"
+   },
+   {
+    "da": "en airbag",
+    "en": "an airbag"
+   },
+   {
+    "da": "en motorhjelm",
+    "en": "a hood"
+   },
+   {
+    "da": "en forrude",
+    "en": "a windshield"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en bule i min **kofanger**.",
+   "en": "There is a dent in my bumper."
+  }
+ },
+ "en kogeplade": {
+  "file": "k.json",
+  "explanation": "\"En kogeplade\" means \"a hotplate\", the heated plate you cook on, either a single plate or the top of a stove. It is built from at koge (to boil, to cook) and en plade (a plate).",
+  "forms": [
+   {
+    "da": "en kogeplade",
+    "en": "a hotplate"
+   },
+   {
+    "da": "kogepladen",
+    "en": "the hotplate"
+   },
+   {
+    "da": "kogeplader",
+    "en": "hotplates"
+   },
+   {
+    "da": "kogepladerne",
+    "en": "the hotplates"
+   }
+  ],
+  "related": [
+   {
+    "da": "et komfur",
+    "en": "a stove"
+   },
+   {
+    "da": "en ovn",
+    "en": "an oven"
+   },
+   {
+    "da": "en emhætte",
+    "en": "a range hood"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg stiller den varme gryde på en **kogeplade**.",
+   "en": "I put the hot pot on a hotplate."
+  }
+ },
+ "en kogle": {
+  "file": "k.json",
+  "explanation": "\"En kogle\" means \"a pine cone\", the hard, scaly case that holds the seeds of a pine tree. It is also used for the cones of other evergreens.",
+  "forms": [
+   {
+    "da": "en kogle",
+    "en": "a pine cone"
+   },
+   {
+    "da": "koglen",
+    "en": "the pine cone"
+   },
+   {
+    "da": "kogler",
+    "en": "pine cones"
+   },
+   {
+    "da": "koglerne",
+    "en": "the pine cones"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gran",
+    "en": "a spruce"
+   },
+   {
+    "da": "en lærk",
+    "en": "a larch"
+   },
+   {
+    "da": "et nåletræ",
+    "en": "a conifer"
+   }
+  ],
+  "sentence": {
+   "da": "Hver **kogle** på træet gemmer små frø mellem skællene.",
+   "en": "Each cone on the tree hides small seeds between its scales."
+  }
+ },
+ "en kogning": {
+  "file": "k.json",
+  "explanation": "\"En kogning\" means \"a boiling\", the process of cooking something in boiling water. Danes more often say \"at koge\" (to boil) or \"et kog\" (a boil): \"Bring det i kog\" (Bring it to a boil).",
+  "forms": [
+   {
+    "da": "en kogning",
+    "en": "a boiling"
+   },
+   {
+    "da": "kogningen",
+    "en": "the boiling"
+   },
+   {
+    "da": "kogninger",
+    "en": "boilings"
+   },
+   {
+    "da": "kogningerne",
+    "en": "the boilings"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kogeplade",
+    "en": "a stovetop"
+   },
+   {
+    "da": "en gryde",
+    "en": "a pot"
+   },
+   {
+    "da": "en kedel",
+    "en": "a kettle"
+   },
+   {
+    "da": "en kogetid",
+    "en": "a cooking time"
+   }
+  ],
+  "sentence": {
+   "da": "Efter **kogning** skal pastaen køle lidt af.",
+   "en": "After boiling, the pasta needs to cool a little."
+  }
+ },
+ "en kok": {
+  "file": "k.json",
+  "explanation": "\"En kok\" means \"a chef\" or \"a cook\", the person who prepares food. Do not mix it up with \"at koge\" (to boil), which is the action.",
+  "forms": [
+   {
+    "da": "en kok",
+    "en": "a chef"
+   },
+   {
+    "da": "kokken",
+    "en": "the chef"
+   },
+   {
+    "da": "kokke",
+    "en": "chefs"
+   },
+   {
+    "da": "kokkene",
+    "en": "the chefs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bager",
+    "en": "a baker"
+   },
+   {
+    "da": "en tjener",
+    "en": "a waiter"
+   },
+   {
+    "da": "en køkkenchef",
+    "en": "a head chef"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror er **kok** på en restaurant.",
+   "en": "My brother is a chef at a restaurant."
+  }
+ },
+ "en kokkeelev": {
+  "file": "k.json",
+  "explanation": "\"En kokkeelev\" means \"a chef apprentice\", someone who is learning to be a cook. It is built from en kok (a cook) and en elev (a pupil). \"Elev\" also appears in \"en skoleelev\" (a school pupil).",
+  "forms": [
+   {
+    "da": "en kokkeelev",
+    "en": "a chef apprentice"
+   },
+   {
+    "da": "kokkeeleven",
+    "en": "the chef apprentice"
+   },
+   {
+    "da": "kokkeelever",
+    "en": "chef apprentices"
+   },
+   {
+    "da": "kokkeeleverne",
+    "en": "the chef apprentices"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lærling",
+    "en": "an apprentice"
+   },
+   {
+    "da": "en køkkenchef",
+    "en": "a head chef"
+   },
+   {
+    "da": "et køkken",
+    "en": "a kitchen"
+   },
+   {
+    "da": "en praktikant",
+    "en": "an intern"
+   }
+  ],
+  "sentence": {
+   "da": "Som **kokkeelev** lærer jeg at lave mad på en restaurant.",
+   "en": "As a chef apprentice, I learn to cook at a restaurant."
+  }
+ },
+ "en koldskål": {
+  "file": "k.json",
+  "explanation": "\"En koldskål\" means \"a cold buttermilk dessert\", a cold, sweet Danish dish made of buttermilk that you eat from a bowl, mostly in summer. It is often served with small crisp cookies called \"kammerjunkere\".",
+  "forms": [
+   {
+    "da": "en koldskål",
+    "en": "a cold buttermilk dessert"
+   },
+   {
+    "da": "koldskålen",
+    "en": "the cold buttermilk dessert"
+   },
+   {
+    "da": "koldskåle",
+    "en": "cold buttermilk desserts"
+   },
+   {
+    "da": "koldskålene",
+    "en": "the cold buttermilk desserts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en yoghurt",
+    "en": "a yogurt"
+   },
+   {
+    "da": "en kiks",
+    "en": "a cracker"
+   },
+   {
+    "da": "en risalamande",
+    "en": "a Danish rice pudding"
+   },
+   {
+    "da": "en budding",
+    "en": "a pudding"
+   }
+  ],
+  "sentence": {
+   "da": "Efter en varm dag smager en **koldskål** dejligt.",
+   "en": "After a hot day, a koldskål tastes lovely."
+  }
+ },
+ "en kollega": {
+  "file": "k.json",
+  "explanation": "\"En kollega\" means \"a colleague\", a person you work with at the same workplace, usually at a similar level.",
+  "forms": [
+   {
+    "da": "en kollega",
+    "en": "a colleague"
+   },
+   {
+    "da": "kollegaen",
+    "en": "the colleague"
+   },
+   {
+    "da": "kolleger",
+    "en": "colleagues"
+   },
+   {
+    "da": "kollegerne",
+    "en": "the colleagues"
+   }
+  ],
+  "related": [
+   {
+    "da": "en medarbejder",
+    "en": "an employee"
+   },
+   {
+    "da": "en chef",
+    "en": "a boss"
+   },
+   {
+    "da": "en arbejdskollega",
+    "en": "a work colleague"
+   }
+  ],
+  "sentence": {
+   "da": "Min **kollega** og jeg arbejder sammen på kontoret.",
+   "en": "My colleague and I work together in the office."
+  }
+ },
+ "en kolonihave": {
+  "file": "k.json",
+  "explanation": "\"En kolonihave\" means \"an allotment garden\", a small piece of land with a little house that city people rent, in an area with many other small plots. Many families spend summer weekends there.",
+  "forms": [
+   {
+    "da": "en kolonihave",
+    "en": "an allotment garden"
+   },
+   {
+    "da": "kolonihaven",
+    "en": "the allotment garden"
+   },
+   {
+    "da": "kolonihaver",
+    "en": "allotment gardens"
+   },
+   {
+    "da": "kolonihaverne",
+    "en": "the allotment gardens"
+   }
+  ],
+  "related": [
+   {
+    "da": "et sommerhus",
+    "en": "a summer house"
+   },
+   {
+    "da": "et havehus",
+    "en": "a garden house"
+   },
+   {
+    "da": "en grund",
+    "en": "a plot of land"
+   },
+   {
+    "da": "en køkkenhave",
+    "en": "a vegetable garden"
+   }
+  ],
+  "sentence": {
+   "da": "Min familie har en **kolonihave**, hvor vi dyrker grøntsager.",
+   "en": "My family has an allotment garden where we grow vegetables."
+  }
+ },
+ "en kombination": {
+  "file": "k.json",
+  "explanation": "\"En kombination\" means \"a combination\", two or more things together. It is also the set of numbers that opens a lock: \"Jeg glemte kombinationen\" (I forgot the combination).",
+  "forms": [
+   {
+    "da": "en kombination",
+    "en": "a combination"
+   },
+   {
+    "da": "kombinationen",
+    "en": "the combination"
+   },
+   {
+    "da": "kombinationer",
+    "en": "combinations"
+   },
+   {
+    "da": "kombinationerne",
+    "en": "the combinations"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kombinere",
+    "en": "to combine"
+   },
+   {
+    "da": "en blanding",
+    "en": "a mix"
+   },
+   {
+    "da": "en kode",
+    "en": "a code"
+   },
+   {
+    "da": "en sammensætning",
+    "en": "a composition"
+   }
+  ],
+  "sentence": {
+   "da": "Pasta og ost er en god **kombination**.",
+   "en": "Pasta and cheese are a good combination."
+  }
+ },
+ "en komedie": {
+  "file": "k.json",
+  "explanation": "\"En komedie\" means \"a comedy\", a film, play or TV show made to make you laugh. The opposite is \"en tragedie\" (a tragedy), which ends sadly.",
+  "forms": [
+   {
+    "da": "en komedie",
+    "en": "a comedy"
+   },
+   {
+    "da": "komedien",
+    "en": "the comedy"
+   },
+   {
+    "da": "komedier",
+    "en": "comedies"
+   },
+   {
+    "da": "komedierne",
+    "en": "the comedies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en komiker",
+    "en": "a comedian"
+   },
+   {
+    "da": "en farce",
+    "en": "a farce"
+   },
+   {
+    "da": "en vittighed",
+    "en": "a joke"
+   },
+   {
+    "da": "en revy",
+    "en": "a revue"
+   }
+  ],
+  "sentence": {
+   "da": "Vi griner hele aftenen, fordi filmen er en **komedie**.",
+   "en": "We laugh all evening because the film is a comedy."
+  }
+ },
+ "en komet": {
+  "file": "k.json",
+  "explanation": "\"En komet\" means \"a comet\", a lump of ice and dust that moves around the sun and glows brightly when it comes close.",
+  "forms": [
+   {
+    "da": "en komet",
+    "en": "a comet"
+   },
+   {
+    "da": "kometen",
+    "en": "the comet"
+   },
+   {
+    "da": "kometer",
+    "en": "comets"
+   },
+   {
+    "da": "kometerne",
+    "en": "the comets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en planet",
+    "en": "a planet"
+   },
+   {
+    "da": "en stjerne",
+    "en": "a star"
+   },
+   {
+    "da": "en meteor",
+    "en": "a meteor"
+   },
+   {
+    "da": "en asteroide",
+    "en": "an asteroid"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan se en **komet** med en lang hale på himlen.",
+   "en": "We can see a comet with a long tail in the sky."
+  }
+ },
+ "en komiker": {
+  "file": "k.json",
+  "explanation": "\"En komiker\" means \"a comedian\", a person who makes people laugh on stage, on TV or online. A comedian who tells jokes alone on a stage is called \"en stand-up-komiker\" (a stand-up comedian).",
+  "forms": [
+   {
+    "da": "en komiker",
+    "en": "a comedian"
+   },
+   {
+    "da": "komikeren",
+    "en": "the comedian"
+   },
+   {
+    "da": "komikere",
+    "en": "comedians"
+   },
+   {
+    "da": "komikerne",
+    "en": "the comedians"
+   }
+  ],
+  "related": [
+   {
+    "da": "en komedie",
+    "en": "a comedy"
+   },
+   {
+    "da": "en satiriker",
+    "en": "a satirist"
+   },
+   {
+    "da": "en klovn",
+    "en": "a clown"
+   },
+   {
+    "da": "en revy",
+    "en": "a revue"
+   }
+  ],
+  "sentence": {
+   "da": "En **komiker** står på scenen og får publikum til at le.",
+   "en": "A comedian stands on the stage and makes the audience laugh."
+  }
+ },
+ "en kommando": {
+  "file": "k.json",
+  "explanation": "\"En kommando\" means \"a command\", a short, firm call to do something that must be obeyed, for example from an officer to soldiers. In computing, it is a line you type to make a program do something.",
+  "forms": [
+   {
+    "da": "en kommando",
+    "en": "a command"
+   },
+   {
+    "da": "kommandoen",
+    "en": "the command"
+   },
+   {
+    "da": "kommandoer",
+    "en": "commands"
+   },
+   {
+    "da": "kommandoerne",
+    "en": "the commands"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ordre",
+    "en": "an order"
+   },
+   {
+    "da": "et signal",
+    "en": "a signal"
+   },
+   {
+    "da": "en instruktion",
+    "en": "an instruction"
+   },
+   {
+    "da": "en kommandør",
+    "en": "a commander"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden sætter sig på **kommando**.",
+   "en": "The dog sits on command."
+  }
+ },
+ "en kommandør": {
+  "file": "k.json",
+  "explanation": "\"En kommandør\" means \"a commander\", an officer who leads a military unit. It is also an official rank in the navy.",
+  "forms": [
+   {
+    "da": "en kommandør",
+    "en": "a commander"
+   },
+   {
+    "da": "kommandøren",
+    "en": "the commander"
+   },
+   {
+    "da": "kommandører",
+    "en": "commanders"
+   },
+   {
+    "da": "kommandørerne",
+    "en": "the commanders"
+   }
+  ],
+  "related": [
+   {
+    "da": "en admiral",
+    "en": "an admiral"
+   },
+   {
+    "da": "en general",
+    "en": "a general"
+   },
+   {
+    "da": "en kaptajn",
+    "en": "a captain"
+   },
+   {
+    "da": "en soldat",
+    "en": "a soldier"
+   }
+  ],
+  "sentence": {
+   "da": "En **kommandør** leder en stor styrke af soldater og skibe.",
+   "en": "A commander leads a large force of soldiers and ships."
+  }
+ },
+ "en kommentar": {
+  "file": "k.json",
+  "explanation": "\"En kommentar\" means \"a comment\", something you write or say about a thing, often under a post or a video. The action is \"at kommentere\" (to comment).",
+  "forms": [
+   {
+    "da": "en kommentar",
+    "en": "a comment"
+   },
+   {
+    "da": "kommentaren",
+    "en": "the comment"
+   },
+   {
+    "da": "kommentarer",
+    "en": "comments"
+   },
+   {
+    "da": "kommentarerne",
+    "en": "the comments"
+   }
+  ],
+  "related": [
+   {
+    "da": "en anmeldelse",
+    "en": "a review"
+   },
+   {
+    "da": "en bemærkning",
+    "en": "a remark"
+   },
+   {
+    "da": "en mening",
+    "en": "an opinion"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg læste hver **kommentar** under opslaget.",
+   "en": "I read every comment under the post."
+  }
+ },
+ "en kommentator": {
+  "file": "k.json",
+  "explanation": "\"En kommentator\" means \"a commentator\", someone who describes and gives opinions on events, for example a sports match on TV or the news in a newspaper column.",
+  "forms": [
+   {
+    "da": "en kommentator",
+    "en": "a commentator"
+   },
+   {
+    "da": "kommentatoren",
+    "en": "the commentator"
+   },
+   {
+    "da": "kommentatorer",
+    "en": "commentators"
+   },
+   {
+    "da": "kommentatorerne",
+    "en": "the commentators"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kommentar",
+    "en": "a comment"
+   },
+   {
+    "da": "at kommentere",
+    "en": "to comment"
+   },
+   {
+    "da": "en ekspert",
+    "en": "an expert"
+   },
+   {
+    "da": "en analytiker",
+    "en": "an analyst"
+   }
+  ],
+  "sentence": {
+   "da": "En **kommentator** forklarer, hvad der sker i kampen.",
+   "en": "A commentator explains what is happening in the match."
+  }
+ },
+ "en kommissær": {
+  "file": "k.json",
+  "explanation": "\"En kommissær\" means \"a commissioner\", a high official in charge of one special area, for example in the EU.",
+  "forms": [
+   {
+    "da": "en kommissær",
+    "en": "a commissioner"
+   },
+   {
+    "da": "kommissæren",
+    "en": "the commissioner"
+   },
+   {
+    "da": "kommissærer",
+    "en": "commissioners"
+   },
+   {
+    "da": "kommissærerne",
+    "en": "the commissioners"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kommission",
+    "en": "a commission"
+   },
+   {
+    "da": "en minister",
+    "en": "a minister"
+   },
+   {
+    "da": "en embedsmand",
+    "en": "a civil servant"
+   },
+   {
+    "da": "en politiinspektør",
+    "en": "a chief inspector"
+   }
+  ],
+  "sentence": {
+   "da": "En **kommissær** i EU har ansvar for et bestemt område.",
+   "en": "A commissioner in the EU is responsible for a certain area."
+  }
+ },
+ "en kommode": {
+  "file": "k.json",
+  "explanation": "\"En kommode\" means \"a chest of drawers\", a low piece of furniture with several drawers stacked on top of each other, often in a bedroom for clothes.",
+  "forms": [
+   {
+    "da": "en kommode",
+    "en": "a chest of drawers"
+   },
+   {
+    "da": "kommoden",
+    "en": "the chest of drawers"
+   },
+   {
+    "da": "kommoder",
+    "en": "chests of drawers"
+   },
+   {
+    "da": "kommoderne",
+    "en": "the chests of drawers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skuffe",
+    "en": "a drawer"
+   },
+   {
+    "da": "et skab",
+    "en": "a cupboard"
+   },
+   {
+    "da": "en reol",
+    "en": "a bookcase"
+   },
+   {
+    "da": "et natbord",
+    "en": "a nightstand"
+   }
+  ],
+  "sentence": {
+   "da": "Mit tøj ligger i en hvid **kommode**.",
+   "en": "My clothes are in a white chest of drawers."
+  }
+ },
+ "en kommune": {
+  "file": "k.json",
+  "explanation": "\"En kommune\" means \"a municipality\", the local area and its government, which runs things like schools, libraries and care for older people.",
+  "forms": [
+   {
+    "da": "en kommune",
+    "en": "a municipality"
+   },
+   {
+    "da": "kommunen",
+    "en": "the municipality"
+   },
+   {
+    "da": "kommuner",
+    "en": "municipalities"
+   },
+   {
+    "da": "kommunerne",
+    "en": "the municipalities"
+   }
+  ],
+  "related": [
+   {
+    "da": "en by",
+    "en": "a town"
+   },
+   {
+    "da": "en borgmester",
+    "en": "a mayor"
+   },
+   {
+    "da": "et rådhus",
+    "en": "a town hall"
+   },
+   {
+    "da": "en region",
+    "en": "a region"
+   }
+  ],
+  "sentence": {
+   "da": "Vores **kommune** bygger en ny skole.",
+   "en": "Our municipality is building a new school."
+  }
+ },
+ "en komponist": {
+  "file": "k.json",
+  "explanation": "\"En komponist\" means \"a composer\", a person who writes music for instruments, singers or film. The ending \"-ist\" marks a person in many Danish words, such as \"en pianist\" (a pianist) and \"en turist\" (a tourist).",
+  "forms": [
+   {
+    "da": "en komponist",
+    "en": "a composer"
+   },
+   {
+    "da": "komponisten",
+    "en": "the composer"
+   },
+   {
+    "da": "komponister",
+    "en": "composers"
+   },
+   {
+    "da": "komponisterne",
+    "en": "the composers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en musiker",
+    "en": "a musician"
+   },
+   {
+    "da": "en sangskriver",
+    "en": "a songwriter"
+   },
+   {
+    "da": "en dirigent",
+    "en": "a conductor"
+   },
+   {
+    "da": "et orkester",
+    "en": "an orchestra"
+   }
+  ],
+  "sentence": {
+   "da": "En **komponist** skriver noder, som andre senere spiller.",
+   "en": "A composer writes sheet music that others play later."
+  }
+ },
+ "en koncentration": {
+  "file": "k.json",
+  "explanation": "\"En koncentration\" means \"a concentration\", the ability to keep your mind on one thing. It also means how much of a substance is in a mix, such as salt in water.",
+  "forms": [
+   {
+    "da": "en koncentration",
+    "en": "a concentration"
+   },
+   {
+    "da": "koncentrationen",
+    "en": "the concentration"
+   },
+   {
+    "da": "koncentrationer",
+    "en": "concentrations"
+   },
+   {
+    "da": "koncentrationerne",
+    "en": "the concentrations"
+   }
+  ],
+  "related": [
+   {
+    "da": "at koncentrere sig",
+    "en": "to concentrate"
+   },
+   {
+    "da": "opmærksomhed",
+    "en": "attention"
+   },
+   {
+    "da": "et fokus",
+    "en": "a focus"
+   },
+   {
+    "da": "en distraktion",
+    "en": "a distraction"
+   }
+  ],
+  "sentence": {
+   "da": "Det kræver **koncentration** at læse i et støjende rum.",
+   "en": "It takes concentration to read in a noisy room."
+  }
+ },
+ "en koncert": {
+  "file": "k.json",
+  "explanation": "\"En koncert\" means \"a concert\", a live music show by a singer, a band or an orchestra. Danish leaves out \"en\" in \"gå til koncert\" (go to a concert).",
+  "forms": [
+   {
+    "da": "en koncert",
+    "en": "a concert"
+   },
+   {
+    "da": "koncerten",
+    "en": "the concert"
+   },
+   {
+    "da": "koncerter",
+    "en": "concerts"
+   },
+   {
+    "da": "koncerterne",
+    "en": "the concerts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en koncertsal",
+    "en": "a concert hall"
+   },
+   {
+    "da": "en koncertbillet",
+    "en": "a concert ticket"
+   },
+   {
+    "da": "en musiker",
+    "en": "a musician"
+   }
+  ],
+  "sentence": {
+   "da": "Bandet spiller mange sange på en **koncert**.",
+   "en": "The band plays many songs at a concert."
+  }
+ },
+ "en kondicykel": {
+  "file": "k.json",
+  "explanation": "\"En kondicykel\" means \"an exercise bike\", a bike that stays in one place indoors. \"Kondi\" is short for \"kondition\", the word for how fit you are: \"Jeg har god kondition\" (I have good stamina).",
+  "forms": [
+   {
+    "da": "en kondicykel",
+    "en": "an exercise bike"
+   },
+   {
+    "da": "kondicyklen",
+    "en": "the exercise bike"
+   },
+   {
+    "da": "kondicykler",
+    "en": "exercise bikes"
+   },
+   {
+    "da": "kondicyklerne",
+    "en": "the exercise bikes"
+   }
+  ],
+  "related": [
+   {
+    "da": "et løbebånd",
+    "en": "a treadmill"
+   },
+   {
+    "da": "en romaskine",
+    "en": "a rowing machine"
+   },
+   {
+    "da": "et fitnesscenter",
+    "en": "a gym"
+   },
+   {
+    "da": "en træning",
+    "en": "a workout"
+   }
+  ],
+  "sentence": {
+   "da": "Når det regner, træner jeg på min **kondicykel** i stuen.",
+   "en": "When it rains, I work out on my exercise bike in the living room."
+  }
+ },
+ "en kondolence": {
+  "file": "k.json",
+  "explanation": "\"En kondolence\" means \"a condolence\", words of comfort to someone who has lost a loved one. You say it as \"min kondolence\" (my condolences) or write it in a card.",
+  "forms": [
+   {
+    "da": "en kondolence",
+    "en": "a condolence"
+   },
+   {
+    "da": "kondolencen",
+    "en": "the condolence"
+   },
+   {
+    "da": "kondolencer",
+    "en": "condolences"
+   },
+   {
+    "da": "kondolencerne",
+    "en": "the condolences"
+   }
+  ],
+  "related": [
+   {
+    "da": "medfølelse",
+    "en": "compassion"
+   },
+   {
+    "da": "en begravelse",
+    "en": "a funeral"
+   },
+   {
+    "da": "en sorg",
+    "en": "grief"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sender dig min dybfølte **kondolence** efter dødsfaldet.",
+   "en": "I am sending you my deepest condolences after the death."
+  }
+ },
+ "en kone": {
+  "file": "k.json",
+  "explanation": "\"En kone\" means \"a wife\". For a woman in general, use \"en kvinde\" (a woman), not \"kone\".",
+  "forms": [
+   {
+    "da": "en kone",
+    "en": "a wife"
+   },
+   {
+    "da": "konen",
+    "en": "the wife"
+   },
+   {
+    "da": "koner",
+    "en": "wives"
+   },
+   {
+    "da": "konerne",
+    "en": "the wives"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mand",
+    "en": "a husband / man"
+   },
+   {
+    "da": "en kæreste",
+    "en": "a partner"
+   },
+   {
+    "da": "at gifte sig",
+    "en": "to get married"
+   },
+   {
+    "da": "en ægtefælle",
+    "en": "a spouse"
+   }
+  ],
+  "sentence": {
+   "da": "Han giftede sig med sin **kone** i 2010.",
+   "en": "He married his wife in 2010."
+  }
+ },
+ "en konfirmation": {
+  "file": "k.json",
+  "explanation": "\"En konfirmation\" means \"a confirmation\", a Christian ceremony for teenagers, usually around age 14, followed by a big family party.",
+  "forms": [
+   {
+    "da": "en konfirmation",
+    "en": "a confirmation"
+   },
+   {
+    "da": "konfirmationen",
+    "en": "the confirmation"
+   },
+   {
+    "da": "konfirmationer",
+    "en": "confirmations"
+   },
+   {
+    "da": "konfirmationerne",
+    "en": "the confirmations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en konfirmand",
+    "en": "a young person being confirmed"
+   },
+   {
+    "da": "at konfirmere",
+    "en": "to confirm (in church)"
+   },
+   {
+    "da": "en kirke",
+    "en": "a church"
+   },
+   {
+    "da": "en dåb",
+    "en": "a baptism"
+   }
+  ],
+  "sentence": {
+   "da": "Min lillebror har **konfirmation** i foråret.",
+   "en": "My little brother has his confirmation in the spring."
+  }
+ },
+ "en konflikt": {
+  "file": "k.json",
+  "explanation": "\"En konflikt\" means \"a conflict\", a serious fight between people, groups or countries. It can be small, like a quarrel at work, or large, like a war.",
+  "forms": [
+   {
+    "da": "en konflikt",
+    "en": "a conflict"
+   },
+   {
+    "da": "konflikten",
+    "en": "the conflict"
+   },
+   {
+    "da": "konflikter",
+    "en": "conflicts"
+   },
+   {
+    "da": "konflikterne",
+    "en": "the conflicts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en strid",
+    "en": "a dispute"
+   },
+   {
+    "da": "en uenighed",
+    "en": "a disagreement"
+   },
+   {
+    "da": "et forlig",
+    "en": "a settlement"
+   },
+   {
+    "da": "fred",
+    "en": "peace"
+   }
+  ],
+  "sentence": {
+   "da": "Der er opstået en **konflikt** mellem de to naboer om hækken.",
+   "en": "A conflict has arisen between the two neighbors over the hedge."
+  }
+ },
+ "en konge": {
+  "file": "k.json",
+  "explanation": "\"En konge\" means \"a king\", the male ruler of a country. The king's wife is \"en dronning\" (a queen).",
+  "forms": [
+   {
+    "da": "en konge",
+    "en": "a king"
+   },
+   {
+    "da": "kongen",
+    "en": "the king"
+   },
+   {
+    "da": "konger",
+    "en": "kings"
+   },
+   {
+    "da": "kongerne",
+    "en": "the kings"
+   }
+  ],
+  "related": [
+   {
+    "da": "en prins",
+    "en": "a prince"
+   },
+   {
+    "da": "et kongerige",
+    "en": "a kingdom"
+   },
+   {
+    "da": "en kejser",
+    "en": "an emperor"
+   }
+  ],
+  "sentence": {
+   "da": "En **konge** styrer et land.",
+   "en": "A king rules a country."
+  }
+ },
+ "en konklusion": {
+  "file": "k.json",
+  "explanation": "\"En konklusion\" means \"a conclusion\", what you decide is true after thinking about the facts. It is also the last part of a text or report, where the main points are gathered.",
+  "forms": [
+   {
+    "da": "en konklusion",
+    "en": "a conclusion"
+   },
+   {
+    "da": "konklusionen",
+    "en": "the conclusion"
+   },
+   {
+    "da": "konklusioner",
+    "en": "conclusions"
+   },
+   {
+    "da": "konklusionerne",
+    "en": "the conclusions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en indledning",
+    "en": "an introduction"
+   },
+   {
+    "da": "et resultat",
+    "en": "a result"
+   },
+   {
+    "da": "en afslutning",
+    "en": "an ending"
+   },
+   {
+    "da": "at konkludere",
+    "en": "to conclude"
+   }
+  ],
+  "sentence": {
+   "da": "Efter mange tests kom forskerne til en **konklusion**.",
+   "en": "After many tests, the researchers came to a conclusion."
+  }
+ },
+ "en konkurrence": {
+  "file": "k.json",
+  "explanation": "\"En konkurrence\" means \"a competition\", where people try to win. The action is \"at konkurrere\" (to compete), and a rival is \"en konkurrent\" (a competitor).",
+  "forms": [
+   {
+    "da": "en konkurrence",
+    "en": "a competition"
+   },
+   {
+    "da": "konkurrencen",
+    "en": "the competition"
+   },
+   {
+    "da": "konkurrencer",
+    "en": "competitions"
+   },
+   {
+    "da": "konkurrencerne",
+    "en": "the competitions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kamp",
+    "en": "a match"
+   },
+   {
+    "da": "en deltager",
+    "en": "a participant"
+   },
+   {
+    "da": "en vinder",
+    "en": "a winner"
+   },
+   {
+    "da": "en turnering",
+    "en": "a tournament"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan vinde en pris i en **konkurrence**.",
+   "en": "You can win a prize in a competition."
+  }
+ },
+ "en konkurrent": {
+  "file": "k.json",
+  "explanation": "\"En konkurrent\" means \"a competitor\", a person or company that tries to win the same customers or prizes as you.",
+  "forms": [
+   {
+    "da": "en konkurrent",
+    "en": "a competitor"
+   },
+   {
+    "da": "konkurrenten",
+    "en": "the competitor"
+   },
+   {
+    "da": "konkurrenter",
+    "en": "competitors"
+   },
+   {
+    "da": "konkurrenterne",
+    "en": "the competitors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en konkurrence",
+    "en": "a competition"
+   },
+   {
+    "da": "at konkurrere",
+    "en": "to compete"
+   },
+   {
+    "da": "en rival",
+    "en": "a rival"
+   },
+   {
+    "da": "en modstander",
+    "en": "an opponent"
+   }
+  ],
+  "sentence": {
+   "da": "Vores **konkurrent** sælger de samme varer til lavere priser.",
+   "en": "Our competitor sells the same goods at lower prices."
+  }
+ },
+ "en konsekvens": {
+  "file": "k.json",
+  "explanation": "\"En konsekvens\" means \"a consequence\", what happens because of something you did or something that happened. The look-alike \"konsekvent\" means doing what you said every time (consistent).",
+  "forms": [
+   {
+    "da": "en konsekvens",
+    "en": "a consequence"
+   },
+   {
+    "da": "konsekvensen",
+    "en": "the consequence"
+   },
+   {
+    "da": "konsekvenser",
+    "en": "consequences"
+   },
+   {
+    "da": "konsekvenserne",
+    "en": "the consequences"
+   }
+  ],
+  "related": [
+   {
+    "da": "en følge",
+    "en": "a result"
+   },
+   {
+    "da": "en effekt",
+    "en": "an effect"
+   },
+   {
+    "da": "en årsag",
+    "en": "a cause"
+   },
+   {
+    "da": "et udfald",
+    "en": "an outcome"
+   }
+  ],
+  "sentence": {
+   "da": "Hans træthed er en **konsekvens** af for lidt søvn.",
+   "en": "His tiredness is a consequence of too little sleep."
+  }
+ },
+ "en konsistens": {
+  "file": "k.json",
+  "explanation": "\"En konsistens\" means \"a texture\", how firm, runny or smooth a food or liquid is. Do not mix it up with the English \"consistency\", which can mean doing the same each time. In Danish that is \"konsekvent\" (consistent).",
+  "forms": [
+   {
+    "da": "en konsistens",
+    "en": "a texture"
+   },
+   {
+    "da": "konsistensen",
+    "en": "the texture"
+   },
+   {
+    "da": "konsistenser",
+    "en": "textures"
+   },
+   {
+    "da": "konsistenserne",
+    "en": "the textures"
+   }
+  ],
+  "related": [
+   {
+    "da": "tyk",
+    "en": "thick"
+   },
+   {
+    "da": "klumpet",
+    "en": "lumpy"
+   },
+   {
+    "da": "cremet",
+    "en": "creamy"
+   },
+   {
+    "da": "sej",
+    "en": "chewy"
+   }
+  ],
+  "sentence": {
+   "da": "Budding har en blød og glat **konsistens**.",
+   "en": "Pudding has a soft and smooth texture."
+  }
+ },
+ "en konsonant": {
+  "file": "k.json",
+  "explanation": "\"En konsonant\" means \"a consonant\", such as b, d or k. The opposite is \"en vokal\" (a vowel).",
+  "forms": [
+   {
+    "da": "en konsonant",
+    "en": "a consonant"
+   },
+   {
+    "da": "konsonanten",
+    "en": "the consonant"
+   },
+   {
+    "da": "konsonanter",
+    "en": "consonants"
+   },
+   {
+    "da": "konsonanterne",
+    "en": "the consonants"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bogstav",
+    "en": "a letter"
+   },
+   {
+    "da": "et alfabet",
+    "en": "an alphabet"
+   },
+   {
+    "da": "en stavelse",
+    "en": "a syllable"
+   },
+   {
+    "da": "en lyd",
+    "en": "a sound"
+   }
+  ],
+  "sentence": {
+   "da": "I ordet bog er b en **konsonant** og o en vokal.",
+   "en": "In the word bog, b is a consonant and o is a vowel."
+  }
+ },
+ "en konsulent": {
+  "file": "k.json",
+  "explanation": "\"En konsulent\" means \"a consultant\", someone with deep knowledge whom a company hires to give advice on a specific job or problem, usually for a limited time. Many consultants work for themselves instead of having one employer.",
+  "forms": [
+   {
+    "da": "en konsulent",
+    "en": "a consultant"
+   },
+   {
+    "da": "konsulenten",
+    "en": "the consultant"
+   },
+   {
+    "da": "konsulenter",
+    "en": "consultants"
+   },
+   {
+    "da": "konsulenterne",
+    "en": "the consultants"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rådgiver",
+    "en": "an advisor"
+   },
+   {
+    "da": "en ekspert",
+    "en": "an expert"
+   },
+   {
+    "da": "en freelancer",
+    "en": "a freelancer"
+   },
+   {
+    "da": "en specialist",
+    "en": "a specialist"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet har hyret en **konsulent** til at give råd om økonomien.",
+   "en": "The company has hired a consultant to give advice about the finances."
+  }
+ },
+ "en kontakt": {
+  "file": "k.json",
+  "explanation": "\"En kontakt\" means \"a contact\" and also \"a switch\": \"Jeg har en kontakt i banken\" (I have a contact at the bank). \"Kontakten er ved døren\" (The switch is by the door).",
+  "forms": [
+   {
+    "da": "en kontakt",
+    "en": "a contact / a switch"
+   },
+   {
+    "da": "kontakten",
+    "en": "the contact / the switch"
+   },
+   {
+    "da": "kontakter",
+    "en": "contacts / switches"
+   },
+   {
+    "da": "kontakterne",
+    "en": "the contacts / the switches"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kontakte",
+    "en": "to contact"
+   },
+   {
+    "da": "en forbindelse",
+    "en": "a connection"
+   },
+   {
+    "da": "en kontaktperson",
+    "en": "a contact person"
+   },
+   {
+    "da": "en stikkontakt",
+    "en": "an outlet"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har stadig **kontakt** med min gamle ven.",
+   "en": "I still have contact with my old friend."
+  }
+ },
+ "en kontaktlinse": {
+  "file": "k.json",
+  "explanation": "\"En kontaktlinse\" means \"a contact lens\", a thin lens you wear directly on the eye instead of in a frame.",
+  "forms": [
+   {
+    "da": "en kontaktlinse",
+    "en": "a contact lens"
+   },
+   {
+    "da": "kontaktlinsen",
+    "en": "the contact lens"
+   },
+   {
+    "da": "kontaktlinser",
+    "en": "contact lenses"
+   },
+   {
+    "da": "kontaktlinserne",
+    "en": "the contact lenses"
+   }
+  ],
+  "related": [
+   {
+    "da": "briller",
+    "en": "glasses"
+   },
+   {
+    "da": "en optiker",
+    "en": "an optician"
+   },
+   {
+    "da": "solbriller",
+    "en": "sunglasses"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en **kontaktlinse** i hvert øje i stedet for briller.",
+   "en": "She has a contact lens in each eye instead of glasses."
+  }
+ },
+ "en kontaktløs betaling": {
+  "file": "k.json",
+  "explanation": "\"En kontaktløs betaling\" means \"a contactless payment\", where you hold your phone or bank card close to the terminal instead of inserting it.",
+  "forms": [
+   {
+    "da": "en kontaktløs betaling",
+    "en": "a contactless payment"
+   },
+   {
+    "da": "den kontaktløse betaling",
+    "en": "the contactless payment"
+   },
+   {
+    "da": "kontaktløse betalinger",
+    "en": "contactless payments"
+   },
+   {
+    "da": "de kontaktløse betalinger",
+    "en": "the contactless payments"
+   }
+  ],
+  "related": [
+   {
+    "da": "kontanter",
+    "en": "cash"
+   },
+   {
+    "da": "et dankort",
+    "en": "a Dankort"
+   },
+   {
+    "da": "en pinkode",
+    "en": "a PIN code"
+   }
+  ],
+  "sentence": {
+   "da": "Ved **kontaktløs betaling** holder du bare telefonen hen til terminalen.",
+   "en": "With contactless payment you just hold the phone up to the terminal."
+  }
+ },
+ "en kontaktperson": {
+  "file": "k.json",
+  "explanation": "\"En kontaktperson\" means \"a contact person\", someone you call or write to first, for example at a school or a workplace. The word is the same for a man and a woman: \"Han er vores kontaktperson\" (He is our contact person).",
+  "forms": [
+   {
+    "da": "en kontaktperson",
+    "en": "a contact person"
+   },
+   {
+    "da": "kontaktpersonen",
+    "en": "the contact person"
+   },
+   {
+    "da": "kontaktpersoner",
+    "en": "contact persons"
+   },
+   {
+    "da": "kontaktpersonerne",
+    "en": "the contact persons"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kontakt",
+    "en": "a contact"
+   },
+   {
+    "da": "at kontakte",
+    "en": "to contact"
+   },
+   {
+    "da": "en kontaktoplysning",
+    "en": "a piece of contact information"
+   }
+  ],
+  "sentence": {
+   "da": "Min **kontaktperson** på skolen hedder Anne.",
+   "en": "My contact person at the school is called Anne."
+  }
+ },
+ "en kontekst": {
+  "file": "k.json",
+  "explanation": "\"En kontekst\" means \"a context\", the words or circumstances around something that show what it really means. A word or sentence can mean something else when it is taken out of its context.",
+  "forms": [
+   {
+    "da": "en kontekst",
+    "en": "a context"
+   },
+   {
+    "da": "konteksten",
+    "en": "the context"
+   },
+   {
+    "da": "kontekster",
+    "en": "contexts"
+   },
+   {
+    "da": "konteksterne",
+    "en": "the contexts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sammenhæng",
+    "en": "a connection"
+   },
+   {
+    "da": "en baggrund",
+    "en": "a background"
+   },
+   {
+    "da": "en situation",
+    "en": "a situation"
+   },
+   {
+    "da": "et citat",
+    "en": "a quotation"
+   }
+  ],
+  "sentence": {
+   "da": "Uden **kontekst** kan man ikke se, hvad ordet betyder.",
+   "en": "Without context you cannot tell what the word means."
+  }
+ },
+ "en konto": {
+  "file": "k.json",
+  "explanation": "\"En konto\" means \"an account\", a place where a bank keeps your money, or where you log in online.",
+  "forms": [
+   {
+    "da": "en konto",
+    "en": "an account"
+   },
+   {
+    "da": "kontoen",
+    "en": "the account"
+   },
+   {
+    "da": "kontoer",
+    "en": "accounts"
+   },
+   {
+    "da": "kontoerne",
+    "en": "the accounts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bankkonto",
+    "en": "a bank account"
+   },
+   {
+    "da": "et kontonummer",
+    "en": "an account number"
+   },
+   {
+    "da": "en saldo",
+    "en": "a balance"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sætter penge ind på min **konto**.",
+   "en": "I put money into my account."
+  }
+ },
+ "en kontorassistent": {
+  "file": "k.json",
+  "explanation": "\"En kontorassistent\" means \"an office assistant\", a person who does everyday office tasks such as answering the phone, filing papers and ordering supplies.",
+  "forms": [
+   {
+    "da": "en kontorassistent",
+    "en": "an office assistant"
+   },
+   {
+    "da": "kontorassistenten",
+    "en": "the office assistant"
+   },
+   {
+    "da": "kontorassistenter",
+    "en": "office assistants"
+   },
+   {
+    "da": "kontorassistenterne",
+    "en": "the office assistants"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sekretær",
+    "en": "a secretary"
+   },
+   {
+    "da": "en receptionist",
+    "en": "a receptionist"
+   },
+   {
+    "da": "en kontorleder",
+    "en": "an office manager"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har ansat en ny **kontorassistent** til at hjælpe på kontoret.",
+   "en": "We have hired a new office assistant to help in the office."
+  }
+ },
+ "en kontorplads": {
+  "file": "k.json",
+  "explanation": "\"En kontorplads\" means \"a workspace\", your own place to sit and work at a company, often one seat in a shared room. It is only the seat and desk, not a whole room: that is \"et kontor\" (an office).",
+  "forms": [
+   {
+    "da": "en kontorplads",
+    "en": "a workspace"
+   },
+   {
+    "da": "kontorpladsen",
+    "en": "the workspace"
+   },
+   {
+    "da": "kontorpladser",
+    "en": "workspaces"
+   },
+   {
+    "da": "kontorpladserne",
+    "en": "the workspaces"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kontorfællesskab",
+    "en": "a coworking space"
+   },
+   {
+    "da": "en arbejdsplads",
+    "en": "a workplace"
+   },
+   {
+    "da": "et kontorlandskab",
+    "en": "an open-plan office"
+   }
+  ],
+  "sentence": {
+   "da": "Min nye **kontorplads** er ved vinduet, så jeg har dagslys.",
+   "en": "My new workspace is by the window, so I have daylight."
+  }
+ },
+ "en kontorstol": {
+  "file": "k.json",
+  "explanation": "\"En kontorstol\" means \"an office chair\", built from kontor (office) and stol (chair). \"Stol\" is also in \"en spisestol\" (a dining chair).",
+  "forms": [
+   {
+    "da": "en kontorstol",
+    "en": "an office chair"
+   },
+   {
+    "da": "kontorstolen",
+    "en": "the office chair"
+   },
+   {
+    "da": "kontorstole",
+    "en": "office chairs"
+   },
+   {
+    "da": "kontorstolene",
+    "en": "the office chairs"
+   }
+  ],
+  "related": [
+   {
+    "da": "et skrivebord",
+    "en": "a desk"
+   },
+   {
+    "da": "en lænestol",
+    "en": "an armchair"
+   },
+   {
+    "da": "en barstol",
+    "en": "a bar stool"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sidder på en god **kontorstol** hele dagen.",
+   "en": "I sit on a good office chair all day."
+  }
+ },
+ "en kontrakt": {
+  "file": "k.json",
+  "explanation": "\"En kontrakt\" means \"a contract\", a written agreement with fixed terms between two sides, for example for a job or a home. A spoken deal is just \"en aftale\" (an agreement).",
+  "forms": [
+   {
+    "da": "en kontrakt",
+    "en": "a contract"
+   },
+   {
+    "da": "kontrakten",
+    "en": "the contract"
+   },
+   {
+    "da": "kontrakter",
+    "en": "contracts"
+   },
+   {
+    "da": "kontrakterne",
+    "en": "the contracts"
+   }
+  ],
+  "related": [
+   {
+    "da": "at underskrive",
+    "en": "to sign"
+   },
+   {
+    "da": "en klausul",
+    "en": "a clause"
+   },
+   {
+    "da": "et opsigelsesvarsel",
+    "en": "a notice period"
+   }
+  ],
+  "sentence": {
+   "da": "Før du skriver under, skal du læse hele din **kontrakt**.",
+   "en": "Before you sign, you must read your whole contract."
+  }
+ },
+ "en kontrast": {
+  "file": "k.json",
+  "explanation": "\"En kontrast\" means \"a contrast\", a clear difference between two things placed side by side, such as light and dark. A common phrase is \"i kontrast til\" (in contrast to).",
+  "forms": [
+   {
+    "da": "en kontrast",
+    "en": "a contrast"
+   },
+   {
+    "da": "kontrasten",
+    "en": "the contrast"
+   },
+   {
+    "da": "kontraster",
+    "en": "contrasts"
+   },
+   {
+    "da": "kontrasterne",
+    "en": "the contrasts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lighed",
+    "en": "a similarity"
+   },
+   {
+    "da": "en sammenligning",
+    "en": "a comparison"
+   },
+   {
+    "da": "en modsætning",
+    "en": "an opposite"
+   },
+   {
+    "da": "en nuance",
+    "en": "a nuance"
+   }
+  ],
+  "sentence": {
+   "da": "Der er stor **kontrast** mellem den lyse væg og det sorte gulv.",
+   "en": "There is a big contrast between the light wall and the black floor."
+  }
+ },
+ "en kontrol": {
+  "file": "k.json",
+  "explanation": "\"En kontrol\" means \"a check\", for example by the police or at a border. It also means \"control\": \"Han har kontrol over bilen\" (He has control of the car).",
+  "forms": [
+   {
+    "da": "en kontrol",
+    "en": "a check / control"
+   },
+   {
+    "da": "kontrollen",
+    "en": "the check / control"
+   },
+   {
+    "da": "kontroller",
+    "en": "checks / controls"
+   },
+   {
+    "da": "kontrollerne",
+    "en": "the checks / controls"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kontrollere",
+    "en": "to check"
+   },
+   {
+    "da": "en kontrollør",
+    "en": "an inspector"
+   },
+   {
+    "da": "et tjek",
+    "en": "a check"
+   },
+   {
+    "da": "en inspektion",
+    "en": "an inspection"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet laver en **kontrol** på vejen.",
+   "en": "The police are doing a check on the road."
+  }
+ },
+ "en kontrolafgift": {
+  "file": "k.json",
+  "explanation": "\"En kontrolafgift\" means \"a penalty fare\", the extra money you must pay if you ride without a valid ticket. It is built from kontrol (check) and afgift (fee).",
+  "forms": [
+   {
+    "da": "en kontrolafgift",
+    "en": "a penalty fare"
+   },
+   {
+    "da": "kontrolafgiften",
+    "en": "the penalty fare"
+   },
+   {
+    "da": "kontrolafgifter",
+    "en": "penalty fares"
+   },
+   {
+    "da": "kontrolafgifterne",
+    "en": "the penalty fares"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bøde",
+    "en": "a fine"
+   },
+   {
+    "da": "en billetkontrollør",
+    "en": "a ticket inspector"
+   },
+   {
+    "da": "en parkeringsbøde",
+    "en": "a parking ticket"
+   },
+   {
+    "da": "en betaling",
+    "en": "a payment"
+   }
+  ],
+  "sentence": {
+   "da": "Uden billet får du en **kontrolafgift**.",
+   "en": "Without a ticket, you get a penalty fare."
+  }
+ },
+ "en koordinat": {
+  "file": "k.json",
+  "explanation": "\"En koordinat\" means \"a coordinate\", one of the numbers that give an exact place on a map or in a graph. A place on a map needs two, one number for north-south and one for east-west.",
+  "forms": [
+   {
+    "da": "en koordinat",
+    "en": "a coordinate"
+   },
+   {
+    "da": "koordinaten",
+    "en": "the coordinate"
+   },
+   {
+    "da": "koordinater",
+    "en": "coordinates"
+   },
+   {
+    "da": "koordinaterne",
+    "en": "the coordinates"
+   }
+  ],
+  "related": [
+   {
+    "da": "en længdegrad",
+    "en": "a longitude"
+   },
+   {
+    "da": "et punkt",
+    "en": "a point"
+   },
+   {
+    "da": "en akse",
+    "en": "an axis"
+   }
+  ],
+  "sentence": {
+   "da": "Breddegraden er en **koordinat** på et kort.",
+   "en": "Latitude is a coordinate on a map."
+  }
+ },
+ "en kop": {
+  "file": "k.json",
+  "explanation": "\"En kop\" means \"a cup\", mostly for hot drinks like coffee and tea. Cold drinks usually go in \"et glas\" (a glass).",
+  "forms": [
+   {
+    "da": "en kop",
+    "en": "a cup"
+   },
+   {
+    "da": "koppen",
+    "en": "the cup"
+   },
+   {
+    "da": "kopper",
+    "en": "cups"
+   },
+   {
+    "da": "koppene",
+    "en": "the cups"
+   }
+  ],
+  "related": [
+   {
+    "da": "et krus",
+    "en": "a mug"
+   },
+   {
+    "da": "en tekop",
+    "en": "a teacup"
+   },
+   {
+    "da": "en underkop",
+    "en": "a saucer"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne have en **kop** kaffe.",
+   "en": "I would like a cup of coffee."
+  }
+ },
+ "en kopi": {
+  "file": "k.json",
+  "explanation": "\"En kopi\" means \"a copy\" of a document, a file or a key.",
+  "forms": [
+   {
+    "da": "en kopi",
+    "en": "a copy"
+   },
+   {
+    "da": "kopien",
+    "en": "the copy"
+   },
+   {
+    "da": "kopier",
+    "en": "copies"
+   },
+   {
+    "da": "kopierne",
+    "en": "the copies"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kopiere",
+    "en": "to copy"
+   },
+   {
+    "da": "en original",
+    "en": "an original"
+   },
+   {
+    "da": "en fotokopi",
+    "en": "a photocopy"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal bruge en **kopi** af dit pas.",
+   "en": "I need a copy of your passport."
+  }
+ },
+ "en kopimaskine": {
+  "file": "k.json",
+  "explanation": "\"En kopimaskine\" means \"a copier\", a machine that makes copies of papers. It is built from kopi (a copy) and maskine (machine). \"Maskine\" also appears in \"en vaskemaskine\" (a washing machine).",
+  "forms": [
+   {
+    "da": "en kopimaskine",
+    "en": "a copier"
+   },
+   {
+    "da": "kopimaskinen",
+    "en": "the copier"
+   },
+   {
+    "da": "kopimaskiner",
+    "en": "copiers"
+   },
+   {
+    "da": "kopimaskinerne",
+    "en": "the copiers"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kopiere",
+    "en": "to copy"
+   },
+   {
+    "da": "en printer",
+    "en": "a printer"
+   },
+   {
+    "da": "en scanner",
+    "en": "a scanner"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du lave ti kopier på vores **kopimaskine**?",
+   "en": "Can you make ten copies on our copier?"
+  }
+ },
+ "en korporal": {
+  "file": "k.json",
+  "explanation": "\"En korporal\" means \"a corporal\", a low rank in the army. It is one of the first ranks a soldier can move up to.",
+  "forms": [
+   {
+    "da": "en korporal",
+    "en": "a corporal"
+   },
+   {
+    "da": "korporalen",
+    "en": "the corporal"
+   },
+   {
+    "da": "korporaler",
+    "en": "corporals"
+   },
+   {
+    "da": "korporalerne",
+    "en": "the corporals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en løjtnant",
+    "en": "a lieutenant"
+   },
+   {
+    "da": "en officer",
+    "en": "an officer"
+   },
+   {
+    "da": "en kaptajn",
+    "en": "a captain"
+   }
+  ],
+  "sentence": {
+   "da": "En **korporal** er over en menig og under en sergent.",
+   "en": "A corporal is above a private and below a sergeant."
+  }
+ },
+ "en kosmetolog": {
+  "file": "k.json",
+  "explanation": "\"En kosmetolog\" means \"a beautician\", a trained specialist in skin care and beauty treatments such as facials. A \"kosmetolog\" works on the skin, not on the hair.",
+  "forms": [
+   {
+    "da": "en kosmetolog",
+    "en": "a beautician"
+   },
+   {
+    "da": "kosmetologen",
+    "en": "the beautician"
+   },
+   {
+    "da": "kosmetologer",
+    "en": "beauticians"
+   },
+   {
+    "da": "kosmetologerne",
+    "en": "the beauticians"
+   }
+  ],
+  "related": [
+   {
+    "da": "en frisør",
+    "en": "a hairdresser"
+   },
+   {
+    "da": "en makeupartist",
+    "en": "a makeup artist"
+   },
+   {
+    "da": "en skønhedssalon",
+    "en": "a beauty salon"
+   }
+  ],
+  "sentence": {
+   "da": "Min **kosmetolog** giver mig en ansigtsbehandling hver anden måned.",
+   "en": "My beautician gives me a facial every other month."
+  }
+ },
+ "en kost": {
+  "file": "k.json",
+  "explanation": "\"En kost\" means \"a broom\", a brush on a long handle for cleaning the floor. \"En støvsuger\" (a vacuum cleaner) does the same job with electricity.",
+  "forms": [
+   {
+    "da": "en kost",
+    "en": "a broom"
+   },
+   {
+    "da": "kosten",
+    "en": "the broom"
+   },
+   {
+    "da": "koste",
+    "en": "brooms"
+   },
+   {
+    "da": "kostene",
+    "en": "the brooms"
+   }
+  ],
+  "related": [
+   {
+    "da": "at feje",
+    "en": "to sweep"
+   },
+   {
+    "da": "en fejebakke",
+    "en": "a dustpan"
+   },
+   {
+    "da": "en moppe",
+    "en": "a mop"
+   },
+   {
+    "da": "en klud",
+    "en": "a cloth"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager en **kost** og fejer køkkenet.",
+   "en": "I take a broom and sweep the kitchen."
+  }
+ }
+}

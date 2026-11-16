@@ -1,0 +1,4074 @@
+{
+ "prikket": {
+  "file": "p.json",
+  "explanation": "\"Prikket\" means \"polka-dotted\", covered in small round dots. It is built from \"en prik\" (a dot).",
+  "forms": [
+   {
+    "da": "en prikket kjole",
+    "en": "a polka-dotted dress"
+   },
+   {
+    "da": "et prikket slips",
+    "en": "a polka-dotted tie"
+   },
+   {
+    "da": "prikkede sokker",
+    "en": "polka-dotted socks"
+   }
+  ],
+  "related": [
+   {
+    "da": "stribet",
+    "en": "striped"
+   },
+   {
+    "da": "ternet",
+    "en": "checkered"
+   },
+   {
+    "da": "blomstret",
+    "en": "flowered"
+   },
+   {
+    "da": "plettet",
+    "en": "spotted"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes kjole er rød og **prikket**, ligesom en mariehøne.",
+   "en": "Her dress is red and polka-dotted, like a ladybug."
+  }
+ },
+ "primær": {
+  "file": "p.json",
+  "explanation": "\"Primær\" means \"primary\", the first or main one of several: \"den primære årsag\" (the primary reason).",
+  "forms": [
+   {
+    "da": "en primær årsag",
+    "en": "a primary reason"
+   },
+   {
+    "da": "et primært mål",
+    "en": "a primary goal"
+   },
+   {
+    "da": "primære kilder",
+    "en": "primary sources"
+   }
+  ],
+  "related": [
+   {
+    "da": "sekundær",
+    "en": "secondary"
+   },
+   {
+    "da": "primært",
+    "en": "primarily"
+   },
+   {
+    "da": "en hovedårsag",
+    "en": "a main cause"
+   },
+   {
+    "da": "vigtigst",
+    "en": "most important"
+   }
+  ],
+  "sentence": {
+   "da": "Årsagen er **primær**, og de andre er mindre vigtige.",
+   "en": "The reason is primary, and the others are less important."
+  }
+ },
+ "primært": {
+  "file": "p.json",
+  "explanation": "\"Primært\" means \"primarily\", mostly or above all: \"Vi sælger primært brugte bøger\" (We mainly sell used books). To describe a thing, Danish uses \"primær\" (primary): \"det primære mål\" (the primary goal).",
+  "forms": [
+   {
+    "da": "primært for børn",
+    "en": "mainly for children"
+   },
+   {
+    "da": "primært om natten",
+    "en": "mainly at night"
+   },
+   {
+    "da": "primært i Danmark",
+    "en": "mainly in Denmark"
+   }
+  ],
+  "related": [
+   {
+    "da": "hovedsagelig",
+    "en": "mainly"
+   },
+   {
+    "da": "især",
+    "en": "especially"
+   },
+   {
+    "da": "for det meste",
+    "en": "for the most part"
+   },
+   {
+    "da": "overvejende",
+    "en": "predominantly"
+   }
+  ],
+  "sentence": {
+   "da": "Butikken sælger **primært** brugt tøj, men også lidt legetøj.",
+   "en": "The store sells mostly used clothes, but also a few toys."
+  }
+ },
+ "privat": {
+  "file": "p.json",
+  "explanation": "\"Privat\" means \"private\", for what belongs to one person or family and not to everyone: \"et privat hjem\" (a private home), \"Det er privat\" (That is private).",
+  "forms": [
+   {
+    "da": "en privat samtale",
+    "en": "a private conversation"
+   },
+   {
+    "da": "et privat hus",
+    "en": "a private house"
+   },
+   {
+    "da": "private penge",
+    "en": "private money"
+   }
+  ],
+  "related": [
+   {
+    "da": "offentlig",
+    "en": "public"
+   },
+   {
+    "da": "personlig",
+    "en": "personal"
+   },
+   {
+    "da": "en privatperson",
+    "en": "a private person"
+   },
+   {
+    "da": "fortrolig",
+    "en": "confidential"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil ikke tale om noget **privat**.",
+   "en": "I do not want to talk about anything private."
+  }
+ },
+ "privatliv": {
+  "file": "p.json",
+  "explanation": "\"Et privatliv\" means \"privacy\" and \"private life\", the part of your life that belongs to you and not to work or the public.",
+  "forms": [
+   {
+    "da": "et privatliv",
+    "en": "privacy"
+   },
+   {
+    "da": "privatlivet",
+    "en": "the private life"
+   },
+   {
+    "da": "beskytte privatlivet",
+    "en": "to protect privacy"
+   },
+   {
+    "da": "krænkelse af privatlivet",
+    "en": "invasion of privacy"
+   }
+  ],
+  "related": [
+   {
+    "da": "fortrolig",
+    "en": "confidential"
+   },
+   {
+    "da": "en hemmelighed",
+    "en": "a secret"
+   },
+   {
+    "da": "databeskyttelse",
+    "en": "data protection"
+   },
+   {
+    "da": "et familieliv",
+    "en": "a family life"
+   }
+  ],
+  "sentence": {
+   "da": "Politikere har også ret til et **privatliv** uden kameraer.",
+   "en": "Politicians also have a right to a private life without cameras."
+  }
+ },
+ "problematisk": {
+  "file": "p.json",
+  "explanation": "\"Problematisk\" means \"problematic\", for a situation, plan or habit that brings problems. It is built on et problem (a problem).",
+  "forms": [
+   {
+    "da": "en problematisk situation",
+    "en": "a problematic situation"
+   },
+   {
+    "da": "et problematisk forhold",
+    "en": "a problematic relationship"
+   },
+   {
+    "da": "problematiske forhold",
+    "en": "problematic conditions"
+   }
+  ],
+  "related": [
+   {
+    "da": "vanskelig",
+    "en": "difficult"
+   },
+   {
+    "da": "risikabel",
+    "en": "risky"
+   },
+   {
+    "da": "uproblematisk",
+    "en": "unproblematic"
+   },
+   {
+    "da": "besværlig",
+    "en": "troublesome"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **problematisk**, når ingen har ansvaret.",
+   "en": "It is problematic when nobody is responsible."
+  }
+ },
+ "problemfri": {
+  "file": "p.json",
+  "explanation": "\"Problemfri\" means \"problem-free\", going well, with no trouble. The ending \"-fri\" (free) means \"without\" in many words: \"sukkerfri\" (sugar-free), \"glutenfri\" (gluten-free).",
+  "forms": [
+   {
+    "da": "en problemfri rejse",
+    "en": "a problem-free trip"
+   },
+   {
+    "da": "et problemfrit forløb",
+    "en": "a problem-free process"
+   },
+   {
+    "da": "problemfri dage",
+    "en": "trouble-free days"
+   }
+  ],
+  "related": [
+   {
+    "da": "smidig",
+    "en": "smooth"
+   },
+   {
+    "da": "uproblematisk",
+    "en": "unproblematic"
+   },
+   {
+    "da": "nem",
+    "en": "easy"
+   },
+   {
+    "da": "problematisk",
+    "en": "problematic"
+   }
+  ],
+  "sentence": {
+   "da": "Flyveturen var **problemfri**, og vi landede til tiden.",
+   "en": "The flight was trouble-free, and we landed on time."
+  }
+ },
+ "produktiv": {
+  "file": "p.json",
+  "explanation": "\"Produktiv\" means \"productive\", getting a lot done or producing a lot. It describes a person or a method that gets results, not just one that is busy: \"Jeg var travl, men ikke produktiv\" (I was busy, but not productive).",
+  "forms": [
+   {
+    "da": "en produktiv medarbejder",
+    "en": "a productive employee"
+   },
+   {
+    "da": "et produktivt møde",
+    "en": "a productive meeting"
+   },
+   {
+    "da": "produktive timer",
+    "en": "productive hours"
+   }
+  ],
+  "related": [
+   {
+    "da": "effektiv",
+    "en": "efficient"
+   },
+   {
+    "da": "frugtbar",
+    "en": "fruitful"
+   },
+   {
+    "da": "uproduktiv",
+    "en": "unproductive"
+   },
+   {
+    "da": "en produktion",
+    "en": "a production"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er meget **produktiv** og skriver tre sider om dagen.",
+   "en": "She is very productive and writes three pages a day."
+  }
+ },
+ "professionel": {
+  "file": "p.json",
+  "explanation": "\"Professionel\" means \"professional\", done as a paid job or at a high level: \"professionelt arbejde\" (professional work), \"en professionel fodboldspiller\" (a professional soccer player).",
+  "forms": [
+   {
+    "da": "en professionel fotograf",
+    "en": "a professional photographer"
+   },
+   {
+    "da": "et professionelt job",
+    "en": "a professional job"
+   },
+   {
+    "da": "professionelle spillere",
+    "en": "professional players"
+   }
+  ],
+  "related": [
+   {
+    "da": "amatør",
+    "en": "amateur"
+   },
+   {
+    "da": "proff",
+    "en": "pro"
+   },
+   {
+    "da": "erfaren",
+    "en": "experienced"
+   },
+   {
+    "da": "dygtig",
+    "en": "skilled"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **professionel** fodboldspiller og træner hver dag.",
+   "en": "She is a professional soccer player and trains every day."
+  }
+ },
+ "protein": {
+  "file": "p.json",
+  "explanation": "\"Et protein\" means \"a protein\", the nutrient the body uses to build and repair muscles. When you talk about it in food, leave out \"et\": \"Æg indeholder meget protein\" (Eggs contain a lot of protein).",
+  "forms": [
+   {
+    "da": "et protein",
+    "en": "a protein"
+   },
+   {
+    "da": "proteinet",
+    "en": "the protein"
+   },
+   {
+    "da": "proteiner",
+    "en": "proteins"
+   },
+   {
+    "da": "proteinerne",
+    "en": "the proteins"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kulhydrat",
+    "en": "a carbohydrate"
+   },
+   {
+    "da": "et fedtstof",
+    "en": "a fat"
+   },
+   {
+    "da": "en vitamin",
+    "en": "a vitamin"
+   },
+   {
+    "da": "et mineral",
+    "en": "a mineral"
+   }
+  ],
+  "sentence": {
+   "da": "Kød, fisk og bønner er gode kilder til **protein**.",
+   "en": "Meat, fish and beans are good sources of protein."
+  }
+ },
+ "præcis": {
+  "file": "p.json",
+  "explanation": "\"Præcis\" means \"exactly\" and is used for amounts and times: \"Det koster præcis hundrede kroner\" (It costs exactly a hundred kroner). For an approximate amount, use \"cirka\" (about): \"Det koster cirka hundrede kroner\" (It costs about a hundred kroner). As a reply, \"Præcis!\" means \"Exactly!\" or \"That's right!\".",
+  "forms": [
+   {
+    "da": "præcis klokken tre",
+    "en": "exactly at three o'clock"
+   },
+   {
+    "da": "præcis det samme",
+    "en": "exactly the same"
+   },
+   {
+    "da": "Præcis!",
+    "en": "Exactly!"
+   }
+  ],
+  "related": [
+   {
+    "da": "nøjagtig",
+    "en": "exact"
+   },
+   {
+    "da": "omkring",
+    "en": "around"
+   },
+   {
+    "da": "netop",
+    "en": "just / exactly"
+   }
+  ],
+  "sentence": {
+   "da": "Toget kommer **præcis** klokken otte.",
+   "en": "The train arrives at exactly eight o'clock."
+  }
+ },
+ "psykiatrisk": {
+  "file": "p.json",
+  "explanation": "\"Psykiatrisk\" means \"psychiatric\", about the medical care of serious mental illness. For anything to do with the mind and feelings, Danes say \"psykisk\" (mental).",
+  "forms": [
+   {
+    "da": "en psykiatrisk afdeling",
+    "en": "a psychiatric ward"
+   },
+   {
+    "da": "et psykiatrisk hospital",
+    "en": "a psychiatric hospital"
+   },
+   {
+    "da": "psykiatriske patienter",
+    "en": "psychiatric patients"
+   }
+  ],
+  "related": [
+   {
+    "da": "en psykiater",
+    "en": "a psychiatrist"
+   },
+   {
+    "da": "en psykolog",
+    "en": "a psychologist"
+   },
+   {
+    "da": "en psykiatri",
+    "en": "psychiatry (the field)"
+   },
+   {
+    "da": "somatisk",
+    "en": "of the body (medical)"
+   }
+  ],
+  "sentence": {
+   "da": "Hun blev indlagt på en **psykiatrisk** afdeling på hospitalet.",
+   "en": "She was admitted to a psychiatric ward at the hospital."
+  }
+ },
+ "psykisk": {
+  "file": "p.json",
+  "explanation": "\"Psykisk\" means \"mental\" or \"psychological\", about the mind and feelings, not the body. Its opposite is \"fysisk\" (physical): \"fysisk og psykisk sundhed\" (physical and mental health).",
+  "forms": [
+   {
+    "da": "en psykisk lidelse",
+    "en": "a mental disorder"
+   },
+   {
+    "da": "et psykisk pres",
+    "en": "psychological pressure"
+   },
+   {
+    "da": "psykiske problemer",
+    "en": "mental problems"
+   }
+  ],
+  "related": [
+   {
+    "da": "følelsesmæssig",
+    "en": "emotional"
+   },
+   {
+    "da": "en psykolog",
+    "en": "a psychologist"
+   },
+   {
+    "da": "psykiatrisk",
+    "en": "psychiatric"
+   },
+   {
+    "da": "kropslig",
+    "en": "bodily"
+   }
+  ],
+  "sentence": {
+   "da": "Stress er en **psykisk** belastning, men kroppen mærker den også.",
+   "en": "Stress is a mental strain, but the body feels it too."
+  }
+ },
+ "publikum": {
+  "file": "p.json",
+  "explanation": "\"Et publikum\" means \"an audience\", all the people who watch or listen at a concert, a play or a match. Even for thousands of people, you use one word: \"Publikum klappede\" (The audience clapped).",
+  "forms": [
+   {
+    "da": "et publikum",
+    "en": "an audience"
+   },
+   {
+    "da": "publikummet",
+    "en": "the audience"
+   },
+   {
+    "da": "et stort publikum",
+    "en": "a large audience"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tilskuer",
+    "en": "a spectator"
+   },
+   {
+    "da": "en seer",
+    "en": "a viewer"
+   },
+   {
+    "da": "en lytter",
+    "en": "a listener"
+   }
+  ],
+  "sentence": {
+   "da": "**Publikum** klappede længe, da sangeren forlod scenen.",
+   "en": "The audience clapped for a long time when the singer left the stage."
+  }
+ },
+ "pudsig": {
+  "file": "p.json",
+  "explanation": "\"Pudsig\" means \"funny\" or \"odd\" in a sweet way: something that makes you smile rather than laugh out loud: \"en pudsig lille hund\" (a funny little dog). A joke or a party is \"sjov\" (fun) instead.",
+  "forms": [
+   {
+    "da": "en pudsig hund",
+    "en": "a funny little dog"
+   },
+   {
+    "da": "et pudsigt navn",
+    "en": "an odd name"
+   },
+   {
+    "da": "pudsige historier",
+    "en": "funny stories"
+   }
+  ],
+  "related": [
+   {
+    "da": "mærkelig",
+    "en": "strange"
+   },
+   {
+    "da": "underlig",
+    "en": "peculiar"
+   },
+   {
+    "da": "morsom",
+    "en": "amusing"
+   },
+   {
+    "da": "charmerende",
+    "en": "charming"
+   }
+  ],
+  "sentence": {
+   "da": "Hvalpen løber på en **pudsig** måde og får os til at smile.",
+   "en": "The puppy runs in a funny way and makes us smile."
+  }
+ },
+ "punktlig": {
+  "file": "p.json",
+  "explanation": "\"Punktlig\" means \"punctual\", the habit of showing up or finishing right when agreed. For one single occasion, use \"til tiden\" (on time): \"Jeg kom til tiden\" (I arrived on time).",
+  "forms": [
+   {
+    "da": "en punktlig mand",
+    "en": "a punctual man"
+   },
+   {
+    "da": "et punktligt tog",
+    "en": "a punctual train"
+   },
+   {
+    "da": "punktlige gæster",
+    "en": "punctual guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "upunktlig",
+    "en": "unpunctual"
+   },
+   {
+    "da": "præcis",
+    "en": "exact"
+   },
+   {
+    "da": "forsinket",
+    "en": "delayed"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er altid **punktlig** og kommer aldrig for sent til møder.",
+   "en": "She is always punctual and never comes late to meetings."
+  }
+ },
+ "purløg": {
+  "file": "p.json",
+  "explanation": "\"Purløg\" means \"chives\", thin green stalks you cut small and sprinkle on food. It is not an onion, even though \"et løg\" (an onion) is in the word.",
+  "forms": [
+   {
+    "da": "purløg",
+    "en": "chives"
+   },
+   {
+    "da": "purløget",
+    "en": "the chives"
+   },
+   {
+    "da": "friskklippet purløg",
+    "en": "freshly cut chives"
+   }
+  ],
+  "related": [
+   {
+    "da": "forårsløg",
+    "en": "spring onions"
+   },
+   {
+    "da": "et rødløg",
+    "en": "a red onion"
+   },
+   {
+    "da": "persille",
+    "en": "parsley"
+   },
+   {
+    "da": "dild",
+    "en": "dill"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg klipper **purløg** ud over suppen.",
+   "en": "I snip chives over the soup."
+  }
+ },
+ "pynt": {
+  "file": "p.json",
+  "explanation": "\"Pynt\" means \"decoration(s)\", things that make a place look nice. You do not use an article with it: \"Vi hænger pynt op\" (We put up decorations).",
+  "forms": [
+   {
+    "da": "pynt",
+    "en": "decoration(s)"
+   },
+   {
+    "da": "pynten",
+    "en": "the decoration(s)"
+   },
+   {
+    "da": "lidt pynt",
+    "en": "some decoration"
+   },
+   {
+    "da": "pynt på bordet",
+    "en": "decoration on the table"
+   }
+  ],
+  "related": [
+   {
+    "da": "at pynte",
+    "en": "to decorate"
+   },
+   {
+    "da": "en dekoration",
+    "en": "a decoration"
+   },
+   {
+    "da": "julepynt",
+    "en": "Christmas decorations"
+   },
+   {
+    "da": "et ornament",
+    "en": "an ornament"
+   }
+  ],
+  "sentence": {
+   "da": "Vi hængte **pynt** op i stuen før festen.",
+   "en": "We hung decorations in the living room before the party."
+  }
+ },
+ "pyt": {
+  "file": "p.json",
+  "explanation": "\"Pyt\" means \"never mind\" and lets a small problem go. Say it after a small mistake: \"Pyt, jeg tørrer det op\" (Never mind, I'll wipe it up).",
+  "forms": [
+   {
+    "da": "Pyt!",
+    "en": "Never mind!"
+   },
+   {
+    "da": "Pyt med det.",
+    "en": "Never mind that."
+   },
+   {
+    "da": "Pyt, det er ikke så vigtigt.",
+    "en": "Never mind, it is not that important."
+   }
+  ],
+  "related": [
+   {
+    "da": "det gør ikke noget",
+    "en": "it doesn't matter"
+   },
+   {
+    "da": "glem det",
+    "en": "forget it"
+   },
+   {
+    "da": "slap af",
+    "en": "relax"
+   },
+   {
+    "da": "ingen fare",
+    "en": "no worries"
+   }
+  ],
+  "sentence": {
+   "da": "**Pyt**, vi tager bare den næste bus.",
+   "en": "Never mind, we'll just take the next bus."
+  }
+ },
+ "på": {
+  "file": "p.json",
+  "explanation": "\"På\" means \"on\", but also \"at\" or \"in\": \"på arbejde\" (at work), \"på ferie\" (on vacation), \"på dansk\" (in Danish). It is also used with islands and streets: \"på Fyn\" (on Funen), \"på gaden\" (on the street).",
+  "forms": [
+   {
+    "da": "på bordet",
+    "en": "on the table"
+   },
+   {
+    "da": "på arbejde",
+    "en": "at work"
+   },
+   {
+    "da": "på dansk",
+    "en": "in Danish"
+   }
+  ],
+  "related": [
+   {
+    "da": "i",
+    "en": "in"
+   },
+   {
+    "da": "over",
+    "en": "over"
+   },
+   {
+    "da": "under",
+    "en": "under"
+   },
+   {
+    "da": "ved",
+    "en": "by / at"
+   }
+  ],
+  "sentence": {
+   "da": "Telefonen ligger **på** bordet.",
+   "en": "The phone is on the table."
+  }
+ },
+ "på deltid": {
+  "file": "p.json",
+  "explanation": "\"På deltid\" means \"part-time\", for a shorter week than normal: \"Jeg arbejder på deltid\" (I work part-time). It is built from del (part) and tid (time). The same \"del\" is in \"en del af ugen\" (a part of the week).",
+  "forms": [
+   {
+    "da": "Jeg arbejder på deltid.",
+    "en": "I work part-time."
+   },
+   {
+    "da": "Hun er ansat på deltid.",
+    "en": "She is employed part-time."
+   },
+   {
+    "da": "Han studerer på deltid.",
+    "en": "He studies part-time."
+   }
+  ],
+  "related": [
+   {
+    "da": "på fuldtid",
+    "en": "full-time"
+   },
+   {
+    "da": "et deltidsjob",
+    "en": "a part-time job"
+   },
+   {
+    "da": "en arbejdstid",
+    "en": "working hours"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster arbejder **på deltid** i en butik.",
+   "en": "My sister works part-time in a store."
+  }
+ },
+ "på den anden side": {
+  "file": "p.json",
+  "explanation": "\"På den anden side\" means \"on the other hand\" and gives a second view that balances the first: \"Huset er stort. På den anden side er det dyrt.\" (The house is big. On the other hand, it is expensive.)",
+  "forms": [
+   {
+    "da": "på den anden side",
+    "en": "on the other hand"
+   },
+   {
+    "da": "på den anden side af vejen",
+    "en": "on the other side of the road"
+   },
+   {
+    "da": "På den anden side kan jeg vente.",
+    "en": "On the other hand, I can wait."
+   }
+  ],
+  "related": [
+   {
+    "da": "på den ene side",
+    "en": "on one hand"
+   },
+   {
+    "da": "derimod",
+    "en": "by contrast"
+   },
+   {
+    "da": "til gengæld",
+    "en": "in return, on the other hand"
+   }
+  ],
+  "sentence": {
+   "da": "Bilen er gammel, men **på den anden side** er den billig.",
+   "en": "The car is old, but on the other hand it is cheap."
+  }
+ },
+ "på den ene side": {
+  "file": "p.json",
+  "explanation": "\"På den ene side\" means \"on one hand\" and starts the first of two views: \"På den ene side vil jeg gerne rejse, men jeg har ikke penge\" (On one hand I would like to travel, but I have no money).",
+  "forms": [
+   {
+    "da": "på den ene side",
+    "en": "on one hand"
+   },
+   {
+    "da": "på den ene side af huset",
+    "en": "on one side of the house"
+   },
+   {
+    "da": "På den ene side er det nemt.",
+    "en": "On one hand it is easy."
+   }
+  ],
+  "related": [
+   {
+    "da": "på den anden side",
+    "en": "on the other hand"
+   },
+   {
+    "da": "derimod",
+    "en": "on the other hand, by contrast"
+   },
+   {
+    "da": "til gengæld",
+    "en": "on the other hand, in return"
+   }
+  ],
+  "sentence": {
+   "da": "**På den ene side** vil jeg rejse, men jeg er også bange.",
+   "en": "On one hand I want to travel, but I am also afraid."
+  }
+ },
+ "på forhånd": {
+  "file": "p.json",
+  "explanation": "\"På forhånd\" means \"in advance\", before something happens. It is also in \"Tak på forhånd!\" (Thanks in advance!), said at the end of a request: \"Kan du sende filen? Tak på forhånd!\" (Can you send the file? Thanks in advance!)",
+  "forms": [
+   {
+    "da": "Tak på forhånd",
+    "en": "Thanks in advance"
+   },
+   {
+    "da": "Jeg ved det på forhånd",
+    "en": "I know it in advance"
+   },
+   {
+    "da": "Bestil på forhånd",
+    "en": "Order in advance"
+   }
+  ],
+  "related": [
+   {
+    "da": "i forvejen",
+    "en": "beforehand"
+   },
+   {
+    "da": "forud",
+    "en": "ahead of time"
+   },
+   {
+    "da": "tidligt",
+    "en": "early"
+   },
+   {
+    "da": "bagefter",
+    "en": "afterwards"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal booke bordet **på forhånd**.",
+   "en": "You must book the table in advance."
+  }
+ },
+ "på fuldtid": {
+  "file": "p.json",
+  "explanation": "\"På fuldtid\" means \"full-time\", for the usual number of hours in a job: \"Jeg arbejder på fuldtid\" (I work full-time). It is built from fuld (full) and tid (time). \"Fuld\" also means \"drunk\": \"Han er fuld\" (He is drunk).",
+  "forms": [
+   {
+    "da": "Jeg arbejder på fuldtid.",
+    "en": "I work full-time."
+   },
+   {
+    "da": "Hun er ansat på fuldtid.",
+    "en": "She is employed full-time."
+   },
+   {
+    "da": "Han studerer på fuldtid.",
+    "en": "He studies full-time."
+   }
+  ],
+  "related": [
+   {
+    "da": "på deltid",
+    "en": "part-time"
+   },
+   {
+    "da": "et fuldtidsjob",
+    "en": "a full-time job"
+   },
+   {
+    "da": "overarbejde",
+    "en": "overtime"
+   },
+   {
+    "da": "en arbejdsuge",
+    "en": "a work week"
+   }
+  ],
+  "sentence": {
+   "da": "Hun arbejder **på fuldtid** og kommer hjem sent.",
+   "en": "She works full-time and comes home late."
+  }
+ },
+ "på gensyn": {
+  "file": "p.json",
+  "explanation": "\"På gensyn\" means \"until we see each other again\" and is a polite, slightly formal goodbye: \"Tak for i dag, på gensyn!\" (Thanks for today, until we meet again!). With friends, \"vi ses\" (see you) is more common.",
+  "forms": [
+   {
+    "da": "På gensyn!",
+    "en": "See you again!"
+   },
+   {
+    "da": "På gensyn i næste uge.",
+    "en": "See you again next week."
+   },
+   {
+    "da": "Farvel og på gensyn.",
+    "en": "Goodbye and see you again."
+   }
+  ],
+  "related": [
+   {
+    "da": "farvel",
+    "en": "goodbye"
+   },
+   {
+    "da": "hej hej",
+    "en": "bye"
+   },
+   {
+    "da": "hav det godt",
+    "en": "take care"
+   }
+  ],
+  "sentence": {
+   "da": "Tak for besøget. **På gensyn!**",
+   "en": "Thanks for the visit. See you again!"
+  }
+ },
+ "på grund af": {
+  "file": "p.json",
+  "explanation": "\"På grund af\" means \"because of\": \"på grund af regnen\" (because of the rain). To give a reason with a verb in it, use \"fordi\" (because): \"fordi det regner\" (because it is raining).",
+  "forms": [
+   {
+    "da": "på grund af vejret",
+    "en": "because of the weather"
+   },
+   {
+    "da": "på grund af dig",
+    "en": "because of you"
+   },
+   {
+    "da": "på grund af sygdom",
+    "en": "because of illness"
+   }
+  ],
+  "related": [
+   {
+    "da": "en årsag",
+    "en": "a cause"
+   },
+   {
+    "da": "derfor",
+    "en": "therefore"
+   },
+   {
+    "da": "takket være",
+    "en": "thanks to"
+   },
+   {
+    "da": "på trods af",
+    "en": "despite"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kom for sent **på grund af** trafikken.",
+   "en": "We were late because of the traffic."
+  }
+ },
+ "på tide": {
+  "file": "p.json",
+  "explanation": "\"På tide\" means \"about time\" and \"time to\". Use it when something should be done now: \"Det er på tide at gå hjem\" (It is time to go home). As an exclamation, \"Det er på tide!\" means \"It's about time!\", when something has waited too long.",
+  "forms": [
+   {
+    "da": "Det er på tide at stå op.",
+    "en": "It is time to get up."
+   },
+   {
+    "da": "Det er på tide med en pause.",
+    "en": "It is time for a break."
+   }
+  ],
+  "related": [
+   {
+    "da": "i tide",
+    "en": "in time"
+   },
+   {
+    "da": "for sent",
+    "en": "too late"
+   },
+   {
+    "da": "højeste tid",
+    "en": "high time"
+   },
+   {
+    "da": "endelig",
+    "en": "finally"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **på tide** at gå i seng.",
+   "en": "It is time to go to bed."
+  }
+ },
+ "på tilbud": {
+  "file": "p.json",
+  "explanation": "\"På tilbud\" means \"on sale\", for something sold at a lower price than usual. \"Tilbud\" is the word for \"offer\", so \"på tilbud\" is literally \"on offer\".",
+  "forms": [
+   {
+    "da": "Den er på tilbud",
+    "en": "It is on sale"
+   },
+   {
+    "da": "varer på tilbud",
+    "en": "goods on sale"
+   },
+   {
+    "da": "på tilbud i dag",
+    "en": "on sale today"
+   }
+  ],
+  "related": [
+   {
+    "da": "et udsalg",
+    "en": "a sale"
+   },
+   {
+    "da": "en rabat",
+    "en": "a discount"
+   },
+   {
+    "da": "billig",
+    "en": "cheap"
+   }
+  ],
+  "sentence": {
+   "da": "Kaffen er **på tilbud** i dag.",
+   "en": "The coffee is on sale today."
+  }
+ },
+ "på trods af": {
+  "file": "p.json",
+  "explanation": "\"På trods af\" means \"despite\".",
+  "forms": [
+   {
+    "da": "på trods af vejret",
+    "en": "despite the weather"
+   },
+   {
+    "da": "på trods af alt",
+    "en": "despite everything"
+   },
+   {
+    "da": "på trods af problemet",
+    "en": "despite the problem"
+   }
+  ],
+  "related": [
+   {
+    "da": "alligevel",
+    "en": "anyway"
+   },
+   {
+    "da": "selvom",
+    "en": "even though"
+   },
+   {
+    "da": "på grund af",
+    "en": "because of"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tog af sted **på trods af** regnen.",
+   "en": "We set off despite the rain."
+  }
+ },
+ "på vej": {
+  "file": "p.json",
+  "explanation": "\"På vej\" means \"on the way\": \"Jeg er på vej\" (I am on my way). To name the place you are going to, add \"til\" (to) or \"hjem\" (home): \"på vej til arbejde\" (on the way to work), \"på vej hjem\" (on the way home).",
+  "forms": [
+   {
+    "da": "Jeg er på vej.",
+    "en": "I'm on my way."
+   },
+   {
+    "da": "Bussen er på vej.",
+    "en": "The bus is on its way."
+   },
+   {
+    "da": "på vej hjem",
+    "en": "on the way home"
+   }
+  ],
+  "related": [
+   {
+    "da": "undervejs",
+    "en": "en route"
+   },
+   {
+    "da": "fremme",
+    "en": "arrived, there"
+   },
+   {
+    "da": "på farten",
+    "en": "on the move"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **på vej** hjem nu.",
+   "en": "I am on my way home now."
+  }
+ },
+ "påfaldende": {
+  "file": "p.json",
+  "explanation": "\"Påfaldende\" means \"striking\": so unusual that you cannot help noticing it, usually something odd rather than beautiful. Before a word such as \"stille\" (quiet) it means \"oddly\": \"Han var påfaldende stille\" (He was oddly quiet).",
+  "forms": [
+   {
+    "da": "en påfaldende lighed",
+    "en": "a striking resemblance"
+   },
+   {
+    "da": "et påfaldende træk",
+    "en": "a striking feature"
+   },
+   {
+    "da": "påfaldende forskelle",
+    "en": "striking differences"
+   }
+  ],
+  "related": [
+   {
+    "da": "iøjnefaldende",
+    "en": "eye-catching"
+   },
+   {
+    "da": "opsigtsvækkende",
+    "en": "sensational"
+   },
+   {
+    "da": "usædvanlig",
+    "en": "uncommon"
+   },
+   {
+    "da": "diskret",
+    "en": "discreet"
+   }
+  ],
+  "sentence": {
+   "da": "Hans tavshed var **påfaldende**, når alle andre talte.",
+   "en": "His silence was striking when everyone else was talking."
+  }
+ },
+ "pålidelig": {
+  "file": "p.json",
+  "explanation": "\"Pålidelig\" means \"reliable\", someone or something you can count on to do what is expected: \"Han er pålidelig\" (He is reliable). Do not mix it up with \"troværdig\" (believable), for what you believe: \"en troværdig forklaring\" (a believable explanation).",
+  "forms": [
+   {
+    "da": "en pålidelig bil",
+    "en": "a reliable car"
+   },
+   {
+    "da": "et pålideligt værktøj",
+    "en": "a reliable tool"
+   },
+   {
+    "da": "pålidelige kilder",
+    "en": "reliable sources"
+   }
+  ],
+  "related": [
+   {
+    "da": "upålidelig",
+    "en": "unreliable"
+   },
+   {
+    "da": "at stole på",
+    "en": "to trust"
+   },
+   {
+    "da": "stabil",
+    "en": "stable"
+   },
+   {
+    "da": "sikker",
+    "en": "secure"
+   }
+  ],
+  "sentence": {
+   "da": "Han er en **pålidelig** kollega, som altid gør, hvad han lover.",
+   "en": "He is a reliable colleague who always does what he promises."
+  }
+ },
+ "pålæg": {
+  "file": "p.json",
+  "explanation": "\"Pålæg\" means \"cold cuts\" or \"sandwich toppings\", anything you lay on a slice, such as ham, cheese or liver pâté.",
+  "forms": [
+   {
+    "da": "noget pålæg",
+    "en": "some cold cuts"
+   },
+   {
+    "da": "godt pålæg",
+    "en": "good toppings"
+   },
+   {
+    "da": "Jeg køber pålæg.",
+    "en": "I buy cold cuts."
+   }
+  ],
+  "related": [
+   {
+    "da": "et smørrebrød",
+    "en": "an open sandwich"
+   },
+   {
+    "da": "et rugbrød",
+    "en": "a rye bread"
+   },
+   {
+    "da": "en pølse",
+    "en": "a sausage"
+   }
+  ],
+  "sentence": {
+   "da": "Hvilket **pålæg** vil du have på dit rugbrød?",
+   "en": "Which topping do you want on your rye bread?"
+  }
+ },
+ "påske": {
+  "file": "p.json",
+  "explanation": "\"Påske\" means \"Easter\" and is used without \"en\". Danes get several days off around it: \"skærtorsdag\" (Maundy Thursday), \"langfredag\" (Good Friday) and \"anden påskedag\" (Easter Monday).",
+  "forms": [
+   {
+    "da": "påske",
+    "en": "Easter"
+   },
+   {
+    "da": "i påsken",
+    "en": "during Easter"
+   },
+   {
+    "da": "glædelig påske",
+    "en": "Happy Easter"
+   },
+   {
+    "da": "til påske",
+    "en": "at Easter"
+   }
+  ],
+  "related": [
+   {
+    "da": "jul",
+    "en": "Christmas"
+   },
+   {
+    "da": "et påskeæg",
+    "en": "an Easter egg"
+   },
+   {
+    "da": "pinse",
+    "en": "Whitsun"
+   }
+  ],
+  "sentence": {
+   "da": "Til **påske** maler børnene æg.",
+   "en": "At Easter the children paint eggs."
+  }
+ },
+ "påskedag": {
+  "file": "p.json",
+  "explanation": "\"Påskedag\" means \"Easter Sunday\", the main day of Easter. The day after is called \"anden påskedag\" (Easter Monday), and both are public holidays in Denmark.",
+  "forms": [
+   {
+    "da": "påskedag",
+    "en": "Easter Sunday"
+   },
+   {
+    "da": "på påskedag",
+    "en": "on Easter Sunday"
+   },
+   {
+    "da": "anden påskedag",
+    "en": "Easter Monday"
+   }
+  ],
+  "related": [
+   {
+    "da": "skærtorsdag",
+    "en": "Maundy Thursday"
+   },
+   {
+    "da": "langfredag",
+    "en": "Good Friday"
+   },
+   {
+    "da": "pinse",
+    "en": "Whitsun"
+   }
+  ],
+  "sentence": {
+   "da": "**Påskedag** falder altid på en søndag i marts eller april.",
+   "en": "Easter Sunday always falls on a Sunday in March or April."
+  }
+ },
+ "påtrængende": {
+  "file": "p.json",
+  "explanation": "\"Påtrængende\" means \"pushy\" or \"pressing\". About a person, it means too eager and not leaving you alone: \"Sælgeren var påtrængende\" (The salesperson was pushy). About a need, it means urgent: \"et påtrængende behov\" (a pressing need).",
+  "forms": [
+   {
+    "da": "en påtrængende lugt",
+    "en": "an overpowering smell"
+   },
+   {
+    "da": "et påtrængende spørgsmål",
+    "en": "an intrusive question"
+   },
+   {
+    "da": "påtrængende tanker",
+    "en": "pressing thoughts"
+   }
+  ],
+  "related": [
+   {
+    "da": "pågående",
+    "en": "assertive"
+   },
+   {
+    "da": "opdringende",
+    "en": "obtrusive"
+   },
+   {
+    "da": "akut",
+    "en": "acute"
+   },
+   {
+    "da": "tilbageholdende",
+    "en": "reserved"
+   }
+  ],
+  "sentence": {
+   "da": "Sælgeren var **påtrængende** og fulgte efter mig rundt i butikken.",
+   "en": "The salesman was pushy and followed me around the store."
+  }
+ },
+ "pæn": {
+  "file": "p.json",
+  "explanation": "\"Pæn\" means \"nice-looking\" or \"neat\": \"en pæn kjole\" (a nice dress), \"et pænt værelse\" (a neat room). Said to a child, \"Vær pæn!\" means \"Be good!\".",
+  "forms": [
+   {
+    "da": "en pæn kjole",
+    "en": "a nice dress"
+   },
+   {
+    "da": "et pænt hus",
+    "en": "a nice house"
+   },
+   {
+    "da": "pæne kjoler",
+    "en": "nice dresses"
+   }
+  ],
+  "related": [
+   {
+    "da": "smuk",
+    "en": "beautiful"
+   },
+   {
+    "da": "grim",
+    "en": "ugly"
+   },
+   {
+    "da": "ryddelig",
+    "en": "tidy"
+   }
+  ],
+  "sentence": {
+   "da": "Du ser **pæn** ud i den nye kjole.",
+   "en": "You look nice in the new dress."
+  }
+ },
+ "en quiz": {
+  "file": "q.json",
+  "explanation": "\"En quiz\" means \"a quiz\", a game of questions, often with friends at a café or at home.",
+  "forms": [
+   {
+    "da": "en quiz",
+    "en": "a quiz"
+   },
+   {
+    "da": "quizzen",
+    "en": "the quiz"
+   },
+   {
+    "da": "quizzer",
+    "en": "quizzes"
+   },
+   {
+    "da": "quizzerne",
+    "en": "the quizzes"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spørgsmål",
+    "en": "a question"
+   },
+   {
+    "da": "et svar",
+    "en": "an answer"
+   },
+   {
+    "da": "et spil",
+    "en": "a game"
+   },
+   {
+    "da": "en konkurrence",
+    "en": "a competition"
+   }
+  ],
+  "sentence": {
+   "da": "Vi er til **quiz** på caféen hver torsdag.",
+   "en": "We go to a quiz at the café every Thursday."
+  }
+ },
+ "quinoa": {
+  "file": "q.json",
+  "explanation": "\"Quinoa\" means \"quinoa\", small round grains that you boil and eat as a side dish or in salads.",
+  "forms": [
+   {
+    "da": "quinoa",
+    "en": "quinoa"
+   },
+   {
+    "da": "quinoaen",
+    "en": "the quinoa"
+   },
+   {
+    "da": "kogt quinoa",
+    "en": "cooked quinoa"
+   }
+  ],
+  "related": [
+   {
+    "da": "ris",
+    "en": "rice"
+   },
+   {
+    "da": "bulgur",
+    "en": "bulgur"
+   },
+   {
+    "da": "couscous",
+    "en": "couscous"
+   }
+  ],
+  "sentence": {
+   "da": "Til middag koger jeg **quinoa** og steger grøntsager.",
+   "en": "For dinner I boil quinoa and fry vegetables."
+  }
+ },
+ "at ramme": {
+  "file": "r.json",
+  "explanation": "\"At ramme\" means \"to hit\" what you aim at, so you do not miss. It can also mean \"to affect\" someone badly: \"Krisen ramte mange\" (The crisis hit many people).",
+  "forms": [
+   {
+    "da": "at ramme",
+    "en": "to hit (a target)"
+   },
+   {
+    "da": "jeg rammer",
+    "en": "I hit"
+   },
+   {
+    "da": "jeg ramte",
+    "en": "I hit"
+   },
+   {
+    "da": "jeg har ramt",
+    "en": "I have hit"
+   }
+  ],
+  "related": [
+   {
+    "da": "at misse",
+    "en": "to miss"
+   },
+   {
+    "da": "at træffe",
+    "en": "to hit / meet"
+   },
+   {
+    "da": "at slå",
+    "en": "to hit / beat"
+   },
+   {
+    "da": "at skyde",
+    "en": "to shoot"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **ramme** målet med bolden?",
+   "en": "Can you hit the target with the ball?"
+  }
+ },
+ "at ramme plet": {
+  "file": "r.json",
+  "explanation": "\"At ramme plet\" means \"to hit the mark\", to be exactly right in what you say, guess or describe. \"Plet\" normally means \"a spot\", so the picture is hitting the middle of a target: \"Din beskrivelse ramte plet\" (Your description hit the mark).",
+  "forms": [
+   {
+    "da": "Du rammer plet",
+    "en": "You hit the mark"
+   },
+   {
+    "da": "Det ramte plet",
+    "en": "That hit the mark"
+   },
+   {
+    "da": "Hun har ramt plet",
+    "en": "She has hit the mark"
+   }
+  ],
+  "related": [
+   {
+    "da": "præcis",
+    "en": "exact"
+   },
+   {
+    "da": "at have ret",
+    "en": "to be right"
+   },
+   {
+    "da": "at gætte rigtigt",
+    "en": "to guess correctly"
+   },
+   {
+    "da": "at skyde ved siden af",
+    "en": "to miss"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **ramme plet** med sit gæt.",
+   "en": "She will hit the mark with her guess."
+  }
+ },
+ "at rapportere": {
+  "file": "r.json",
+  "explanation": "\"At rapportere\" means \"to report\", telling someone the facts: \"Hun rapporterer til chefen\" (She reports to the boss). It is also used for news: \"Avisen rapporterer om ulykken\" (The paper reports on the accident).",
+  "forms": [
+   {
+    "da": "at rapportere",
+    "en": "to report"
+   },
+   {
+    "da": "jeg rapporterer",
+    "en": "I report"
+   },
+   {
+    "da": "jeg rapporterede",
+    "en": "I reported"
+   },
+   {
+    "da": "jeg har rapporteret",
+    "en": "I have reported"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rapport",
+    "en": "a report"
+   },
+   {
+    "da": "at melde",
+    "en": "to report / announce"
+   },
+   {
+    "da": "at berette",
+    "en": "to tell / relate"
+   },
+   {
+    "da": "at indberette",
+    "en": "to report officially"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **rapportere** til min leder hver mandag.",
+   "en": "I have to report to my manager every Monday."
+  }
+ },
+ "at rasle": {
+  "file": "r.json",
+  "explanation": "\"At rasle\" means \"to rattle\", to make a short, dry sound, like small hard things knocking together: \"Nøglerne rasler i lommen\" (The keys rattle in the pocket). It also works for dry leaves and paper, where English says \"rustle\": \"Tørre blade rasler i vinden\" (Dry leaves rustle in the wind).",
+  "forms": [
+   {
+    "da": "at rasle",
+    "en": "to rattle"
+   },
+   {
+    "da": "jeg rasler",
+    "en": "I rattle"
+   },
+   {
+    "da": "jeg raslede",
+    "en": "I rattled"
+   },
+   {
+    "da": "jeg har raslet",
+    "en": "I have rattled"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rangle",
+    "en": "a baby rattle"
+   },
+   {
+    "da": "at klirre",
+    "en": "to clink"
+   },
+   {
+    "da": "at knitre",
+    "en": "to crackle"
+   },
+   {
+    "da": "at rumle",
+    "en": "to rumble"
+   }
+  ],
+  "sentence": {
+   "da": "Mønterne kan **rasle** i dåsen, når jeg ryster den.",
+   "en": "The coins can rattle in the tin when I shake it."
+  }
+ },
+ "at rationalisere": {
+  "file": "r.json",
+  "explanation": "\"At rationalisere\" means \"to rationalize\". At work it means to make a way of working faster and cheaper by removing steps that waste time. It can also mean to find sensible-sounding reasons for something you did: \"Han rationaliserer sit valg\" (He rationalizes his choice).",
+  "forms": [
+   {
+    "da": "at rationalisere",
+    "en": "to rationalize"
+   },
+   {
+    "da": "jeg rationaliserer",
+    "en": "I rationalize"
+   },
+   {
+    "da": "jeg rationaliserede",
+    "en": "I rationalized"
+   },
+   {
+    "da": "jeg har rationaliseret",
+    "en": "I have rationalized"
+   }
+  ],
+  "related": [
+   {
+    "da": "at effektivisere",
+    "en": "to make more efficient"
+   },
+   {
+    "da": "at nedskære",
+    "en": "to cut back"
+   },
+   {
+    "da": "at retfærdiggøre",
+    "en": "to justify"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet vil **rationalisere** produktionen for at spare penge.",
+   "en": "The company wants to rationalize production in order to save money."
+  }
+ },
+ "at reagere": {
+  "file": "r.json",
+  "explanation": "\"At reagere\" means \"to react\", to respond to something with an action or with words: \"Hun reagerede hurtigt\" (She reacted quickly). To name what you react to, add \"på\" (to) before it: \"Han reagerer på kritik\" (He reacts to criticism).",
+  "forms": [
+   {
+    "da": "at reagere",
+    "en": "to react"
+   },
+   {
+    "da": "jeg reagerer",
+    "en": "I react"
+   },
+   {
+    "da": "jeg reagerede",
+    "en": "I reacted"
+   },
+   {
+    "da": "jeg har reageret",
+    "en": "I have reacted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en reaktion",
+    "en": "a reaction"
+   },
+   {
+    "da": "at svare",
+    "en": "to answer"
+   },
+   {
+    "da": "at handle",
+    "en": "to act"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg ved ikke, hvordan jeg skal **reagere**.",
+   "en": "I do not know how I should react."
+  }
+ },
+ "at realisere": {
+  "file": "r.json",
+  "explanation": "\"At realisere\" means \"to realize\" in the sense of making a plan or dream real. To become aware of something, Danes say \"at indse\" (to see that something is so): \"Jeg indser, at jeg tog fejl\" (I realize that I was wrong).",
+  "forms": [
+   {
+    "da": "at realisere",
+    "en": "to realize (achieve)"
+   },
+   {
+    "da": "jeg realiserer",
+    "en": "I realize (achieve)"
+   },
+   {
+    "da": "jeg realiserede",
+    "en": "I realized (achieved)"
+   },
+   {
+    "da": "jeg har realiseret",
+    "en": "I have realized (achieved)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at gennemføre",
+    "en": "to carry out"
+   },
+   {
+    "da": "at opnå",
+    "en": "to achieve"
+   },
+   {
+    "da": "at virkeliggøre",
+    "en": "to bring to life"
+   },
+   {
+    "da": "at forstå",
+    "en": "to understand"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **realisere** sin drøm om at åbne en café.",
+   "en": "She wants to realize her dream of opening a cafe."
+  }
+ },
+ "at redde": {
+  "file": "r.json",
+  "explanation": "\"At redde\" means \"to save\" or \"to rescue\" from danger. To save money, use \"at spare\" (to save money), not \"at redde\": \"Jeg sparer penge\" (I save money).",
+  "forms": [
+   {
+    "da": "at redde",
+    "en": "to save / rescue"
+   },
+   {
+    "da": "jeg redder",
+    "en": "I save / rescue"
+   },
+   {
+    "da": "jeg reddede",
+    "en": "I saved / rescued"
+   },
+   {
+    "da": "jeg har reddet",
+    "en": "I have saved / rescued"
+   }
+  ],
+  "related": [
+   {
+    "da": "en redning",
+    "en": "a rescue"
+   },
+   {
+    "da": "en redningsmand",
+    "en": "a rescue worker"
+   },
+   {
+    "da": "at beskytte",
+    "en": "to protect"
+   },
+   {
+    "da": "at hjælpe",
+    "en": "to help"
+   }
+  ],
+  "sentence": {
+   "da": "Brandmanden kan **redde** hunden fra branden.",
+   "en": "The firefighter can save the dog from the fire."
+  }
+ },
+ "at rede håret": {
+  "file": "r.json",
+  "explanation": "\"At rede håret\" means \"to comb one's hair\". The verb \"rede\" is also used for a bed: \"at rede sengen\" (to make the bed).",
+  "forms": [
+   {
+    "da": "at rede håret",
+    "en": "to comb one's hair"
+   },
+   {
+    "da": "jeg reder håret",
+    "en": "I comb my hair"
+   },
+   {
+    "da": "jeg redte håret",
+    "en": "I combed my hair"
+   },
+   {
+    "da": "jeg har redt håret",
+    "en": "I have combed my hair"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kam",
+    "en": "a comb"
+   },
+   {
+    "da": "en hårbørste",
+    "en": "a hairbrush"
+   },
+   {
+    "da": "en frisure",
+    "en": "a hairstyle"
+   },
+   {
+    "da": "at børste hår",
+    "en": "to brush hair"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **rede håret** med en kam.",
+   "en": "She wants to comb her hair with a comb."
+  }
+ },
+ "at rede seng": {
+  "file": "r.json",
+  "explanation": "\"At rede seng\" means \"to make the bed\". Danes use \"rede\" here, not \"at lave\" (to make).",
+  "forms": [
+   {
+    "da": "at rede seng",
+    "en": "to make the bed"
+   },
+   {
+    "da": "jeg reder seng",
+    "en": "I make the bed"
+   },
+   {
+    "da": "jeg redte seng",
+    "en": "I made the bed"
+   },
+   {
+    "da": "jeg har redt seng",
+    "en": "I have made the bed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dyne",
+    "en": "a duvet"
+   },
+   {
+    "da": "et lagen",
+    "en": "a sheet"
+   },
+   {
+    "da": "en pude",
+    "en": "a pillow"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **rede seng**, når jeg står op.",
+   "en": "I want to make the bed when I get up."
+  }
+ },
+ "at redegøre for": {
+  "file": "r.json",
+  "explanation": "\"At redegøre for\" means \"to account for\", to set out something fully and in order, such as what happened or why you chose it: \"redegøre for en beslutning\" (to account for a decision).",
+  "forms": [
+   {
+    "da": "at redegøre for",
+    "en": "to account for"
+   },
+   {
+    "da": "jeg redegør for",
+    "en": "I account for"
+   },
+   {
+    "da": "jeg redegjorde for",
+    "en": "I accounted for"
+   },
+   {
+    "da": "jeg har redegjort for",
+    "en": "I have accounted for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   },
+   {
+    "da": "en redegørelse",
+    "en": "a statement"
+   },
+   {
+    "da": "at beskrive",
+    "en": "to describe"
+   },
+   {
+    "da": "at begrunde",
+    "en": "to give reasons for"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **redegøre for** pengene, og chefen vil se kvitteringerne.",
+   "en": "You must account for the money, and the boss wants to see the receipts."
+  }
+ },
+ "at redigere": {
+  "file": "r.json",
+  "explanation": "\"At redigere\" means \"to edit\", to work on something such as a text, a photo, a video or a file to improve it. The person who decides what goes into a newspaper or a book is \"en redaktør\" (an editor).",
+  "forms": [
+   {
+    "da": "at redigere",
+    "en": "to edit"
+   },
+   {
+    "da": "jeg redigerer",
+    "en": "I edit"
+   },
+   {
+    "da": "jeg redigerede",
+    "en": "I edited"
+   },
+   {
+    "da": "jeg har redigeret",
+    "en": "I have edited"
+   }
+  ],
+  "related": [
+   {
+    "da": "at rette",
+    "en": "to correct"
+   },
+   {
+    "da": "at ændre",
+    "en": "to change"
+   },
+   {
+    "da": "at klippe",
+    "en": "to cut (a video)"
+   },
+   {
+    "da": "at skrive om",
+    "en": "to rewrite"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **redigere** videoen, før jeg lægger den på nettet.",
+   "en": "I have to edit the video before I put it online."
+  }
+ },
+ "at reducere": {
+  "file": "r.json",
+  "explanation": "\"At reducere\" means \"to reduce\", to make an amount, size or price smaller. On a sign, \"reduceret pris\" (reduced price) means a sale price.",
+  "forms": [
+   {
+    "da": "at reducere",
+    "en": "to reduce"
+   },
+   {
+    "da": "jeg reducerer",
+    "en": "I reduce"
+   },
+   {
+    "da": "jeg reducerede",
+    "en": "I reduced"
+   },
+   {
+    "da": "jeg har reduceret",
+    "en": "I have reduced"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sænke",
+    "en": "to lower"
+   },
+   {
+    "da": "at mindske",
+    "en": "to decrease"
+   },
+   {
+    "da": "at skære ned",
+    "en": "to cut down"
+   },
+   {
+    "da": "at øge",
+    "en": "to increase"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **reducere** sit strømforbrug ved at slukke lyset.",
+   "en": "You can reduce your electricity use by turning off the light."
+  }
+ },
+ "at referere": {
+  "file": "r.json",
+  "explanation": "\"At referere\" means \"to refer\" and \"to report\". With \"til\" (to), it points back to something already said or written: \"Jeg refererer til din mail\" (I am referring to your email). Without \"til\", it means to retell in short what someone said or wrote: \"Han refererede artiklen for os\" (He told us what the article said).",
+  "forms": [
+   {
+    "da": "at referere",
+    "en": "to refer / report"
+   },
+   {
+    "da": "jeg refererer",
+    "en": "I refer / report"
+   },
+   {
+    "da": "jeg refererede",
+    "en": "I referred / reported"
+   },
+   {
+    "da": "jeg har refereret",
+    "en": "I have referred / reported"
+   }
+  ],
+  "related": [
+   {
+    "da": "et referat",
+    "en": "minutes / a summary"
+   },
+   {
+    "da": "at henvise",
+    "en": "to point to"
+   },
+   {
+    "da": "at opsummere",
+    "en": "to sum up"
+   },
+   {
+    "da": "at nævne",
+    "en": "to mention"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skal **referere** mødet for dem, der ikke var der.",
+   "en": "She has to report on the meeting for those who were not there."
+  }
+ },
+ "at reflektere": {
+  "file": "r.json",
+  "explanation": "\"At reflektere\" means \"to reflect\", used for both thought and light. To think deeply about something, add \"over\" (on): \"Jeg reflekterer over mit valg\" (I am reflecting on my choice). For light bouncing off a surface, add nothing: \"Sneen reflekterer lyset\" (The snow reflects the light).",
+  "forms": [
+   {
+    "da": "at reflektere",
+    "en": "to reflect"
+   },
+   {
+    "da": "jeg reflekterer",
+    "en": "I reflect"
+   },
+   {
+    "da": "jeg reflekterede",
+    "en": "I reflected"
+   },
+   {
+    "da": "jeg har reflekteret",
+    "en": "I have reflected"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tænke over",
+    "en": "to think over"
+   },
+   {
+    "da": "at overveje",
+    "en": "to consider"
+   },
+   {
+    "da": "et spejl",
+    "en": "a mirror"
+   },
+   {
+    "da": "at spejle",
+    "en": "to mirror"
+   }
+  ],
+  "sentence": {
+   "da": "Du bør **reflektere** over, hvad du har lært i dag.",
+   "en": "You should reflect on what you have learned today."
+  }
+ },
+ "at regere": {
+  "file": "r.json",
+  "explanation": "\"At regere\" means \"to govern\" and \"to rule\", for someone in charge of a country, such as a king, a queen or a political party. For a shop or a company, say \"at drive\" (to run).",
+  "forms": [
+   {
+    "da": "at regere",
+    "en": "to govern / rule"
+   },
+   {
+    "da": "jeg regerer",
+    "en": "I govern / rule"
+   },
+   {
+    "da": "jeg regerede",
+    "en": "I governed / ruled"
+   },
+   {
+    "da": "jeg har regeret",
+    "en": "I have governed / ruled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at herske",
+    "en": "to reign"
+   },
+   {
+    "da": "at styre",
+    "en": "to control"
+   },
+   {
+    "da": "at lede",
+    "en": "to lead"
+   }
+  ],
+  "sentence": {
+   "da": "Hvilket parti vil **regere** landet efter valget?",
+   "en": "Which party will govern the country after the election?"
+  }
+ },
+ "at registrere": {
+  "file": "r.json",
+  "explanation": "\"At registrere\" means \"to register\", to write something into an official list or system: \"Kommunen registrerer alle borgere\" (The municipality registers all citizens). It also means to notice: \"Jeg registrerede ikke, at han gik\" (I did not notice that he left).",
+  "forms": [
+   {
+    "da": "at registrere",
+    "en": "to register"
+   },
+   {
+    "da": "jeg registrerer",
+    "en": "I register"
+   },
+   {
+    "da": "jeg registrerede",
+    "en": "I registered"
+   },
+   {
+    "da": "jeg har registreret",
+    "en": "I have registered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tilmelde sig",
+    "en": "to sign up"
+   },
+   {
+    "da": "at notere",
+    "en": "to note down"
+   },
+   {
+    "da": "at opdage",
+    "en": "to spot"
+   },
+   {
+    "da": "at indskrive",
+    "en": "to enroll"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **registrere** din bil, før du må køre i den.",
+   "en": "You have to register your car before you may drive it."
+  }
+ },
+ "at regne": {
+  "file": "r.json",
+  "explanation": "\"At regne\" means \"to rain\": \"Det regner\" (It is raining). \"At regne\" can also mean \"to calculate\": \"Han regner hurtigt\" (He calculates quickly).",
+  "forms": [
+   {
+    "da": "at regne",
+    "en": "to rain"
+   },
+   {
+    "da": "det regner",
+    "en": "it rains"
+   },
+   {
+    "da": "det regnede",
+    "en": "it rained"
+   },
+   {
+    "da": "det har regnet",
+    "en": "it has rained"
+   }
+  ],
+  "related": [
+   {
+    "da": "regn",
+    "en": "rain"
+   },
+   {
+    "da": "at sne",
+    "en": "to snow"
+   },
+   {
+    "da": "en regning",
+    "en": "a bill"
+   }
+  ],
+  "sentence": {
+   "da": "I dag skal det **regne**.",
+   "en": "Today it is going to rain."
+  }
+ },
+ "at regne med": {
+  "file": "r.json",
+  "explanation": "\"At regne med\" means \"to count on\", and also \"to expect\". For counting on a person: \"Jeg regner med dig\" (I am counting on you). For expecting something: \"Vi regner med regn i morgen\" (We expect rain tomorrow).",
+  "forms": [
+   {
+    "da": "at regne med",
+    "en": "to count on / expect"
+   },
+   {
+    "da": "jeg regner med",
+    "en": "I count on / expect"
+   },
+   {
+    "da": "jeg regnede med",
+    "en": "I counted on / expected"
+   },
+   {
+    "da": "jeg har regnet med",
+    "en": "I have counted on / expected"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forvente",
+    "en": "to expect"
+   },
+   {
+    "da": "at stole på",
+    "en": "to trust"
+   },
+   {
+    "da": "at håbe",
+    "en": "to hope"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan **regne med** hjælp fra min bror.",
+   "en": "I can count on help from my brother."
+  }
+ },
+ "at rehabilitere": {
+  "file": "r.json",
+  "explanation": "\"At rehabilitere\" means \"to rehabilitate\", to help someone get back their health or ability after something such as an injury, an illness or an addiction. It is also used for a person who gets their good name back after being wrongly blamed.",
+  "forms": [
+   {
+    "da": "at rehabilitere",
+    "en": "to rehabilitate"
+   },
+   {
+    "da": "jeg rehabiliterer",
+    "en": "I rehabilitate"
+   },
+   {
+    "da": "jeg rehabiliterede",
+    "en": "I rehabilitated"
+   },
+   {
+    "da": "jeg har rehabiliteret",
+    "en": "I have rehabilitated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at genoptræne",
+    "en": "to retrain (after injury)"
+   },
+   {
+    "da": "at komme sig",
+    "en": "to recover"
+   },
+   {
+    "da": "at helbrede",
+    "en": "to cure"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **rehabilitere** patienten, så han kan gå igen.",
+   "en": "We must rehabilitate the patient so that he can walk again."
+  }
+ },
+ "at rejse": {
+  "file": "r.json",
+  "explanation": "\"At rejse\" means \"to travel\" or \"to go away on a trip\". It can mean the whole journey or just leaving: \"Jeg rejser i morgen\" (I am leaving tomorrow).",
+  "forms": [
+   {
+    "da": "at rejse",
+    "en": "to travel"
+   },
+   {
+    "da": "jeg rejser",
+    "en": "I travel"
+   },
+   {
+    "da": "jeg rejste",
+    "en": "I traveled"
+   },
+   {
+    "da": "jeg er rejst",
+    "en": "I have traveled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tage af sted",
+    "en": "to leave"
+   },
+   {
+    "da": "at rejse sig",
+    "en": "to stand up"
+   },
+   {
+    "da": "at ankomme",
+    "en": "to arrive"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **rejse** til Spanien i morgen.",
+   "en": "We want to travel to Spain tomorrow."
+  }
+ },
+ "at rejse sig": {
+  "file": "r.json",
+  "explanation": "\"At rejse sig\" means \"to stand up\" or \"to rise\". The word \"sig\" (oneself) changes with the person: \"Jeg rejser mig\" (I stand up), \"Du rejser dig\" (You stand up).",
+  "forms": [
+   {
+    "da": "at rejse sig",
+    "en": "to stand up / rise"
+   },
+   {
+    "da": "jeg rejser mig",
+    "en": "I stand up / rise"
+   },
+   {
+    "da": "jeg rejste mig",
+    "en": "I stood up / rose"
+   },
+   {
+    "da": "jeg har rejst mig",
+    "en": "I have stood up / risen"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sætte sig",
+    "en": "to sit down"
+   },
+   {
+    "da": "at stå op",
+    "en": "to get up"
+   },
+   {
+    "da": "at sidde",
+    "en": "to sit"
+   }
+  ],
+  "sentence": {
+   "da": "Alle skal **rejse sig**, når læreren kommer ind.",
+   "en": "Everyone has to stand up when the teacher comes in."
+  }
+ },
+ "at rekruttere": {
+  "file": "r.json",
+  "explanation": "\"At rekruttere\" means \"to recruit\", to find new people and bring them into a company, a team or the army.",
+  "forms": [
+   {
+    "da": "at rekruttere",
+    "en": "to recruit"
+   },
+   {
+    "da": "jeg rekrutterer",
+    "en": "I recruit"
+   },
+   {
+    "da": "jeg rekrutterede",
+    "en": "I recruited"
+   },
+   {
+    "da": "jeg har rekrutteret",
+    "en": "I have recruited"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ansætte",
+    "en": "to hire"
+   },
+   {
+    "da": "at afskedige",
+    "en": "to fire"
+   },
+   {
+    "da": "at hverve",
+    "en": "to enlist"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet vil **rekruttere** ti nye medarbejdere i år.",
+   "en": "The company wants to recruit ten new employees this year."
+  }
+ },
+ "at renovere": {
+  "file": "r.json",
+  "explanation": "\"At renovere\" means \"to renovate\", to repair and freshen up something old, such as a house, an apartment or a room, so that it is like new. For a single coat of paint, Danes just say \"at male\" (to paint).",
+  "forms": [
+   {
+    "da": "at renovere",
+    "en": "to renovate"
+   },
+   {
+    "da": "jeg renoverer",
+    "en": "I renovate"
+   },
+   {
+    "da": "jeg renoverede",
+    "en": "I renovated"
+   },
+   {
+    "da": "jeg har renoveret",
+    "en": "I have renovated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at istandsætte",
+    "en": "to fix up"
+   },
+   {
+    "da": "at bygge om",
+    "en": "to rebuild"
+   },
+   {
+    "da": "at modernisere",
+    "en": "to modernize"
+   },
+   {
+    "da": "at forny",
+    "en": "to renew"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **renovere** badeværelset, fordi fliserne er gamle.",
+   "en": "We want to renovate the bathroom because the tiles are old."
+  }
+ },
+ "at rense": {
+  "file": "r.json",
+  "explanation": "\"At rense\" means \"to clean\" by taking out dirt: \"Vi renser vandet\" (We clean the water). For cleaning a house, use \"at gøre rent\" (to clean): \"Jeg gør rent\" (I clean).",
+  "forms": [
+   {
+    "da": "at rense",
+    "en": "to clean"
+   },
+   {
+    "da": "jeg renser",
+    "en": "I clean"
+   },
+   {
+    "da": "jeg rensede",
+    "en": "I cleaned"
+   },
+   {
+    "da": "jeg har renset",
+    "en": "I have cleaned"
+   }
+  ],
+  "related": [
+   {
+    "da": "ren",
+    "en": "clean"
+   },
+   {
+    "da": "at vaske",
+    "en": "to wash"
+   },
+   {
+    "da": "at skylle",
+    "en": "to rinse"
+   },
+   {
+    "da": "et renseri",
+    "en": "a dry cleaner"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **rense** såret med vand.",
+   "en": "You have to clean the wound with water."
+  }
+ },
+ "at reparere": {
+  "file": "r.json",
+  "explanation": "\"At reparere\" means \"to repair\" or \"to fix\" something broken. It is the opposite of \"at ødelægge\" (to ruin).",
+  "forms": [
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   },
+   {
+    "da": "jeg reparerer",
+    "en": "I repair"
+   },
+   {
+    "da": "jeg reparerede",
+    "en": "I repaired"
+   },
+   {
+    "da": "jeg har repareret",
+    "en": "I have repaired"
+   }
+  ],
+  "related": [
+   {
+    "da": "en reparation",
+    "en": "a repair"
+   },
+   {
+    "da": "en mekaniker",
+    "en": "a mechanic"
+   },
+   {
+    "da": "at gå i stykker",
+    "en": "to break down"
+   },
+   {
+    "da": "at lappe",
+    "en": "to patch"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **reparere** min cykel i dag?",
+   "en": "Can you repair my bike today?"
+  }
+ },
+ "at repetere": {
+  "file": "r.json",
+  "explanation": "\"At repetere\" means \"to review\", to go over something you have studied before so that it stays in your head. It does not mean to say something again. For that, use \"at gentage\" (to repeat).",
+  "forms": [
+   {
+    "da": "at repetere",
+    "en": "to review"
+   },
+   {
+    "da": "jeg repeterer",
+    "en": "I review"
+   },
+   {
+    "da": "jeg repeterede",
+    "en": "I reviewed"
+   },
+   {
+    "da": "jeg har repeteret",
+    "en": "I have reviewed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at øve",
+    "en": "to practice"
+   },
+   {
+    "da": "at huske",
+    "en": "to remember"
+   },
+   {
+    "da": "at lære",
+    "en": "to learn"
+   }
+  ],
+  "sentence": {
+   "da": "Før prøven skal jeg **repetere** alle ordene fra i år.",
+   "en": "Before the test I have to review all the words from this year."
+  }
+ },
+ "at repræsentere": {
+  "file": "r.json",
+  "explanation": "\"At repræsentere\" means \"to represent\", to speak or act for something such as a group, a country or a company: \"Hun repræsenterer Danmark ved OL\" (She represents Denmark at the Olympics). It also means to stand for an idea: \"Flaget repræsenterer frihed\" (The flag stands for freedom).",
+  "forms": [
+   {
+    "da": "at repræsentere",
+    "en": "to represent"
+   },
+   {
+    "da": "jeg repræsenterer",
+    "en": "I represent"
+   },
+   {
+    "da": "jeg repræsenterede",
+    "en": "I represented"
+   },
+   {
+    "da": "jeg har repræsenteret",
+    "en": "I have represented"
+   }
+  ],
+  "related": [
+   {
+    "da": "en repræsentant",
+    "en": "a representative"
+   },
+   {
+    "da": "at symbolisere",
+    "en": "to symbolize"
+   },
+   {
+    "da": "en delegeret",
+    "en": "a delegate"
+   }
+  ],
+  "sentence": {
+   "da": "Han skal **repræsentere** hele klassen ved mødet i morgen.",
+   "en": "He is going to represent the whole class at the meeting tomorrow."
+  }
+ },
+ "at reservere": {
+  "file": "r.json",
+  "explanation": "\"At reservere\" means \"to reserve\", such as a table, a room or a seat. Danes also say \"at booke\" (to book) for the same thing.",
+  "forms": [
+   {
+    "da": "at reservere",
+    "en": "to reserve"
+   },
+   {
+    "da": "jeg reserverer",
+    "en": "I reserve"
+   },
+   {
+    "da": "jeg reserverede",
+    "en": "I reserved"
+   },
+   {
+    "da": "jeg har reserveret",
+    "en": "I have reserved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en reservation",
+    "en": "a reservation"
+   },
+   {
+    "da": "at bestille",
+    "en": "to order / book"
+   },
+   {
+    "da": "at afbestille",
+    "en": "to cancel an order"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **reservere** et bord i aften.",
+   "en": "I would like to reserve a table tonight."
+  }
+ },
+ "at respektere": {
+  "file": "r.json",
+  "explanation": "\"At respektere\" means \"to respect\" a person, and also \"to accept\" something such as a rule or a choice: \"Vi respekterer reglerne\" (We respect the rules).",
+  "forms": [
+   {
+    "da": "at respektere",
+    "en": "to respect"
+   },
+   {
+    "da": "jeg respekterer",
+    "en": "I respect"
+   },
+   {
+    "da": "jeg respekterede",
+    "en": "I respected"
+   },
+   {
+    "da": "jeg har respekteret",
+    "en": "I have respected"
+   }
+  ],
+  "related": [
+   {
+    "da": "en respekt",
+    "en": "respect"
+   },
+   {
+    "da": "at beundre",
+    "en": "to admire"
+   },
+   {
+    "da": "at overholde",
+    "en": "to follow, to keep to"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **respektere** andre menneskers valg.",
+   "en": "You have to respect other people's choices."
+  }
+ },
+ "at respondere": {
+  "file": "r.json",
+  "explanation": "\"At respondere\" means \"to respond\", to answer or get back to a message, a request or a signal. In everyday talk, Danes mostly say \"at svare\" (to answer). \"Respondere\" is common for machines and programs: \"Appen responderer ikke\" (The app is not responding).",
+  "forms": [
+   {
+    "da": "at respondere",
+    "en": "to respond"
+   },
+   {
+    "da": "jeg responderer",
+    "en": "I respond"
+   },
+   {
+    "da": "jeg responderede",
+    "en": "I responded"
+   },
+   {
+    "da": "jeg har responderet",
+    "en": "I have responded"
+   }
+  ],
+  "related": [
+   {
+    "da": "at reagere",
+    "en": "to react"
+   },
+   {
+    "da": "at besvare",
+    "en": "to reply to"
+   },
+   {
+    "da": "at kvittere",
+    "en": "to acknowledge"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **respondere**, før jeg har læst mailen.",
+   "en": "I cannot respond before I have read the email."
+  }
+ },
+ "at restaurere": {
+  "file": "r.json",
+  "explanation": "\"At restaurere\" means \"to restore\", to put something old back the way it once looked, such as a painting, a church or an old car. For a computer file, Danes say \"at gendanne\" (to bring back).",
+  "forms": [
+   {
+    "da": "at restaurere",
+    "en": "to restore"
+   },
+   {
+    "da": "jeg restaurerer",
+    "en": "I restore"
+   },
+   {
+    "da": "jeg restaurerede",
+    "en": "I restored"
+   },
+   {
+    "da": "jeg har restaureret",
+    "en": "I have restored"
+   }
+  ],
+  "related": [
+   {
+    "da": "at renovere",
+    "en": "to renovate"
+   },
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   },
+   {
+    "da": "at bevare",
+    "en": "to preserve"
+   }
+  ],
+  "sentence": {
+   "da": "Han bruger mange år på at **restaurere** gamle møbler.",
+   "en": "He spends many years restoring old furniture."
+  }
+ },
+ "at retfærdiggøre": {
+  "file": "r.json",
+  "explanation": "\"At retfærdiggøre\" means \"to justify\", to show that something is right or reasonable, often an action that people question: \"Intet kan retfærdiggøre vold\" (Nothing can justify violence). It is built from retfærdig (fair) and gøre (to make).",
+  "forms": [
+   {
+    "da": "at retfærdiggøre",
+    "en": "to justify"
+   },
+   {
+    "da": "jeg retfærdiggør",
+    "en": "I justify"
+   },
+   {
+    "da": "jeg retfærdiggjorde",
+    "en": "I justified"
+   },
+   {
+    "da": "jeg har retfærdiggjort",
+    "en": "I have justified"
+   }
+  ],
+  "related": [
+   {
+    "da": "en retfærdighed",
+    "en": "justice"
+   },
+   {
+    "da": "at forsvare",
+    "en": "to defend"
+   },
+   {
+    "da": "at begrunde",
+    "en": "to give reasons for"
+   },
+   {
+    "da": "at undskylde",
+    "en": "to excuse"
+   }
+  ],
+  "sentence": {
+   "da": "Han prøver at **retfærdiggøre** sit valg, men ingen tror på ham.",
+   "en": "He tries to justify his choice, but nobody believes him."
+  }
+ },
+ "at rette": {
+  "file": "r.json",
+  "explanation": "\"At rette\" means \"to correct\": \"Kan du rette fejlen i teksten?\" (Can you correct the mistake in the text?) It also means \"to straighten\": \"Hun rettede ryggen\" (She straightened her back).",
+  "forms": [
+   {
+    "da": "at rette",
+    "en": "to correct / straighten"
+   },
+   {
+    "da": "jeg retter",
+    "en": "I correct / straighten"
+   },
+   {
+    "da": "jeg rettede",
+    "en": "I corrected / straightened"
+   },
+   {
+    "da": "jeg har rettet",
+    "en": "I have corrected / straightened"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rettelse",
+    "en": "a correction"
+   },
+   {
+    "da": "lige",
+    "en": "straight"
+   },
+   {
+    "da": "at forbedre",
+    "en": "to improve"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren skal **rette** vores prøver i aften.",
+   "en": "The teacher has to correct our tests tonight."
+  }
+ },
+ "at returnere": {
+  "file": "r.json",
+  "explanation": "\"At returnere\" means \"to return an item\", for example to a store. For coming back yourself, use \"at vende tilbage\" (to come back).",
+  "forms": [
+   {
+    "da": "at returnere",
+    "en": "to return an item"
+   },
+   {
+    "da": "jeg returnerer",
+    "en": "I return an item"
+   },
+   {
+    "da": "jeg returnerede",
+    "en": "I returned an item"
+   },
+   {
+    "da": "jeg har returneret",
+    "en": "I have returned an item"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bytte",
+    "en": "to exchange"
+   },
+   {
+    "da": "at refundere",
+    "en": "to refund"
+   },
+   {
+    "da": "at sende tilbage",
+    "en": "to send back"
+   },
+   {
+    "da": "en kvittering",
+    "en": "a receipt"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **returnere** jakken, fordi den er for stor.",
+   "en": "I want to return the jacket because it is too big."
+  }
+ },
+ "at ride": {
+  "file": "r.json",
+  "explanation": "\"At ride\" means \"to ride (a horse)\": \"Hun rider hver weekend\" (She rides every weekend). For a bike, say \"at cykle\" (to cycle): \"Jeg cykler på arbejde\" (I cycle to work).",
+  "forms": [
+   {
+    "da": "at ride",
+    "en": "to ride (a horse)"
+   },
+   {
+    "da": "jeg rider",
+    "en": "I ride (a horse)"
+   },
+   {
+    "da": "jeg red",
+    "en": "I rode (a horse)"
+   },
+   {
+    "da": "jeg har redet",
+    "en": "I have ridden (a horse)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rideskole",
+    "en": "a riding school"
+   },
+   {
+    "da": "en rytter",
+    "en": "a rider"
+   },
+   {
+    "da": "en ridetur",
+    "en": "a horseback ride"
+   },
+   {
+    "da": "at køre",
+    "en": "to drive"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kan **ride** på hesten i skoven.",
+   "en": "She can ride the horse in the forest."
+  }
+ },
+ "at ringe": {
+  "file": "r.json",
+  "explanation": "\"At ringe\" means \"to call\" someone on the phone. Add \"til\" (to) before the person you call: \"Jeg ringer til dig i morgen\" (I will call you tomorrow). It also means \"to ring\", for a bell or a doorbell: \"Klokken ringer\" (The bell is ringing).",
+  "forms": [
+   {
+    "da": "at ringe",
+    "en": "to call (phone)"
+   },
+   {
+    "da": "jeg ringer",
+    "en": "I call (phone)"
+   },
+   {
+    "da": "jeg ringede",
+    "en": "I called (phone)"
+   },
+   {
+    "da": "jeg har ringet",
+    "en": "I have called (phone)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ringe op",
+    "en": "to call up"
+   },
+   {
+    "da": "at ringe tilbage",
+    "en": "to call back"
+   },
+   {
+    "da": "at ringe på",
+    "en": "to ring (a bell)"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **ringe** til min mor.",
+   "en": "I want to call my mother."
+  }
+ },
+ "at ringe efter": {
+  "file": "r.json",
+  "explanation": "\"At ringe efter\" means \"to call for\" someone or something to come: \"Vi ringer efter en taxa\" (We call a taxi). To phone a person, use \"til\" (to): \"Jeg ringer til Anna\" (I call Anna).",
+  "forms": [
+   {
+    "da": "at ringe efter",
+    "en": "to call for"
+   },
+   {
+    "da": "jeg ringer efter",
+    "en": "I call for"
+   },
+   {
+    "da": "jeg ringede efter",
+    "en": "I called for"
+   },
+   {
+    "da": "jeg har ringet efter",
+    "en": "I have called for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tilkalde",
+    "en": "to summon"
+   },
+   {
+    "da": "at bestille",
+    "en": "to order / book"
+   },
+   {
+    "da": "et opkald",
+    "en": "a phone call"
+   },
+   {
+    "da": "at råbe på",
+    "en": "to call out for"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **ringe efter** en læge nu.",
+   "en": "We have to call for a doctor now."
+  }
+ },
+ "at ringe op": {
+  "file": "r.json",
+  "explanation": "\"At ringe op\" means \"to call\" someone on the phone. \"Dig\" (you) goes between \"ringe\" (call) and \"op\" (up): \"Jeg ringer dig op\" (I call you). \"At ringe til\" (to call) means the same: \"Jeg ringer til dig\" (I call you).",
+  "forms": [
+   {
+    "da": "at ringe op",
+    "en": "to call (phone)"
+   },
+   {
+    "da": "jeg ringer op",
+    "en": "I call"
+   },
+   {
+    "da": "jeg ringede op",
+    "en": "I called"
+   },
+   {
+    "da": "jeg har ringet op",
+    "en": "I have called"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ringe tilbage",
+    "en": "to call back"
+   },
+   {
+    "da": "at telefonere",
+    "en": "to phone"
+   },
+   {
+    "da": "et opkald",
+    "en": "a phone call"
+   },
+   {
+    "da": "at lægge på",
+    "en": "to hang up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **ringe op** og bestille en pizza.",
+   "en": "I want to call and order a pizza."
+  }
+ },
+ "at ringe på": {
+  "file": "r.json",
+  "explanation": "\"At ringe på\" means \"to ring the doorbell\": \"Der ringer nogen på\" (Someone is ringing the doorbell). To call someone by phone, use \"at ringe til\" (to call): \"Jeg ringer til dig\" (I call you).",
+  "forms": [
+   {
+    "da": "at ringe på",
+    "en": "to ring the doorbell"
+   },
+   {
+    "da": "jeg ringer på",
+    "en": "I ring the doorbell"
+   },
+   {
+    "da": "jeg ringede på",
+    "en": "I rang the doorbell"
+   },
+   {
+    "da": "jeg har ringet på",
+    "en": "I have rung the doorbell"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dørklokke",
+    "en": "a doorbell"
+   },
+   {
+    "da": "at banke på",
+    "en": "to knock"
+   },
+   {
+    "da": "en klokke",
+    "en": "a bell"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **ringe på**, hvis døren er låst.",
+   "en": "You can ring the doorbell if the door is locked."
+  }
+ },
+ "at ringe til": {
+  "file": "r.json",
+  "explanation": "\"At ringe til\" means \"to call\" someone on the phone. \"Til\" (to) comes right before the person you call: \"Jeg ringer til min mor\" (I call my mother). Without \"til\", \"at ringe\" (to ring) can also describe a bell: \"Klokken ringer\" (The bell is ringing).",
+  "forms": [
+   {
+    "da": "at ringe til",
+    "en": "to call"
+   },
+   {
+    "da": "jeg ringer til",
+    "en": "I call"
+   },
+   {
+    "da": "jeg ringede til",
+    "en": "I called"
+   },
+   {
+    "da": "jeg har ringet til",
+    "en": "I have called"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ringe op",
+    "en": "to call up"
+   },
+   {
+    "da": "at ringe tilbage",
+    "en": "to call back"
+   },
+   {
+    "da": "at telefonere",
+    "en": "to phone"
+   },
+   {
+    "da": "et opkald",
+    "en": "a phone call"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **ringe til** min mor.",
+   "en": "I want to call my mother."
+  }
+ },
+ "at ringe tilbage": {
+  "file": "r.json",
+  "explanation": "\"At ringe tilbage\" means \"to call back\", to return a call you missed. \"Tilbage\" (back) works with other verbs too: \"at komme tilbage\" (to come back), \"at give tilbage\" (to give back).",
+  "forms": [
+   {
+    "da": "at ringe tilbage",
+    "en": "to call back"
+   },
+   {
+    "da": "jeg ringer tilbage",
+    "en": "I call back"
+   },
+   {
+    "da": "jeg ringede tilbage",
+    "en": "I called back"
+   },
+   {
+    "da": "jeg har ringet tilbage",
+    "en": "I have called back"
+   }
+  ],
+  "related": [
+   {
+    "da": "et opkald",
+    "en": "a call"
+   },
+   {
+    "da": "at svare",
+    "en": "to answer"
+   },
+   {
+    "da": "at lægge på",
+    "en": "to hang up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **ringe tilbage**, når jeg er hjemme.",
+   "en": "I will call back when I am home."
+  }
+ },
+ "at risikere": {
+  "file": "r.json",
+  "explanation": "\"At risikere\" means \"to risk\": \"Du risikerer en bøde, hvis du parkerer her\" (You risk a fine if you park here).",
+  "forms": [
+   {
+    "da": "at risikere",
+    "en": "to risk"
+   },
+   {
+    "da": "jeg risikerer",
+    "en": "I risk"
+   },
+   {
+    "da": "jeg risikerede",
+    "en": "I risked"
+   },
+   {
+    "da": "jeg har risikeret",
+    "en": "I have risked"
+   }
+  ],
+  "related": [
+   {
+    "da": "en risiko",
+    "en": "a risk"
+   },
+   {
+    "da": "farlig",
+    "en": "dangerous"
+   },
+   {
+    "da": "at vove",
+    "en": "to dare"
+   },
+   {
+    "da": "en fare",
+    "en": "a danger"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **risikere** at komme for sent.",
+   "en": "You might end up being late."
+  }
+ },
+ "at riste": {
+  "file": "r.json",
+  "explanation": "\"At riste\" means \"to toast\" and \"to roast\", to heat food dry until it turns brown and crisp, such as bread, nuts, seeds and coffee beans: \"Jeg rister brødet\" (I toast the bread). Do not mix it up with \"at ryste\" (to shake): \"Jeg ryster flasken\" (I shake the bottle).",
+  "forms": [
+   {
+    "da": "at riste",
+    "en": "to toast / roast"
+   },
+   {
+    "da": "jeg rister",
+    "en": "I toast / roast"
+   },
+   {
+    "da": "jeg ristede",
+    "en": "I toasted / roasted"
+   },
+   {
+    "da": "jeg har ristet",
+    "en": "I have toasted / roasted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at stege",
+    "en": "to fry"
+   },
+   {
+    "da": "at bage",
+    "en": "to bake"
+   },
+   {
+    "da": "at grille",
+    "en": "to grill"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **riste** nødderne på en tør pande.",
+   "en": "I want to toast the nuts in a dry pan."
+  }
+ },
+ "at rive": {
+  "file": "r.json",
+  "explanation": "\"At rive\" means \"to grate\" food like cheese or carrots on a grater: \"Jeg river osten\" (I grate the cheese). It also means \"to rake\" leaves together: \"Han river bladene sammen\" (He rakes the leaves together).",
+  "forms": [
+   {
+    "da": "at rive",
+    "en": "to grate"
+   },
+   {
+    "da": "jeg river",
+    "en": "I grate"
+   },
+   {
+    "da": "jeg rev",
+    "en": "I grated"
+   },
+   {
+    "da": "jeg har revet",
+    "en": "I have grated"
+   }
+  ],
+  "related": [
+   {
+    "da": "et rivejern",
+    "en": "a grater"
+   },
+   {
+    "da": "at hakke",
+    "en": "to chop"
+   },
+   {
+    "da": "at skære",
+    "en": "to cut"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **rive** ost til pastaen.",
+   "en": "I have to grate cheese for the pasta."
+  }
+ },
+ "at rive i stykker": {
+  "file": "r.json",
+  "explanation": "\"At rive i stykker\" means \"to tear to pieces\". \"I stykker\" (in pieces) also works with other verbs: \"at skære i stykker\" (to cut into pieces), \"at falde i stykker\" (to fall apart).",
+  "forms": [
+   {
+    "da": "at rive i stykker",
+    "en": "to tear to pieces"
+   },
+   {
+    "da": "jeg river i stykker",
+    "en": "I tear to pieces"
+   },
+   {
+    "da": "jeg rev i stykker",
+    "en": "I tore to pieces"
+   },
+   {
+    "da": "jeg har revet i stykker",
+    "en": "I have torn to pieces"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ødelægge",
+    "en": "to destroy"
+   },
+   {
+    "da": "at klippe i stykker",
+    "en": "to cut to pieces"
+   },
+   {
+    "da": "at smadre",
+    "en": "to smash"
+   },
+   {
+    "da": "at gå i stykker",
+    "en": "to break"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden plejer at **rive i stykker** gamle sko.",
+   "en": "The dog usually tears old shoes to pieces."
+  }
+ },
+ "at rive ned": {
+  "file": "r.json",
+  "explanation": "\"At rive ned\" means \"to tear down\", mostly a building or a wall: \"De river det gamle hus ned\" (They are tearing down the old house). When \"det\" (it) stands in for the building, \"det\" goes before \"ned\" (down): \"De river det ned\" (They are tearing it down).",
+  "forms": [
+   {
+    "da": "at rive ned",
+    "en": "to tear down"
+   },
+   {
+    "da": "jeg river ned",
+    "en": "I tear down"
+   },
+   {
+    "da": "jeg rev ned",
+    "en": "I tore down"
+   },
+   {
+    "da": "jeg har revet ned",
+    "en": "I have torn down"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bygge op",
+    "en": "to build up"
+   },
+   {
+    "da": "en nedrivning",
+    "en": "a demolition"
+   },
+   {
+    "da": "at ødelægge",
+    "en": "to destroy"
+   }
+  ],
+  "sentence": {
+   "da": "De vil **rive ned** det gamle hus.",
+   "en": "They want to tear down the old house."
+  }
+ },
+ "at ro": {
+  "file": "r.json",
+  "explanation": "\"At ro\" means \"to row\" a boat with oars: \"Hun roer hver morgen\" (She rows every morning). Do not mix it up with the noun \"ro\", which means \"calm\" or \"quiet\": \"Jeg vil have lidt ro\" (I want some peace and quiet).",
+  "forms": [
+   {
+    "da": "at ro",
+    "en": "to row"
+   },
+   {
+    "da": "jeg ror",
+    "en": "I row"
+   },
+   {
+    "da": "jeg roede",
+    "en": "I rowed"
+   },
+   {
+    "da": "jeg har roet",
+    "en": "I have rowed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en robåd",
+    "en": "a rowboat"
+   },
+   {
+    "da": "en åre",
+    "en": "an oar"
+   },
+   {
+    "da": "at sejle",
+    "en": "to sail"
+   },
+   {
+    "da": "at padle",
+    "en": "to paddle"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **ro** over søen i en lille båd.",
+   "en": "We can row across the lake in a small boat."
+  }
+ },
+ "at rode": {
+  "file": "r.json",
+  "explanation": "\"At rode\" means \"to rummage\" and \"to mess up\". To rummage is to search through things carelessly: \"Jeg roder i skuffen efter en pen\" (I am rummaging in the drawer for a pen). To mess up is to leave a place untidy: \"Børnene har rodet i stuen\" (The children have made a mess in the living room).",
+  "forms": [
+   {
+    "da": "at rode",
+    "en": "to rummage / mess up"
+   },
+   {
+    "da": "jeg roder",
+    "en": "I rummage / mess up"
+   },
+   {
+    "da": "jeg rodede",
+    "en": "I rummaged / messed up"
+   },
+   {
+    "da": "jeg har rodet",
+    "en": "I have rummaged / messed up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at rydde op",
+    "en": "to tidy up"
+   },
+   {
+    "da": "at lede efter",
+    "en": "to look for"
+   },
+   {
+    "da": "i orden",
+    "en": "in order"
+   }
+  ],
+  "sentence": {
+   "da": "Han må **rode** i tasken for at finde sine nøgler.",
+   "en": "He has to rummage in the bag to find his keys."
+  }
+ },
+ "at rose": {
+  "file": "r.json",
+  "explanation": "\"At rose\" means \"to praise\" and is the opposite of criticizing: \"Læreren roser eleven\" (The teacher praises the student). Do not mix it up with \"en rose\" (a rose): \"Hun har en rose\" (She has a rose).",
+  "forms": [
+   {
+    "da": "at rose",
+    "en": "to praise"
+   },
+   {
+    "da": "jeg roser",
+    "en": "I praise"
+   },
+   {
+    "da": "jeg roste",
+    "en": "I praised"
+   },
+   {
+    "da": "jeg har rost",
+    "en": "I have praised"
+   }
+  ],
+  "related": [
+   {
+    "da": "et ros",
+    "en": "praise"
+   },
+   {
+    "da": "at kritisere",
+    "en": "to criticize"
+   },
+   {
+    "da": "at anerkende",
+    "en": "to acknowledge"
+   },
+   {
+    "da": "en kompliment",
+    "en": "a compliment"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **rose** dig for dit arbejde.",
+   "en": "I want to praise you for your work."
+  }
+ },
+ "at rulle": {
+  "file": "r.json",
+  "explanation": "\"At rulle\" means \"to roll\", to move by turning over and over: \"Bolden ruller ned ad bakken\" (The ball rolls down the hill). You can also roll something yourself: \"Jeg ruller dejen\" (I roll the dough).",
+  "forms": [
+   {
+    "da": "at rulle",
+    "en": "to roll"
+   },
+   {
+    "da": "jeg ruller",
+    "en": "I roll"
+   },
+   {
+    "da": "jeg rullede",
+    "en": "I rolled"
+   },
+   {
+    "da": "jeg har rullet",
+    "en": "I have rolled"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rullestol",
+    "en": "a wheelchair"
+   },
+   {
+    "da": "et hjul",
+    "en": "a wheel"
+   },
+   {
+    "da": "at trille",
+    "en": "to roll (small round things)"
+   },
+   {
+    "da": "at dreje",
+    "en": "to turn"
+   }
+  ],
+  "sentence": {
+   "da": "Bolden kan **rulle** ned ad bakken.",
+   "en": "The ball can roll down the hill."
+  }
+ },
+ "at runde af": {
+  "file": "r.json",
+  "explanation": "\"At runde af\" means \"to round off\". For numbers: \"Jeg runder 4,6 af til 5\" (I round 4.6 off to 5). For an event: \"Vi rundede aftenen af med kaffe\" (We rounded off the evening with coffee).",
+  "forms": [
+   {
+    "da": "at runde af",
+    "en": "to round off"
+   },
+   {
+    "da": "jeg runder af",
+    "en": "I round off"
+   },
+   {
+    "da": "jeg rundede af",
+    "en": "I rounded off"
+   },
+   {
+    "da": "jeg har rundet af",
+    "en": "I have rounded off"
+   }
+  ],
+  "related": [
+   {
+    "da": "rund",
+    "en": "round"
+   },
+   {
+    "da": "at afslutte",
+    "en": "to finish"
+   },
+   {
+    "da": "at slutte",
+    "en": "to end"
+   },
+   {
+    "da": "en cirkel",
+    "en": "a circle"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **runde af** med en kop kaffe.",
+   "en": "We want to round off with a cup of coffee."
+  }
+ },
+ "at runde ned": {
+  "file": "r.json",
+  "explanation": "\"At runde ned\" means \"to round down\" a number. \"Ned\" means \"down\" here too, as in \"at skrive ned\" (to write down).",
+  "forms": [
+   {
+    "da": "at runde ned",
+    "en": "to round down"
+   },
+   {
+    "da": "jeg runder ned",
+    "en": "I round down"
+   },
+   {
+    "da": "jeg rundede ned",
+    "en": "I rounded down"
+   },
+   {
+    "da": "jeg har rundet ned",
+    "en": "I have rounded down"
+   }
+  ],
+  "related": [
+   {
+    "da": "at runde op",
+    "en": "to round up"
+   },
+   {
+    "da": "at runde af",
+    "en": "to round off"
+   },
+   {
+    "da": "en afrunding",
+    "en": "a rounding"
+   }
+  ],
+  "sentence": {
+   "da": "Prisen er 52 kroner, men vi kan **runde ned** til 50.",
+   "en": "The price is 52 kroner, but we can round down to 50."
+  }
+ },
+ "at runde op": {
+  "file": "r.json",
+  "explanation": "\"At runde op\" means \"to round up\", to change a number to the next higher round number: \"Vi runder 7,6 op til 8\" (We round 7.6 up to 8). Here \"op\" means \"up\", as in \"at ringe op\" (to call up) and \"at tage op\" (to pick up). The opposite is \"at runde ned\" (to round down).",
+  "forms": [
+   {
+    "da": "at runde op",
+    "en": "to round up"
+   },
+   {
+    "da": "jeg runder op",
+    "en": "I round up"
+   },
+   {
+    "da": "jeg rundede op",
+    "en": "I rounded up"
+   },
+   {
+    "da": "jeg har rundet op",
+    "en": "I have rounded up"
+   }
+  ],
+  "related": [
+   {
+    "da": "at runde af",
+    "en": "to round off"
+   },
+   {
+    "da": "rund",
+    "en": "round"
+   },
+   {
+    "da": "en afrunding",
+    "en": "a rounding"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan **runde op** til nærmeste hundrede.",
+   "en": "You can round up to the nearest hundred."
+  }
+ },
+ "at rydde": {
+  "file": "r.json",
+  "explanation": "\"At rydde\" means \"to clear\". With \"op\" (up) it means \"to tidy up\": \"Børnene rydder op\" (The children tidy up).",
+  "forms": [
+   {
+    "da": "at rydde",
+    "en": "to clear"
+   },
+   {
+    "da": "jeg rydder",
+    "en": "I clear"
+   },
+   {
+    "da": "jeg ryddede",
+    "en": "I cleared"
+   },
+   {
+    "da": "jeg har ryddet",
+    "en": "I have cleared"
+   }
+  ],
+  "related": [
+   {
+    "da": "at feje",
+    "en": "to sweep"
+   },
+   {
+    "da": "at gøre rent",
+    "en": "to clean"
+   },
+   {
+    "da": "at tømme",
+    "en": "to empty"
+   }
+  ],
+  "sentence": {
+   "da": "Efter maden skal vi **rydde** bordet.",
+   "en": "After the meal we have to clear the table."
+  }
+ },
+ "at rydde op": {
+  "file": "r.json",
+  "explanation": "\"At rydde op\" means \"to tidy up\": \"Jeg rydder op i stuen\" (I tidy up the living room). It is built from rydde (clear) and op (up). Without \"op\", \"at rydde bordet\" (to clear the table) uses the same verb.",
+  "forms": [
+   {
+    "da": "at rydde op",
+    "en": "to tidy up"
+   },
+   {
+    "da": "jeg rydder op",
+    "en": "I tidy up"
+   },
+   {
+    "da": "jeg ryddede op",
+    "en": "I tidied up"
+   },
+   {
+    "da": "jeg har ryddet op",
+    "en": "I have tidied up"
+   }
+  ],
+  "related": [
+   {
+    "da": "en oprydning",
+    "en": "a tidy-up"
+   },
+   {
+    "da": "at gøre rent",
+    "en": "to clean"
+   },
+   {
+    "da": "rodet",
+    "en": "messy"
+   },
+   {
+    "da": "ryddelig",
+    "en": "tidy"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **rydde op** på dit værelse nu.",
+   "en": "You have to tidy up your room now."
+  }
+ },
+ "at ryge": {
+  "file": "r.json",
+  "explanation": "\"At ryge\" means \"to smoke\": \"Jeg ryger ikke\" (I do not smoke). The smoke itself is \"røg\": \"Der er røg i køkkenet\" (There is smoke in the kitchen).",
+  "forms": [
+   {
+    "da": "at ryge",
+    "en": "to smoke"
+   },
+   {
+    "da": "jeg ryger",
+    "en": "I smoke"
+   },
+   {
+    "da": "jeg røg",
+    "en": "I smoked"
+   },
+   {
+    "da": "jeg har røget",
+    "en": "I have smoked"
+   }
+  ],
+  "related": [
+   {
+    "da": "en cigaret",
+    "en": "a cigarette"
+   },
+   {
+    "da": "en pibe",
+    "en": "a pipe"
+   },
+   {
+    "da": "tobak",
+    "en": "tobacco"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil gerne holde op med at **ryge**.",
+   "en": "He would like to quit smoking."
+  }
+ },
+ "at rykke": {
+  "file": "r.json",
+  "explanation": "\"At rykke\" means \"to move\" and \"to pull\". To move is to shift a short way to a new place: \"Vi rykker tættere sammen\" (We move closer together). To pull is to give a quick, hard tug: \"Hun rykkede i snoren\" (She tugged the cord).",
+  "forms": [
+   {
+    "da": "at rykke",
+    "en": "to move / pull"
+   },
+   {
+    "da": "jeg rykker",
+    "en": "I move / pull"
+   },
+   {
+    "da": "jeg rykkede",
+    "en": "I moved / pulled"
+   },
+   {
+    "da": "jeg har rykket",
+    "en": "I have moved / pulled"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hive",
+    "en": "to yank"
+   },
+   {
+    "da": "at skubbe",
+    "en": "to push"
+   },
+   {
+    "da": "at flytte",
+    "en": "to relocate"
+   }
+  ],
+  "sentence": {
+   "da": "Kan I **rykke** lidt, så der er plads til mig?",
+   "en": "Can you move over a bit so there is room for me?"
+  }
+ },
+ "at rynke": {
+  "file": "r.json",
+  "explanation": "\"At rynke\" means \"to wrinkle\", to make small lines in cloth, paper or skin. With the forehead it means to frown: \"Hun rynkede panden\" (She frowned; literally, \"She wrinkled the forehead\").",
+  "forms": [
+   {
+    "da": "at rynke",
+    "en": "to wrinkle / frown"
+   },
+   {
+    "da": "jeg rynker",
+    "en": "I wrinkle / frown"
+   },
+   {
+    "da": "jeg rynkede",
+    "en": "I wrinkled / frowned"
+   },
+   {
+    "da": "jeg har rynket",
+    "en": "I have wrinkled / frowned"
+   }
+  ],
+  "related": [
+   {
+    "da": "at folde",
+    "en": "to fold"
+   },
+   {
+    "da": "at stryge",
+    "en": "to iron"
+   },
+   {
+    "da": "at krølle",
+    "en": "to crumple"
+   }
+  ],
+  "sentence": {
+   "da": "Skjorten vil **rynke**, hvis du propper den ned i kufferten.",
+   "en": "The shirt will wrinkle if you stuff it into the suitcase."
+  }
+ },
+ "at ryste": {
+  "file": "r.json",
+  "explanation": "\"At ryste\" means \"to shake\", to move something quickly back and forth. You can also shake yourself, from cold or fear: \"Hun ryster af kulde\" (She is shaking from the cold).",
+  "forms": [
+   {
+    "da": "at ryste",
+    "en": "to shake"
+   },
+   {
+    "da": "jeg ryster",
+    "en": "I shake"
+   },
+   {
+    "da": "jeg rystede",
+    "en": "I shook"
+   },
+   {
+    "da": "jeg har rystet",
+    "en": "I have shaken"
+   }
+  ],
+  "related": [
+   {
+    "da": "at skælve",
+    "en": "to tremble"
+   },
+   {
+    "da": "en rystelse",
+    "en": "a shock / tremor"
+   },
+   {
+    "da": "at vibrere",
+    "en": "to vibrate"
+   },
+   {
+    "da": "at ryste sammen",
+    "en": "to flinch"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **ryste** flasken før brug.",
+   "en": "You have to shake the bottle before use."
+  }
+ }
+}

@@ -1,0 +1,3882 @@
+{
+ "hollandsk": {
+  "file": "h.json",
+  "explanation": "\"Hollandsk\" means \"Dutch\", both for things from the Netherlands and for the language. Danish writes it with a lowercase first letter, while English writes \"Dutch\" with an uppercase letter.",
+  "forms": [
+   {
+    "da": "en hollandsk cykel",
+    "en": "a Dutch bicycle"
+   },
+   {
+    "da": "et hollandsk hus",
+    "en": "a Dutch house"
+   },
+   {
+    "da": "hollandske cykler",
+    "en": "Dutch bicycles"
+   }
+  ],
+  "related": [
+   {
+    "da": "Holland",
+    "en": "the Netherlands"
+   },
+   {
+    "da": "en hollænder",
+    "en": "a Dutchman"
+   },
+   {
+    "da": "tysk",
+    "en": "German"
+   }
+  ],
+  "sentence": {
+   "da": "Han bor i Holland og taler **hollandsk**.",
+   "en": "He lives in the Netherlands and speaks Dutch."
+  }
+ },
+ "honning": {
+  "file": "h.json",
+  "explanation": "\"Honning\" means \"honey\", the sweet, sticky food that bees make.",
+  "forms": [
+   {
+    "da": "noget honning",
+    "en": "some honey"
+   },
+   {
+    "da": "honningen",
+    "en": "the honey"
+   },
+   {
+    "da": "en skefuld honning",
+    "en": "a spoonful of honey"
+   }
+  ],
+  "related": [
+   {
+    "da": "honningkage",
+    "en": "honey cake"
+   },
+   {
+    "da": "en bi",
+    "en": "a bee"
+   },
+   {
+    "da": "marmelade",
+    "en": "jam"
+   }
+  ],
+  "sentence": {
+   "da": "Bier laver **honning** af blomster.",
+   "en": "Bees make honey from flowers."
+  }
+ },
+ "hos": {
+  "file": "h.json",
+  "explanation": "\"Hos\" means \"at someone's place\". Use it for people: \"hos min ven\" (at my friend's place), \"hos lægen\" (at the doctor's). For a building or place, use \"på\" (at) or \"i\" (in): \"på biblioteket\" (at the library), \"i køkkenet\" (in the kitchen).",
+  "forms": [
+   {
+    "da": "hos mig",
+    "en": "at my place"
+   },
+   {
+    "da": "hos lægen",
+    "en": "at the doctor's"
+   },
+   {
+    "da": "hos min mor",
+    "en": "at my mother's"
+   }
+  ],
+  "related": [
+   {
+    "da": "hjemme",
+    "en": "at home"
+   },
+   {
+    "da": "ved",
+    "en": "by"
+   },
+   {
+    "da": "med",
+    "en": "with"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sover **hos** min ven i nat.",
+   "en": "I am sleeping at my friend's place tonight."
+  }
+ },
+ "hovedsagelig": {
+  "file": "h.json",
+  "explanation": "\"Hovedsagelig\" means \"mainly\", for the biggest part but not all of it: \"Vi var hovedsagelig børn\" (We were mainly children). The form \"hovedsageligt\" means the same.",
+  "forms": [
+   {
+    "da": "hovedsagelig om penge",
+    "en": "mainly about money"
+   },
+   {
+    "da": "Vi spiser hovedsagelig grøntsager",
+    "en": "We mainly eat vegetables"
+   },
+   {
+    "da": "hovedsagelig i weekenden",
+    "en": "mainly on the weekend"
+   }
+  ],
+  "related": [
+   {
+    "da": "især",
+    "en": "especially"
+   },
+   {
+    "da": "primært",
+    "en": "primarily"
+   },
+   {
+    "da": "mest",
+    "en": "mostly"
+   },
+   {
+    "da": "overvejende",
+    "en": "predominantly"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg læser **hovedsagelig** krimier, men nogle gange også biografier.",
+   "en": "I mainly read crime novels, but sometimes also biographies."
+  }
+ },
+ "hovedsageligt": {
+  "file": "h.json",
+  "explanation": "\"Hovedsageligt\" means \"mainly\", and the shorter \"hovedsagelig\" means the same. It often introduces the main reason: \"hovedsageligt på grund af vejret\" (mainly because of the weather).",
+  "forms": [
+   {
+    "da": "hovedsageligt grøntsager",
+    "en": "mainly vegetables"
+   },
+   {
+    "da": "Vi var hovedsageligt hjemme",
+    "en": "We were mainly at home"
+   },
+   {
+    "da": "hovedsageligt om aftenen",
+    "en": "mainly in the evening"
+   }
+  ],
+  "related": [
+   {
+    "da": "især",
+    "en": "especially"
+   },
+   {
+    "da": "primært",
+    "en": "primarily"
+   },
+   {
+    "da": "mest",
+    "en": "mostly"
+   },
+   {
+    "da": "for det meste",
+    "en": "for the most part"
+   }
+  ],
+  "sentence": {
+   "da": "Flyet var **hovedsageligt** fyldt med turister, men også nogle forretningsfolk.",
+   "en": "The plane was mainly full of tourists, but also some business people."
+  }
+ },
+ "hud": {
+  "file": "h.json",
+  "explanation": "\"Hud\" means \"skin\", the outer covering of your body.",
+  "forms": [
+   {
+    "da": "en hud",
+    "en": "skin"
+   },
+   {
+    "da": "huden",
+    "en": "the skin"
+   },
+   {
+    "da": "på huden",
+    "en": "on the skin"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hudlæge",
+    "en": "a skin doctor"
+   },
+   {
+    "da": "et hår",
+    "en": "a hair"
+   },
+   {
+    "da": "en negl",
+    "en": "a nail"
+   },
+   {
+    "da": "en krop",
+    "en": "a body"
+   }
+  ],
+  "sentence": {
+   "da": "Solen kan brænde din **hud**.",
+   "en": "The sun can burn your skin."
+  }
+ },
+ "humor": {
+  "file": "h.json",
+  "explanation": "\"Humor\" means \"humor\", what makes things funny. To say someone has a sense of humor, use \"sans\" (sense) with \"for\" (for): \"Hun har sans for humor\" (She has a sense of humor).",
+  "forms": [
+   {
+    "da": "humor",
+    "en": "humor"
+   },
+   {
+    "da": "humoren",
+    "en": "the humor"
+   },
+   {
+    "da": "sort humor",
+    "en": "dark humor"
+   }
+  ],
+  "related": [
+   {
+    "da": "sjov",
+    "en": "funny"
+   },
+   {
+    "da": "en vittighed",
+    "en": "a joke"
+   },
+   {
+    "da": "en latter",
+    "en": "laughter"
+   },
+   {
+    "da": "en spøg",
+    "en": "a jest"
+   }
+  ],
+  "sentence": {
+   "da": "Hun fortæller vittigheder og har god **humor**.",
+   "en": "She tells jokes and has a good sense of humor."
+  }
+ },
+ "humoristisk": {
+  "file": "h.json",
+  "explanation": "\"Humoristisk\" means \"humorous\", meant to make people smile or laugh: \"en humoristisk bog\" (a humorous book). In everyday talk, Danes say \"sjov\" (funny): \"Det var sjovt!\" (That was fun!)",
+  "forms": [
+   {
+    "da": "en humoristisk bog",
+    "en": "a humorous book"
+   },
+   {
+    "da": "et humoristisk program",
+    "en": "a humorous show"
+   },
+   {
+    "da": "humoristiske historier",
+    "en": "humorous stories"
+   }
+  ],
+  "related": [
+   {
+    "da": "morsom",
+    "en": "amusing"
+   },
+   {
+    "da": "vittig",
+    "en": "witty"
+   },
+   {
+    "da": "ironisk",
+    "en": "ironic"
+   },
+   {
+    "da": "en humorist",
+    "en": "a humorist"
+   }
+  ],
+  "sentence": {
+   "da": "Hans tale var **humoristisk**, og hele salen grinede.",
+   "en": "His speech was humorous, and the whole room laughed."
+  }
+ },
+ "hun": {
+  "file": "h.json",
+  "explanation": "\"Hun\" means \"she\". Use it for the woman who does the action: \"Hun hjælper mig\" (She helps me). For the woman the action is done to, use \"hende\" (her): \"Jeg hjælper hende\" (I help her).",
+  "forms": [
+   {
+    "da": "Hun er her.",
+    "en": "She is here."
+   },
+   {
+    "da": "Hun hedder Anna.",
+    "en": "She is called Anna."
+   },
+   {
+    "da": "Er hun din søster?",
+    "en": "Is she your sister?"
+   }
+  ],
+  "related": [
+   {
+    "da": "han",
+    "en": "he"
+   },
+   {
+    "da": "hendes",
+    "en": "her"
+   },
+   {
+    "da": "de",
+    "en": "they"
+   }
+  ],
+  "sentence": {
+   "da": "**Hun** er min søster.",
+   "en": "She is my sister."
+  }
+ },
+ "hundemad": {
+  "file": "h.json",
+  "explanation": "\"Hundemad\" means \"dog food\". It is built from hund (dog) and mad (food). The word \"mad\" also builds \"morgenmad\" (breakfast) and \"aftensmad\" (dinner).",
+  "forms": [
+   {
+    "da": "hundemad",
+    "en": "dog food"
+   },
+   {
+    "da": "en pose hundemad",
+    "en": "a bag of dog food"
+   },
+   {
+    "da": "våd hundemad",
+    "en": "wet dog food"
+   }
+  ],
+  "related": [
+   {
+    "da": "kattemad",
+    "en": "cat food"
+   },
+   {
+    "da": "en hundekiks",
+    "en": "a dog biscuit"
+   },
+   {
+    "da": "fiskefoder",
+    "en": "fish food"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden får **hundemad** to gange om dagen.",
+   "en": "The dog gets dog food twice a day."
+  }
+ },
+ "hundrede": {
+  "file": "h.json",
+  "explanation": "\"Hundrede\" means \"hundred\". It does not change after another number: \"to hundrede\" (200) and \"tre hundrede\" (300). For 100, you can just say \"hundrede\", with no \"en\" (one) in front.",
+  "forms": [
+   {
+    "da": "hundrede",
+    "en": "hundred"
+   },
+   {
+    "da": "to hundrede",
+    "en": "two hundred"
+   },
+   {
+    "da": "hundrede kroner",
+    "en": "a hundred kroner"
+   }
+  ],
+  "related": [
+   {
+    "da": "tusind",
+    "en": "thousand"
+   },
+   {
+    "da": "ti",
+    "en": "ten"
+   },
+   {
+    "da": "en million",
+    "en": "a million"
+   }
+  ],
+  "sentence": {
+   "da": "Ti gange ti er **hundrede**.",
+   "en": "Ten times ten is a hundred."
+  }
+ },
+ "hundrededel": {
+  "file": "h.json",
+  "explanation": "\"En hundrededel\" means \"a hundredth\", one of a hundred equal parts. It is built from hundrede (hundred) and del (part). The same pattern gives other fractions: \"en tiendedel\" (a tenth).",
+  "forms": [
+   {
+    "da": "en hundrededel",
+    "en": "a hundredth"
+   },
+   {
+    "da": "hundrededelen",
+    "en": "the hundredth"
+   },
+   {
+    "da": "hundrededele",
+    "en": "hundredths"
+   },
+   {
+    "da": "hundrededelene",
+    "en": "the hundredths"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tusindedel",
+    "en": "a thousandth"
+   },
+   {
+    "da": "en fjerdedel",
+    "en": "a quarter"
+   },
+   {
+    "da": "en procent",
+    "en": "a percent"
+   },
+   {
+    "da": "en brøk",
+    "en": "a fraction"
+   }
+  ],
+  "sentence": {
+   "da": "Han vandt løbet med kun en **hundrededel** af et sekund.",
+   "en": "He won the race by only a hundredth of a second."
+  }
+ },
+ "hurra": {
+  "file": "h.json",
+  "explanation": "\"Hurra\" means \"hooray\" and is a cheer for good news or a win. To cheer for someone, add \"for\" (for): \"Hurra for fødselaren!\" (Hooray for the birthday person!).",
+  "forms": [
+   {
+    "da": "Hurra!",
+    "en": "Hooray!"
+   },
+   {
+    "da": "Hurra, jeg klarede det!",
+    "en": "Hooray, I did it!"
+   },
+   {
+    "da": "Hurra for dig!",
+    "en": "Hooray for you!"
+   }
+  ],
+  "related": [
+   {
+    "da": "juhu",
+    "en": "yay"
+   },
+   {
+    "da": "tillykke",
+    "en": "congratulations"
+   },
+   {
+    "da": "bravo",
+    "en": "bravo"
+   },
+   {
+    "da": "godt gået",
+    "en": "well done"
+   }
+  ],
+  "sentence": {
+   "da": "**Hurra**, vi har fri i dag!",
+   "en": "Hooray, we have the day off today!"
+  }
+ },
+ "hurtig": {
+  "file": "h.json",
+  "explanation": "\"Hurtig\" means \"fast\" or \"quick\" and describes anything that moves or happens quickly, such as people, cars, answers and actions. To describe how a person performs an action, use \"hurtigt\" (quickly): \"Han løber hurtigt\" (He runs fast).",
+  "forms": [
+   {
+    "da": "en hurtig bil",
+    "en": "a fast car"
+   },
+   {
+    "da": "et hurtigt svar",
+    "en": "a quick answer"
+   },
+   {
+    "da": "hurtige biler",
+    "en": "fast cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "langsom",
+    "en": "slow"
+   },
+   {
+    "da": "at skynde sig",
+    "en": "to hurry"
+   },
+   {
+    "da": "hastig",
+    "en": "hasty"
+   }
+  ],
+  "sentence": {
+   "da": "Racerbilen er meget **hurtig**.",
+   "en": "The race car is very fast."
+  }
+ },
+ "husarbejde": {
+  "file": "h.json",
+  "explanation": "\"Husarbejde\" means \"housework\", the jobs you do to keep a home in order. The word \"arbejde\" (work) also means a job: \"Jeg har et nyt arbejde\" (I have a new job).",
+  "forms": [
+   {
+    "da": "husarbejde",
+    "en": "housework"
+   },
+   {
+    "da": "husarbejdet",
+    "en": "the housework"
+   },
+   {
+    "da": "meget husarbejde",
+    "en": "a lot of housework"
+   }
+  ],
+  "related": [
+   {
+    "da": "rengøring",
+    "en": "cleaning"
+   },
+   {
+    "da": "at gøre rent",
+    "en": "to clean"
+   },
+   {
+    "da": "at rydde op",
+    "en": "to tidy up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg hader **husarbejde**, men jeg gør rent hver lørdag.",
+   "en": "I hate housework, but I clean every Saturday."
+  }
+ },
+ "husholdningsfilm": {
+  "file": "h.json",
+  "explanation": "\"Husholdningsfilm\" means \"plastic wrap\", thin transparent plastic that you wrap around food or a bowl to keep it fresh. It is built from husholdning (household) and \"film\", which here means a thin sheet and not a movie.",
+  "forms": [
+   {
+    "da": "en rulle husholdningsfilm",
+    "en": "a roll of plastic wrap"
+   },
+   {
+    "da": "at pakke ind i husholdningsfilm",
+    "en": "to wrap in plastic wrap"
+   },
+   {
+    "da": "husholdningsfilmen",
+    "en": "the plastic wrap"
+   }
+  ],
+  "related": [
+   {
+    "da": "alufolie",
+    "en": "aluminum foil"
+   },
+   {
+    "da": "bagepapir",
+    "en": "baking paper"
+   },
+   {
+    "da": "en fryseboks",
+    "en": "a freezer container"
+   },
+   {
+    "da": "en plastikpose",
+    "en": "a plastic bag"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg dækker skålen med **husholdningsfilm** og sætter den i køleskabet.",
+   "en": "I cover the bowl with plastic wrap and put it in the refrigerator."
+  }
+ },
+ "husleje": {
+  "file": "h.json",
+  "explanation": "\"En husleje\" means \"rent\", the money you pay each month to live in a home. The verb for renting is \"at leje\": \"at leje en bil\" (to rent a car).",
+  "forms": [
+   {
+    "da": "en husleje",
+    "en": "rent"
+   },
+   {
+    "da": "huslejen",
+    "en": "the rent"
+   },
+   {
+    "da": "huslejer",
+    "en": "rents"
+   },
+   {
+    "da": "huslejerne",
+    "en": "the rents"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lejlighed",
+    "en": "an apartment"
+   },
+   {
+    "da": "en udlejer",
+    "en": "a landlord"
+   },
+   {
+    "da": "en lejer",
+    "en": "a tenant"
+   },
+   {
+    "da": "et depositum",
+    "en": "a deposit"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg betaler **husleje** den første hver måned.",
+   "en": "I pay rent on the first of every month."
+  }
+ },
+ "hvabehar": {
+  "file": "h.json",
+  "explanation": "\"Hvabehar\" means \"pardon?\" and asks someone to say it again. It is one word spoken fast, from \"hvad behager\" (what pleases). Said sharply, it can also show surprise, like \"What!\" in English.",
+  "forms": [
+   {
+    "da": "Hvabehar?",
+    "en": "Pardon?"
+   },
+   {
+    "da": "Hvabehar, hvad sagde du?",
+    "en": "Pardon, what did you say?"
+   },
+   {
+    "da": "Hvabehar! Er det sandt?",
+    "en": "What! Is it true?"
+   }
+  ],
+  "related": [
+   {
+    "da": "undskyld",
+    "en": "excuse me, sorry"
+   },
+   {
+    "da": "kan du gentage",
+    "en": "can you repeat"
+   },
+   {
+    "da": "hvad for noget",
+    "en": "what (did you say)?"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvabehar**? Kan du sige det igen?",
+   "en": "Pardon? Can you say it again?"
+  }
+ },
+ "hvad": {
+  "file": "h.json",
+  "explanation": "\"Hvad\" means \"what\" and asks about a thing: \"Hvad er det?\" (What is that?). For a person, use \"hvem\" (who): \"Hvem er det?\" (Who is that?). Said alone, \"Hvad?\" means \"Pardon?\", but it can sound blunt, so \"Undskyld?\" (Excuse me?) is more polite.",
+  "forms": [
+   {
+    "da": "Hvad er det?",
+    "en": "What is that?"
+   },
+   {
+    "da": "Hvad hedder du?",
+    "en": "What is your name?"
+   },
+   {
+    "da": "Hvad laver du?",
+    "en": "What are you doing?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvilken",
+    "en": "which"
+   },
+   {
+    "da": "hvorfor",
+    "en": "why"
+   },
+   {
+    "da": "hvordan",
+    "en": "how"
+   },
+   {
+    "da": "hvor",
+    "en": "where"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvad** hedder du?",
+   "en": "What is your name?"
+  }
+ },
+ "hvad betyder det?": {
+  "file": "h.json",
+  "explanation": "\"Hvad betyder det?\" means \"What does that mean?\" To ask about a particular word, say it after \"betyder\" (means): \"Hvad betyder hej?\" (What does \"hej\" mean?).",
+  "forms": [
+   {
+    "da": "Hvad betyder det?",
+    "en": "What does that mean?"
+   },
+   {
+    "da": "Hvad betyder ordet?",
+    "en": "What does the word mean?"
+   },
+   {
+    "da": "Hvad betyder \"hej\"?",
+    "en": "What does \"hej\" mean?"
+   }
+  ],
+  "related": [
+   {
+    "da": "at betyde",
+    "en": "to mean"
+   },
+   {
+    "da": "en betydning",
+    "en": "a meaning"
+   },
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg forstår ikke ordet. **Hvad betyder det?**",
+   "en": "I don't understand the word. What does that mean?"
+  }
+ },
+ "hvad er klokken?": {
+  "file": "h.json",
+  "explanation": "\"Hvad er klokken?\" means \"What time is it?\" Literally, it asks what the clock is, because \"klokken\" means \"the clock\". You answer with \"klokken er\" (it is … o'clock) plus the time. A polite alternative is \"ved du, hvad klokken er?\" (do you know what time it is?).",
+  "forms": [
+   {
+    "da": "Hvad er klokken?",
+    "en": "What time is it?"
+   },
+   {
+    "da": "Klokken er fem.",
+    "en": "It's five o'clock."
+   },
+   {
+    "da": "Hvad er klokken nu?",
+    "en": "What time is it now?"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klokke",
+    "en": "a clock"
+   },
+   {
+    "da": "et ur",
+    "en": "a watch / clock"
+   },
+   {
+    "da": "et klokkeslæt",
+    "en": "a time of day"
+   }
+  ],
+  "sentence": {
+   "da": "Undskyld, **hvad er klokken?**",
+   "en": "Excuse me, what time is it?"
+  }
+ },
+ "hvad hedder det på dansk?": {
+  "file": "h.json",
+  "explanation": "\"Hvad hedder det på dansk?\" means \"What is that called in Danish?\". \"Hedder\" means \"is called\", the same word used for names: \"jeg hedder Anna\" (my name is Anna).",
+  "forms": [
+   {
+    "da": "Hvad hedder det på dansk?",
+    "en": "What is that called in Danish?"
+   },
+   {
+    "da": "Hvad hedder det på engelsk?",
+    "en": "What is that called in English?"
+   },
+   {
+    "da": "Det hedder en bog.",
+    "en": "It is called a book."
+   }
+  ],
+  "related": [
+   {
+    "da": "at hedde",
+    "en": "to be called"
+   },
+   {
+    "da": "hvad hedder du?",
+    "en": "what is your name?"
+   },
+   {
+    "da": "hvad betyder det?",
+    "en": "what does that mean?"
+   }
+  ],
+  "sentence": {
+   "da": "Undskyld, **hvad hedder det på dansk?**",
+   "en": "Excuse me, what is that called in Danish?"
+  }
+ },
+ "hvad hedder du?": {
+  "file": "h.json",
+  "explanation": "\"Hvad hedder du?\" means \"What's your name?\" Literally, it asks what you are called. The answer uses the same verb, \"hedder\" (am called).",
+  "forms": [
+   {
+    "da": "Hvad hedder du?",
+    "en": "What's your name?"
+   },
+   {
+    "da": "Hvad hedder han?",
+    "en": "What is his name?"
+   },
+   {
+    "da": "Og hvad hedder du?",
+    "en": "And what is your name?"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hedde",
+    "en": "to be called"
+   },
+   {
+    "da": "et navn",
+    "en": "a name"
+   },
+   {
+    "da": "et efternavn",
+    "en": "a last name"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvad hedder du?** - Jeg hedder Anna.",
+   "en": "What's your name? - My name is Anna."
+  }
+ },
+ "hvad koster det?": {
+  "file": "h.json",
+  "explanation": "\"Hvad koster det?\" means \"How much does it cost?\" Use \"det\" (it) for et-words like \"et hus\" (a house) and \"den\" (it) for en-words like \"en bog\" (a book): \"Hvad koster den?\" (How much does it cost?). For several things, say \"Hvad koster de?\" (How much are they?).",
+  "forms": [
+   {
+    "da": "Hvad koster det?",
+    "en": "How much does it cost?"
+   },
+   {
+    "da": "Hvad koster den?",
+    "en": "How much is it? (en-word)"
+   },
+   {
+    "da": "Det koster halvtreds kroner.",
+    "en": "It costs fifty kroner."
+   }
+  ],
+  "related": [
+   {
+    "da": "at koste",
+    "en": "to cost"
+   },
+   {
+    "da": "en pris",
+    "en": "a price"
+   },
+   {
+    "da": "billig",
+    "en": "cheap"
+   },
+   {
+    "da": "dyr",
+    "en": "expensive"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvad koster det?** Jeg vil gerne købe det.",
+   "en": "How much does it cost? I'd like to buy it."
+  }
+ },
+ "hvad laver du?": {
+  "file": "h.json",
+  "explanation": "\"Hvad laver du?\" means \"What are you doing?\" and can mean right now or what you usually do. To ask about someone's job, \"hvad arbejder du med?\" (what do you work with?) is clearer. With several people, say \"hvad laver I?\" (what are you all doing?).",
+  "forms": [
+   {
+    "da": "Hvad laver du?",
+    "en": "What are you doing?"
+   },
+   {
+    "da": "Hvad laver du i weekenden?",
+    "en": "What are you doing on the weekend?"
+   },
+   {
+    "da": "Ikke noget særligt.",
+    "en": "Nothing special."
+   }
+  ],
+  "related": [
+   {
+    "da": "at lave",
+    "en": "to do, to make"
+   },
+   {
+    "da": "hvad skal du lave?",
+    "en": "what are you going to do?"
+   },
+   {
+    "da": "hvad lavede du?",
+    "en": "what did you do?"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvad laver du** i aften?",
+   "en": "What are you doing tonight?"
+  }
+ },
+ "hvad med dig?": {
+  "file": "h.json",
+  "explanation": "\"Hvad med dig?\" means \"What about you?\" and turns a question back to the other person. For several people, \"jer\" (you all) replaces \"dig\" (you). To ask about a third person, use the name: \"Hvad med Anna?\" (What about Anna?).",
+  "forms": [
+   {
+    "da": "Hvad med dig?",
+    "en": "What about you?"
+   },
+   {
+    "da": "Hvad med jer?",
+    "en": "What about you (all)?"
+   },
+   {
+    "da": "Og hvad med ham?",
+    "en": "And what about him?"
+   }
+  ],
+  "related": [
+   {
+    "da": "og dig?",
+    "en": "and you?"
+   },
+   {
+    "da": "hvad med i morgen?",
+    "en": "what about tomorrow?"
+   },
+   {
+    "da": "hvad med mig?",
+    "en": "what about me?"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har det godt. **Hvad med dig?**",
+   "en": "I'm doing well. What about you?"
+  }
+ },
+ "hvad som helst": {
+  "file": "h.json",
+  "explanation": "\"Hvad som helst\" means \"anything\", with no limit. For people, use \"hvem som helst\" (anyone).",
+  "forms": [
+   {
+    "da": "Du kan vælge hvad som helst.",
+    "en": "You can choose anything."
+   },
+   {
+    "da": "Jeg tager hvad som helst.",
+    "en": "I will take anything."
+   }
+  ],
+  "related": [
+   {
+    "da": "hvor som helst",
+    "en": "anywhere"
+   },
+   {
+    "da": "når som helst",
+    "en": "anytime"
+   },
+   {
+    "da": "alt",
+    "en": "everything"
+   },
+   {
+    "da": "ingenting",
+    "en": "nothing"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er sulten og spiser **hvad som helst**.",
+   "en": "I am hungry and will eat anything."
+  }
+ },
+ "hvad så?": {
+  "file": "h.json",
+  "explanation": "\"Hvad så?\" means \"what's up?\" (literally, \"what then?\"). It is a casual greeting you use with friends and people you know well, instead of \"hvordan har du det?\" (how are you?).",
+  "forms": [
+   {
+    "da": "Hvad så?",
+    "en": "What's up?"
+   },
+   {
+    "da": "Hej, hvad så?",
+    "en": "Hi, what's up?"
+   },
+   {
+    "da": "Ikke så meget.",
+    "en": "Not much."
+   }
+  ],
+  "related": [
+   {
+    "da": "hvordan går det?",
+    "en": "how is it going?"
+   },
+   {
+    "da": "hvad nyt?",
+    "en": "what's new?"
+   },
+   {
+    "da": "hvad sker der?",
+    "en": "what's happening?"
+   }
+  ],
+  "sentence": {
+   "da": "Hej Anna, **hvad så?**",
+   "en": "Hi Anna, what's up?"
+  }
+ },
+ "hvede": {
+  "file": "h.json",
+  "explanation": "\"Hvede\" means \"wheat\", the grain that white bread, pasta and most cakes are made from. Dark bread is made from \"rug\" (rye) instead: \"rugbrød\" (rye bread).",
+  "forms": [
+   {
+    "da": "et felt med hvede",
+    "en": "a field of wheat"
+   },
+   {
+    "da": "mel af hvede",
+    "en": "flour made from wheat"
+   },
+   {
+    "da": "hvedemel",
+    "en": "wheat flour"
+   }
+  ],
+  "related": [
+   {
+    "da": "byg",
+    "en": "barley"
+   },
+   {
+    "da": "havre",
+    "en": "oats"
+   },
+   {
+    "da": "majs",
+    "en": "corn"
+   },
+   {
+    "da": "ris",
+    "en": "rice"
+   }
+  ],
+  "sentence": {
+   "da": "Af **hvede** laver man mel, og af mel bager man brød.",
+   "en": "From wheat you make flour, and from flour you bake bread."
+  }
+ },
+ "hvedemel": {
+  "file": "h.json",
+  "explanation": "\"Hvedemel\" means \"wheat flour\", the flour used for most baking. It is built from hvede (wheat) and mel (flour), and \"hvede\" also appears in \"hvedebrød\" (wheat bread).",
+  "forms": [
+   {
+    "da": "hvedemel",
+    "en": "wheat flour"
+   },
+   {
+    "da": "hvedemelet",
+    "en": "the wheat flour"
+   },
+   {
+    "da": "noget hvedemel",
+    "en": "some wheat flour"
+   }
+  ],
+  "related": [
+   {
+    "da": "rugmel",
+    "en": "rye flour"
+   },
+   {
+    "da": "fuldkornsmel",
+    "en": "whole-grain flour"
+   },
+   {
+    "da": "havremel",
+    "en": "oat flour"
+   },
+   {
+    "da": "majsmel",
+    "en": "corn flour"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bager boller med **hvedemel** og vand.",
+   "en": "I bake buns with wheat flour and water."
+  }
+ },
+ "hvem": {
+  "file": "h.json",
+  "explanation": "\"Hvem\" means \"who\" and asks about a person. English has two forms, \"who\" and \"whom\", but Danish uses \"hvem\" in both cases: \"Hvem taler?\" (Who is speaking?) and \"Hvem taler du med?\" (To whom are you speaking?). For a thing, use \"hvad\" (what): \"Hvad spiser du?\" (What are you eating?).",
+  "forms": [
+   {
+    "da": "Hvem er det?",
+    "en": "Who is that?"
+   },
+   {
+    "da": "Hvem er du?",
+    "en": "Who are you?"
+   },
+   {
+    "da": "Hvem har gjort det?",
+    "en": "Who has done it?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvilken",
+    "en": "which"
+   },
+   {
+    "da": "hvor",
+    "en": "where"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvem** er din lærer?",
+   "en": "Who is your teacher?"
+  }
+ },
+ "hvem som helst": {
+  "file": "h.json",
+  "explanation": "\"Hvem som helst\" means \"anyone\" and is about people. For things, use \"hvad som helst\" (anything).",
+  "forms": [
+   {
+    "da": "Hvem som helst kan være med.",
+    "en": "Anyone can join."
+   },
+   {
+    "da": "Spørg hvem som helst.",
+    "en": "Ask anyone."
+   }
+  ],
+  "related": [
+   {
+    "da": "nogen",
+    "en": "someone"
+   },
+   {
+    "da": "alle",
+    "en": "everyone"
+   },
+   {
+    "da": "ingen",
+    "en": "no one"
+   },
+   {
+    "da": "enhver",
+    "en": "anybody"
+   }
+  ],
+  "sentence": {
+   "da": "I dag kan **hvem som helst** lære at svømme.",
+   "en": "Today anyone can learn to swim."
+  }
+ },
+ "hver": {
+  "file": "h.json",
+  "explanation": "\"Hver\" means \"each\" or \"every\" and goes with en-words: \"hver dag\" (every day). With et-words it becomes \"hvert\": \"hvert år\" (every year).",
+  "forms": [
+   {
+    "da": "hver dag",
+    "en": "every day"
+   },
+   {
+    "da": "hver uge",
+    "en": "every week"
+   },
+   {
+    "da": "hver for sig",
+    "en": "each on their own"
+   }
+  ],
+  "related": [
+   {
+    "da": "hver gang",
+    "en": "every time"
+   },
+   {
+    "da": "hver anden",
+    "en": "every other"
+   },
+   {
+    "da": "enhver",
+    "en": "everyone"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg løber **hver** morgen.",
+   "en": "I run every morning."
+  }
+ },
+ "hver dag": {
+  "file": "h.json",
+  "explanation": "\"Hver dag\" means \"every day\". \"Hver\" (each, every) goes with en-words like \"dag\" (day); with et-words it becomes \"hvert\", as in \"hvert år\" (every year).",
+  "forms": [
+   {
+    "da": "næsten hver dag",
+    "en": "almost every day"
+   },
+   {
+    "da": "Jeg træner hver dag.",
+    "en": "I work out every day."
+   },
+   {
+    "da": "hver uge",
+    "en": "every week"
+   }
+  ],
+  "related": [
+   {
+    "da": "hver morgen",
+    "en": "every morning"
+   },
+   {
+    "da": "hver gang",
+    "en": "every time"
+   },
+   {
+    "da": "hver anden dag",
+    "en": "every other day"
+   },
+   {
+    "da": "hver måned",
+    "en": "every month"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg drikker kaffe **hver dag**.",
+   "en": "I drink coffee every day."
+  }
+ },
+ "hverken": {
+  "file": "h.json",
+  "explanation": "\"Hverken\" means \"neither\" and always works with \"eller\" (or) as a pair: \"hverken A eller B\" (neither A nor B).",
+  "forms": [
+   {
+    "da": "hverken kaffe eller te",
+    "en": "neither coffee nor tea"
+   },
+   {
+    "da": "hverken i dag eller i morgen",
+    "en": "neither today nor tomorrow"
+   },
+   {
+    "da": "hverken du eller jeg",
+    "en": "neither you nor I"
+   }
+  ],
+  "related": [
+   {
+    "da": "enten",
+    "en": "either"
+   },
+   {
+    "da": "ingen",
+    "en": "no / none"
+   },
+   {
+    "da": "ingenting",
+    "en": "nothing"
+   },
+   {
+    "da": "aldrig",
+    "en": "never"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **hverken** have kaffe eller te.",
+   "en": "I want neither coffee nor tea."
+  }
+ },
+ "hverken…eller": {
+  "file": "h.json",
+  "explanation": "\"Hverken…eller\" means \"neither…nor\" and joins two things in a no: \"Jeg har hverken tid eller penge\" (I have neither time nor money). Do not add \"ikke\" (not), because \"hverken\" already makes it a no.",
+  "forms": [
+   {
+    "da": "hverken kaffe eller te",
+    "en": "neither coffee nor tea"
+   },
+   {
+    "da": "hverken i dag eller i morgen",
+    "en": "neither today nor tomorrow"
+   },
+   {
+    "da": "hverken ung eller gammel",
+    "en": "neither young nor old"
+   }
+  ],
+  "related": [
+   {
+    "da": "enten…eller",
+    "en": "either…or"
+   },
+   {
+    "da": "både…og",
+    "en": "both…and"
+   },
+   {
+    "da": "ingen",
+    "en": "no one"
+   },
+   {
+    "da": "intet",
+    "en": "nothing"
+   }
+  ],
+  "sentence": {
+   "da": "Kaffe eller te? **Hverken…eller**, tak. Jeg tager vand.",
+   "en": "Coffee or tea? Neither, thanks. I will have water."
+  }
+ },
+ "hvert": {
+  "file": "h.json",
+  "explanation": "\"Hvert\" means \"each\" or \"every\" and goes before et-words. Before en-words, use \"hver\" instead: \"hver dag\" (every day), \"hver bil\" (each car).",
+  "forms": [
+   {
+    "da": "hvert år",
+    "en": "every year"
+   },
+   {
+    "da": "hvert hus",
+    "en": "each house"
+   },
+   {
+    "da": "hvert barn",
+    "en": "each child"
+   }
+  ],
+  "related": [
+   {
+    "da": "alle",
+    "en": "all"
+   },
+   {
+    "da": "hver anden",
+    "en": "every other"
+   },
+   {
+    "da": "ethvert",
+    "en": "every (et-word)"
+   }
+  ],
+  "sentence": {
+   "da": "Vi rejser **hvert** år til Sverige.",
+   "en": "We travel to Sweden every year."
+  }
+ },
+ "hvid": {
+  "file": "h.json",
+  "explanation": "\"Hvid\" means \"white\". The \"h\" at the start is silent, so the word starts with a \"v\" sound.",
+  "forms": [
+   {
+    "da": "en hvid bil",
+    "en": "a white car"
+   },
+   {
+    "da": "et hvidt hus",
+    "en": "a white house"
+   },
+   {
+    "da": "hvide biler",
+    "en": "white cars"
+   }
+  ],
+  "related": [
+   {
+    "da": "sort",
+    "en": "black"
+   },
+   {
+    "da": "grå",
+    "en": "gray"
+   },
+   {
+    "da": "hvidvin",
+    "en": "white wine"
+   }
+  ],
+  "sentence": {
+   "da": "Sneen er kold og **hvid**.",
+   "en": "The snow is cold and white."
+  }
+ },
+ "hvidløg": {
+  "file": "h.json",
+  "explanation": "\"Hvidløg\" means \"garlic\". It is made of hvid (white) and løg (onion), so it is literally white onion. Garlic is counted in cloves (\"fed\"): \"to fed hvidløg\" (two cloves of garlic).",
+  "forms": [
+   {
+    "da": "hvidløg",
+    "en": "garlic"
+   },
+   {
+    "da": "hvidløget",
+    "en": "the garlic"
+   },
+   {
+    "da": "et fed hvidløg",
+    "en": "a clove of garlic"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hvidløgspresser",
+    "en": "a garlic press"
+   },
+   {
+    "da": "et rødløg",
+    "en": "a red onion"
+   },
+   {
+    "da": "et forårsløg",
+    "en": "a spring onion"
+   },
+   {
+    "da": "hvidløgsbrød",
+    "en": "garlic bread"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvidløg** er hvidt og lugter stærkt.",
+   "en": "Garlic is white and smells strong."
+  }
+ },
+ "hvilke": {
+  "file": "h.json",
+  "explanation": "\"Hvilke\" means \"which\" when you ask about more than one thing. For one thing, use \"hvilken\" (en-words) or \"hvilket\" (et-words): \"hvilken bil\" (which car), \"hvilket hus\" (which house).",
+  "forms": [
+   {
+    "da": "Hvilke film kan du lide?",
+    "en": "Which movies do you like?"
+   },
+   {
+    "da": "Hvilke dage passer dig?",
+    "en": "Which days suit you?"
+   },
+   {
+    "da": "Hvilke børn er dine?",
+    "en": "Which children are yours?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvad",
+    "en": "what"
+   },
+   {
+    "da": "hvem",
+    "en": "who"
+   },
+   {
+    "da": "hvor mange",
+    "en": "how many"
+   },
+   {
+    "da": "hvorfor",
+    "en": "why"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvilke** sko vil du have?",
+   "en": "Which shoes do you want?"
+  }
+ },
+ "hvilken": {
+  "file": "h.json",
+  "explanation": "\"Hvilken\" means \"which\" and goes before the word you are asking about: \"Hvilken bil vil du have?\" (Which car do you want?). For et-words, use \"hvilket\". When no word follows, use \"hvad\" (what): \"Hvad vil du have?\" (What do you want?)",
+  "forms": [
+   {
+    "da": "Hvilken bil?",
+    "en": "Which car?"
+   },
+   {
+    "da": "Hvilket hus?",
+    "en": "Which house?"
+   },
+   {
+    "da": "Hvilke bøger?",
+    "en": "Which books?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvem",
+    "en": "who"
+   },
+   {
+    "da": "hvordan",
+    "en": "how"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvilken** farve kan du bedst lide?",
+   "en": "Which color do you like best?"
+  }
+ },
+ "hvilket": {
+  "file": "h.json",
+  "explanation": "\"Hvilket\" means \"which\" and is used with et-words. With en-words, use \"hvilken\" (which): \"Hvilken bil?\" (Which car?).",
+  "forms": [
+   {
+    "da": "Hvilket år er det?",
+    "en": "What year is it?"
+   },
+   {
+    "da": "Hvilket sprog taler du?",
+    "en": "Which language do you speak?"
+   },
+   {
+    "da": "Hvilket værelse vil du have?",
+    "en": "Which room do you want?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvilke",
+    "en": "which (more than one)"
+   },
+   {
+    "da": "hvad",
+    "en": "what"
+   },
+   {
+    "da": "hvem",
+    "en": "who"
+   },
+   {
+    "da": "hvor",
+    "en": "where"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvilket** hus er dit?",
+   "en": "Which house is yours?"
+  }
+ },
+ "hvis": {
+  "file": "h.json",
+  "explanation": "\"Hvis\" means \"if\". Do not mix it up with \"om\" (whether), as in \"Jeg ved ikke, om han kommer\" (I do not know whether he is coming).",
+  "forms": [
+   {
+    "da": "hvis det regner",
+    "en": "if it rains"
+   },
+   {
+    "da": "hvis du vil",
+    "en": "if you want"
+   },
+   {
+    "da": "hvis ikke",
+    "en": "if not"
+   }
+  ],
+  "related": [
+   {
+    "da": "når",
+    "en": "when"
+   },
+   {
+    "da": "medmindre",
+    "en": "unless"
+   },
+   {
+    "da": "selvom",
+    "en": "even though"
+   },
+   {
+    "da": "ellers",
+    "en": "otherwise"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bliver hjemme, **hvis** det regner.",
+   "en": "I stay home if it rains."
+  }
+ },
+ "hvis jeg var dig": {
+  "file": "h.json",
+  "explanation": "\"Hvis jeg var dig\" means \"if I were you\" and opens a piece of advice: \"Hvis jeg var dig, ville jeg ringe til ham\" (If I were you, I would call him). Danish uses \"var\" (was) here, where English uses \"were\".",
+  "forms": [
+   {
+    "da": "Hvis jeg var dig, ville jeg vente.",
+    "en": "If I were you, I would wait."
+   },
+   {
+    "da": "hvis jeg var rig",
+    "en": "if I were rich"
+   },
+   {
+    "da": "hvis hun var her",
+    "en": "if she were here"
+   }
+  ],
+  "related": [
+   {
+    "da": "et råd",
+    "en": "advice"
+   },
+   {
+    "da": "at foreslå",
+    "en": "to suggest"
+   },
+   {
+    "da": "hvis det var mig",
+    "en": "if it were me"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvis jeg var dig**, ville jeg blive hjemme.",
+   "en": "If I were you, I would stay home."
+  }
+ },
+ "hvor": {
+  "file": "h.json",
+  "explanation": "\"Hvor\" means \"where\". Before a word that describes, it means \"how\": \"hvor gammel\" (how old), \"hvor meget\" (how much), \"hvor mange\" (how many).",
+  "forms": [
+   {
+    "da": "Hvor er du?",
+    "en": "Where are you?"
+   },
+   {
+    "da": "Hvor bor du?",
+    "en": "Where do you live?"
+   },
+   {
+    "da": "Hvor er toilettet?",
+    "en": "Where is the toilet?"
+   }
+  ],
+  "related": [
+   {
+    "da": "her",
+    "en": "here"
+   },
+   {
+    "da": "der",
+    "en": "there"
+   },
+   {
+    "da": "hvorfra",
+    "en": "from where"
+   },
+   {
+    "da": "hvordan",
+    "en": "how"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvor** er stationen?",
+   "en": "Where is the station?"
+  }
+ },
+ "hvor er toilettet?": {
+  "file": "h.json",
+  "explanation": "\"Hvor er toilettet?\" means \"Where is the restroom?\" It is made of hvor (where), er (is) and toilettet (the toilet). The ending \"-et\" on \"toilettet\" means \"the\".",
+  "forms": [
+   {
+    "da": "Hvor er toilettet?",
+    "en": "Where is the restroom?"
+   },
+   {
+    "da": "Hvor er toilettet henne?",
+    "en": "Where is the restroom, exactly?"
+   },
+   {
+    "da": "Det er derovre.",
+    "en": "It is over there."
+   }
+  ],
+  "related": [
+   {
+    "da": "hvor er stationen?",
+    "en": "where is the station?"
+   },
+   {
+    "da": "et badeværelse",
+    "en": "a bathroom"
+   },
+   {
+    "da": "hvor er udgangen?",
+    "en": "where is the exit?"
+   }
+  ],
+  "sentence": {
+   "da": "Undskyld, **hvor er toilettet?**",
+   "en": "Excuse me, where is the restroom?"
+  }
+ },
+ "hvor gammel er du?": {
+  "file": "h.json",
+  "explanation": "\"Hvor gammel er du?\" means \"How old are you?\" It is made of hvor (how), gammel (old), er (is) and du (you). In the answer, you can leave out \"gammel\" (old): \"Jeg er tyve år\" (I am twenty years old).",
+  "forms": [
+   {
+    "da": "Hvor gammel er du?",
+    "en": "How old are you?"
+   },
+   {
+    "da": "Jeg er tredive år gammel.",
+    "en": "I am thirty years old."
+   },
+   {
+    "da": "Hvor gammel er han?",
+    "en": "How old is he?"
+   }
+  ],
+  "related": [
+   {
+    "da": "ung",
+    "en": "young"
+   },
+   {
+    "da": "en alder",
+    "en": "an age"
+   },
+   {
+    "da": "hvor høj er du?",
+    "en": "how tall are you?"
+   }
+  ],
+  "sentence": {
+   "da": "Anna, **hvor gammel er du?**",
+   "en": "Anna, how old are you?"
+  }
+ },
+ "hvor kommer du fra?": {
+  "file": "h.json",
+  "explanation": "\"Hvor kommer du fra?\" means \"Where are you from?\" Literally, it is \"Where do you come from?\" You answer \"Jeg kommer fra England\" (I come from England). As in English, \"fra\" (from) goes at the end of the question.",
+  "forms": [
+   {
+    "da": "Hvor kommer du fra?",
+    "en": "Where are you from?"
+   },
+   {
+    "da": "Hvor kommer han fra?",
+    "en": "Where does he come from?"
+   },
+   {
+    "da": "Hvor kommer I fra?",
+    "en": "Where do you all come from?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvor bor du?",
+    "en": "where do you live?"
+   },
+   {
+    "da": "hvor er du fra?",
+    "en": "where are you from?"
+   },
+   {
+    "da": "at komme",
+    "en": "to come"
+   }
+  ],
+  "sentence": {
+   "da": "Hej, **hvor kommer du fra?**",
+   "en": "Hi, where are you from?"
+  }
+ },
+ "hvor meget koster det?": {
+  "file": "h.json",
+  "explanation": "\"Hvor meget koster det?\" means \"How much does it cost?\" Word by word, it is \"how much costs it\". \"Hvor meget\" (how much) works with other verbs too: \"Hvor meget vejer det?\" (How much does it weigh?)",
+  "forms": [
+   {
+    "da": "Hvor meget koster det?",
+    "en": "How much does it cost?"
+   },
+   {
+    "da": "Hvor meget koster den?",
+    "en": "How much does it cost? (for an en-word thing)"
+   },
+   {
+    "da": "Hvor meget koster de?",
+    "en": "How much do they cost?"
+   }
+  ],
+  "related": [
+   {
+    "da": "at koste",
+    "en": "to cost"
+   },
+   {
+    "da": "en pris",
+    "en": "a price"
+   },
+   {
+    "da": "hvad koster det?",
+    "en": "what does it cost?"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil købe brødet. **Hvor meget koster det?**",
+   "en": "I want to buy the bread. How much does it cost?"
+  }
+ },
+ "hvor som helst": {
+  "file": "h.json",
+  "explanation": "\"Hvor som helst\" means \"anywhere\", with no limit on the place. \"Som helst\" (no matter which) can follow other question words too: \"hvem som helst\" (anyone), \"hvad som helst\" (anything), \"hvornår som helst\" (any time).",
+  "forms": [
+   {
+    "da": "Du kan bo hvor som helst.",
+    "en": "You can live anywhere."
+   },
+   {
+    "da": "Jeg sover hvor som helst.",
+    "en": "I sleep anywhere."
+   }
+  ],
+  "related": [
+   {
+    "da": "overalt",
+    "en": "everywhere"
+   },
+   {
+    "da": "ingen steder",
+    "en": "nowhere"
+   },
+   {
+    "da": "et eller andet sted",
+    "en": "somewhere"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan sidde **hvor som helst** i rummet.",
+   "en": "You can sit anywhere in the room."
+  }
+ },
+ "hvordan": {
+  "file": "h.json",
+  "explanation": "\"Hvordan\" means \"how\" and asks in what way something is done. Before a word like old, much or many, Danish uses \"hvor\" instead: \"Hvor gammel er du?\" (How old are you?), \"Hvor mange børn har du?\" (How many children do you have?).",
+  "forms": [
+   {
+    "da": "Hvordan har du det?",
+    "en": "How are you?"
+   },
+   {
+    "da": "Hvordan gør man det?",
+    "en": "How do you do that?"
+   },
+   {
+    "da": "Hvordan staver man det?",
+    "en": "How do you spell that?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvorfor",
+    "en": "why"
+   },
+   {
+    "da": "hvad",
+    "en": "what"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvordan** kommer jeg til stationen?",
+   "en": "How do I get to the station?"
+  }
+ },
+ "hvordan går det?": {
+  "file": "h.json",
+  "explanation": "\"Hvordan går det?\" means \"How's it going?\" One answer is \"Det går godt, tak\" (It's going well, thanks), and you can ask back with \"og dig?\" (and you?).",
+  "forms": [
+   {
+    "da": "Hvordan går det?",
+    "en": "How's it going?"
+   },
+   {
+    "da": "Hvordan går det med dig?",
+    "en": "How are you doing?"
+   },
+   {
+    "da": "Det går fint, tak.",
+    "en": "It's going fine, thanks."
+   }
+  ],
+  "related": [
+   {
+    "da": "hvordan har du det?",
+    "en": "how are you?"
+   },
+   {
+    "da": "det går ok",
+    "en": "it's going OK"
+   },
+   {
+    "da": "hvad så?",
+    "en": "what's up?"
+   }
+  ],
+  "sentence": {
+   "da": "Hej Anna, **hvordan går det?**",
+   "en": "Hi Anna, how's it going?"
+  }
+ },
+ "hvordan har du det?": {
+  "file": "h.json",
+  "explanation": "\"Hvordan har du det?\" means \"How are you?\" Literally, it is \"how have you it\". Answer with \"Jeg har det godt\" (I'm doing well) or \"Fint, tak\" (Fine, thanks).",
+  "forms": [
+   {
+    "da": "Hvordan har du det?",
+    "en": "How are you?"
+   },
+   {
+    "da": "Hvordan har I det?",
+    "en": "How are you (all)?"
+   },
+   {
+    "da": "Hvordan går det?",
+    "en": "How is it going?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvad så?",
+    "en": "what's up?"
+   },
+   {
+    "da": "hvad nyt?",
+    "en": "what's new?"
+   },
+   {
+    "da": "alt vel?",
+    "en": "all well?"
+   }
+  ],
+  "sentence": {
+   "da": "Hej Peter! **Hvordan har du det?**",
+   "en": "Hi Peter! How are you?"
+  }
+ },
+ "hvorefter": {
+  "file": "h.json",
+  "explanation": "\"Hvorefter\" means \"after which\", joining two events so that the second follows right after the first. It is built from hvor (which) and efter (after). In casual talk, Danes often say \"og så\" (and then) instead.",
+  "forms": [
+   {
+    "da": "hvorefter han gik hjem",
+    "en": "after which he went home"
+   },
+   {
+    "da": "hvorefter hun ringede til mig",
+    "en": "after which she called me"
+   },
+   {
+    "da": "hvorefter det begyndte at regne",
+    "en": "after which it began to rain"
+   }
+  ],
+  "related": [
+   {
+    "da": "bagefter",
+    "en": "afterwards"
+   },
+   {
+    "da": "efterfølgende",
+    "en": "subsequently"
+   },
+   {
+    "da": "senere",
+    "en": "later"
+   },
+   {
+    "da": "før",
+    "en": "before"
+   }
+  ],
+  "sentence": {
+   "da": "Hun lukkede bogen, **hvorefter** hun slukkede lyset og sov.",
+   "en": "She closed the book, after which she turned off the light and slept."
+  }
+ },
+ "hvorfor": {
+  "file": "h.json",
+  "explanation": "\"Hvorfor\" means \"why\" and asks for a reason. The answer often starts with \"fordi\" (because): \"Hvorfor kommer du ikke? - Fordi jeg er syg.\" (Why aren't you coming? - Because I am sick.)",
+  "forms": [
+   {
+    "da": "Hvorfor ikke?",
+    "en": "Why not?"
+   },
+   {
+    "da": "Hvorfor er du træt?",
+    "en": "Why are you tired?"
+   },
+   {
+    "da": "Hvorfor gør du det?",
+    "en": "Why do you do that?"
+   }
+  ],
+  "related": [
+   {
+    "da": "derfor",
+    "en": "therefore"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   },
+   {
+    "da": "på grund af",
+    "en": "because of"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvorfor** er du så glad?",
+   "en": "Why are you so happy?"
+  }
+ },
+ "hvorfra": {
+  "file": "h.json",
+  "explanation": "\"Hvorfra\" means \"from where\" and asks about a starting point. To ask where someone is going, use \"hvorhen\" (where to): \"Hvorhen skal du?\" (Where are you going?).",
+  "forms": [
+   {
+    "da": "Hvorfra er du?",
+    "en": "Where are you from?"
+   },
+   {
+    "da": "Hvorfra ved du det?",
+    "en": "How do you know that?"
+   },
+   {
+    "da": "Hvorfra kommer bussen?",
+    "en": "Where does the bus come from?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvor",
+    "en": "where"
+   },
+   {
+    "da": "hvordan",
+    "en": "how"
+   },
+   {
+    "da": "hvorfor",
+    "en": "why"
+   },
+   {
+    "da": "hvornår",
+    "en": "when"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvorfra** kommer din ven?",
+   "en": "Where does your friend come from?"
+  }
+ },
+ "hvorimod": {
+  "file": "h.json",
+  "explanation": "\"Hvorimod\" means \"whereas\". It comes after a comma and starts the second of two statements that differ: \"Jeg drikker kaffe, hvorimod hun drikker te\" (I drink coffee, whereas she drinks tea). It is not used for time. For \"at the same time\", use \"mens\" (while): \"Jeg læser, mens du sover\" (I read while you sleep).",
+  "forms": [
+   {
+    "da": "hvorimod han spiser kød",
+    "en": "whereas he eats meat"
+   },
+   {
+    "da": "hvorimod det regner her",
+    "en": "whereas it rains here"
+   }
+  ],
+  "related": [
+   {
+    "da": "men",
+    "en": "but"
+   },
+   {
+    "da": "derimod",
+    "en": "by contrast"
+   },
+   {
+    "da": "til gengæld",
+    "en": "on the other hand"
+   },
+   {
+    "da": "imens",
+    "en": "meanwhile"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bor i byen, **hvorimod** min søster bor på landet.",
+   "en": "I live in the city, whereas my sister lives in the country."
+  }
+ },
+ "hvornår": {
+  "file": "h.json",
+  "explanation": "\"Hvornår\" means \"when\" in a question. In the middle of a sentence, use \"når\" (when): \"Jeg ringer, når jeg kommer hjem\" (I will call when I get home). For one finished event in the past, use \"da\" (when): \"Jeg var glad, da du kom\" (I was happy when you came).",
+  "forms": [
+   {
+    "da": "Hvornår kommer du?",
+    "en": "When are you coming?"
+   },
+   {
+    "da": "Hvornår åbner butikken?",
+    "en": "When does the store open?"
+   },
+   {
+    "da": "Fra hvornår?",
+    "en": "From when?"
+   }
+  ],
+  "related": [
+   {
+    "da": "hvordan",
+    "en": "how"
+   },
+   {
+    "da": "hvorfor",
+    "en": "why"
+   },
+   {
+    "da": "hvor",
+    "en": "where"
+   }
+  ],
+  "sentence": {
+   "da": "**Hvornår** åbner butikken?",
+   "en": "When does the store open?"
+  }
+ },
+ "hvorved": {
+  "file": "h.json",
+  "explanation": "\"Hvorved\" means \"whereby\" or \"by which\". You put it after a comma that follows a described action, to introduce the result of that action: \"Han trykkede på knappen, hvorved døren gik op\" (He pressed the button, whereby the door opened).",
+  "forms": [
+   {
+    "da": "hvorved han lærte meget",
+    "en": "whereby he learned a lot"
+   },
+   {
+    "da": "hvorved prisen steg",
+    "en": "whereby the price rose"
+   },
+   {
+    "da": "hvorved alt blev lettere",
+    "en": "whereby everything became easier"
+   }
+  ],
+  "related": [
+   {
+    "da": "derved",
+    "en": "thereby"
+   },
+   {
+    "da": "herved",
+    "en": "hereby (by this)"
+   },
+   {
+    "da": "hvormed",
+    "en": "with which"
+   },
+   {
+    "da": "hvortil",
+    "en": "to which"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skrev under, **hvorved** aftalen blev gyldig.",
+   "en": "She signed, whereby the agreement became valid."
+  }
+ },
+ "hvorvidt": {
+  "file": "h.json",
+  "explanation": "\"Hvorvidt\" means \"whether\". You see it in news and official texts, where everyday speech uses \"om\" (if): \"Jeg ved ikke, om han kommer\" (I do not know if he is coming).",
+  "forms": [
+   {
+    "da": "Jeg ved ikke, hvorvidt han kommer",
+    "en": "I do not know whether he is coming"
+   },
+   {
+    "da": "spørgsmålet er hvorvidt det er muligt",
+    "en": "the question is whether it is possible"
+   },
+   {
+    "da": "uanset hvorvidt vi vinder",
+    "en": "regardless of whether we win"
+   }
+  ],
+  "related": [
+   {
+    "da": "uanset",
+    "en": "regardless"
+   },
+   {
+    "da": "i tvivl",
+    "en": "in doubt"
+   },
+   {
+    "da": "hvorimod",
+    "en": "whereas"
+   },
+   {
+    "da": "hvorledes",
+    "en": "how"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet undersøger, **hvorvidt** manden har sagt sandheden.",
+   "en": "The police are investigating whether the man has told the truth."
+  }
+ },
+ "hygge": {
+  "file": "h.json",
+  "explanation": "\"Hygge\" means \"coziness\", the warm, relaxed feeling of being together with candles, food and good company.",
+  "forms": [
+   {
+    "da": "Vi har hygge hjemme",
+    "en": "We have a cozy time at home"
+   },
+   {
+    "da": "Tak for hyggen",
+    "en": "Thanks for the nice time"
+   },
+   {
+    "da": "en hyggelig aften",
+    "en": "a cozy evening"
+   }
+  ],
+  "related": [
+   {
+    "da": "hyggelig",
+    "en": "cozy / nice"
+   },
+   {
+    "da": "at hygge sig",
+    "en": "to have a cozy time"
+   },
+   {
+    "da": "mysig",
+    "en": "snug / cozy"
+   },
+   {
+    "da": "en stemning",
+    "en": "an atmosphere"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tænder lys og har **hygge** hjemme.",
+   "en": "We light candles and have a cozy time at home."
+  }
+ },
+ "hyggelig": {
+  "file": "h.json",
+  "explanation": "\"Hyggelig\" means \"cozy\", \"pleasant\" or \"nice\". It describes a place, an evening or a person: \"Han er hyggelig\" means \"He is nice to be around\". It comes from \"hygge\" (a warm, relaxed, cozy feeling).",
+  "forms": [
+   {
+    "da": "en hyggelig aften",
+    "en": "a cozy evening"
+   },
+   {
+    "da": "et hyggeligt sted",
+    "en": "a cozy place"
+   },
+   {
+    "da": "hyggelige aftener",
+    "en": "cozy evenings"
+   }
+  ],
+  "related": [
+   {
+    "da": "dejlig",
+    "en": "lovely"
+   },
+   {
+    "da": "rar",
+    "en": "nice"
+   },
+   {
+    "da": "kedelig",
+    "en": "boring"
+   },
+   {
+    "da": "venlig",
+    "en": "friendly"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en **hyggelig** aften.",
+   "en": "It was a cozy evening."
+  }
+ },
+ "hyggeligt at møde dig": {
+  "file": "h.json",
+  "explanation": "\"Hyggeligt at møde dig\" means \"nice to meet you\" (literally, \"cozy to meet you\"). Reply with \"i lige måde\" (likewise).",
+  "forms": [
+   {
+    "da": "Hyggeligt at møde dig.",
+    "en": "Nice to meet you."
+   },
+   {
+    "da": "I lige måde.",
+    "en": "Likewise."
+   },
+   {
+    "da": "Hyggeligt at se dig.",
+    "en": "Nice to see you."
+   }
+  ],
+  "related": [
+   {
+    "da": "hygge",
+    "en": "coziness"
+   },
+   {
+    "da": "hyggelig",
+    "en": "cozy / nice"
+   },
+   {
+    "da": "rart at møde dig",
+    "en": "pleased to meet you"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg hedder Maja. **Hyggeligt at møde dig.**",
+   "en": "I'm Maja. Nice to meet you."
+  }
+ },
+ "hyppig": {
+  "file": "h.json",
+  "explanation": "\"Hyppig\" means \"frequent\", happening many times. It also works for how something is done: \"Han besøger os hyppigt\" (He visits us frequently).",
+  "forms": [
+   {
+    "da": "en hyppig gæst",
+    "en": "a frequent guest"
+   },
+   {
+    "da": "et hyppigt problem",
+    "en": "a frequent problem"
+   },
+   {
+    "da": "hyppige besøg",
+    "en": "frequent visits"
+   }
+  ],
+  "related": [
+   {
+    "da": "ofte",
+    "en": "often"
+   },
+   {
+    "da": "sjælden",
+    "en": "rare"
+   },
+   {
+    "da": "regelmæssig",
+    "en": "regular"
+   },
+   {
+    "da": "almindelig",
+    "en": "common"
+   }
+  ],
+  "sentence": {
+   "da": "Forkølelse er en **hyppig** sygdom om vinteren.",
+   "en": "A cold is a frequent illness in the winter."
+  }
+ },
+ "hysterisk": {
+  "file": "h.json",
+  "explanation": "\"Hysterisk\" means \"hysterical\", showing feelings so strong that a person loses control, like fear or laughter. In everyday speech, it can also just mean very funny: \"hysterisk sjov\" (hilariously funny).",
+  "forms": [
+   {
+    "da": "en hysterisk latter",
+    "en": "hysterical laughter"
+   },
+   {
+    "da": "et hysterisk skrig",
+    "en": "a hysterical scream"
+   },
+   {
+    "da": "hysteriske tilskuere",
+    "en": "hysterical spectators"
+   }
+  ],
+  "related": [
+   {
+    "da": "panisk",
+    "en": "panicky"
+   },
+   {
+    "da": "en hysteri",
+    "en": "hysteria"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "overdreven",
+    "en": "exaggerated"
+   }
+  ],
+  "sentence": {
+   "da": "Hun blev **hysterisk** af skræk og begyndte at skrige.",
+   "en": "She became hysterical from fright and began to scream."
+  }
+ },
+ "hytteost": {
+  "file": "h.json",
+  "explanation": "\"Hytteost\" means \"cottage cheese\", a soft, fresh cheese. It is hytte (cottage) and ost (cheese) joined together. The word \"ost\" also builds \"smøreost\" (spreadable cheese), a soft cheese you put on bread.",
+  "forms": [
+   {
+    "da": "hytteost",
+    "en": "cottage cheese"
+   },
+   {
+    "da": "hytteosten",
+    "en": "the cottage cheese"
+   },
+   {
+    "da": "hytteost med frugt",
+    "en": "cottage cheese with fruit"
+   }
+  ],
+  "related": [
+   {
+    "da": "kvark",
+    "en": "quark"
+   },
+   {
+    "da": "skyr",
+    "en": "skyr"
+   },
+   {
+    "da": "flødeost",
+    "en": "cream cheese"
+   }
+  ],
+  "sentence": {
+   "da": "**Hytteost** er en hvid ost med små klumper.",
+   "en": "Cottage cheese is a white cheese with small lumps."
+  }
+ },
+ "håb": {
+  "file": "h.json",
+  "explanation": "\"Håb\" means \"hope\", the thing you hope for. To say you hope, use \"håber\" (hope): \"Jeg håber, det virker\" (I hope it works).",
+  "forms": [
+   {
+    "da": "et håb",
+    "en": "a hope"
+   },
+   {
+    "da": "håbet",
+    "en": "the hope"
+   },
+   {
+    "da": "et lille håb",
+    "en": "a small hope"
+   },
+   {
+    "da": "Der er håb.",
+    "en": "There is hope."
+   }
+  ],
+  "related": [
+   {
+    "da": "håbløs",
+    "en": "hopeless"
+   },
+   {
+    "da": "et ønske",
+    "en": "a wish"
+   },
+   {
+    "da": "optimistisk",
+    "en": "optimistic"
+   },
+   {
+    "da": "en drøm",
+    "en": "a dream"
+   }
+  ],
+  "sentence": {
+   "da": "Der er stadig **håb** for holdet.",
+   "en": "There is still hope for the team."
+  }
+ },
+ "håbefuld": {
+  "file": "h.json",
+  "explanation": "\"Håbefuld\" means \"hopeful\", full of hope that things will go well. It is built from håb (hope) and the ending \"-fuld\" (full of), which is also in \"smertefuld\" (painful).",
+  "forms": [
+   {
+    "da": "et håbefuldt smil",
+    "en": "a hopeful smile"
+   },
+   {
+    "da": "håbefulde forældre",
+    "en": "hopeful parents"
+   },
+   {
+    "da": "en håbefuld tone",
+    "en": "a hopeful tone"
+   }
+  ],
+  "related": [
+   {
+    "da": "håbløs",
+    "en": "hopeless"
+   },
+   {
+    "da": "optimistisk",
+    "en": "optimistic"
+   },
+   {
+    "da": "forventningsfuld",
+    "en": "expectant"
+   },
+   {
+    "da": "positiv",
+    "en": "positive"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **håbefuld** og tror på en lykkelig slutning.",
+   "en": "She is hopeful and believes in a happy ending."
+  }
+ },
+ "håbløs": {
+  "file": "h.json",
+  "explanation": "\"Håbløs\" means \"hopeless\", with no hope that things will get better. In everyday talk, it can also describe a person who is very bad at something: \"Jeg er håbløs til matematik\" (I am hopeless at math).",
+  "forms": [
+   {
+    "da": "en håbløs situation",
+    "en": "a hopeless situation"
+   },
+   {
+    "da": "et håbløst forsøg",
+    "en": "a hopeless attempt"
+   },
+   {
+    "da": "håbløse tider",
+    "en": "hopeless times"
+   }
+  ],
+  "related": [
+   {
+    "da": "forgæves",
+    "en": "in vain"
+   },
+   {
+    "da": "desperat",
+    "en": "desperate"
+   },
+   {
+    "da": "håbefuld",
+    "en": "hopeful"
+   },
+   {
+    "da": "umulig",
+    "en": "impossible"
+   }
+  ],
+  "sentence": {
+   "da": "Situationen virker **håbløs**, og alle har givet op.",
+   "en": "The situation seems hopeless, and everyone has given up."
+  }
+ },
+ "håndbagage": {
+  "file": "h.json",
+  "explanation": "\"Håndbagage\" means \"carry-on luggage\", what you take with you into the plane cabin. The luggage you hand in at check-in is \"indchecket bagage\" (checked luggage).",
+  "forms": [
+   {
+    "da": "håndbagagen",
+    "en": "the carry-on luggage"
+   },
+   {
+    "da": "min håndbagage",
+    "en": "my carry-on luggage"
+   },
+   {
+    "da": "kun håndbagage",
+    "en": "only carry-on luggage"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kuffert",
+    "en": "a suitcase"
+   },
+   {
+    "da": "en rygsæk",
+    "en": "a backpack"
+   },
+   {
+    "da": "en taske",
+    "en": "a bag"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har kun **håndbagage** i flyet.",
+   "en": "I only have carry-on luggage on the plane."
+  }
+ },
+ "håndbold": {
+  "file": "h.json",
+  "explanation": "\"Håndbold\" means \"handball\", the team sport. It is made of hånd (hand) and bold (ball). Without \"en\" it is the sport. With \"en\", \"en håndbold\" (a handball) is the ball itself.",
+  "forms": [
+   {
+    "da": "håndbold",
+    "en": "handball (the sport)"
+   },
+   {
+    "da": "en håndbold",
+    "en": "a handball (the ball)"
+   },
+   {
+    "da": "håndbolden",
+    "en": "the handball (the ball)"
+   },
+   {
+    "da": "Jeg spiller håndbold.",
+    "en": "I play handball."
+   }
+  ],
+  "related": [
+   {
+    "da": "fodbold",
+    "en": "soccer"
+   },
+   {
+    "da": "basketball",
+    "en": "basketball"
+   },
+   {
+    "da": "badminton",
+    "en": "badminton"
+   }
+  ],
+  "sentence": {
+   "da": "**Håndbold** spilles med hænderne og en bold.",
+   "en": "Handball is played with the hands and a ball."
+  }
+ },
+ "hår": {
+  "file": "h.json",
+  "explanation": "\"Hår\" means \"hair\", all the hair on your head or body. It starts many hair words, such as \"hårfarve\" (hair color) and \"en hårnål\" (a hairpin).",
+  "forms": [
+   {
+    "da": "et hår",
+    "en": "a hair"
+   },
+   {
+    "da": "håret",
+    "en": "the hair"
+   },
+   {
+    "da": "hår",
+    "en": "hairs"
+   },
+   {
+    "da": "hårene",
+    "en": "the hairs"
+   }
+  ],
+  "related": [
+   {
+    "da": "hård",
+    "en": "hard"
+   },
+   {
+    "da": "en hårbørste",
+    "en": "a hairbrush"
+   },
+   {
+    "da": "en hårtørrer",
+    "en": "a hair dryer"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har langt **hår**.",
+   "en": "She has long hair."
+  }
+ },
+ "hård": {
+  "file": "h.json",
+  "explanation": "\"Hård\" means \"hard\" as in firm, not soft. It can also mean tough: \"et hårdt job\" (a tough job). For \"hard\" meaning \"difficult\", Danes usually say \"svær\" (difficult): \"en svær opgave\" (a difficult task).",
+  "forms": [
+   {
+    "da": "en hård seng",
+    "en": "a hard bed"
+   },
+   {
+    "da": "et hårdt valg",
+    "en": "a hard choice"
+   },
+   {
+    "da": "hårde sten",
+    "en": "hard stones"
+   }
+  ],
+  "related": [
+   {
+    "da": "blød",
+    "en": "soft"
+   },
+   {
+    "da": "hår",
+    "en": "hair"
+   },
+   {
+    "da": "fast",
+    "en": "firm"
+   }
+  ],
+  "sentence": {
+   "da": "Stenen er **hård** og kold.",
+   "en": "The stone is hard and cold."
+  }
+ },
+ "hårdhudet": {
+  "file": "h.json",
+  "explanation": "\"Hårdhudet\" means \"thick-skinned\", not easily hurt by criticism or harsh words. It can also describe real skin that has become hard and rough: \"hårdhudede hænder\" (hands with rough skin).",
+  "forms": [
+   {
+    "da": "en hårdhudet politiker",
+    "en": "a thick-skinned politician"
+   },
+   {
+    "da": "et hårdhudet barn",
+    "en": "a thick-skinned child"
+   },
+   {
+    "da": "hårdhudede forhandlere",
+    "en": "thick-skinned negotiators"
+   }
+  ],
+  "related": [
+   {
+    "da": "nærtagende",
+    "en": "touchy"
+   },
+   {
+    "da": "følsom",
+    "en": "sensitive"
+   },
+   {
+    "da": "sårbar",
+    "en": "vulnerable"
+   },
+   {
+    "da": "benhård",
+    "en": "tough as nails"
+   }
+  ],
+  "sentence": {
+   "da": "Kritik går ikke ind på ham, fordi han er **hårdhudet**.",
+   "en": "Criticism does not get to him because he is thick-skinned."
+  }
+ },
+ "hævet": {
+  "file": "h.json",
+  "explanation": "\"Hævet\" means \"swollen\", puffed up from an injury or an infection. The same word is used for dough that has risen: \"hævet dej\" (risen dough).",
+  "forms": [
+   {
+    "da": "en hævet finger",
+    "en": "a swollen finger"
+   },
+   {
+    "da": "et hævet øje",
+    "en": "a swollen eye"
+   },
+   {
+    "da": "hævede fødder",
+    "en": "swollen feet"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hæve",
+    "en": "to raise"
+   },
+   {
+    "da": "en hævelse",
+    "en": "a swelling"
+   },
+   {
+    "da": "betændt",
+    "en": "inflamed"
+   },
+   {
+    "da": "opsvulmet",
+    "en": "puffed up"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg faldt på trappen, og nu er min fod **hævet**.",
+   "en": "I fell on the stairs, and now my foot is swollen."
+  }
+ },
+ "hævn": {
+  "file": "h.json",
+  "explanation": "\"En hævn\" means \"revenge\", doing harm to someone because they harmed you. It is mostly used without \"en\", as in \"at tage hævn\" (to take revenge), and the verb is \"at hævne\" (to avenge).",
+  "forms": [
+   {
+    "da": "en hævn",
+    "en": "a revenge"
+   },
+   {
+    "da": "hævnen",
+    "en": "the revenge"
+   },
+   {
+    "da": "Hævnen er sød",
+    "en": "Revenge is sweet"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gengældelse",
+    "en": "retaliation"
+   },
+   {
+    "da": "et nag",
+    "en": "a grudge"
+   },
+   {
+    "da": "en straf",
+    "en": "a punishment"
+   },
+   {
+    "da": "at gengælde",
+    "en": "to repay"
+   }
+  ],
+  "sentence": {
+   "da": "Han søgte **hævn**, fordi de havde ødelagt hans firma.",
+   "en": "He sought revenge because they had ruined his company."
+  }
+ },
+ "hø": {
+  "file": "h.json",
+  "explanation": "\"Hø\" means \"hay\", grass that is cut and dried to feed animals in winter. Do not mix it up with \"halm\" (straw), which is the dry stalks left after grain is harvested.",
+  "forms": [
+   {
+    "da": "hø til hestene",
+    "en": "hay for the horses"
+   },
+   {
+    "da": "at slå hø",
+    "en": "to cut hay"
+   },
+   {
+    "da": "et læs hø",
+    "en": "a load of hay"
+   }
+  ],
+  "related": [
+   {
+    "da": "en høstak",
+    "en": "a haystack"
+   },
+   {
+    "da": "høfeber",
+    "en": "hay fever"
+   },
+   {
+    "da": "et foder",
+    "en": "animal feed"
+   },
+   {
+    "da": "en lade",
+    "en": "a barn"
+   }
+  ],
+  "sentence": {
+   "da": "Om vinteren får køerne **hø**, fordi der ikke er frisk græs.",
+   "en": "In winter, the cows get hay because there is no fresh grass."
+  }
+ },
+ "høfeber": {
+  "file": "h.json",
+  "explanation": "\"Høfeber\" means \"hay fever\", a reaction to pollen from grass and trees that gives a runny nose and itchy eyes. It is built the same way as in English, from hø (hay) and feber (fever), though you have no fever.",
+  "forms": [
+   {
+    "da": "have høfeber",
+    "en": "to have hay fever"
+   },
+   {
+    "da": "medicin mod høfeber",
+    "en": "medicine for hay fever"
+   },
+   {
+    "da": "min høfeber",
+    "en": "my hay fever"
+   }
+  ],
+  "related": [
+   {
+    "da": "en allergi",
+    "en": "an allergy"
+   },
+   {
+    "da": "at nyse",
+    "en": "to sneeze"
+   },
+   {
+    "da": "en forkølelse",
+    "en": "a cold"
+   },
+   {
+    "da": "et antihistamin",
+    "en": "an antihistamine"
+   }
+  ],
+  "sentence": {
+   "da": "Om foråret har jeg **høfeber** og klør i øjnene.",
+   "en": "In spring, I have hay fever and itchy eyes."
+  }
+ },
+ "høflig": {
+  "file": "h.json",
+  "explanation": "\"Høflig\" means \"polite\", for people and how they behave. Saying \"undskyld\" (sorry) or holding a door open is polite.",
+  "forms": [
+   {
+    "da": "en høflig mand",
+    "en": "a polite man"
+   },
+   {
+    "da": "et høfligt barn",
+    "en": "a polite child"
+   },
+   {
+    "da": "høflige børn",
+    "en": "polite children"
+   }
+  ],
+  "related": [
+   {
+    "da": "uhøflig",
+    "en": "rude"
+   },
+   {
+    "da": "venlig",
+    "en": "friendly"
+   },
+   {
+    "da": "artig",
+    "en": "well-behaved"
+   },
+   {
+    "da": "respektfuld",
+    "en": "respectful"
+   }
+  ],
+  "sentence": {
+   "da": "Han er altid **høflig** og siger tak.",
+   "en": "He is always polite and says thanks."
+  }
+ },
+ "høflighed": {
+  "file": "h.json",
+  "explanation": "\"Høflighed\" means \"politeness\", being kind and respectful to others. It is built from \"høflig\" (polite), and \"-hed\" turns a describing word into the quality itself: \"fri\" (free) becomes \"frihed\" (freedom).",
+  "forms": [
+   {
+    "da": "høflighed",
+    "en": "politeness"
+   },
+   {
+    "da": "høfligheden",
+    "en": "the politeness"
+   },
+   {
+    "da": "af høflighed",
+    "en": "out of politeness"
+   }
+  ],
+  "related": [
+   {
+    "da": "uhøflig",
+    "en": "impolite"
+   },
+   {
+    "da": "gode manerer",
+    "en": "good manners"
+   },
+   {
+    "da": "venlighed",
+    "en": "friendliness"
+   },
+   {
+    "da": "respekt",
+    "en": "respect"
+   }
+  ],
+  "sentence": {
+   "da": "Han sagde tak af **høflighed**.",
+   "en": "He said thanks out of politeness."
+  }
+ },
+ "høj": {
+  "file": "h.json",
+  "explanation": "\"Høj\" means \"tall\" or \"high\" and describes anything with height, such as people, buildings and trees. The form \"højt\" also means \"loudly\": \"Tal højt\" (Speak loudly).",
+  "forms": [
+   {
+    "da": "en høj mand",
+    "en": "a tall man"
+   },
+   {
+    "da": "et højt hus",
+    "en": "a tall house"
+   },
+   {
+    "da": "høje træer",
+    "en": "tall trees"
+   }
+  ],
+  "related": [
+   {
+    "da": "lav",
+    "en": "low"
+   },
+   {
+    "da": "højere",
+    "en": "taller"
+   },
+   {
+    "da": "stor",
+    "en": "big"
+   }
+  ],
+  "sentence": {
+   "da": "Giraffen er meget **høj**.",
+   "en": "The giraffe is very tall."
+  }
+ },
+ "højlydt": {
+  "file": "h.json",
+  "explanation": "\"Højlydt\" means \"loud\", for something done noisily, like laughing or arguing: \"Hun lo højlydt\" (She laughed loudly). It is built from høj (high) and lyd (sound).",
+  "forms": [
+   {
+    "da": "en højlydt protest",
+    "en": "a loud protest"
+   },
+   {
+    "da": "et højlydt skænderi",
+    "en": "a loud argument"
+   },
+   {
+    "da": "højlydte børn",
+    "en": "loud children"
+   }
+  ],
+  "related": [
+   {
+    "da": "larmende",
+    "en": "noisy, rowdy"
+   },
+   {
+    "da": "stille",
+    "en": "quiet"
+   },
+   {
+    "da": "støjende",
+    "en": "noisy"
+   },
+   {
+    "da": "en larm",
+    "en": "a racket"
+   }
+  ],
+  "sentence": {
+   "da": "Der var en **højlydt** diskussion i klassen.",
+   "en": "There was a loud discussion in the class."
+  }
+ },
+ "højre": {
+  "file": "h.json",
+  "explanation": "\"Højre\" means \"right\", as in the right side or the right hand. For directions, say \"til højre\" (to the right): \"Drej til højre\" (Turn right).",
+  "forms": [
+   {
+    "da": "højre hånd",
+    "en": "right hand"
+   },
+   {
+    "da": "på højre side",
+    "en": "on the right side"
+   },
+   {
+    "da": "Han bruger sin højre arm.",
+    "en": "He uses his right arm."
+   }
+  ],
+  "related": [
+   {
+    "da": "venstre",
+    "en": "left (side)"
+   },
+   {
+    "da": "rigtig",
+    "en": "right (correct)"
+   },
+   {
+    "da": "ligeud",
+    "en": "straight ahead"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skriver med min **højre** hånd.",
+   "en": "I write with my right hand."
+  }
+ },
+ "højst": {
+  "file": "h.json",
+  "explanation": "\"Højst\" means \"at most\", the upper limit. Before a describing word it means \"highly\": \"højst usandsynligt\" (highly unlikely).",
+  "forms": [
+   {
+    "da": "højst ti minutter",
+    "en": "at most ten minutes"
+   },
+   {
+    "da": "højst to gange",
+    "en": "at most twice"
+   },
+   {
+    "da": "højst usandsynligt",
+    "en": "highly unlikely"
+   }
+  ],
+  "related": [
+   {
+    "da": "mindst",
+    "en": "at least"
+   },
+   {
+    "da": "maksimalt",
+    "en": "at the maximum"
+   },
+   {
+    "da": "kun",
+    "en": "only"
+   },
+   {
+    "da": "minimum",
+    "en": "at the minimum"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **højst** tyve år gammel.",
+   "en": "She is at most twenty years old."
+  }
+ },
+ "højtidelig": {
+  "file": "h.json",
+  "explanation": "\"Højtidelig\" means \"solemn\", for a moment or event that feels dignified and important, such as a wedding or a funeral. It can also describe a person's tone: \"hun talte højtideligt\" (she spoke in a solemn way).",
+  "forms": [
+   {
+    "da": "en højtidelig stund",
+    "en": "a solemn moment"
+   },
+   {
+    "da": "et højtideligt løfte",
+    "en": "a solemn promise"
+   },
+   {
+    "da": "højtidelige ord",
+    "en": "solemn words"
+   }
+  ],
+  "related": [
+   {
+    "da": "uhøjtidelig",
+    "en": "relaxed"
+   },
+   {
+    "da": "festlig",
+    "en": "festive"
+   },
+   {
+    "da": "alvorlig",
+    "en": "serious"
+   },
+   {
+    "da": "en højtid",
+    "en": "a high holiday"
+   }
+  ],
+  "sentence": {
+   "da": "Ceremonien var **højtidelig**, og alle var klædt fint på.",
+   "en": "The ceremony was solemn and everyone was dressed up."
+  }
+ },
+ "hørelse": {
+  "file": "h.json",
+  "explanation": "\"En hørelse\" means \"hearing\", the sense that lets you pick up sounds. It is about the ability, not about listening to something: for that, use \"at lytte\" (to listen).",
+  "forms": [
+   {
+    "da": "en hørelse",
+    "en": "hearing"
+   },
+   {
+    "da": "hørelsen",
+    "en": "the hearing"
+   },
+   {
+    "da": "god hørelse",
+    "en": "good hearing"
+   },
+   {
+    "da": "nedsat hørelse",
+    "en": "reduced hearing"
+   }
+  ],
+  "related": [
+   {
+    "da": "et øre",
+    "en": "an ear"
+   },
+   {
+    "da": "døv",
+    "en": "deaf"
+   },
+   {
+    "da": "at høre",
+    "en": "to hear"
+   },
+   {
+    "da": "et syn",
+    "en": "eyesight"
+   }
+  ],
+  "sentence": {
+   "da": "Efter mange år på fabrikken er hans **hørelse** blevet dårlig.",
+   "en": "After many years at the factory, his hearing has become bad."
+  }
+ },
+ "høretelefoner": {
+  "file": "h.json",
+  "explanation": "\"Høretelefoner\" means \"headphones\". The word is built from at høre (to hear) and telefon (phone). Like \"headphones\" in English, it is almost always plural; for one set, say \"et par høretelefoner\" (a pair of headphones).",
+  "forms": [
+   {
+    "da": "høretelefoner",
+    "en": "headphones"
+   },
+   {
+    "da": "mine høretelefoner",
+    "en": "my headphones"
+   },
+   {
+    "da": "trådløse høretelefoner",
+    "en": "wireless headphones"
+   }
+  ],
+  "related": [
+   {
+    "da": "hovedtelefoner",
+    "en": "headphones (same meaning)"
+   },
+   {
+    "da": "øretelefoner",
+    "en": "earphones"
+   },
+   {
+    "da": "et headset",
+    "en": "a headset"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg lytter til musik i mine **høretelefoner**.",
+   "en": "I listen to music in my headphones."
+  }
+ },
+ "I": {
+  "file": "i.json",
+  "explanation": "\"I\" means \"you\" when you talk to two or more people. For one person, use \"du\": \"Du er min ven\" (You are my friend). For a group, use \"I\": \"I er mine venner\" (You are my friends). Do not mix it up with \"jeg\" (I) or the small word \"i\" (in): \"I bor i Aarhus\" (You live in Aarhus).",
+  "forms": [
+   {
+    "da": "I er venner.",
+    "en": "You (all) are friends."
+   },
+   {
+    "da": "Hvor bor I?",
+    "en": "Where do you (all) live?"
+   },
+   {
+    "da": "Kommer I i morgen?",
+    "en": "Are you (all) coming tomorrow?"
+   }
+  ],
+  "related": [
+   {
+    "da": "jer",
+    "en": "you (group), as in \"Jeg ser jer\" (I see you)"
+   },
+   {
+    "da": "jeres",
+    "en": "your / yours (many)"
+   },
+   {
+    "da": "vi",
+    "en": "we"
+   },
+   {
+    "da": "de",
+    "en": "they"
+   }
+  ],
+  "sentence": {
+   "da": "**I** er mine venner.",
+   "en": "You are all my friends."
+  }
+ },
+ "at iagttage": {
+  "file": "i.json",
+  "explanation": "\"At iagttage\" means \"to observe\": to watch something carefully over some time to learn about it, such as animals, weather or people. Unlike \"at se\" (to see), you do it on purpose: \"Vi iagttager fuglene\" (We are watching the birds).",
+  "forms": [
+   {
+    "da": "at iagttage",
+    "en": "to observe"
+   },
+   {
+    "da": "jeg iagttager",
+    "en": "I observe"
+   },
+   {
+    "da": "jeg iagttog",
+    "en": "I observed"
+   },
+   {
+    "da": "jeg har iagttaget",
+    "en": "I have observed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en iagttagelse",
+    "en": "an observation"
+   },
+   {
+    "da": "at betragte",
+    "en": "to look at"
+   },
+   {
+    "da": "at overvåge",
+    "en": "to monitor"
+   },
+   {
+    "da": "at studere",
+    "en": "to study"
+   }
+  ],
+  "sentence": {
+   "da": "Forskeren vil **iagttage** ulvene i flere uger og skrive noter.",
+   "en": "The researcher wants to observe the wolves for several weeks and write notes."
+  }
+ },
+ "at identificere": {
+  "file": "i.json",
+  "explanation": "\"At identificere\" means \"to identify\", to work out exactly who or what someone or something is. To prove who you are, add \"sig\" (yourself): \"Jeg skal identificere mig\" (I have to identify myself).",
+  "forms": [
+   {
+    "da": "at identificere",
+    "en": "to identify"
+   },
+   {
+    "da": "jeg identificerer",
+    "en": "I identify"
+   },
+   {
+    "da": "jeg identificerede",
+    "en": "I identified"
+   },
+   {
+    "da": "jeg har identificeret",
+    "en": "I have identified"
+   }
+  ],
+  "related": [
+   {
+    "da": "en identitet",
+    "en": "an identity"
+   },
+   {
+    "da": "at genkende",
+    "en": "to recognize"
+   },
+   {
+    "da": "at udpege",
+    "en": "to point out"
+   }
+  ],
+  "sentence": {
+   "da": "Politiet kan **identificere** manden på billedet.",
+   "en": "The police can identify the man in the picture."
+  }
+ },
+ "at igangsætte": {
+  "file": "i.json",
+  "explanation": "\"At igangsætte\" means \"to initiate\": to get a project, a process or an investigation going. It belongs to official and business language: \"Ministeriet igangsætter en undersøgelse\" (The ministry is starting a study). In everyday talk, Danes say \"at starte\" (to start).",
+  "forms": [
+   {
+    "da": "at igangsætte",
+    "en": "to initiate"
+   },
+   {
+    "da": "jeg igangsætter",
+    "en": "I initiate"
+   },
+   {
+    "da": "jeg igangsatte",
+    "en": "I initiated"
+   },
+   {
+    "da": "jeg har igangsat",
+    "en": "I have initiated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at påbegynde",
+    "en": "to begin"
+   },
+   {
+    "da": "at iværksætte",
+    "en": "to launch"
+   },
+   {
+    "da": "at sætte i gang",
+    "en": "to get started"
+   },
+   {
+    "da": "at afslutte",
+    "en": "to finish"
+   }
+  ],
+  "sentence": {
+   "da": "Kommunen vil **igangsætte** byggeriet af den nye skole.",
+   "en": "The city wants to start the construction of the new school."
+  }
+ },
+ "at ignorere": {
+  "file": "i.json",
+  "explanation": "\"At ignorere\" means \"to ignore\", to pay no attention to something on purpose. It is used for people and also for things such as rules, warnings and messages: \"Han ignorerer alle beskeder\" (He ignores all messages).",
+  "forms": [
+   {
+    "da": "at ignorere",
+    "en": "to ignore"
+   },
+   {
+    "da": "jeg ignorerer",
+    "en": "I ignore"
+   },
+   {
+    "da": "jeg ignorerede",
+    "en": "I ignored"
+   },
+   {
+    "da": "jeg har ignoreret",
+    "en": "I have ignored"
+   }
+  ],
+  "related": [
+   {
+    "da": "at overse",
+    "en": "to overlook"
+   },
+   {
+    "da": "at overhøre",
+    "en": "to fail to hear"
+   },
+   {
+    "da": "at forsømme",
+    "en": "to neglect"
+   },
+   {
+    "da": "at lytte til",
+    "en": "to listen to"
+   }
+  ],
+  "sentence": {
+   "da": "Du må ikke **ignorere** en advarsel fra lægen.",
+   "en": "You must not ignore a warning from the doctor."
+  }
+ },
+ "at illustrere": {
+  "file": "i.json",
+  "explanation": "\"At illustrere\" means \"to illustrate\", in two ways: to add pictures to a book, and to make something clear with an example: \"Det illustrerer problemet\" (That makes the problem clear).",
+  "forms": [
+   {
+    "da": "at illustrere",
+    "en": "to illustrate"
+   },
+   {
+    "da": "jeg illustrerer",
+    "en": "I illustrate"
+   },
+   {
+    "da": "jeg illustrerede",
+    "en": "I illustrated"
+   },
+   {
+    "da": "jeg har illustreret",
+    "en": "I have illustrated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en illustration",
+    "en": "an illustration"
+   },
+   {
+    "da": "en tegning",
+    "en": "a drawing"
+   },
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   },
+   {
+    "da": "at demonstrere",
+    "en": "to demonstrate"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **illustrere** børnebogen med farverige tegninger.",
+   "en": "She wants to illustrate the children's book with colorful drawings."
+  }
+ },
+ "at implementere": {
+  "file": "i.json",
+  "explanation": "\"At implementere\" means \"to implement\", to put a plan, a rule or a computer system into real use. It means carrying out what was already decided: \"Firmaet implementerer det nye system i dag\" (The company is implementing the new system today).",
+  "forms": [
+   {
+    "da": "at implementere",
+    "en": "to implement"
+   },
+   {
+    "da": "jeg implementerer",
+    "en": "I implement"
+   },
+   {
+    "da": "jeg implementerede",
+    "en": "I implemented"
+   },
+   {
+    "da": "jeg har implementeret",
+    "en": "I have implemented"
+   }
+  ],
+  "related": [
+   {
+    "da": "at indføre",
+    "en": "to introduce"
+   },
+   {
+    "da": "at gennemføre",
+    "en": "to carry out"
+   },
+   {
+    "da": "at iværksætte",
+    "en": "to launch"
+   },
+   {
+    "da": "en implementering",
+    "en": "an implementation"
+   }
+  ],
+  "sentence": {
+   "da": "Skolen vil **implementere** de nye regler næste måned.",
+   "en": "The school will implement the new rules next month."
+  }
+ },
+ "at imponere": {
+  "file": "i.json",
+  "explanation": "\"At imponere\" means \"to impress\": \"Hendes tale imponerede os\" (Her speech impressed us). To say someone is impressed, use \"imponeret\" (impressed): \"Jeg er imponeret\" (I am impressed).",
+  "forms": [
+   {
+    "da": "at imponere",
+    "en": "to impress"
+   },
+   {
+    "da": "jeg imponerer",
+    "en": "I impress"
+   },
+   {
+    "da": "jeg imponerede",
+    "en": "I impressed"
+   },
+   {
+    "da": "jeg har imponeret",
+    "en": "I have impressed"
+   }
+  ],
+  "related": [
+   {
+    "da": "imponerende",
+    "en": "impressive"
+   },
+   {
+    "da": "at beundre",
+    "en": "to admire"
+   },
+   {
+    "da": "et indtryk",
+    "en": "an impression"
+   },
+   {
+    "da": "at overraske",
+    "en": "to surprise"
+   }
+  ],
+  "sentence": {
+   "da": "Han vil **imponere** sin chef med en god idé.",
+   "en": "He wants to impress his boss with a good idea."
+  }
+ },
+ "at importere": {
+  "file": "i.json",
+  "explanation": "\"At importere\" means \"to import\", to bring goods into a country from abroad. It also means to bring files into a computer program. The opposite, for goods going out, is \"at eksportere\" (to export).",
+  "forms": [
+   {
+    "da": "at importere",
+    "en": "to import"
+   },
+   {
+    "da": "jeg importerer",
+    "en": "I import"
+   },
+   {
+    "da": "jeg importerede",
+    "en": "I imported"
+   },
+   {
+    "da": "jeg har importeret",
+    "en": "I have imported"
+   }
+  ],
+  "related": [
+   {
+    "da": "en importør",
+    "en": "an importer"
+   },
+   {
+    "da": "en eksportør",
+    "en": "an exporter"
+   },
+   {
+    "da": "en told",
+    "en": "a customs duty"
+   }
+  ],
+  "sentence": {
+   "da": "Vi må **importere** bananer, fordi de ikke vokser i Danmark.",
+   "en": "We must import bananas because they do not grow in Denmark."
+  }
+ },
+ "at indbyde": {
+  "file": "i.json",
+  "explanation": "\"At indbyde\" means \"to invite\", in a more formal way than \"at invitere\" (to invite). It is used in writing and speeches, for example in an announcement: \"Vi indbyder til generalforsamling\" (We invite you to the general meeting).",
+  "forms": [
+   {
+    "da": "at indbyde",
+    "en": "to invite"
+   },
+   {
+    "da": "jeg indbyder",
+    "en": "I invite"
+   },
+   {
+    "da": "jeg indbød",
+    "en": "I invited"
+   },
+   {
+    "da": "jeg har indbudt",
+    "en": "I have invited"
+   }
+  ],
+  "related": [
+   {
+    "da": "en invitation",
+    "en": "an invitation"
+   },
+   {
+    "da": "at tilbyde",
+    "en": "to offer"
+   },
+   {
+    "da": "en gæst",
+    "en": "a guest"
+   },
+   {
+    "da": "at byde velkommen",
+    "en": "to welcome"
+   }
+  ],
+  "sentence": {
+   "da": "Skolen vil **indbyde** alle forældre til et møde.",
+   "en": "The school wants to invite all parents to a meeting."
+  }
+ },
+ "at inddrage": {
+  "file": "i.json",
+  "explanation": "\"At inddrage\" means \"to involve\", to bring someone into a decision or a discussion: \"Vi vil inddrage børnene i beslutningen\" (We want to involve the children in the decision). It can also mean to remove something officially: \"inddrage et kørekort\" (to revoke a driver's license).",
+  "forms": [
+   {
+    "da": "at inddrage",
+    "en": "to involve"
+   },
+   {
+    "da": "jeg inddrager",
+    "en": "I involve"
+   },
+   {
+    "da": "jeg inddrog",
+    "en": "I involved"
+   },
+   {
+    "da": "jeg har inddraget",
+    "en": "I have involved"
+   }
+  ],
+  "related": [
+   {
+    "da": "at inkludere",
+    "en": "to include"
+   },
+   {
+    "da": "at udelukke",
+    "en": "to exclude"
+   },
+   {
+    "da": "at deltage",
+    "en": "to take part"
+   }
+  ],
+  "sentence": {
+   "da": "Læreren vil **inddrage** eleverne, når klassen planlægger turen.",
+   "en": "The teacher wants to involve the students when the class plans the trip."
+  }
+ },
+ "at indebære": {
+  "file": "i.json",
+  "explanation": "\"At indebære\" means \"to involve\" or \"to imply\": to have something as a necessary result or part. You say it about things such as a job, a plan or a change, not about people: \"Ændringen indebærer flere udgifter\" (The change involves more costs).",
+  "forms": [
+   {
+    "da": "at indebære",
+    "en": "to involve / imply"
+   },
+   {
+    "da": "det indebærer",
+    "en": "it involves / implies"
+   },
+   {
+    "da": "det indebar",
+    "en": "it involved / implied"
+   },
+   {
+    "da": "det har indebåret",
+    "en": "it has involved / implied"
+   }
+  ],
+  "related": [
+   {
+    "da": "at medføre",
+    "en": "to result in"
+   },
+   {
+    "da": "at omfatte",
+    "en": "to include"
+   },
+   {
+    "da": "at forudsætte",
+    "en": "to require as a condition"
+   },
+   {
+    "da": "en konsekvens",
+    "en": "a consequence"
+   }
+  ],
+  "sentence": {
+   "da": "Mit nye job vil **indebære** mange rejser.",
+   "en": "My new job will involve many trips."
+  }
+ },
+ "at indeholde": {
+  "file": "i.json",
+  "explanation": "\"At indeholde\" means \"to contain\". It is used on food labels: \"Produktet indeholder nødder\" (The product contains nuts).",
+  "forms": [
+   {
+    "da": "at indeholde",
+    "en": "to contain"
+   },
+   {
+    "da": "det indeholder",
+    "en": "it contains"
+   },
+   {
+    "da": "det indeholdt",
+    "en": "it contained"
+   },
+   {
+    "da": "det har indeholdt",
+    "en": "it has contained"
+   }
+  ],
+  "related": [
+   {
+    "da": "et indhold",
+    "en": "contents"
+   },
+   {
+    "da": "at rumme",
+    "en": "to hold"
+   },
+   {
+    "da": "at inkludere",
+    "en": "to include"
+   },
+   {
+    "da": "at omfatte",
+    "en": "to cover / include"
+   }
+  ],
+  "sentence": {
+   "da": "Pas på, kagen kan **indeholde** nødder.",
+   "en": "Careful, the cake may contain nuts."
+  }
+ }
+}

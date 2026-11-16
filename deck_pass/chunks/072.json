@@ -1,0 +1,3854 @@
+{
+ "et tårn": {
+  "file": "t.json",
+  "explanation": "\"Et tårn\" means \"a tower\", a tall, narrow building or part of a building.",
+  "forms": [
+   {
+    "da": "et tårn",
+    "en": "a tower"
+   },
+   {
+    "da": "tårnet",
+    "en": "the tower"
+   },
+   {
+    "da": "tårne",
+    "en": "towers"
+   },
+   {
+    "da": "tårnene",
+    "en": "the towers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fyrtårn",
+    "en": "a lighthouse"
+   },
+   {
+    "da": "et klokketårn",
+    "en": "a bell tower"
+   },
+   {
+    "da": "en skyskraber",
+    "en": "a skyscraper"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en flot udsigt fra det høje **tårn**.",
+   "en": "There is a nice view from the tall tower."
+  }
+ },
+ "et tæppe": {
+  "file": "t.json",
+  "explanation": "\"Et tæppe\" means both \"a rug\" and \"a blanket\". It is a rug when it lies on the floor and a blanket when it lies over you.",
+  "forms": [
+   {
+    "da": "et tæppe",
+    "en": "a rug / blanket"
+   },
+   {
+    "da": "tæppet",
+    "en": "the rug / the blanket"
+   },
+   {
+    "da": "tæpper",
+    "en": "rugs / blankets"
+   },
+   {
+    "da": "tæpperne",
+    "en": "the rugs / the blankets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dyne",
+    "en": "a duvet"
+   },
+   {
+    "da": "et lagen",
+    "en": "a sheet"
+   },
+   {
+    "da": "et gulvtæppe",
+    "en": "a floor rug"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg lægger et **tæppe** over benene.",
+   "en": "I put a blanket over my legs."
+  }
+ },
+ "et tørklæde": {
+  "file": "t.json",
+  "explanation": "\"Et tørklæde\" means \"a scarf\". The second half is klæde (a cloth), which you also see in \"et håndklæde\" (a towel).",
+  "forms": [
+   {
+    "da": "et tørklæde",
+    "en": "a scarf"
+   },
+   {
+    "da": "tørklædet",
+    "en": "the scarf"
+   },
+   {
+    "da": "tørklæder",
+    "en": "scarves"
+   },
+   {
+    "da": "tørklæderne",
+    "en": "the scarves"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hue",
+    "en": "a beanie"
+   },
+   {
+    "da": "en handske",
+    "en": "a glove"
+   },
+   {
+    "da": "en vante",
+    "en": "a mitten"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har et **tørklæde** om halsen.",
+   "en": "I have a scarf around my neck."
+  }
+ },
+ "et tørrestativ": {
+  "file": "t.json",
+  "explanation": "\"Et tørrestativ\" means \"a drying rack\" for laundry. It is built from at tørre (to dry) and et stativ (a stand). \"Et stativ\" is any kind of stand or rack: \"et cykelstativ\" (a bike rack).",
+  "forms": [
+   {
+    "da": "et tørrestativ",
+    "en": "a drying rack"
+   },
+   {
+    "da": "tørrestativet",
+    "en": "the drying rack"
+   },
+   {
+    "da": "tørrestativer",
+    "en": "drying racks"
+   },
+   {
+    "da": "tørrestativerne",
+    "en": "the drying racks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tørretumbler",
+    "en": "a clothes dryer"
+   },
+   {
+    "da": "en tøjsnor",
+    "en": "a clothesline"
+   },
+   {
+    "da": "en tøjklemme",
+    "en": "a clothespin"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg hænger tøjet på mit **tørrestativ**.",
+   "en": "I hang the clothes on my drying rack."
+  }
+ },
+ "tag det roligt": {
+  "file": "t.json",
+  "explanation": "\"Tag det roligt\" means \"take it easy\" and \"calm down\". It is also a friendly goodbye: \"Ses i morgen, tag det roligt\" (See you tomorrow, take care).",
+  "forms": [
+   {
+    "da": "Tag det roligt!",
+    "en": "Take it easy!"
+   },
+   {
+    "da": "Du skal tage det roligt",
+    "en": "You have to take it easy"
+   },
+   {
+    "da": "Hun tager det roligt",
+    "en": "She is taking it easy"
+   }
+  ],
+  "related": [
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "ro",
+    "en": "calm / peace"
+   },
+   {
+    "da": "slap af",
+    "en": "relax"
+   },
+   {
+    "da": "bare rolig",
+    "en": "no worries"
+   }
+  ],
+  "sentence": {
+   "da": "**Tag det roligt**, vi kommer ikke for sent.",
+   "en": "Take it easy, we will not be late."
+  }
+ },
+ "tak": {
+  "file": "t.json",
+  "explanation": "\"Tak\" means \"thanks\", and Danish also uses it for \"please\": \"ja tak\" means \"yes, please\", and \"Kaffe, tak\" means \"Coffee, please\". You reply to thanks with \"selv tak\" (you're welcome).",
+  "forms": [
+   {
+    "da": "tak for hjælpen",
+    "en": "thanks for the help"
+   },
+   {
+    "da": "tusind tak",
+    "en": "thanks a lot"
+   },
+   {
+    "da": "ja tak, nej tak",
+    "en": "yes please, no thank you"
+   }
+  ],
+  "related": [
+   {
+    "da": "tak for det",
+    "en": "thanks for that"
+   },
+   {
+    "da": "mange tak",
+    "en": "many thanks"
+   },
+   {
+    "da": "værsgo",
+    "en": "here you go"
+   }
+  ],
+  "sentence": {
+   "da": "**Tak** for maden!",
+   "en": "Thanks for the food!"
+  }
+ },
+ "tak for det": {
+  "file": "t.json",
+  "explanation": "\"Tak for det\" means \"thanks for that\", a friendly way to thank someone for something that just happened, like advice, help or a small favor. It is more casual than \"mange tak\" (thank you very much). To name what you are thanking the person for, put it after \"tak for\" (thanks for): \"Tak for kaffen\" (Thanks for the coffee).",
+  "forms": [
+   {
+    "da": "Tak for det!",
+    "en": "Thanks for that!"
+   },
+   {
+    "da": "Tak for hjælpen.",
+    "en": "Thanks for the help."
+   },
+   {
+    "da": "Tak for i dag.",
+    "en": "Thanks for today."
+   }
+  ],
+  "related": [
+   {
+    "da": "tak for mad",
+    "en": "thanks for the food"
+   },
+   {
+    "da": "selv tak",
+    "en": "you're welcome"
+   },
+   {
+    "da": "tusind tak",
+    "en": "a thousand thanks"
+   }
+  ],
+  "sentence": {
+   "da": "Her er din kaffe. **Tak for det**!",
+   "en": "Here is your coffee. Thanks for that!"
+  }
+ },
+ "tak for i dag": {
+  "file": "t.json",
+  "explanation": "\"Tak for i dag\" means \"thanks for today\", said when you part after a day together, such as work, a course or a meeting. When you meet again, say \"tak for sidst\" (thanks for last time).",
+  "forms": [
+   {
+    "da": "Tak for i dag!",
+    "en": "Thanks for today!"
+   },
+   {
+    "da": "Tak for i dag, vi ses.",
+    "en": "Thanks for today, see you."
+   },
+   {
+    "da": "Tak for i aften.",
+    "en": "Thanks for tonight."
+   }
+  ],
+  "related": [
+   {
+    "da": "tak for hjælpen",
+    "en": "thanks for the help"
+   },
+   {
+    "da": "tak for mad",
+    "en": "thanks for the meal"
+   },
+   {
+    "da": "på gensyn",
+    "en": "see you again"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ses i morgen. **Tak for i dag**!",
+   "en": "See you tomorrow. Thanks for today!"
+  }
+ },
+ "tak for mad": {
+  "file": "t.json",
+  "explanation": "\"Tak for mad\" means \"thanks for the meal\" (\"mad\" is food). You say it at the end of a meal to thank whoever made the food, and the reply is \"velbekomme\" (you're welcome, said about food).",
+  "forms": [
+   {
+    "da": "Tak for mad!",
+    "en": "Thanks for the meal!"
+   },
+   {
+    "da": "Velbekomme.",
+    "en": "You're welcome."
+   },
+   {
+    "da": "Tak for mad, det var lækkert.",
+    "en": "Thanks for the meal, it was delicious."
+   }
+  ],
+  "related": [
+   {
+    "da": "tak for i dag",
+    "en": "thanks for today"
+   },
+   {
+    "da": "tak for sidst",
+    "en": "thanks for last time"
+   },
+   {
+    "da": "tak for kaffen",
+    "en": "thanks for the coffee"
+   }
+  ],
+  "sentence": {
+   "da": "Maden var lækker. **Tak for mad**!",
+   "en": "The food was delicious. Thanks for the meal!"
+  }
+ },
+ "tak for sidst": {
+  "file": "t.json",
+  "explanation": "\"Tak for sidst\" means \"thanks for last time\" and is a friendly hello to someone you met before. Say it when you meet again, not when you leave.",
+  "forms": [
+   {
+    "da": "Tak for sidst!",
+    "en": "Thanks for last time!"
+   },
+   {
+    "da": "Tak for sidst, det var hyggeligt.",
+    "en": "Thanks for last time, that was nice."
+   },
+   {
+    "da": "Tak for sidst, Maria!",
+    "en": "Thanks for last time, Maria!"
+   }
+  ],
+  "related": [
+   {
+    "da": "tak for i dag",
+    "en": "thanks for today"
+   },
+   {
+    "da": "tak for mad",
+    "en": "thanks for the meal"
+   },
+   {
+    "da": "tak for besøget",
+    "en": "thanks for the visit"
+   }
+  ],
+  "sentence": {
+   "da": "**Tak for sidst**, det var en dejlig aften.",
+   "en": "Thanks for last time, it was a lovely evening."
+  }
+ },
+ "taknemmelig": {
+  "file": "t.json",
+  "explanation": "\"Taknemmelig\" means \"grateful\". It is built from tak (thanks). Use \"for\" (for) to name what you are grateful for: \"Hun var taknemmelig for gaven\" (She was grateful for the gift).",
+  "forms": [
+   {
+    "da": "en taknemmelig gæst",
+    "en": "a grateful guest"
+   },
+   {
+    "da": "et taknemmeligt smil",
+    "en": "a grateful smile"
+   },
+   {
+    "da": "taknemmelige børn",
+    "en": "grateful children"
+   }
+  ],
+  "related": [
+   {
+    "da": "at takke",
+    "en": "to thank"
+   },
+   {
+    "da": "en taknemmelighed",
+    "en": "gratitude"
+   },
+   {
+    "da": "utaknemmelig",
+    "en": "ungrateful"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er så **taknemmelig** for din hjælp.",
+   "en": "I am so grateful for your help."
+  }
+ },
+ "taknemmelighed": {
+  "file": "t.json",
+  "explanation": "\"Taknemmelighed\" means \"gratitude\", the warm feeling of being thankful to someone for what they did. To say you feel it, use \"taknemmelig\" (grateful): \"Jeg er taknemmelig for hjælpen\" (I am grateful for the help).",
+  "forms": [
+   {
+    "da": "taknemmelighed",
+    "en": "gratitude"
+   },
+   {
+    "da": "taknemmeligheden",
+    "en": "the gratitude"
+   },
+   {
+    "da": "med taknemmelighed",
+    "en": "with gratitude"
+   }
+  ],
+  "related": [
+   {
+    "da": "utaknemmelighed",
+    "en": "ingratitude"
+   },
+   {
+    "da": "påskønnelse",
+    "en": "appreciation"
+   },
+   {
+    "da": "anerkendelse",
+    "en": "recognition"
+   },
+   {
+    "da": "tak",
+    "en": "thanks"
+   }
+  ],
+  "sentence": {
+   "da": "Han sendte blomster som tegn på **taknemmelighed**.",
+   "en": "He sent flowers as a sign of gratitude."
+  }
+ },
+ "tal langsomt": {
+  "file": "t.json",
+  "explanation": "\"Tal langsomt\" means \"speak slowly\". Adding \"tak\" (please) makes it polite: \"Tal langsomt, tak\" (Speak slowly, please). \"Kan du tale langsommere?\" (Can you speak more slowly?) is even softer.",
+  "forms": [
+   {
+    "da": "Tal langsomt, tak.",
+    "en": "Speak slowly, please."
+   },
+   {
+    "da": "Kan du tale langsommere?",
+    "en": "Can you speak more slowly?"
+   },
+   {
+    "da": "Jeg forstår, når du taler langsomt.",
+    "en": "I understand when you speak slowly."
+   }
+  ],
+  "related": [
+   {
+    "da": "langsom",
+    "en": "slow"
+   },
+   {
+    "da": "hurtigt",
+    "en": "quickly"
+   },
+   {
+    "da": "at gentage",
+    "en": "to repeat"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er ny her. **Tal langsomt**, tak.",
+   "en": "I am new here. Speak slowly, please."
+  }
+ },
+ "talentfuld": {
+  "file": "t.json",
+  "explanation": "\"Talentfuld\" means \"talented\", naturally good at something such as music, sports or art. It is built from et talent (a talent) and -fuld (full of), the same -fuld as in \"meningsfuld\" (meaningful).",
+  "forms": [
+   {
+    "da": "en talentfuld sanger",
+    "en": "a talented singer"
+   },
+   {
+    "da": "et talentfuldt barn",
+    "en": "a talented child"
+   },
+   {
+    "da": "talentfulde unge",
+    "en": "talented young people"
+   }
+  ],
+  "related": [
+   {
+    "da": "begavet",
+    "en": "gifted"
+   },
+   {
+    "da": "dygtig",
+    "en": "skilled"
+   },
+   {
+    "da": "lovende",
+    "en": "promising"
+   },
+   {
+    "da": "talentløs",
+    "en": "untalented"
+   }
+  ],
+  "sentence": {
+   "da": "Han er en meget **talentfuld** fodboldspiller.",
+   "en": "He is a very talented soccer player."
+  }
+ },
+ "taler du engelsk?": {
+  "file": "t.json",
+  "explanation": "\"Taler du engelsk?\" means \"Do you speak English?\". It is polite to try some Danish first: \"Jeg taler lidt dansk\" (I speak a little Danish). To ask several people, say \"Taler I engelsk?\" (Do you all speak English?).",
+  "forms": [
+   {
+    "da": "Taler du engelsk?",
+    "en": "Do you speak English?"
+   },
+   {
+    "da": "Ja, lidt.",
+    "en": "Yes, a little."
+   },
+   {
+    "da": "Jeg taler kun lidt dansk.",
+    "en": "I only speak a little Danish."
+   }
+  ],
+  "related": [
+   {
+    "da": "at tale",
+    "en": "to speak"
+   },
+   {
+    "da": "at forstå",
+    "en": "to understand"
+   },
+   {
+    "da": "kan du tale dansk?",
+    "en": "can you speak Danish?"
+   }
+  ],
+  "sentence": {
+   "da": "Undskyld, **taler du engelsk?**",
+   "en": "Excuse me, do you speak English?"
+  }
+ },
+ "tandpasta": {
+  "file": "t.json",
+  "explanation": "\"Tandpasta\" means \"toothpaste\", the paste you put on a toothbrush to clean your teeth. To name an amount, use \"en tube tandpasta\" (a tube of toothpaste).",
+  "forms": [
+   {
+    "da": "en tandpasta",
+    "en": "a toothpaste"
+   },
+   {
+    "da": "tandpastaen",
+    "en": "the toothpaste"
+   },
+   {
+    "da": "en tube tandpasta",
+    "en": "a tube of toothpaste"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tandbørste",
+    "en": "a toothbrush"
+   },
+   {
+    "da": "tandtråd",
+    "en": "dental floss"
+   },
+   {
+    "da": "mundskyl",
+    "en": "mouthwash"
+   }
+  ],
+  "sentence": {
+   "da": "Der er ikke mere **tandpasta** i tuben.",
+   "en": "There is no more toothpaste in the tube."
+  }
+ },
+ "tandpine": {
+  "file": "t.json",
+  "explanation": "\"Tandpine\" means \"toothache\". It is built from tand (tooth) and pine (pain). You can also say \"Jeg har ondt i tanden\" (I have a toothache; literally, \"I have pain in the tooth\").",
+  "forms": [
+   {
+    "da": "en tandpine",
+    "en": "a toothache"
+   },
+   {
+    "da": "tandpinen",
+    "en": "the toothache"
+   },
+   {
+    "da": "Jeg har tandpine.",
+    "en": "I have a toothache."
+   }
+  ],
+  "related": [
+   {
+    "da": "en tandlæge",
+    "en": "a dentist"
+   },
+   {
+    "da": "hovedpine",
+    "en": "headache"
+   },
+   {
+    "da": "ondt i maven",
+    "en": "stomach ache"
+   },
+   {
+    "da": "en tandbørste",
+    "en": "a toothbrush"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har **tandpine** og skal til tandlægen.",
+   "en": "I have a toothache and need to go to the dentist."
+  }
+ },
+ "tandtråd": {
+  "file": "t.json",
+  "explanation": "\"Tandtråd\" means \"dental floss\", a thin thread you pull between your teeth to remove food. It is a joined word: tand (tooth) and tråd (thread).",
+  "forms": [
+   {
+    "da": "tandtråd",
+    "en": "dental floss"
+   },
+   {
+    "da": "tandtråden",
+    "en": "the dental floss"
+   },
+   {
+    "da": "en rulle tandtråd",
+    "en": "a roll of dental floss"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tandbørste",
+    "en": "a toothbrush"
+   },
+   {
+    "da": "en tandlæge",
+    "en": "a dentist"
+   },
+   {
+    "da": "en tandstikker",
+    "en": "a toothpick"
+   },
+   {
+    "da": "tandpasta",
+    "en": "toothpaste"
+   }
+  ],
+  "sentence": {
+   "da": "Efter maden bruger jeg **tandtråd** mellem tænderne.",
+   "en": "After the meal I use dental floss between my teeth."
+  }
+ },
+ "tankefuld": {
+  "file": "t.json",
+  "explanation": "\"Tankefuld\" means \"pensive\", about someone who is quiet and deep in thought, often with a faraway look. For \"thoughtful\" in the sense of kind and considerate, use \"omtænksom\" (considerate) instead.",
+  "forms": [
+   {
+    "da": "en tankefuld mand",
+    "en": "a pensive man"
+   },
+   {
+    "da": "et tankefuldt blik",
+    "en": "a pensive look"
+   },
+   {
+    "da": "tankefulde børn",
+    "en": "pensive children"
+   }
+  ],
+  "related": [
+   {
+    "da": "eftertænksom",
+    "en": "reflective"
+   },
+   {
+    "da": "fordybet",
+    "en": "absorbed"
+   },
+   {
+    "da": "fraværende",
+    "en": "absent-minded"
+   },
+   {
+    "da": "grublende",
+    "en": "brooding"
+   }
+  ],
+  "sentence": {
+   "da": "Han blev **tankefuld** og stirrede længe ud af vinduet.",
+   "en": "He became pensive and stared out of the window for a long time."
+  }
+ },
+ "tankeløs": {
+  "file": "t.json",
+  "explanation": "\"Tankeløs\" means \"thoughtless\", acting without thinking about how it affects others. The ending -løs means \"without\", as in \"hjemløs\" (homeless).",
+  "forms": [
+   {
+    "da": "en tankeløs bemærkning",
+    "en": "a thoughtless remark"
+   },
+   {
+    "da": "et tankeløst valg",
+    "en": "a thoughtless choice"
+   },
+   {
+    "da": "tankeløse handlinger",
+    "en": "thoughtless actions"
+   }
+  ],
+  "related": [
+   {
+    "da": "ubetænksom",
+    "en": "inconsiderate"
+   },
+   {
+    "da": "hensynsløs",
+    "en": "ruthless"
+   },
+   {
+    "da": "omtænksom",
+    "en": "considerate"
+   },
+   {
+    "da": "uforsigtig",
+    "en": "careless"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **tankeløs** og tænker aldrig på andre.",
+   "en": "He is thoughtless and never thinks about others."
+  }
+ },
+ "tape": {
+  "file": "t.json",
+  "explanation": "\"Tape\" means \"tape\" for sticking things together, such as paper and packages.",
+  "forms": [
+   {
+    "da": "tape",
+    "en": "tape"
+   },
+   {
+    "da": "tapen",
+    "en": "the tape"
+   },
+   {
+    "da": "en rulle tape",
+    "en": "a roll of tape"
+   },
+   {
+    "da": "Jeg skal bruge tape.",
+    "en": "I need tape."
+   }
+  ],
+  "related": [
+   {
+    "da": "at klistre",
+    "en": "to stick"
+   },
+   {
+    "da": "et klistermærke",
+    "en": "a sticker"
+   },
+   {
+    "da": "lim",
+    "en": "glue"
+   },
+   {
+    "da": "en saks",
+    "en": "scissors"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg klistrer plakaten op med **tape**.",
+   "en": "I stick the poster up with tape."
+  }
+ },
+ "tapet": {
+  "file": "t.json",
+  "explanation": "\"Tapet\" means \"wallpaper\", the paper you put on a wall instead of paint.",
+  "forms": [
+   {
+    "da": "tapetet",
+    "en": "the wallpaper"
+   },
+   {
+    "da": "blåt tapet",
+    "en": "blue wallpaper"
+   },
+   {
+    "da": "tapeter",
+    "en": "wallpapers"
+   }
+  ],
+  "related": [
+   {
+    "da": "maling",
+    "en": "paint"
+   },
+   {
+    "da": "at tapetsere",
+    "en": "to wallpaper"
+   },
+   {
+    "da": "at male",
+    "en": "to paint"
+   }
+  ],
+  "sentence": {
+   "da": "Der er gammelt **tapet** på væggen.",
+   "en": "There is old wallpaper on the wall."
+  }
+ },
+ "tatoveret": {
+  "file": "t.json",
+  "explanation": "\"Tatoveret\" means \"tattooed\", having a picture or text drawn permanently into the skin. It comes from \"at tatovere\" (to tattoo).",
+  "forms": [
+   {
+    "da": "en tatoveret mand",
+    "en": "a tattooed man"
+   },
+   {
+    "da": "et tatoveret ben",
+    "en": "a tattooed leg"
+   },
+   {
+    "da": "tatoverede arme",
+    "en": "tattooed arms"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tatovør",
+    "en": "a tattoo artist"
+   },
+   {
+    "da": "piercet",
+    "en": "pierced"
+   },
+   {
+    "da": "et motiv",
+    "en": "a design"
+   }
+  ],
+  "sentence": {
+   "da": "Hans arm er **tatoveret** med en stor drage.",
+   "en": "His arm is tattooed with a big dragon."
+  }
+ },
+ "tavs": {
+  "file": "t.json",
+  "explanation": "\"Tavs\" means \"silent\", saying nothing, so it is about a person who does not speak. For a calm place without noise, use \"stille\" (quiet): \"et stille rum\" (a quiet room).",
+  "forms": [
+   {
+    "da": "en tavs mand",
+    "en": "a silent man"
+   },
+   {
+    "da": "et tavst øjeblik",
+    "en": "a silent moment"
+   },
+   {
+    "da": "tavse gæster",
+    "en": "silent guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tie",
+    "en": "to hold one's tongue"
+   },
+   {
+    "da": "tavshed",
+    "en": "silence"
+   },
+   {
+    "da": "mundlam",
+    "en": "tongue-tied"
+   },
+   {
+    "da": "fåmælt",
+    "en": "of few words"
+   }
+  ],
+  "sentence": {
+   "da": "Hun var **tavs** og sagde ikke et ord.",
+   "en": "She was silent and did not say a word."
+  }
+ },
+ "te": {
+  "file": "t.json",
+  "explanation": "\"Te\" means \"tea\". It is said like English \"tay\", not like \"tee\". Do not mix it up with \"ti\" (ten), which is said like \"tee\".",
+  "forms": [
+   {
+    "da": "en te",
+    "en": "a tea"
+   },
+   {
+    "da": "teen",
+    "en": "the tea"
+   },
+   {
+    "da": "en kop te",
+    "en": "a cup of tea"
+   }
+  ],
+  "related": [
+   {
+    "da": "kaffe",
+    "en": "coffee"
+   },
+   {
+    "da": "kakao",
+    "en": "cocoa"
+   },
+   {
+    "da": "urtete",
+    "en": "herbal tea"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg drikker varm **te** med citron.",
+   "en": "I drink hot tea with lemon."
+  }
+ },
+ "tegnsætning": {
+  "file": "t.json",
+  "explanation": "\"Tegnsætning\" means \"punctuation\", the marks in writing such as \"komma\" (comma) and \"punktum\" (period). It is built from tegn (mark) and at sætte (to put).",
+  "forms": [
+   {
+    "da": "tegnsætning",
+    "en": "punctuation"
+   },
+   {
+    "da": "tegnsætningen",
+    "en": "the punctuation"
+   },
+   {
+    "da": "god tegnsætning",
+    "en": "good punctuation"
+   }
+  ],
+  "related": [
+   {
+    "da": "et semikolon",
+    "en": "a semicolon"
+   },
+   {
+    "da": "et udråbstegn",
+    "en": "an exclamation mark"
+   },
+   {
+    "da": "et spørgsmålstegn",
+    "en": "a question mark"
+   },
+   {
+    "da": "et anførselstegn",
+    "en": "a quotation mark"
+   }
+  ],
+  "sentence": {
+   "da": "God **tegnsætning** gør det lettere at læse en tekst.",
+   "en": "Good punctuation makes it easier to read a text."
+  }
+ },
+ "teknisk": {
+  "file": "t.json",
+  "explanation": "\"Teknisk\" means \"technical\", for anything to do with machines and how they work, such as \"en teknisk fejl\" (a technical fault). The phrase \"teknisk set\" means \"technically speaking\".",
+  "forms": [
+   {
+    "da": "en teknisk tegning",
+    "en": "a technical drawing"
+   },
+   {
+    "da": "et teknisk spørgsmål",
+    "en": "a technical question"
+   },
+   {
+    "da": "tekniske detaljer",
+    "en": "technical details"
+   }
+  ],
+  "related": [
+   {
+    "da": "en teknik",
+    "en": "a technique"
+   },
+   {
+    "da": "en tekniker",
+    "en": "a technician"
+   },
+   {
+    "da": "teknologi",
+    "en": "technology"
+   },
+   {
+    "da": "teknologisk",
+    "en": "technological"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en **teknisk** fejl i systemet.",
+   "en": "There is a technical error in the system."
+  }
+ },
+ "temmelig": {
+  "file": "t.json",
+  "explanation": "\"Temmelig\" means \"rather\" and \"fairly\". It is stronger than \"lidt\" (a little) but weaker than \"meget\" (very): \"lidt dyrt, temmelig dyrt, meget dyrt\" (a little expensive, rather expensive, very expensive).",
+  "forms": [
+   {
+    "da": "Det er temmelig dyrt",
+    "en": "It is rather expensive"
+   },
+   {
+    "da": "temmelig stor",
+    "en": "rather big"
+   },
+   {
+    "da": "temmelig sent",
+    "en": "fairly late"
+   }
+  ],
+  "related": [
+   {
+    "da": "ganske",
+    "en": "quite"
+   },
+   {
+    "da": "ret",
+    "en": "pretty"
+   },
+   {
+    "da": "nogenlunde",
+    "en": "fairly well"
+   },
+   {
+    "da": "forholdsvis",
+    "en": "relatively"
+   }
+  ],
+  "sentence": {
+   "da": "Vejret er **temmelig** koldt for juni.",
+   "en": "The weather is rather cold for June."
+  }
+ },
+ "tennis": {
+  "file": "t.json",
+  "explanation": "\"Tennis\" means \"tennis\". You play it with \"at spille\" (to play): \"at spille tennis\" (to play tennis).",
+  "forms": [
+   {
+    "da": "tennis",
+    "en": "tennis"
+   },
+   {
+    "da": "en tennisbane",
+    "en": "a tennis court"
+   },
+   {
+    "da": "Jeg spiller tennis.",
+    "en": "I play tennis."
+   }
+  ],
+  "related": [
+   {
+    "da": "golf",
+    "en": "golf"
+   },
+   {
+    "da": "en bane",
+    "en": "a court"
+   },
+   {
+    "da": "badminton",
+    "en": "badminton"
+   }
+  ],
+  "sentence": {
+   "da": "I **tennis** slår man bolden over nettet.",
+   "en": "In tennis, you hit the ball over the net."
+  }
+ },
+ "teoretisk": {
+  "file": "t.json",
+  "explanation": "\"Teoretisk\" means \"theoretical\", about ideas and rules instead of real practice. \"Teoretisk set kan det lade sig gøre\" (Theoretically, it can be done) means it is possible on paper, even if it may not work in real life.",
+  "forms": [
+   {
+    "da": "en teoretisk mulighed",
+    "en": "a theoretical possibility"
+   },
+   {
+    "da": "et teoretisk spørgsmål",
+    "en": "a theoretical question"
+   },
+   {
+    "da": "teoretiske fag",
+    "en": "theoretical subjects"
+   }
+  ],
+  "related": [
+   {
+    "da": "praktisk",
+    "en": "practical"
+   },
+   {
+    "da": "en teori",
+    "en": "a theory"
+   },
+   {
+    "da": "hypotetisk",
+    "en": "hypothetical"
+   },
+   {
+    "da": "abstrakt",
+    "en": "abstract"
+   }
+  ],
+  "sentence": {
+   "da": "Bogen er **teoretisk** og forklarer ideer uden eksempler.",
+   "en": "The book is theoretical and explains ideas without examples."
+  }
+ },
+ "terapi": {
+  "file": "t.json",
+  "explanation": "\"Terapi\" means \"therapy\", help for problems of the mind or body, such as regular talks with a trained person.",
+  "forms": [
+   {
+    "da": "en terapi",
+    "en": "a therapy"
+   },
+   {
+    "da": "terapien",
+    "en": "the therapy"
+   },
+   {
+    "da": "terapier",
+    "en": "therapies"
+   },
+   {
+    "da": "terapierne",
+    "en": "the therapies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en psykolog",
+    "en": "a psychologist"
+   },
+   {
+    "da": "en behandling",
+    "en": "a treatment"
+   },
+   {
+    "da": "en terapeut",
+    "en": "a therapist"
+   },
+   {
+    "da": "fysioterapi",
+    "en": "physical therapy"
+   }
+  ],
+  "sentence": {
+   "da": "Hun går i **terapi** hver uge.",
+   "en": "She goes to therapy every week."
+  }
+ },
+ "ternet": {
+  "file": "t.json",
+  "explanation": "\"Ternet\" means \"checkered\" or \"plaid\", with a pattern of squares. It also describes squared paper: \"ternet papir\" (squared paper).",
+  "forms": [
+   {
+    "da": "en ternet dug",
+    "en": "a checkered tablecloth"
+   },
+   {
+    "da": "et ternet tæppe",
+    "en": "a plaid blanket"
+   },
+   {
+    "da": "ternede skjorter",
+    "en": "plaid shirts"
+   }
+  ],
+  "related": [
+   {
+    "da": "stribet",
+    "en": "striped"
+   },
+   {
+    "da": "prikket",
+    "en": "dotted"
+   },
+   {
+    "da": "mønstret",
+    "en": "patterned"
+   },
+   {
+    "da": "ensfarvet",
+    "en": "plain-colored"
+   }
+  ],
+  "sentence": {
+   "da": "Dugen på bordet er rød og hvid og **ternet**.",
+   "en": "The cloth on the table is red and white and checkered."
+  }
+ },
+ "terrorisme": {
+  "file": "t.json",
+  "explanation": "\"Terrorisme\" means \"terrorism\", the use of violence or threats to frighten people for a political goal.",
+  "forms": [
+   {
+    "da": "terrorisme",
+    "en": "terrorism"
+   },
+   {
+    "da": "terrorismen",
+    "en": "the terrorism"
+   },
+   {
+    "da": "kampen mod terrorisme",
+    "en": "the fight against terrorism"
+   }
+  ],
+  "related": [
+   {
+    "da": "en terrorist",
+    "en": "a terrorist"
+   },
+   {
+    "da": "et terrorangreb",
+    "en": "a terror attack"
+   },
+   {
+    "da": "ekstremisme",
+    "en": "extremism"
+   }
+  ],
+  "sentence": {
+   "da": "Mange lande samarbejder om at bekæmpe **terrorisme**.",
+   "en": "Many countries work together to fight terrorism."
+  }
+ },
+ "ti": {
+  "file": "t.json",
+  "explanation": "\"Ti\" means \"ten\", said like \"tee\": \"Klokken er ti\" (It is ten o'clock). Do not mix it up with \"tid\" (time), which ends in a d: \"Jeg har ikke tid\" (I do not have time).",
+  "forms": [
+   {
+    "da": "ti kroner",
+    "en": "ten kroner"
+   },
+   {
+    "da": "klokken ti",
+    "en": "ten o'clock"
+   },
+   {
+    "da": "ti minutter",
+    "en": "ten minutes"
+   }
+  ],
+  "related": [
+   {
+    "da": "ni",
+    "en": "nine"
+   },
+   {
+    "da": "elleve",
+    "en": "eleven"
+   },
+   {
+    "da": "tiende",
+    "en": "tenth"
+   },
+   {
+    "da": "te",
+    "en": "tea"
+   }
+  ],
+  "sentence": {
+   "da": "Efter ni kommer **ti**.",
+   "en": "After nine comes ten."
+  }
+ },
+ "tidevand": {
+  "file": "t.json",
+  "explanation": "\"Et tidevand\" means \"a tide\", the regular rising and falling of the sea. The high point is \"højvande\" (high tide), and the low point is \"lavvande\" (low tide).",
+  "forms": [
+   {
+    "da": "et tidevand",
+    "en": "a tide"
+   },
+   {
+    "da": "tidevandet",
+    "en": "the tide"
+   },
+   {
+    "da": "tidevandet kommer ind",
+    "en": "the tide comes in"
+   },
+   {
+    "da": "tidevandet går ud",
+    "en": "the tide goes out"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ebbe",
+    "en": "an ebb"
+   },
+   {
+    "da": "en bølge",
+    "en": "a wave"
+   },
+   {
+    "da": "en havstrøm",
+    "en": "an ocean current"
+   },
+   {
+    "da": "en stormflod",
+    "en": "a storm surge"
+   }
+  ],
+  "sentence": {
+   "da": "Når vandet går ud og kommer ind igen, kalder vi det **tidevand**.",
+   "en": "When the water goes out and comes in again, we call that the tide."
+  }
+ },
+ "tidlig": {
+  "file": "t.json",
+  "explanation": "\"Tidlig\" means \"early\". To say you do something early, use \"tidligt\" (early): \"Jeg står tidligt op\" (I get up early).",
+  "forms": [
+   {
+    "da": "en tidlig morgen",
+    "en": "an early morning"
+   },
+   {
+    "da": "et tidligt tog",
+    "en": "an early train"
+   },
+   {
+    "da": "tidlige tog",
+    "en": "early trains"
+   }
+  ],
+  "related": [
+   {
+    "da": "sen",
+    "en": "late"
+   },
+   {
+    "da": "tidligere",
+    "en": "earlier"
+   },
+   {
+    "da": "sent",
+    "en": "late (how you do something)"
+   }
+  ],
+  "sentence": {
+   "da": "Du er **tidlig** til mødet.",
+   "en": "You are early for the meeting."
+  }
+ },
+ "tidligere": {
+  "file": "t.json",
+  "explanation": "\"Tidligere\" means \"earlier\" and also \"former\". For time, it means before now: \"Vi sås tidligere\" (We met earlier). To name a person's past role, put \"tidligere\" before the role: \"en tidligere elev\" (a former student).",
+  "forms": [
+   {
+    "da": "Kom tidligere i morgen.",
+    "en": "Come earlier tomorrow."
+   },
+   {
+    "da": "min tidligere chef",
+    "en": "my former boss"
+   },
+   {
+    "da": "tidligere i år",
+    "en": "earlier this year"
+   }
+  ],
+  "related": [
+   {
+    "da": "før",
+    "en": "before"
+   },
+   {
+    "da": "senere",
+    "en": "later"
+   },
+   {
+    "da": "forhenværende",
+    "en": "former"
+   },
+   {
+    "da": "nuværende",
+    "en": "current"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har **tidligere** boet i Aarhus.",
+   "en": "She has previously lived in Aarhus."
+  }
+ },
+ "tidligt": {
+  "file": "t.json",
+  "explanation": "\"Tidligt\" means \"early\", used after a verb: \"Jeg står tidligt op\" (I get up early). Use \"tidlig\" when it goes before a thing: \"en tidlig morgen\" (an early morning).",
+  "forms": [
+   {
+    "da": "tidligt",
+    "en": "early"
+   },
+   {
+    "da": "meget tidligt",
+    "en": "very early"
+   },
+   {
+    "da": "stå tidligt op",
+    "en": "get up early"
+   }
+  ],
+  "related": [
+   {
+    "da": "sent",
+    "en": "late"
+   },
+   {
+    "da": "for tidligt",
+    "en": "too early"
+   },
+   {
+    "da": "tidligere",
+    "en": "earlier"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg står **tidligt** op klokken fem.",
+   "en": "I get up early at five o'clock."
+  }
+ },
+ "tidskrævende": {
+  "file": "t.json",
+  "explanation": "\"Tidskrævende\" means \"time-consuming\", taking a lot of time and effort. It is built from tid (time) and krævende (demanding).",
+  "forms": [
+   {
+    "da": "en tidskrævende opgave",
+    "en": "a time-consuming task"
+   },
+   {
+    "da": "et tidskrævende arbejde",
+    "en": "a time-consuming job"
+   },
+   {
+    "da": "tidskrævende møder",
+    "en": "time-consuming meetings"
+   }
+  ],
+  "related": [
+   {
+    "da": "langvarig",
+    "en": "long-lasting"
+   },
+   {
+    "da": "besværlig",
+    "en": "troublesome"
+   },
+   {
+    "da": "omstændelig",
+    "en": "cumbersome"
+   },
+   {
+    "da": "hurtig",
+    "en": "quick"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **tidskrævende** at skrive en lang rapport.",
+   "en": "It is time-consuming to write a long report."
+  }
+ },
+ "tidspres": {
+  "file": "t.json",
+  "explanation": "\"Tidspres\" means \"time pressure\", having too little time before something must be finished. It is built from tid (time) and et pres (a pressure).",
+  "forms": [
+   {
+    "da": "et tidspres",
+    "en": "a time pressure"
+   },
+   {
+    "da": "tidspresset",
+    "en": "the time pressure"
+   },
+   {
+    "da": "under tidspres",
+    "en": "under time pressure"
+   }
+  ],
+  "related": [
+   {
+    "da": "en frist",
+    "en": "a deadline"
+   },
+   {
+    "da": "travlhed",
+    "en": "busyness"
+   },
+   {
+    "da": "hastværk",
+    "en": "rushed work"
+   },
+   {
+    "da": "stress",
+    "en": "stress"
+   }
+  ],
+  "sentence": {
+   "da": "Det blev ikke færdigt på grund af **tidspres**.",
+   "en": "It was not finished because of time pressure."
+  }
+ },
+ "tidssvarende": {
+  "file": "t.json",
+  "explanation": "\"Tidssvarende\" means \"up to date\", for things that fit the standards of the present, such as equipment, rules and buildings: \"tidssvarende udstyr\" (up-to-date equipment). For information that is current, use \"opdateret\" (updated) instead.",
+  "forms": [
+   {
+    "da": "tidssvarende udstyr",
+    "en": "up-to-date equipment"
+   },
+   {
+    "da": "en tidssvarende bygning",
+    "en": "an up-to-date building"
+   },
+   {
+    "da": "tidssvarende regler",
+    "en": "up-to-date rules"
+   }
+  ],
+  "related": [
+   {
+    "da": "moderne",
+    "en": "modern"
+   },
+   {
+    "da": "forældet",
+    "en": "outdated"
+   },
+   {
+    "da": "nutidig",
+    "en": "contemporary"
+   },
+   {
+    "da": "gammeldags",
+    "en": "old-fashioned"
+   }
+  ],
+  "sentence": {
+   "da": "Reglerne er gamle og ikke længere **tidssvarende**.",
+   "en": "The rules are old and no longer up to date."
+  }
+ },
+ "tiende": {
+  "file": "t.json",
+  "explanation": "\"Tiende\" means \"tenth\". It is used for dates: \"den tiende juni\" is the tenth of June, written \"10. juni\" with a dot after the number.",
+  "forms": [
+   {
+    "da": "den tiende dag",
+    "en": "the tenth day"
+   },
+   {
+    "da": "det tiende hus",
+    "en": "the tenth house"
+   },
+   {
+    "da": "tiende gang",
+    "en": "the tenth time"
+   }
+  ],
+  "related": [
+   {
+    "da": "ti",
+    "en": "ten"
+   },
+   {
+    "da": "niende",
+    "en": "ninth"
+   },
+   {
+    "da": "ellevte",
+    "en": "eleventh"
+   }
+  ],
+  "sentence": {
+   "da": "Efter den niende kommer den **tiende**.",
+   "en": "After the ninth comes the tenth."
+  }
+ },
+ "til": {
+  "file": "t.json",
+  "explanation": "\"Til\" means \"to\" for a place you go: \"Jeg rejser til Danmark\" (I am traveling to Denmark). It also means \"for\" a person: \"Gaven er til dig\" (The gift is for you). With meals and holidays it means \"for\" or \"at\": \"til morgenmad\" (for breakfast), \"til jul\" (at Christmas).",
+  "forms": [
+   {
+    "da": "til Danmark",
+    "en": "to Denmark"
+   },
+   {
+    "da": "en gave til dig",
+    "en": "a gift for you"
+   },
+   {
+    "da": "til morgenmad",
+    "en": "for breakfast"
+   }
+  ],
+  "related": [
+   {
+    "da": "fra",
+    "en": "from"
+   },
+   {
+    "da": "hos",
+    "en": "at someone's place"
+   },
+   {
+    "da": "mod",
+    "en": "towards / against"
+   },
+   {
+    "da": "indtil",
+    "en": "until"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg rejser **til** Aarhus i morgen.",
+   "en": "I am traveling to Aarhus tomorrow."
+  }
+ },
+ "til fælles": {
+  "file": "t.json",
+  "explanation": "\"Til fælles\" means \"in common\" and usually follows \"at have\" (to have). You use it for what links people: \"Vi har en hobby til fælles\" (We have a hobby in common).",
+  "forms": [
+   {
+    "da": "Vi har intet til fælles",
+    "en": "We have nothing in common"
+   },
+   {
+    "da": "Hvad har I til fælles?",
+    "en": "What do you have in common?"
+   },
+   {
+    "da": "Vi har musik til fælles",
+    "en": "We have music in common"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dele",
+    "en": "to share"
+   },
+   {
+    "da": "ens",
+    "en": "alike"
+   },
+   {
+    "da": "forskellig",
+    "en": "different"
+   },
+   {
+    "da": "ligesom",
+    "en": "just like"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har mange ting **til fælles**.",
+   "en": "We have many things in common."
+  }
+ },
+ "til gengæld": {
+  "file": "t.json",
+  "explanation": "\"Til gengæld\" means \"on the other hand\", often adding a good side to something bad: \"Huset er lille, men til gengæld er det billigt\" (The house is small, but on the other hand it is cheap). It also means \"in return\": \"Jeg laver mad, og til gengæld tager du opvasken\" (I cook, and in return you do the dishes).",
+  "forms": [
+   {
+    "da": "Det er dyrt, men til gengæld godt.",
+    "en": "It is expensive, but on the other hand it is good."
+   },
+   {
+    "da": "Bilen er gammel, men til gengæld billig.",
+    "en": "The car is old, but on the other hand it is cheap."
+   }
+  ],
+  "related": [
+   {
+    "da": "derimod",
+    "en": "whereas"
+   },
+   {
+    "da": "omvendt",
+    "en": "conversely"
+   },
+   {
+    "da": "i stedet",
+    "en": "instead"
+   },
+   {
+    "da": "alligevel",
+    "en": "still"
+   }
+  ],
+  "sentence": {
+   "da": "Lejligheden er lille, men **til gengæld** ligger den centralt.",
+   "en": "The apartment is small, but on the other hand it is centrally located."
+  }
+ },
+ "til højre": {
+  "file": "t.json",
+  "explanation": "\"Til højre\" means \"to the right\". You use it to give a direction: \"Vi skal køre til højre ved bageren\" (We have to turn right at the bakery). You also use it to say where something is: \"Kaffen står til højre\" (The coffee is on the right).",
+  "forms": [
+   {
+    "da": "til højre",
+    "en": "to the right"
+   },
+   {
+    "da": "Drej til højre.",
+    "en": "Turn right."
+   },
+   {
+    "da": "Banken er til højre.",
+    "en": "The bank is on the right."
+   }
+  ],
+  "related": [
+   {
+    "da": "til venstre",
+    "en": "to the left"
+   },
+   {
+    "da": "ligeud",
+    "en": "straight ahead"
+   },
+   {
+    "da": "tilbage",
+    "en": "back"
+   }
+  ],
+  "sentence": {
+   "da": "Min skole ligger **til højre** for kirken.",
+   "en": "My school is to the right of the church."
+  }
+ },
+ "til sidst": {
+  "file": "t.json",
+  "explanation": "\"Til sidst\" means \"finally\" or \"in the end\". You use it for the last step after other things: \"Til sidst gik vi hjem\" (In the end we went home).",
+  "forms": [
+   {
+    "da": "til sidst",
+    "en": "finally / in the end"
+   },
+   {
+    "da": "Til sidst gik vi hjem.",
+    "en": "In the end we went home."
+   },
+   {
+    "da": "Til sidst kom han.",
+    "en": "Finally he came."
+   }
+  ],
+  "related": [
+   {
+    "da": "først",
+    "en": "first"
+   },
+   {
+    "da": "derefter",
+    "en": "after that"
+   },
+   {
+    "da": "endelig",
+    "en": "at last"
+   },
+   {
+    "da": "til slut",
+    "en": "at the end"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiste middag, og **til sidst** drak vi kaffe.",
+   "en": "We had dinner, and finally we drank coffee."
+  }
+ },
+ "til tiden": {
+  "file": "t.json",
+  "explanation": "\"Til tiden\" means \"on time\", at the agreed time.",
+  "forms": [
+   {
+    "da": "Toget kom til tiden",
+    "en": "The train came on time"
+   },
+   {
+    "da": "Vær der til tiden",
+    "en": "Be there on time"
+   },
+   {
+    "da": "Han starter altid til tiden",
+    "en": "He always starts on time"
+   }
+  ],
+  "related": [
+   {
+    "da": "for sent",
+    "en": "too late"
+   },
+   {
+    "da": "for tidligt",
+    "en": "too early"
+   },
+   {
+    "da": "punktlig",
+    "en": "punctual"
+   },
+   {
+    "da": "præcis",
+    "en": "exact"
+   }
+  ],
+  "sentence": {
+   "da": "Bussen kom **til tiden**, og vi kom ikke for sent.",
+   "en": "The bus came on time, and we were not late."
+  }
+ },
+ "til venstre": {
+  "file": "t.json",
+  "explanation": "\"Til venstre\" means \"to the left\" or \"on the left\". It works for a direction: \"Drej til venstre\" (Turn left). It also works for where something is: \"Bordet står til venstre\" (The table is on the left).",
+  "forms": [
+   {
+    "da": "til venstre",
+    "en": "to the left"
+   },
+   {
+    "da": "Drej til venstre.",
+    "en": "Turn left."
+   },
+   {
+    "da": "Posthuset er til venstre.",
+    "en": "The post office is on the left."
+   }
+  ],
+  "related": [
+   {
+    "da": "til højre",
+    "en": "to the right"
+   },
+   {
+    "da": "ligeud",
+    "en": "straight ahead"
+   },
+   {
+    "da": "tilbage",
+    "en": "back"
+   }
+  ],
+  "sentence": {
+   "da": "Hjertet sidder **til venstre** i brystet.",
+   "en": "The heart is on the left in the chest."
+  }
+ },
+ "tilbage": {
+  "file": "t.json",
+  "explanation": "\"Tilbage\" means \"back\" or \"left over\". For going back: \"Hun går tilbage\" (She goes back). For what remains: \"Der er to tilbage\" (There are two left). For the back of your body, use \"ryg\" (back): \"Jeg har ondt i ryggen\" (My back hurts).",
+  "forms": [
+   {
+    "da": "Jeg kommer tilbage.",
+    "en": "I will come back."
+   },
+   {
+    "da": "Giv det tilbage!",
+    "en": "Give it back!"
+   },
+   {
+    "da": "Der er lidt tilbage.",
+    "en": "There is a little left."
+   }
+  ],
+  "related": [
+   {
+    "da": "frem",
+    "en": "forward"
+   },
+   {
+    "da": "bagud",
+    "en": "backwards"
+   },
+   {
+    "da": "retur",
+    "en": "return"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kommer snart **tilbage**.",
+   "en": "I will be back soon."
+  }
+ },
+ "tilfreds": {
+  "file": "t.json",
+  "explanation": "\"Tilfreds\" means \"satisfied\" or \"content\". You say it when you are fine with how something turned out: \"Jeg er tilfreds med resultatet\" (I am satisfied with the result).",
+  "forms": [
+   {
+    "da": "en tilfreds kunde",
+    "en": "a satisfied customer"
+   },
+   {
+    "da": "et tilfreds smil",
+    "en": "a satisfied smile"
+   },
+   {
+    "da": "tilfredse kunder",
+    "en": "satisfied customers"
+   }
+  ],
+  "related": [
+   {
+    "da": "utilfreds",
+    "en": "dissatisfied"
+   },
+   {
+    "da": "glad",
+    "en": "happy"
+   },
+   {
+    "da": "fornøjet",
+    "en": "pleased"
+   },
+   {
+    "da": "en tilfredshed",
+    "en": "satisfaction"
+   }
+  ],
+  "sentence": {
+   "da": "Kunden er **tilfreds** med maden.",
+   "en": "The customer is satisfied with the food."
+  }
+ },
+ "tilfreds med": {
+  "file": "t.json",
+  "explanation": "\"Tilfreds med\" means \"satisfied with\". The opposite is \"utilfreds med\" (unhappy with): \"Kunden er utilfreds med servicen\" (The customer is unhappy with the service).",
+  "forms": [
+   {
+    "da": "Jeg er tilfreds med min lejlighed.",
+    "en": "I am satisfied with my apartment."
+   },
+   {
+    "da": "Er du tilfreds med maden?",
+    "en": "Are you satisfied with the food?"
+   },
+   {
+    "da": "Vi er tilfredse med huset.",
+    "en": "We are satisfied with the house."
+   }
+  ],
+  "related": [
+   {
+    "da": "fornøjet med",
+    "en": "pleased with"
+   },
+   {
+    "da": "glad for",
+    "en": "happy about"
+   },
+   {
+    "da": "en tilfredshed",
+    "en": "satisfaction"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **tilfreds med** mit nye job.",
+   "en": "I am satisfied with my new job."
+  }
+ },
+ "tilfredshed": {
+  "file": "t.json",
+  "explanation": "\"Tilfredshed\" means \"satisfaction\", the content feeling that something is as good as you wanted. It appears in surveys as \"kundetilfredshed\" (customer satisfaction).",
+  "forms": [
+   {
+    "da": "tilfredshed",
+    "en": "satisfaction"
+   },
+   {
+    "da": "tilfredsheden",
+    "en": "the satisfaction"
+   },
+   {
+    "da": "med tilfredshed",
+    "en": "with satisfaction"
+   }
+  ],
+  "related": [
+   {
+    "da": "utilfredshed",
+    "en": "dissatisfaction"
+   },
+   {
+    "da": "tilfreds",
+    "en": "satisfied"
+   },
+   {
+    "da": "tilfredsstillende",
+    "en": "satisfying"
+   }
+  ],
+  "sentence": {
+   "da": "Hun så på sit arbejde med **tilfredshed**.",
+   "en": "She looked at her work with satisfaction."
+  }
+ },
+ "tilfredsstillende": {
+  "file": "t.json",
+  "explanation": "\"Tilfredsstillende\" means \"satisfying\" or \"satisfactory\", good enough to meet what someone needs or expects. It comes from \"at tilfredsstille\" (to satisfy).",
+  "forms": [
+   {
+    "da": "en tilfredsstillende løsning",
+    "en": "a satisfying solution"
+   },
+   {
+    "da": "et tilfredsstillende svar",
+    "en": "a satisfactory answer"
+   },
+   {
+    "da": "tilfredsstillende resultater",
+    "en": "satisfactory results"
+   }
+  ],
+  "related": [
+   {
+    "da": "tilfredshed",
+    "en": "satisfaction"
+   },
+   {
+    "da": "tilstrækkelig",
+    "en": "sufficient"
+   },
+   {
+    "da": "acceptabel",
+    "en": "acceptable"
+   },
+   {
+    "da": "utilfredsstillende",
+    "en": "unsatisfactory"
+   }
+  ],
+  "sentence": {
+   "da": "Resultatet var **tilfredsstillende**, og alle var glade.",
+   "en": "The result was satisfactory, and everyone was happy."
+  }
+ },
+ "tilfældig": {
+  "file": "t.json",
+  "explanation": "\"Tilfældig\" means \"random\" and \"by chance\": \"et tilfældigt møde\" (a chance meeting). To say you happened to do something, use \"tilfældigvis\" (by chance): \"Jeg mødte ham tilfældigvis\" (I happened to meet him).",
+  "forms": [
+   {
+    "da": "et tilfældigt valg",
+    "en": "a random choice"
+   },
+   {
+    "da": "en tilfældig person",
+    "en": "a random person"
+   },
+   {
+    "da": "tilfældige tal",
+    "en": "random numbers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tilfældighed",
+    "en": "a coincidence"
+   },
+   {
+    "da": "bevidst",
+    "en": "deliberate"
+   },
+   {
+    "da": "planlagt",
+    "en": "planned"
+   },
+   {
+    "da": "vilkårlig",
+    "en": "arbitrary"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg valgte en **tilfældig** bog fra hylden.",
+   "en": "I chose a random book from the shelf."
+  }
+ },
+ "tilfældigt": {
+  "file": "t.json",
+  "explanation": "\"Tilfældigt\" means \"randomly\" or \"by chance\", without a plan or pattern. In a polite question, Danes use \"tilfældigvis\" (by chance) instead: \"Har du tilfældigvis en pen?\" (Do you happen to have a pen?)",
+  "forms": [
+   {
+    "da": "vælge tilfældigt",
+    "en": "choose randomly"
+   },
+   {
+    "da": "Vi mødtes tilfældigt",
+    "en": "We met by chance"
+   },
+   {
+    "da": "Det skete tilfældigt",
+    "en": "It happened by chance"
+   }
+  ],
+  "related": [
+   {
+    "da": "vilkårligt",
+    "en": "arbitrarily"
+   },
+   {
+    "da": "med vilje",
+    "en": "on purpose"
+   },
+   {
+    "da": "planlagt",
+    "en": "planned"
+   },
+   {
+    "da": "blindt",
+    "en": "blindly"
+   }
+  ],
+  "sentence": {
+   "da": "Computeren vælger vinderen **tilfældigt** blandt alle deltagerne.",
+   "en": "The computer picks the winner randomly among all the participants."
+  }
+ },
+ "tilfældigvis": {
+  "file": "t.json",
+  "explanation": "\"Tilfældigvis\" means \"by chance\" or \"as it happens\". In questions it makes a request polite: \"Har du tilfældigvis en kuglepen?\" (Do you happen to have a pen?).",
+  "forms": [
+   {
+    "da": "Han var tilfældigvis hjemme",
+    "en": "He happened to be home"
+   },
+   {
+    "da": "Kender du tilfældigvis hende?",
+    "en": "Do you happen to know her?"
+   },
+   {
+    "da": "Jeg fandt det tilfældigvis",
+    "en": "I found it by accident"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tilfældighed",
+    "en": "a coincidence"
+   },
+   {
+    "da": "heldigvis",
+    "en": "luckily"
+   },
+   {
+    "da": "ved et tilfælde",
+    "en": "by coincidence"
+   },
+   {
+    "da": "tilfældigt",
+    "en": "randomly"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg mødte **tilfældigvis** en gammel ven i byen.",
+   "en": "I happened to meet an old friend in town."
+  }
+ },
+ "tilgivelig": {
+  "file": "t.json",
+  "explanation": "\"Tilgivelig\" means \"forgivable\", about a mistake or an act that someone can excuse. Its opposite is \"utilgivelig\" (unforgivable).",
+  "forms": [
+   {
+    "da": "en tilgivelig fejl",
+    "en": "a forgivable mistake"
+   },
+   {
+    "da": "et tilgiveligt udsagn",
+    "en": "a forgivable remark"
+   },
+   {
+    "da": "tilgivelige fejl",
+    "en": "forgivable mistakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tilgive",
+    "en": "to forgive"
+   },
+   {
+    "da": "en tilgivelse",
+    "en": "forgiveness"
+   },
+   {
+    "da": "undskyldelig",
+    "en": "excusable"
+   },
+   {
+    "da": "en undskyldning",
+    "en": "an apology"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en **tilgivelig** fejl, fordi han var ny på arbejdet.",
+   "en": "It was a forgivable mistake because he was new at work."
+  }
+ },
+ "tilgivelse": {
+  "file": "t.json",
+  "explanation": "\"Tilgivelse\" means \"forgiveness\", letting go of anger toward someone who has hurt you. It comes from \"at tilgive\" (to forgive).",
+  "forms": [
+   {
+    "da": "tilgivelse",
+    "en": "forgiveness"
+   },
+   {
+    "da": "tilgivelsen",
+    "en": "the forgiveness"
+   },
+   {
+    "da": "håbe på tilgivelse",
+    "en": "hope for forgiveness"
+   }
+  ],
+  "related": [
+   {
+    "da": "en undskyldning",
+    "en": "an apology"
+   },
+   {
+    "da": "forsoning",
+    "en": "reconciliation"
+   },
+   {
+    "da": "nåde",
+    "en": "mercy"
+   },
+   {
+    "da": "fortrydelse",
+    "en": "regret"
+   }
+  ],
+  "sentence": {
+   "da": "Han bad om **tilgivelse**, fordi han havde løjet.",
+   "en": "He asked for forgiveness because he had lied."
+  }
+ },
+ "tilgængelig": {
+  "file": "t.json",
+  "explanation": "\"Tilgængelig\" means \"available\" or \"accessible\", possible to reach, find or use. It is used for people: \"Er du tilgængelig?\" (Are you available?). It is used for things too: \"Bogen er tilgængelig online\" (The book is available online).",
+  "forms": [
+   {
+    "da": "en tilgængelig plads",
+    "en": "an available seat"
+   },
+   {
+    "da": "et tilgængeligt rum",
+    "en": "an accessible room"
+   },
+   {
+    "da": "tilgængelige billetter",
+    "en": "available tickets"
+   }
+  ],
+  "related": [
+   {
+    "da": "utilgængelig",
+    "en": "unavailable"
+   },
+   {
+    "da": "ledig",
+    "en": "vacant"
+   },
+   {
+    "da": "tilgængelighed",
+    "en": "availability"
+   },
+   {
+    "da": "til rådighed",
+    "en": "at your disposal"
+   }
+  ],
+  "sentence": {
+   "da": "Informationen er **tilgængelig** for alle på nettet.",
+   "en": "The information is available to everyone online."
+  }
+ },
+ "tillid": {
+  "file": "t.json",
+  "explanation": "\"Tillid\" means \"trust\", the belief that someone is honest and will not let you down. You can also say \"at stole på\" (to rely on): \"Jeg stoler på dig\" (I trust you).",
+  "forms": [
+   {
+    "da": "tillid",
+    "en": "trust"
+   },
+   {
+    "da": "tilliden",
+    "en": "the trust"
+   },
+   {
+    "da": "at have tillid til",
+    "en": "to have trust in"
+   },
+   {
+    "da": "tillid til hinanden",
+    "en": "trust in each other"
+   }
+  ],
+  "related": [
+   {
+    "da": "mistillid",
+    "en": "distrust"
+   },
+   {
+    "da": "troværdig",
+    "en": "trustworthy"
+   },
+   {
+    "da": "pålidelig",
+    "en": "reliable"
+   },
+   {
+    "da": "tillidsfuld",
+    "en": "trusting"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har stor **tillid** til min læge.",
+   "en": "I have great trust in my doctor."
+  }
+ },
+ "tillidsfuld": {
+  "file": "t.json",
+  "explanation": "\"Tillidsfuld\" means \"trusting\", about someone who expects others to be honest and kind. It is built from tillid (trust) and fuld (full).",
+  "forms": [
+   {
+    "da": "en tillidsfuld dreng",
+    "en": "a trusting boy"
+   },
+   {
+    "da": "et tillidsfuldt smil",
+    "en": "a trusting smile"
+   },
+   {
+    "da": "tillidsfulde børn",
+    "en": "trusting children"
+   }
+  ],
+  "related": [
+   {
+    "da": "troskyldig",
+    "en": "naive"
+   },
+   {
+    "da": "godtroende",
+    "en": "gullible"
+   },
+   {
+    "da": "mistroisk",
+    "en": "distrustful"
+   },
+   {
+    "da": "mistænksom",
+    "en": "suspicious"
+   }
+  ],
+  "sentence": {
+   "da": "Den lille dreng så **tillidsfuld** op på sin far.",
+   "en": "The little boy looked up trustingly at his father."
+  }
+ },
+ "tillykke": {
+  "file": "t.json",
+  "explanation": "\"Tillykke\" means \"congratulations\". Add \"med\" (on) and what you are celebrating: \"tillykke med bilen\" (congratulations on the car).",
+  "forms": [
+   {
+    "da": "Tillykke!",
+    "en": "Congratulations!"
+   },
+   {
+    "da": "Tillykke med dagen.",
+    "en": "Congratulations on your special day."
+   },
+   {
+    "da": "Tillykke med jobbet.",
+    "en": "Congratulations on the new job."
+   }
+  ],
+  "related": [
+   {
+    "da": "tillykke med fødselsdagen",
+    "en": "happy birthday"
+   },
+   {
+    "da": "held og lykke",
+    "en": "good luck"
+   },
+   {
+    "da": "lykke",
+    "en": "happiness, luck"
+   }
+  ],
+  "sentence": {
+   "da": "**Tillykke** med din nye lejlighed!",
+   "en": "Congratulations on your new apartment!"
+  }
+ },
+ "tillykke med fødselsdagen": {
+  "file": "t.json",
+  "explanation": "\"Tillykke med fødselsdagen\" means \"happy birthday\", literally \"congratulations with the birthday\".",
+  "forms": [
+   {
+    "da": "Tillykke med fødselsdagen!",
+    "en": "Happy birthday!"
+   },
+   {
+    "da": "Tillykke med dagen!",
+    "en": "Congratulations on the day!"
+   },
+   {
+    "da": "Tillykke med fødselsdagen, mor!",
+    "en": "Happy birthday, Mom!"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fødselsdag",
+    "en": "a birthday"
+   },
+   {
+    "da": "en fødselar",
+    "en": "a birthday person"
+   },
+   {
+    "da": "en fødselsdagsgave",
+    "en": "a birthday present"
+   },
+   {
+    "da": "at fejre",
+    "en": "to celebrate"
+   }
+  ],
+  "sentence": {
+   "da": "Her er en gave. **Tillykke med fødselsdagen**!",
+   "en": "Here is a present. Happy birthday!"
+  }
+ },
+ "tilmed": {
+  "file": "t.json",
+  "explanation": "\"Tilmed\" means \"moreover\". Use it to add one more good point: \"Maden er god, og tilmed er den billig\" (The food is good, and moreover it is cheap). It sounds more written than spoken; in speech Danes often say \"oven i købet\" (on top of that).",
+  "forms": [
+   {
+    "da": "Det er billigt og tilmed godt",
+    "en": "It is cheap and also good"
+   },
+   {
+    "da": "Han er klog, og tilmed er han flink",
+    "en": "He is smart, and he is kind too"
+   },
+   {
+    "da": "Maden er sund og tilmed lækker",
+    "en": "The food is healthy and delicious too"
+   }
+  ],
+  "related": [
+   {
+    "da": "desuden",
+    "en": "besides"
+   },
+   {
+    "da": "endvidere",
+    "en": "furthermore"
+   },
+   {
+    "da": "derudover",
+    "en": "in addition"
+   },
+   {
+    "da": "også",
+    "en": "also"
+   }
+  ],
+  "sentence": {
+   "da": "Cyklen er billig, og den er **tilmed** let at reparere.",
+   "en": "The bike is cheap, and it is also easy to repair."
+  }
+ },
+ "tilpas": {
+  "file": "t.json",
+  "explanation": "\"Tilpas\" means \"just right\" or \"suitable\": \"Suppen er tilpas varm\" (The soup is warm enough). With \"at føle sig\" (to feel), it means \"at ease\": \"Jeg føler mig ikke tilpas\" (I do not feel at ease).",
+  "forms": [
+   {
+    "da": "tilpas stor",
+    "en": "just the right size"
+   },
+   {
+    "da": "en tilpas mængde",
+    "en": "a suitable amount"
+   },
+   {
+    "da": "tilpas høj",
+    "en": "tall enough"
+   }
+  ],
+  "related": [
+   {
+    "da": "passende",
+    "en": "suitable"
+   },
+   {
+    "da": "behagelig",
+    "en": "pleasant"
+   },
+   {
+    "da": "utilpas",
+    "en": "uneasy"
+   },
+   {
+    "da": "nok",
+    "en": "enough"
+   }
+  ],
+  "sentence": {
+   "da": "Vandet er **tilpas** varmt til at bade.",
+   "en": "The water is just warm enough for swimming."
+  }
+ },
+ "tilsammen": {
+  "file": "t.json",
+  "explanation": "\"Tilsammen\" means \"in total\" and also \"together\": \"Vi betaler 300 kroner tilsammen\" (We pay 300 kroner in total). Use \"sammen\" (together) when people do something with each other: \"Vi spiser sammen\" (We eat together).",
+  "forms": [
+   {
+    "da": "Det er ti kroner tilsammen",
+    "en": "It is ten kroner in total"
+   },
+   {
+    "da": "Vi er fem tilsammen",
+    "en": "There are five of us in total"
+   }
+  ],
+  "related": [
+   {
+    "da": "i alt",
+    "en": "in total"
+   },
+   {
+    "da": "samlet",
+    "en": "combined"
+   },
+   {
+    "da": "alt i alt",
+    "en": "all in all"
+   },
+   {
+    "da": "sammenlagt",
+    "en": "altogether"
+   }
+  ],
+  "sentence": {
+   "da": "Vi er ti personer **tilsammen**.",
+   "en": "We are ten people in total."
+  }
+ },
+ "tilstedeværelse": {
+  "file": "t.json",
+  "explanation": "\"En tilstedeværelse\" means \"a presence\", the fact that someone or something is there. It is built from til stede (present) and at være (to be), and its opposite is \"fravær\" (absence).",
+  "forms": [
+   {
+    "da": "en tilstedeværelse",
+    "en": "a presence"
+   },
+   {
+    "da": "tilstedeværelsen",
+    "en": "the presence"
+   },
+   {
+    "da": "tilstedeværelser",
+    "en": "presences"
+   },
+   {
+    "da": "tilstedeværelserne",
+    "en": "the presences"
+   }
+  ],
+  "related": [
+   {
+    "da": "et nærvær",
+    "en": "closeness, presence"
+   },
+   {
+    "da": "en deltagelse",
+    "en": "participation"
+   },
+   {
+    "da": "en tilværelse",
+    "en": "an existence"
+   }
+  ],
+  "sentence": {
+   "da": "Lærerens **tilstedeværelse** i klassen gør børnene mere rolige.",
+   "en": "The teacher's presence in the class makes the children calmer."
+  }
+ },
+ "tilstrækkelig": {
+  "file": "t.json",
+  "explanation": "\"Tilstrækkelig\" means \"sufficient\", as much as is needed. It is linked to \"at strække til\" (to be enough), as in \"Pengene strækker ikke til\" (The money is not enough).",
+  "forms": [
+   {
+    "da": "en tilstrækkelig mængde",
+    "en": "a sufficient amount"
+   },
+   {
+    "da": "et tilstrækkeligt svar",
+    "en": "a sufficient answer"
+   },
+   {
+    "da": "tilstrækkelige penge",
+    "en": "sufficient money"
+   }
+  ],
+  "related": [
+   {
+    "da": "utilstrækkelig",
+    "en": "insufficient"
+   },
+   {
+    "da": "rigelig",
+    "en": "plentiful"
+   },
+   {
+    "da": "nok",
+    "en": "enough"
+   },
+   {
+    "da": "tilfredsstillende",
+    "en": "satisfactory"
+   }
+  ],
+  "sentence": {
+   "da": "Fem timers søvn er ikke **tilstrækkelig** for de fleste.",
+   "en": "Five hours of sleep is not sufficient for most people."
+  }
+ },
+ "tilsyneladende": {
+  "file": "t.json",
+  "explanation": "\"Tilsyneladende\" means \"apparently\", for how things look, which may turn out to be wrong: \"Tilsyneladende er bussen forsinket\" (Apparently the bus is delayed). For something you only heard from others, use \"efter sigende\" (reportedly): \"Han er efter sigende rig\" (He is reportedly rich).",
+  "forms": [
+   {
+    "da": "Han er tilsyneladende syg",
+    "en": "He is apparently sick"
+   },
+   {
+    "da": "Det er tilsyneladende let",
+    "en": "It is seemingly easy"
+   },
+   {
+    "da": "Tilsyneladende var ingen hjemme",
+    "en": "Apparently nobody was home"
+   }
+  ],
+  "related": [
+   {
+    "da": "åbenbart",
+    "en": "evidently"
+   },
+   {
+    "da": "angiveligt",
+    "en": "allegedly"
+   },
+   {
+    "da": "formentlig",
+    "en": "presumably"
+   },
+   {
+    "da": "at virke",
+    "en": "to seem"
+   }
+  ],
+  "sentence": {
+   "da": "Butikken er **tilsyneladende** lukket i dag.",
+   "en": "The store is apparently closed today."
+  }
+ },
+ "tiltro": {
+  "file": "t.json",
+  "explanation": "\"En tiltro\" means \"confidence\" or \"trust\", a belief that someone or something is good and will work. It almost always comes with \"til\" (in): \"have tiltro til dig\" (have confidence in you).",
+  "forms": [
+   {
+    "da": "en tiltro",
+    "en": "a confidence"
+   },
+   {
+    "da": "tiltroen",
+    "en": "the confidence"
+   },
+   {
+    "da": "stor tiltro",
+    "en": "great confidence"
+   },
+   {
+    "da": "have tiltro til systemet",
+    "en": "to have confidence in the system"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tro",
+    "en": "a faith"
+   },
+   {
+    "da": "en overbevisning",
+    "en": "a conviction"
+   },
+   {
+    "da": "en forventning",
+    "en": "an expectation"
+   }
+  ],
+  "sentence": {
+   "da": "Efter skandalen mistede folk al **tiltro** til politikerne.",
+   "en": "After the scandal, people lost all confidence in the politicians."
+  }
+ },
+ "tiltrukket": {
+  "file": "t.json",
+  "explanation": "\"Tiltrukket\" means \"attracted\", pulled toward someone or something by a feeling. To name the person or thing that attracts you, use \"af\" (by): \"Hun er tiltrukket af ham\" (She is attracted to him).",
+  "forms": [
+   {
+    "da": "tiltrukket af hende",
+    "en": "attracted to her"
+   },
+   {
+    "da": "tiltrukket af naturen",
+    "en": "drawn to nature"
+   },
+   {
+    "da": "Vi er tiltrukket af byen",
+    "en": "We are drawn to the city"
+   }
+  ],
+  "related": [
+   {
+    "da": "tiltrækkende",
+    "en": "attractive"
+   },
+   {
+    "da": "en tiltrækning",
+    "en": "an attraction"
+   },
+   {
+    "da": "frastødt",
+    "en": "repelled"
+   },
+   {
+    "da": "draget",
+    "en": "drawn"
+   }
+  ],
+  "sentence": {
+   "da": "Bierne er **tiltrukket** af blomsternes søde duft.",
+   "en": "The bees are attracted to the sweet scent of the flowers."
+  }
+ },
+ "tiltrækkende": {
+  "file": "t.json",
+  "explanation": "\"Tiltrækkende\" means \"attractive\", pulling people toward it, for a person, an offer or a place. The one that pulls is \"tiltrækkende\", and the one who feels pulled is \"tiltrukket\" (attracted): \"Han er tiltrukket af hende, for hun er tiltrækkende\" (He is attracted to her, because she is attractive).",
+  "forms": [
+   {
+    "da": "en tiltrækkende person",
+    "en": "an attractive person"
+   },
+   {
+    "da": "et tiltrækkende tilbud",
+    "en": "an attractive offer"
+   },
+   {
+    "da": "tiltrækkende steder",
+    "en": "attractive places"
+   }
+  ],
+  "related": [
+   {
+    "da": "attraktiv",
+    "en": "appealing"
+   },
+   {
+    "da": "charmerende",
+    "en": "charming"
+   },
+   {
+    "da": "tillokkende",
+    "en": "tempting"
+   },
+   {
+    "da": "afskrækkende",
+    "en": "off-putting"
+   }
+  ],
+  "sentence": {
+   "da": "Prisen gør tilbuddet meget **tiltrækkende**.",
+   "en": "The price makes the offer very attractive."
+  }
+ },
+ "timevis": {
+  "file": "t.json",
+  "explanation": "\"Timevis\" means \"for hours\", a long time counted in hours. The ending -vis does the same with other times: \"dagevis\" (for days).",
+  "forms": [
+   {
+    "da": "ventede timevis",
+    "en": "waited for hours"
+   },
+   {
+    "da": "talte timevis",
+    "en": "talked for hours"
+   },
+   {
+    "da": "timevis af arbejde",
+    "en": "hours of work"
+   }
+  ],
+  "related": [
+   {
+    "da": "månedsvis",
+    "en": "for months"
+   },
+   {
+    "da": "uafbrudt",
+    "en": "nonstop"
+   },
+   {
+    "da": "ugevis",
+    "en": "for weeks"
+   },
+   {
+    "da": "stykkevis",
+    "en": "bit by bit"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan sidde **timevis** med en god bog.",
+   "en": "I can sit for hours with a good book."
+  }
+ },
+ "tirsdag": {
+  "file": "t.json",
+  "explanation": "\"Tirsdag\" means \"Tuesday\". Day names are written with a lowercase letter in Danish. \"På tirsdag\" means \"on Tuesday\" (the coming one), and \"om tirsdagen\" or \"hver tirsdag\" means \"every Tuesday\".",
+  "forms": [
+   {
+    "da": "en tirsdag",
+    "en": "a Tuesday"
+   },
+   {
+    "da": "tirsdagen",
+    "en": "the Tuesday"
+   },
+   {
+    "da": "tirsdage",
+    "en": "Tuesdays"
+   },
+   {
+    "da": "tirsdagene",
+    "en": "the Tuesdays"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mandag",
+    "en": "a Monday"
+   },
+   {
+    "da": "en onsdag",
+    "en": "a Wednesday"
+   },
+   {
+    "da": "en torsdag",
+    "en": "a Thursday"
+   }
+  ],
+  "sentence": {
+   "da": "Efter mandag kommer **tirsdag**.",
+   "en": "After Monday comes Tuesday."
+  }
+ },
+ "tja": {
+  "file": "t.json",
+  "explanation": "\"Tja\" means \"well\". You say it before an answer when you are unsure or still thinking: \"Kommer du? Tja, måske\" (Are you coming? Well, maybe).",
+  "forms": [
+   {
+    "da": "Tja.",
+    "en": "Well."
+   },
+   {
+    "da": "Tja, måske.",
+    "en": "Well, maybe."
+   },
+   {
+    "da": "Tja, det ved jeg ikke.",
+    "en": "Well, I do not know."
+   }
+  ],
+  "related": [
+   {
+    "da": "øh",
+    "en": "uh"
+   },
+   {
+    "da": "nå",
+    "en": "well, oh"
+   },
+   {
+    "da": "altså",
+    "en": "well, you know"
+   }
+  ],
+  "sentence": {
+   "da": "**Tja**, jeg ved ikke helt, hvad jeg skal sige.",
+   "en": "Well, I do not quite know what to say."
+  }
+ },
+ "to": {
+  "file": "t.json",
+  "explanation": "\"To\" means \"two\". It stays the same before every noun: \"to børn\" (two children), \"to æg\" (two eggs). In numbers like 22 the ones come first: \"toogtyve\" (twenty-two) is literally \"two-and-twenty\".",
+  "forms": [
+   {
+    "da": "to børn",
+    "en": "two children"
+   },
+   {
+    "da": "to kaffe",
+    "en": "two coffees"
+   },
+   {
+    "da": "to gange",
+    "en": "twice"
+   }
+  ],
+  "related": [
+   {
+    "da": "en",
+    "en": "one"
+   },
+   {
+    "da": "tre",
+    "en": "three"
+   },
+   {
+    "da": "dobbelt",
+    "en": "double"
+   },
+   {
+    "da": "begge to",
+    "en": "both"
+   }
+  ],
+  "sentence": {
+   "da": "En, **to**, tre!",
+   "en": "One, two, three!"
+  }
+ },
+ "to gange": {
+  "file": "t.json",
+  "explanation": "\"To gange\" means \"twice\", literally two times. To indicate how often an event happens, add \"om dagen\" (a day), \"om ugen\" (a week) or \"om måneden\" (a month): \"to gange om ugen\" (twice a week).",
+  "forms": [
+   {
+    "da": "to gange",
+    "en": "twice"
+   },
+   {
+    "da": "to gange om dagen",
+    "en": "twice a day"
+   },
+   {
+    "da": "tre gange",
+    "en": "three times"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gang",
+    "en": "once"
+   },
+   {
+    "da": "nogle gange",
+    "en": "sometimes"
+   },
+   {
+    "da": "dobbelt",
+    "en": "double"
+   }
+  ],
+  "sentence": {
+   "da": "Én gang, **to gange**, tre gange!",
+   "en": "Once, twice, three times!"
+  }
+ },
+ "tofu": {
+  "file": "t.json",
+  "explanation": "\"Tofu\" means \"tofu\", a soft white block made from soybeans. It has little taste of its own, so it takes on the flavor of the sauce or spices.",
+  "forms": [
+   {
+    "da": "tofu",
+    "en": "tofu"
+   },
+   {
+    "da": "tofuen",
+    "en": "the tofu"
+   },
+   {
+    "da": "stegt tofu",
+    "en": "fried tofu"
+   }
+  ],
+  "related": [
+   {
+    "da": "soja",
+    "en": "soy"
+   },
+   {
+    "da": "sojamælk",
+    "en": "soy milk"
+   },
+   {
+    "da": "en sojabønne",
+    "en": "a soybean"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne have **tofu** i stedet for kød.",
+   "en": "I would like tofu instead of meat."
+  }
+ },
+ "toiletpapir": {
+  "file": "t.json",
+  "explanation": "\"Toiletpapir\" means \"toilet paper\", the soft paper on a roll that you use in the bathroom. To name an amount, say \"en rulle toiletpapir\" (a roll of toilet paper).",
+  "forms": [
+   {
+    "da": "toiletpapiret",
+    "en": "the toilet paper"
+   },
+   {
+    "da": "mere toiletpapir",
+    "en": "more toilet paper"
+   },
+   {
+    "da": "toiletpapir i skabet",
+    "en": "toilet paper in the cupboard"
+   }
+  ],
+  "related": [
+   {
+    "da": "en køkkenrulle",
+    "en": "a paper towel roll"
+   },
+   {
+    "da": "et lommetørklæde",
+    "en": "a handkerchief"
+   },
+   {
+    "da": "en serviet",
+    "en": "a napkin"
+   }
+  ],
+  "sentence": {
+   "da": "Man bruger **toiletpapir** på toilettet.",
+   "en": "You use toilet paper in the bathroom."
+  }
+ },
+ "told": {
+  "file": "t.json",
+  "explanation": "\"Told\" means \"customs\", the place at a border or airport where goods are checked. It also means a tax on goods from abroad: \"Man skal betale told\" (You have to pay duty).",
+  "forms": [
+   {
+    "da": "told",
+    "en": "customs"
+   },
+   {
+    "da": "tolden",
+    "en": "the customs"
+   },
+   {
+    "da": "gå gennem tolden",
+    "en": "to go through customs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en toldbetjent",
+    "en": "a customs officer"
+   },
+   {
+    "da": "en grænse",
+    "en": "a border"
+   },
+   {
+    "da": "et pas",
+    "en": "a passport"
+   }
+  ],
+  "sentence": {
+   "da": "Der er lang kø ved **told** i lufthavnen.",
+   "en": "There is a long line at customs at the airport."
+  }
+ },
+ "tolerant": {
+  "file": "t.json",
+  "explanation": "\"Tolerant\" means \"tolerant\", open to people who think, believe or live differently than you do. The opposite is \"intolerant\" (intolerant), spelled the same in Danish and English.",
+  "forms": [
+   {
+    "da": "en tolerant lærer",
+    "en": "a tolerant teacher"
+   },
+   {
+    "da": "et tolerant land",
+    "en": "a tolerant country"
+   },
+   {
+    "da": "tolerante naboer",
+    "en": "tolerant neighbors"
+   }
+  ],
+  "related": [
+   {
+    "da": "åbensindet",
+    "en": "open-minded"
+   },
+   {
+    "da": "rummelig",
+    "en": "broad-minded (literally roomy)"
+   },
+   {
+    "da": "fordomsfri",
+    "en": "free of prejudice"
+   }
+  ],
+  "sentence": {
+   "da": "Et **tolerant** samfund giver plads til alle slags mennesker.",
+   "en": "A tolerant society makes room for all kinds of people."
+  }
+ },
+ "tolv": {
+  "file": "t.json",
+  "explanation": "\"Tolv\" means \"twelve\". For twelve of something, Danes also say \"et dusin\" (a dozen): \"et dusin æg\" (a dozen eggs).",
+  "forms": [
+   {
+    "da": "tolv æg",
+    "en": "twelve eggs"
+   },
+   {
+    "da": "klokken tolv",
+    "en": "twelve o'clock"
+   },
+   {
+    "da": "tolv måneder",
+    "en": "twelve months"
+   }
+  ],
+  "related": [
+   {
+    "da": "elleve",
+    "en": "eleven"
+   },
+   {
+    "da": "tretten",
+    "en": "thirteen"
+   },
+   {
+    "da": "fjorten",
+    "en": "fourteen"
+   }
+  ],
+  "sentence": {
+   "da": "Efter elleve kommer **tolv**.",
+   "en": "After eleven comes twelve."
+  }
+ },
+ "tolvte": {
+  "file": "t.json",
+  "explanation": "\"Tolvte\" means \"twelfth\", the one in position 12 in a row. Dates use it too: \"den tolvte december\" (the twelfth of December).",
+  "forms": [
+   {
+    "da": "den tolvte dag",
+    "en": "the twelfth day"
+   },
+   {
+    "da": "den tolvte maj",
+    "en": "May twelfth"
+   },
+   {
+    "da": "for tolvte gang",
+    "en": "for the twelfth time"
+   }
+  ],
+  "related": [
+   {
+    "da": "tolv",
+    "en": "twelve"
+   },
+   {
+    "da": "trettende",
+    "en": "thirteenth"
+   },
+   {
+    "da": "en tolvtedel",
+    "en": "a twelfth"
+   }
+  ],
+  "sentence": {
+   "da": "Dagen efter den elvte er den **tolvte**.",
+   "en": "The day after the eleventh is the twelfth."
+  }
+ },
+ "tom": {
+  "file": "t.json",
+  "explanation": "\"Tom\" means \"empty\", for a bottle, a room, a street or a plate. The opposite is \"fuld\" (full), which can also mean \"drunk\" when it describes a person.",
+  "forms": [
+   {
+    "da": "en tom flaske",
+    "en": "an empty bottle"
+   },
+   {
+    "da": "et tomt glas",
+    "en": "an empty glass"
+   },
+   {
+    "da": "tomme flasker",
+    "en": "empty bottles"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tømme",
+    "en": "to empty"
+   },
+   {
+    "da": "ledig",
+    "en": "vacant"
+   },
+   {
+    "da": "fyldt",
+    "en": "filled"
+   }
+  ],
+  "sentence": {
+   "da": "Der er intet vand. Flasken er **tom**.",
+   "en": "There is no water. The bottle is empty."
+  }
+ },
+ "tomhændet": {
+  "file": "t.json",
+  "explanation": "\"Tomhændet\" means \"empty-handed\", with nothing to bring or nothing to show for your effort: \"Han kom tomhændet til festen\" (He came empty-handed to the party).",
+  "forms": [
+   {
+    "da": "Han kom tomhændet.",
+    "en": "He came empty-handed."
+   },
+   {
+    "da": "Vi gik tomhændet hjem.",
+    "en": "We went home empty-handed."
+   },
+   {
+    "da": "tomhændede gæster",
+    "en": "empty-handed guests"
+   }
+  ],
+  "related": [
+   {
+    "da": "forgæves",
+    "en": "in vain"
+   },
+   {
+    "da": "uden resultat",
+    "en": "without result"
+   },
+   {
+    "da": "tom",
+    "en": "empty"
+   }
+  ],
+  "sentence": {
+   "da": "Hun købte blomster, fordi hun ikke ville komme **tomhændet**.",
+   "en": "She bought flowers because she did not want to come empty-handed."
+  }
+ },
+ "torden": {
+  "file": "t.json",
+  "explanation": "\"Torden\" means \"thunder\", the loud sound in a storm. Say \"Det tordner\" (It is thundering) for what is happening now.",
+  "forms": [
+   {
+    "da": "høj torden",
+    "en": "loud thunder"
+   },
+   {
+    "da": "tordenen",
+    "en": "the thunder"
+   },
+   {
+    "da": "høre torden",
+    "en": "to hear thunder"
+   }
+  ],
+  "related": [
+   {
+    "da": "et lyn",
+    "en": "lightning"
+   },
+   {
+    "da": "et tordenvejr",
+    "en": "a thunderstorm"
+   },
+   {
+    "da": "et tordenskrald",
+    "en": "a thunderclap"
+   }
+  ],
+  "sentence": {
+   "da": "Efter lyn kommer **torden**.",
+   "en": "After lightning comes thunder."
+  }
+ },
+ "torsdag": {
+  "file": "t.json",
+  "explanation": "\"Torsdag\" means \"Thursday\". Day names are written with a lowercase letter in Danish. \"På torsdag\" means \"on Thursday\" (the coming one), and \"om torsdagen\" means \"on Thursdays\". Do not mix it up with \"tirsdag\" (Tuesday): \"Vi ses torsdag\" (See you Thursday), \"Vi ses tirsdag\" (See you Tuesday).",
+  "forms": [
+   {
+    "da": "en torsdag",
+    "en": "a Thursday"
+   },
+   {
+    "da": "torsdagen",
+    "en": "the Thursday"
+   },
+   {
+    "da": "torsdage",
+    "en": "Thursdays"
+   },
+   {
+    "da": "torsdagene",
+    "en": "the Thursdays"
+   }
+  ],
+  "related": [
+   {
+    "da": "en onsdag",
+    "en": "a Wednesday"
+   },
+   {
+    "da": "en fredag",
+    "en": "a Friday"
+   },
+   {
+    "da": "en lørdag",
+    "en": "a Saturday"
+   }
+  ],
+  "sentence": {
+   "da": "Efter onsdag kommer **torsdag**.",
+   "en": "After Wednesday comes Thursday."
+  }
+ },
+ "torsk": {
+  "file": "t.json",
+  "explanation": "\"Torsk\" means \"cod\", both the fish in the sea and the fish on your plate. For the animal, say \"en torsk\" (a cod). For the food just say \"torsk\": \"Vi spiser torsk\" (We eat cod).",
+  "forms": [
+   {
+    "da": "en stor torsk",
+    "en": "a big cod"
+   },
+   {
+    "da": "stegt torsk med kartofler",
+    "en": "fried cod with potatoes"
+   },
+   {
+    "da": "Jeg bestiller torsk.",
+    "en": "I order cod."
+   }
+  ],
+  "related": [
+   {
+    "da": "en laks",
+    "en": "a salmon"
+   },
+   {
+    "da": "en rødspætte",
+    "en": "a plaice"
+   },
+   {
+    "da": "en fisk",
+    "en": "a fish"
+   }
+  ],
+  "sentence": {
+   "da": "Fiskeren fanger en stor **torsk** i havet.",
+   "en": "The fisherman catches a big cod in the sea."
+  }
+ },
+ "tortur": {
+  "file": "t.json",
+  "explanation": "\"En tortur\" means \"torture\", severe pain or suffering that someone causes on purpose. In daily talk it also describes something very unpleasant: \"Det var en tortur at vente\" (Waiting was torture).",
+  "forms": [
+   {
+    "da": "en tortur",
+    "en": "torture"
+   },
+   {
+    "da": "torturen",
+    "en": "the torture"
+   },
+   {
+    "da": "under tortur",
+    "en": "under torture"
+   }
+  ],
+  "related": [
+   {
+    "da": "at torturere",
+    "en": "to torture"
+   },
+   {
+    "da": "en pine",
+    "en": "a torment"
+   },
+   {
+    "da": "en kval",
+    "en": "an agony"
+   },
+   {
+    "da": "en plage",
+    "en": "a nuisance"
+   }
+  ],
+  "sentence": {
+   "da": "**Tortur** er at gøre ondt på et menneske med vilje.",
+   "en": "Torture is hurting a person on purpose."
+  }
+ },
+ "tosproget": {
+  "file": "t.json",
+  "explanation": "\"Tosproget\" means \"bilingual\", able to speak two languages well. It also describes things that use two languages, such as \"et tosproget skilt\" (a bilingual sign).",
+  "forms": [
+   {
+    "da": "en tosproget dreng",
+    "en": "a bilingual boy"
+   },
+   {
+    "da": "et tosproget barn",
+    "en": "a bilingual child"
+   },
+   {
+    "da": "tosprogede børn",
+    "en": "bilingual children"
+   }
+  ],
+  "related": [
+   {
+    "da": "flersproget",
+    "en": "multilingual"
+   },
+   {
+    "da": "et modersmål",
+    "en": "a mother tongue"
+   },
+   {
+    "da": "et fremmedsprog",
+    "en": "a foreign language"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **tosproget** og taler både dansk og engelsk hjemme.",
+   "en": "She is bilingual and speaks both Danish and English at home."
+  }
+ },
+ "tosset": {
+  "file": "t.json",
+  "explanation": "\"Tosset\" means \"silly\" or \"crazy\", in a light and friendly way. It is much milder than \"sindssyg\" (insane).",
+  "forms": [
+   {
+    "da": "en tosset idé",
+    "en": "a silly idea"
+   },
+   {
+    "da": "et tosset navn",
+    "en": "a silly name"
+   },
+   {
+    "da": "tossede historier",
+    "en": "silly stories"
+   }
+  ],
+  "related": [
+   {
+    "da": "fjollet",
+    "en": "silly"
+   },
+   {
+    "da": "skør",
+    "en": "crazy"
+   },
+   {
+    "da": "gal",
+    "en": "mad"
+   },
+   {
+    "da": "en tosse",
+    "en": "a silly person"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **tosset**, men ikke farlig.",
+   "en": "He is silly, but not dangerous."
+  }
+ },
+ "total": {
+  "file": "t.json",
+  "explanation": "\"Total\" means \"total\", with nothing left out. The word \"totalt\" (totally) makes another word stronger: \"Jeg er totalt træt\" (I am totally tired).",
+  "forms": [
+   {
+    "da": "en total fiasko",
+    "en": "a total failure"
+   },
+   {
+    "da": "et totalt nederlag",
+    "en": "a total defeat"
+   },
+   {
+    "da": "totale forbud",
+    "en": "total bans"
+   }
+  ],
+  "related": [
+   {
+    "da": "komplet",
+    "en": "complete"
+   },
+   {
+    "da": "fuldstændig",
+    "en": "absolute"
+   },
+   {
+    "da": "hel",
+    "en": "whole"
+   },
+   {
+    "da": "delvis",
+    "en": "partial"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en **total** katastrofe, og alle var kede af det.",
+   "en": "It was a total disaster, and everyone was upset about it."
+  }
+ },
+ "totalt": {
+  "file": "t.json",
+  "explanation": "\"Totalt\" means \"totally\" and makes the next word stronger.",
+  "forms": [
+   {
+    "da": "Jeg er totalt træt",
+    "en": "I am totally tired"
+   },
+   {
+    "da": "Det er totalt forkert",
+    "en": "That is totally wrong"
+   },
+   {
+    "da": "totalt umuligt",
+    "en": "totally impossible"
+   }
+  ],
+  "related": [
+   {
+    "da": "total",
+    "en": "total"
+   },
+   {
+    "da": "komplet",
+    "en": "complete"
+   },
+   {
+    "da": "fuldstændig",
+    "en": "completely"
+   },
+   {
+    "da": "absolut",
+    "en": "absolutely"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er **totalt** træt efter turen.",
+   "en": "I am totally tired after the trip."
+  }
+ },
+ "traditionel": {
+  "file": "t.json",
+  "explanation": "\"Traditionel\" means \"traditional\", for customs, food and ways of doing things, such as \"traditionel mad\" (traditional food). The opposite is \"moderne\" (modern).",
+  "forms": [
+   {
+    "da": "en traditionel ret",
+    "en": "a traditional dish"
+   },
+   {
+    "da": "et traditionelt hus",
+    "en": "a traditional house"
+   },
+   {
+    "da": "traditionelle sange",
+    "en": "traditional songs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tradition",
+    "en": "a tradition"
+   },
+   {
+    "da": "gammeldags",
+    "en": "old-fashioned"
+   },
+   {
+    "da": "klassisk",
+    "en": "classic"
+   },
+   {
+    "da": "en skik",
+    "en": "a custom"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiser **traditionel** mad til jul.",
+   "en": "We eat traditional food at Christmas."
+  }
+ },
+ "trafik": {
+  "file": "t.json",
+  "explanation": "\"Trafik\" means \"traffic\" on the roads. A traffic jam is \"en trafikprop\" (literally a traffic plug).",
+  "forms": [
+   {
+    "da": "trafik",
+    "en": "traffic"
+   },
+   {
+    "da": "trafikken",
+    "en": "the traffic"
+   },
+   {
+    "da": "tung trafik",
+    "en": "heavy traffic"
+   }
+  ],
+  "related": [
+   {
+    "da": "et trafiklys",
+    "en": "a traffic light"
+   },
+   {
+    "da": "en trafikant",
+    "en": "a road user"
+   },
+   {
+    "da": "en trafikulykke",
+    "en": "a traffic accident"
+   }
+  ],
+  "sentence": {
+   "da": "Der er meget **trafik** på motorvejen i dag.",
+   "en": "There is a lot of traffic on the highway today."
+  }
+ },
+ "tragisk": {
+  "file": "t.json",
+  "explanation": "\"Tragisk\" means \"tragic\" and is used for terrible events, like accidents and losses. It is too strong for a small problem, like a missed bus.",
+  "forms": [
+   {
+    "da": "en tragisk ulykke",
+    "en": "a tragic accident"
+   },
+   {
+    "da": "et tragisk tab",
+    "en": "a tragic loss"
+   },
+   {
+    "da": "tragiske nyheder",
+    "en": "tragic news"
+   }
+  ],
+  "related": [
+   {
+    "da": "sørgelig",
+    "en": "sad / sorrowful"
+   },
+   {
+    "da": "en tragedie",
+    "en": "a tragedy"
+   },
+   {
+    "da": "trist",
+    "en": "sad"
+   },
+   {
+    "da": "dramatisk",
+    "en": "dramatic"
+   }
+  ],
+  "sentence": {
+   "da": "Det var en **tragisk** dag, og alle græd.",
+   "en": "It was a tragic day, and everyone cried."
+  }
+ },
+ "trang": {
+  "file": "t.json",
+  "explanation": "\"Trang\" means \"cramped\", with too little room, or \"tight\" for clothes: \"et trangt rum\" (a cramped room), \"trange bukser\" (tight pants). It is also used about money: \"at leve på trange kår\" means \"to live on very little\".",
+  "forms": [
+   {
+    "da": "et trangt rum",
+    "en": "a cramped room"
+   },
+   {
+    "da": "en trang plads",
+    "en": "a cramped space"
+   },
+   {
+    "da": "trange sko",
+    "en": "tight shoes"
+   }
+  ],
+  "related": [
+   {
+    "da": "rummelig",
+    "en": "roomy"
+   },
+   {
+    "da": "snæver",
+    "en": "narrow"
+   },
+   {
+    "da": "stram",
+    "en": "tight-fitting"
+   }
+  ],
+  "sentence": {
+   "da": "I en **trang** lejlighed er der næsten ikke plads til møbler.",
+   "en": "In a cramped apartment there is hardly room for furniture."
+  }
+ },
+ "travl": {
+  "file": "t.json",
+  "explanation": "\"Travl\" means \"busy\", for a person, a day, a street or a shop. \"Jeg har det travlt\" means \"I am busy\" or \"I am in a hurry\".",
+  "forms": [
+   {
+    "da": "en travl dag",
+    "en": "a busy day"
+   },
+   {
+    "da": "et travlt job",
+    "en": "a busy job"
+   },
+   {
+    "da": "travle dage",
+    "en": "busy days"
+   }
+  ],
+  "related": [
+   {
+    "da": "optaget",
+    "en": "busy, taken"
+   },
+   {
+    "da": "stille",
+    "en": "quiet"
+   },
+   {
+    "da": "stresset",
+    "en": "stressed"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har meget at lave. Jeg er **travl**.",
+   "en": "I have a lot to do. I am busy."
+  }
+ },
+ "tre": {
+  "file": "t.json",
+  "explanation": "\"Tre\" means \"three\". It stays the same before every noun: \"tre børn\" (three children), \"tre æg\" (three eggs).",
+  "forms": [
+   {
+    "da": "tre æbler",
+    "en": "three apples"
+   },
+   {
+    "da": "tre gange",
+    "en": "three times"
+   },
+   {
+    "da": "klokken tre",
+    "en": "three o'clock"
+   }
+  ],
+  "related": [
+   {
+    "da": "to",
+    "en": "two"
+   },
+   {
+    "da": "fire",
+    "en": "four"
+   },
+   {
+    "da": "tredive",
+    "en": "thirty"
+   },
+   {
+    "da": "tredje",
+    "en": "third"
+   }
+  ],
+  "sentence": {
+   "da": "Efter to kommer **tre**.",
+   "en": "After two comes three."
+  }
+ }
+}

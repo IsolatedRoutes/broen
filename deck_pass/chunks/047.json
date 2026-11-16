@@ -1,0 +1,4122 @@
+{
+ "en nationalpark": {
+  "file": "n.json",
+  "explanation": "\"En nationalpark\" means \"a national park\", a large nature area protected by the country.",
+  "forms": [
+   {
+    "da": "en nationalpark",
+    "en": "a national park"
+   },
+   {
+    "da": "nationalparken",
+    "en": "the national park"
+   },
+   {
+    "da": "nationalparker",
+    "en": "national parks"
+   },
+   {
+    "da": "nationalparkerne",
+    "en": "the national parks"
+   }
+  ],
+  "related": [
+   {
+    "da": "et naturområde",
+    "en": "a nature area"
+   },
+   {
+    "da": "et naturreservat",
+    "en": "a nature reserve"
+   },
+   {
+    "da": "et fredet område",
+    "en": "a protected area"
+   }
+  ],
+  "sentence": {
+   "da": "I en **nationalpark** beskytter man dyr og natur.",
+   "en": "In a national park, animals and nature are protected."
+  }
+ },
+ "en natklub": {
+  "file": "n.json",
+  "explanation": "\"En natklub\" means \"a nightclub\", a place with music and dancing late at night. It is built from nat (night) and klub (club).",
+  "forms": [
+   {
+    "da": "en natklub",
+    "en": "a nightclub"
+   },
+   {
+    "da": "natklubben",
+    "en": "the nightclub"
+   },
+   {
+    "da": "natklubber",
+    "en": "nightclubs"
+   },
+   {
+    "da": "natklubberne",
+    "en": "the nightclubs"
+   }
+  ],
+  "related": [
+   {
+    "da": "et diskotek",
+    "en": "a disco"
+   },
+   {
+    "da": "en bar",
+    "en": "a bar"
+   },
+   {
+    "da": "et værtshus",
+    "en": "a pub"
+   }
+  ],
+  "sentence": {
+   "da": "Vi danser hele natten i en **natklub** i byen.",
+   "en": "We dance all night in a nightclub in town."
+  }
+ },
+ "en natlampe": {
+  "file": "n.json",
+  "explanation": "\"En natlampe\" means \"a bedside lamp\", a small lamp that gives soft light at night. It is built from nat (night) and lampe (lamp). The same \"nat\" is in \"en natkjole\" (a nightgown).",
+  "forms": [
+   {
+    "da": "en natlampe",
+    "en": "a bedside lamp"
+   },
+   {
+    "da": "natlampen",
+    "en": "the bedside lamp"
+   },
+   {
+    "da": "natlamper",
+    "en": "bedside lamps"
+   },
+   {
+    "da": "natlamperne",
+    "en": "the bedside lamps"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bordlampe",
+    "en": "a table lamp"
+   },
+   {
+    "da": "en læselampe",
+    "en": "a reading lamp"
+   },
+   {
+    "da": "et natbord",
+    "en": "a nightstand"
+   },
+   {
+    "da": "en loftslampe",
+    "en": "a ceiling light"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har en lille **natlampe** ved min seng.",
+   "en": "I have a small bedside lamp by my bed."
+  }
+ },
+ "en nattesøvn": {
+  "file": "n.json",
+  "explanation": "\"En nattesøvn\" means \"a night's sleep\", the sleep you get during one night. Put a word for how well you slept in front of it: \"en god nattesøvn\" (a good night's sleep).",
+  "forms": [
+   {
+    "da": "en nattesøvn",
+    "en": "a night's sleep"
+   },
+   {
+    "da": "nattesøvnen",
+    "en": "the night's sleep"
+   },
+   {
+    "da": "en dårlig nattesøvn",
+    "en": "a bad night's sleep"
+   }
+  ],
+  "related": [
+   {
+    "da": "en middagslur",
+    "en": "a nap"
+   },
+   {
+    "da": "en blund",
+    "en": "a snooze"
+   },
+   {
+    "da": "søvnløshed",
+    "en": "insomnia"
+   },
+   {
+    "da": "en drøm",
+    "en": "a dream"
+   }
+  ],
+  "sentence": {
+   "da": "De fleste voksne har brug for syv timers **nattesøvn**.",
+   "en": "Most adults need seven hours of sleep a night."
+  }
+ },
+ "en naturkatastrofe": {
+  "file": "n.json",
+  "explanation": "\"En naturkatastrofe\" means \"a natural disaster\", a sudden event in nature that destroys homes and lives. It is built from natur (nature) and katastrofe (a disaster).",
+  "forms": [
+   {
+    "da": "en naturkatastrofe",
+    "en": "a natural disaster"
+   },
+   {
+    "da": "naturkatastrofen",
+    "en": "the natural disaster"
+   },
+   {
+    "da": "naturkatastrofer",
+    "en": "natural disasters"
+   },
+   {
+    "da": "naturkatastroferne",
+    "en": "the natural disasters"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tørke",
+    "en": "a drought"
+   },
+   {
+    "da": "en skovbrand",
+    "en": "a forest fire"
+   },
+   {
+    "da": "en storm",
+    "en": "a storm"
+   },
+   {
+    "da": "en orkan",
+    "en": "a hurricane"
+   }
+  ],
+  "sentence": {
+   "da": "En oversvømmelse eller et jordskælv kan være en **naturkatastrofe**.",
+   "en": "A flood or an earthquake can be a natural disaster."
+  }
+ },
+ "en naturvejleder": {
+  "file": "n.json",
+  "explanation": "\"En naturvejleder\" means \"a nature guide\", a person who takes groups outdoors and explains what they see, such as plants, animals and landscape.",
+  "forms": [
+   {
+    "da": "en naturvejleder",
+    "en": "a nature guide"
+   },
+   {
+    "da": "naturvejlederen",
+    "en": "the nature guide"
+   },
+   {
+    "da": "naturvejledere",
+    "en": "nature guides"
+   },
+   {
+    "da": "naturvejlederne",
+    "en": "the nature guides"
+   }
+  ],
+  "related": [
+   {
+    "da": "en biolog",
+    "en": "a biologist"
+   },
+   {
+    "da": "en ekskursion",
+    "en": "an excursion"
+   },
+   {
+    "da": "en rejseleder",
+    "en": "a tour leader"
+   }
+  ],
+  "sentence": {
+   "da": "En **naturvejleder** fortæller om dyrene og planterne i skoven.",
+   "en": "A nature guide tells about the animals and plants in the forest."
+  }
+ },
+ "en navle": {
+  "file": "n.json",
+  "explanation": "\"En navle\" means \"a navel\", the small round dent in the middle of your front, where you were joined to your mother before birth.",
+  "forms": [
+   {
+    "da": "en navle",
+    "en": "a navel"
+   },
+   {
+    "da": "navlen",
+    "en": "the navel"
+   },
+   {
+    "da": "navler",
+    "en": "navels"
+   },
+   {
+    "da": "navlerne",
+    "en": "the navels"
+   }
+  ],
+  "related": [
+   {
+    "da": "en navlestreng",
+    "en": "an umbilical cord"
+   },
+   {
+    "da": "en mave",
+    "en": "a stomach"
+   },
+   {
+    "da": "en bug",
+    "en": "a belly"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet har en lille **navle** midt på maven.",
+   "en": "The child has a small navel in the middle of the stomach."
+  }
+ },
+ "en navngivning": {
+  "file": "n.json",
+  "explanation": "\"En navngivning\" means \"a naming\", the act of giving a name to a person, a place, an animal or a thing. It comes from at navngive (to name).",
+  "forms": [
+   {
+    "da": "en navngivning",
+    "en": "a naming"
+   },
+   {
+    "da": "navngivningen",
+    "en": "the naming"
+   },
+   {
+    "da": "navngivninger",
+    "en": "namings"
+   },
+   {
+    "da": "navngivningerne",
+    "en": "the namings"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dåb",
+    "en": "a baptism"
+   },
+   {
+    "da": "en betegnelse",
+    "en": "a term"
+   },
+   {
+    "da": "en benævnelse",
+    "en": "a designation"
+   },
+   {
+    "da": "en titel",
+    "en": "a title"
+   }
+  ],
+  "sentence": {
+   "da": "Ved **navngivning** af en ny art bruger forskere ofte latin.",
+   "en": "When naming a new species, scientists often use Latin."
+  }
+ },
+ "en nederdel": {
+  "file": "n.json",
+  "explanation": "\"En nederdel\" means \"a skirt\", clothing that hangs from the waist. It is built from neder (down) and del (part), so it literally means a lower part.",
+  "forms": [
+   {
+    "da": "en nederdel",
+    "en": "a skirt"
+   },
+   {
+    "da": "nederdelen",
+    "en": "the skirt"
+   },
+   {
+    "da": "nederdele",
+    "en": "skirts"
+   },
+   {
+    "da": "nederdelene",
+    "en": "the skirts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kjole",
+    "en": "a dress"
+   },
+   {
+    "da": "en bluse",
+    "en": "a blouse"
+   },
+   {
+    "da": "bukser",
+    "en": "pants"
+   }
+  ],
+  "sentence": {
+   "da": "Hun tager en **nederdel** på, ikke bukser.",
+   "en": "She puts on a skirt, not pants."
+  }
+ },
+ "en nedgang": {
+  "file": "n.json",
+  "explanation": "\"En nedgang\" means \"a decline\", a fall in size, number or level: \"en nedgang i priserne\" (a decline in prices). It is also a way down to a lower place, such as \"nedgangen til metroen\" (the way down to the metro).",
+  "forms": [
+   {
+    "da": "en nedgang",
+    "en": "a decline"
+   },
+   {
+    "da": "nedgangen",
+    "en": "the decline"
+   },
+   {
+    "da": "nedgange",
+    "en": "declines"
+   },
+   {
+    "da": "nedgangene",
+    "en": "the declines"
+   }
+  ],
+  "related": [
+   {
+    "da": "en stigning",
+    "en": "an increase"
+   },
+   {
+    "da": "en fremgang",
+    "en": "an improvement"
+   },
+   {
+    "da": "et fald",
+    "en": "a drop"
+   },
+   {
+    "da": "en opgang",
+    "en": "a stairway entrance"
+   }
+  ],
+  "sentence": {
+   "da": "Der var en **nedgang** i antallet af turister i år.",
+   "en": "There was a decline in the number of tourists this year."
+  }
+ },
+ "en nedskæring": {
+  "file": "n.json",
+  "explanation": "\"En nedskæring\" means \"a cutback\", less money, staff or service than before, often at a company or in public services. It comes from \"at skære ned\" (to cut back).",
+  "forms": [
+   {
+    "da": "en nedskæring",
+    "en": "a cutback"
+   },
+   {
+    "da": "nedskæringen",
+    "en": "the cutback"
+   },
+   {
+    "da": "nedskæringer",
+    "en": "cutbacks"
+   },
+   {
+    "da": "nedskæringerne",
+    "en": "the cutbacks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en besparelse",
+    "en": "a saving"
+   },
+   {
+    "da": "en fyring",
+    "en": "a layoff"
+   },
+   {
+    "da": "en reduktion",
+    "en": "a decrease"
+   },
+   {
+    "da": "en spareplan",
+    "en": "a savings plan"
+   }
+  ],
+  "sentence": {
+   "da": "Skolen står over for en stor **nedskæring** i budgettet.",
+   "en": "The school faces a big cutback in its budget."
+  }
+ },
+ "en negl": {
+  "file": "n.json",
+  "explanation": "\"En negl\" means \"a nail\" on a finger or toe. A nail you hit with a hammer is a different word, \"et søm\" (a nail): \"Jeg slår et søm i væggen\" (I hammer a nail into the wall).",
+  "forms": [
+   {
+    "da": "en negl",
+    "en": "a nail"
+   },
+   {
+    "da": "neglen",
+    "en": "the nail"
+   },
+   {
+    "da": "negle",
+    "en": "nails"
+   },
+   {
+    "da": "neglene",
+    "en": "the nails"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tå",
+    "en": "a toe"
+   },
+   {
+    "da": "en tånegl",
+    "en": "a toenail"
+   },
+   {
+    "da": "en neglesaks",
+    "en": "nail scissors"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har knækket en **negl** på min finger.",
+   "en": "I have broken a nail on my finger."
+  }
+ },
+ "en neglesalon": {
+  "file": "n.json",
+  "explanation": "\"En neglesalon\" means \"a nail salon\", where you get a manicure. To say you are having your nails done there, use \"Jeg skal have lavet negle\" (I am getting my nails done).",
+  "forms": [
+   {
+    "da": "en neglesalon",
+    "en": "a nail salon"
+   },
+   {
+    "da": "neglesalonen",
+    "en": "the nail salon"
+   },
+   {
+    "da": "neglesaloner",
+    "en": "nail salons"
+   },
+   {
+    "da": "neglesalonerne",
+    "en": "the nail salons"
+   }
+  ],
+  "related": [
+   {
+    "da": "en frisørsalon",
+    "en": "a hair salon"
+   },
+   {
+    "da": "en negl",
+    "en": "a nail"
+   },
+   {
+    "da": "neglelak",
+    "en": "nail polish"
+   }
+  ],
+  "sentence": {
+   "da": "I en **neglesalon** kan man få lakeret sine negle.",
+   "en": "In a nail salon you can get your nails polished."
+  }
+ },
+ "en nerve": {
+  "file": "n.json",
+  "explanation": "\"En nerve\" means \"a nerve\", a thin fiber that carries signals between the brain and the rest of the body. To say something annoys you, use \"at gå én på nerverne\" (to get on someone's nerves): \"Støjen går mig på nerverne\" (The noise gets on my nerves).",
+  "forms": [
+   {
+    "da": "en nerve",
+    "en": "a nerve"
+   },
+   {
+    "da": "nerven",
+    "en": "the nerve"
+   },
+   {
+    "da": "nerver",
+    "en": "nerves"
+   },
+   {
+    "da": "nerverne",
+    "en": "the nerves"
+   }
+  ],
+  "related": [
+   {
+    "da": "et nervesystem",
+    "en": "a nervous system"
+   },
+   {
+    "da": "en muskel",
+    "en": "a muscle"
+   },
+   {
+    "da": "en rygmarv",
+    "en": "a spinal cord"
+   }
+  ],
+  "sentence": {
+   "da": "En **nerve** sender signaler fra hjernen til musklerne.",
+   "en": "A nerve sends signals from the brain to the muscles."
+  }
+ },
+ "en nevø": {
+  "file": "n.json",
+  "explanation": "\"En nevø\" means \"a nephew\", your brother's or sister's son. The female version is \"en niece\" (a niece).",
+  "forms": [
+   {
+    "da": "en nevø",
+    "en": "a nephew"
+   },
+   {
+    "da": "nevøen",
+    "en": "the nephew"
+   },
+   {
+    "da": "nevøer",
+    "en": "nephews"
+   },
+   {
+    "da": "nevøerne",
+    "en": "the nephews"
+   }
+  ],
+  "related": [
+   {
+    "da": "en onkel",
+    "en": "an uncle"
+   },
+   {
+    "da": "en tante",
+    "en": "an aunt"
+   },
+   {
+    "da": "en fætter",
+    "en": "a male cousin"
+   }
+  ],
+  "sentence": {
+   "da": "Min **nevø** kalder mig onkel.",
+   "en": "My nephew calls me uncle."
+  }
+ },
+ "en niece": {
+  "file": "n.json",
+  "explanation": "\"En niece\" means \"a niece\", your brother's or sister's daughter. The male version is \"en nevø\" (a nephew).",
+  "forms": [
+   {
+    "da": "en niece",
+    "en": "a niece"
+   },
+   {
+    "da": "niecen",
+    "en": "the niece"
+   },
+   {
+    "da": "niecer",
+    "en": "nieces"
+   },
+   {
+    "da": "niecerne",
+    "en": "the nieces"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tante",
+    "en": "an aunt"
+   },
+   {
+    "da": "en onkel",
+    "en": "an uncle"
+   },
+   {
+    "da": "en kusine",
+    "en": "a female cousin"
+   }
+  ],
+  "sentence": {
+   "da": "Min **niece** kalder mig tante.",
+   "en": "My niece calls me aunt."
+  }
+ },
+ "en nisse": {
+  "file": "n.json",
+  "explanation": "\"En nisse\" means \"a Christmas elf\", a small Danish folklore creature in a red cap. He plays tricks if people do not treat him well.",
+  "forms": [
+   {
+    "da": "en nisse",
+    "en": "a Christmas elf"
+   },
+   {
+    "da": "nissen",
+    "en": "the Christmas elf"
+   },
+   {
+    "da": "nisser",
+    "en": "Christmas elves"
+   },
+   {
+    "da": "nisserne",
+    "en": "the Christmas elves"
+   }
+  ],
+  "related": [
+   {
+    "da": "julemanden",
+    "en": "Santa Claus"
+   },
+   {
+    "da": "en trold",
+    "en": "a troll"
+   },
+   {
+    "da": "en gnom",
+    "en": "a gnome"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene satte risengrød frem til den lille **nisse**.",
+   "en": "The children put out rice porridge for the little elf."
+  }
+ },
+ "en nordmand": {
+  "file": "n.json",
+  "explanation": "\"En nordmand\" means \"a Norwegian\", a person from Norway. The country is \"Norge\" (Norway).",
+  "forms": [
+   {
+    "da": "en nordmand",
+    "en": "a Norwegian"
+   },
+   {
+    "da": "nordmanden",
+    "en": "the Norwegian"
+   },
+   {
+    "da": "nordmænd",
+    "en": "Norwegians"
+   },
+   {
+    "da": "nordmændene",
+    "en": "the Norwegians"
+   }
+  ],
+  "related": [
+   {
+    "da": "en svensker",
+    "en": "a Swede"
+   },
+   {
+    "da": "en finne",
+    "en": "a Finn"
+   },
+   {
+    "da": "en islænding",
+    "en": "an Icelander"
+   }
+  ],
+  "sentence": {
+   "da": "Hun er **nordmand** og bor i Oslo.",
+   "en": "She is Norwegian and lives in Oslo."
+  }
+ },
+ "en norm": {
+  "file": "n.json",
+  "explanation": "\"En norm\" means \"a norm\", a shared expectation of how people behave in a group or a country: \"Det er normen, at man siger tak for mad\" (It is the norm to say thanks for the food).",
+  "forms": [
+   {
+    "da": "en norm",
+    "en": "a norm"
+   },
+   {
+    "da": "normen",
+    "en": "the norm"
+   },
+   {
+    "da": "normer",
+    "en": "norms"
+   },
+   {
+    "da": "normerne",
+    "en": "the norms"
+   }
+  ],
+  "related": [
+   {
+    "da": "en regel",
+    "en": "a rule"
+   },
+   {
+    "da": "en skik",
+    "en": "a custom"
+   },
+   {
+    "da": "en tradition",
+    "en": "a tradition"
+   },
+   {
+    "da": "en standard",
+    "en": "a standard"
+   }
+  ],
+  "sentence": {
+   "da": "I Danmark er det en **norm** at komme til tiden.",
+   "en": "In Denmark it is a norm to arrive on time."
+  }
+ },
+ "en note": {
+  "file": "n.json",
+  "explanation": "\"En note\" means \"a note\", a few words written down to remember or tell something.",
+  "forms": [
+   {
+    "da": "en note",
+    "en": "a note"
+   },
+   {
+    "da": "noten",
+    "en": "the note"
+   },
+   {
+    "da": "noter",
+    "en": "notes"
+   },
+   {
+    "da": "noterne",
+    "en": "the notes"
+   }
+  ],
+  "related": [
+   {
+    "da": "et notat",
+    "en": "a memo"
+   },
+   {
+    "da": "en seddel",
+    "en": "a slip of paper"
+   },
+   {
+    "da": "en notesbog",
+    "en": "a notebook"
+   },
+   {
+    "da": "at notere",
+    "en": "to note down"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg lægger en **note** på køleskabet.",
+   "en": "I put a note on the fridge."
+  }
+ },
+ "en notesbog": {
+  "file": "n.json",
+  "explanation": "\"En notesbog\" means \"a notebook\" for writing by hand. It ends in \"bog\" (book), like \"en ordbog\" (a dictionary) and \"en lærebog\" (a textbook).",
+  "forms": [
+   {
+    "da": "en notesbog",
+    "en": "a notebook"
+   },
+   {
+    "da": "notesbogen",
+    "en": "the notebook"
+   },
+   {
+    "da": "notesbøger",
+    "en": "notebooks"
+   },
+   {
+    "da": "notesbøgerne",
+    "en": "the notebooks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skitsebog",
+    "en": "a sketchbook"
+   },
+   {
+    "da": "en note",
+    "en": "a note"
+   },
+   {
+    "da": "en blok",
+    "en": "a pad"
+   },
+   {
+    "da": "en dagbog",
+    "en": "a diary"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skriver nye ord i min **notesbog**.",
+   "en": "I write new words in my notebook."
+  }
+ },
+ "en novelle": {
+  "file": "n.json",
+  "explanation": "\"En novelle\" means \"a short story\", a short piece of fiction that you can read in one sitting, usually built around a single event.",
+  "forms": [
+   {
+    "da": "en novelle",
+    "en": "a short story"
+   },
+   {
+    "da": "novellen",
+    "en": "the short story"
+   },
+   {
+    "da": "noveller",
+    "en": "short stories"
+   },
+   {
+    "da": "novellerne",
+    "en": "the short stories"
+   }
+  ],
+  "related": [
+   {
+    "da": "en roman",
+    "en": "a novel"
+   },
+   {
+    "da": "et digt",
+    "en": "a poem"
+   },
+   {
+    "da": "en forfatter",
+    "en": "an author"
+   },
+   {
+    "da": "et eventyr",
+    "en": "a fairy tale"
+   }
+  ],
+  "sentence": {
+   "da": "En **novelle** er meget kortere end en roman.",
+   "en": "A short story is much shorter than a novel."
+  }
+ },
+ "en nuance": {
+  "file": "n.json",
+  "explanation": "\"En nuance\" means \"a nuance\", a very small variation in meaning, opinion or color that is easy to miss.",
+  "forms": [
+   {
+    "da": "en nuance",
+    "en": "a nuance"
+   },
+   {
+    "da": "nuancen",
+    "en": "the nuance"
+   },
+   {
+    "da": "nuancer",
+    "en": "nuances"
+   },
+   {
+    "da": "nuancerne",
+    "en": "the nuances"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forskel",
+    "en": "a difference"
+   },
+   {
+    "da": "en detalje",
+    "en": "a detail"
+   },
+   {
+    "da": "nuanceret",
+    "en": "nuanced"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en lille **nuance** i betydningen af de to ord.",
+   "en": "There is a small nuance in the meaning of the two words."
+  }
+ },
+ "en nummerplade": {
+  "file": "n.json",
+  "explanation": "\"En nummerplade\" means \"a license plate\". It is nummer (number) plus plade (plate). \"Plade\" also means \"record\", as in \"en vinylplade\" (a vinyl record).",
+  "forms": [
+   {
+    "da": "en nummerplade",
+    "en": "a license plate"
+   },
+   {
+    "da": "nummerpladen",
+    "en": "the license plate"
+   },
+   {
+    "da": "nummerplader",
+    "en": "license plates"
+   },
+   {
+    "da": "nummerpladerne",
+    "en": "the license plates"
+   }
+  ],
+  "related": [
+   {
+    "da": "et registreringsnummer",
+    "en": "a registration number"
+   },
+   {
+    "da": "en registreringsattest",
+    "en": "a registration certificate"
+   },
+   {
+    "da": "et skilt",
+    "en": "a sign"
+   }
+  ],
+  "sentence": {
+   "da": "Hvad er nummeret på din **nummerplade**?",
+   "en": "What is the number on your license plate?"
+  }
+ },
+ "en nyhed": {
+  "file": "n.json",
+  "explanation": "\"En nyhed\" means \"a piece of news\", one single item: \"Det er en dårlig nyhed\" (That is bad news). For the news on TV or radio, Danes say \"nyhederne\" (the news): \"Nyhederne begynder nu\" (The news is starting now).",
+  "forms": [
+   {
+    "da": "en nyhed",
+    "en": "a piece of news"
+   },
+   {
+    "da": "nyheden",
+    "en": "the piece of news"
+   },
+   {
+    "da": "nyheder",
+    "en": "pieces of news"
+   },
+   {
+    "da": "nyhederne",
+    "en": "the pieces of news"
+   }
+  ],
+  "related": [
+   {
+    "da": "ny",
+    "en": "new"
+   },
+   {
+    "da": "en avis",
+    "en": "a newspaper"
+   },
+   {
+    "da": "et nyhedsbrev",
+    "en": "a newsletter"
+   },
+   {
+    "da": "en nyhedsudsendelse",
+    "en": "a news broadcast"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har en god **nyhed** til dig.",
+   "en": "I have good news for you."
+  }
+ },
+ "en nyhedsside": {
+  "file": "n.json",
+  "explanation": "\"En nyhedsside\" means \"a news site\", a website that publishes news and updates it through the day. \"Side\" means both \"page\" and \"site\", so for one page in a printed paper say \"en avisside\" (a newspaper page).",
+  "forms": [
+   {
+    "da": "en nyhedsside",
+    "en": "a news site"
+   },
+   {
+    "da": "nyhedssiden",
+    "en": "the news site"
+   },
+   {
+    "da": "nyhedssider",
+    "en": "news sites"
+   },
+   {
+    "da": "nyhedssiderne",
+    "en": "the news sites"
+   }
+  ],
+  "related": [
+   {
+    "da": "en blog",
+    "en": "a blog"
+   },
+   {
+    "da": "en artikel",
+    "en": "an article"
+   },
+   {
+    "da": "en overskrift",
+    "en": "a headline"
+   }
+  ],
+  "sentence": {
+   "da": "På en **nyhedsside** kan man følge med i dagens begivenheder.",
+   "en": "On a news site you can keep up with the events of the day."
+  }
+ },
+ "en nyhedsudsendelse": {
+  "file": "n.json",
+  "explanation": "\"En nyhedsudsendelse\" means \"a news broadcast\", a program on television or radio that reports what has happened, at a set time. It is built from nyheds- (news) and udsendelse (a broadcast).",
+  "forms": [
+   {
+    "da": "en nyhedsudsendelse",
+    "en": "a news broadcast"
+   },
+   {
+    "da": "nyhedsudsendelsen",
+    "en": "the news broadcast"
+   },
+   {
+    "da": "nyhedsudsendelser",
+    "en": "news broadcasts"
+   },
+   {
+    "da": "nyhedsudsendelserne",
+    "en": "the news broadcasts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en reporter",
+    "en": "a reporter"
+   },
+   {
+    "da": "en journalist",
+    "en": "a journalist"
+   },
+   {
+    "da": "en kanal",
+    "en": "a channel"
+   }
+  ],
+  "sentence": {
+   "da": "I en **nyhedsudsendelse** hører man, hvad der er sket i dag.",
+   "en": "In a news broadcast you hear what has happened today."
+  }
+ },
+ "en nyhedsvært": {
+  "file": "n.json",
+  "explanation": "\"En nyhedsvært\" means \"a news anchor\", the person who sits in the studio, presents the main stories and introduces the others. The word \"vært\" (a host) is used for the host of any show or event.",
+  "forms": [
+   {
+    "da": "en nyhedsvært",
+    "en": "a news anchor"
+   },
+   {
+    "da": "nyhedsværten",
+    "en": "the news anchor"
+   },
+   {
+    "da": "nyhedsværter",
+    "en": "news anchors"
+   },
+   {
+    "da": "nyhedsværterne",
+    "en": "the news anchors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en reporter",
+    "en": "a reporter"
+   },
+   {
+    "da": "en journalist",
+    "en": "a journalist"
+   },
+   {
+    "da": "en speaker",
+    "en": "an announcer"
+   },
+   {
+    "da": "en redaktør",
+    "en": "an editor"
+   }
+  ],
+  "sentence": {
+   "da": "En **nyhedsvært** præsenterer dagens vigtigste historier i studiet.",
+   "en": "A news anchor presents the day's most important stories in the studio."
+  }
+ },
+ "en nyre": {
+  "file": "n.json",
+  "explanation": "\"En nyre\" means \"a kidney\", one of two bean-shaped organs in your lower back.",
+  "forms": [
+   {
+    "da": "en nyre",
+    "en": "a kidney"
+   },
+   {
+    "da": "nyren",
+    "en": "the kidney"
+   },
+   {
+    "da": "nyrer",
+    "en": "kidneys"
+   },
+   {
+    "da": "nyrerne",
+    "en": "the kidneys"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lever",
+    "en": "a liver"
+   },
+   {
+    "da": "et hjerte",
+    "en": "a heart"
+   },
+   {
+    "da": "en lunge",
+    "en": "a lung"
+   },
+   {
+    "da": "en blære",
+    "en": "a bladder"
+   }
+  ],
+  "sentence": {
+   "da": "En **nyre** renser blodet og laver urin.",
+   "en": "A kidney cleans the blood and makes urine."
+  }
+ },
+ "en nytårskur": {
+  "file": "n.json",
+  "explanation": "\"En nytårskur\" means \"a New Year's reception\", a get-together in early January, usually held by a company or an organization, with drinks and short talks. Guests come to wish each other a happy new year.",
+  "forms": [
+   {
+    "da": "en nytårskur",
+    "en": "a New Year's reception"
+   },
+   {
+    "da": "nytårskuren",
+    "en": "the New Year's reception"
+   },
+   {
+    "da": "nytårskure",
+    "en": "New Year's receptions"
+   },
+   {
+    "da": "nytårskurene",
+    "en": "the New Year's receptions"
+   }
+  ],
+  "related": [
+   {
+    "da": "en julefrokost",
+    "en": "a Christmas lunch party"
+   },
+   {
+    "da": "en tale",
+    "en": "a speech"
+   },
+   {
+    "da": "en fest",
+    "en": "a party"
+   },
+   {
+    "da": "en sammenkomst",
+    "en": "a gathering"
+   }
+  ],
+  "sentence": {
+   "da": "Firmaet inviterer alle kunder til sin årlige **nytårskur** i januar.",
+   "en": "The company invites all customers to its annual New Year's reception in January."
+  }
+ },
+ "en nål": {
+  "file": "n.json",
+  "explanation": "\"En nål\" means \"a needle\", a thin pointed tool. The same word is used for a sewing needle and for an injection needle.",
+  "forms": [
+   {
+    "da": "en nål",
+    "en": "a needle"
+   },
+   {
+    "da": "nålen",
+    "en": "the needle"
+   },
+   {
+    "da": "nåle",
+    "en": "needles"
+   },
+   {
+    "da": "nålene",
+    "en": "the needles"
+   }
+  ],
+  "related": [
+   {
+    "da": "en knappenål",
+    "en": "a pin"
+   },
+   {
+    "da": "en nålepude",
+    "en": "a pincushion"
+   },
+   {
+    "da": "en synål",
+    "en": "a sewing needle"
+   },
+   {
+    "da": "en strikkepind",
+    "en": "a knitting needle"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen stikker en **nål** i min arm.",
+   "en": "The doctor sticks a needle in my arm."
+  }
+ },
+ "en næse": {
+  "file": "n.json",
+  "explanation": "\"En næse\" means \"a nose\", the part in the middle of your face used for breathing. The phrase \"at have næse for noget\" means \"to have a good feel for something\" (literally, to have a nose for something).",
+  "forms": [
+   {
+    "da": "en næse",
+    "en": "a nose"
+   },
+   {
+    "da": "næsen",
+    "en": "the nose"
+   },
+   {
+    "da": "næser",
+    "en": "noses"
+   },
+   {
+    "da": "næserne",
+    "en": "the noses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mund",
+    "en": "a mouth"
+   },
+   {
+    "da": "et øje",
+    "en": "an eye"
+   },
+   {
+    "da": "et ansigt",
+    "en": "a face"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan lugte blomsten med min **næse**.",
+   "en": "I can smell the flower with my nose."
+  }
+ },
+ "en næsespray": {
+  "file": "n.json",
+  "explanation": "\"En næsespray\" means \"a nasal spray\", a small bottle that you spray into your nose when it is stuffed up.",
+  "forms": [
+   {
+    "da": "en næsespray",
+    "en": "a nasal spray"
+   },
+   {
+    "da": "næsesprayen",
+    "en": "the nasal spray"
+   },
+   {
+    "da": "næsesprays",
+    "en": "nasal sprays"
+   },
+   {
+    "da": "næsesprayene",
+    "en": "the nasal sprays"
+   }
+  ],
+  "related": [
+   {
+    "da": "en snue",
+    "en": "a head cold"
+   },
+   {
+    "da": "en allergi",
+    "en": "an allergy"
+   },
+   {
+    "da": "et apotek",
+    "en": "a pharmacy"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bruger **næsespray**, når næsen er tilstoppet.",
+   "en": "I use nasal spray when my nose is blocked."
+  }
+ },
+ "en nød": {
+  "file": "n.json",
+  "explanation": "\"En nød\" means \"a nut\". The same word also means \"distress\": \"Han er i nød\" (He is in distress).",
+  "forms": [
+   {
+    "da": "en nød",
+    "en": "a nut"
+   },
+   {
+    "da": "nøden",
+    "en": "the nut"
+   },
+   {
+    "da": "nødder",
+    "en": "nuts"
+   },
+   {
+    "da": "nødderne",
+    "en": "the nuts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mandel",
+    "en": "an almond"
+   },
+   {
+    "da": "en hasselnød",
+    "en": "a hazelnut"
+   },
+   {
+    "da": "en valnød",
+    "en": "a walnut"
+   },
+   {
+    "da": "en jordnød",
+    "en": "a peanut"
+   }
+  ],
+  "sentence": {
+   "da": "Egernet gemmer en **nød** til vinteren.",
+   "en": "The squirrel saves a nut for the winter."
+  }
+ },
+ "en nøddeallergi": {
+  "file": "n.json",
+  "explanation": "\"En nøddeallergi\" means \"a nut allergy\", a reaction of the body against nuts, which can be dangerous even in small amounts. Food labels warn about it: \"Kan indeholde spor af nødder\" (May contain traces of nuts).",
+  "forms": [
+   {
+    "da": "en nøddeallergi",
+    "en": "a nut allergy"
+   },
+   {
+    "da": "nøddeallergien",
+    "en": "the nut allergy"
+   },
+   {
+    "da": "nøddeallergier",
+    "en": "nut allergies"
+   },
+   {
+    "da": "nøddeallergierne",
+    "en": "the nut allergies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en jordnød",
+    "en": "a peanut"
+   },
+   {
+    "da": "en hasselnød",
+    "en": "a hazelnut"
+   },
+   {
+    "da": "en mandel",
+    "en": "an almond"
+   },
+   {
+    "da": "en valnød",
+    "en": "a walnut"
+   }
+  ],
+  "sentence": {
+   "da": "Han har **nøddeallergi** og må ikke spise mandler.",
+   "en": "He has a nut allergy and must not eat almonds."
+  }
+ },
+ "en nødsituation": {
+  "file": "n.json",
+  "explanation": "\"En nødsituation\" means \"an emergency\", a sudden and dangerous situation where people need help right away.",
+  "forms": [
+   {
+    "da": "en nødsituation",
+    "en": "an emergency"
+   },
+   {
+    "da": "nødsituationen",
+    "en": "the emergency"
+   },
+   {
+    "da": "nødsituationer",
+    "en": "emergencies"
+   },
+   {
+    "da": "nødsituationerne",
+    "en": "the emergencies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ulykke",
+    "en": "an accident"
+   },
+   {
+    "da": "en krise",
+    "en": "a crisis"
+   },
+   {
+    "da": "en katastrofe",
+    "en": "a disaster"
+   },
+   {
+    "da": "en brand",
+    "en": "a fire"
+   }
+  ],
+  "sentence": {
+   "da": "Ring til 112, når der er en **nødsituation**.",
+   "en": "Call 112 when there is an emergency."
+  }
+ },
+ "en nødudgang": {
+  "file": "n.json",
+  "explanation": "\"En nødudgang\" means \"an emergency exit\", the door you use when there is danger.",
+  "forms": [
+   {
+    "da": "en nødudgang",
+    "en": "an emergency exit"
+   },
+   {
+    "da": "nødudgangen",
+    "en": "the emergency exit"
+   },
+   {
+    "da": "nødudgange",
+    "en": "emergency exits"
+   },
+   {
+    "da": "nødudgangene",
+    "en": "the emergency exits"
+   }
+  ],
+  "related": [
+   {
+    "da": "en indgang",
+    "en": "an entrance"
+   },
+   {
+    "da": "en nødsituation",
+    "en": "an emergency"
+   },
+   {
+    "da": "en flugtvej",
+    "en": "an escape route"
+   },
+   {
+    "da": "en udgang",
+    "en": "an exit"
+   }
+  ],
+  "sentence": {
+   "da": "Døren er en **nødudgang**, og den må ikke låses.",
+   "en": "The door is an emergency exit and must not be locked."
+  }
+ },
+ "en nødvendighed": {
+  "file": "n.json",
+  "explanation": "\"En nødvendighed\" means \"a necessity\", something you must have, not just something you would like. It comes from nødvendig (necessary).",
+  "forms": [
+   {
+    "da": "en nødvendighed",
+    "en": "a necessity"
+   },
+   {
+    "da": "nødvendigheden",
+    "en": "the necessity"
+   },
+   {
+    "da": "nødvendigheder",
+    "en": "necessities"
+   },
+   {
+    "da": "nødvendighederne",
+    "en": "the necessities"
+   }
+  ],
+  "related": [
+   {
+    "da": "et behov",
+    "en": "a need"
+   },
+   {
+    "da": "en luksus",
+    "en": "a luxury"
+   },
+   {
+    "da": "et krav",
+    "en": "a requirement"
+   },
+   {
+    "da": "et ønske",
+    "en": "a wish"
+   }
+  ],
+  "sentence": {
+   "da": "Rent vand er en **nødvendighed**, men ikke alle har det.",
+   "en": "Clean water is a necessity, but not everyone has it."
+  }
+ },
+ "en nøgle": {
+  "file": "n.json",
+  "explanation": "\"En nøgle\" means \"a key\", a small metal tool that opens and locks a door.",
+  "forms": [
+   {
+    "da": "en nøgle",
+    "en": "a key"
+   },
+   {
+    "da": "nøglen",
+    "en": "the key"
+   },
+   {
+    "da": "nøgler",
+    "en": "keys"
+   },
+   {
+    "da": "nøglerne",
+    "en": "the keys"
+   }
+  ],
+  "related": [
+   {
+    "da": "et nøglekort",
+    "en": "a key card"
+   },
+   {
+    "da": "en nøglering",
+    "en": "a key ring"
+   },
+   {
+    "da": "en lås",
+    "en": "a lock"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg åbner døren med min **nøgle**.",
+   "en": "I open the door with my key."
+  }
+ },
+ "en nøglering": {
+  "file": "n.json",
+  "explanation": "\"En nøglering\" means \"a key ring\", the ring that holds your keys together.",
+  "forms": [
+   {
+    "da": "en nøglering",
+    "en": "a key ring"
+   },
+   {
+    "da": "nøgleringen",
+    "en": "the key ring"
+   },
+   {
+    "da": "nøgleringe",
+    "en": "key rings"
+   },
+   {
+    "da": "nøgleringene",
+    "en": "the key rings"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nøgle",
+    "en": "a key"
+   },
+   {
+    "da": "et nøglekort",
+    "en": "a key card"
+   },
+   {
+    "da": "en lås",
+    "en": "a lock"
+   },
+   {
+    "da": "et nøglehul",
+    "en": "a keyhole"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har otte nøgler på min **nøglering**.",
+   "en": "I have eight keys on my key ring."
+  }
+ },
+ "en nørd": {
+  "file": "n.json",
+  "explanation": "\"En nørd\" means \"a nerd\", someone very keen on one topic. The topic comes first in one word: \"en computernørd\" (a computer nerd), \"en filmnørd\" (a movie nerd).",
+  "forms": [
+   {
+    "da": "en nørd",
+    "en": "a nerd"
+   },
+   {
+    "da": "nørden",
+    "en": "the nerd"
+   },
+   {
+    "da": "nørder",
+    "en": "nerds"
+   },
+   {
+    "da": "nørderne",
+    "en": "the nerds"
+   }
+  ],
+  "related": [
+   {
+    "da": "en entusiast",
+    "en": "an enthusiast"
+   },
+   {
+    "da": "en bogorm",
+    "en": "a bookworm"
+   },
+   {
+    "da": "en ekspert",
+    "en": "an expert"
+   },
+   {
+    "da": "en fan",
+    "en": "a fan"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror er en **nørd** og elsker computere.",
+   "en": "My brother is a nerd and loves computers."
+  }
+ },
+ "et nabolag": {
+  "file": "n.json",
+  "explanation": "\"Et nabolag\" means \"a neighborhood\", the area around your home and the people in it. It is built on nabo (neighbor).",
+  "forms": [
+   {
+    "da": "et nabolag",
+    "en": "a neighborhood"
+   },
+   {
+    "da": "nabolaget",
+    "en": "the neighborhood"
+   },
+   {
+    "da": "nabolag",
+    "en": "neighborhoods"
+   },
+   {
+    "da": "nabolagene",
+    "en": "the neighborhoods"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kvarter",
+    "en": "a district"
+   },
+   {
+    "da": "et område",
+    "en": "an area"
+   },
+   {
+    "da": "et lokalområde",
+    "en": "a local area"
+   },
+   {
+    "da": "en bydel",
+    "en": "a city district"
+   }
+  ],
+  "sentence": {
+   "da": "Vi bor i et rart **nabolag** nær skolen.",
+   "en": "We live in a nice neighborhood near the school."
+  }
+ },
+ "et naboskab": {
+  "file": "n.json",
+  "explanation": "\"Et naboskab\" means \"a neighborhood relationship\", the way people who live close to each other get along. It describes the relationship, not the people themselves, who are \"naboer\" (neighbors).",
+  "forms": [
+   {
+    "da": "et naboskab",
+    "en": "a neighborhood relationship"
+   },
+   {
+    "da": "naboskabet",
+    "en": "the neighborhood relationship"
+   },
+   {
+    "da": "naboskaber",
+    "en": "neighborhood relationships"
+   },
+   {
+    "da": "naboskaberne",
+    "en": "the neighborhood relationships"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fællesskab",
+    "en": "a community"
+   },
+   {
+    "da": "et venskab",
+    "en": "a friendship"
+   },
+   {
+    "da": "et kvarter",
+    "en": "a city district"
+   },
+   {
+    "da": "en genbo",
+    "en": "a neighbor across the street"
+   }
+  ],
+  "sentence": {
+   "da": "Et godt **naboskab** betyder, at man hjælper hinanden.",
+   "en": "A good neighborhood relationship means that people help each other."
+  }
+ },
+ "et natbord": {
+  "file": "n.json",
+  "explanation": "\"Et natbord\" means \"a nightstand\". It is nat (night) plus bord (table), and it stands next to the bed.",
+  "forms": [
+   {
+    "da": "et natbord",
+    "en": "a nightstand"
+   },
+   {
+    "da": "natbordet",
+    "en": "the nightstand"
+   },
+   {
+    "da": "natborde",
+    "en": "nightstands"
+   },
+   {
+    "da": "natbordene",
+    "en": "the nightstands"
+   }
+  ],
+  "related": [
+   {
+    "da": "et sengebord",
+    "en": "a bedside table"
+   },
+   {
+    "da": "en sengelampe",
+    "en": "a bedside lamp"
+   },
+   {
+    "da": "en sengegavl",
+    "en": "a headboard"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har en lampe og en bog på mit **natbord**.",
+   "en": "I have a lamp and a book on my nightstand."
+  }
+ },
+ "et naturområde": {
+  "file": "n.json",
+  "explanation": "\"Et naturområde\" means \"a nature area\", a stretch of land or water with wild plants and animals, often kept as it is so that people can visit it.",
+  "forms": [
+   {
+    "da": "et naturområde",
+    "en": "a nature area"
+   },
+   {
+    "da": "naturområdet",
+    "en": "the nature area"
+   },
+   {
+    "da": "naturområder",
+    "en": "nature areas"
+   },
+   {
+    "da": "naturområderne",
+    "en": "the nature areas"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nationalpark",
+    "en": "a national park"
+   },
+   {
+    "da": "et reservat",
+    "en": "a reserve"
+   },
+   {
+    "da": "en hede",
+    "en": "a heath"
+   },
+   {
+    "da": "et vildtreservat",
+    "en": "a wildlife reserve"
+   }
+  ],
+  "sentence": {
+   "da": "Vi går tur i et stort **naturområde** med sø og skov.",
+   "en": "We go for a walk in a large nature area with a lake and forest."
+  }
+ },
+ "et navn": {
+  "file": "n.json",
+  "explanation": "\"Et navn\" means \"a name\". To ask someone's name, Danes usually say \"Hvad hedder du?\" (What is your name?, literally \"What are you called?\").",
+  "forms": [
+   {
+    "da": "et navn",
+    "en": "a name"
+   },
+   {
+    "da": "navnet",
+    "en": "the name"
+   },
+   {
+    "da": "navne",
+    "en": "names"
+   },
+   {
+    "da": "navnene",
+    "en": "the names"
+   }
+  ],
+  "related": [
+   {
+    "da": "et fornavn",
+    "en": "a first name"
+   },
+   {
+    "da": "et efternavn",
+    "en": "a last name"
+   },
+   {
+    "da": "et mellemnavn",
+    "en": "a middle name"
+   },
+   {
+    "da": "at hedde",
+    "en": "to be called"
+   }
+  ],
+  "sentence": {
+   "da": "Hvad er dit **navn**?",
+   "en": "What is your name?"
+  }
+ },
+ "et navneord": {
+  "file": "n.json",
+  "explanation": "\"Et navneord\" means \"a noun\", a word that names something, like \"bil\" (a car) or \"Anna\". Teachers also say \"et substantiv\" (a noun), which means the same.",
+  "forms": [
+   {
+    "da": "et navneord",
+    "en": "a noun"
+   },
+   {
+    "da": "navneordet",
+    "en": "the noun"
+   },
+   {
+    "da": "navneord",
+    "en": "nouns"
+   },
+   {
+    "da": "navneordene",
+    "en": "the nouns"
+   }
+  ],
+  "related": [
+   {
+    "da": "et udsagnsord",
+    "en": "a verb"
+   },
+   {
+    "da": "et tillægsord",
+    "en": "an adjective"
+   },
+   {
+    "da": "et biord",
+    "en": "an adverb"
+   },
+   {
+    "da": "et stedord",
+    "en": "a pronoun"
+   }
+  ],
+  "sentence": {
+   "da": "**Navneord** er ord for personer, steder og ting.",
+   "en": "Nouns are words for people, places and things."
+  }
+ },
+ "et nedbrud": {
+  "file": "n.json",
+  "explanation": "\"Et nedbrud\" means \"a crash\", when a computer or system suddenly stops working. It is built from ned (down) and brud (break), and \"brud\" also appears in \"et benbrud\" (a broken bone).",
+  "forms": [
+   {
+    "da": "et nedbrud",
+    "en": "a crash"
+   },
+   {
+    "da": "nedbruddet",
+    "en": "the crash"
+   },
+   {
+    "da": "nedbrud",
+    "en": "crashes"
+   },
+   {
+    "da": "nedbruddene",
+    "en": "the crashes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fejl",
+    "en": "an error"
+   },
+   {
+    "da": "at gå ned",
+    "en": "to crash"
+   },
+   {
+    "da": "en nedlukning",
+    "en": "a shutdown"
+   },
+   {
+    "da": "at genstarte",
+    "en": "to restart"
+   }
+  ],
+  "sentence": {
+   "da": "Efter et **nedbrud** skal jeg starte computeren igen.",
+   "en": "After a crash, I have to start the computer again."
+  }
+ },
+ "et nederlag": {
+  "file": "n.json",
+  "explanation": "\"Et nederlag\" means \"a defeat\", being beaten in a game, a war or an election.",
+  "forms": [
+   {
+    "da": "et nederlag",
+    "en": "a defeat"
+   },
+   {
+    "da": "nederlaget",
+    "en": "the defeat"
+   },
+   {
+    "da": "nederlag",
+    "en": "defeats"
+   },
+   {
+    "da": "nederlagene",
+    "en": "the defeats"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sejr",
+    "en": "a victory"
+   },
+   {
+    "da": "et tab",
+    "en": "a loss"
+   },
+   {
+    "da": "en taber",
+    "en": "a loser"
+   },
+   {
+    "da": "en vinder",
+    "en": "a winner"
+   }
+  ],
+  "sentence": {
+   "da": "Holdet tabte 5-0, og alle kaldte det et stort **nederlag**.",
+   "en": "The team lost 5-0, and everyone called it a big defeat."
+  }
+ },
+ "et net": {
+  "file": "n.json",
+  "explanation": "\"Et net\" means \"a net\". With the ending, \"nettet\" means \"the internet\": \"Jeg søger på nettet\" (I am searching on the internet).",
+  "forms": [
+   {
+    "da": "et net",
+    "en": "a net"
+   },
+   {
+    "da": "nettet",
+    "en": "the net"
+   },
+   {
+    "da": "net",
+    "en": "nets"
+   },
+   {
+    "da": "nettene",
+    "en": "the nets"
+   }
+  ],
+  "related": [
+   {
+    "da": "et netværk",
+    "en": "a network"
+   },
+   {
+    "da": "internettet",
+    "en": "the internet"
+   },
+   {
+    "da": "en webside",
+    "en": "a web page"
+   }
+  ],
+  "sentence": {
+   "da": "Han fangede en stor fisk i sit **net**.",
+   "en": "He caught a big fish in his net."
+  }
+ },
+ "et netværk": {
+  "file": "n.json",
+  "explanation": "\"Et netværk\" means \"a network\", a group of connected computers or people. A common phrase is \"at have et godt netværk\" (to have a good network).",
+  "forms": [
+   {
+    "da": "et netværk",
+    "en": "a network"
+   },
+   {
+    "da": "netværket",
+    "en": "the network"
+   },
+   {
+    "da": "netværk",
+    "en": "networks"
+   },
+   {
+    "da": "netværkene",
+    "en": "the networks"
+   }
+  ],
+  "related": [
+   {
+    "da": "at netværke",
+    "en": "to network"
+   },
+   {
+    "da": "en forbindelse",
+    "en": "a connection"
+   },
+   {
+    "da": "internettet",
+    "en": "the internet"
+   }
+  ],
+  "sentence": {
+   "da": "Vores computere er på det samme **netværk**.",
+   "en": "Our computers are on the same network."
+  }
+ },
+ "et nik": {
+  "file": "n.json",
+  "explanation": "\"Et nik\" means \"a nod\", a small movement of the head, up and down, that means yes.",
+  "forms": [
+   {
+    "da": "et nik",
+    "en": "a nod"
+   },
+   {
+    "da": "nikket",
+    "en": "the nod"
+   },
+   {
+    "da": "nik",
+    "en": "nods"
+   },
+   {
+    "da": "nikkene",
+    "en": "the nods"
+   }
+  ],
+  "related": [
+   {
+    "da": "at nikke",
+    "en": "to nod"
+   },
+   {
+    "da": "et vink",
+    "en": "a wave"
+   },
+   {
+    "da": "et blink",
+    "en": "a wink"
+   },
+   {
+    "da": "et skuldertræk",
+    "en": "a shrug"
+   }
+  ],
+  "sentence": {
+   "da": "Hun svarede med et **nik** og smilede.",
+   "en": "She answered with a nod and smiled."
+  }
+ },
+ "et niveau": {
+  "file": "n.json",
+  "explanation": "\"Et niveau\" means \"a level\", how high or advanced something is: \"Vi har tre niveauer: begynder, mellem og avanceret\" (We have three levels: beginner, intermediate and advanced).",
+  "forms": [
+   {
+    "da": "et niveau",
+    "en": "a level"
+   },
+   {
+    "da": "niveauet",
+    "en": "the level"
+   },
+   {
+    "da": "niveauer",
+    "en": "levels"
+   },
+   {
+    "da": "niveauerne",
+    "en": "the levels"
+   }
+  ],
+  "related": [
+   {
+    "da": "en standard",
+    "en": "a standard"
+   },
+   {
+    "da": "et trin",
+    "en": "a step"
+   },
+   {
+    "da": "en højde",
+    "en": "a height"
+   }
+  ],
+  "sentence": {
+   "da": "Han spiller tennis på et højt **niveau**.",
+   "en": "He plays tennis at a high level."
+  }
+ },
+ "et nummer": {
+  "file": "n.json",
+  "explanation": "\"Et nummer\" means \"a number\" used as a label, such as a phone number or a house number. For counting or amounts, use \"et tal\" (a number, a figure) instead.",
+  "forms": [
+   {
+    "da": "et nummer",
+    "en": "a number"
+   },
+   {
+    "da": "nummeret",
+    "en": "the number"
+   },
+   {
+    "da": "numre",
+    "en": "numbers"
+   },
+   {
+    "da": "numrene",
+    "en": "the numbers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et husnummer",
+    "en": "a house number"
+   },
+   {
+    "da": "en nummerplade",
+    "en": "a license plate"
+   },
+   {
+    "da": "et ciffer",
+    "en": "a digit"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg ringer til dit **nummer**.",
+   "en": "I call your number."
+  }
+ },
+ "et nyhedsbrev": {
+  "file": "n.json",
+  "explanation": "\"Et nyhedsbrev\" means \"a newsletter\", a letter or email that a company or club sends regularly to people who signed up. You join with \"at tilmelde sig\" (to sign up) and stop it with \"at afmelde sig\" (to unsubscribe).",
+  "forms": [
+   {
+    "da": "et nyhedsbrev",
+    "en": "a newsletter"
+   },
+   {
+    "da": "nyhedsbrevet",
+    "en": "the newsletter"
+   },
+   {
+    "da": "nyhedsbreve",
+    "en": "newsletters"
+   },
+   {
+    "da": "nyhedsbrevene",
+    "en": "the newsletters"
+   }
+  ],
+  "related": [
+   {
+    "da": "en e-mail",
+    "en": "an email"
+   },
+   {
+    "da": "et abonnement",
+    "en": "a subscription"
+   },
+   {
+    "da": "en afsender",
+    "en": "a sender"
+   },
+   {
+    "da": "en postliste",
+    "en": "a mailing list"
+   }
+  ],
+  "sentence": {
+   "da": "Butikken sender et **nyhedsbrev** med nye tilbud hver måned.",
+   "en": "The store sends a newsletter with new offers every month."
+  }
+ },
+ "et nyhedsprogram": {
+  "file": "n.json",
+  "explanation": "\"Et nyhedsprogram\" means \"a news program\", a show on television or radio that reports what has happened that day. The first part, \"nyheds-\", comes from \"nyheder\" (news).",
+  "forms": [
+   {
+    "da": "et nyhedsprogram",
+    "en": "a news program"
+   },
+   {
+    "da": "nyhedsprogrammet",
+    "en": "the news program"
+   },
+   {
+    "da": "nyhedsprogrammer",
+    "en": "news programs"
+   },
+   {
+    "da": "nyhedsprogrammerne",
+    "en": "the news programs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en journalist",
+    "en": "a journalist"
+   },
+   {
+    "da": "en studievært",
+    "en": "a studio host"
+   },
+   {
+    "da": "en udsendelse",
+    "en": "a broadcast"
+   },
+   {
+    "da": "en avis",
+    "en": "a newspaper"
+   }
+  ],
+  "sentence": {
+   "da": "I et **nyhedsprogram** fortæller en vært om dagens vigtigste begivenheder.",
+   "en": "In a news program, a host tells about the most important events of the day."
+  }
+ },
+ "et nys": {
+  "file": "n.json",
+  "explanation": "\"Et nys\" means \"a sneeze\", the sudden burst of air through the nose. The action is \"at nyse\" (to sneeze): \"Jeg skal nyse\" (I have to sneeze).",
+  "forms": [
+   {
+    "da": "et nys",
+    "en": "a sneeze"
+   },
+   {
+    "da": "nyset",
+    "en": "the sneeze"
+   },
+   {
+    "da": "nys",
+    "en": "sneezes"
+   },
+   {
+    "da": "nysene",
+    "en": "the sneezes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forkølelse",
+    "en": "a cold"
+   },
+   {
+    "da": "en snue",
+    "en": "a runny nose"
+   },
+   {
+    "da": "en hoste",
+    "en": "a cough"
+   },
+   {
+    "da": "høfeber",
+    "en": "hay fever"
+   }
+  ],
+  "sentence": {
+   "da": "Hun gav et højt **nys**, og alle kiggede på hende.",
+   "en": "She gave a loud sneeze, and everyone looked at her."
+  }
+ },
+ "et nytår": {
+  "file": "n.json",
+  "explanation": "\"Et nytår\" means \"a New Year\", the time around January 1: \"Godt nytår!\" (Happy New Year!) You can also say \"holde nytår\" (to celebrate New Year).",
+  "forms": [
+   {
+    "da": "et nytår",
+    "en": "a New Year"
+   },
+   {
+    "da": "nytåret",
+    "en": "the New Year"
+   },
+   {
+    "da": "til nytår",
+    "en": "at New Year"
+   }
+  ],
+  "related": [
+   {
+    "da": "nytårsaften",
+    "en": "New Year's Eve"
+   },
+   {
+    "da": "nytårsdag",
+    "en": "New Year's Day"
+   },
+   {
+    "da": "et nytårsforsæt",
+    "en": "a New Year's resolution"
+   },
+   {
+    "da": "et fyrværkeri",
+    "en": "fireworks"
+   }
+  ],
+  "sentence": {
+   "da": "Ved **nytår** ser vi fyrværkeri.",
+   "en": "At New Year, we watch fireworks."
+  }
+ },
+ "et næb": {
+  "file": "n.json",
+  "explanation": "\"Et næb\" means \"a beak\", the hard, pointed mouth of a bird. Unlike a mouth, it has no lips or teeth.",
+  "forms": [
+   {
+    "da": "et næb",
+    "en": "a beak"
+   },
+   {
+    "da": "næbbet",
+    "en": "the beak"
+   },
+   {
+    "da": "næb",
+    "en": "beaks"
+   },
+   {
+    "da": "næbbene",
+    "en": "the beaks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en klo",
+    "en": "a claw"
+   },
+   {
+    "da": "en vinge",
+    "en": "a wing"
+   },
+   {
+    "da": "en fjer",
+    "en": "a feather"
+   },
+   {
+    "da": "et tryne",
+    "en": "a snout"
+   }
+  ],
+  "sentence": {
+   "da": "Fuglen bruger sit **næb** til at samle mad op.",
+   "en": "The bird uses its beak to pick up food."
+  }
+ },
+ "et nødopkald": {
+  "file": "n.json",
+  "explanation": "\"Et nødopkald\" means \"an emergency call\", a phone call to ask the rescue services for help right away. It is only for real danger, not for ordinary questions.",
+  "forms": [
+   {
+    "da": "et nødopkald",
+    "en": "an emergency call"
+   },
+   {
+    "da": "nødopkaldet",
+    "en": "the emergency call"
+   },
+   {
+    "da": "nødopkald",
+    "en": "emergency calls"
+   },
+   {
+    "da": "nødopkaldene",
+    "en": "the emergency calls"
+   }
+  ],
+  "related": [
+   {
+    "da": "en alarmcentral",
+    "en": "a dispatch center"
+   },
+   {
+    "da": "en ambulance",
+    "en": "an ambulance"
+   },
+   {
+    "da": "et nødråb",
+    "en": "a cry for help"
+   },
+   {
+    "da": "en alarm",
+    "en": "an alarm"
+   }
+  ],
+  "sentence": {
+   "da": "Man foretager et **nødopkald** til 112, når nogen er i fare.",
+   "en": "You make an emergency call to 112 when someone is in danger."
+  }
+ },
+ "et nødstilfælde": {
+  "file": "n.json",
+  "explanation": "\"Et nødstilfælde\" means \"an emergency\", a sudden situation where someone needs help at once. Signs often use it after \"i\" (in): \"Brug døren i nødstilfælde\" (Use the door in an emergency).",
+  "forms": [
+   {
+    "da": "et nødstilfælde",
+    "en": "an emergency"
+   },
+   {
+    "da": "nødstilfældet",
+    "en": "the emergency"
+   },
+   {
+    "da": "nødstilfælde",
+    "en": "emergencies"
+   },
+   {
+    "da": "nødstilfældene",
+    "en": "the emergencies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ulykke",
+    "en": "an accident"
+   },
+   {
+    "da": "et uheld",
+    "en": "a mishap"
+   },
+   {
+    "da": "en fare",
+    "en": "a danger"
+   },
+   {
+    "da": "en krise",
+    "en": "a crisis"
+   }
+  ],
+  "sentence": {
+   "da": "Når nogen holder op med at trække vejret, er det et **nødstilfælde**.",
+   "en": "When someone stops breathing, it is an emergency."
+  }
+ },
+ "et nøglekort": {
+  "file": "n.json",
+  "explanation": "\"Et nøglekort\" means \"a key card\", a plastic card that opens a door instead of a key, for example at a hotel.",
+  "forms": [
+   {
+    "da": "et nøglekort",
+    "en": "a key card"
+   },
+   {
+    "da": "nøglekortet",
+    "en": "the key card"
+   },
+   {
+    "da": "nøglekort",
+    "en": "key cards"
+   },
+   {
+    "da": "nøglekortene",
+    "en": "the key cards"
+   }
+  ],
+  "related": [
+   {
+    "da": "et adgangskort",
+    "en": "an access card"
+   },
+   {
+    "da": "en nøglebrik",
+    "en": "a key fob"
+   },
+   {
+    "da": "en kortlæser",
+    "en": "a card reader"
+   },
+   {
+    "da": "et kreditkort",
+    "en": "a credit card"
+   }
+  ],
+  "sentence": {
+   "da": "Hotellet giver mig et **nøglekort** til værelset.",
+   "en": "The hotel gives me a key card for the room."
+  }
+ },
+ "naiv": {
+  "file": "n.json",
+  "explanation": "\"Naiv\" means \"naive\", for someone who trusts too easily and believes things without checking: \"Det var naivt at tro på ham\" (It was naive to believe him). It can sound critical, as if the person lacks experience.",
+  "forms": [
+   {
+    "da": "en naiv pige",
+    "en": "a naive girl"
+   },
+   {
+    "da": "et naivt spørgsmål",
+    "en": "a naive question"
+   },
+   {
+    "da": "naive ideer",
+    "en": "naive ideas"
+   }
+  ],
+  "related": [
+   {
+    "da": "godtroende",
+    "en": "gullible"
+   },
+   {
+    "da": "uskyldig",
+    "en": "innocent"
+   },
+   {
+    "da": "erfaren",
+    "en": "experienced"
+   },
+   {
+    "da": "klog",
+    "en": "smart"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg var **naiv**, da jeg stolede på ham.",
+   "en": "I was naive when I trusted him."
+  }
+ },
+ "narkose": {
+  "file": "n.json",
+  "explanation": "\"Narkose\" means \"anesthesia\", the deep sleep a patient is put into for an operation so that they feel nothing. It is different from \"en lokalbedøvelse\" (a local anesthetic), which numbs only one spot and leaves you awake.",
+  "forms": [
+   {
+    "da": "en narkose",
+    "en": "anesthesia"
+   },
+   {
+    "da": "narkosen",
+    "en": "the anesthesia"
+   },
+   {
+    "da": "i narkose",
+    "en": "under anesthesia"
+   },
+   {
+    "da": "få narkose",
+    "en": "to get anesthesia"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bedøvelse",
+    "en": "an anesthetic"
+   },
+   {
+    "da": "at bedøve",
+    "en": "to numb"
+   },
+   {
+    "da": "en narkoselæge",
+    "en": "an anesthesiologist"
+   }
+  ],
+  "sentence": {
+   "da": "Hun lå i **narkose** under hele operationen.",
+   "en": "She was under anesthesia during the whole operation."
+  }
+ },
+ "narkotika": {
+  "file": "n.json",
+  "explanation": "\"Narkotika\" means \"narcotics\", illegal things like heroin and cocaine that people take to get high. You use it without an article: \"Han tager narkotika\" (He takes drugs).",
+  "forms": [
+   {
+    "da": "salg af narkotika",
+    "en": "sale of narcotics"
+   },
+   {
+    "da": "at smugle narkotika",
+    "en": "to smuggle narcotics"
+   },
+   {
+    "da": "Narkotika er ulovligt",
+    "en": "Narcotics are illegal"
+   }
+  ],
+  "related": [
+   {
+    "da": "en narkoman",
+    "en": "a drug addict"
+   },
+   {
+    "da": "en narkohandler",
+    "en": "a drug dealer"
+   },
+   {
+    "da": "hash",
+    "en": "hashish"
+   },
+   {
+    "da": "et stofmisbrug",
+    "en": "substance abuse"
+   }
+  ],
+  "sentence": {
+   "da": "Det er ulovligt at sælge **narkotika**.",
+   "en": "It is illegal to sell narcotics."
+  }
+ },
+ "national": {
+  "file": "n.json",
+  "explanation": "\"National\" means \"national\", for something that belongs to a whole country, such as Denmark. The opposite is \"lokal\" (local): \"en lokal avis\" (a local paper).",
+  "forms": [
+   {
+    "da": "en national fest",
+    "en": "a national celebration"
+   },
+   {
+    "da": "et nationalt symbol",
+    "en": "a national symbol"
+   },
+   {
+    "da": "nationale helte",
+    "en": "national heroes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nation",
+    "en": "a nation"
+   },
+   {
+    "da": "international",
+    "en": "international"
+   },
+   {
+    "da": "et land",
+    "en": "a country"
+   },
+   {
+    "da": "en nationalitet",
+    "en": "a nationality"
+   }
+  ],
+  "sentence": {
+   "da": "Fodbold er en **national** passion i mange lande.",
+   "en": "Soccer is a national passion in many countries."
+  }
+ },
+ "nato": {
+  "file": "n.json",
+  "explanation": "\"NATO\" means \"NATO\", the military group of nations that promise to defend each other.",
+  "forms": [
+   {
+    "da": "i NATO",
+    "en": "in NATO"
+   },
+   {
+    "da": "NATO's chef",
+    "en": "NATO's chief"
+   },
+   {
+    "da": "et NATO-møde",
+    "en": "a NATO meeting"
+   }
+  ],
+  "related": [
+   {
+    "da": "EU",
+    "en": "the EU"
+   },
+   {
+    "da": "FN",
+    "en": "the UN"
+   },
+   {
+    "da": "en alliance",
+    "en": "an alliance"
+   },
+   {
+    "da": "et medlemsland",
+    "en": "a member country"
+   }
+  ],
+  "sentence": {
+   "da": "Danmark har været med i **NATO** i mange år.",
+   "en": "Denmark has been in NATO for many years."
+  }
+ },
+ "natur": {
+  "file": "n.json",
+  "explanation": "\"Natur\" means \"nature\", the outdoors with forests, lakes and animals.",
+  "forms": [
+   {
+    "da": "natur",
+    "en": "nature"
+   },
+   {
+    "da": "naturen",
+    "en": "the nature"
+   },
+   {
+    "da": "i naturen",
+    "en": "in nature"
+   },
+   {
+    "da": "en tur i naturen",
+    "en": "a trip in nature"
+   }
+  ],
+  "related": [
+   {
+    "da": "naturlig",
+    "en": "natural"
+   },
+   {
+    "da": "naturligvis",
+    "en": "of course"
+   },
+   {
+    "da": "en by",
+    "en": "a city"
+   },
+   {
+    "da": "et landskab",
+    "en": "a landscape"
+   }
+  ],
+  "sentence": {
+   "da": "Danmark har smuk **natur**.",
+   "en": "Denmark has beautiful nature."
+  }
+ },
+ "naturgas": {
+  "file": "n.json",
+  "explanation": "\"En naturgas\" means \"natural gas\", gas taken from the ground and used for heating, cooking and making power. It is built from natur (nature) and en gas (a gas).",
+  "forms": [
+   {
+    "da": "en naturgas",
+    "en": "natural gas"
+   },
+   {
+    "da": "naturgassen",
+    "en": "the natural gas"
+   },
+   {
+    "da": "Vi fyrer med naturgas",
+    "en": "We heat with natural gas"
+   },
+   {
+    "da": "Prisen på naturgas stiger",
+    "en": "The price of natural gas is rising"
+   }
+  ],
+  "related": [
+   {
+    "da": "biogas",
+    "en": "biogas"
+   },
+   {
+    "da": "et brændsel",
+    "en": "a fuel"
+   },
+   {
+    "da": "en olie",
+    "en": "an oil"
+   },
+   {
+    "da": "kul",
+    "en": "coal"
+   }
+  ],
+  "sentence": {
+   "da": "Mange huse bliver opvarmet med **naturgas**.",
+   "en": "Many houses are heated with natural gas."
+  }
+ },
+ "naturlig": {
+  "file": "n.json",
+  "explanation": "\"Naturlig\" means \"natural\", normal and as expected: \"Det er helt naturligt at være nervøs\" (It is completely natural to be nervous). It also means found in the world as it is, not made by people: \"naturlige materialer\" (natural materials).",
+  "forms": [
+   {
+    "da": "en naturlig reaktion",
+    "en": "a natural reaction"
+   },
+   {
+    "da": "et naturligt valg",
+    "en": "a natural choice"
+   },
+   {
+    "da": "naturlige farver",
+    "en": "natural colors"
+   }
+  ],
+  "related": [
+   {
+    "da": "en natur",
+    "en": "nature"
+   },
+   {
+    "da": "unaturlig",
+    "en": "unnatural"
+   },
+   {
+    "da": "kunstig",
+    "en": "artificial"
+   },
+   {
+    "da": "naturligvis",
+    "en": "of course"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en **naturlig** evne til at tegne.",
+   "en": "She has a natural ability to draw."
+  }
+ },
+ "naturligvis": {
+  "file": "n.json",
+  "explanation": "\"Naturligvis\" means \"of course\", and it also works alone as a reply: \"Kan du hjælpe? Naturligvis!\" (Can you help? Of course!)",
+  "forms": [
+   {
+    "da": "Naturligvis kommer jeg.",
+    "en": "Of course I am coming."
+   },
+   {
+    "da": "Han hjælper naturligvis.",
+    "en": "Of course he helps."
+   },
+   {
+    "da": "Det er naturligvis dyrt.",
+    "en": "Of course it is expensive."
+   }
+  ],
+  "related": [
+   {
+    "da": "selvfølgelig",
+    "en": "of course"
+   },
+   {
+    "da": "naturlig",
+    "en": "natural"
+   },
+   {
+    "da": "klart",
+    "en": "sure"
+   },
+   {
+    "da": "bestemt",
+    "en": "definitely"
+   }
+  ],
+  "sentence": {
+   "da": "**Naturligvis** hjælper jeg dig i morgen.",
+   "en": "Of course I will help you tomorrow."
+  }
+ },
+ "navnemåde": {
+  "file": "n.json",
+  "explanation": "\"En navnemåde\" means \"the plain form of a verb\", the one with \"at\" (to) in front, such as \"at spise\" (to eat). It is built from et navn (a name) and en måde (a way), because this form only names the action.",
+  "forms": [
+   {
+    "da": "en navnemåde",
+    "en": "an infinitive"
+   },
+   {
+    "da": "navnemåden",
+    "en": "the infinitive"
+   },
+   {
+    "da": "navnemåder",
+    "en": "infinitives"
+   },
+   {
+    "da": "navnemåderne",
+    "en": "the infinitives"
+   }
+  ],
+  "related": [
+   {
+    "da": "en datid",
+    "en": "a past tense"
+   },
+   {
+    "da": "en bydemåde",
+    "en": "an imperative"
+   },
+   {
+    "da": "en nutid",
+    "en": "a present tense"
+   }
+  ],
+  "sentence": {
+   "da": "Verbet at gå står i **navnemåde**.",
+   "en": "The verb at gå is in its plain form."
+  }
+ },
+ "navnlig": {
+  "file": "n.json",
+  "explanation": "\"Navnlig\" means \"especially\" or \"in particular\". Use it to point out one example: \"Jeg kan lide sport, navnlig fodbold\" (I like sports, especially soccer).",
+  "forms": [
+   {
+    "da": "navnlig om vinteren",
+    "en": "especially in winter"
+   },
+   {
+    "da": "navnlig for børn",
+    "en": "especially for children"
+   },
+   {
+    "da": "navnlig i Danmark",
+    "en": "especially in Denmark"
+   }
+  ],
+  "related": [
+   {
+    "da": "især",
+    "en": "above all"
+   },
+   {
+    "da": "specielt",
+    "en": "specifically"
+   },
+   {
+    "da": "særligt",
+    "en": "particularly"
+   },
+   {
+    "da": "ikke mindst",
+    "en": "not least"
+   }
+  ],
+  "sentence": {
+   "da": "Mange kan lide frugt, **navnlig** æbler.",
+   "en": "Many people like fruit, especially apples."
+  }
+ },
+ "ned": {
+  "file": "n.json",
+  "explanation": "\"Ned\" means \"down\", for moving down: \"Kom ned!\" (Come down!) To name the place where a person already is, use \"nede\" (down there): \"Han er nede i kælderen\" (He is down in the cellar).",
+  "forms": [
+   {
+    "da": "Gå ned!",
+    "en": "Go down!"
+   },
+   {
+    "da": "Sæt dig ned.",
+    "en": "Sit down."
+   },
+   {
+    "da": "Jeg går ned ad trappen.",
+    "en": "I walk down the stairs."
+   }
+  ],
+  "related": [
+   {
+    "da": "op",
+    "en": "up"
+   },
+   {
+    "da": "nedad",
+    "en": "downward"
+   },
+   {
+    "da": "nedenunder",
+    "en": "downstairs"
+   }
+  ],
+  "sentence": {
+   "da": "Elevatoren går op og **ned**.",
+   "en": "The elevator goes up and down."
+  }
+ },
+ "nedad": {
+  "file": "n.json",
+  "explanation": "\"Nedad\" means \"downward\", toward a lower place or level. It also works for numbers: \"Priserne går nedad\" (Prices are going downward).",
+  "forms": [
+   {
+    "da": "Han kigger nedad",
+    "en": "He looks downward"
+   },
+   {
+    "da": "Vejen går nedad",
+    "en": "The road goes downward"
+   },
+   {
+    "da": "nedad bakken",
+    "en": "down the hill"
+   }
+  ],
+  "related": [
+   {
+    "da": "opad",
+    "en": "upward"
+   },
+   {
+    "da": "ned",
+    "en": "down"
+   },
+   {
+    "da": "nedenfor",
+    "en": "below"
+   },
+   {
+    "da": "nedefra",
+    "en": "from below"
+   }
+  ],
+  "sentence": {
+   "da": "Vandet løber **nedad**, fordi vejen hælder.",
+   "en": "The water runs downward because the road slopes."
+  }
+ },
+ "nedenunder": {
+  "file": "n.json",
+  "explanation": "\"Nedenunder\" means \"below\" or \"downstairs\", on the floor right under the one you are on, as in a house or an apartment building.",
+  "forms": [
+   {
+    "da": "Min nabo bor nedenunder",
+    "en": "My neighbor lives downstairs"
+   },
+   {
+    "da": "Er der nogen nedenunder?",
+    "en": "Is anyone downstairs?"
+   }
+  ],
+  "related": [
+   {
+    "da": "ovenpå",
+    "en": "upstairs"
+   },
+   {
+    "da": "nedenfor",
+    "en": "further below"
+   },
+   {
+    "da": "nede",
+    "en": "down there"
+   },
+   {
+    "da": "oppe",
+    "en": "up there"
+   }
+  ],
+  "sentence": {
+   "da": "Vores nabo bor **nedenunder**.",
+   "en": "Our neighbor lives downstairs."
+  }
+ },
+ "nedslående": {
+  "file": "n.json",
+  "explanation": "\"Nedslående\" means \"disheartening\", for news or results that make people feel let down and lose energy: \"nedslående nyheder\" (disheartening news). It describes the thing, not the person; a person who feels this way is \"nedtrykt\" (downcast).",
+  "forms": [
+   {
+    "da": "en nedslående oplevelse",
+    "en": "a disheartening experience"
+   },
+   {
+    "da": "et nedslående resultat",
+    "en": "a disheartening result"
+   },
+   {
+    "da": "nedslående nyheder",
+    "en": "disheartening news"
+   }
+  ],
+  "related": [
+   {
+    "da": "modløs",
+    "en": "discouraged"
+   },
+   {
+    "da": "skuffende",
+    "en": "disappointing"
+   },
+   {
+    "da": "opmuntrende",
+    "en": "encouraging"
+   },
+   {
+    "da": "deprimerende",
+    "en": "depressing"
+   }
+  ],
+  "sentence": {
+   "da": "Resultatet var **nedslående**, men vi giver ikke op.",
+   "en": "The result was disheartening, but we are not giving up."
+  }
+ },
+ "nedtrykt": {
+  "file": "n.json",
+  "explanation": "\"Nedtrykt\" means \"downcast\" or \"down\", feeling low in spirit for a while. It is built from ned (down) and trykt (pressed), so it is like \"pressed down\".",
+  "forms": [
+   {
+    "da": "en nedtrykt dreng",
+    "en": "a downcast boy"
+   },
+   {
+    "da": "et nedtrykt udtryk",
+    "en": "a downcast look"
+   },
+   {
+    "da": "nedtrykte mennesker",
+    "en": "downcast people"
+   }
+  ],
+  "related": [
+   {
+    "da": "trist",
+    "en": "sad"
+   },
+   {
+    "da": "deprimeret",
+    "en": "depressed"
+   },
+   {
+    "da": "modløs",
+    "en": "discouraged"
+   },
+   {
+    "da": "opstemt",
+    "en": "in high spirits"
+   }
+  ],
+  "sentence": {
+   "da": "Efter nyheden var han **nedtrykt** i flere dage.",
+   "en": "After the news he was downcast for several days."
+  }
+ },
+ "negativ": {
+  "file": "n.json",
+  "explanation": "\"Negativ\" means \"negative\", for a bad or gloomy view of things. In a medical test it means nothing was found: \"en negativ test\" (a negative test).",
+  "forms": [
+   {
+    "da": "en negativ holdning",
+    "en": "a negative attitude"
+   },
+   {
+    "da": "et negativt svar",
+    "en": "a negative answer"
+   },
+   {
+    "da": "negative tanker",
+    "en": "negative thoughts"
+   }
+  ],
+  "related": [
+   {
+    "da": "positiv",
+    "en": "positive"
+   },
+   {
+    "da": "pessimistisk",
+    "en": "pessimistic"
+   },
+   {
+    "da": "neutral",
+    "en": "neutral"
+   },
+   {
+    "da": "en negation",
+    "en": "a negation"
+   }
+  ],
+  "sentence": {
+   "da": "Han har en meget **negativ** holdning.",
+   "en": "He has a very negative attitude."
+  }
+ },
+ "neglelak": {
+  "file": "n.json",
+  "explanation": "\"Neglelak\" means \"nail polish\", the colored liquid you paint on your nails. To take it off, you need \"neglelakfjerner\" (nail polish remover).",
+  "forms": [
+   {
+    "da": "neglelak",
+    "en": "nail polish"
+   },
+   {
+    "da": "neglelakken",
+    "en": "the nail polish"
+   },
+   {
+    "da": "rød neglelak",
+    "en": "red nail polish"
+   },
+   {
+    "da": "en flaske neglelak",
+    "en": "a bottle of nail polish"
+   }
+  ],
+  "related": [
+   {
+    "da": "en negl",
+    "en": "a nail"
+   },
+   {
+    "da": "en neglefil",
+    "en": "a nail file"
+   },
+   {
+    "da": "en neglesalon",
+    "en": "a nail salon"
+   },
+   {
+    "da": "en lak",
+    "en": "a lacquer"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har rød **neglelak** på fingrene.",
+   "en": "She has red nail polish on her fingers."
+  }
+ },
+ "nej": {
+  "file": "n.json",
+  "explanation": "\"Nej\" means \"no\". It can also mean \"oh!\" when you are surprised: \"Nej, hvor er det flot!\" (Oh, how beautiful!)",
+  "forms": [
+   {
+    "da": "Nej, tak.",
+    "en": "No, thank you."
+   },
+   {
+    "da": "Nej, det er ikke rigtigt.",
+    "en": "No, that's not right."
+   },
+   {
+    "da": "Nej, desværre.",
+    "en": "No, unfortunately."
+   }
+  ],
+  "related": [
+   {
+    "da": "ja",
+    "en": "yes"
+   },
+   {
+    "da": "næh",
+    "en": "nope"
+   },
+   {
+    "da": "jo",
+    "en": "yes (to a negative)"
+   }
+  ],
+  "sentence": {
+   "da": "Vil du have kaffe? **Nej**, tak.",
+   "en": "Do you want coffee? No, thank you."
+  }
+ },
+ "nem": {
+  "file": "n.json",
+  "explanation": "\"Nem\" means \"easy\", for something that takes little effort to do. The opposite is \"svær\" (hard): \"en svær opgave\" (a hard task).",
+  "forms": [
+   {
+    "da": "en nem opgave",
+    "en": "an easy task"
+   },
+   {
+    "da": "et nemt svar",
+    "en": "an easy answer"
+   },
+   {
+    "da": "nemme opgaver",
+    "en": "easy tasks"
+   }
+  ],
+  "related": [
+   {
+    "da": "besværlig",
+    "en": "troublesome"
+   },
+   {
+    "da": "let",
+    "en": "light / easy"
+   },
+   {
+    "da": "enkel",
+    "en": "simple"
+   }
+  ],
+  "sentence": {
+   "da": "En **nem** opskrift tager kun ti minutter.",
+   "en": "An easy recipe takes only ten minutes."
+  }
+ },
+ "nemlig": {
+  "file": "n.json",
+  "explanation": "\"Nemlig\" means \"exactly\" as a reply: \"Er du træt? Nemlig!\" (Are you tired? Exactly!). Inside a sentence it means \"you see\" and gives the reason: \"Jeg bliver hjemme, jeg er nemlig syg\" (I am staying home, I am sick, you see).",
+  "forms": [
+   {
+    "da": "Nemlig!",
+    "en": "Exactly!"
+   },
+   {
+    "da": "Jeg er nemlig træt.",
+    "en": "I am tired, you see."
+   },
+   {
+    "da": "Han er nemlig hjemme.",
+    "en": "He is home, you see."
+   }
+  ],
+  "related": [
+   {
+    "da": "præcis",
+    "en": "precisely"
+   },
+   {
+    "da": "lige præcis",
+    "en": "exactly"
+   },
+   {
+    "da": "jo",
+    "en": "you know"
+   },
+   {
+    "da": "faktisk",
+    "en": "actually"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke komme, jeg er **nemlig** syg.",
+   "en": "I cannot come, I am sick, you see."
+  }
+ },
+ "nemt": {
+  "file": "n.json",
+  "explanation": "\"Nemt\" means \"easy\" or \"easily\". It also says how something is done: \"Han vinder nemt\" (He wins easily).",
+  "forms": [
+   {
+    "da": "det er nemt",
+    "en": "it is easy"
+   },
+   {
+    "da": "det går nemt",
+    "en": "it goes easily"
+   },
+   {
+    "da": "nemt at lære",
+    "en": "easy to learn"
+   }
+  ],
+  "related": [
+   {
+    "da": "nem",
+    "en": "easy"
+   },
+   {
+    "da": "let",
+    "en": "easy / light"
+   },
+   {
+    "da": "svær",
+    "en": "hard"
+   },
+   {
+    "da": "enkelt",
+    "en": "simply"
+   }
+  ],
+  "sentence": {
+   "da": "Det er **nemt**: to plus to er fire.",
+   "en": "It is easy: two plus two is four."
+  }
+ },
+ "nervepirrende": {
+  "file": "n.json",
+  "explanation": "\"Nervepirrende\" means \"nerve-wracking\": so tense that your nerves are on edge: \"en nervepirrende finale\" (a nerve-wracking final). It is built from nerve (nerve) and pirrende (stirring up).",
+  "forms": [
+   {
+    "da": "en nervepirrende finale",
+    "en": "a nerve-wracking final"
+   },
+   {
+    "da": "et nervepirrende øjeblik",
+    "en": "a nerve-wracking moment"
+   },
+   {
+    "da": "nervepirrende nyheder",
+    "en": "nerve-wracking news"
+   }
+  ],
+  "related": [
+   {
+    "da": "spændende",
+    "en": "exciting"
+   },
+   {
+    "da": "nervøs",
+    "en": "nervous"
+   },
+   {
+    "da": "dramatisk",
+    "en": "dramatic"
+   },
+   {
+    "da": "afslappende",
+    "en": "relaxing"
+   }
+  ],
+  "sentence": {
+   "da": "Ventetiden før eksamensresultatet var **nervepirrende**, og jeg sov dårligt.",
+   "en": "The wait before the exam result was nerve-wracking, and I slept badly."
+  }
+ },
+ "nervøs": {
+  "file": "n.json",
+  "explanation": "\"Nervøs\" means \"nervous\", the feeling before something important: \"Jeg er nervøs før eksamen\" (I am nervous before the exam). The opposite is \"rolig\" (calm).",
+  "forms": [
+   {
+    "da": "en nervøs dreng",
+    "en": "a nervous boy"
+   },
+   {
+    "da": "et nervøst smil",
+    "en": "a nervous smile"
+   },
+   {
+    "da": "nervøse elever",
+    "en": "nervous students"
+   }
+  ],
+  "related": [
+   {
+    "da": "bange",
+    "en": "afraid"
+   },
+   {
+    "da": "urolig",
+    "en": "uneasy"
+   },
+   {
+    "da": "spændt",
+    "en": "excited"
+   },
+   {
+    "da": "stresset",
+    "en": "stressed"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **nervøs**, fordi han skal til tandlægen.",
+   "en": "He is nervous because he has to go to the dentist."
+  }
+ },
+ "nervøsitet": {
+  "file": "n.json",
+  "explanation": "\"En nervøsitet\" means \"nervousness\", the feeling before something important. Danes more often say \"nervøs\" (nervous): \"Jeg er nervøs\" (I am nervous).",
+  "forms": [
+   {
+    "da": "en nervøsitet",
+    "en": "a nervousness"
+   },
+   {
+    "da": "nervøsiteten",
+    "en": "the nervousness"
+   },
+   {
+    "da": "ingen nervøsitet",
+    "en": "no nervousness"
+   }
+  ],
+  "related": [
+   {
+    "da": "bekymret",
+    "en": "worried"
+   },
+   {
+    "da": "en angst",
+    "en": "a fear"
+   },
+   {
+    "da": "en uro",
+    "en": "an unease"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan se hendes **nervøsitet**, når hun skal tale.",
+   "en": "You can see her nervousness when she has to speak."
+  }
+ },
+ "netop": {
+  "file": "n.json",
+  "explanation": "\"Netop\" means \"exactly\" or \"just\". As a reply it agrees with exactly what someone said: \"Netop!\" (Exactly!). Inside a sentence it says something happened a moment ago: \"Han er netop gået\" (He just left).",
+  "forms": [
+   {
+    "da": "Det er netop, hvad jeg mente.",
+    "en": "That is exactly what I meant."
+   },
+   {
+    "da": "Han ringede netop.",
+    "en": "He just called."
+   },
+   {
+    "da": "Vi kom netop hjem.",
+    "en": "We just got home."
+   }
+  ],
+  "related": [
+   {
+    "da": "præcis",
+    "en": "exactly"
+   },
+   {
+    "da": "lige",
+    "en": "just"
+   },
+   {
+    "da": "nøjagtig",
+    "en": "precisely"
+   },
+   {
+    "da": "akkurat",
+    "en": "exactly"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skulle **netop** til at ringe til dig.",
+   "en": "I was just about to call you."
+  }
+ },
+ "neutral": {
+  "file": "n.json",
+  "explanation": "\"Neutral\" means \"neutral\", for a country or person who takes no side in a conflict: \"et neutralt land\" (a neutral country). It is also for colors that go with everything, such as gray: \"en neutral farve\" (a neutral color).",
+  "forms": [
+   {
+    "da": "en neutral dommer",
+    "en": "a neutral judge"
+   },
+   {
+    "da": "et neutralt sted",
+    "en": "a neutral place"
+   },
+   {
+    "da": "neutrale farver",
+    "en": "neutral colors"
+   }
+  ],
+  "related": [
+   {
+    "da": "upartisk",
+    "en": "impartial"
+   },
+   {
+    "da": "partisk",
+    "en": "biased"
+   },
+   {
+    "da": "objektiv",
+    "en": "objective"
+   }
+  ],
+  "sentence": {
+   "da": "Dommeren skal være **neutral** og ikke holde med nogen.",
+   "en": "The referee must be neutral and not support anyone."
+  }
+ },
+ "ni": {
+  "file": "n.json",
+  "explanation": "\"Ni\" means \"nine\".",
+  "forms": [
+   {
+    "da": "ni børn",
+    "en": "nine children"
+   },
+   {
+    "da": "klokken ni",
+    "en": "nine o'clock"
+   },
+   {
+    "da": "ni gange",
+    "en": "nine times"
+   }
+  ],
+  "related": [
+   {
+    "da": "otte",
+    "en": "eight"
+   },
+   {
+    "da": "ti",
+    "en": "ten"
+   },
+   {
+    "da": "nitten",
+    "en": "nineteen"
+   },
+   {
+    "da": "niende",
+    "en": "ninth"
+   }
+  ],
+  "sentence": {
+   "da": "Efter otte kommer **ni**.",
+   "en": "After eight comes nine."
+  }
+ },
+ "niende": {
+  "file": "n.json",
+  "explanation": "\"Niende\" means \"ninth\": \"den niende dag\" (the ninth day). It is also used for dates: \"den niende maj\" (the ninth of May).",
+  "forms": [
+   {
+    "da": "den niende dag",
+    "en": "the ninth day"
+   },
+   {
+    "da": "det niende hus",
+    "en": "the ninth house"
+   },
+   {
+    "da": "niende gang",
+    "en": "the ninth time"
+   }
+  ],
+  "related": [
+   {
+    "da": "ni",
+    "en": "nine"
+   },
+   {
+    "da": "ottende",
+    "en": "eighth"
+   },
+   {
+    "da": "tiende",
+    "en": "tenth"
+   },
+   {
+    "da": "første",
+    "en": "first"
+   }
+  ],
+  "sentence": {
+   "da": "Efter den ottende dag kommer den **niende** dag.",
+   "en": "After the eighth day comes the ninth day."
+  }
+ },
+ "nitten": {
+  "file": "n.json",
+  "explanation": "\"Nitten\" means \"nineteen\": \"nitten børn\" (nineteen children). The -ten at the end is like the -teen in English nineteen.",
+  "forms": [
+   {
+    "da": "nitten år",
+    "en": "nineteen years"
+   },
+   {
+    "da": "nitten børn",
+    "en": "nineteen children"
+   },
+   {
+    "da": "nitten kroner",
+    "en": "nineteen kroner"
+   }
+  ],
+  "related": [
+   {
+    "da": "atten",
+    "en": "eighteen"
+   },
+   {
+    "da": "sytten",
+    "en": "seventeen"
+   },
+   {
+    "da": "tyve",
+    "en": "twenty"
+   },
+   {
+    "da": "nittende",
+    "en": "nineteenth"
+   }
+  ],
+  "sentence": {
+   "da": "Min søster er **nitten** år.",
+   "en": "My sister is nineteen years old."
+  }
+ },
+ "nogen": {
+  "file": "n.json",
+  "explanation": "\"Nogen\" means \"someone\" or \"anyone\". After \"ikke\" (not) or in a question it means \"anyone\" or \"any\": \"Jeg har ikke nogen venner\" (I do not have any friends).",
+  "forms": [
+   {
+    "da": "Er der nogen her?",
+    "en": "Is anyone here?"
+   },
+   {
+    "da": "Jeg ser nogen.",
+    "en": "I see someone."
+   },
+   {
+    "da": "Har du nogen børn?",
+    "en": "Do you have any children?"
+   }
+  ],
+  "related": [
+   {
+    "da": "ingen",
+    "en": "no one"
+   },
+   {
+    "da": "nogle",
+    "en": "some / a few"
+   },
+   {
+    "da": "alle",
+    "en": "everyone / all"
+   },
+   {
+    "da": "noget",
+    "en": "something / anything"
+   }
+  ],
+  "sentence": {
+   "da": "Der er ikke **nogen** hjemme.",
+   "en": "Nobody is home."
+  }
+ },
+ "nogenlunde": {
+  "file": "n.json",
+  "explanation": "\"Nogenlunde\" means \"fairly\" or \"reasonably\", not perfect but good enough. It can also be a whole answer: \"Hvordan går det? Nogenlunde.\" (How is it going? So-so.)",
+  "forms": [
+   {
+    "da": "nogenlunde godt",
+    "en": "reasonably well"
+   },
+   {
+    "da": "Det går nogenlunde",
+    "en": "It is going okay"
+   },
+   {
+    "da": "nogenlunde ens",
+    "en": "roughly the same"
+   }
+  ],
+  "related": [
+   {
+    "da": "passabel",
+    "en": "passable"
+   },
+   {
+    "da": "ganske",
+    "en": "quite"
+   },
+   {
+    "da": "ret",
+    "en": "rather"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg taler **nogenlunde** dansk, men jeg laver stadig fejl.",
+   "en": "I speak Danish reasonably well, but I still make mistakes."
+  }
+ },
+ "nogensinde": {
+  "file": "n.json",
+  "explanation": "\"Nogensinde\" means \"ever\". You use it in questions: \"Har du nogensinde været i Paris?\" (Have you ever been to Paris?) A typical answer is \"Nej, aldrig\" (No, never). It is also used with the best or biggest of all time: \"den bedste film nogensinde\" (the best movie ever).",
+  "forms": [
+   {
+    "da": "den bedste film nogensinde",
+    "en": "the best movie ever"
+   },
+   {
+    "da": "Har du nogensinde prøvet det?",
+    "en": "Have you ever tried it?"
+   },
+   {
+    "da": "det største nogensinde",
+    "en": "the biggest ever"
+   }
+  ],
+  "related": [
+   {
+    "da": "altid",
+    "en": "always"
+   },
+   {
+    "da": "engang",
+    "en": "once"
+   },
+   {
+    "da": "ofte",
+    "en": "often"
+   },
+   {
+    "da": "sjældent",
+    "en": "rarely"
+   }
+  ],
+  "sentence": {
+   "da": "Har du **nogensinde** været i Norge?",
+   "en": "Have you ever been to Norway?"
+  }
+ },
+ "noget": {
+  "file": "n.json",
+  "explanation": "\"Noget\" means \"something\" or \"anything\": \"Jeg ser noget\" (I see something). To say someone, use \"nogen\": \"Jeg ser nogen\" (I see someone). Before a thing you cannot count one by one, such as milk, \"noget\" means \"some\": \"noget mælk\" (some milk).",
+  "forms": [
+   {
+    "da": "Vil du have noget at spise?",
+    "en": "Do you want something to eat?"
+   },
+   {
+    "da": "Jeg har ikke noget.",
+    "en": "I do not have anything."
+   },
+   {
+    "da": "noget andet",
+    "en": "something else"
+   }
+  ],
+  "related": [
+   {
+    "da": "ingenting",
+    "en": "nothing"
+   },
+   {
+    "da": "nogle",
+    "en": "some"
+   },
+   {
+    "da": "alt",
+    "en": "everything"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg er tørstig. Har du **noget** at drikke?",
+   "en": "I am thirsty. Do you have something to drink?"
+  }
+ },
+ "nogle": {
+  "file": "n.json",
+  "explanation": "\"Nogle\" means \"some\" or \"a few\" and goes with more than one thing: \"Jeg har nogle venner\" (I have some friends). With one thing, use \"en\" (a): \"Jeg har en ven\" (I have one friend). In a question, or after \"ikke\" (not), use \"nogen\" (any): \"Har du nogen venner?\" (Do you have any friends?).",
+  "forms": [
+   {
+    "da": "nogle bøger",
+    "en": "some books"
+   },
+   {
+    "da": "nogle gange",
+    "en": "sometimes"
+   },
+   {
+    "da": "Jeg har nogle venner.",
+    "en": "I have some friends."
+   }
+  ],
+  "related": [
+   {
+    "da": "noget",
+    "en": "something"
+   },
+   {
+    "da": "ingen",
+    "en": "none"
+   },
+   {
+    "da": "mange",
+    "en": "many"
+   }
+  ],
+  "sentence": {
+   "da": "Der er **nogle** æbler på bordet.",
+   "en": "There are some apples on the table."
+  }
+ },
+ "nogle gange": {
+  "file": "n.json",
+  "explanation": "\"Nogle gange\" means \"sometimes\" (literally, \"some times\"). It sits between \"altid\" (always) and \"aldrig\" (never): \"Jeg spiser nogle gange morgenmad\" (I sometimes eat breakfast).",
+  "forms": [
+   {
+    "da": "nogle gange",
+    "en": "sometimes"
+   },
+   {
+    "da": "nogle gange regner det",
+    "en": "sometimes it rains"
+   },
+   {
+    "da": "kun nogle gange",
+    "en": "only sometimes"
+   }
+  ],
+  "related": [
+   {
+    "da": "af og til",
+    "en": "now and then"
+   },
+   {
+    "da": "ofte",
+    "en": "often"
+   },
+   {
+    "da": "sjældent",
+    "en": "rarely"
+   },
+   {
+    "da": "som regel",
+    "en": "usually"
+   }
+  ],
+  "sentence": {
+   "da": "**Nogle gange** tager jeg bussen.",
+   "en": "Sometimes I take the bus."
+  }
+ },
+ "nok": {
+  "file": "n.json",
+  "explanation": "\"Nok\" means \"enough\" and also \"probably\". As \"enough\": \"Jeg har nok mad\" (I have enough food). As \"probably\", you are guessing: \"Han kommer nok\" (He will probably come).",
+  "forms": [
+   {
+    "da": "Det er nok.",
+    "en": "That is enough."
+   },
+   {
+    "da": "Han kommer nok i morgen.",
+    "en": "He will probably come tomorrow."
+   },
+   {
+    "da": "Jeg har ikke nok tid.",
+    "en": "I do not have enough time."
+   }
+  ],
+  "related": [
+   {
+    "da": "måske",
+    "en": "maybe"
+   },
+   {
+    "da": "sikkert",
+    "en": "surely / most likely"
+   },
+   {
+    "da": "for meget",
+    "en": "too much"
+   },
+   {
+    "da": "for lidt",
+    "en": "too little"
+   }
+  ],
+  "sentence": {
+   "da": "Nej tak, jeg har **nok** mad.",
+   "en": "No thanks, I have enough food."
+  }
+ },
+ "nord": {
+  "file": "n.json",
+  "explanation": "\"Nord\" means \"north\". Use \"i nord\" (in the north) for where something is and \"mod nord\" (toward the north) for the way you are going.",
+  "forms": [
+   {
+    "da": "nord",
+    "en": "north"
+   },
+   {
+    "da": "i nord",
+    "en": "in the north"
+   },
+   {
+    "da": "mod nord",
+    "en": "toward the north"
+   }
+  ],
+  "related": [
+   {
+    "da": "øst",
+    "en": "east"
+   },
+   {
+    "da": "vest",
+    "en": "west"
+   },
+   {
+    "da": "nordlig",
+    "en": "northern"
+   }
+  ],
+  "sentence": {
+   "da": "Kompasnålen peger mod **nord**.",
+   "en": "The compass needle points north."
+  }
+ }
+}

@@ -1,0 +1,4302 @@
+{
+ "ærlighed": {
+  "file": "ae.json",
+  "explanation": "\"Ærlighed\" means \"honesty\", telling the truth and not cheating.",
+  "forms": [
+   {
+    "da": "ærlighed",
+    "en": "honesty"
+   },
+   {
+    "da": "ærligheden",
+    "en": "the honesty"
+   },
+   {
+    "da": "fuld ærlighed",
+    "en": "complete honesty"
+   },
+   {
+    "da": "tak for din ærlighed",
+    "en": "thanks for your honesty"
+   }
+  ],
+  "related": [
+   {
+    "da": "ærlig",
+    "en": "honest"
+   },
+   {
+    "da": "en sandhed",
+    "en": "a truth"
+   },
+   {
+    "da": "en løgn",
+    "en": "a lie"
+   },
+   {
+    "da": "uærlig",
+    "en": "dishonest"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg sætter pris på **ærlighed** hos mine venner.",
+   "en": "I appreciate honesty in my friends."
+  }
+ },
+ "ærter": {
+  "file": "ae.json",
+  "explanation": "\"Ærter\" means \"peas\", the small round green vegetables that grow in a pod.",
+  "forms": [
+   {
+    "da": "en ært",
+    "en": "a pea"
+   },
+   {
+    "da": "ærten",
+    "en": "the pea"
+   },
+   {
+    "da": "ærter",
+    "en": "peas"
+   },
+   {
+    "da": "ærterne",
+    "en": "the peas"
+   }
+  ],
+  "related": [
+   {
+    "da": "bønner",
+    "en": "beans"
+   },
+   {
+    "da": "linser",
+    "en": "lentils"
+   },
+   {
+    "da": "en bælgfrugt",
+    "en": "a legume"
+   },
+   {
+    "da": "en ærtebælg",
+    "en": "a pea pod"
+   }
+  ],
+  "sentence": {
+   "da": "Suppen har grønne **ærter**.",
+   "en": "The soup has green peas."
+  }
+ },
+ "at bade": {
+  "file": "b.json",
+  "explanation": "\"At bade\" means \"to bathe\" and also \"to swim\", going into the sea or a lake for fun or to cool off: \"Vi bader i havet\" (We swim in the sea). For swimming as exercise, say \"at svømme\" (to swim): \"Hun svømmer hver morgen\" (She swims every morning).",
+  "forms": [
+   {
+    "da": "at bade",
+    "en": "to bathe / swim"
+   },
+   {
+    "da": "jeg bader",
+    "en": "I bathe / swim"
+   },
+   {
+    "da": "jeg badede",
+    "en": "I bathed / swam"
+   },
+   {
+    "da": "jeg har badet",
+    "en": "I have bathed / swum"
+   }
+  ],
+  "related": [
+   "et bad",
+   "en badedragt",
+   "en strand",
+   "en bølge"
+  ],
+  "sentence": {
+   "da": "Vi vil gerne **bade** i havet i dag.",
+   "en": "We would like to swim in the sea today."
+  }
+ },
+ "at bagatellisere": {
+  "file": "b.json",
+  "explanation": "\"At bagatellisere\" means \"to play down\", to talk about something as if it were small, even when it is serious. It comes from \"en bagatel\" (a trifle), something of little importance.",
+  "forms": [
+   {
+    "da": "at bagatellisere",
+    "en": "to downplay"
+   },
+   {
+    "da": "jeg bagatelliserer",
+    "en": "I downplay"
+   },
+   {
+    "da": "jeg bagatelliserede",
+    "en": "I downplayed"
+   },
+   {
+    "da": "jeg har bagatelliseret",
+    "en": "I have downplayed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at overdrive",
+    "en": "to exaggerate"
+   },
+   {
+    "da": "at undervurdere",
+    "en": "to underestimate"
+   },
+   {
+    "da": "at forklejne",
+    "en": "to belittle"
+   },
+   {
+    "da": "at fremhæve",
+    "en": "to emphasize"
+   }
+  ],
+  "sentence": {
+   "da": "Politikerne vil **bagatellisere** problemet, men det er alvorligt.",
+   "en": "The politicians want to downplay the problem, but it is serious."
+  }
+ },
+ "at bage": {
+  "file": "b.json",
+  "explanation": "\"At bage\" means \"to bake\", for things like cakes and bread.",
+  "forms": [
+   {
+    "da": "at bage",
+    "en": "to bake"
+   },
+   {
+    "da": "jeg bager",
+    "en": "I bake"
+   },
+   {
+    "da": "jeg bagte",
+    "en": "I baked"
+   },
+   {
+    "da": "jeg har bagt",
+    "en": "I have baked"
+   }
+  ],
+  "related": [
+   {
+    "da": "bagværk",
+    "en": "baked goods"
+   },
+   {
+    "da": "et bageri",
+    "en": "a bakery"
+   },
+   {
+    "da": "mel",
+    "en": "flour"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **bage** en kage i ovnen.",
+   "en": "I want to bake a cake in the oven."
+  }
+ },
+ "at bakke op": {
+  "file": "b.json",
+  "explanation": "\"At bakke op\" means \"to back up\" or \"to support\" a person or a decision, usually followed by \"om\" (about): \"Vi bakker op om hendes forslag\" (We back up her proposal). It is not used for copying computer files, which is \"at sikkerhedskopiere\" (to back up files).",
+  "forms": [
+   {
+    "da": "at bakke op",
+    "en": "to back up / support"
+   },
+   {
+    "da": "jeg bakker op",
+    "en": "I back up / support"
+   },
+   {
+    "da": "jeg bakkede op",
+    "en": "I backed up / supported"
+   },
+   {
+    "da": "jeg har bakket op",
+    "en": "I have backed up / supported"
+   }
+  ],
+  "related": [
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "at tilslutte sig",
+    "en": "to endorse"
+   },
+   {
+    "da": "at stå bag",
+    "en": "to stand behind"
+   },
+   {
+    "da": "at gå imod",
+    "en": "to oppose"
+   }
+  ],
+  "sentence": {
+   "da": "Hele klassen vil **bakke op** om læreren.",
+   "en": "The whole class will back up the teacher."
+  }
+ },
+ "at balancere": {
+  "file": "b.json",
+  "explanation": "\"At balancere\" means \"to balance\": to keep yourself or something steady, for example on a rope or a narrow wall. It is also used for finding the right mix between two things: \"Hun balancerer arbejde og familie\" (She balances work and family).",
+  "forms": [
+   {
+    "da": "at balancere",
+    "en": "to balance"
+   },
+   {
+    "da": "jeg balancerer",
+    "en": "I balance"
+   },
+   {
+    "da": "jeg balancerede",
+    "en": "I balanced"
+   },
+   {
+    "da": "jeg har balanceret",
+    "en": "I have balanced"
+   }
+  ],
+  "related": [
+   {
+    "da": "at holde balancen",
+    "en": "to keep your balance"
+   },
+   {
+    "da": "en ligevægt",
+    "en": "an equilibrium"
+   },
+   {
+    "da": "at vippe",
+    "en": "to tilt"
+   },
+   {
+    "da": "at udligne",
+    "en": "to even out"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene kan **balancere** på en smal bom.",
+   "en": "The children can balance on a narrow beam."
+  }
+ },
+ "at bande": {
+  "file": "b.json",
+  "explanation": "\"At bande\" means \"to swear (curse)\", saying rude words when you are angry. To swear a promise, use \"at sværge\" (to swear): \"Jeg sværger\" (I swear).",
+  "forms": [
+   {
+    "da": "at bande",
+    "en": "to swear (curse)"
+   },
+   {
+    "da": "jeg bander",
+    "en": "I swear (curse)"
+   },
+   {
+    "da": "jeg bandede",
+    "en": "I swore (curse)"
+   },
+   {
+    "da": "jeg har bandet",
+    "en": "I have sworn (curse)"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bandeord",
+    "en": "a swear word"
+   },
+   {
+    "da": "en ed",
+    "en": "an oath"
+   },
+   {
+    "da": "at skælde ud",
+    "en": "to scold"
+   },
+   {
+    "da": "et skældsord",
+    "en": "an insult"
+   }
+  ],
+  "sentence": {
+   "da": "Du må ikke **bande** foran børnene.",
+   "en": "You must not swear in front of the children."
+  }
+ },
+ "at banke på": {
+  "file": "b.json",
+  "explanation": "\"At banke på\" means \"to knock\", for example on a door. Without \"på\", \"at banke\" means \"to beat\": \"Hjertet banker\" (The heart beats).",
+  "forms": [
+   {
+    "da": "at banke på",
+    "en": "to knock"
+   },
+   {
+    "da": "jeg banker på",
+    "en": "I knock"
+   },
+   {
+    "da": "jeg bankede på",
+    "en": "I knocked"
+   },
+   {
+    "da": "jeg har banket på",
+    "en": "I have knocked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ringe på",
+    "en": "to ring the doorbell"
+   },
+   {
+    "da": "en dørklokke",
+    "en": "a doorbell"
+   },
+   {
+    "da": "at dunke",
+    "en": "to thump"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **banke på**, når døren er lukket.",
+   "en": "You have to knock when the door is closed."
+  }
+ },
+ "at barbere": {
+  "file": "b.json",
+  "explanation": "\"At barbere\" means \"to shave\". Add \"sig\" (yourself) when you shave yourself: \"Han barberer sig hver morgen\" (He shaves every morning). Without \"sig\", you shave someone or something else: \"Lægen barberer området før operationen\" (The doctor shaves the area before the surgery).",
+  "forms": [
+   {
+    "da": "at barbere",
+    "en": "to shave"
+   },
+   {
+    "da": "jeg barberer",
+    "en": "I shave"
+   },
+   {
+    "da": "jeg barberede",
+    "en": "I shaved"
+   },
+   {
+    "da": "jeg har barberet",
+    "en": "I have shaved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en barbermaskine",
+    "en": "an electric shaver"
+   },
+   {
+    "da": "et skæg",
+    "en": "a beard"
+   },
+   {
+    "da": "en barber",
+    "en": "a barber"
+   },
+   {
+    "da": "at klippe",
+    "en": "to cut hair"
+   }
+  ],
+  "sentence": {
+   "da": "Med en barbermaskine kan man **barbere** sit skæg af på få minutter.",
+   "en": "With an electric shaver you can shave off your beard in a few minutes."
+  }
+ },
+ "at barbere sig": {
+  "file": "b.json",
+  "explanation": "\"At barbere sig\" means \"to shave\", taking the hair off your face or body with a razor. Add \"sig\" (yourself) when you shave yourself: \"Jeg barberer mig\" (I shave). To shave someone else, leave it out: \"Jeg barberer ham\" (I shave him).",
+  "forms": [
+   {
+    "da": "at barbere sig",
+    "en": "to shave"
+   },
+   {
+    "da": "jeg barberer mig",
+    "en": "I shave"
+   },
+   {
+    "da": "jeg barberede mig",
+    "en": "I shaved"
+   },
+   {
+    "da": "jeg har barberet mig",
+    "en": "I have shaved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en barbermaskine",
+    "en": "an electric razor"
+   },
+   {
+    "da": "et skæg",
+    "en": "a beard"
+   },
+   {
+    "da": "et barberblad",
+    "en": "a razor blade"
+   }
+  ],
+  "sentence": {
+   "da": "Han har skæg og vil **barbere sig**.",
+   "en": "He has a beard and wants to shave."
+  }
+ },
+ "at bearbejde": {
+  "file": "b.json",
+  "explanation": "\"At bearbejde\" means \"to process\" or \"to work on\": to put work into a material or a text until it is in better shape, such as wood, metal or a draft. It is also used for coming to terms with something hard: \"Hun bearbejder sin sorg\" (She is processing her grief).",
+  "forms": [
+   {
+    "da": "at bearbejde",
+    "en": "to process / work on"
+   },
+   {
+    "da": "jeg bearbejder",
+    "en": "I process / work on"
+   },
+   {
+    "da": "jeg bearbejdede",
+    "en": "I processed / worked on"
+   },
+   {
+    "da": "jeg har bearbejdet",
+    "en": "I have processed / worked on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forarbejde",
+    "en": "to process (raw goods)"
+   },
+   {
+    "da": "at forme",
+    "en": "to shape"
+   },
+   {
+    "da": "at redigere",
+    "en": "to edit"
+   },
+   {
+    "da": "at behandle",
+    "en": "to treat"
+   }
+  ],
+  "sentence": {
+   "da": "Snedkeren skal **bearbejde** træet og bygge et skab.",
+   "en": "The carpenter must work the wood and build a cabinet."
+  }
+ },
+ "at bebo": {
+  "file": "b.json",
+  "explanation": "\"At bebo\" means \"to inhabit\", to live in a place. Unlike \"at bo i\" (to live in), it needs no small word before the place: \"Familien bebor huset\" (The family inhabits the house).",
+  "forms": [
+   {
+    "da": "at bebo",
+    "en": "to inhabit"
+   },
+   {
+    "da": "jeg bebor",
+    "en": "I inhabit"
+   },
+   {
+    "da": "jeg beboede",
+    "en": "I inhabited"
+   },
+   {
+    "da": "jeg har beboet",
+    "en": "I have inhabited"
+   }
+  ],
+  "related": [
+   {
+    "da": "en beboer",
+    "en": "a resident"
+   },
+   {
+    "da": "en bolig",
+    "en": "a dwelling"
+   },
+   {
+    "da": "ubeboet",
+    "en": "uninhabited"
+   },
+   {
+    "da": "at flytte ind",
+    "en": "to move in"
+   }
+  ],
+  "sentence": {
+   "da": "Kun få kan **bebo** den lille ø om vinteren.",
+   "en": "Only a few can inhabit the small island in winter."
+  }
+ },
+ "at bebrejde": {
+  "file": "b.json",
+  "explanation": "\"At bebrejde\" means \"to blame\", to tell someone it is their fault: \"Jeg bebrejder mig selv\" (I blame myself). To name the mistake you blame the person for, use \"for\" (for): \"Hun bebrejder ham for fejlen\" (She blames him for the mistake).",
+  "forms": [
+   {
+    "da": "at bebrejde",
+    "en": "to blame"
+   },
+   {
+    "da": "jeg bebrejder",
+    "en": "I blame"
+   },
+   {
+    "da": "jeg bebrejdede",
+    "en": "I blamed"
+   },
+   {
+    "da": "jeg har bebrejdet",
+    "en": "I have blamed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at beskylde",
+    "en": "to accuse"
+   },
+   {
+    "da": "en bebrejdelse",
+    "en": "a reproach"
+   },
+   {
+    "da": "at undskylde",
+    "en": "to excuse"
+   },
+   {
+    "da": "at kritisere",
+    "en": "to criticize"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan ikke **bebrejde** ham, at han var bange.",
+   "en": "You cannot blame him for being scared."
+  }
+ },
+ "at bede": {
+  "file": "b.json",
+  "explanation": "\"At bede\" means \"to ask\" when you want something done or given: \"Jeg bad ham om hjælp\" (I asked him for help). It also means \"to pray\": \"Hun beder til Gud\" (She prays to God). To ask a question, use \"at spørge\" (to ask a question).",
+  "forms": [
+   {
+    "da": "at bede",
+    "en": "to ask / pray"
+   },
+   {
+    "da": "jeg beder",
+    "en": "I ask / pray"
+   },
+   {
+    "da": "jeg bad",
+    "en": "I asked / prayed"
+   },
+   {
+    "da": "jeg har bedt",
+    "en": "I have asked / prayed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bøn",
+    "en": "a prayer"
+   },
+   {
+    "da": "at anmode om",
+    "en": "to request"
+   },
+   {
+    "da": "at tigge",
+    "en": "to beg"
+   }
+  ],
+  "sentence": {
+   "da": "Må jeg **bede** dig om hjælp?",
+   "en": "May I ask you for help?"
+  }
+ },
+ "at bede om": {
+  "file": "b.json",
+  "explanation": "\"At bede om\" means \"to ask for\" something you would like to get: \"Jeg beder om en kop kaffe\" (I ask for a cup of coffee). Keep \"om\" (for) right after \"bede\". To ask a question, use \"at spørge\" (to ask).",
+  "forms": [
+   {
+    "da": "at bede om",
+    "en": "to ask for"
+   },
+   {
+    "da": "jeg beder om",
+    "en": "I ask for"
+   },
+   {
+    "da": "jeg bad om",
+    "en": "I asked for"
+   },
+   {
+    "da": "jeg har bedt om",
+    "en": "I have asked for"
+   }
+  ],
+  "related": [
+   {
+    "da": "at anmode om",
+    "en": "to request"
+   },
+   {
+    "da": "at ønske",
+    "en": "to wish"
+   },
+   {
+    "da": "at kræve",
+    "en": "to demand"
+   },
+   {
+    "da": "at tigge",
+    "en": "to beg"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **bede om** en kop kaffe.",
+   "en": "I would like to ask for a cup of coffee."
+  }
+ },
+ "at bedrage": {
+  "file": "b.json",
+  "explanation": "\"At bedrage\" means \"to deceive\", to trick someone so that they believe something false. About a partner it also means \"to cheat on\": \"Han bedrog hende\" (He cheated on her).",
+  "forms": [
+   {
+    "da": "at bedrage",
+    "en": "to deceive"
+   },
+   {
+    "da": "jeg bedrager",
+    "en": "I deceive"
+   },
+   {
+    "da": "jeg bedrog",
+    "en": "I deceived"
+   },
+   {
+    "da": "jeg har bedraget",
+    "en": "I have deceived"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bedrageri",
+    "en": "a fraud"
+   },
+   {
+    "da": "at narre",
+    "en": "to fool"
+   },
+   {
+    "da": "at lyve",
+    "en": "to lie"
+   },
+   {
+    "da": "en svindler",
+    "en": "a swindler"
+   }
+  ],
+  "sentence": {
+   "da": "Man må ikke **bedrage** kunderne med falske tilbud.",
+   "en": "You must not deceive the customers with false offers."
+  }
+ },
+ "at bedømme": {
+  "file": "b.json",
+  "explanation": "\"At bedømme\" means \"to judge\" or \"to assess\": to decide how good something is, such as a contest entry, an exam or a risk. In court the verb is \"at dømme\" (to sentence): \"Retten dømmer manden til fængsel\" (The court sentences the man to prison).",
+  "forms": [
+   {
+    "da": "at bedømme",
+    "en": "to judge / assess"
+   },
+   {
+    "da": "jeg bedømmer",
+    "en": "I judge / assess"
+   },
+   {
+    "da": "jeg bedømte",
+    "en": "I judged / assessed"
+   },
+   {
+    "da": "jeg har bedømt",
+    "en": "I have judged / assessed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vurdere",
+    "en": "to assess"
+   },
+   {
+    "da": "en bedømmelse",
+    "en": "an assessment"
+   },
+   {
+    "da": "at skønne",
+    "en": "to estimate"
+   },
+   {
+    "da": "at evaluere",
+    "en": "to evaluate"
+   }
+  ],
+  "sentence": {
+   "da": "Dommerne skal **bedømme** kagerne i konkurrencen.",
+   "en": "The judges must judge the cakes in the contest."
+  }
+ },
+ "at befinde sig": {
+  "file": "b.json",
+  "explanation": "\"At befinde sig\" means \"to be located\": to be in a certain place or situation. In everyday talk Danes just say \"at være\" (to be): \"Hvor er du?\" (Where are you?)",
+  "forms": [
+   {
+    "da": "at befinde sig",
+    "en": "to be (located)"
+   },
+   {
+    "da": "jeg befinder mig",
+    "en": "I am (located)"
+   },
+   {
+    "da": "jeg befandt mig",
+    "en": "I was (located)"
+   },
+   {
+    "da": "jeg har befundet mig",
+    "en": "I have been (located)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ligge",
+    "en": "to lie, to be situated"
+   },
+   {
+    "da": "at opholde sig",
+    "en": "to stay"
+   },
+   {
+    "da": "en placering",
+    "en": "a location"
+   },
+   {
+    "da": "at høre hjemme",
+    "en": "to belong"
+   }
+  ],
+  "sentence": {
+   "da": "Hotellet skal **befinde sig** tæt på stranden, fordi vi vil bade.",
+   "en": "The hotel has to be near the beach, because we want to swim."
+  }
+ },
+ "at befri": {
+  "file": "b.json",
+  "explanation": "\"At befri\" means \"to free\" or \"to liberate\": to let someone out of prison, danger or a heavy burden: \"Pengene befrier ham for bekymringer\" (The money frees him from worries).",
+  "forms": [
+   {
+    "da": "at befri",
+    "en": "to free / liberate"
+   },
+   {
+    "da": "jeg befrier",
+    "en": "I free / liberate"
+   },
+   {
+    "da": "jeg befriede",
+    "en": "I freed / liberated"
+   },
+   {
+    "da": "jeg har befriet",
+    "en": "I have freed / liberated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at frigøre",
+    "en": "to liberate"
+   },
+   {
+    "da": "at redde",
+    "en": "to rescue"
+   },
+   {
+    "da": "en frihed",
+    "en": "a freedom"
+   },
+   {
+    "da": "at løslade",
+    "en": "to release"
+   }
+  ],
+  "sentence": {
+   "da": "Soldaterne vil **befri** fangerne fra fængslet.",
+   "en": "The soldiers will free the prisoners from the prison."
+  }
+ },
+ "at begejstre": {
+  "file": "b.json",
+  "explanation": "\"At begejstre\" means \"to thrill\" or \"to excite\": to make someone happy and enthusiastic about something: \"Filmen begejstrer børnene\" (The film thrills the children). To say that you yourself are excited and waiting, use \"spændt\" (excited, eager): \"Jeg er spændt på resultatet\" (I am excited about the result).",
+  "forms": [
+   {
+    "da": "at begejstre",
+    "en": "to thrill / excite"
+   },
+   {
+    "da": "jeg begejstrer",
+    "en": "I thrill / excite"
+   },
+   {
+    "da": "jeg begejstrede",
+    "en": "I thrilled / excited"
+   },
+   {
+    "da": "jeg har begejstret",
+    "en": "I have thrilled / excited"
+   }
+  ],
+  "related": [
+   {
+    "da": "en begejstring",
+    "en": "enthusiasm"
+   },
+   {
+    "da": "at inspirere",
+    "en": "to inspire"
+   },
+   {
+    "da": "at fascinere",
+    "en": "to fascinate"
+   },
+   {
+    "da": "at skuffe",
+    "en": "to disappoint"
+   }
+  ],
+  "sentence": {
+   "da": "Hendes tale kan **begejstre** hele salen.",
+   "en": "Her speech can thrill the whole room."
+  }
+ },
+ "at begrave": {
+  "file": "b.json",
+  "explanation": "\"At begrave\" means \"to bury\": to put something in the ground, most often a dead person or a pet. It can also mean dropping an idea for good: \"De begravede planen\" (They buried the plan).",
+  "forms": [
+   {
+    "da": "at begrave",
+    "en": "to bury"
+   },
+   {
+    "da": "jeg begraver",
+    "en": "I bury"
+   },
+   {
+    "da": "jeg begravede",
+    "en": "I buried"
+   },
+   {
+    "da": "jeg har begravet",
+    "en": "I have buried"
+   }
+  ],
+  "related": [
+   {
+    "da": "en begravelse",
+    "en": "a funeral"
+   },
+   {
+    "da": "en grav",
+    "en": "a grave"
+   },
+   {
+    "da": "at grave",
+    "en": "to dig"
+   },
+   {
+    "da": "at jordfæste",
+    "en": "to bury (at a funeral)"
+   }
+  ],
+  "sentence": {
+   "da": "Piraterne vil **begrave** skatten på en øde ø.",
+   "en": "The pirates will bury the treasure on a deserted island."
+  }
+ },
+ "at begrunde": {
+  "file": "b.json",
+  "explanation": "\"At begrunde\" means \"to justify\": to explain your reasons for a decision or an opinion, for example when someone asks you to back up an answer: \"Kan du begrunde dit svar?\" (Can you justify your answer?)",
+  "forms": [
+   {
+    "da": "at begrunde",
+    "en": "to justify"
+   },
+   {
+    "da": "jeg begrunder",
+    "en": "I justify"
+   },
+   {
+    "da": "jeg begrundede",
+    "en": "I justified"
+   },
+   {
+    "da": "jeg har begrundet",
+    "en": "I have justified"
+   }
+  ],
+  "related": [
+   {
+    "da": "en grund",
+    "en": "a reason"
+   },
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   },
+   {
+    "da": "at forsvare",
+    "en": "to defend"
+   },
+   {
+    "da": "at argumentere",
+    "en": "to argue"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **begrunde** din mening med gode eksempler.",
+   "en": "You must justify your opinion with good examples."
+  }
+ },
+ "at begrænse": {
+  "file": "b.json",
+  "explanation": "\"At begrænse\" means \"to limit\": to keep an amount, a time or a size from growing past a point. With \"sig\" (yourself) you limit yourself: \"Jeg begrænser mig til én kop kaffe\" (I limit myself to one cup of coffee).",
+  "forms": [
+   {
+    "da": "at begrænse",
+    "en": "to limit"
+   },
+   {
+    "da": "jeg begrænser",
+    "en": "I limit"
+   },
+   {
+    "da": "jeg begrænsede",
+    "en": "I limited"
+   },
+   {
+    "da": "jeg har begrænset",
+    "en": "I have limited"
+   }
+  ],
+  "related": [
+   {
+    "da": "en grænse",
+    "en": "a limit, a border"
+   },
+   {
+    "da": "at reducere",
+    "en": "to reduce"
+   },
+   {
+    "da": "at holde igen",
+    "en": "to hold back"
+   },
+   {
+    "da": "ubegrænset",
+    "en": "unlimited"
+   }
+  ],
+  "sentence": {
+   "da": "Skolen vil **begrænse** brugen af mobiltelefoner i timerne.",
+   "en": "The school wants to limit the use of cell phones in class."
+  }
+ },
+ "at begunstige": {
+  "file": "b.json",
+  "explanation": "\"At begunstige\" means \"to favor\", to give someone or something an advantage over others. It describes rules and systems that help one group more than another: \"Loven begunstiger store firmaer\" (The law favors big companies).",
+  "forms": [
+   {
+    "da": "at begunstige",
+    "en": "to favor"
+   },
+   {
+    "da": "jeg begunstiger",
+    "en": "I favor"
+   },
+   {
+    "da": "jeg begunstigede",
+    "en": "I favored"
+   },
+   {
+    "da": "jeg har begunstiget",
+    "en": "I have favored"
+   }
+  ],
+  "related": [
+   {
+    "da": "at favorisere",
+    "en": "to show preference to"
+   },
+   {
+    "da": "at diskriminere",
+    "en": "to discriminate against"
+   },
+   {
+    "da": "at gavne",
+    "en": "to benefit"
+   },
+   {
+    "da": "at forfordele",
+    "en": "to put at a disadvantage"
+   }
+  ],
+  "sentence": {
+   "da": "Skatten vil **begunstige** familier med børn.",
+   "en": "The tax will favor families with children."
+  }
+ },
+ "at begynde": {
+  "file": "b.json",
+  "explanation": "\"At begynde\" means \"to begin\" or \"to start\". With an action word, add \"at\" (to): \"Jeg begynder at læse\" (I begin to read). It also works alone: \"Skolen begynder i august\" (School begins in August).",
+  "forms": [
+   {
+    "da": "at begynde",
+    "en": "to begin"
+   },
+   {
+    "da": "jeg begynder",
+    "en": "I begin"
+   },
+   {
+    "da": "jeg begyndte",
+    "en": "I began"
+   },
+   {
+    "da": "jeg har begyndt",
+    "en": "I have begun"
+   }
+  ],
+  "related": [
+   {
+    "da": "at starte",
+    "en": "to start"
+   },
+   {
+    "da": "at slutte",
+    "en": "to end / finish"
+   },
+   {
+    "da": "en begyndelse",
+    "en": "a beginning"
+   }
+  ],
+  "sentence": {
+   "da": "Filmen skal **begynde** klokken otte.",
+   "en": "The movie is going to begin at eight."
+  }
+ },
+ "at begynde på": {
+  "file": "b.json",
+  "explanation": "\"At begynde på\" means \"to begin on\" something new, like a task, a job or a course. \"At starte på\" (to start on) can replace it with the same meaning.",
+  "forms": [
+   {
+    "da": "at begynde på",
+    "en": "to begin on"
+   },
+   {
+    "da": "jeg begynder på",
+    "en": "I begin on"
+   },
+   {
+    "da": "jeg begyndte på",
+    "en": "I began on"
+   },
+   {
+    "da": "jeg har begyndt på",
+    "en": "I have begun on"
+   }
+  ],
+  "related": [
+   {
+    "da": "en nybegynder",
+    "en": "a beginner"
+   },
+   {
+    "da": "en begyndelse",
+    "en": "a beginning"
+   },
+   {
+    "da": "at holde op",
+    "en": "to stop"
+   },
+   {
+    "da": "at slutte",
+    "en": "to end"
+   }
+  ],
+  "sentence": {
+   "da": "Efter ferien skal jeg **begynde på** universitetet.",
+   "en": "After the vacation, I am going to start at the university."
+  }
+ },
+ "at begå": {
+  "file": "b.json",
+  "explanation": "\"At begå\" means \"to commit\": to do something wrong or illegal. It goes with crimes and mistakes: \"begå en forbrydelse\" (commit a crime), \"begå en fejl\" (make a mistake). With \"sig\" it means something else: \"Hun kan begå sig på fransk\" (She can get by in French).",
+  "forms": [
+   {
+    "da": "at begå",
+    "en": "to commit (a crime)"
+   },
+   {
+    "da": "jeg begår",
+    "en": "I commit (a crime)"
+   },
+   {
+    "da": "jeg begik",
+    "en": "I committed (a crime)"
+   },
+   {
+    "da": "jeg har begået",
+    "en": "I have committed (a crime)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forbryder",
+    "en": "a criminal"
+   },
+   {
+    "da": "en lovovertrædelse",
+    "en": "an offense"
+   },
+   {
+    "da": "at udføre",
+    "en": "to carry out"
+   },
+   {
+    "da": "at overtræde",
+    "en": "to break a rule"
+   }
+  ],
+  "sentence": {
+   "da": "Tyven vil **begå** endnu et indbrud i nat.",
+   "en": "The thief will commit another break-in tonight."
+  }
+ },
+ "at behandle": {
+  "file": "b.json",
+  "explanation": "\"At behandle\" means \"to treat\", both in medicine and in how you act toward people: \"Han behandler mig godt\" (He treats me well). It also means to handle a matter officially: \"Kommunen behandler sagen\" (The city is handling the case).",
+  "forms": [
+   {
+    "da": "at behandle",
+    "en": "to treat"
+   },
+   {
+    "da": "jeg behandler",
+    "en": "I treat"
+   },
+   {
+    "da": "jeg behandlede",
+    "en": "I treated"
+   },
+   {
+    "da": "jeg har behandlet",
+    "en": "I have treated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en behandling",
+    "en": "a treatment"
+   },
+   {
+    "da": "at mishandle",
+    "en": "to mistreat"
+   },
+   {
+    "da": "at helbrede",
+    "en": "to cure"
+   }
+  ],
+  "sentence": {
+   "da": "Lægen kan **behandle** sygdommen med medicin.",
+   "en": "The doctor can treat the illness with medicine."
+  }
+ },
+ "at beherske": {
+  "file": "b.json",
+  "explanation": "\"At beherske\" means \"to master\" or \"to control\". For a skill you know well, such as a language, it means to have a good command of it: \"Hun behersker fransk\" (She has a good command of French). With \"sig\" (oneself) it means to stay in control of your feelings: \"Han kunne ikke beherske sig\" (He could not control himself).",
+  "forms": [
+   {
+    "da": "at beherske",
+    "en": "to master / control"
+   },
+   {
+    "da": "jeg behersker",
+    "en": "I master / control"
+   },
+   {
+    "da": "jeg beherskede",
+    "en": "I mastered / controlled"
+   },
+   {
+    "da": "jeg har behersket",
+    "en": "I have mastered / controlled"
+   }
+  ],
+  "related": [
+   {
+    "da": "selvbeherskelse",
+    "en": "self-restraint"
+   },
+   {
+    "da": "at mestre",
+    "en": "to master"
+   },
+   {
+    "da": "at dominere",
+    "en": "to dominate"
+   },
+   {
+    "da": "at tøjle",
+    "en": "to rein in"
+   }
+  ],
+  "sentence": {
+   "da": "Hun kan **beherske** tre sprog og taler dem flydende.",
+   "en": "She has a good command of three languages and speaks them fluently."
+  }
+ },
+ "at beholde": {
+  "file": "b.json",
+  "explanation": "\"At beholde\" means \"to keep\" something you already have. For a promise, use \"at holde\" (literally, to hold): \"Jeg holder mit løfte\" (I keep my promise).",
+  "forms": [
+   {
+    "da": "at beholde",
+    "en": "to keep"
+   },
+   {
+    "da": "jeg beholder",
+    "en": "I keep"
+   },
+   {
+    "da": "jeg beholdt",
+    "en": "I kept"
+   },
+   {
+    "da": "jeg har beholdt",
+    "en": "I have kept"
+   }
+  ],
+  "related": [
+   {
+    "da": "at give væk",
+    "en": "to give away"
+   },
+   {
+    "da": "at gemme",
+    "en": "to save / put away"
+   },
+   {
+    "da": "at opbevare",
+    "en": "to store"
+   }
+  ],
+  "sentence": {
+   "da": "Du må gerne **beholde** bogen.",
+   "en": "You may keep the book."
+  }
+ },
+ "at behøve": {
+  "file": "b.json",
+  "explanation": "\"At behøve\" means \"to need\", and it is mostly used for needing to do something, with \"at\" (to): \"Du behøver ikke at komme\" (You do not need to come). For needing a thing, Danes usually say \"at have brug for\" (to need): \"Jeg har brug for hjælp\" (I need help).",
+  "forms": [
+   {
+    "da": "at behøve",
+    "en": "to need"
+   },
+   {
+    "da": "jeg behøver",
+    "en": "I need"
+   },
+   {
+    "da": "jeg behøvede",
+    "en": "I needed"
+   },
+   {
+    "da": "jeg har behøvet",
+    "en": "I have needed"
+   }
+  ],
+  "related": [
+   {
+    "da": "nødvendig",
+    "en": "necessary"
+   },
+   {
+    "da": "at måtte",
+    "en": "to have to / may"
+   },
+   {
+    "da": "et behov",
+    "en": "a need"
+   }
+  ],
+  "sentence": {
+   "da": "Du vil ikke **behøve** at betale.",
+   "en": "You will not need to pay."
+  }
+ },
+ "at bekende": {
+  "file": "b.json",
+  "explanation": "\"At bekende\" means \"to confess\": to admit that you have done something wrong. With \"sig til\" it means to openly stand by a belief or an idea: \"Hun bekender sig til sine værdier\" (She stands by her values).",
+  "forms": [
+   {
+    "da": "at bekende",
+    "en": "to confess"
+   },
+   {
+    "da": "jeg bekender",
+    "en": "I confess"
+   },
+   {
+    "da": "jeg bekendte",
+    "en": "I confessed"
+   },
+   {
+    "da": "jeg har bekendt",
+    "en": "I have confessed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tilstå",
+    "en": "to confess"
+   },
+   {
+    "da": "at indrømme",
+    "en": "to admit"
+   },
+   {
+    "da": "en bekendt",
+    "en": "an acquaintance"
+   },
+   {
+    "da": "at fornægte",
+    "en": "to deny"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **bekende**, at hun har taget pengene.",
+   "en": "She will confess that she has taken the money."
+  }
+ },
+ "at bekræfte": {
+  "file": "b.json",
+  "explanation": "\"At bekræfte\" means \"to confirm\", saying that something is true or settled. It also works for showing that a guess was right: \"Testen bekræfter det\" (The test confirms it).",
+  "forms": [
+   {
+    "da": "at bekræfte",
+    "en": "to confirm"
+   },
+   {
+    "da": "jeg bekræfter",
+    "en": "I confirm"
+   },
+   {
+    "da": "jeg bekræftede",
+    "en": "I confirmed"
+   },
+   {
+    "da": "jeg har bekræftet",
+    "en": "I have confirmed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bekræftelse",
+    "en": "a confirmation"
+   },
+   {
+    "da": "at benægte",
+    "en": "to deny"
+   },
+   {
+    "da": "at afkræfte",
+    "en": "to disprove"
+   },
+   {
+    "da": "at godkende",
+    "en": "to approve"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **bekræfte**, at mødet er klokken ti?",
+   "en": "Can you confirm that the meeting is at ten o'clock?"
+  }
+ },
+ "at bekymre sig": {
+  "file": "b.json",
+  "explanation": "\"At bekymre sig\" means \"to worry\", feeling uneasy about something that might go wrong: \"Jeg bekymrer mig om dig\" (I worry about you). The little word \"sig\" changes with the person: \"jeg bekymrer mig\" (I worry), \"du bekymrer dig\" (you worry).",
+  "forms": [
+   {
+    "da": "at bekymre sig",
+    "en": "to worry"
+   },
+   {
+    "da": "jeg bekymrer mig",
+    "en": "I worry"
+   },
+   {
+    "da": "jeg bekymrede mig",
+    "en": "I worried"
+   },
+   {
+    "da": "jeg har bekymret mig",
+    "en": "I have worried"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bekymring",
+    "en": "a worry"
+   },
+   {
+    "da": "bekymret",
+    "en": "worried"
+   },
+   {
+    "da": "urolig",
+    "en": "anxious"
+   },
+   {
+    "da": "nervøs",
+    "en": "nervous"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil ikke **bekymre sig**, fordi alt går godt.",
+   "en": "She won't worry because everything is going well."
+  }
+ },
+ "at bekæmpe": {
+  "file": "b.json",
+  "explanation": "\"At bekæmpe\" means \"to fight\" or \"to combat\": to work against something harmful, such as a disease, crime or poverty. It is not for a fistfight, which is \"at slås\" (to brawl).",
+  "forms": [
+   {
+    "da": "at bekæmpe",
+    "en": "to fight / combat"
+   },
+   {
+    "da": "jeg bekæmper",
+    "en": "I fight / combat"
+   },
+   {
+    "da": "jeg bekæmpede",
+    "en": "I fought / combated"
+   },
+   {
+    "da": "jeg har bekæmpet",
+    "en": "I have fought / combated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at kæmpe",
+    "en": "to struggle, to fight"
+   },
+   {
+    "da": "en kamp",
+    "en": "a fight, a battle"
+   },
+   {
+    "da": "at forebygge",
+    "en": "to prevent"
+   },
+   {
+    "da": "at udrydde",
+    "en": "to eradicate"
+   }
+  ],
+  "sentence": {
+   "da": "Lægerne kan **bekæmpe** sygdommen med den nye medicin.",
+   "en": "The doctors can fight the disease with the new medicine."
+  }
+ },
+ "at belaste": {
+  "file": "b.json",
+  "explanation": "\"At belaste\" means \"to burden\" or \"to strain\": to put heavy weight or pressure on something, such as a bridge, a knee or a budget: \"Kørsel belaster miljøet\" (Driving burdens the environment).",
+  "forms": [
+   {
+    "da": "at belaste",
+    "en": "to burden / strain"
+   },
+   {
+    "da": "jeg belaster",
+    "en": "I burden / strain"
+   },
+   {
+    "da": "jeg belastede",
+    "en": "I burdened / strained"
+   },
+   {
+    "da": "jeg har belastet",
+    "en": "I have burdened / strained"
+   }
+  ],
+  "related": [
+   {
+    "da": "en belastning",
+    "en": "a strain"
+   },
+   {
+    "da": "at presse",
+    "en": "to press"
+   },
+   {
+    "da": "at aflaste",
+    "en": "to relieve"
+   },
+   {
+    "da": "en byrde",
+    "en": "a burden"
+   }
+  ],
+  "sentence": {
+   "da": "Tunge lastbiler kan **belaste** en gammel bro for meget.",
+   "en": "Heavy trucks can strain an old bridge too much."
+  }
+ },
+ "at belyse": {
+  "file": "b.json",
+  "explanation": "\"At belyse\" means \"to shed light on\": to make a subject clearer by giving more facts. It also means to light something up: \"Projektøren belyser scenen\" (The spotlight lights up the stage).",
+  "forms": [
+   {
+    "da": "at belyse",
+    "en": "to shed light on"
+   },
+   {
+    "da": "jeg belyser",
+    "en": "I shed light on"
+   },
+   {
+    "da": "jeg belyste",
+    "en": "I shed light on (past)"
+   },
+   {
+    "da": "jeg har belyst",
+    "en": "I have shed light on"
+   }
+  ],
+  "related": [
+   {
+    "da": "at klarlægge",
+    "en": "to clarify"
+   },
+   {
+    "da": "at oplyse",
+    "en": "to inform"
+   },
+   {
+    "da": "at lyse",
+    "en": "to shine"
+   },
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   }
+  ],
+  "sentence": {
+   "da": "Rapporten skal **belyse** problemet med flere tal.",
+   "en": "The report must shed light on the problem with more figures."
+  }
+ },
+ "at belære": {
+  "file": "b.json",
+  "explanation": "\"At belære\" means \"to lecture (someone)\", to explain something to a person as if they know less than you. It sounds critical, as in \"Du skal ikke belære mig\" (Do not lecture me).",
+  "forms": [
+   {
+    "da": "at belære",
+    "en": "to lecture (someone)"
+   },
+   {
+    "da": "jeg belærer",
+    "en": "I lecture (someone)"
+   },
+   {
+    "da": "jeg belærte",
+    "en": "I lectured (someone)"
+   },
+   {
+    "da": "jeg har belært",
+    "en": "I have lectured (someone)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at undervise",
+    "en": "to teach"
+   },
+   {
+    "da": "at oplyse",
+    "en": "to inform"
+   },
+   {
+    "da": "at moralisere",
+    "en": "to preach"
+   },
+   {
+    "da": "at opdrage",
+    "en": "to bring up"
+   }
+  ],
+  "sentence": {
+   "da": "Han elsker at **belære** andre, men lytter sjældent selv.",
+   "en": "He loves to lecture others but rarely listens himself."
+  }
+ },
+ "at belønne": {
+  "file": "b.json",
+  "explanation": "\"At belønne\" means \"to reward\": to give someone something nice because of good work or good behavior: \"Vi belønner hunden med en godbid\" (We reward the dog with a treat).",
+  "forms": [
+   {
+    "da": "at belønne",
+    "en": "to reward"
+   },
+   {
+    "da": "jeg belønner",
+    "en": "I reward"
+   },
+   {
+    "da": "jeg belønnede",
+    "en": "I rewarded"
+   },
+   {
+    "da": "jeg har belønnet",
+    "en": "I have rewarded"
+   }
+  ],
+  "related": [
+   {
+    "da": "en belønning",
+    "en": "a reward"
+   },
+   {
+    "da": "en præmie",
+    "en": "a prize"
+   },
+   {
+    "da": "at straffe",
+    "en": "to punish"
+   },
+   {
+    "da": "en løn",
+    "en": "a wage"
+   }
+  ],
+  "sentence": {
+   "da": "Chefen vil **belønne** de ansatte med en bonus.",
+   "en": "The boss will reward the employees with a bonus."
+  }
+ },
+ "at bemærke": {
+  "file": "b.json",
+  "explanation": "\"At bemærke\" means \"to notice\" and also \"to remark\", meaning to say something in passing: \"Hun bemærkede, at det var koldt\" (She remarked that it was cold). \"Bemærk!\" at the start of a sentence means \"Note!\"",
+  "forms": [
+   {
+    "da": "at bemærke",
+    "en": "to notice / remark"
+   },
+   {
+    "da": "jeg bemærker",
+    "en": "I notice / remark"
+   },
+   {
+    "da": "jeg bemærkede",
+    "en": "I noticed / remarked"
+   },
+   {
+    "da": "jeg har bemærket",
+    "en": "I have noticed / remarked"
+   }
+  ],
+  "related": [
+   {
+    "da": "at lægge mærke til",
+    "en": "to notice"
+   },
+   {
+    "da": "at opdage",
+    "en": "to discover"
+   },
+   {
+    "da": "en bemærkning",
+    "en": "a remark"
+   },
+   {
+    "da": "at overse",
+    "en": "to overlook"
+   }
+  ],
+  "sentence": {
+   "da": "Du vil **bemærke** en stor forskel med det samme.",
+   "en": "You will notice a big difference right away."
+  }
+ },
+ "at benytte": {
+  "file": "b.json",
+  "explanation": "\"At benytte\" means \"to use\", especially something that is available to you, such as a chance, a service or a road. With \"sig af\" (yourself of) it means to take advantage of something: \"Jeg benytter mig af tilbuddet\" (I am taking advantage of the offer).",
+  "forms": [
+   {
+    "da": "at benytte",
+    "en": "to use"
+   },
+   {
+    "da": "jeg benytter",
+    "en": "I use"
+   },
+   {
+    "da": "jeg benyttede",
+    "en": "I used"
+   },
+   {
+    "da": "jeg har benyttet",
+    "en": "I have used"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bruge",
+    "en": "to use"
+   },
+   {
+    "da": "at udnytte",
+    "en": "to exploit"
+   },
+   {
+    "da": "at anvende",
+    "en": "to apply"
+   },
+   {
+    "da": "at tage imod",
+    "en": "to accept"
+   }
+  ],
+  "sentence": {
+   "da": "Gæster kan **benytte** hotellets pool hele dagen.",
+   "en": "Guests can use the hotel's pool all day."
+  }
+ },
+ "at benægte": {
+  "file": "b.json",
+  "explanation": "\"At benægte\" means \"to deny\": to say that something is not true: \"Han benægter, at han var der\" (He denies that he was there). To deny someone something, such as entry, is \"at nægte\" (to refuse).",
+  "forms": [
+   {
+    "da": "at benægte",
+    "en": "to deny"
+   },
+   {
+    "da": "jeg benægter",
+    "en": "I deny"
+   },
+   {
+    "da": "jeg benægtede",
+    "en": "I denied"
+   },
+   {
+    "da": "jeg har benægtet",
+    "en": "I have denied"
+   }
+  ],
+  "related": [
+   {
+    "da": "at afvise",
+    "en": "to reject"
+   },
+   {
+    "da": "at tilstå",
+    "en": "to confess"
+   },
+   {
+    "da": "at fornægte",
+    "en": "to disown"
+   },
+   {
+    "da": "at bekræfte",
+    "en": "to confirm"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **benægte**, at hun har sagt det.",
+   "en": "She will deny that she said it."
+  }
+ },
+ "at beordre": {
+  "file": "b.json",
+  "explanation": "\"At beordre\" means \"to order (command)\", to tell people what they must do when you have the authority, such as a boss or an officer: \"Chefen beordrede os hjem\" (The boss ordered us home). For food, use \"at bestille\" (to order).",
+  "forms": [
+   {
+    "da": "at beordre",
+    "en": "to order (command)"
+   },
+   {
+    "da": "jeg beordrer",
+    "en": "I order (command)"
+   },
+   {
+    "da": "jeg beordrede",
+    "en": "I ordered (command)"
+   },
+   {
+    "da": "jeg har beordret",
+    "en": "I have ordered (command)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dirigere",
+    "en": "to direct"
+   },
+   {
+    "da": "at kommandere",
+    "en": "to boss around"
+   },
+   {
+    "da": "en instruks",
+    "en": "a set of instructions"
+   },
+   {
+    "da": "at pålægge",
+    "en": "to impose"
+   }
+  ],
+  "sentence": {
+   "da": "Generalen kan **beordre** soldaterne til at blive.",
+   "en": "The general can order the soldiers to stay."
+  }
+ },
+ "at beregne": {
+  "file": "b.json",
+  "explanation": "\"At beregne\" means \"to calculate\": to work out an amount with numbers, such as a price, a distance or a tax: \"Prisen beregnes ud fra vægten\" (The price is calculated from the weight).",
+  "forms": [
+   {
+    "da": "at beregne",
+    "en": "to calculate"
+   },
+   {
+    "da": "jeg beregner",
+    "en": "I calculate"
+   },
+   {
+    "da": "jeg beregnede",
+    "en": "I calculated"
+   },
+   {
+    "da": "jeg har beregnet",
+    "en": "I have calculated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at regne",
+    "en": "to do sums"
+   },
+   {
+    "da": "en beregning",
+    "en": "a calculation"
+   },
+   {
+    "da": "at udregne",
+    "en": "to figure out"
+   },
+   {
+    "da": "at tælle",
+    "en": "to count"
+   }
+  ],
+  "sentence": {
+   "da": "Computeren kan **beregne** afstanden mellem byerne på et sekund.",
+   "en": "The computer can calculate the distance between the cities in a second."
+  }
+ },
+ "at berette": {
+  "file": "b.json",
+  "explanation": "\"At berette\" means \"to report\" or \"to tell\", giving an account of what happened, usually a longer one. Add \"om\" (about) for what you tell about: \"Hun beretter om sin rejse\" (She tells about her trip).",
+  "forms": [
+   {
+    "da": "at berette",
+    "en": "to report / tell"
+   },
+   {
+    "da": "jeg beretter",
+    "en": "I report / tell"
+   },
+   {
+    "da": "jeg berettede",
+    "en": "I reported / told"
+   },
+   {
+    "da": "jeg har berettet",
+    "en": "I have reported / told"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fortælling",
+    "en": "a story"
+   },
+   {
+    "da": "at fortælle",
+    "en": "to tell"
+   },
+   {
+    "da": "at referere",
+    "en": "to recount"
+   },
+   {
+    "da": "at skildre",
+    "en": "to depict"
+   }
+  ],
+  "sentence": {
+   "da": "Vidnet vil **berette** om ulykken i retten i morgen.",
+   "en": "The witness will report on the accident in court tomorrow."
+  }
+ },
+ "at berige": {
+  "file": "b.json",
+  "explanation": "\"At berige\" means \"to enrich\", to make something fuller or more valuable. It is mostly used for life, culture and experiences: \"Rejser beriger livet\" (Travel enriches life). It can also be about money: \"Olien har beriget landet\" (The oil has enriched the country).",
+  "forms": [
+   {
+    "da": "at berige",
+    "en": "to enrich"
+   },
+   {
+    "da": "jeg beriger",
+    "en": "I enrich"
+   },
+   {
+    "da": "jeg berigede",
+    "en": "I enriched"
+   },
+   {
+    "da": "jeg har beriget",
+    "en": "I have enriched"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forarme",
+    "en": "to impoverish"
+   },
+   {
+    "da": "rigdom",
+    "en": "wealth"
+   },
+   {
+    "da": "rig",
+    "en": "rich"
+   },
+   {
+    "da": "fattig",
+    "en": "poor"
+   }
+  ],
+  "sentence": {
+   "da": "Nye venner kan **berige** dit liv mere end penge.",
+   "en": "New friends can enrich your life more than money."
+  }
+ },
+ "at berolige": {
+  "file": "b.json",
+  "explanation": "\"At berolige\" means \"to calm\" or \"to reassure\": to make someone less afraid or upset, often with kind words. A medicine that does this is called \"et beroligende middel\" (a sedative).",
+  "forms": [
+   {
+    "da": "at berolige",
+    "en": "to calm / reassure"
+   },
+   {
+    "da": "jeg beroliger",
+    "en": "I calm / reassure"
+   },
+   {
+    "da": "jeg beroligede",
+    "en": "I calmed / reassured"
+   },
+   {
+    "da": "jeg har beroliget",
+    "en": "I have calmed / reassured"
+   }
+  ],
+  "related": [
+   {
+    "da": "rolig",
+    "en": "calm"
+   },
+   {
+    "da": "at trøste",
+    "en": "to comfort"
+   },
+   {
+    "da": "at dæmpe",
+    "en": "to dampen"
+   },
+   {
+    "da": "at opmuntre",
+    "en": "to cheer up"
+   }
+  ],
+  "sentence": {
+   "da": "Moren kan **berolige** barnet, når det græder.",
+   "en": "The mother can calm the child when it cries."
+  }
+ },
+ "at berøre": {
+  "file": "b.json",
+  "explanation": "\"At berøre\" means \"to touch\" and \"to affect\": it is used for touching lightly, for moving someone emotionally and for matters that involve many people. \"Sagen berører mange\" (The matter affects many people). \"Jeg blev dybt berørt\" (I was deeply moved).",
+  "forms": [
+   {
+    "da": "at berøre",
+    "en": "to touch / affect"
+   },
+   {
+    "da": "jeg berører",
+    "en": "I touch / affect"
+   },
+   {
+    "da": "jeg berørte",
+    "en": "I touched / affected"
+   },
+   {
+    "da": "jeg har berørt",
+    "en": "I have touched / affected"
+   }
+  ],
+  "related": [
+   {
+    "da": "at røre",
+    "en": "to touch, to stir"
+   },
+   {
+    "da": "at påvirke",
+    "en": "to influence"
+   },
+   {
+    "da": "at ramme",
+    "en": "to hit, to affect"
+   },
+   {
+    "da": "at angå",
+    "en": "to concern"
+   }
+  ],
+  "sentence": {
+   "da": "Du må ikke **berøre** maleriet på museet.",
+   "en": "You must not touch the painting at the museum."
+  }
+ },
+ "at besejre": {
+  "file": "b.json",
+  "explanation": "\"At besejre\" means \"to defeat\": to win over an enemy, an opponent or a problem. You can also use it for a fear or an illness: \"Hun besejrede sin angst\" (She overcame her fear).",
+  "forms": [
+   {
+    "da": "at besejre",
+    "en": "to defeat"
+   },
+   {
+    "da": "jeg besejrer",
+    "en": "I defeat"
+   },
+   {
+    "da": "jeg besejrede",
+    "en": "I defeated"
+   },
+   {
+    "da": "jeg har besejret",
+    "en": "I have defeated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at vinde",
+    "en": "to win"
+   },
+   {
+    "da": "at slå",
+    "en": "to beat"
+   },
+   {
+    "da": "at tabe",
+    "en": "to lose"
+   },
+   {
+    "da": "en sejr",
+    "en": "a victory"
+   }
+  ],
+  "sentence": {
+   "da": "Holdet vil **besejre** de regerende mestre i finalen.",
+   "en": "The team will defeat the reigning champions in the final."
+  }
+ },
+ "at besidde": {
+  "file": "b.json",
+  "explanation": "\"At besidde\" means \"to possess\", to have something valuable, or a quality such as knowledge or courage. For everyday things, Danes just say \"at have\" (to have).",
+  "forms": [
+   {
+    "da": "at besidde",
+    "en": "to possess"
+   },
+   {
+    "da": "jeg besidder",
+    "en": "I possess"
+   },
+   {
+    "da": "jeg besad",
+    "en": "I possessed"
+   },
+   {
+    "da": "jeg har besiddet",
+    "en": "I have possessed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at eje",
+    "en": "to own"
+   },
+   {
+    "da": "en ejer",
+    "en": "an owner"
+   },
+   {
+    "da": "at råde over",
+    "en": "to have at your disposal"
+   },
+   {
+    "da": "at mangle",
+    "en": "to lack"
+   }
+  ],
+  "sentence": {
+   "da": "En god leder skal **besidde** mod og tålmodighed.",
+   "en": "A good leader must possess courage and patience."
+  }
+ },
+ "at beskadige": {
+  "file": "b.json",
+  "explanation": "\"At beskadige\" means \"to damage\": to harm something so that it is broken or worse than before, such as a car, a wall or a book. The result is \"beskadiget\" (damaged): \"en beskadiget bil\" (a damaged car).",
+  "forms": [
+   {
+    "da": "at beskadige",
+    "en": "to damage"
+   },
+   {
+    "da": "jeg beskadiger",
+    "en": "I damage"
+   },
+   {
+    "da": "jeg beskadigede",
+    "en": "I damaged"
+   },
+   {
+    "da": "jeg har beskadiget",
+    "en": "I have damaged"
+   }
+  ],
+  "related": [
+   {
+    "da": "at ødelægge",
+    "en": "to destroy, to ruin"
+   },
+   {
+    "da": "en skade",
+    "en": "damage, an injury"
+   },
+   {
+    "da": "at reparere",
+    "en": "to repair"
+   },
+   {
+    "da": "at knuse",
+    "en": "to smash"
+   }
+  ],
+  "sentence": {
+   "da": "Stormen kan **beskadige** taget på det gamle hus.",
+   "en": "The storm can damage the roof of the old house."
+  }
+ },
+ "at beskatte": {
+  "file": "b.json",
+  "explanation": "\"At beskatte\" means \"to tax\", to make people or goods pay money to the state. What you pay is \"en skat\" (a tax).",
+  "forms": [
+   {
+    "da": "at beskatte",
+    "en": "to tax"
+   },
+   {
+    "da": "jeg beskatter",
+    "en": "I tax"
+   },
+   {
+    "da": "jeg beskattede",
+    "en": "I taxed"
+   },
+   {
+    "da": "jeg har beskattet",
+    "en": "I have taxed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en afgift",
+    "en": "a levy"
+   },
+   {
+    "da": "moms",
+    "en": "VAT"
+   },
+   {
+    "da": "et gebyr",
+    "en": "a fee"
+   },
+   {
+    "da": "en told",
+    "en": "a customs duty"
+   }
+  ],
+  "sentence": {
+   "da": "Regeringen vil **beskatte** de rigeste mere end i dag.",
+   "en": "The government wants to tax the richest more than today."
+  }
+ },
+ "at beskrive": {
+  "file": "b.json",
+  "explanation": "\"At beskrive\" means \"to describe\". It is built from at skrive (to write), but it does not need paper: \"Kan du beskrive vejen til stationen?\" (Can you describe the way to the station?)",
+  "forms": [
+   {
+    "da": "at beskrive",
+    "en": "to describe"
+   },
+   {
+    "da": "jeg beskriver",
+    "en": "I describe"
+   },
+   {
+    "da": "jeg beskrev",
+    "en": "I described"
+   },
+   {
+    "da": "jeg har beskrevet",
+    "en": "I have described"
+   }
+  ],
+  "related": [
+   {
+    "da": "en beskrivelse",
+    "en": "a description"
+   },
+   {
+    "da": "at forklare",
+    "en": "to explain"
+   },
+   {
+    "da": "at fortælle",
+    "en": "to tell"
+   },
+   {
+    "da": "at skildre",
+    "en": "to portray"
+   }
+  ],
+  "sentence": {
+   "da": "Kan du **beskrive** manden for politiet?",
+   "en": "Can you describe the man for the police?"
+  }
+ },
+ "at beskylde": {
+  "file": "b.json",
+  "explanation": "\"At beskylde\" means \"to accuse\", to say that someone has done something wrong. Use \"for\" (of) before the charge: \"Han beskyldte hende for at lyve\" (He accused her of lying).",
+  "forms": [
+   {
+    "da": "at beskylde",
+    "en": "to accuse"
+   },
+   {
+    "da": "jeg beskylder",
+    "en": "I accuse"
+   },
+   {
+    "da": "jeg beskyldte",
+    "en": "I accused"
+   },
+   {
+    "da": "jeg har beskyldt",
+    "en": "I have accused"
+   }
+  ],
+  "related": [
+   {
+    "da": "en beskyldning",
+    "en": "an allegation"
+   },
+   {
+    "da": "at anklage",
+    "en": "to charge"
+   },
+   {
+    "da": "at frikende",
+    "en": "to acquit"
+   },
+   {
+    "da": "uskyldig",
+    "en": "innocent"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan ikke **beskylde** ham for tyveri uden beviser.",
+   "en": "You cannot accuse him of theft without proof."
+  }
+ },
+ "at beskytte": {
+  "file": "b.json",
+  "explanation": "\"At beskytte\" means \"to protect\". Add \"mod\" (against) to say from what: \"Vi beskytter huset mod regn\" (We protect the house against rain).",
+  "forms": [
+   {
+    "da": "at beskytte",
+    "en": "to protect"
+   },
+   {
+    "da": "jeg beskytter",
+    "en": "I protect"
+   },
+   {
+    "da": "jeg beskyttede",
+    "en": "I protected"
+   },
+   {
+    "da": "jeg har beskyttet",
+    "en": "I have protected"
+   }
+  ],
+  "related": [
+   {
+    "da": "en beskyttelse",
+    "en": "a protection"
+   },
+   {
+    "da": "at forsvare",
+    "en": "to defend"
+   },
+   {
+    "da": "at redde",
+    "en": "to save"
+   },
+   {
+    "da": "at passe på",
+    "en": "to look after"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **beskytte** huden mod solen.",
+   "en": "You need to protect your skin from the sun."
+  }
+ },
+ "at beskæftige sig med": {
+  "file": "b.json",
+  "explanation": "\"At beskæftige sig med\" means \"to deal with\" or \"to work with\": to spend your time on a subject or task, for example in a job or a study: \"Hun beskæftiger sig med sprog\" (She works with languages). Without \"sig\", \"at beskæftige\" means \"to employ\": \"Firmaet beskæftiger 50 personer\" (The company employs 50 people).",
+  "forms": [
+   {
+    "da": "at beskæftige sig med",
+    "en": "to deal with / work with"
+   },
+   {
+    "da": "jeg beskæftiger mig med",
+    "en": "I deal with / work with"
+   },
+   {
+    "da": "jeg beskæftigede mig med",
+    "en": "I dealt with / worked with"
+   },
+   {
+    "da": "jeg har beskæftiget mig med",
+    "en": "I have dealt with / worked with"
+   }
+  ],
+  "related": [
+   {
+    "da": "at give sig af med",
+    "en": "to engage in"
+   },
+   {
+    "da": "at interessere sig for",
+    "en": "to be interested in"
+   },
+   {
+    "da": "en beskæftigelse",
+    "en": "an occupation"
+   },
+   {
+    "da": "at tage sig af",
+    "en": "to take care of"
+   }
+  ],
+  "sentence": {
+   "da": "Min bror vil **beskæftige sig med** klimaforskning i fremtiden.",
+   "en": "My brother wants to work with climate research in the future."
+  }
+ },
+ "at beslaglægge": {
+  "file": "b.json",
+  "explanation": "\"At beslaglægge\" means \"to confiscate\". Police or customs officers do it, taking something because it is illegal or needed as evidence: \"Politiet beslaglagde bilen\" (The police seized the car).",
+  "forms": [
+   {
+    "da": "at beslaglægge",
+    "en": "to confiscate"
+   },
+   {
+    "da": "jeg beslaglægger",
+    "en": "I confiscate"
+   },
+   {
+    "da": "jeg beslaglagde",
+    "en": "I confiscated"
+   },
+   {
+    "da": "jeg har beslaglagt",
+    "en": "I have confiscated"
+   }
+  ],
+  "related": [
+   {
+    "da": "at konfiskere",
+    "en": "to confiscate"
+   },
+   {
+    "da": "at arrestere",
+    "en": "to arrest"
+   },
+   {
+    "da": "en razzia",
+    "en": "a raid"
+   },
+   {
+    "da": "at efterforske",
+    "en": "to investigate"
+   }
+  ],
+  "sentence": {
+   "da": "Tolden kan **beslaglægge** ulovlige varer i lufthavnen.",
+   "en": "Customs can confiscate illegal goods at the airport."
+  }
+ },
+ "at beslutte": {
+  "file": "b.json",
+  "explanation": "\"At beslutte\" means \"to decide\". To name what you decided to do, add \"at\" (to) before the verb: \"Vi besluttede at blive hjemme\" (We decided to stay home). To express that you made up your mind, add \"mig\" (myself): \"Jeg har besluttet mig\" (I have made up my mind).",
+  "forms": [
+   {
+    "da": "at beslutte",
+    "en": "to decide"
+   },
+   {
+    "da": "jeg beslutter",
+    "en": "I decide"
+   },
+   {
+    "da": "jeg besluttede",
+    "en": "I decided"
+   },
+   {
+    "da": "jeg har besluttet",
+    "en": "I have decided"
+   }
+  ],
+  "related": [
+   {
+    "da": "at bestemme",
+    "en": "to decide / determine"
+   },
+   {
+    "da": "en beslutning",
+    "en": "a decision"
+   },
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   },
+   {
+    "da": "beslutsom",
+    "en": "decisive"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **beslutte**, hvor vi vil spise i aften.",
+   "en": "We have to decide where we want to eat tonight."
+  }
+ },
+ "at beslutte sig": {
+  "file": "b.json",
+  "explanation": "\"At beslutte sig\" means \"to decide\", or to make up your mind. To name the choice you made, add \"for\" (for) after \"sig\" (oneself): \"Jeg besluttede mig for at blive\" (I decided to stay).",
+  "forms": [
+   {
+    "da": "at beslutte sig",
+    "en": "to decide"
+   },
+   {
+    "da": "jeg beslutter mig",
+    "en": "I decide"
+   },
+   {
+    "da": "jeg besluttede mig",
+    "en": "I decided"
+   },
+   {
+    "da": "jeg har besluttet mig",
+    "en": "I have decided"
+   }
+  ],
+  "related": [
+   {
+    "da": "en beslutning",
+    "en": "a decision"
+   },
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   },
+   {
+    "da": "at bestemme",
+    "en": "to decide"
+   },
+   {
+    "da": "at tøve",
+    "en": "to hesitate"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skal **beslutte sig** inden i morgen.",
+   "en": "She has to decide before tomorrow."
+  }
+ },
+ "at bestemme": {
+  "file": "b.json",
+  "explanation": "\"At bestemme\" means \"to decide\". It also means to be the one in charge: \"Hvem bestemmer her?\" (Who decides here?)",
+  "forms": [
+   {
+    "da": "at bestemme",
+    "en": "to decide"
+   },
+   {
+    "da": "jeg bestemmer",
+    "en": "I decide"
+   },
+   {
+    "da": "jeg bestemte",
+    "en": "I decided"
+   },
+   {
+    "da": "jeg har bestemt",
+    "en": "I have decided"
+   }
+  ],
+  "related": [
+   {
+    "da": "en beslutning",
+    "en": "a decision"
+   },
+   {
+    "da": "at beslutte",
+    "en": "to decide"
+   },
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   },
+   {
+    "da": "at afgøre",
+    "en": "to settle"
+   }
+  ],
+  "sentence": {
+   "da": "Du må **bestemme**, hvad vi skal spise.",
+   "en": "You get to decide what we eat."
+  }
+ },
+ "at bestemme sig": {
+  "file": "b.json",
+  "explanation": "\"At bestemme sig\" means \"to make up one's mind\". Without \"sig\", \"at bestemme\" means \"to decide for others\": \"Chefen bestemmer\" (The boss decides).",
+  "forms": [
+   {
+    "da": "at bestemme sig",
+    "en": "to make up one's mind"
+   },
+   {
+    "da": "jeg bestemmer mig",
+    "en": "I make up my mind"
+   },
+   {
+    "da": "jeg bestemte mig",
+    "en": "I made up my mind"
+   },
+   {
+    "da": "jeg har bestemt mig",
+    "en": "I have made up my mind"
+   }
+  ],
+  "related": [
+   {
+    "da": "at beslutte",
+    "en": "to decide"
+   },
+   {
+    "da": "at vælge",
+    "en": "to choose"
+   },
+   {
+    "da": "at tøve",
+    "en": "to hesitate"
+   },
+   {
+    "da": "at tvivle",
+    "en": "to doubt"
+   }
+  ],
+  "sentence": {
+   "da": "Han skal **bestemme sig** i dag.",
+   "en": "He has to make up his mind today."
+  }
+ },
+ "at bestige": {
+  "file": "b.json",
+  "explanation": "\"At bestige\" means \"to climb\" a mountain: you set out to reach the summit. No extra word follows it: \"Hun bestiger Mont Blanc\" (She climbs Mont Blanc). \"At klatre\" (to climb) is for moving up with your hands and feet, such as up a tree: \"Drengen klatrer i et træ\" (The boy climbs a tree).",
+  "forms": [
+   {
+    "da": "at bestige",
+    "en": "to climb (a mountain)"
+   },
+   {
+    "da": "jeg bestiger",
+    "en": "I climb (a mountain)"
+   },
+   {
+    "da": "jeg besteg",
+    "en": "I climbed (a mountain)"
+   },
+   {
+    "da": "jeg har besteget",
+    "en": "I have climbed (a mountain)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bjergbestiger",
+    "en": "a mountaineer"
+   },
+   {
+    "da": "at vandre",
+    "en": "to hike"
+   },
+   {
+    "da": "at stige",
+    "en": "to rise, to climb"
+   },
+   {
+    "da": "en top",
+    "en": "a summit"
+   }
+  ],
+  "sentence": {
+   "da": "Vi vil **bestige** bjerget og se solopgangen fra toppen.",
+   "en": "We will climb the mountain and watch the sunrise from the top."
+  }
+ },
+ "at bestille": {
+  "file": "b.json",
+  "explanation": "\"At bestille\" means \"to order\" or \"to book\", for example food or a table: \"Jeg vil gerne bestille et bord\" (I would like to book a table). To ask for a meal, you can also say \"Jeg vil gerne have en pizza\" (I would like a pizza).",
+  "forms": [
+   {
+    "da": "at bestille",
+    "en": "to order"
+   },
+   {
+    "da": "jeg bestiller",
+    "en": "I order"
+   },
+   {
+    "da": "jeg bestilte",
+    "en": "I ordered"
+   },
+   {
+    "da": "jeg har bestilt",
+    "en": "I have ordered"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bestilling",
+    "en": "an order, a booking"
+   },
+   {
+    "da": "at reservere",
+    "en": "to reserve"
+   },
+   {
+    "da": "at booke",
+    "en": "to book"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **bestille** en pizza.",
+   "en": "I would like to order a pizza."
+  }
+ },
+ "at bestille tid": {
+  "file": "b.json",
+  "explanation": "\"At bestille tid\" means \"to make an appointment\", for example at the doctor, dentist or hairdresser. Literally, it is to book time: bestille (to book) and tid (time). To name the person you will see, add \"hos\" (at, with): \"bestille tid hos lægen\" (make an appointment with the doctor).",
+  "forms": [
+   {
+    "da": "at bestille tid",
+    "en": "to make an appointment"
+   },
+   {
+    "da": "jeg bestiller tid",
+    "en": "I make an appointment"
+   },
+   {
+    "da": "jeg bestilte tid",
+    "en": "I made an appointment"
+   },
+   {
+    "da": "jeg har bestilt tid",
+    "en": "I have made an appointment"
+   }
+  ],
+  "related": [
+   {
+    "da": "en aftale",
+    "en": "an appointment"
+   },
+   {
+    "da": "at aftale",
+    "en": "to arrange"
+   },
+   {
+    "da": "at aflyse",
+    "en": "to cancel"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **bestille tid** hos lægen.",
+   "en": "I would like to make an appointment with the doctor."
+  }
+ },
+ "at bestride": {
+  "file": "b.json",
+  "explanation": "\"At bestride\" means \"to dispute\", to say that a claim is not true: \"Han bestrider tallene\" (He disputes the figures). In business texts it is also used for paying costs: \"Firmaet bestrider udgifterne\" (The company pays the costs).",
+  "forms": [
+   {
+    "da": "at bestride",
+    "en": "to dispute"
+   },
+   {
+    "da": "jeg bestrider",
+    "en": "I dispute"
+   },
+   {
+    "da": "jeg bestred",
+    "en": "I disputed"
+   },
+   {
+    "da": "jeg har bestridt",
+    "en": "I have disputed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at benægte",
+    "en": "to deny"
+   },
+   {
+    "da": "at modsige",
+    "en": "to contradict"
+   },
+   {
+    "da": "at anfægte",
+    "en": "to challenge"
+   },
+   {
+    "da": "at godtage",
+    "en": "to accept"
+   }
+  ],
+  "sentence": {
+   "da": "Hun vil **bestride** anklagen, fordi den ikke er sand.",
+   "en": "She will dispute the charge because it is not true."
+  }
+ },
+ "at bestræbe sig": {
+  "file": "b.json",
+  "explanation": "\"At bestræbe sig\" means \"to strive\", to try hard to achieve something. Add \"på at\" (to) before the action word: \"Vi bestræber os på at svare hurtigt\" (We strive to answer quickly).",
+  "forms": [
+   {
+    "da": "at bestræbe sig",
+    "en": "to strive"
+   },
+   {
+    "da": "jeg bestræber mig",
+    "en": "I strive"
+   },
+   {
+    "da": "jeg bestræbte mig",
+    "en": "I strove"
+   },
+   {
+    "da": "jeg har bestræbt mig",
+    "en": "I have striven"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bestræbelse",
+    "en": "an endeavor"
+   },
+   {
+    "da": "at stræbe",
+    "en": "to aspire"
+   },
+   {
+    "da": "at anstrenge sig",
+    "en": "to exert yourself"
+   },
+   {
+    "da": "at gøre sit bedste",
+    "en": "to do your best"
+   }
+  ],
+  "sentence": {
+   "da": "Man skal **bestræbe sig** på at være ærlig.",
+   "en": "One must strive to be honest."
+  }
+ },
+ "at bestå": {
+  "file": "b.json",
+  "explanation": "\"At bestå\" means \"to pass\" a test. With \"af\", it means \"to consist of\": \"Holdet består af ti spillere\" (The team consists of ten players).",
+  "forms": [
+   {
+    "da": "at bestå",
+    "en": "to pass (an exam) / consist"
+   },
+   {
+    "da": "jeg består",
+    "en": "I pass (an exam) / consist"
+   },
+   {
+    "da": "jeg bestod",
+    "en": "I passed (an exam) / consisted"
+   },
+   {
+    "da": "jeg har bestået",
+    "en": "I have passed (an exam) / consisted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at dumpe",
+    "en": "to fail"
+   },
+   {
+    "da": "at klare",
+    "en": "to manage / pass"
+   },
+   {
+    "da": "at gennemføre",
+    "en": "to complete"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skal læse meget for at **bestå** eksamen.",
+   "en": "She has to study a lot to pass the exam."
+  }
+ },
+ "at besvare": {
+  "file": "b.json",
+  "explanation": "\"At besvare\" means \"to answer\": you answer a letter, an email or a question directly: \"besvare et brev\" (answer a letter). Unlike \"at svare\" (to answer), it needs no \"på\" (on): \"svare på et brev\" (answer a letter).",
+  "forms": [
+   {
+    "da": "at besvare",
+    "en": "to answer"
+   },
+   {
+    "da": "jeg besvarer",
+    "en": "I answer"
+   },
+   {
+    "da": "jeg besvarede",
+    "en": "I answered"
+   },
+   {
+    "da": "jeg har besvaret",
+    "en": "I have answered"
+   }
+  ],
+  "related": [
+   {
+    "da": "et svar",
+    "en": "an answer"
+   },
+   {
+    "da": "en besvarelse",
+    "en": "a written answer"
+   },
+   {
+    "da": "at spørge",
+    "en": "to ask"
+   }
+  ],
+  "sentence": {
+   "da": "Eleverne skal **besvare** alle spørgsmålene i prøven.",
+   "en": "The students must answer all the questions in the test."
+  }
+ },
+ "at besvime": {
+  "file": "b.json",
+  "explanation": "\"At besvime\" means \"to faint\": to lose consciousness for a short time, for example from shock or hunger. To say someone has fainted, Danes use \"er\" (am, is), not \"har\" (have): \"Hun er besvimet\" (She has fainted).",
+  "forms": [
+   {
+    "da": "at besvime",
+    "en": "to faint"
+   },
+   {
+    "da": "jeg besvimer",
+    "en": "I faint"
+   },
+   {
+    "da": "jeg besvimede",
+    "en": "I fainted"
+   },
+   {
+    "da": "jeg er besvimet",
+    "en": "I have fainted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en besvimelse",
+    "en": "a fainting spell"
+   },
+   {
+    "da": "svimmel",
+    "en": "dizzy"
+   },
+   {
+    "da": "bevidstløs",
+    "en": "unconscious"
+   },
+   {
+    "da": "at falde om",
+    "en": "to collapse"
+   }
+  ],
+  "sentence": {
+   "da": "I stærk varme kan man **besvime**, når man ikke drikker nok.",
+   "en": "In strong heat you can faint when you do not drink enough."
+  }
+ },
+ "at besøge": {
+  "file": "b.json",
+  "explanation": "\"At besøge\" means \"to visit\". You need no word for \"to\": \"Jeg besøger Anna\" (I visit Anna) and \"Jeg besøger museet\" (I visit the museum). Danes also say \"komme på besøg\" (to come for a visit).",
+  "forms": [
+   {
+    "da": "at besøge",
+    "en": "to visit"
+   },
+   {
+    "da": "jeg besøger",
+    "en": "I visit"
+   },
+   {
+    "da": "jeg besøgte",
+    "en": "I visited"
+   },
+   {
+    "da": "jeg har besøgt",
+    "en": "I have visited"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gæst",
+    "en": "a guest"
+   },
+   {
+    "da": "at komme forbi",
+    "en": "to drop by"
+   },
+   {
+    "da": "en besøgende",
+    "en": "a visitor"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **besøge** min mormor i dag.",
+   "en": "I want to visit my grandmother today."
+  }
+ },
+ "at betale": {
+  "file": "b.json",
+  "explanation": "\"At betale\" means \"to pay\". To name the item you pay for, use \"for\" (for): \"Jeg betaler for billetten\" (I pay for the ticket). To name the amount, use no small word: \"Jeg betaler hundrede kroner\" (I pay a hundred kroner).",
+  "forms": [
+   {
+    "da": "at betale",
+    "en": "to pay"
+   },
+   {
+    "da": "jeg betaler",
+    "en": "I pay"
+   },
+   {
+    "da": "jeg betalte",
+    "en": "I paid"
+   },
+   {
+    "da": "jeg har betalt",
+    "en": "I have paid"
+   }
+  ],
+  "related": [
+   {
+    "da": "en betaling",
+    "en": "a payment"
+   },
+   {
+    "da": "at købe",
+    "en": "to buy"
+   },
+   {
+    "da": "at betale tilbage",
+    "en": "to pay back"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skal **betale** 40 kroner for kaffen.",
+   "en": "I have to pay 40 kroner for the coffee."
+  }
+ },
+ "at betale af": {
+  "file": "b.json",
+  "explanation": "\"At betale af\" means \"to pay off\", paying back money you owe in regular payments. Add \"på\" (on) before what you owe: \"Vi betaler af på huset\" (We are paying off the house).",
+  "forms": [
+   {
+    "da": "at betale af",
+    "en": "to pay off"
+   },
+   {
+    "da": "jeg betaler af",
+    "en": "I pay off"
+   },
+   {
+    "da": "jeg betalte af",
+    "en": "I paid off"
+   },
+   {
+    "da": "jeg har betalt af",
+    "en": "I have paid off"
+   }
+  ],
+  "related": [
+   {
+    "da": "at indfri",
+    "en": "to pay in full"
+   },
+   {
+    "da": "et afdrag",
+    "en": "an installment"
+   },
+   {
+    "da": "en gæld",
+    "en": "a debt"
+   },
+   {
+    "da": "at tilbagebetale",
+    "en": "to repay"
+   }
+  ],
+  "sentence": {
+   "da": "Vi kan **betale af** på lånet hver måned.",
+   "en": "We can pay down the loan every month."
+  }
+ },
+ "at betale for": {
+  "file": "b.json",
+  "explanation": "\"At betale for\" means \"to pay for\": \"Jeg betaler for maden\" (I am paying for the food). Put a person after \"for\" to cover that person's share: \"Jeg betaler for dig\" (I am paying for you).",
+  "forms": [
+   {
+    "da": "at betale for",
+    "en": "to pay for"
+   },
+   {
+    "da": "jeg betaler for",
+    "en": "I pay for"
+   },
+   {
+    "da": "jeg betalte for",
+    "en": "I paid for"
+   },
+   {
+    "da": "jeg har betalt for",
+    "en": "I have paid for"
+   }
+  ],
+  "related": [
+   {
+    "da": "en betaling",
+    "en": "a payment"
+   },
+   {
+    "da": "at betale tilbage",
+    "en": "to pay back"
+   },
+   {
+    "da": "en regning",
+    "en": "a bill"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **betale for** kaffen.",
+   "en": "I would like to pay for the coffee."
+  }
+ },
+ "at betale med kort": {
+  "file": "b.json",
+  "explanation": "\"At betale med kort\" means \"to pay by card\". To pay in cash, say \"at betale kontant\" (to pay in cash).",
+  "forms": [
+   {
+    "da": "at betale med kort",
+    "en": "to pay by card"
+   },
+   {
+    "da": "jeg betaler med kort",
+    "en": "I pay by card"
+   },
+   {
+    "da": "jeg betalte med kort",
+    "en": "I paid by card"
+   },
+   {
+    "da": "jeg har betalt med kort",
+    "en": "I have paid by card"
+   }
+  ],
+  "related": [
+   {
+    "da": "et betalingskort",
+    "en": "a payment card"
+   },
+   {
+    "da": "et kreditkort",
+    "en": "a credit card"
+   },
+   {
+    "da": "et dankort",
+    "en": "a Danish debit card"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil gerne **betale med kort**.",
+   "en": "I would like to pay by card."
+  }
+ },
+ "at betale sig": {
+  "file": "b.json",
+  "explanation": "\"At betale sig\" means \"to pay off\", in the sense that something is worth the effort or the cost. It is almost always used with \"det\" (it): \"Det betaler sig at lære dansk\" (It pays off to learn Danish). It is not about paying money back.",
+  "forms": [
+   {
+    "da": "at betale sig",
+    "en": "to pay off (be worth it)"
+   },
+   {
+    "da": "det betaler sig",
+    "en": "it pays off (be worth it)"
+   },
+   {
+    "da": "det betalte sig",
+    "en": "it paid off (be worth it)"
+   },
+   {
+    "da": "det har betalt sig",
+    "en": "it has paid off (be worth it)"
+   }
+  ],
+  "related": [
+   {
+    "da": "at svare sig",
+    "en": "to be worthwhile"
+   },
+   {
+    "da": "lønsom",
+    "en": "profitable"
+   },
+   {
+    "da": "umagen værd",
+    "en": "worth the trouble"
+   },
+   {
+    "da": "at nytte",
+    "en": "to be of use"
+   }
+  ],
+  "sentence": {
+   "da": "Gode sko er dyre, men det kan **betale sig**.",
+   "en": "Good shoes are expensive, but it can pay off."
+  }
+ },
+ "at betale tilbage": {
+  "file": "b.json",
+  "explanation": "\"At betale tilbage\" means \"to pay back\": \"Jeg betaler pengene tilbage\" (I pay the money back). To name the person who receives the money, put \"dig\" (you) or another name straight after \"betale\": \"Jeg betaler dig tilbage\" (I pay you back).",
+  "forms": [
+   {
+    "da": "at betale tilbage",
+    "en": "to pay back"
+   },
+   {
+    "da": "jeg betaler tilbage",
+    "en": "I pay back"
+   },
+   {
+    "da": "jeg betalte tilbage",
+    "en": "I paid back"
+   },
+   {
+    "da": "jeg har betalt tilbage",
+    "en": "I have paid back"
+   }
+  ],
+  "related": [
+   {
+    "da": "at låne",
+    "en": "to borrow"
+   },
+   {
+    "da": "at låne ud",
+    "en": "to lend"
+   },
+   {
+    "da": "en gæld",
+    "en": "a debt"
+   },
+   {
+    "da": "at skylde",
+    "en": "to owe"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har lånt penge og skal **betale tilbage**.",
+   "en": "I borrowed money and have to pay back."
+  }
+ },
+ "at betegne": {
+  "file": "b.json",
+  "explanation": "\"At betegne\" means \"to denote\" or \"to describe\", to name what a word stands for: \"Ordet 'bil' betegner et køretøj\" (The word 'bil' stands for a vehicle). With \"som\" (as), it means to label something a certain way: \"Han betegnede det som en fejl\" (He labeled it a mistake).",
+  "forms": [
+   {
+    "da": "at betegne",
+    "en": "to denote / describe"
+   },
+   {
+    "da": "jeg betegner",
+    "en": "I denote / describe"
+   },
+   {
+    "da": "jeg betegnede",
+    "en": "I denoted / described"
+   },
+   {
+    "da": "jeg har betegnet",
+    "en": "I have denoted / described"
+   }
+  ],
+  "related": [
+   {
+    "da": "en betegnelse",
+    "en": "a term"
+   },
+   {
+    "da": "at navngive",
+    "en": "to name"
+   },
+   {
+    "da": "at definere",
+    "en": "to define"
+   },
+   {
+    "da": "at kalde",
+    "en": "to call"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **betegne** en ugle som en natfugl.",
+   "en": "You can describe an owl as a night bird."
+  }
+ },
+ "at betjene": {
+  "file": "b.json",
+  "explanation": "\"At betjene\" means \"to serve\" and \"to operate\": to help customers in a shop, or to work a machine: \"Han betjener kranen\" (He operates the crane). For serving food at a table, use \"at servere\" (to serve) instead.",
+  "forms": [
+   {
+    "da": "at betjene",
+    "en": "to serve / operate"
+   },
+   {
+    "da": "jeg betjener",
+    "en": "I serve / operate"
+   },
+   {
+    "da": "jeg betjente",
+    "en": "I served / operated"
+   },
+   {
+    "da": "jeg har betjent",
+    "en": "I have served / operated"
+   }
+  ],
+  "related": [
+   {
+    "da": "en betjening",
+    "en": "service"
+   },
+   {
+    "da": "at styre",
+    "en": "to steer"
+   },
+   {
+    "da": "en ekspedient",
+    "en": "a shop assistant"
+   },
+   {
+    "da": "at bruge",
+    "en": "to use"
+   }
+  ],
+  "sentence": {
+   "da": "Hun skal **betjene** kunderne ved disken, når de kommer.",
+   "en": "She has to serve the customers at the counter when they come."
+  }
+ },
+ "at betragte": {
+  "file": "b.json",
+  "explanation": "\"At betragte\" means \"to regard\" and \"to consider\": you see someone or something as something else, with \"som\" (as) before it: \"Jeg betragter ham som en ven\" (I regard him as a friend). It can also mean to look at something calmly and for a while.",
+  "forms": [
+   {
+    "da": "at betragte",
+    "en": "to regard / consider"
+   },
+   {
+    "da": "jeg betragter",
+    "en": "I regard / consider"
+   },
+   {
+    "da": "jeg betragtede",
+    "en": "I regarded / considered"
+   },
+   {
+    "da": "jeg har betragtet",
+    "en": "I have regarded / considered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at anse",
+    "en": "to deem"
+   },
+   {
+    "da": "at iagttage",
+    "en": "to observe"
+   },
+   {
+    "da": "at opfatte",
+    "en": "to perceive"
+   },
+   {
+    "da": "en betragtning",
+    "en": "a consideration"
+   }
+  ],
+  "sentence": {
+   "da": "Mange vil **betragte** ham som landets bedste forfatter.",
+   "en": "Many regard him as the country's best author."
+  }
+ },
+ "at betro": {
+  "file": "b.json",
+  "explanation": "\"At betro\" means \"to confide\", to tell something private to someone close to you. To confide in someone, add \"sig\" (yourself) and \"til\" (to): \"Hun betroede sig til sin søster\" (She opened up to her sister).",
+  "forms": [
+   {
+    "da": "at betro",
+    "en": "to confide"
+   },
+   {
+    "da": "jeg betror",
+    "en": "I confide"
+   },
+   {
+    "da": "jeg betroede",
+    "en": "I confided"
+   },
+   {
+    "da": "jeg har betroet",
+    "en": "I have confided"
+   }
+  ],
+  "related": [
+   {
+    "da": "fortrolig",
+    "en": "confidential"
+   },
+   {
+    "da": "en fortrolig",
+    "en": "a confidant"
+   },
+   {
+    "da": "tillid",
+    "en": "trust"
+   },
+   {
+    "da": "at stole på",
+    "en": "to rely on"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **betro** sine hemmeligheder til en god ven.",
+   "en": "You can confide your secrets to a good friend."
+  }
+ },
+ "at betvivle": {
+  "file": "b.json",
+  "explanation": "\"At betvivle\" means \"to doubt\" or \"to question\", to not be sure that something is true or right: \"Jeg betvivler hans ord\" (I doubt his word). You need no small word after it. The shorter \"at tvivle\" (to doubt) needs \"på\" (on) instead: \"Jeg tvivler på hans ord\" (I doubt his word).",
+  "forms": [
+   {
+    "da": "at betvivle",
+    "en": "to question / doubt"
+   },
+   {
+    "da": "jeg betvivler",
+    "en": "I question / doubt"
+   },
+   {
+    "da": "jeg betvivlede",
+    "en": "I questioned / doubted"
+   },
+   {
+    "da": "jeg har betvivlet",
+    "en": "I have questioned / doubted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at mistro",
+    "en": "to distrust"
+   },
+   {
+    "da": "skeptisk",
+    "en": "skeptical"
+   },
+   {
+    "da": "usikker",
+    "en": "unsure"
+   },
+   {
+    "da": "at anfægte",
+    "en": "to challenge"
+   }
+  ],
+  "sentence": {
+   "da": "Ingen kan **betvivle**, at hun har arbejdet hårdt.",
+   "en": "No one can doubt that she has worked hard."
+  }
+ },
+ "at betyde": {
+  "file": "b.json",
+  "explanation": "\"At betyde\" means \"to mean\": \"Hvad betyder det?\" (What does that mean?) It can also mean \"to matter\": \"Det betyder meget for mig\" (It means a lot to me).",
+  "forms": [
+   {
+    "da": "at betyde",
+    "en": "to mean"
+   },
+   {
+    "da": "jeg betyder",
+    "en": "I mean"
+   },
+   {
+    "da": "jeg betød",
+    "en": "I meant"
+   },
+   {
+    "da": "jeg har betydet",
+    "en": "I have meant"
+   }
+  ],
+  "related": [
+   {
+    "da": "en betydning",
+    "en": "a meaning"
+   },
+   {
+    "da": "at mene",
+    "en": "to mean, to think"
+   },
+   {
+    "da": "betydelig",
+    "en": "significant"
+   }
+  ],
+  "sentence": {
+   "da": "Hvad kan det ord **betyde**?",
+   "en": "What can that word mean?"
+  }
+ },
+ "at beundre": {
+  "file": "b.json",
+  "explanation": "\"At beundre\" means \"to admire\", to feel respect and delight for a person or for what they can do. It is much stronger than \"at kunne lide\" (to like).",
+  "forms": [
+   {
+    "da": "at beundre",
+    "en": "to admire"
+   },
+   {
+    "da": "jeg beundrer",
+    "en": "I admire"
+   },
+   {
+    "da": "jeg beundrede",
+    "en": "I admired"
+   },
+   {
+    "da": "jeg har beundret",
+    "en": "I have admired"
+   }
+  ],
+  "related": [
+   {
+    "da": "en beundring",
+    "en": "admiration"
+   },
+   {
+    "da": "beundringsværdig",
+    "en": "admirable"
+   },
+   {
+    "da": "at respektere",
+    "en": "to respect"
+   },
+   {
+    "da": "at se op til",
+    "en": "to look up to"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan kun **beundre** hende, fordi hun aldrig giver op.",
+   "en": "I can only admire her because she never gives up."
+  }
+ },
+ "at bevare": {
+  "file": "b.json",
+  "explanation": "\"At bevare\" means \"to preserve\", to keep something as it is so that it does not change. It is used for old buildings and traditions, and for staying calm: \"at bevare roen\" (to keep calm). To keep a thing you own, say \"at beholde\" (to keep) instead.",
+  "forms": [
+   {
+    "da": "at bevare",
+    "en": "to preserve / keep"
+   },
+   {
+    "da": "jeg bevarer",
+    "en": "I preserve / keep"
+   },
+   {
+    "da": "jeg bevarede",
+    "en": "I preserved / kept"
+   },
+   {
+    "da": "jeg har bevaret",
+    "en": "I have preserved / kept"
+   }
+  ],
+  "related": [
+   {
+    "da": "at opbevare",
+    "en": "to store"
+   },
+   {
+    "da": "at beskytte",
+    "en": "to protect"
+   },
+   {
+    "da": "at ødelægge",
+    "en": "to destroy"
+   },
+   {
+    "da": "at vedligeholde",
+    "en": "to maintain"
+   }
+  ],
+  "sentence": {
+   "da": "Museet skal **bevare** gamle ting, så de ikke går tabt.",
+   "en": "The museum has to preserve old things so they are not lost."
+  }
+ },
+ "at bevilge": {
+  "file": "b.json",
+  "explanation": "\"At bevilge\" means \"to grant\", to officially agree to give money for something. It is done by a council, a government or a board: \"Kommunen bevilgede penge til en ny bro\" (The council granted money for a new bridge).",
+  "forms": [
+   {
+    "da": "at bevilge",
+    "en": "to grant"
+   },
+   {
+    "da": "jeg bevilger",
+    "en": "I grant"
+   },
+   {
+    "da": "jeg bevilgede",
+    "en": "I granted"
+   },
+   {
+    "da": "jeg har bevilget",
+    "en": "I have granted"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bevilling",
+    "en": "a grant"
+   },
+   {
+    "da": "at tildele",
+    "en": "to award"
+   },
+   {
+    "da": "at godkende",
+    "en": "to approve"
+   },
+   {
+    "da": "at afslå",
+    "en": "to turn down"
+   }
+  ],
+  "sentence": {
+   "da": "Politikerne vil **bevilge** flere penge til skolerne.",
+   "en": "The politicians want to grant more money to the schools."
+  }
+ },
+ "at bevise": {
+  "file": "b.json",
+  "explanation": "\"At bevise\" means \"to prove\", to show with facts that something is true: \"Hun beviste, at det var sandt\" (She proved that it was true). It is also used for showing a quality: \"at bevise sit værd\" (to prove your worth).",
+  "forms": [
+   {
+    "da": "at bevise",
+    "en": "to prove"
+   },
+   {
+    "da": "jeg beviser",
+    "en": "I prove"
+   },
+   {
+    "da": "jeg beviste",
+    "en": "I proved"
+   },
+   {
+    "da": "jeg har bevist",
+    "en": "I have proved"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bevis",
+    "en": "a proof"
+   },
+   {
+    "da": "at modbevise",
+    "en": "to disprove"
+   },
+   {
+    "da": "at påvise",
+    "en": "to demonstrate"
+   },
+   {
+    "da": "en påstand",
+    "en": "a claim"
+   }
+  ],
+  "sentence": {
+   "da": "Man kan **bevise** en teori med forsøg og målinger.",
+   "en": "You can prove a theory with experiments and measurements."
+  }
+ },
+ "at bevæge": {
+  "file": "b.json",
+  "explanation": "\"At bevæge\" means \"to move\" something, like a body part. To move yourself, add \"sig\" (yourself): \"Han bevæger sig langsomt\" (He moves slowly). To move house, use \"at flytte\" (to move).",
+  "forms": [
+   {
+    "da": "at bevæge",
+    "en": "to move"
+   },
+   {
+    "da": "jeg bevæger",
+    "en": "I move"
+   },
+   {
+    "da": "jeg bevægede",
+    "en": "I moved"
+   },
+   {
+    "da": "jeg har bevæget",
+    "en": "I have moved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bevægelse",
+    "en": "a movement"
+   },
+   {
+    "da": "at røre sig",
+    "en": "to move"
+   },
+   {
+    "da": "at stå stille",
+    "en": "to stand still"
+   },
+   {
+    "da": "at rykke",
+    "en": "to shift"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **bevæge** min venstre arm.",
+   "en": "I cannot move my left arm."
+  }
+ },
+ "at bevæge sig": {
+  "file": "b.json",
+  "explanation": "\"At bevæge sig\" means \"to move\" your own body: \"Han bevæger sig langsomt\" (He moves slowly). To move a thing or move house, use \"at flytte\" (to move): \"Jeg flytter bordet\" (I am moving the table).",
+  "forms": [
+   {
+    "da": "at bevæge sig",
+    "en": "to move"
+   },
+   {
+    "da": "jeg bevæger mig",
+    "en": "I move"
+   },
+   {
+    "da": "jeg bevægede mig",
+    "en": "I moved"
+   },
+   {
+    "da": "jeg har bevæget mig",
+    "en": "I have moved"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bevægelse",
+    "en": "a movement"
+   },
+   {
+    "da": "at røre sig",
+    "en": "to stir / move"
+   },
+   {
+    "da": "at stå stille",
+    "en": "to stand still"
+   }
+  ],
+  "sentence": {
+   "da": "Katten kan ikke **bevæge sig**, fordi den sidder fast.",
+   "en": "The cat cannot move because it is stuck."
+  }
+ },
+ "at bide": {
+  "file": "b.json",
+  "explanation": "\"At bide\" means \"to bite\", cutting into something with your teeth, such as a person or an animal does: \"Hunden bed postbuddet\" (The dog bit the mail carrier). Insects bite too: \"Myggen bed mig\" (The mosquito bit me).",
+  "forms": [
+   {
+    "da": "at bide",
+    "en": "to bite"
+   },
+   {
+    "da": "jeg bider",
+    "en": "I bite"
+   },
+   {
+    "da": "jeg bed",
+    "en": "I bit"
+   },
+   {
+    "da": "jeg har bidt",
+    "en": "I have bitten"
+   }
+  ],
+  "related": [
+   {
+    "da": "at tygge",
+    "en": "to chew"
+   },
+   {
+    "da": "en tand",
+    "en": "a tooth"
+   },
+   {
+    "da": "et bid",
+    "en": "a bite"
+   },
+   {
+    "da": "at bede",
+    "en": "to ask / pray (looks similar)"
+   }
+  ],
+  "sentence": {
+   "da": "Hunden kan **bide** med sine skarpe tænder.",
+   "en": "The dog can bite with its sharp teeth."
+  }
+ },
+ "at bidrage": {
+  "file": "b.json",
+  "explanation": "\"At bidrage\" means \"to contribute\", to give your share to something that many people work on. Use \"til\" (to) for what you give to: \"Hun bidrager til forskningen\" (She contributes to the research).",
+  "forms": [
+   {
+    "da": "at bidrage",
+    "en": "to contribute"
+   },
+   {
+    "da": "jeg bidrager",
+    "en": "I contribute"
+   },
+   {
+    "da": "jeg bidrog",
+    "en": "I contributed"
+   },
+   {
+    "da": "jeg har bidraget",
+    "en": "I have contributed"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bidrag",
+    "en": "a contribution"
+   },
+   {
+    "da": "at medvirke",
+    "en": "to take part"
+   },
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "at donere",
+    "en": "to donate"
+   }
+  ],
+  "sentence": {
+   "da": "Alle i klassen kan **bidrage** med lidt mad.",
+   "en": "Everyone in the class can contribute some food."
+  }
+ },
+ "at binde": {
+  "file": "b.json",
+  "explanation": "\"At binde\" means \"to tie\" or \"to bind\": you fasten something with a lace, string or rope so it stays in place: \"Jeg binder håret op\" (I tie my hair up).",
+  "forms": [
+   {
+    "da": "at binde",
+    "en": "to tie / bind"
+   },
+   {
+    "da": "jeg binder",
+    "en": "I tie / bind"
+   },
+   {
+    "da": "jeg bandt",
+    "en": "I tied / bound"
+   },
+   {
+    "da": "jeg har bundet",
+    "en": "I have tied / bound"
+   }
+  ],
+  "related": [
+   {
+    "da": "at knytte",
+    "en": "to tie (a knot)"
+   },
+   {
+    "da": "en knude",
+    "en": "a knot"
+   },
+   {
+    "da": "at løsne",
+    "en": "to loosen"
+   },
+   {
+    "da": "et bånd",
+    "en": "a ribbon / band"
+   }
+  ],
+  "sentence": {
+   "da": "Vi skal **binde** hunden til træet.",
+   "en": "We have to tie the dog to the tree."
+  }
+ },
+ "at binde snørebånd": {
+  "file": "b.json",
+  "explanation": "\"At binde snørebånd\" means \"to tie shoelaces\". It is built from at binde (to tie) and snørebånd (shoelaces), and the same verb works for other things: \"at binde et tørklæde\" (to tie a scarf).",
+  "forms": [
+   {
+    "da": "at binde snørebånd",
+    "en": "to tie shoelaces"
+   },
+   {
+    "da": "jeg binder snørebånd",
+    "en": "I tie shoelaces"
+   },
+   {
+    "da": "jeg bandt snørebånd",
+    "en": "I tied shoelaces"
+   },
+   {
+    "da": "jeg har bundet snørebånd",
+    "en": "I have tied shoelaces"
+   }
+  ],
+  "related": [
+   {
+    "da": "at knytte",
+    "en": "to tie"
+   },
+   {
+    "da": "en sløjfe",
+    "en": "a bow"
+   },
+   {
+    "da": "at løsne",
+    "en": "to loosen"
+   }
+  ],
+  "sentence": {
+   "da": "Min lille datter kan allerede **binde snørebånd**.",
+   "en": "My little daughter can already tie shoelaces."
+  }
+ },
+ "at bistå": {
+  "file": "b.json",
+  "explanation": "\"At bistå\" means \"to assist\", to give someone a hand with a task or a case, often as a professional: \"Revisoren bistår firmaet\" (The accountant assists the company).",
+  "forms": [
+   {
+    "da": "at bistå",
+    "en": "to assist"
+   },
+   {
+    "da": "jeg bistår",
+    "en": "I assist"
+   },
+   {
+    "da": "jeg bistod",
+    "en": "I assisted"
+   },
+   {
+    "da": "jeg har bistået",
+    "en": "I have assisted"
+   }
+  ],
+  "related": [
+   {
+    "da": "at hjælpe",
+    "en": "to help"
+   },
+   {
+    "da": "en bistand",
+    "en": "assistance"
+   },
+   {
+    "da": "at støtte",
+    "en": "to support"
+   },
+   {
+    "da": "at rådgive",
+    "en": "to advise"
+   }
+  ],
+  "sentence": {
+   "da": "En advokat kan **bistå** dig, når du går i retten.",
+   "en": "A lawyer can assist you when you go to court."
+  }
+ },
+ "at blaffe": {
+  "file": "b.json",
+  "explanation": "\"At blaffe\" means \"to hitchhike\", to travel by asking drivers to take you along for free.",
+  "forms": [
+   {
+    "da": "at blaffe",
+    "en": "to hitchhike"
+   },
+   {
+    "da": "jeg blaffer",
+    "en": "I hitchhike"
+   },
+   {
+    "da": "jeg blaffede",
+    "en": "I hitchhiked"
+   },
+   {
+    "da": "jeg har blaffet",
+    "en": "I have hitchhiked"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lift",
+    "en": "a ride"
+   },
+   {
+    "da": "at køre med",
+    "en": "to ride along"
+   },
+   {
+    "da": "at lifte",
+    "en": "to hitchhike"
+   }
+  ],
+  "sentence": {
+   "da": "Vi har ingen bil, men vi vil **blaffe** til kysten.",
+   "en": "We have no car, but we want to hitchhike to the coast."
+  }
+ },
+ "at blande": {
+  "file": "b.json",
+  "explanation": "\"At blande\" means \"to mix\". With \"sig\" (yourself) added, \"at blande sig\" (to interfere) is a different verb: \"Bland dig ikke i det\" (Stay out of it).",
+  "forms": [
+   {
+    "da": "at blande",
+    "en": "to mix"
+   },
+   {
+    "da": "jeg blander",
+    "en": "I mix"
+   },
+   {
+    "da": "jeg blandede",
+    "en": "I mixed"
+   },
+   {
+    "da": "jeg har blandet",
+    "en": "I have mixed"
+   }
+  ],
+  "related": [
+   {
+    "da": "en blanding",
+    "en": "a mixture"
+   },
+   {
+    "da": "at røre",
+    "en": "to stir"
+   },
+   {
+    "da": "at piske",
+    "en": "to whisk"
+   },
+   {
+    "da": "blandet",
+    "en": "mixed"
+   }
+  ],
+  "sentence": {
+   "da": "Du skal **blande** mel og æg i en skål.",
+   "en": "You have to mix flour and eggs in a bowl."
+  }
+ },
+ "at blande sig": {
+  "file": "b.json",
+  "explanation": "\"At blande sig\" means \"to interfere\", taking part where you are not wanted. Without \"sig\" (yourself), \"at blande\" (to mix) is used for ingredients: \"Jeg blander mel og vand\" (I mix flour and water).",
+  "forms": [
+   {
+    "da": "at blande sig",
+    "en": "to interfere"
+   },
+   {
+    "da": "jeg blander mig",
+    "en": "I interfere"
+   },
+   {
+    "da": "jeg blandede mig",
+    "en": "I interfered"
+   },
+   {
+    "da": "jeg har blandet mig",
+    "en": "I have interfered"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forstyrre",
+    "en": "to disturb"
+   },
+   {
+    "da": "at gribe ind",
+    "en": "to step in"
+   },
+   {
+    "da": "at involvere",
+    "en": "to involve"
+   },
+   {
+    "da": "at stikke næsen i",
+    "en": "to poke your nose into"
+   }
+  ],
+  "sentence": {
+   "da": "Han skal ikke **blande sig** i det.",
+   "en": "He should not interfere in that."
+  }
+ },
+ "at blegne": {
+  "file": "b.json",
+  "explanation": "\"At blegne\" means \"to fade\", to lose color and become pale. It is said about things left in the sun and about a face that turns white from fear: \"Hun blegnede af skræk\" (She went pale with fear).",
+  "forms": [
+   {
+    "da": "at blegne",
+    "en": "to fade"
+   },
+   {
+    "da": "jeg blegner",
+    "en": "I fade"
+   },
+   {
+    "da": "jeg blegnede",
+    "en": "I faded"
+   },
+   {
+    "da": "jeg har blegnet",
+    "en": "I have faded"
+   }
+  ],
+  "related": [
+   {
+    "da": "at falme",
+    "en": "to wash out"
+   },
+   {
+    "da": "at blive grå",
+    "en": "to turn gray"
+   },
+   {
+    "da": "at rødme",
+    "en": "to blush"
+   },
+   {
+    "da": "at mørkne",
+    "en": "to darken"
+   }
+  ],
+  "sentence": {
+   "da": "Gardinerne kan **blegne**, når solen skinner på dem hver dag.",
+   "en": "The curtains can fade when the sun shines on them every day."
+  }
+ },
+ "at blinke": {
+  "file": "b.json",
+  "explanation": "\"At blinke\" means \"to blink\" with both eyes and \"to wink\" with one. Lights and stars can blink too: \"Stjernerne blinker\" (The stars are twinkling).",
+  "forms": [
+   {
+    "da": "at blinke",
+    "en": "to blink / wink"
+   },
+   {
+    "da": "jeg blinker",
+    "en": "I blink / wink"
+   },
+   {
+    "da": "jeg blinkede",
+    "en": "I blinked / winked"
+   },
+   {
+    "da": "jeg har blinket",
+    "en": "I have blinked / winked"
+   }
+  ],
+  "related": [
+   {
+    "da": "et blinklys",
+    "en": "a turn signal"
+   },
+   {
+    "da": "at glimte",
+    "en": "to glint"
+   },
+   {
+    "da": "at plire",
+    "en": "to squint"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg kan ikke **blinke** med det ene øje.",
+   "en": "I cannot wink with one eye."
+  }
+ },
+ "at blive": {
+  "file": "b.json",
+  "explanation": "\"At blive\" means \"to become\" and \"to stay\": \"Han bliver læge\" (He becomes a doctor) and \"Jeg bliver hjemme\" (I stay at home). It is also used for what will happen: \"Det bliver godt\" (It will be good). \"At være\" (to be) only says what is true right now.",
+  "forms": [
+   {
+    "da": "at blive",
+    "en": "to become / stay"
+   },
+   {
+    "da": "jeg bliver",
+    "en": "I become / stay"
+   },
+   {
+    "da": "jeg blev",
+    "en": "I became / stayed"
+   },
+   {
+    "da": "jeg er blevet",
+    "en": "I have become / stayed"
+   }
+  ],
+  "related": [
+   {
+    "da": "at forblive",
+    "en": "to remain"
+   },
+   {
+    "da": "at blive ved",
+    "en": "to keep on"
+   },
+   {
+    "da": "at blive til",
+    "en": "to turn into"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg vil **blive** læge.",
+   "en": "I want to become a doctor."
+  }
+ }
+}

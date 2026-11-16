@@ -1,0 +1,4218 @@
+{
+ "en skuldertaske": {
+  "file": "s.json",
+  "explanation": "\"En skuldertaske\" means \"a shoulder bag\", a bag with a long strap that hangs from one shoulder. It is built from skulder (shoulder) and taske (bag).",
+  "forms": [
+   {
+    "da": "en skuldertaske",
+    "en": "a shoulder bag"
+   },
+   {
+    "da": "skuldertasken",
+    "en": "the shoulder bag"
+   },
+   {
+    "da": "skuldertasker",
+    "en": "shoulder bags"
+   },
+   {
+    "da": "skuldertaskerne",
+    "en": "the shoulder bags"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rygsæk",
+    "en": "a backpack"
+   },
+   {
+    "da": "en håndtaske",
+    "en": "a handbag"
+   },
+   {
+    "da": "en indkøbspose",
+    "en": "a shopping bag"
+   },
+   {
+    "da": "en kuffert",
+    "en": "a suitcase"
+   }
+  ],
+  "sentence": {
+   "da": "En **skuldertaske** bærer man på skulderen.",
+   "en": "You carry a shoulder bag on the shoulder."
+  }
+ },
+ "en skulptur": {
+  "file": "s.json",
+  "explanation": "\"En skulptur\" means \"a sculpture\", a figure or shape made by hand in stone, metal, wood or clay. Unlike something flat on a wall, you can walk around it.",
+  "forms": [
+   {
+    "da": "en skulptur",
+    "en": "a sculpture"
+   },
+   {
+    "da": "skulpturen",
+    "en": "the sculpture"
+   },
+   {
+    "da": "skulpturer",
+    "en": "sculptures"
+   },
+   {
+    "da": "skulpturerne",
+    "en": "the sculptures"
+   }
+  ],
+  "related": [
+   {
+    "da": "en statue",
+    "en": "a statue"
+   },
+   {
+    "da": "et maleri",
+    "en": "a painting"
+   },
+   {
+    "da": "en billedhugger",
+    "en": "a sculptor"
+   },
+   {
+    "da": "et kunstværk",
+    "en": "an artwork"
+   }
+  ],
+  "sentence": {
+   "da": "I parken står en stor **skulptur** af bronze.",
+   "en": "In the park stands a large sculpture made of bronze."
+  }
+ },
+ "en skurk": {
+  "file": "s.json",
+  "explanation": "\"En skurk\" means \"a villain\", the bad character in a story, film or game who works against the main character. A real criminal can also be called \"en skurk\" (a crook).",
+  "forms": [
+   {
+    "da": "en skurk",
+    "en": "a villain"
+   },
+   {
+    "da": "skurken",
+    "en": "the villain"
+   },
+   {
+    "da": "skurke",
+    "en": "villains"
+   },
+   {
+    "da": "skurkene",
+    "en": "the villains"
+   }
+  ],
+  "related": [
+   {
+    "da": "en helt",
+    "en": "a hero"
+   },
+   {
+    "da": "en slyngel",
+    "en": "a rascal"
+   },
+   {
+    "da": "en bandit",
+    "en": "a bandit"
+   },
+   {
+    "da": "en kriminel",
+    "en": "a criminal"
+   }
+  ],
+  "sentence": {
+   "da": "Helten fanger til sidst den onde **skurk**.",
+   "en": "In the end, the hero catches the evil villain."
+  }
+ },
+ "en sky": {
+  "file": "s.json",
+  "explanation": "\"En sky\" means \"a cloud\". There is also a different word, \"sky\" (shy): \"Han er sky\" (He is shy). You can tell which one it is from the context of the sentence.",
+  "forms": [
+   {
+    "da": "en sky",
+    "en": "a cloud"
+   },
+   {
+    "da": "skyen",
+    "en": "the cloud"
+   },
+   {
+    "da": "skyer",
+    "en": "clouds"
+   },
+   {
+    "da": "skyerne",
+    "en": "the clouds"
+   }
+  ],
+  "related": [
+   {
+    "da": "en himmel",
+    "en": "a sky"
+   },
+   {
+    "da": "skyet",
+    "en": "cloudy"
+   },
+   {
+    "da": "overskyet",
+    "en": "overcast"
+   }
+  ],
+  "sentence": {
+   "da": "Der er en mørk **sky** på himlen.",
+   "en": "There is a dark cloud in the sky."
+  }
+ },
+ "en skygge": {
+  "file": "s.json",
+  "explanation": "\"En skygge\" means \"a shadow\" and also \"shade\". For a shadow: \"Solen kaster en lang skygge\" (The sun casts a long shadow). For shade: \"Jeg sidder i skyggen\" (I am sitting in the shade).",
+  "forms": [
+   {
+    "da": "en skygge",
+    "en": "a shadow"
+   },
+   {
+    "da": "skyggen",
+    "en": "the shadow"
+   },
+   {
+    "da": "skygger",
+    "en": "shadows"
+   },
+   {
+    "da": "skyggerne",
+    "en": "the shadows"
+   }
+  ],
+  "related": [
+   {
+    "da": "et lys",
+    "en": "light"
+   },
+   {
+    "da": "et mørke",
+    "en": "darkness"
+   },
+   {
+    "da": "en silhuet",
+    "en": "silhouette"
+   }
+  ],
+  "sentence": {
+   "da": "Træet giver en dejlig **skygge** på varme dage.",
+   "en": "The tree gives lovely shade on hot days."
+  }
+ },
+ "en skyskraber": {
+  "file": "s.json",
+  "explanation": "\"En skyskraber\" means \"a skyscraper\", a very tall building. The word is built the same way as in English, from sky (sky) and skrabe (to scrape).",
+  "forms": [
+   {
+    "da": "en skyskraber",
+    "en": "a skyscraper"
+   },
+   {
+    "da": "skyskraberen",
+    "en": "the skyscraper"
+   },
+   {
+    "da": "skyskrabere",
+    "en": "skyscrapers"
+   },
+   {
+    "da": "skyskraberne",
+    "en": "the skyscrapers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et højhus",
+    "en": "a high-rise"
+   },
+   {
+    "da": "et tårn",
+    "en": "a tower"
+   },
+   {
+    "da": "en boligblok",
+    "en": "an apartment block"
+   }
+  ],
+  "sentence": {
+   "da": "Fra mit hotelvindue kan jeg se en høj **skyskraber**.",
+   "en": "From my hotel window I can see a tall skyscraper."
+  }
+ },
+ "en skytte": {
+  "file": "s.json",
+  "explanation": "\"En skytte\" means \"a shooter\" and \"a marksman\", a person who shoots at a target with a gun or a bow, usually as a sport. The word names the person, while \"at skyde\" (to shoot) is the action.",
+  "forms": [
+   {
+    "da": "en skytte",
+    "en": "a shooter / marksman"
+   },
+   {
+    "da": "skytten",
+    "en": "the shooter / marksman"
+   },
+   {
+    "da": "skytter",
+    "en": "shooters / marksmen"
+   },
+   {
+    "da": "skytterne",
+    "en": "the shooters / marksmen"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bueskytte",
+    "en": "an archer"
+   },
+   {
+    "da": "en jæger",
+    "en": "a hunter"
+   },
+   {
+    "da": "en riffel",
+    "en": "a rifle"
+   },
+   {
+    "da": "en pil",
+    "en": "an arrow"
+   }
+  ],
+  "sentence": {
+   "da": "Han er en god **skytte** og rammer næsten altid skiven.",
+   "en": "He is a good shooter and almost always hits the target."
+  }
+ },
+ "en skål": {
+  "file": "s.json",
+  "explanation": "\"En skål\" means \"a bowl\". The same word is also what you say when you raise a glass: \"Skål!\" (Cheers!).",
+  "forms": [
+   {
+    "da": "en skål",
+    "en": "a bowl"
+   },
+   {
+    "da": "skålen",
+    "en": "the bowl"
+   },
+   {
+    "da": "skåle",
+    "en": "bowls"
+   },
+   {
+    "da": "skålene",
+    "en": "the bowls"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tallerken",
+    "en": "a plate"
+   },
+   {
+    "da": "en kop",
+    "en": "a cup"
+   },
+   {
+    "da": "et glas",
+    "en": "a glass"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser suppe af en **skål**.",
+   "en": "I eat soup from a bowl."
+  }
+ },
+ "en skæbne": {
+  "file": "s.json",
+  "explanation": "\"En skæbne\" means \"a fate\" or \"a destiny\", the course of a life as if it were decided in advance. It also means what finally happens to a person or thing: \"Bygningens skæbne er uvis\" (The building's fate is uncertain).",
+  "forms": [
+   {
+    "da": "en skæbne",
+    "en": "a fate / destiny"
+   },
+   {
+    "da": "skæbnen",
+    "en": "the fate / destiny"
+   },
+   {
+    "da": "skæbner",
+    "en": "fates / destinies"
+   },
+   {
+    "da": "skæbnerne",
+    "en": "the fates / destinies"
+   }
+  ],
+  "related": [
+   {
+    "da": "et held",
+    "en": "luck"
+   },
+   {
+    "da": "en tilfældighed",
+    "en": "a coincidence"
+   },
+   {
+    "da": "et tilfælde",
+    "en": "a chance"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tror ikke på **skæbne**, kun på hårdt arbejde.",
+   "en": "I do not believe in fate, only in hard work."
+  }
+ },
+ "en skærm": {
+  "file": "s.json",
+  "explanation": "\"En skærm\" means \"a screen\", on a computer, phone or TV. A cinema uses \"et lærred\" (a canvas, also a movie screen) instead.",
+  "forms": [
+   {
+    "da": "en skærm",
+    "en": "a screen"
+   },
+   {
+    "da": "skærmen",
+    "en": "the screen"
+   },
+   {
+    "da": "skærme",
+    "en": "screens"
+   },
+   {
+    "da": "skærmene",
+    "en": "the screens"
+   }
+  ],
+  "related": [
+   {
+    "da": "en touchskærm",
+    "en": "a touch screen"
+   },
+   {
+    "da": "et fjernsyn",
+    "en": "a TV"
+   },
+   {
+    "da": "en monitor",
+    "en": "a monitor"
+   },
+   {
+    "da": "en skærmtid",
+    "en": "screen time"
+   }
+  ],
+  "sentence": {
+   "da": "Min computer har en stor **skærm**.",
+   "en": "My computer has a big screen."
+  }
+ },
+ "en skøjte": {
+  "file": "s.json",
+  "explanation": "\"En skøjte\" means \"a skate\", a boot with a thin metal blade underneath, for gliding on ice. To say you ice skate, Danes say \"at løbe på skøjter\" (to ice skate, literally \"to run on skates\").",
+  "forms": [
+   {
+    "da": "en skøjte",
+    "en": "a skate"
+   },
+   {
+    "da": "skøjten",
+    "en": "the skate"
+   },
+   {
+    "da": "skøjter",
+    "en": "skates"
+   },
+   {
+    "da": "skøjterne",
+    "en": "the skates"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rulleskøjte",
+    "en": "a roller skate"
+   },
+   {
+    "da": "en skøjtebane",
+    "en": "an ice rink"
+   },
+   {
+    "da": "en ski",
+    "en": "a ski"
+   },
+   {
+    "da": "en hockeystav",
+    "en": "a hockey stick"
+   }
+  ],
+  "sentence": {
+   "da": "Man tager en **skøjte** på hver fod og glider hen over isen.",
+   "en": "You put a skate on each foot and glide across the ice."
+  }
+ },
+ "en skøjtebane": {
+  "file": "s.json",
+  "explanation": "\"En skøjtebane\" means \"an ice rink\", a flat area of ice where people skate. Some towns set one up outdoors in winter. It is built from skøjte (skate) and bane (rink, court).",
+  "forms": [
+   {
+    "da": "en skøjtebane",
+    "en": "an ice rink"
+   },
+   {
+    "da": "skøjtebanen",
+    "en": "the ice rink"
+   },
+   {
+    "da": "skøjtebaner",
+    "en": "ice rinks"
+   },
+   {
+    "da": "skøjtebanerne",
+    "en": "the ice rinks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ishal",
+    "en": "an indoor ice rink"
+   },
+   {
+    "da": "en ishockeybane",
+    "en": "a hockey rink"
+   },
+   {
+    "da": "en rulleskøjtebane",
+    "en": "a roller rink"
+   }
+  ],
+  "sentence": {
+   "da": "Om vinteren fryser de vandet til en **skøjtebane** i parken.",
+   "en": "In winter they freeze the water into an ice rink in the park."
+  }
+ },
+ "en skønhed": {
+  "file": "s.json",
+  "explanation": "\"En skønhed\" means \"a beauty\", either the quality of being beautiful or a beautiful person or thing.",
+  "forms": [
+   {
+    "da": "en skønhed",
+    "en": "a beauty"
+   },
+   {
+    "da": "skønheden",
+    "en": "the beauty"
+   },
+   {
+    "da": "skønheder",
+    "en": "beauties"
+   },
+   {
+    "da": "skønhederne",
+    "en": "the beauties"
+   }
+  ],
+  "related": [
+   {
+    "da": "skøn",
+    "en": "lovely"
+   },
+   {
+    "da": "smuk",
+    "en": "beautiful"
+   },
+   {
+    "da": "grim",
+    "en": "ugly"
+   },
+   {
+    "da": "en skønhedssalon",
+    "en": "a beauty salon"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg elsker naturens **skønhed**.",
+   "en": "I love the beauty of nature."
+  }
+ },
+ "en skønhedssalon": {
+  "file": "s.json",
+  "explanation": "\"En skønhedssalon\" means \"a beauty salon\", a place where trained staff treat your face, hands and feet. Cutting hair is the job of \"en frisør\" (a hairdresser).",
+  "forms": [
+   {
+    "da": "en skønhedssalon",
+    "en": "a beauty salon"
+   },
+   {
+    "da": "skønhedssalonen",
+    "en": "the beauty salon"
+   },
+   {
+    "da": "skønhedssaloner",
+    "en": "beauty salons"
+   },
+   {
+    "da": "skønhedssalonerne",
+    "en": "the beauty salons"
+   }
+  ],
+  "related": [
+   {
+    "da": "en negleklinik",
+    "en": "a nail clinic"
+   },
+   {
+    "da": "en kosmetolog",
+    "en": "a beautician"
+   },
+   {
+    "da": "en massør",
+    "en": "a massage therapist"
+   },
+   {
+    "da": "et spa",
+    "en": "a spa"
+   }
+  ],
+  "sentence": {
+   "da": "I en **skønhedssalon** kan man få lakeret neglene.",
+   "en": "In a beauty salon you can have your nails painted."
+  }
+ },
+ "en slags": {
+  "file": "s.json",
+  "explanation": "\"En slags\" means \"a kind of\" and \"a sort of\". It is always \"en slags\", even before et-words: \"en slags værelse\" (a kind of room).",
+  "forms": [
+   {
+    "da": "en slags kage",
+    "en": "a kind of cake"
+   },
+   {
+    "da": "en slags frugt",
+    "en": "a kind of fruit"
+   },
+   {
+    "da": "en slags spil",
+    "en": "a kind of game"
+   }
+  ],
+  "related": [
+   {
+    "da": "en type",
+    "en": "a type"
+   },
+   {
+    "da": "en art",
+    "en": "a species / kind"
+   },
+   {
+    "da": "en kategori",
+    "en": "a category"
+   }
+  ],
+  "sentence": {
+   "da": "Han bor i en **slags** hytte ved søen.",
+   "en": "He lives in a kind of cabin by the lake."
+  }
+ },
+ "en slagter": {
+  "file": "s.json",
+  "explanation": "\"En slagter\" means \"a butcher\", someone who cuts up meat and sells it in a shop.",
+  "forms": [
+   {
+    "da": "en slagter",
+    "en": "a butcher"
+   },
+   {
+    "da": "slagteren",
+    "en": "the butcher"
+   },
+   {
+    "da": "slagtere",
+    "en": "butchers"
+   },
+   {
+    "da": "slagterne",
+    "en": "the butchers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en bager",
+    "en": "a baker"
+   },
+   {
+    "da": "en fiskehandler",
+    "en": "a fishmonger"
+   },
+   {
+    "da": "at slagte",
+    "en": "to slaughter"
+   }
+  ],
+  "sentence": {
+   "da": "Min onkel er **slagter** og sælger kød.",
+   "en": "My uncle is a butcher and sells meat."
+  }
+ },
+ "en slange": {
+  "file": "s.json",
+  "explanation": "\"En slange\" means \"a snake\". The same word also means \"a hose\": \"en haveslange\" (a garden hose).",
+  "forms": [
+   {
+    "da": "en slange",
+    "en": "a snake"
+   },
+   {
+    "da": "slangen",
+    "en": "the snake"
+   },
+   {
+    "da": "slanger",
+    "en": "snakes"
+   },
+   {
+    "da": "slangerne",
+    "en": "the snakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hugorm",
+    "en": "an adder"
+   },
+   {
+    "da": "en øgle",
+    "en": "a lizard"
+   },
+   {
+    "da": "en krokodille",
+    "en": "a crocodile"
+   },
+   {
+    "da": "en skildpadde",
+    "en": "a turtle"
+   }
+  ],
+  "sentence": {
+   "da": "En **slange** har ingen ben og kryber på jorden.",
+   "en": "A snake has no legs and crawls on the ground."
+  }
+ },
+ "en slave": {
+  "file": "s.json",
+  "explanation": "\"En slave\" means \"a slave\", a person who is owned by someone else and forced to work without pay. It can also describe someone who works far too hard: \"Han er slave af sit arbejde\" (He is a slave to his job).",
+  "forms": [
+   {
+    "da": "en slave",
+    "en": "a slave"
+   },
+   {
+    "da": "slaven",
+    "en": "the slave"
+   },
+   {
+    "da": "slaver",
+    "en": "slaves"
+   },
+   {
+    "da": "slaverne",
+    "en": "the slaves"
+   }
+  ],
+  "related": [
+   {
+    "da": "et slaveri",
+    "en": "slavery"
+   },
+   {
+    "da": "en frihed",
+    "en": "freedom"
+   },
+   {
+    "da": "en herre",
+    "en": "a master"
+   },
+   {
+    "da": "en træl",
+    "en": "a thrall"
+   }
+  ],
+  "sentence": {
+   "da": "I gamle dage kunne en rig mand eje en **slave**.",
+   "en": "In the old days a rich man could own a slave."
+  }
+ },
+ "en slette": {
+  "file": "s.json",
+  "explanation": "\"En slette\" means \"a plain\", wide flat land with few or no hills. Do not mix it up with \"at slette\" (to delete), which is spelled the same: \"Jeg sletter filen\" (I delete the file).",
+  "forms": [
+   {
+    "da": "en slette",
+    "en": "a plain"
+   },
+   {
+    "da": "sletten",
+    "en": "the plain"
+   },
+   {
+    "da": "sletter",
+    "en": "plains"
+   },
+   {
+    "da": "slettene",
+    "en": "the plains"
+   }
+  ],
+  "related": [
+   {
+    "da": "en mark",
+    "en": "a field"
+   },
+   {
+    "da": "en hede",
+    "en": "a heath"
+   },
+   {
+    "da": "en bakke",
+    "en": "a hill"
+   },
+   {
+    "da": "en dal",
+    "en": "a valley"
+   }
+  ],
+  "sentence": {
+   "da": "Landet er en flad **slette** uden bjerge.",
+   "en": "The land is a flat plain without mountains."
+  }
+ },
+ "en slikbutik": {
+  "file": "s.json",
+  "explanation": "\"En slikbutik\" means \"a candy store\", a shop that sells sweets. It is built from slik (candy) and butik (shop).",
+  "forms": [
+   {
+    "da": "en slikbutik",
+    "en": "a candy store"
+   },
+   {
+    "da": "slikbutikken",
+    "en": "the candy store"
+   },
+   {
+    "da": "slikbutikker",
+    "en": "candy stores"
+   },
+   {
+    "da": "slikbutikkerne",
+    "en": "the candy stores"
+   }
+  ],
+  "related": [
+   {
+    "da": "et bolsje",
+    "en": "a hard candy"
+   },
+   {
+    "da": "en chokolade",
+    "en": "a chocolate"
+   },
+   {
+    "da": "en kiosk",
+    "en": "a kiosk"
+   }
+  ],
+  "sentence": {
+   "da": "I en **slikbutik** kan du købe slik og chokolade.",
+   "en": "In a candy store you can buy candy and chocolate."
+  }
+ },
+ "en slikpind": {
+  "file": "s.json",
+  "explanation": "\"En slikpind\" means \"a lollipop\". It is built from slik (candy) and pind (stick), and \"pind\" is also in \"spisepinde\" (chopsticks).",
+  "forms": [
+   {
+    "da": "en slikpind",
+    "en": "a lollipop"
+   },
+   {
+    "da": "slikpinden",
+    "en": "the lollipop"
+   },
+   {
+    "da": "slikpinde",
+    "en": "lollipops"
+   },
+   {
+    "da": "slikpindene",
+    "en": "the lollipops"
+   }
+  ],
+  "related": [
+   {
+    "da": "en slikkepind",
+    "en": "a lollipop (another spelling)"
+   },
+   {
+    "da": "et bolsje",
+    "en": "a hard candy"
+   },
+   {
+    "da": "en karamel",
+    "en": "a caramel"
+   }
+  ],
+  "sentence": {
+   "da": "Barnet slikker på en **slikpind**.",
+   "en": "The child licks a lollipop."
+  }
+ },
+ "en slutning": {
+  "file": "s.json",
+  "explanation": "\"En slutning\" means \"an ending\", for example of a film or a book. It is built from at slutte (to end).",
+  "forms": [
+   {
+    "da": "en slutning",
+    "en": "an ending"
+   },
+   {
+    "da": "slutningen",
+    "en": "the ending"
+   },
+   {
+    "da": "slutninger",
+    "en": "endings"
+   },
+   {
+    "da": "slutningerne",
+    "en": "the endings"
+   }
+  ],
+  "related": [
+   {
+    "da": "en begyndelse",
+    "en": "a beginning"
+   },
+   {
+    "da": "en afslutning",
+    "en": "a conclusion"
+   },
+   {
+    "da": "en ende",
+    "en": "an end"
+   },
+   {
+    "da": "til sidst",
+    "en": "in the end"
+   }
+  ],
+  "sentence": {
+   "da": "Filmen har en meget sjov **slutning**.",
+   "en": "The film has a very funny ending."
+  }
+ },
+ "en slægt": {
+  "file": "s.json",
+  "explanation": "\"En slægt\" means \"a family line\" and \"a lineage\", all the people in a family across many generations, going back to a common start. In biology, it also means \"genus\", a group of closely related kinds of plants or animals.",
+  "forms": [
+   {
+    "da": "en slægt",
+    "en": "a family line / lineage"
+   },
+   {
+    "da": "slægten",
+    "en": "the family line / lineage"
+   },
+   {
+    "da": "slægter",
+    "en": "family lines / lineages"
+   },
+   {
+    "da": "slægterne",
+    "en": "the family lines / lineages"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forfader",
+    "en": "an ancestor"
+   },
+   {
+    "da": "en efterkommer",
+    "en": "a descendant"
+   },
+   {
+    "da": "en slægtning",
+    "en": "a relative"
+   },
+   {
+    "da": "en stamtavle",
+    "en": "a pedigree chart"
+   }
+  ],
+  "sentence": {
+   "da": "Vores **slægt** har boet på samme gård i mange generationer.",
+   "en": "Our family line has lived on the same farm for many generations."
+  }
+ },
+ "en slægtning": {
+  "file": "s.json",
+  "explanation": "\"En slægtning\" means \"a relative\", a person in your wider family.",
+  "forms": [
+   {
+    "da": "en slægtning",
+    "en": "a relative"
+   },
+   {
+    "da": "slægtningen",
+    "en": "the relative"
+   },
+   {
+    "da": "slægtninge",
+    "en": "relatives"
+   },
+   {
+    "da": "slægtningene",
+    "en": "the relatives"
+   }
+  ],
+  "related": [
+   {
+    "da": "en familie",
+    "en": "a family"
+   },
+   {
+    "da": "en slægt",
+    "en": "a family line"
+   },
+   {
+    "da": "et familiemedlem",
+    "en": "a family member"
+   },
+   {
+    "da": "et søskendebarn",
+    "en": "a cousin"
+   }
+  ],
+  "sentence": {
+   "da": "En **slægtning** fra Norge kommer på besøg i morgen.",
+   "en": "A relative from Norway is coming to visit tomorrow."
+  }
+ },
+ "en smag": {
+  "file": "s.json",
+  "explanation": "\"En smag\" means \"a taste\", the flavor of food or drink. It also means a person's taste: \"Vi har ikke samme smag\" (We do not have the same taste). The action is \"at smage\" (to taste).",
+  "forms": [
+   {
+    "da": "en smag",
+    "en": "a taste"
+   },
+   {
+    "da": "smagen",
+    "en": "the taste"
+   },
+   {
+    "da": "smage",
+    "en": "tastes"
+   },
+   {
+    "da": "smagene",
+    "en": "the tastes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lugt",
+    "en": "a smell"
+   },
+   {
+    "da": "sød",
+    "en": "sweet"
+   },
+   {
+    "da": "sur",
+    "en": "sour"
+   },
+   {
+    "da": "bitter",
+    "en": "bitter"
+   }
+  ],
+  "sentence": {
+   "da": "Suppen har en dejlig **smag** af hvidløg.",
+   "en": "The soup has a lovely taste of garlic."
+  }
+ },
+ "en smagsprøve": {
+  "file": "s.json",
+  "explanation": "\"En smagsprøve\" means \"a taste\" and \"a sample\", a small amount of food or drink you try before you decide to buy. Stores and markets often hand them out for free.",
+  "forms": [
+   {
+    "da": "en smagsprøve",
+    "en": "a taste / sample"
+   },
+   {
+    "da": "smagsprøven",
+    "en": "the taste / sample"
+   },
+   {
+    "da": "smagsprøver",
+    "en": "tastes / samples"
+   },
+   {
+    "da": "smagsprøverne",
+    "en": "the tastes / samples"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vinsmagning",
+    "en": "a wine tasting"
+   },
+   {
+    "da": "en bid",
+    "en": "a bite"
+   },
+   {
+    "da": "en slurk",
+    "en": "a sip"
+   },
+   {
+    "da": "at smage",
+    "en": "to taste"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg fik en **smagsprøve** af osten og købte et stykke.",
+   "en": "I got a taste of the cheese and bought a piece."
+  }
+ },
+ "en smartphone": {
+  "file": "s.json",
+  "explanation": "\"En smartphone\" means \"a smartphone\". \"En mobil\" (a mobile phone) is the shorter everyday word and can mean any mobile phone.",
+  "forms": [
+   {
+    "da": "en smartphone",
+    "en": "a smartphone"
+   },
+   {
+    "da": "smartphonen",
+    "en": "the smartphone"
+   },
+   {
+    "da": "smartphones",
+    "en": "smartphones"
+   },
+   {
+    "da": "smartphonerne",
+    "en": "the smartphones"
+   }
+  ],
+  "related": [
+   {
+    "da": "en telefon",
+    "en": "a phone"
+   },
+   {
+    "da": "en computer",
+    "en": "a computer"
+   },
+   {
+    "da": "en oplader",
+    "en": "a charger"
+   }
+  ],
+  "sentence": {
+   "da": "Min **smartphone** har internet og kamera.",
+   "en": "My smartphone has internet and a camera."
+  }
+ },
+ "en smed": {
+  "file": "s.json",
+  "explanation": "\"En smed\" means \"a smith\", a person who shapes metal after heating it until it is soft. Plain \"smed\" mostly means \"a blacksmith\", who works with iron. With a metal in front, it names a specialist: \"en guldsmed\" (a goldsmith).",
+  "forms": [
+   {
+    "da": "en smed",
+    "en": "a smith"
+   },
+   {
+    "da": "smeden",
+    "en": "the smith"
+   },
+   {
+    "da": "smede",
+    "en": "smiths"
+   },
+   {
+    "da": "smedene",
+    "en": "the smiths"
+   }
+  ],
+  "related": [
+   {
+    "da": "en smedje",
+    "en": "a forge"
+   },
+   {
+    "da": "en ambolt",
+    "en": "an anvil"
+   },
+   {
+    "da": "en hammer",
+    "en": "a hammer"
+   },
+   {
+    "da": "en hestesko",
+    "en": "a horseshoe"
+   }
+  ],
+  "sentence": {
+   "da": "En **smed** varmer jernet og former det med en hammer.",
+   "en": "A smith heats the iron and shapes it with a hammer."
+  }
+ },
+ "en smerte": {
+  "file": "s.json",
+  "explanation": "\"En smerte\" means \"a pain\". It is mostly used in the plural: \"Jeg har smerter\" (I am in pain). For a pain in one place, Danes often say \"ondt\" (pain), as in \"Jeg har ondt i hovedet\" (My head hurts, literally \"I have pain in the head\").",
+  "forms": [
+   {
+    "da": "en smerte",
+    "en": "a pain"
+   },
+   {
+    "da": "smerten",
+    "en": "the pain"
+   },
+   {
+    "da": "smerter",
+    "en": "pains"
+   },
+   {
+    "da": "smerterne",
+    "en": "the pains"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hovedpine",
+    "en": "a headache"
+   },
+   {
+    "da": "en mavepine",
+    "en": "a stomachache"
+   },
+   {
+    "da": "en tandpine",
+    "en": "a toothache"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har en skarp **smerte** i foden.",
+   "en": "I have a sharp pain in my foot."
+  }
+ },
+ "en smoothie": {
+  "file": "s.json",
+  "explanation": "\"En smoothie\" means \"a smoothie\", a thick drink made of blended fruit.",
+  "forms": [
+   {
+    "da": "en smoothie",
+    "en": "a smoothie"
+   },
+   {
+    "da": "smoothien",
+    "en": "the smoothie"
+   },
+   {
+    "da": "smoothier",
+    "en": "smoothies"
+   },
+   {
+    "da": "smoothierne",
+    "en": "the smoothies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en milkshake",
+    "en": "a milkshake"
+   },
+   {
+    "da": "en juice",
+    "en": "a juice"
+   },
+   {
+    "da": "en frugtsaft",
+    "en": "a fruit juice"
+   }
+  ],
+  "sentence": {
+   "da": "Til morgenmad drikker jeg en **smoothie** med bær.",
+   "en": "For breakfast I drink a smoothie with berries."
+  }
+ },
+ "en sms": {
+  "file": "s.json",
+  "explanation": "\"En sms\" means \"a text message\", said es-em-es. For messages in chat apps, Danes usually say \"en besked\" (a message).",
+  "forms": [
+   {
+    "da": "en sms",
+    "en": "a text message"
+   },
+   {
+    "da": "smsen",
+    "en": "the text message"
+   },
+   {
+    "da": "sms'er",
+    "en": "text messages"
+   },
+   {
+    "da": "sms'erne",
+    "en": "the text messages"
+   }
+  ],
+  "related": [
+   {
+    "da": "at sms'e",
+    "en": "to text"
+   },
+   {
+    "da": "en mail",
+    "en": "an email"
+   },
+   {
+    "da": "et opkald",
+    "en": "a phone call"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skriver en kort **sms** til dig.",
+   "en": "I write a short text message to you."
+  }
+ },
+ "en småkage": {
+  "file": "s.json",
+  "explanation": "\"En småkage\" means \"a cookie\" or \"a biscuit\", a small sweet treat. It is built from små (small) and kage (cake), and the same \"kage\" ends \"en lagkage\" (a layer cake).",
+  "forms": [
+   {
+    "da": "en småkage",
+    "en": "a cookie / biscuit"
+   },
+   {
+    "da": "småkagen",
+    "en": "the cookie"
+   },
+   {
+    "da": "småkager",
+    "en": "cookies"
+   },
+   {
+    "da": "småkagerne",
+    "en": "the cookies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kiks",
+    "en": "a cracker / biscuit"
+   },
+   {
+    "da": "en brunkage",
+    "en": "a ginger cookie"
+   },
+   {
+    "da": "en pebernød",
+    "en": "a small spiced Christmas cookie"
+   },
+   {
+    "da": "en vaniljekrans",
+    "en": "a vanilla ring cookie"
+   }
+  ],
+  "sentence": {
+   "da": "Må jeg få en **småkage** til min te?",
+   "en": "May I have a cookie with my tea?"
+  }
+ },
+ "en smørkniv": {
+  "file": "s.json",
+  "explanation": "\"En smørkniv\" means \"a butter knife\", the blunt knife for spreading butter on bread.",
+  "forms": [
+   {
+    "da": "en smørkniv",
+    "en": "a butter knife"
+   },
+   {
+    "da": "smørkniven",
+    "en": "the butter knife"
+   },
+   {
+    "da": "smørknive",
+    "en": "butter knives"
+   },
+   {
+    "da": "smørknivene",
+    "en": "the butter knives"
+   }
+  ],
+  "related": [
+   {
+    "da": "en brødkniv",
+    "en": "a bread knife"
+   },
+   {
+    "da": "en osteskærer",
+    "en": "a cheese slicer"
+   },
+   {
+    "da": "en gaffel",
+    "en": "a fork"
+   }
+  ],
+  "sentence": {
+   "da": "Giv mig en **smørkniv** til brødet.",
+   "en": "Give me a butter knife for the bread."
+  }
+ },
+ "en snack": {
+  "file": "s.json",
+  "explanation": "\"En snack\" means \"a snack\", a small amount of food that is not a full meal. Another way to say it is \"en bid mad\" (a bite of food).",
+  "forms": [
+   {
+    "da": "en snack",
+    "en": "a snack"
+   },
+   {
+    "da": "snacken",
+    "en": "the snack"
+   },
+   {
+    "da": "snacks",
+    "en": "snacks"
+   }
+  ],
+  "related": [
+   {
+    "da": "et måltid",
+    "en": "a meal"
+   },
+   {
+    "da": "et mellemmåltid",
+    "en": "a snack between meals"
+   },
+   {
+    "da": "en frokost",
+    "en": "a lunch"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg spiser en **snack** før middag.",
+   "en": "I eat a snack before dinner."
+  }
+ },
+ "en snaps": {
+  "file": "s.json",
+  "explanation": "\"En snaps\" means \"a schnapps\", a strong, clear drink served ice cold in a very small glass, often with herring or at holiday meals. The word covers both the drink and one small glass of it: \"Vi tager en snaps\" (We have a schnapps).",
+  "forms": [
+   {
+    "da": "en snaps",
+    "en": "a schnapps"
+   },
+   {
+    "da": "snapsen",
+    "en": "the schnapps"
+   },
+   {
+    "da": "snapse",
+    "en": "schnapps"
+   },
+   {
+    "da": "snapsene",
+    "en": "the schnapps"
+   }
+  ],
+  "related": [
+   {
+    "da": "en akvavit",
+    "en": "an aquavit"
+   },
+   {
+    "da": "et brændevin",
+    "en": "a distilled spirit"
+   },
+   {
+    "da": "en likør",
+    "en": "a liqueur"
+   },
+   {
+    "da": "en øl",
+    "en": "a beer"
+   }
+  ],
+  "sentence": {
+   "da": "Til frokost drikker mange en lille, kold **snaps** til sild.",
+   "en": "At lunch many people drink a small, cold schnapps with herring."
+  }
+ },
+ "en sneaker": {
+  "file": "s.json",
+  "explanation": "\"En sneaker\" means \"a sneaker\", a casual shoe you can wear for sport or every day. It is mostly used in the plural: \"Jeg har hvide sneakers på\" (I am wearing white sneakers).",
+  "forms": [
+   {
+    "da": "en sneaker",
+    "en": "a sneaker"
+   },
+   {
+    "da": "sneakeren",
+    "en": "the sneaker"
+   },
+   {
+    "da": "sneakers",
+    "en": "sneakers"
+   },
+   {
+    "da": "sneakerne",
+    "en": "the sneakers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sko",
+    "en": "a shoe"
+   },
+   {
+    "da": "en støvle",
+    "en": "a boot"
+   },
+   {
+    "da": "en sandal",
+    "en": "a sandal"
+   },
+   {
+    "da": "en træningssko",
+    "en": "a training shoe"
+   }
+  ],
+  "sentence": {
+   "da": "En **sneaker** er en blød sko med gummisål.",
+   "en": "A sneaker is a soft shoe with a rubber sole."
+  }
+ },
+ "en snedker": {
+  "file": "s.json",
+  "explanation": "\"En snedker\" means \"a joiner\" and \"a cabinetmaker\", a craftsman who makes fine woodwork such as tables, doors and shelves in a workshop. Someone who builds roofs and the wooden frames of houses is \"en tømrer\" (a carpenter).",
+  "forms": [
+   {
+    "da": "en snedker",
+    "en": "a joiner / cabinetmaker"
+   },
+   {
+    "da": "snedkeren",
+    "en": "the joiner / cabinetmaker"
+   },
+   {
+    "da": "snedkere",
+    "en": "joiners / cabinetmakers"
+   },
+   {
+    "da": "snedkerne",
+    "en": "the joiners / cabinetmakers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en møbelsnedker",
+    "en": "a furniture maker"
+   },
+   {
+    "da": "en høvl",
+    "en": "a plane"
+   },
+   {
+    "da": "en sav",
+    "en": "a saw"
+   },
+   {
+    "da": "en lærling",
+    "en": "an apprentice"
+   }
+  ],
+  "sentence": {
+   "da": "Vores **snedker** har bygget et nyt køkken til os.",
+   "en": "Our joiner has built a new kitchen for us."
+  }
+ },
+ "en snegl": {
+  "file": "s.json",
+  "explanation": "\"En snegl\" means \"a snail\" and \"a slug\": Danish uses one word for both. At the bakery, \"en snegl\" is also a spiral-shaped pastry.",
+  "forms": [
+   {
+    "da": "en snegl",
+    "en": "a snail / slug"
+   },
+   {
+    "da": "sneglen",
+    "en": "the snail / slug"
+   },
+   {
+    "da": "snegle",
+    "en": "snails / slugs"
+   },
+   {
+    "da": "sneglene",
+    "en": "the snails / slugs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kanelsnegl",
+    "en": "a cinnamon swirl"
+   },
+   {
+    "da": "et sneglehus",
+    "en": "a snail shell"
+   },
+   {
+    "da": "en vinbjergsnegl",
+    "en": "a Roman snail"
+   }
+  ],
+  "sentence": {
+   "da": "En **snegl** bærer sit hus på ryggen og bevæger sig langsomt.",
+   "en": "A snail carries its house on its back and moves slowly."
+  }
+ },
+ "en snemand": {
+  "file": "s.json",
+  "explanation": "\"En snemand\" means \"a snowman\", built from sne (snow) and mand (man).",
+  "forms": [
+   {
+    "da": "en snemand",
+    "en": "a snowman"
+   },
+   {
+    "da": "snemanden",
+    "en": "the snowman"
+   },
+   {
+    "da": "snemænd",
+    "en": "snowmen"
+   },
+   {
+    "da": "snemændene",
+    "en": "the snowmen"
+   }
+  ],
+  "related": [
+   {
+    "da": "en snebold",
+    "en": "a snowball"
+   },
+   {
+    "da": "et snefnug",
+    "en": "a snowflake"
+   },
+   {
+    "da": "et snefald",
+    "en": "a snowfall"
+   },
+   {
+    "da": "en sneboldkamp",
+    "en": "a snowball fight"
+   }
+  ],
+  "sentence": {
+   "da": "Børnene bygger en stor **snemand** i haven.",
+   "en": "The children are building a big snowman in the yard."
+  }
+ },
+ "en snerydning": {
+  "file": "s.json",
+  "explanation": "\"En snerydning\" means \"snow removal\", the work of clearing snow from roads and paths.",
+  "forms": [
+   {
+    "da": "en snerydning",
+    "en": "a snow removal"
+   },
+   {
+    "da": "snerydningen",
+    "en": "the snow removal"
+   },
+   {
+    "da": "snerydninger",
+    "en": "snow removals"
+   },
+   {
+    "da": "snerydningerne",
+    "en": "the snow removals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sneplov",
+    "en": "a snowplow"
+   },
+   {
+    "da": "et snefald",
+    "en": "a snowfall"
+   },
+   {
+    "da": "et glatføre",
+    "en": "slippery ground"
+   },
+   {
+    "da": "at salte",
+    "en": "to salt"
+   }
+  ],
+  "sentence": {
+   "da": "Byen sørger for **snerydning** på de store veje.",
+   "en": "The city takes care of snow removal on the big roads."
+  }
+ },
+ "en snestorm": {
+  "file": "s.json",
+  "explanation": "\"En snestorm\" means \"a snowstorm\". It is built from sne (snow) and storm (storm), and \"storm\" also ends \"en tordenstorm\" (a thunderstorm).",
+  "forms": [
+   {
+    "da": "en snestorm",
+    "en": "a snowstorm"
+   },
+   {
+    "da": "snestormen",
+    "en": "the snowstorm"
+   },
+   {
+    "da": "snestorme",
+    "en": "snowstorms"
+   },
+   {
+    "da": "snestormene",
+    "en": "the snowstorms"
+   }
+  ],
+  "related": [
+   {
+    "da": "en snefygning",
+    "en": "blowing snow"
+   },
+   {
+    "da": "et snefald",
+    "en": "a snowfall"
+   },
+   {
+    "da": "en orkan",
+    "en": "a hurricane"
+   }
+  ],
+  "sentence": {
+   "da": "Der kom en kraftig **snestorm** i nat.",
+   "en": "A strong snowstorm came last night."
+  }
+ },
+ "en snigskytte": {
+  "file": "s.json",
+  "explanation": "\"En snigskytte\" means \"a sniper\", a marksman who stays hidden and shoots at a target from far away. The first part comes from \"at snige\" (to sneak).",
+  "forms": [
+   {
+    "da": "en snigskytte",
+    "en": "a sniper"
+   },
+   {
+    "da": "snigskytten",
+    "en": "the sniper"
+   },
+   {
+    "da": "snigskytter",
+    "en": "snipers"
+   },
+   {
+    "da": "snigskytterne",
+    "en": "the snipers"
+   }
+  ],
+  "related": [
+   {
+    "da": "et gevær",
+    "en": "a rifle"
+   },
+   {
+    "da": "en soldat",
+    "en": "a soldier"
+   },
+   {
+    "da": "en skarpskytte",
+    "en": "a sharpshooter"
+   }
+  ],
+  "sentence": {
+   "da": "Soldaten blev ramt af en **snigskytte** fra et hustag.",
+   "en": "The soldier was hit by a sniper from a rooftop."
+  }
+ },
+ "en snog": {
+  "file": "s.json",
+  "explanation": "\"En snog\" means \"a grass snake\", a snake with a yellow patch behind its head that is often found near water and in gardens.",
+  "forms": [
+   {
+    "da": "en snog",
+    "en": "a grass snake"
+   },
+   {
+    "da": "snogen",
+    "en": "the grass snake"
+   },
+   {
+    "da": "snoge",
+    "en": "grass snakes"
+   },
+   {
+    "da": "snogene",
+    "en": "the grass snakes"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hugorm",
+    "en": "an adder"
+   },
+   {
+    "da": "et firben",
+    "en": "a lizard"
+   },
+   {
+    "da": "en tudse",
+    "en": "a toad"
+   },
+   {
+    "da": "en frø",
+    "en": "a frog"
+   }
+  ],
+  "sentence": {
+   "da": "Den ufarlige **snog** svømmer over søen.",
+   "en": "The harmless grass snake swims across the lake."
+  }
+ },
+ "en snor": {
+  "file": "s.json",
+  "explanation": "\"En snor\" means \"a string\" or \"a cord\", thin and light. It can also be a dog leash: \"Hunden skal i snor\" (The dog must be on a leash).",
+  "forms": [
+   {
+    "da": "en snor",
+    "en": "a string / cord"
+   },
+   {
+    "da": "snoren",
+    "en": "the string / cord"
+   },
+   {
+    "da": "snore",
+    "en": "strings / cords"
+   },
+   {
+    "da": "snorene",
+    "en": "the strings / cords"
+   }
+  ],
+  "related": [
+   {
+    "da": "et reb",
+    "en": "a rope"
+   },
+   {
+    "da": "en tråd",
+    "en": "a thread"
+   },
+   {
+    "da": "et bånd",
+    "en": "a ribbon"
+   },
+   {
+    "da": "en line",
+    "en": "a line"
+   }
+  ],
+  "sentence": {
+   "da": "Hun bandt en **snor** om pakken.",
+   "en": "She tied a string around the package."
+  }
+ },
+ "en socialrådgiver": {
+  "file": "s.json",
+  "explanation": "\"En socialrådgiver\" means \"a social worker\", a trained person who helps people in hard situations, such as families in trouble or people without work. Many work for the municipality.",
+  "forms": [
+   {
+    "da": "en socialrådgiver",
+    "en": "a social worker"
+   },
+   {
+    "da": "socialrådgiveren",
+    "en": "the social worker"
+   },
+   {
+    "da": "socialrådgivere",
+    "en": "social workers"
+   },
+   {
+    "da": "socialrådgiverne",
+    "en": "the social workers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sagsbehandler",
+    "en": "a caseworker"
+   },
+   {
+    "da": "en psykolog",
+    "en": "a psychologist"
+   },
+   {
+    "da": "en pædagog",
+    "en": "a daycare worker"
+   },
+   {
+    "da": "en kommune",
+    "en": "a municipality"
+   }
+  ],
+  "sentence": {
+   "da": "En **socialrådgiver** hjælper folk med penge og bolig.",
+   "en": "A social worker helps people with money and housing."
+  }
+ },
+ "en sodavand": {
+  "file": "s.json",
+  "explanation": "\"En sodavand\" means \"a soda\", a fizzy soft drink such as cola or lemonade. It is built from soda (soda water) and vand (water).",
+  "forms": [
+   {
+    "da": "en sodavand",
+    "en": "a soda"
+   },
+   {
+    "da": "sodavanden",
+    "en": "the soda"
+   },
+   {
+    "da": "sodavand",
+    "en": "sodas"
+   },
+   {
+    "da": "sodavandene",
+    "en": "the sodas"
+   }
+  ],
+  "related": [
+   {
+    "da": "en drik",
+    "en": "a drink"
+   },
+   {
+    "da": "en limonade",
+    "en": "a lemonade"
+   },
+   {
+    "da": "en juice",
+    "en": "a juice"
+   }
+  ],
+  "sentence": {
+   "da": "En **sodavand** er sød og har bobler.",
+   "en": "A soda is sweet and has bubbles."
+  }
+ },
+ "en sodavandsis": {
+  "file": "s.json",
+  "explanation": "\"En sodavandsis\" means \"a popsicle\", a frozen fruity ice on a stick. It is built from sodavand (soda) and is (ice).",
+  "forms": [
+   {
+    "da": "en sodavandsis",
+    "en": "a popsicle"
+   },
+   {
+    "da": "sodavandsisen",
+    "en": "the popsicle"
+   },
+   {
+    "da": "to sodavandsis",
+    "en": "two popsicles"
+   },
+   {
+    "da": "en kold sodavandsis",
+    "en": "a cold popsicle"
+   }
+  ],
+  "related": [
+   {
+    "da": "en isvaffel",
+    "en": "an ice cream cone"
+   },
+   {
+    "da": "en softice",
+    "en": "a soft serve"
+   },
+   {
+    "da": "en iskugle",
+    "en": "a scoop of ice cream"
+   }
+  ],
+  "sentence": {
+   "da": "En **sodavandsis** er frossen sodavand på en pind.",
+   "en": "A popsicle is frozen soda on a stick."
+  }
+ },
+ "en sofa": {
+  "file": "s.json",
+  "explanation": "\"En sofa\" means \"a sofa\" or \"a couch\". The low table in front of it is \"et sofabord\" (a coffee table), built from sofa and bord (table).",
+  "forms": [
+   {
+    "da": "en sofa",
+    "en": "a sofa"
+   },
+   {
+    "da": "sofaen",
+    "en": "the sofa"
+   },
+   {
+    "da": "sofaer",
+    "en": "sofas"
+   },
+   {
+    "da": "sofaerne",
+    "en": "the sofas"
+   }
+  ],
+  "related": [
+   {
+    "da": "en lænestol",
+    "en": "an armchair"
+   },
+   {
+    "da": "en sofapude",
+    "en": "a sofa cushion"
+   },
+   {
+    "da": "en stue",
+    "en": "a living room"
+   }
+  ],
+  "sentence": {
+   "da": "Vi sidder på en blød **sofa**.",
+   "en": "We sit on a soft sofa."
+  }
+ },
+ "en sok": {
+  "file": "s.json",
+  "explanation": "\"En sok\" means \"a sock\", something you wear on your foot, usually under a shoe. Socks come in twos, so you count them as \"et par sokker\" (a pair of socks).",
+  "forms": [
+   {
+    "da": "en sok",
+    "en": "a sock"
+   },
+   {
+    "da": "sokken",
+    "en": "the sock"
+   },
+   {
+    "da": "sokker",
+    "en": "socks"
+   },
+   {
+    "da": "sokkerne",
+    "en": "the socks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en strømpe",
+    "en": "a stocking / sock"
+   },
+   {
+    "da": "en sko",
+    "en": "a shoe"
+   },
+   {
+    "da": "en handske",
+    "en": "a glove"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg har en **sok** på min venstre fod.",
+   "en": "I have a sock on my left foot."
+  }
+ },
+ "en sol": {
+  "file": "s.json",
+  "explanation": "\"En sol\" means \"a sun\", but you mostly hear it as \"solen\" (the sun): \"Solen skinner\" (The sun is shining). It also starts words such as \"solskin\" (sunshine) and \"solbriller\" (sunglasses).",
+  "forms": [
+   {
+    "da": "en sol",
+    "en": "a sun"
+   },
+   {
+    "da": "solen",
+    "en": "the sun"
+   },
+   {
+    "da": "i solen",
+    "en": "in the sun"
+   }
+  ],
+  "related": [
+   {
+    "da": "en måne",
+    "en": "a moon"
+   },
+   {
+    "da": "en stjerne",
+    "en": "a star"
+   },
+   {
+    "da": "en solopgang",
+    "en": "a sunrise"
+   },
+   {
+    "da": "en solnedgang",
+    "en": "a sunset"
+   }
+  ],
+  "sentence": {
+   "da": "Der er meget **sol** i dag.",
+   "en": "There is a lot of sun today."
+  }
+ },
+ "en solcelle": {
+  "file": "s.json",
+  "explanation": "\"En solcelle\" means \"a solar cell\", the small part that catches light from the sun. Many cells side by side form \"et solcelleanlæg\" (a solar installation), found on roofs and in fields.",
+  "forms": [
+   {
+    "da": "en solcelle",
+    "en": "a solar cell"
+   },
+   {
+    "da": "solcellen",
+    "en": "the solar cell"
+   },
+   {
+    "da": "solceller",
+    "en": "solar cells"
+   },
+   {
+    "da": "solcellerne",
+    "en": "the solar cells"
+   }
+  ],
+  "related": [
+   {
+    "da": "et solpanel",
+    "en": "a solar panel"
+   },
+   {
+    "da": "en vindmølle",
+    "en": "a wind turbine"
+   },
+   {
+    "da": "en varmepumpe",
+    "en": "a heat pump"
+   },
+   {
+    "da": "et batteri",
+    "en": "a battery"
+   }
+  ],
+  "sentence": {
+   "da": "Hver **solcelle** laver sollys om til strøm.",
+   "en": "Each solar cell turns sunlight into electricity."
+  }
+ },
+ "en soldat": {
+  "file": "s.json",
+  "explanation": "\"En soldat\" means \"a soldier\", a person who serves in a country's armed forces. The stress is on the end: \"sol-DAT\".",
+  "forms": [
+   {
+    "da": "en soldat",
+    "en": "a soldier"
+   },
+   {
+    "da": "soldaten",
+    "en": "the soldier"
+   },
+   {
+    "da": "soldater",
+    "en": "soldiers"
+   },
+   {
+    "da": "soldaterne",
+    "en": "the soldiers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en hær",
+    "en": "an army"
+   },
+   {
+    "da": "en officer",
+    "en": "an officer"
+   },
+   {
+    "da": "en kriger",
+    "en": "a warrior"
+   }
+  ],
+  "sentence": {
+   "da": "En **soldat** har uniform på og kæmper for sit land.",
+   "en": "A soldier wears a uniform and fights for his country."
+  }
+ },
+ "en solhat": {
+  "file": "s.json",
+  "explanation": "\"En solhat\" means \"a sun hat\", a hat that keeps the sun off your face. It is built from sol (sun) and hat (hat).",
+  "forms": [
+   {
+    "da": "en solhat",
+    "en": "a sun hat"
+   },
+   {
+    "da": "solhatten",
+    "en": "the sun hat"
+   },
+   {
+    "da": "solhatte",
+    "en": "sun hats"
+   },
+   {
+    "da": "solhattene",
+    "en": "the sun hats"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kasket",
+    "en": "a cap"
+   },
+   {
+    "da": "en solbrille",
+    "en": "sunglasses"
+   },
+   {
+    "da": "solcreme",
+    "en": "sunscreen"
+   },
+   {
+    "da": "en hue",
+    "en": "a knit hat"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg tager min **solhat** på, når solen skinner.",
+   "en": "I put on my sun hat when the sun is shining."
+  }
+ },
+ "en solnedgang": {
+  "file": "s.json",
+  "explanation": "\"En solnedgang\" means \"a sunset\". It is built from sol (sun) and nedgang (going down), and \"nedgang\" also means a drop in numbers: \"en nedgang i priserne\" (a drop in prices).",
+  "forms": [
+   {
+    "da": "en solnedgang",
+    "en": "a sunset"
+   },
+   {
+    "da": "solnedgangen",
+    "en": "the sunset"
+   },
+   {
+    "da": "solnedgange",
+    "en": "sunsets"
+   },
+   {
+    "da": "solnedgangene",
+    "en": "the sunsets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en solopgang",
+    "en": "sunrise"
+   },
+   {
+    "da": "en solstråle",
+    "en": "sunbeam"
+   },
+   {
+    "da": "et tusmørke",
+    "en": "twilight"
+   },
+   {
+    "da": "en horisont",
+    "en": "horizon"
+   }
+  ],
+  "sentence": {
+   "da": "Vi ser en **solnedgang** fra stranden.",
+   "en": "We watch a sunset from the beach."
+  }
+ },
+ "en solopgang": {
+  "file": "s.json",
+  "explanation": "\"En solopgang\" means \"a sunrise\". It is built from sol (sun) and opgang (going up), and \"opgang\" is also the stairwell entrance of an apartment building: \"Vi bor i opgang 3\" (We live in entrance 3).",
+  "forms": [
+   {
+    "da": "en solopgang",
+    "en": "a sunrise"
+   },
+   {
+    "da": "solopgangen",
+    "en": "the sunrise"
+   },
+   {
+    "da": "solopgange",
+    "en": "sunrises"
+   },
+   {
+    "da": "solopgangene",
+    "en": "the sunrises"
+   }
+  ],
+  "related": [
+   {
+    "da": "en solnedgang",
+    "en": "sunset"
+   },
+   {
+    "da": "et daggry",
+    "en": "dawn"
+   },
+   {
+    "da": "en morgen",
+    "en": "morning"
+   }
+  ],
+  "sentence": {
+   "da": "Vi står tidligt op og ser en **solopgang**.",
+   "en": "We get up early and watch a sunrise."
+  }
+ },
+ "en solsikke": {
+  "file": "s.json",
+  "explanation": "\"En solsikke\" means \"a sunflower\", a tall plant with a big yellow head that turns toward the light.",
+  "forms": [
+   {
+    "da": "en solsikke",
+    "en": "a sunflower"
+   },
+   {
+    "da": "solsikken",
+    "en": "the sunflower"
+   },
+   {
+    "da": "solsikker",
+    "en": "sunflowers"
+   },
+   {
+    "da": "solsikkerne",
+    "en": "the sunflowers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en blomst",
+    "en": "a flower"
+   },
+   {
+    "da": "en tulipan",
+    "en": "a tulip"
+   },
+   {
+    "da": "en rose",
+    "en": "a rose"
+   }
+  ],
+  "sentence": {
+   "da": "Den høje **solsikke** vender sig mod solen.",
+   "en": "The tall sunflower turns toward the sun."
+  }
+ },
+ "en solskoldning": {
+  "file": "s.json",
+  "explanation": "\"En solskoldning\" means \"a sunburn\", red and sore skin after too long in the sun. It is built from sol (sun) and skoldning (a scald, a burn from hot liquid), so the sun is said to scald the skin.",
+  "forms": [
+   {
+    "da": "en solskoldning",
+    "en": "a sunburn"
+   },
+   {
+    "da": "solskoldningen",
+    "en": "the sunburn"
+   },
+   {
+    "da": "solskoldninger",
+    "en": "sunburns"
+   },
+   {
+    "da": "solskoldningerne",
+    "en": "the sunburns"
+   }
+  ],
+  "related": [
+   {
+    "da": "en solcreme",
+    "en": "a sunscreen"
+   },
+   {
+    "da": "en forbrænding",
+    "en": "a burn"
+   },
+   {
+    "da": "en parasol",
+    "en": "a sunshade"
+   },
+   {
+    "da": "en skygge",
+    "en": "a shade"
+   }
+  ],
+  "sentence": {
+   "da": "Hun glemte solcreme og fik en slem **solskoldning**.",
+   "en": "She forgot sunscreen and got a bad sunburn."
+  }
+ },
+ "en solsort": {
+  "file": "s.json",
+  "explanation": "\"En solsort\" means \"a blackbird\", a garden bird with a lovely song. The male is black with a yellow beak.",
+  "forms": [
+   {
+    "da": "en solsort",
+    "en": "a blackbird"
+   },
+   {
+    "da": "solsorten",
+    "en": "the blackbird"
+   },
+   {
+    "da": "solsorte",
+    "en": "blackbirds"
+   },
+   {
+    "da": "solsortene",
+    "en": "the blackbirds"
+   }
+  ],
+  "related": [
+   {
+    "da": "en spurv",
+    "en": "a sparrow"
+   },
+   {
+    "da": "en drossel",
+    "en": "a thrush"
+   },
+   {
+    "da": "en stær",
+    "en": "a starling"
+   },
+   {
+    "da": "en rødhals",
+    "en": "a robin"
+   }
+  ],
+  "sentence": {
+   "da": "En **solsort** synger i træet foran huset.",
+   "en": "A blackbird sings in the tree in front of the house."
+  }
+ },
+ "en sommelier": {
+  "file": "s.json",
+  "explanation": "\"En sommelier\" means \"a sommelier\", a wine expert in a restaurant. You mostly meet the word in fine restaurants.",
+  "forms": [
+   {
+    "da": "en sommelier",
+    "en": "a sommelier"
+   },
+   {
+    "da": "sommelieren",
+    "en": "the sommelier"
+   },
+   {
+    "da": "sommelierer",
+    "en": "sommeliers"
+   },
+   {
+    "da": "sommeliererne",
+    "en": "the sommeliers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en tjener",
+    "en": "a waiter"
+   },
+   {
+    "da": "et vinkort",
+    "en": "a wine list"
+   },
+   {
+    "da": "en vinkender",
+    "en": "a wine connoisseur"
+   },
+   {
+    "da": "en vinsmagning",
+    "en": "a wine tasting"
+   }
+  ],
+  "sentence": {
+   "da": "Vores **sommelier** anbefaler en rød vin til oksekødet.",
+   "en": "Our sommelier recommends a red wine with the beef."
+  }
+ },
+ "en sommer": {
+  "file": "s.json",
+  "explanation": "\"En sommer\" means \"a summer\", the warm season after spring and before autumn. To say \"in the summer\", use \"om sommeren\": \"Om sommeren er det lyst længe\" (In the summer it stays light late).",
+  "forms": [
+   {
+    "da": "en sommer",
+    "en": "a summer"
+   },
+   {
+    "da": "sommeren",
+    "en": "the summer"
+   },
+   {
+    "da": "somre",
+    "en": "summers"
+   },
+   {
+    "da": "somrene",
+    "en": "the summers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vinter",
+    "en": "a winter"
+   },
+   {
+    "da": "et forår",
+    "en": "a spring"
+   },
+   {
+    "da": "et efterår",
+    "en": "an autumn"
+   }
+  ],
+  "sentence": {
+   "da": "I **sommer** bader vi i havet.",
+   "en": "This summer we swim in the sea."
+  }
+ },
+ "en sommerdag": {
+  "file": "s.json",
+  "explanation": "\"En sommerdag\" means \"a summer day\". It is built from sommer (summer) and dag (day).",
+  "forms": [
+   {
+    "da": "en sommerdag",
+    "en": "a summer day"
+   },
+   {
+    "da": "sommerdagen",
+    "en": "the summer day"
+   },
+   {
+    "da": "sommerdage",
+    "en": "summer days"
+   },
+   {
+    "da": "sommerdagene",
+    "en": "the summer days"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vinterdag",
+    "en": "a winter day"
+   },
+   {
+    "da": "en forårsdag",
+    "en": "a spring day"
+   },
+   {
+    "da": "en efterårsdag",
+    "en": "a fall day"
+   },
+   {
+    "da": "en sommernat",
+    "en": "a summer night"
+   }
+  ],
+  "sentence": {
+   "da": "Det er en varm **sommerdag**, og vi svømmer i havet.",
+   "en": "It is a warm summer day, and we are swimming in the sea."
+  }
+ },
+ "en sommerferie": {
+  "file": "s.json",
+  "explanation": "\"En sommerferie\" means \"a summer vacation\". It is built from sommer (summer) and ferie (vacation), and you say \"i sommerferien\" (during the summer vacation).",
+  "forms": [
+   {
+    "da": "en sommerferie",
+    "en": "a summer vacation"
+   },
+   {
+    "da": "sommerferien",
+    "en": "the summer vacation"
+   },
+   {
+    "da": "sommerferier",
+    "en": "summer vacations"
+   },
+   {
+    "da": "sommerferierne",
+    "en": "the summer vacations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vinterferie",
+    "en": "a winter vacation"
+   },
+   {
+    "da": "en efterårsferie",
+    "en": "a fall vacation"
+   },
+   {
+    "da": "en juleferie",
+    "en": "a Christmas vacation"
+   }
+  ],
+  "sentence": {
+   "da": "I vores **sommerferie** bader vi i havet.",
+   "en": "During our summer vacation we swim in the sea."
+  }
+ },
+ "en sommerfest": {
+  "file": "s.json",
+  "explanation": "\"En sommerfest\" means \"a summer party\", a party held in the warm months, often outside.",
+  "forms": [
+   {
+    "da": "en sommerfest",
+    "en": "a summer party"
+   },
+   {
+    "da": "sommerfesten",
+    "en": "the summer party"
+   },
+   {
+    "da": "sommerfester",
+    "en": "summer parties"
+   },
+   {
+    "da": "sommerfesterne",
+    "en": "the summer parties"
+   }
+  ],
+  "related": [
+   {
+    "da": "en julefest",
+    "en": "a Christmas party"
+   },
+   {
+    "da": "en nytårsfest",
+    "en": "a New Year's party"
+   },
+   {
+    "da": "en fødselsdagsfest",
+    "en": "a birthday party"
+   },
+   {
+    "da": "en havefest",
+    "en": "a garden party"
+   }
+  ],
+  "sentence": {
+   "da": "Vi holder **sommerfest** i haven, når det er varmt.",
+   "en": "We have a summer party in the garden when it is warm."
+  }
+ },
+ "en sommerfugl": {
+  "file": "s.json",
+  "explanation": "\"En sommerfugl\" means \"a butterfly\", an insect with colorful wings that you mostly see in warm weather. It is built from sommer (summer) and fugl (bird), so it is literally a summer bird.",
+  "forms": [
+   {
+    "da": "en sommerfugl",
+    "en": "a butterfly"
+   },
+   {
+    "da": "sommerfuglen",
+    "en": "the butterfly"
+   },
+   {
+    "da": "sommerfugle",
+    "en": "butterflies"
+   },
+   {
+    "da": "sommerfuglene",
+    "en": "the butterflies"
+   }
+  ],
+  "related": [
+   {
+    "da": "et møl",
+    "en": "a moth"
+   },
+   {
+    "da": "en larve",
+    "en": "a caterpillar"
+   },
+   {
+    "da": "et insekt",
+    "en": "an insect"
+   }
+  ],
+  "sentence": {
+   "da": "En **sommerfugl** har store vinger og flyver fra blomst til blomst.",
+   "en": "A butterfly has big wings and flies from flower to flower."
+  }
+ },
+ "en sommerkjole": {
+  "file": "s.json",
+  "explanation": "\"En sommerkjole\" means \"a summer dress\", a light dress for warm days. It is built from sommer (summer) and kjole (dress).",
+  "forms": [
+   {
+    "da": "en sommerkjole",
+    "en": "a summer dress"
+   },
+   {
+    "da": "sommerkjolen",
+    "en": "the summer dress"
+   },
+   {
+    "da": "sommerkjoler",
+    "en": "summer dresses"
+   },
+   {
+    "da": "sommerkjolerne",
+    "en": "the summer dresses"
+   }
+  ],
+  "related": [
+   {
+    "da": "en festkjole",
+    "en": "a party dress"
+   },
+   {
+    "da": "en nederdel",
+    "en": "a skirt"
+   },
+   {
+    "da": "en bluse",
+    "en": "a blouse"
+   }
+  ],
+  "sentence": {
+   "da": "Hun har en gul **sommerkjole** på til festen.",
+   "en": "She is wearing a yellow summer dress to the party."
+  }
+ },
+ "en sommernat": {
+  "file": "s.json",
+  "explanation": "\"En sommernat\" means \"a summer night\". Danish summer nights are short and light: \"Det er stadig lyst klokken ti\" (It is still light at ten o'clock).",
+  "forms": [
+   {
+    "da": "en sommernat",
+    "en": "a summer night"
+   },
+   {
+    "da": "sommernatten",
+    "en": "the summer night"
+   },
+   {
+    "da": "sommernætter",
+    "en": "summer nights"
+   },
+   {
+    "da": "sommernætterne",
+    "en": "the summer nights"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vinternat",
+    "en": "a winter night"
+   },
+   {
+    "da": "en sommerdag",
+    "en": "a summer day"
+   },
+   {
+    "da": "en sommeraften",
+    "en": "a summer evening"
+   }
+  ],
+  "sentence": {
+   "da": "Vi sover med åbent vindue på en varm **sommernat**.",
+   "en": "We sleep with the window open on a warm summer night."
+  }
+ },
+ "en sosu-assistent": {
+  "file": "s.json",
+  "explanation": "\"En sosu-assistent\" means \"a health care assistant\", someone who helps sick or older people with daily care. To say that is your job, leave out \"en\": \"Hun er sosu-assistent\" (She is a health care assistant).",
+  "forms": [
+   {
+    "da": "en sosu-assistent",
+    "en": "a health care assistant"
+   },
+   {
+    "da": "sosu-assistenten",
+    "en": "the health care assistant"
+   },
+   {
+    "da": "sosu-assistenter",
+    "en": "health care assistants"
+   },
+   {
+    "da": "sosu-assistenterne",
+    "en": "the health care assistants"
+   }
+  ],
+  "related": [
+   {
+    "da": "en sygeplejerske",
+    "en": "a nurse"
+   },
+   {
+    "da": "en sosu-hjælper",
+    "en": "a health care helper"
+   },
+   {
+    "da": "en læge",
+    "en": "a doctor"
+   }
+  ],
+  "sentence": {
+   "da": "Min mor arbejder som **sosu-assistent** på et plejehjem.",
+   "en": "My mother works as a health care assistant at a nursing home."
+  }
+ },
+ "en souvenir": {
+  "file": "s.json",
+  "explanation": "\"En souvenir\" means \"a souvenir\", a small thing you bring home from a trip.",
+  "forms": [
+   {
+    "da": "en souvenir",
+    "en": "a souvenir"
+   },
+   {
+    "da": "souvenirren",
+    "en": "the souvenir"
+   },
+   {
+    "da": "souvenirer",
+    "en": "souvenirs"
+   },
+   {
+    "da": "souvenirerne",
+    "en": "the souvenirs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en gave",
+    "en": "a gift"
+   },
+   {
+    "da": "et minde",
+    "en": "a memory, a keepsake"
+   },
+   {
+    "da": "en erindring",
+    "en": "a recollection"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg købte en lille **souvenir** til min mor.",
+   "en": "I bought a small souvenir for my mother."
+  }
+ },
+ "en sovepose": {
+  "file": "s.json",
+  "explanation": "\"En sovepose\" means \"a sleeping bag\". It is built from sove (to sleep) and pose (bag). \"Sove\" also starts \"en sovesofa\" (a sofa bed) and \"et soveværelse\" (a bedroom).",
+  "forms": [
+   {
+    "da": "en sovepose",
+    "en": "a sleeping bag"
+   },
+   {
+    "da": "soveposen",
+    "en": "the sleeping bag"
+   },
+   {
+    "da": "soveposer",
+    "en": "sleeping bags"
+   },
+   {
+    "da": "soveposerne",
+    "en": "the sleeping bags"
+   }
+  ],
+  "related": [
+   {
+    "da": "et telt",
+    "en": "a tent"
+   },
+   {
+    "da": "et tæppe",
+    "en": "a blanket"
+   },
+   {
+    "da": "en dyne",
+    "en": "a duvet"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg fryser ikke, fordi min **sovepose** er varm.",
+   "en": "I am not cold because my sleeping bag is warm."
+  }
+ },
+ "en sovesofa": {
+  "file": "s.json",
+  "explanation": "\"En sovesofa\" means \"a sofa bed\", a sofa that folds out into a bed. It is built from sove (to sleep) and sofa (sofa).",
+  "forms": [
+   {
+    "da": "en sovesofa",
+    "en": "a sofa bed"
+   },
+   {
+    "da": "sovesofaen",
+    "en": "the sofa bed"
+   },
+   {
+    "da": "sovesofaer",
+    "en": "sofa beds"
+   },
+   {
+    "da": "sovesofaerne",
+    "en": "the sofa beds"
+   }
+  ],
+  "related": [
+   {
+    "da": "et gæsteværelse",
+    "en": "a guest room"
+   },
+   {
+    "da": "en madras",
+    "en": "a mattress"
+   },
+   {
+    "da": "en seng",
+    "en": "a bed"
+   }
+  ],
+  "sentence": {
+   "da": "Gæsterne kan sove i vores **sovesofa**.",
+   "en": "The guests can sleep in our sofa bed."
+  }
+ },
+ "en sovs": {
+  "file": "s.json",
+  "explanation": "\"En sovs\" means \"a sauce\" or \"gravy\". It appears in words like \"tomatsovs\" (tomato sauce). The spelling \"en sauce\" (a sauce) is also used.",
+  "forms": [
+   {
+    "da": "en sovs",
+    "en": "a sauce / gravy"
+   },
+   {
+    "da": "sovsen",
+    "en": "the sauce / the gravy"
+   },
+   {
+    "da": "sovse",
+    "en": "sauces"
+   },
+   {
+    "da": "sovsene",
+    "en": "the sauces"
+   }
+  ],
+  "related": [
+   {
+    "da": "en ketchup",
+    "en": "ketchup"
+   },
+   {
+    "da": "en sennep",
+    "en": "mustard"
+   },
+   {
+    "da": "en remoulade",
+    "en": "remoulade"
+   },
+   {
+    "da": "en dressing",
+    "en": "a dressing"
+   }
+  ],
+  "sentence": {
+   "da": "Frikadellerne smager godt med brun **sovs**.",
+   "en": "The meatballs taste good with brown gravy."
+  }
+ },
+ "en spade": {
+  "file": "s.json",
+  "explanation": "\"En spade\" means \"a spade\", a tool with a flat metal blade on a long handle. You push the blade into the ground with your foot.",
+  "forms": [
+   {
+    "da": "en spade",
+    "en": "a spade"
+   },
+   {
+    "da": "spaden",
+    "en": "the spade"
+   },
+   {
+    "da": "spader",
+    "en": "spades"
+   },
+   {
+    "da": "spaderne",
+    "en": "the spades"
+   }
+  ],
+  "related": [
+   {
+    "da": "en skovl",
+    "en": "a shovel"
+   },
+   {
+    "da": "en rive",
+    "en": "a rake"
+   },
+   {
+    "da": "en greb",
+    "en": "a garden fork"
+   },
+   {
+    "da": "en hakke",
+    "en": "a hoe"
+   }
+  ],
+  "sentence": {
+   "da": "Med en **spade** kan man grave huller i jorden.",
+   "en": "With a spade you can dig holes in the ground."
+  }
+ },
+ "en spand": {
+  "file": "s.json",
+  "explanation": "\"En spand\" means \"a bucket\", for water, sand or cleaning. Danish has no \"af\" (of) here: \"Hent en spand vand\" (Get a bucket of water).",
+  "forms": [
+   {
+    "da": "en spand",
+    "en": "a bucket"
+   },
+   {
+    "da": "spanden",
+    "en": "the bucket"
+   },
+   {
+    "da": "spande",
+    "en": "buckets"
+   },
+   {
+    "da": "spandene",
+    "en": "the buckets"
+   }
+  ],
+  "related": [
+   {
+    "da": "en balje",
+    "en": "a tub"
+   },
+   {
+    "da": "en tønde",
+    "en": "a barrel"
+   },
+   {
+    "da": "en vandkande",
+    "en": "a watering can"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg fylder en **spand** med varmt vand.",
+   "en": "I fill a bucket with hot water."
+  }
+ },
+ "en spanier": {
+  "file": "s.json",
+  "explanation": "\"En spanier\" means \"a Spaniard\", a person from Spain. For things from Spain, use \"spansk\" (Spanish) instead: \"spansk vin\" (Spanish wine) and \"spansk mad\" (Spanish food).",
+  "forms": [
+   {
+    "da": "en spanier",
+    "en": "a Spaniard"
+   },
+   {
+    "da": "spanieren",
+    "en": "the Spaniard"
+   },
+   {
+    "da": "spaniere",
+    "en": "Spaniards"
+   },
+   {
+    "da": "spanierne",
+    "en": "the Spaniards"
+   }
+  ],
+  "related": [
+   {
+    "da": "Spanien",
+    "en": "Spain"
+   },
+   {
+    "da": "en italiener",
+    "en": "an Italian"
+   },
+   {
+    "da": "en portugiser",
+    "en": "a Portuguese person"
+   }
+  ],
+  "sentence": {
+   "da": "Han er **spanier**, men han bor i Danmark nu.",
+   "en": "He is Spanish, but he lives in Denmark now."
+  }
+ },
+ "en speciallæge": {
+  "file": "s.json",
+  "explanation": "\"En speciallæge\" means \"a specialist\", a doctor with extra training in one area, such as the heart or the skin. Often you need a note from your own doctor before you can book one.",
+  "forms": [
+   {
+    "da": "en speciallæge",
+    "en": "a specialist"
+   },
+   {
+    "da": "speciallægen",
+    "en": "the specialist"
+   },
+   {
+    "da": "speciallæger",
+    "en": "specialists"
+   },
+   {
+    "da": "speciallægerne",
+    "en": "the specialists"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kirurg",
+    "en": "a surgeon"
+   },
+   {
+    "da": "en henvisning",
+    "en": "a referral"
+   },
+   {
+    "da": "en psykiater",
+    "en": "a psychiatrist"
+   },
+   {
+    "da": "en kardiolog",
+    "en": "a cardiologist"
+   }
+  ],
+  "sentence": {
+   "da": "Min egen læge sendte mig videre til en **speciallæge**.",
+   "en": "My own doctor sent me on to a specialist."
+  }
+ },
+ "en speeder": {
+  "file": "s.json",
+  "explanation": "\"En speeder\" means \"an accelerator\", the pedal you press to go faster. The pedal you use to slow down is \"en bremse\" (a brake).",
+  "forms": [
+   {
+    "da": "en speeder",
+    "en": "an accelerator"
+   },
+   {
+    "da": "speederen",
+    "en": "the accelerator"
+   },
+   {
+    "da": "speedere",
+    "en": "accelerators"
+   },
+   {
+    "da": "speederne",
+    "en": "the accelerators"
+   }
+  ],
+  "related": [
+   {
+    "da": "et gear",
+    "en": "a gear"
+   },
+   {
+    "da": "en kobling",
+    "en": "a clutch"
+   },
+   {
+    "da": "et speedometer",
+    "en": "a speedometer"
+   },
+   {
+    "da": "en gaspedal",
+    "en": "a gas pedal"
+   }
+  ],
+  "sentence": {
+   "da": "En **speeder** får bilen til at køre hurtigere.",
+   "en": "An accelerator makes the car go faster."
+  }
+ },
+ "en spejder": {
+  "file": "s.json",
+  "explanation": "\"En spejder\" means \"a scout\", a member of a youth group that learns to live and work together outdoors. It comes from \"at spejde\" (to look out).",
+  "forms": [
+   {
+    "da": "en spejder",
+    "en": "a scout"
+   },
+   {
+    "da": "spejderen",
+    "en": "the scout"
+   },
+   {
+    "da": "spejdere",
+    "en": "scouts"
+   },
+   {
+    "da": "spejderne",
+    "en": "the scouts"
+   }
+  ],
+  "related": [
+   {
+    "da": "en spejderleder",
+    "en": "a scout leader"
+   },
+   {
+    "da": "en ulveunge",
+    "en": "a Cub Scout"
+   },
+   {
+    "da": "en lejr",
+    "en": "a camp"
+   }
+  ],
+  "sentence": {
+   "da": "Som **spejder** lærer man at klare sig ude i naturen.",
+   "en": "As a scout you learn to manage out in nature."
+  }
+ },
+ "en spids": {
+  "file": "s.json",
+  "explanation": "\"En spids\" means \"a tip\" or \"a point\", the narrow end of something: \"spidsen af næsen\" (the tip of the nose). It can also be \"spids\" (pointed), like \"en spids kniv\" (a pointed knife).",
+  "forms": [
+   {
+    "da": "en spids",
+    "en": "a tip / point"
+   },
+   {
+    "da": "spidsen",
+    "en": "the tip"
+   },
+   {
+    "da": "spidser",
+    "en": "tips / points"
+   },
+   {
+    "da": "spidserne",
+    "en": "the tips"
+   }
+  ],
+  "related": [
+   {
+    "da": "en top",
+    "en": "a peak"
+   },
+   {
+    "da": "en ende",
+    "en": "an end"
+   },
+   {
+    "da": "skarp",
+    "en": "sharp"
+   },
+   {
+    "da": "en kant",
+    "en": "an edge"
+   }
+  ],
+  "sentence": {
+   "da": "Min blyant har en brækket **spids**.",
+   "en": "My pencil has a broken tip."
+  }
+ },
+ "en spidsmus": {
+  "file": "s.json",
+  "explanation": "\"En spidsmus\" means \"a shrew\", a tiny animal that looks like a mouse but has a longer, pointed nose. The name means \"pointed mouse\".",
+  "forms": [
+   {
+    "da": "en spidsmus",
+    "en": "a shrew"
+   },
+   {
+    "da": "spidsmusen",
+    "en": "the shrew"
+   },
+   {
+    "da": "spidsmus",
+    "en": "shrews"
+   },
+   {
+    "da": "spidsmusene",
+    "en": "the shrews"
+   }
+  ],
+  "related": [
+   {
+    "da": "en muldvarp",
+    "en": "a mole"
+   },
+   {
+    "da": "et pindsvin",
+    "en": "a hedgehog"
+   },
+   {
+    "da": "en rotte",
+    "en": "a rat"
+   }
+  ],
+  "sentence": {
+   "da": "En **spidsmus** spiser insekter og orme, ikke korn.",
+   "en": "A shrew eats insects and worms, not grain."
+  }
+ },
+ "en spillefilm": {
+  "file": "s.json",
+  "explanation": "\"En spillefilm\" means \"a feature film\", a full-length film in which actors play out a made-up story, unlike a film about real events.",
+  "forms": [
+   {
+    "da": "en spillefilm",
+    "en": "a feature film"
+   },
+   {
+    "da": "spillefilmen",
+    "en": "the feature film"
+   },
+   {
+    "da": "spillefilm",
+    "en": "feature films"
+   },
+   {
+    "da": "spillefilmene",
+    "en": "the feature films"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dokumentar",
+    "en": "a documentary"
+   },
+   {
+    "da": "en kortfilm",
+    "en": "a short film"
+   },
+   {
+    "da": "en tegnefilm",
+    "en": "a cartoon"
+   },
+   {
+    "da": "en tv-serie",
+    "en": "a TV series"
+   }
+  ],
+  "sentence": {
+   "da": "En **spillefilm** varer ofte halvanden time og har skuespillere.",
+   "en": "A feature film often lasts an hour and a half and has actors."
+  }
+ },
+ "en spiller": {
+  "file": "s.json",
+  "explanation": "\"En spiller\" means \"a player\" in a game or sport. It also works for music: \"en guitarspiller\" (a guitar player).",
+  "forms": [
+   {
+    "da": "en spiller",
+    "en": "a player"
+   },
+   {
+    "da": "spilleren",
+    "en": "the player"
+   },
+   {
+    "da": "spillere",
+    "en": "players"
+   },
+   {
+    "da": "spillerne",
+    "en": "the players"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spil",
+    "en": "a game"
+   },
+   {
+    "da": "en træner",
+    "en": "a coach"
+   },
+   {
+    "da": "et hold",
+    "en": "a team"
+   },
+   {
+    "da": "en målmand",
+    "en": "a goalkeeper"
+   }
+  ],
+  "sentence": {
+   "da": "En **spiller** løber efter bolden på banen.",
+   "en": "A player runs after the ball on the field."
+  }
+ },
+ "en spion": {
+  "file": "s.json",
+  "explanation": "\"En spion\" means \"a spy\", someone who secretly gets information for another country or company. The matching verb is \"at spionere\" (to spy).",
+  "forms": [
+   {
+    "da": "en spion",
+    "en": "a spy"
+   },
+   {
+    "da": "spionen",
+    "en": "the spy"
+   },
+   {
+    "da": "spioner",
+    "en": "spies"
+   },
+   {
+    "da": "spionerne",
+    "en": "the spies"
+   }
+  ],
+  "related": [
+   {
+    "da": "en agent",
+    "en": "an agent"
+   },
+   {
+    "da": "en hemmelighed",
+    "en": "a secret"
+   },
+   {
+    "da": "en detektiv",
+    "en": "a detective"
+   },
+   {
+    "da": "en forræder",
+    "en": "a traitor"
+   }
+  ],
+  "sentence": {
+   "da": "En **spion** arbejder i hemmelighed for et andet land.",
+   "en": "A spy works in secret for another country."
+  }
+ },
+ "en spiral": {
+  "file": "s.json",
+  "explanation": "\"En spiral\" means \"a spiral\", a shape that winds around and around, like a spring.",
+  "forms": [
+   {
+    "da": "en spiral",
+    "en": "a spiral"
+   },
+   {
+    "da": "spiralen",
+    "en": "the spiral"
+   },
+   {
+    "da": "spiraler",
+    "en": "spirals"
+   },
+   {
+    "da": "spiralerne",
+    "en": "the spirals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en cirkel",
+    "en": "a circle"
+   },
+   {
+    "da": "en kurve",
+    "en": "a curve"
+   },
+   {
+    "da": "en spole",
+    "en": "a coil"
+   },
+   {
+    "da": "en snegl",
+    "en": "a snail"
+   }
+  ],
+  "sentence": {
+   "da": "Trappen snor sig op i en **spiral**.",
+   "en": "The stairs wind up in a spiral."
+  }
+ },
+ "en spiseske": {
+  "file": "s.json",
+  "explanation": "\"En spiseske\" means \"a tablespoon\", the big spoon used for measuring in recipes. It is built from at spise (to eat) and ske (spoon).",
+  "forms": [
+   {
+    "da": "en spiseske",
+    "en": "a tablespoon"
+   },
+   {
+    "da": "spiseskeen",
+    "en": "the tablespoon"
+   },
+   {
+    "da": "spiseskeer",
+    "en": "tablespoons"
+   },
+   {
+    "da": "spiseskeerne",
+    "en": "the tablespoons"
+   }
+  ],
+  "related": [
+   {
+    "da": "en teske",
+    "en": "a teaspoon"
+   },
+   {
+    "da": "en suppeske",
+    "en": "a soup spoon"
+   },
+   {
+    "da": "en gaffel",
+    "en": "a fork"
+   }
+  ],
+  "sentence": {
+   "da": "Opskriften kræver en **spiseske** smør.",
+   "en": "The recipe needs a tablespoon of butter."
+  }
+ },
+ "en spisestue": {
+  "file": "s.json",
+  "explanation": "\"En spisestue\" means \"a dining room\", the room with the dining table. It is built from spise (to eat) and stue (living room).",
+  "forms": [
+   {
+    "da": "en spisestue",
+    "en": "a dining room"
+   },
+   {
+    "da": "spisestuen",
+    "en": "the dining room"
+   },
+   {
+    "da": "spisestuer",
+    "en": "dining rooms"
+   },
+   {
+    "da": "spisestuerne",
+    "en": "the dining rooms"
+   }
+  ],
+  "related": [
+   {
+    "da": "et spisebord",
+    "en": "a dining table"
+   },
+   {
+    "da": "et køkken",
+    "en": "a kitchen"
+   },
+   {
+    "da": "en spiseplads",
+    "en": "a dining area"
+   },
+   {
+    "da": "en spisestol",
+    "en": "a dining chair"
+   }
+  ],
+  "sentence": {
+   "da": "Vi spiser aftensmad i en stor **spisestue**.",
+   "en": "We eat dinner in a big dining room."
+  }
+ },
+ "en spisning": {
+  "file": "s.json",
+  "explanation": "\"En spisning\" means \"a shared meal\", an event that people organize together, for example for a club. For an ordinary meal, say \"et måltid\" (a meal).",
+  "forms": [
+   {
+    "da": "en spisning",
+    "en": "a meal (a shared event)"
+   },
+   {
+    "da": "spisningen",
+    "en": "the meal"
+   },
+   {
+    "da": "spisninger",
+    "en": "meals"
+   },
+   {
+    "da": "spisningerne",
+    "en": "the meals"
+   }
+  ],
+  "related": [
+   {
+    "da": "en fællesspisning",
+    "en": "a shared community dinner"
+   },
+   {
+    "da": "at spise",
+    "en": "to eat"
+   },
+   {
+    "da": "en middag",
+    "en": "a dinner"
+   },
+   {
+    "da": "en fest",
+    "en": "a party"
+   }
+  ],
+  "sentence": {
+   "da": "Vi laver mad sammen til klubbens **spisning**.",
+   "en": "We cook together for the club's shared meal."
+  }
+ },
+ "en sportsforretning": {
+  "file": "s.json",
+  "explanation": "\"En sportsforretning\" means \"a sports store\", a place that sells shoes, clothes and gear for sport. \"Forretning\" also means \"a business\": \"Han har en forretning\" (He has a business).",
+  "forms": [
+   {
+    "da": "en sportsforretning",
+    "en": "a sports store"
+   },
+   {
+    "da": "sportsforretningen",
+    "en": "the sports store"
+   },
+   {
+    "da": "sportsforretninger",
+    "en": "sports stores"
+   },
+   {
+    "da": "sportsforretningerne",
+    "en": "the sports stores"
+   }
+  ],
+  "related": [
+   {
+    "da": "en butik",
+    "en": "a shop"
+   },
+   {
+    "da": "sportstøj",
+    "en": "sportswear"
+   },
+   {
+    "da": "sportsudstyr",
+    "en": "athletic equipment"
+   }
+  ],
+  "sentence": {
+   "da": "Du kan købe bolde og sko i en **sportsforretning**.",
+   "en": "You can buy balls and shoes in a sports store."
+  }
+ },
+ "en sportsgren": {
+  "file": "s.json",
+  "explanation": "\"En sportsgren\" means \"a sport\", one particular kind of sport among many, such as soccer or handball. It is built from sport (sport) and gren (branch), like a branch of a tree.",
+  "forms": [
+   {
+    "da": "en sportsgren",
+    "en": "a sport (type)"
+   },
+   {
+    "da": "sportsgrenen",
+    "en": "the sport (type)"
+   },
+   {
+    "da": "sportsgrene",
+    "en": "sports (types)"
+   },
+   {
+    "da": "sportsgrenene",
+    "en": "the sports (types)"
+   }
+  ],
+  "related": [
+   {
+    "da": "en disciplin",
+    "en": "a discipline"
+   },
+   {
+    "da": "et boldspil",
+    "en": "a ball game"
+   },
+   {
+    "da": "en idrætsgren",
+    "en": "a type of sport"
+   }
+  ],
+  "sentence": {
+   "da": "Svømning er en populær **sportsgren** i Danmark.",
+   "en": "Swimming is a popular sport in Denmark."
+  }
+ },
+ "en sportsklub": {
+  "file": "s.json",
+  "explanation": "\"En sportsklub\" means \"a sports club\", a group where people train and play together. It is built from sport (sport) and klub (club).",
+  "forms": [
+   {
+    "da": "en sportsklub",
+    "en": "a sports club"
+   },
+   {
+    "da": "sportsklubben",
+    "en": "the sports club"
+   },
+   {
+    "da": "to sportsklubber",
+    "en": "two sports clubs"
+   },
+   {
+    "da": "sportsklubberne",
+    "en": "the sports clubs"
+   }
+  ],
+  "related": [
+   {
+    "da": "en forening",
+    "en": "an association"
+   },
+   {
+    "da": "et hold",
+    "en": "a team"
+   },
+   {
+    "da": "en træner",
+    "en": "a coach"
+   },
+   {
+    "da": "en idrætsklub",
+    "en": "another word for a sports club"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg træner to gange om ugen i min **sportsklub**.",
+   "en": "I work out twice a week at my sports club."
+  }
+ },
+ "en sportstaske": {
+  "file": "s.json",
+  "explanation": "\"En sportstaske\" means \"a gym bag\", a bag for your sports clothes and shoes. It is built from sport (sport) and taske (bag).",
+  "forms": [
+   {
+    "da": "en sportstaske",
+    "en": "a gym bag"
+   },
+   {
+    "da": "sportstasken",
+    "en": "the gym bag"
+   },
+   {
+    "da": "sportstasker",
+    "en": "gym bags"
+   },
+   {
+    "da": "sportstaskerne",
+    "en": "the gym bags"
+   }
+  ],
+  "related": [
+   {
+    "da": "en rygsæk",
+    "en": "a backpack"
+   },
+   {
+    "da": "en kuffert",
+    "en": "a suitcase"
+   },
+   {
+    "da": "en indkøbspose",
+    "en": "a shopping bag"
+   },
+   {
+    "da": "en håndtaske",
+    "en": "a handbag"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg pakker tøj og sko i min **sportstaske**.",
+   "en": "I pack clothes and shoes in my gym bag."
+  }
+ },
+ "en sporvogn": {
+  "file": "s.json",
+  "explanation": "\"En sporvogn\" means \"a tram\", an electric vehicle that runs on rails in the street. It is built from spor (track) and vogn (carriage).",
+  "forms": [
+   {
+    "da": "en sporvogn",
+    "en": "a tram"
+   },
+   {
+    "da": "sporvognen",
+    "en": "the tram"
+   },
+   {
+    "da": "sporvogne",
+    "en": "trams"
+   },
+   {
+    "da": "sporvognene",
+    "en": "the trams"
+   }
+  ],
+  "related": [
+   {
+    "da": "en letbane",
+    "en": "a light rail"
+   },
+   {
+    "da": "en metro",
+    "en": "a metro"
+   },
+   {
+    "da": "et tog",
+    "en": "a train"
+   }
+  ],
+  "sentence": {
+   "da": "Vi tager en **sporvogn** gennem den gamle by.",
+   "en": "We take a tram through the old town."
+  }
+ },
+ "en sprogskole": {
+  "file": "s.json",
+  "explanation": "\"En sprogskole\" means \"a language school\", a school where adults learn a new language. To say you attend one, use \"på\" (at) and leave out \"en\": \"Jeg går på sprogskole\" (I go to language school).",
+  "forms": [
+   {
+    "da": "en sprogskole",
+    "en": "a language school"
+   },
+   {
+    "da": "sprogskolen",
+    "en": "the language school"
+   },
+   {
+    "da": "sprogskoler",
+    "en": "language schools"
+   },
+   {
+    "da": "sprogskolerne",
+    "en": "the language schools"
+   }
+  ],
+  "related": [
+   {
+    "da": "et kursus",
+    "en": "a course"
+   },
+   {
+    "da": "en kursist",
+    "en": "a course participant"
+   },
+   {
+    "da": "et sprogcenter",
+    "en": "a language center"
+   },
+   {
+    "da": "en aftenskole",
+    "en": "an evening school"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg lærer dansk på en **sprogskole** i byen.",
+   "en": "I am learning Danish at a language school in town."
+  }
+ },
+ "en sprøjte": {
+  "file": "s.json",
+  "explanation": "\"En sprøjte\" means \"a syringe\" and \"a sprayer\". Both push a liquid out through a small opening. In the garden, a sprayer sends it as a fine mist over the plants.",
+  "forms": [
+   {
+    "da": "en sprøjte",
+    "en": "a syringe / sprayer"
+   },
+   {
+    "da": "sprøjten",
+    "en": "the syringe / sprayer"
+   },
+   {
+    "da": "sprøjter",
+    "en": "syringes / sprayers"
+   },
+   {
+    "da": "sprøjterne",
+    "en": "the syringes / sprayers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en kanyle",
+    "en": "a cannula"
+   },
+   {
+    "da": "en nål",
+    "en": "a needle"
+   },
+   {
+    "da": "en vaccine",
+    "en": "a vaccine"
+   },
+   {
+    "da": "en injektion",
+    "en": "an injection"
+   }
+  ],
+  "sentence": {
+   "da": "Med en **sprøjte** kan lægen give medicin direkte i kroppen.",
+   "en": "With a syringe the doctor can give medicine directly into the body."
+  }
+ },
+ "en spurv": {
+  "file": "s.json",
+  "explanation": "\"En spurv\" means \"a sparrow\", a small brown bird that lives close to people in towns and gardens.",
+  "forms": [
+   {
+    "da": "en spurv",
+    "en": "a sparrow"
+   },
+   {
+    "da": "spurven",
+    "en": "the sparrow"
+   },
+   {
+    "da": "spurve",
+    "en": "sparrows"
+   },
+   {
+    "da": "spurvene",
+    "en": "the sparrows"
+   }
+  ],
+  "related": [
+   {
+    "da": "en finke",
+    "en": "a finch"
+   },
+   {
+    "da": "en svale",
+    "en": "a swallow"
+   },
+   {
+    "da": "en skade",
+    "en": "a magpie"
+   },
+   {
+    "da": "en solsort",
+    "en": "a blackbird"
+   }
+  ],
+  "sentence": {
+   "da": "Den lille brune fugl i haven er en **spurv**.",
+   "en": "The little brown bird in the garden is a sparrow."
+  }
+ },
+ "en spændingsroman": {
+  "file": "s.json",
+  "explanation": "\"En spændingsroman\" means \"a thriller (novel)\", a book with a tense plot, such as a crime or a chase. It is built from spænding (excitement) and roman (novel).",
+  "forms": [
+   {
+    "da": "en spændingsroman",
+    "en": "a thriller"
+   },
+   {
+    "da": "spændingsromanen",
+    "en": "the thriller"
+   },
+   {
+    "da": "spændingsromaner",
+    "en": "thrillers"
+   },
+   {
+    "da": "spændingsromanerne",
+    "en": "the thrillers"
+   }
+  ],
+  "related": [
+   {
+    "da": "en krimi",
+    "en": "a crime story"
+   },
+   {
+    "da": "en novelle",
+    "en": "a short story"
+   },
+   {
+    "da": "en gyser",
+    "en": "a horror story"
+   },
+   {
+    "da": "en detektivhistorie",
+    "en": "a detective story"
+   }
+  ],
+  "sentence": {
+   "da": "I en **spændingsroman** vil man vide, hvem der gjorde det.",
+   "en": "In a thriller you want to know who did it."
+  }
+ },
+ "en spøg": {
+  "file": "s.json",
+  "explanation": "\"En spøg\" means \"a joke\" or \"a prank\", something said or done for fun and not meant seriously. For a joke with a punchline, Danes often say \"en vits\" (a joke) instead.",
+  "forms": [
+   {
+    "da": "en spøg",
+    "en": "a joke / prank"
+   },
+   {
+    "da": "spøgen",
+    "en": "the joke / prank"
+   },
+   {
+    "da": "spøge",
+    "en": "jokes / pranks"
+   },
+   {
+    "da": "spøgene",
+    "en": "the jokes / pranks"
+   }
+  ],
+  "related": [
+   {
+    "da": "at spøge",
+    "en": "to joke"
+   },
+   {
+    "da": "en spøgefugl",
+    "en": "a joker / prankster"
+   },
+   {
+    "da": "en vittighed",
+    "en": "a joke"
+   },
+   {
+    "da": "at lave sjov",
+    "en": "to joke around"
+   }
+  ],
+  "sentence": {
+   "da": "Det var kun en **spøg**, og alle grinede.",
+   "en": "It was only a joke, and everyone laughed."
+  }
+ },
+ "en squash": {
+  "file": "s.json",
+  "explanation": "\"En squash\" means \"a zucchini\". The sport has the same name but no \"en\": \"Han spiller squash\" (He plays squash).",
+  "forms": [
+   {
+    "da": "en squash",
+    "en": "a zucchini"
+   },
+   {
+    "da": "squashen",
+    "en": "the zucchini"
+   },
+   {
+    "da": "squasher",
+    "en": "zucchinis"
+   },
+   {
+    "da": "squasherne",
+    "en": "the zucchinis"
+   }
+  ],
+  "related": [
+   {
+    "da": "en courgette",
+    "en": "a zucchini (another word)"
+   },
+   {
+    "da": "en agurk",
+    "en": "a cucumber"
+   },
+   {
+    "da": "en aubergine",
+    "en": "an eggplant"
+   },
+   {
+    "da": "et græskar",
+    "en": "a pumpkin"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg skærer en **squash** i tynde skiver.",
+   "en": "I cut a zucchini into thin slices."
+  }
+ },
+ "en squat": {
+  "file": "s.json",
+  "explanation": "\"En squat\" means \"a squat\", the exercise where you bend your knees and go down, then stand up again. To say you do squats, Danes use \"lave\" (to do): \"Jeg laver ti squats\" (I do ten squats).",
+  "forms": [
+   {
+    "da": "en squat",
+    "en": "a squat"
+   },
+   {
+    "da": "squatten",
+    "en": "the squat"
+   },
+   {
+    "da": "squats",
+    "en": "squats"
+   },
+   {
+    "da": "squattene",
+    "en": "the squats"
+   }
+  ],
+  "related": [
+   {
+    "da": "en armbøjning",
+    "en": "a push-up"
+   },
+   {
+    "da": "en mavebøjning",
+    "en": "a sit-up"
+   },
+   {
+    "da": "en øvelse",
+    "en": "an exercise"
+   },
+   {
+    "da": "en træning",
+    "en": "a workout"
+   }
+  ],
+  "sentence": {
+   "da": "Jeg bøjer knæene i en dyb **squat**.",
+   "en": "I bend my knees in a deep squat."
+  }
+ },
+ "en stagnation": {
+  "file": "s.json",
+  "explanation": "\"En stagnation\" means \"a stagnation\", a time when something stops developing, such as an economy or a business.",
+  "forms": [
+   {
+    "da": "en stagnation",
+    "en": "a stagnation"
+   },
+   {
+    "da": "stagnationen",
+    "en": "the stagnation"
+   },
+   {
+    "da": "stagnationer",
+    "en": "stagnations"
+   },
+   {
+    "da": "stagnationerne",
+    "en": "the stagnations"
+   }
+  ],
+  "related": [
+   {
+    "da": "en vækst",
+    "en": "growth"
+   },
+   {
+    "da": "en stilstand",
+    "en": "a standstill"
+   },
+   {
+    "da": "en tilbagegang",
+    "en": "a decline"
+   },
+   {
+    "da": "en fremgang",
+    "en": "progress"
+   }
+  ],
+  "sentence": {
+   "da": "Efter en lang **stagnation** begyndte firmaet endelig at vokse igen.",
+   "en": "After a long stagnation the firm finally began to grow again."
+  }
+ },
+ "en stak": {
+  "file": "s.json",
+  "explanation": "\"En stak\" means \"a stack\", things placed neatly on top of each other: \"en stak tallerkener\" (a stack of plates). A messy one is \"en bunke\" (a pile).",
+  "forms": [
+   {
+    "da": "en stak",
+    "en": "a stack"
+   },
+   {
+    "da": "stakken",
+    "en": "the stack"
+   },
+   {
+    "da": "stakke",
+    "en": "stacks"
+   },
+   {
+    "da": "stakkene",
+    "en": "the stacks"
+   }
+  ],
+  "related": [
+   {
+    "da": "en dynge",
+    "en": "a heap"
+   },
+   {
+    "da": "et lag",
+    "en": "a layer"
+   },
+   {
+    "da": "at stable",
+    "en": "to stack"
+   },
+   {
+    "da": "en stabel",
+    "en": "a stack (of logs, boxes)"
+   }
+  ],
+  "sentence": {
+   "da": "Der ligger en høj **stak** bøger på bordet.",
+   "en": "There is a tall stack of books on the table."
+  }
+ }
+}
