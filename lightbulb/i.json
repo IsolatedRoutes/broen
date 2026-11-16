@@ -1,6 +1,6 @@
 {
  "I": {
-  "explanation": "\"I\" means \"you\" when you talk to two or more people. For one person, use \"du\": \"Du er min ven\" (You are my friend). For a group, use \"I\": \"I er mine venner\" (You are my friends). Do not mix it up with \"jeg\" (I) or the small word \"i\" (in): \"I bor i Aarhus\" (You live in Aarhus).",
+  "explanation": "\"I\" means \"you\" when you speak to two or more people. For one person, use \"du\" (you): \"Du er min ven\" (You are my friend). To say \"I\" about yourself, use \"jeg\" (I): \"Jeg bor i Aarhus\" (I live in Aarhus). The small word \"i\" (in) is different: in \"I bor i Aarhus\" (You all live in Aarhus), the first \"I\" is \"you (all)\" and the second \"i\" is \"in\".",
   "forms": [
    {
     "da": "I er venner.",
@@ -18,7 +18,7 @@
   "related": [
    {
     "da": "jer",
-    "en": "you (group), as in \"Jeg ser jer\" (I see you)"
+    "en": "you (all), after a verb"
    },
    {
     "da": "jeres",
@@ -39,7 +39,7 @@
   }
  },
  "at iagttage": {
-  "explanation": "\"At iagttage\" means \"to observe\": to watch something carefully over some time to learn about it, such as animals, weather or people. Unlike \"at se\" (to see), you do it on purpose: \"Vi iagttager fuglene\" (We are watching the birds).",
+  "explanation": "\"At iagttage\" means \"to observe\". To say you watch something on purpose to learn about it, use it: \"Vi iagttager fuglene\" (We observe the birds). To say you see something without trying, use \"at se\" (to see): \"Jeg ser en fugl\" (I see a bird).",
   "forms": [
    {
     "da": "at iagttage",
@@ -82,7 +82,7 @@
   }
  },
  "at identificere": {
-  "explanation": "\"At identificere\" means \"to identify\", to work out exactly who or what someone or something is. To prove who you are, add \"sig\" (yourself): \"Jeg skal identificere mig\" (I have to identify myself).",
+  "explanation": "\"At identificere\" means \"to identify\". To say you prove who you are, add \"sig\" (yourself): \"Jeg skal identificere mig\" (I have to identify myself).",
   "forms": [
    {
     "da": "at identificere",
@@ -113,6 +113,10 @@
    {
     "da": "at udpege",
     "en": "to point out"
+   },
+   {
+    "da": "identisk",
+    "en": "identical"
    }
   ],
   "sentence": {
@@ -121,7 +125,7 @@
   }
  },
  "at igangsætte": {
-  "explanation": "\"At igangsætte\" means \"to initiate\": to get a project, a process or an investigation going. It belongs to official and business language: \"Ministeriet igangsætter en undersøgelse\" (The ministry is starting a study). In everyday talk, Danes say \"at starte\" (to start).",
+  "explanation": "\"At igangsætte\" means \"to initiate\". It sounds formal. To say an official body starts a study, say: \"Ministeriet igangsætter en undersøgelse\" (The ministry is starting a study). For a plain start, use \"at starte\" (to start): \"Vi starter i morgen\" (We start tomorrow).",
   "forms": [
    {
     "da": "at igangsætte",
@@ -150,10 +154,6 @@
     "en": "to launch"
    },
    {
-    "da": "at sætte i gang",
-    "en": "to get started"
-   },
-   {
     "da": "at afslutte",
     "en": "to finish"
    }
@@ -164,7 +164,7 @@
   }
  },
  "at ignorere": {
-  "explanation": "\"At ignorere\" means \"to ignore\", to pay no attention to something on purpose. It is used for people and also for things such as rules, warnings and messages: \"Han ignorerer alle beskeder\" (He ignores all messages).",
+  "explanation": "\"At ignorere\" means \"to ignore\". To say someone pays no attention to messages, say: \"Han ignorerer alle beskeder\" (He ignores all messages). To say you overlook something by mistake, use \"at overse\" (to overlook): \"Jeg overså skiltet\" (I overlooked the sign).",
   "forms": [
    {
     "da": "at ignorere",
@@ -185,20 +185,20 @@
   ],
   "related": [
    {
-    "da": "at overse",
-    "en": "to overlook"
-   },
-   {
-    "da": "at overhøre",
-    "en": "to fail to hear"
-   },
-   {
     "da": "at forsømme",
     "en": "to neglect"
    },
    {
     "da": "at lytte til",
     "en": "to listen to"
+   },
+   {
+    "da": "at bemærke",
+    "en": "to notice"
+   },
+   {
+    "da": "at negligere",
+    "en": "to disregard"
    }
   ],
   "sentence": {
@@ -207,7 +207,7 @@
   }
  },
  "at illustrere": {
-  "explanation": "\"At illustrere\" means \"to illustrate\", in two ways: to add pictures to a book, and to make something clear with an example: \"Det illustrerer problemet\" (That makes the problem clear).",
+  "explanation": "\"At illustrere\" means \"to illustrate\", as in adding pictures to a book. It also means making something clear with an example: \"Det illustrerer problemet\" (That makes the problem clear).",
   "forms": [
    {
     "da": "at illustrere",
@@ -250,7 +250,7 @@
   }
  },
  "at implementere": {
-  "explanation": "\"At implementere\" means \"to implement\", to put a plan, a rule or a computer system into real use. It means carrying out what was already decided: \"Firmaet implementerer det nye system i dag\" (The company is implementing the new system today).",
+  "explanation": "\"At implementere\" means \"to implement\". To say a company puts a new system into use, say: \"Firmaet implementerer det nye system i dag\" (The company is implementing the new system today).",
   "forms": [
    {
     "da": "at implementere",
@@ -293,7 +293,7 @@
   }
  },
  "at imponere": {
-  "explanation": "\"At imponere\" means \"to impress\": \"Hendes tale imponerede os\" (Her speech impressed us). To say someone is impressed, use \"imponeret\" (impressed): \"Jeg er imponeret\" (I am impressed).",
+  "explanation": "\"At imponere\" means \"to impress\". To say a speech impressed people, say: \"Hendes tale imponerede os\" (Her speech impressed us). To say you are impressed, use \"imponeret\" (impressed): \"Jeg er imponeret\" (I am impressed).",
   "forms": [
    {
     "da": "at imponere",
@@ -336,7 +336,7 @@
   }
  },
  "at importere": {
-  "explanation": "\"At importere\" means \"to import\", to bring goods into a country from abroad. It also means to bring files into a computer program. The opposite, for goods going out, is \"at eksportere\" (to export).",
+  "explanation": "\"At importere\" means \"to import\". To say you bring files into a program, say: \"Jeg importerer filer til programmet\" (I import files into the program). The opposite is \"at eksportere\" (to export): \"Danmark eksporterer bacon\" (Denmark exports bacon).",
   "forms": [
    {
     "da": "at importere",
@@ -375,7 +375,7 @@
   }
  },
  "at indbyde": {
-  "explanation": "\"At indbyde\" means \"to invite\", in a more formal way than \"at invitere\" (to invite). It is used in writing and speeches, for example in an announcement: \"Vi indbyder til generalforsamling\" (We invite you to the general meeting).",
+  "explanation": "\"At indbyde\" means \"to invite\". It sounds more formal than \"at invitere\" (to invite). To invite someone in an announcement, say: \"Vi indbyder til generalforsamling\" (We invite you to the general meeting). To invite a friend, use \"at invitere\": \"Jeg inviterer dig til fest\" (I invite you to a party).",
   "forms": [
    {
     "da": "at indbyde",
@@ -418,7 +418,7 @@
   }
  },
  "at inddrage": {
-  "explanation": "\"At inddrage\" means \"to involve\", to bring someone into a decision or a discussion: \"Vi vil inddrage børnene i beslutningen\" (We want to involve the children in the decision). It can also mean to remove something officially: \"inddrage et kørekort\" (to revoke a driver's license).",
+  "explanation": "\"At inddrage\" means \"to involve\". To say you bring someone into a decision, say: \"Vi vil inddrage børnene i beslutningen\" (We want to involve the children in the decision). It also means to take something away officially: \"inddrage et kørekort\" (to revoke a driver's license).",
   "forms": [
    {
     "da": "at inddrage",
@@ -457,7 +457,7 @@
   }
  },
  "at indebære": {
-  "explanation": "\"At indebære\" means \"to involve\" or \"to imply\": to have something as a necessary result or part. You say it about things such as a job, a plan or a change, not about people: \"Ændringen indebærer flere udgifter\" (The change involves more costs).",
+  "explanation": "\"At indebære\" means \"to involve\", as in having something as a necessary part. To say a change brings costs, say: \"Ændringen indebærer flere udgifter\" (The change involves more costs). To bring a person into something, use \"at inddrage\" (to involve) instead: \"Vi inddrager børnene\" (We involve the children).",
   "forms": [
    {
     "da": "at indebære",
@@ -500,7 +500,7 @@
   }
  },
  "at indeholde": {
-  "explanation": "\"At indeholde\" means \"to contain\". It is used on food labels: \"Produktet indeholder nødder\" (The product contains nuts).",
+  "explanation": "\"At indeholde\" means \"to contain\". It is built from \"inde\" (inside) and \"at holde\" (to hold). To say a food has nuts in it, say: \"Produktet indeholder nødder\" (The product contains nuts).",
   "forms": [
    {
     "da": "at indeholde",
@@ -543,7 +543,7 @@
   }
  },
  "at indfri": {
-  "explanation": "\"At indfri\" means \"to fulfill\". It is used for what was promised or hoped for: \"indfri et løfte\" (fulfill a promise), \"indfri forventninger\" (live up to expectations). With money it means to settle a debt in full: \"indfri et lån\" (settle a loan).",
+  "explanation": "\"At indfri\" means \"to fulfill or redeem\". To say you keep a promise, use it with \"et løfte\" (a promise): \"Hun indfrier sit løfte\" (She fulfills her promise). To say you pay off a loan completely, use \"et lån\" (a loan): \"Jeg vil indfri lånet\" (I want to pay off the loan).",
   "forms": [
    {
     "da": "at indfri",
@@ -586,7 +586,7 @@
   }
  },
  "at indføre": {
-  "explanation": "\"At indføre\" means \"to introduce (a rule)\", to start a new law, rule or system for everyone: \"Kommunen indfører nye regler\" (The municipality is introducing new rules). To introduce people to each other, use \"at præsentere\" (to present).",
+  "explanation": "\"At indføre\" means \"to introduce (a rule)\". It is built from \"ind\" (in) and \"at føre\" (to lead). To say a town starts new rules, use it with the rules: \"Kommunen indfører nye regler\" (The municipality is introducing new rules). To introduce one person to another, use \"at præsentere\" (to present): \"Må jeg præsentere min ven?\" (May I introduce my friend?).",
   "forms": [
    {
     "da": "at indføre",
@@ -625,7 +625,7 @@
   }
  },
  "at indgive": {
-  "explanation": "\"At indgive\" means \"to submit\" or \"to file\" an official paper to an authority, such as a court or a city office.",
+  "explanation": "\"At indgive\" means \"to submit or file\". It is built from \"ind\" (in) and \"at give\" (to give). To say you hand an official application to an office, use it with \"en ansøgning\" (an application): \"Hun indgav en ansøgning\" (She submitted an application).",
   "forms": [
    {
     "da": "at indgive",
@@ -668,7 +668,7 @@
   }
  },
  "at indgå": {
-  "explanation": "\"At indgå\" means \"to enter into\", mainly an agreement, a deal or a marriage: \"indgå ægteskab\" (get married). With \"i\" (in) after it, it means \"to be part of\": \"Mel indgår i opskriften\" (Flour is part of the recipe).",
+  "explanation": "\"At indgå\" means \"to enter into (an agreement)\". To say two people get married, use it with \"ægteskab\" (marriage): \"De indgår ægteskab\" (They are getting married). To say something is part of a whole, add \"i\" (in) after it: \"Mel indgår i opskriften\" (Flour is part of the recipe).",
   "forms": [
    {
     "da": "at indgå",
@@ -707,7 +707,7 @@
   }
  },
  "at indhente": {
-  "explanation": "\"At indhente\" means \"to catch up with\" someone or something that is ahead of you. It also means to make up for lost time: \"indhente det forsømte\" (make up for what was missed). In formal use it means to get information or offers from others: \"indhente tilbud\" (get quotes).",
+  "explanation": "\"At indhente\" means \"to catch up with\". To say you make up for lost time, use it with \"det forsømte\" (what was missed): \"Jeg vil indhente det forsømte\" (I want to make up for what was missed). To say you get quotes from companies, use it with \"tilbud\" (offers): \"Vi indhenter tilbud\" (We are getting quotes).",
   "forms": [
    {
     "da": "at indhente",
@@ -750,7 +750,7 @@
   }
  },
  "at indikere": {
-  "explanation": "\"At indikere\" means \"to indicate\", to be a clue about something or to point toward it. Usually a sign, a result or a measurement does the indicating: \"Målingerne indikerer, at det bliver koldt\" (The measurements indicate that it will be cold).",
+  "explanation": "\"At indikere\" means \"to indicate\". To say a measurement points toward a result, use it with \"at\" (that) after it: \"Målingerne indikerer, at det bliver koldt\" (The measurements indicate that it will be cold).",
   "forms": [
    {
     "da": "at indikere",
@@ -793,7 +793,7 @@
   }
  },
  "at indkalde": {
-  "explanation": "\"At indkalde\" means \"to call in\" or \"to summon\", to officially order people to come: \"Retten indkalder vidner\" (The court summons witnesses). It is also used for calling a meeting: \"Jeg indkalder til møde\" (I am calling a meeting).",
+  "explanation": "\"At indkalde\" means \"to call in or summon\". It is built from \"ind\" (in) and \"at kalde\" (to call). To say a court orders people to come, say: \"Retten indkalder vidner\" (The court summons witnesses). To say you call a meeting, add \"til\" (to) before it: \"Jeg indkalder til møde\" (I am calling a meeting).",
   "forms": [
    {
     "da": "at indkalde",
@@ -818,16 +818,12 @@
     "en": "a notice to attend"
    },
    {
-    "da": "at aflyse",
-    "en": "to cancel"
+    "da": "at tilkalde",
+    "en": "to send for"
    },
    {
     "da": "at samle",
     "en": "to gather"
-   },
-   {
-    "da": "at tilkalde",
-    "en": "to send for"
    }
   ],
   "sentence": {
@@ -836,7 +832,7 @@
   }
  },
  "at indkøbe": {
-  "explanation": "\"At indkøbe\" means \"to purchase\", to buy goods for a company, an office or a shop. For everyday food shopping, Danes say \"at købe ind\" (to do the shopping).",
+  "explanation": "\"At indkøbe\" means \"to purchase\". It is built from \"ind\" (in) and \"at købe\" (to buy). To talk about everyday shopping, use \"at købe ind\" (to shop) instead: \"Jeg skal købe ind i dag\" (I have to go shopping today).",
   "forms": [
    {
     "da": "at indkøbe",
@@ -857,16 +853,16 @@
   ],
   "related": [
    {
-    "da": "at bestille",
-    "en": "to order"
+    "da": "et indkøb",
+    "en": "a purchase"
    },
    {
     "da": "at anskaffe",
     "en": "to acquire"
    },
    {
-    "da": "at rekvirere",
-    "en": "to requisition"
+    "da": "at bestille",
+    "en": "to order"
    }
   ],
   "sentence": {
@@ -875,7 +871,7 @@
   }
  },
  "at indlede": {
-  "explanation": "\"At indlede\" means \"to begin\" or \"to introduce\", for starting something formal, such as a speech or a negotiation: \"Han indleder mødet\" (He opens the meeting). It also works for a relationship: \"indlede et forhold\" (begin a relationship).",
+  "explanation": "\"At indlede\" means \"to begin or introduce\". To say someone opens a meeting, use it with \"mødet\" (the meeting): \"Han indleder mødet\" (He opens the meeting). To say you start a relationship, use it with \"et forhold\" (a relationship): \"De indleder et forhold\" (They are starting a relationship).",
   "forms": [
    {
     "da": "at indlede",
@@ -904,10 +900,6 @@
     "en": "to finish"
    },
    {
-    "da": "at åbne",
-    "en": "to open"
-   },
-   {
     "da": "at starte",
     "en": "to start"
    }
@@ -918,7 +910,7 @@
   }
  },
  "at indrette": {
-  "explanation": "\"At indrette\" means \"to furnish\" or \"to set up\" a room, a home or a shop, so that everything has its place.",
+  "explanation": "\"At indrette\" means \"to furnish or set up\". To say you are furnishing a home, use it with the home: \"De indretter lejligheden\" (They are furnishing the flat). With \"sig\" (oneself) it means \"to settle in\": \"Vi indretter os i den nye lejlighed\" (We are settling in at the new flat).",
   "forms": [
    {
     "da": "at indrette",
@@ -947,10 +939,6 @@
     "en": "to put furniture in"
    },
    {
-    "da": "et møbel",
-    "en": "a piece of furniture"
-   },
-   {
     "da": "at pynte",
     "en": "to decorate"
    }
@@ -961,7 +949,7 @@
   }
  },
  "at indrette sig": {
-  "explanation": "\"At indrette sig\" means \"to settle in\" or \"to adapt\", to arrange your life to fit a new situation. Without \"sig\" (oneself), \"at indrette\" means \"to furnish\": \"indrette et værelse\" (to furnish a room).",
+  "explanation": "\"At indrette sig\" means \"to adapt or settle in\". To say you adapt to a situation, add \"efter\" (according to): \"Vi må indrette os efter vejret\" (We have to adapt to the weather). To say you settle in a new home, add \"i\" (in): \"Hun indretter sig i huset\" (She is settling in at the house). Without \"sig\" (oneself), \"at indrette\" means \"to furnish\": \"Hun indretter værelset\" (She is furnishing the room).",
   "forms": [
    {
     "da": "at indrette sig",
@@ -982,10 +970,6 @@
   ],
   "related": [
    {
-    "da": "en indretning",
-    "en": "a layout"
-   },
-   {
     "da": "at tilpasse sig",
     "en": "to adjust"
    },
@@ -996,6 +980,10 @@
    {
     "da": "at vænne sig til",
     "en": "to get used to"
+   },
+   {
+    "da": "en indretning",
+    "en": "a layout"
    }
   ],
   "sentence": {
@@ -1004,7 +992,7 @@
   }
  },
  "at indrømme": {
-  "explanation": "\"At indrømme\" means \"to admit\", to say that something is true, often something unpleasant like a mistake: \"Jeg indrømmer, at jeg tog fejl\" (I admit that I was wrong).",
+  "explanation": "\"At indrømme\" means \"to admit\". To say you admit something, you can start with \"Jeg må indrømme\" (I have to admit): \"Jeg må indrømme, at jeg tog fejl\" (I have to admit that I was wrong).",
   "forms": [
    {
     "da": "at indrømme",
@@ -1047,7 +1035,7 @@
   }
  },
  "at indsamle": {
-  "explanation": "\"At indsamle\" means \"to collect\", to gather things from many sources, such as money, data or old clothes. For a hobby, use \"at samle\" (to collect): \"Jeg samler på frimærker\" (I collect stamps).",
+  "explanation": "\"At indsamle\" means \"to collect\". It is built from \"ind\" (in) and \"at samle\" (to gather). To talk about collecting as a hobby, use \"at samle\" instead: \"Jeg samler på frimærker\" (I collect stamps).",
   "forms": [
    {
     "da": "at indsamle",
@@ -1090,7 +1078,7 @@
   }
  },
  "at indse": {
-  "explanation": "\"At indse\" means \"to realize\", when you see something you missed before: \"Jeg indså for sent, at det var en fejl\" (I realized too late that it was a mistake).",
+  "explanation": "\"At indse\" means \"to realize\". It is built from \"ind\" (in) and \"at se\" (to see). To say you understood something too late, say: \"Jeg indså for sent, at det var en fejl\" (I realized too late that it was a mistake).",
   "forms": [
    {
     "da": "at indse",
@@ -1133,7 +1121,7 @@
   }
  },
  "at indsende": {
-  "explanation": "\"At indsende\" means \"to submit\", to send something to an office, a company or a competition so that it can be looked at.",
+  "explanation": "\"At indsende\" means \"to submit\". It is built from \"ind\" (in) and \"at sende\" (to send). To say you send in an application, use it with \"ansøgning\" (application): \"Jeg har indsendt min ansøgning\" (I have submitted my application).",
   "forms": [
    {
     "da": "at indsende",
@@ -1176,7 +1164,7 @@
   }
  },
  "at indskrænke": {
-  "explanation": "\"At indskrænke\" means \"to restrict\": to cut something down or limit it, such as spending or freedom: \"indskrænke forbruget\" (cut down spending), \"indskrænke friheden\" (curb freedom).",
+  "explanation": "\"At indskrænke\" means \"to restrict\". To say you cut down how much you spend, use it with \"forbruget\" (the spending): \"Vi indskrænker forbruget\" (We are cutting down spending). To say freedom is limited, use it with \"friheden\" (the freedom): \"Loven indskrænker friheden\" (The law restricts freedom).",
   "forms": [
    {
     "da": "at indskrænke",
@@ -1219,7 +1207,7 @@
   }
  },
  "at indstille": {
-  "explanation": "\"At indstille\" means \"to set\" or \"to adjust\" a device so it works as you want: \"indstille uret\" (set the clock). It is used for putting someone forward for a prize or a job too: \"indstille en kandidat\" (recommend a candidate).",
+  "explanation": "\"At indstille\" means \"to adjust or set\". To say you set a device, use it with the device: \"Jeg indstiller uret\" (I am setting the clock). To say you put someone forward for a job or prize, use it with \"en kandidat\" (a candidate): \"De indstiller en kandidat\" (They are nominating a candidate).",
   "forms": [
    {
     "da": "at indstille",
@@ -1253,7 +1241,7 @@
    },
    {
     "da": "en indstilling",
-    "en": "an attitude"
+    "en": "a setting"
    }
   ],
   "sentence": {
@@ -1262,7 +1250,7 @@
   }
  },
  "at indstille sig på": {
-  "explanation": "\"At indstille sig på\" means \"to prepare for\" something you know is coming: \"Vi må indstille os på en kold vinter\" (We must prepare for a cold winter). It also means to accept that things will be different: \"Jeg har indstillet mig på at flytte\" (I have accepted that I will move).",
+  "explanation": "\"At indstille sig på\" means \"to prepare for or adjust to\". To say you get ready for something that is coming, say: \"Vi må indstille os på en kold vinter\" (We must prepare for a cold winter). To say you have accepted a change, say: \"Jeg har indstillet mig på at flytte\" (I have accepted that I will move).",
   "forms": [
    {
     "da": "at indstille sig på",
@@ -1305,7 +1293,7 @@
   }
  },
  "at indsætte": {
-  "explanation": "\"At indsætte\" means \"to insert\" something into a place, and also \"to deposit\" money: \"indsætte penge\" (deposit money). The opposite for money is \"at hæve\" (to withdraw).",
+  "explanation": "\"At indsætte\" means \"to insert or deposit\". To say you put money into a bank account, say: \"Jeg indsætter penge på kontoen\" (I am depositing money in the account). To say you put something into a text, say: \"Jeg indsætter et billede i teksten\" (I am inserting a picture into the text). To take money out, use \"at hæve\" (to withdraw): \"Jeg vil hæve tusind kroner\" (I want to withdraw a thousand kroner).",
   "forms": [
    {
     "da": "at indsætte",
@@ -1344,7 +1332,7 @@
   }
  },
  "at indtage": {
-  "explanation": "\"At indtage\" means \"to consume\" food or medicine, and is used on labels and in instructions: \"Medicinen skal indtages med vand\" (The medicine must be taken with water). It also means to capture a place: \"Soldaterne indtog byen\" (The soldiers captured the town).",
+  "explanation": "\"At indtage\" means \"to consume or take\". To say how medicine must be taken, say: \"Medicinen skal indtages med vand\" (The medicine must be taken with water). To say soldiers capture a place, say: \"Soldaterne indtog byen\" (The soldiers captured the town).",
   "forms": [
    {
     "da": "at indtage",
@@ -1387,7 +1375,7 @@
   }
  },
  "at informere": {
-  "explanation": "\"At informere\" means \"to inform\", telling someone the facts. To name the topic, add \"om\" (about) before the topic: \"Jeg informerer dig om det\" (I am informing you about it).",
+  "explanation": "\"At informere\" means \"to inform\". To name the topic, add \"om\" (about) before it: \"Jeg informerer dig om mødet\" (I am informing you about the meeting).",
   "forms": [
    {
     "da": "at informere",
@@ -1430,7 +1418,7 @@
   }
  },
  "at insistere": {
-  "explanation": "\"At insistere\" means \"to insist\", to keep saying that something must happen. After it, use \"på\" (on): \"Hun insisterer på at gå hjem\" (She insists on going home).",
+  "explanation": "\"At insistere\" means \"to insist\". To say what you insist on, add \"på\" (on) before it: \"Jeg insisterer på en undskyldning\" (I insist on an apology).",
   "forms": [
    {
     "da": "at insistere",
@@ -1469,7 +1457,7 @@
   }
  },
  "at inspirere": {
-  "explanation": "\"At inspirere\" means \"to inspire\", to give someone new ideas or the wish to do something: \"Bogen inspirerede mig\" (The book inspired me).",
+  "explanation": "\"At inspirere\" means \"to inspire\". To say a book gave you ideas, say: \"Bogen inspirerede mig\" (The book inspired me). To say you were inspired by something, use \"at blive inspireret af\" (to be inspired by): \"Jeg blev inspireret af filmen\" (I was inspired by the film).",
   "forms": [
    {
     "da": "at inspirere",
@@ -1512,7 +1500,7 @@
   }
  },
  "at installere": {
-  "explanation": "\"At installere\" means \"to install\", to put a program on a computer or phone so it works.",
+  "explanation": "\"At installere\" means \"to install\". To ask someone to install a program, say: \"Kan du installere appen?\" (Can you install the app?). To say you remove it again, add \"af\" (off) to the front: \"Jeg afinstallerer spillet\" (I am uninstalling the game).",
   "forms": [
    {
     "da": "at installere",
@@ -1533,10 +1521,6 @@
   ],
   "related": [
    {
-    "da": "at afinstallere",
-    "en": "to uninstall"
-   },
-   {
     "da": "en installation",
     "en": "an installation"
    },
@@ -1555,7 +1539,7 @@
   }
  },
  "at integrere": {
-  "explanation": "\"At integrere\" means \"to integrate\", to make someone or something a full part of a group or a whole. It is used about newcomers in a society: \"at integrere flygtninge\" (to integrate refugees).",
+  "explanation": "\"At integrere\" means \"to integrate\". To say newcomers are made part of a society, say: \"at integrere flygtninge\" (to integrate refugees). To say you become part of a group yourself, add \"sig\" (oneself): \"Han har integreret sig godt\" (He has integrated well).",
   "forms": [
    {
     "da": "at integrere",
@@ -1576,8 +1560,8 @@
   ],
   "related": [
    {
-    "da": "at tilpasse sig",
-    "en": "to adapt"
+    "da": "en integration",
+    "en": "an integration"
    },
    {
     "da": "at inkludere",
@@ -1598,7 +1582,7 @@
   }
  },
  "at intensivere": {
-  "explanation": "\"At intensivere\" means \"to intensify\", to do something harder or more often.",
+  "explanation": "\"At intensivere\" means \"to intensify\". To say the police search harder, use it with the search: \"Politiet intensiverer eftersøgningen\" (The police are intensifying the search).",
   "forms": [
    {
     "da": "at intensivere",
@@ -1641,7 +1625,7 @@
   }
  },
  "at interessere": {
-  "explanation": "\"At interessere\" means \"to interest\". Danish turns it around: \"Fodbold interesserer mig\" (Soccer interests me). To say you are interested, use \"Jeg er interesseret i fodbold\" (I am interested in soccer).",
+  "explanation": "\"At interessere\" means \"to interest\". To say a thing interests you, put the thing first: \"Fodbold interesserer mig\" (Soccer interests me). To say you are interested, use \"interesseret\" (interested) with \"i\" (in): \"Jeg er interesseret i fodbold\" (I am interested in soccer).",
   "forms": [
    {
     "da": "at interessere",
@@ -1670,12 +1654,12 @@
     "en": "interesting"
    },
    {
-    "da": "kedelig",
-    "en": "boring"
-   },
-   {
     "da": "at fascinere",
     "en": "to fascinate"
+   },
+   {
+    "da": "kedelig",
+    "en": "boring"
    }
   ],
   "sentence": {
@@ -1684,7 +1668,7 @@
   }
  },
  "at interessere sig for": {
-  "explanation": "\"At interessere sig for\" means \"to be interested in\". The small word after \"interesserer\" changes with the person: \"mig\" (myself) for I, \"dig\" (yourself) for you, \"sig\" (himself or herself) for he or she: \"Hun interesserer sig for kunst\" (She is interested in art).",
+  "explanation": "\"At interessere sig for\" means \"to be interested in\". To say you are interested in something, use \"mig\" (myself): \"Jeg interesserer mig for musik\" (I am interested in music). To say a woman is, use \"sig\" (herself): \"Hun interesserer sig for kunst\" (She is interested in art). Without \"sig\" and \"for\", \"at interessere\" means \"to interest\": \"Musik interesserer mig\" (Music interests me).",
   "forms": [
    {
     "da": "at interessere sig for",
@@ -1713,6 +1697,10 @@
     "en": "interesting"
    },
    {
+    "da": "interesseret",
+    "en": "interested"
+   },
+   {
     "da": "kedelig",
     "en": "boring"
    }
@@ -1723,7 +1711,7 @@
   }
  },
  "at interviewe": {
-  "explanation": "\"At interviewe\" means \"to interview\", to ask someone questions for a news story, a study or a job: \"Journalisten interviewer ministeren\" (The journalist interviews the minister).",
+  "explanation": "\"At interviewe\" means \"to interview\". English speakers should remember the final \"e\" in the spelling. To say a journalist questions a politician, say: \"Journalisten interviewer ministeren\" (The journalist interviews the minister).",
   "forms": [
    {
     "da": "at interviewe",
@@ -1752,6 +1740,10 @@
     "en": "to question"
    },
    {
+    "da": "et spørgsmål",
+    "en": "a question"
+   },
+   {
     "da": "et svar",
     "en": "an answer"
    }
@@ -1762,7 +1754,7 @@
   }
  },
  "at introducere": {
-  "explanation": "\"At introducere\" means \"to introduce\", bringing in something new, like a method, a product or a subject. For introducing a person, Danes use \"at præsentere\" (to present): \"Må jeg præsentere Anna?\" (May I introduce Anna?)",
+  "explanation": "\"At introducere\" means \"to introduce\". To say you bring in something new, say: \"Firmaet introducerer en ny telefon\" (The company is introducing a new phone). To introduce one person to another, use \"at præsentere\" (to present) instead: \"Må jeg præsentere Anna?\" (May I introduce Anna?).",
   "forms": [
    {
     "da": "at introducere",
@@ -1801,7 +1793,7 @@
   }
  },
  "at invadere": {
-  "explanation": "\"At invadere\" means \"to invade\", to enter a country with an army by force. It is also used when a place is filled by many people or animals: \"Turisterne invaderer byen\" (The tourists are invading the town).",
+  "explanation": "\"At invadere\" means \"to invade\". To say an army enters a country, say: \"Hæren invaderer landet\" (The army is invading the country). To say a place is filled with many people, say: \"Turisterne invaderer byen\" (The tourists are invading the town).",
   "forms": [
    {
     "da": "at invadere",
@@ -1844,7 +1836,7 @@
   }
  },
  "at investere": {
-  "explanation": "\"At investere\" means \"to invest\", to put money into something in order to earn more later, such as a company or a house. It also works for time and effort: \"Jeg investerer mange timer i projektet\" (I invest many hours in the project).",
+  "explanation": "\"At investere\" means \"to invest\". To say what you put money into, add \"i\" (in) after it: \"Hun investerer i en lejlighed\" (She is investing in a flat). To say you put time into something, say: \"Jeg investerer mange timer i projektet\" (I am investing many hours in the project).",
   "forms": [
    {
     "da": "at investere",
@@ -1887,7 +1879,7 @@
   }
  },
  "at invitere": {
-  "explanation": "\"At invitere\" means \"to invite\". \"Jeg inviterer dig til min fødselsdag\" means \"I invite you to my birthday\".",
+  "explanation": "\"At invitere\" means \"to invite\". To invite someone for coffee, add \"på\" (for) after the person: \"Må jeg invitere dig på kaffe?\" (May I invite you for coffee?).",
   "forms": [
    {
     "da": "at invitere",
@@ -1926,7 +1918,7 @@
   }
  },
  "at irritere": {
-  "explanation": "\"At irritere\" means \"to irritate\" and \"to annoy\": \"Larmen irriterer mig\" (The noise annoys me). To say you are annoyed, use \"Jeg er irriteret\" (I am annoyed).",
+  "explanation": "\"At irritere\" means \"to irritate\". To say a noise annoys you, say: \"Larmen irriterer mig\" (The noise annoys me). To say you are annoyed, use \"irriteret\" (annoyed): \"Jeg er irriteret\" (I am annoyed).",
   "forms": [
    {
     "da": "at irritere",
@@ -1969,7 +1961,7 @@
   }
  },
  "at isolere": {
-  "explanation": "\"At isolere\" means \"to insulate\" a building against cold or noise: \"Vi isolerer loftet\" (We are insulating the attic). It also means \"to isolate\", to keep a person or thing away from others: \"Patienten bliver isoleret\" (The patient is being isolated).",
+  "explanation": "\"At isolere\" means \"to isolate or insulate\". To say you insulate a building against cold, say: \"Vi isolerer loftet\" (We are insulating the attic). To say a person is kept away from others, say: \"Patienten bliver isoleret\" (The patient is being isolated).",
   "forms": [
    {
     "da": "at isolere",
@@ -1998,8 +1990,8 @@
     "en": "to shield"
    },
    {
-    "da": "at tætne",
-    "en": "to seal"
+    "da": "en isolering",
+    "en": "insulation"
    }
   ],
   "sentence": {
@@ -2008,7 +2000,7 @@
   }
  },
  "en iagttager": {
-  "explanation": "\"En iagttager\" means \"an observer\", someone who watches something carefully without taking part in it. It can be a person who studies animals or a person who follows events and reports on them.",
+  "explanation": "\"En iagttager\" means \"an observer\". It comes from the verb \"at iagttage\" (to observe): \"Jeg iagttager fuglene fra vinduet\" (I watch the birds from the window).",
   "forms": [
    {
     "da": "en iagttager",
@@ -2037,10 +2029,6 @@
     "en": "a spectator"
    },
    {
-    "da": "en betragter",
-    "en": "a viewer"
-   },
-   {
     "da": "en iagttagelse",
     "en": "an observation"
    }
@@ -2051,7 +2039,7 @@
   }
  },
  "en identitet": {
-  "explanation": "\"En identitet\" means \"an identity\", who a person is or feels they are, such as their background and values. A group, a country or a company can have \"en identitet\" too, for example the look and feel that makes it recognizable.",
+  "explanation": "\"En identitet\" means \"an identity\". To talk about the identity of a country, use \"national\" (national): \"en national identitet\" (a national identity).",
   "forms": [
    {
     "da": "en identitet",
@@ -2080,10 +2068,6 @@
     "en": "a nationality"
    },
    {
-    "da": "et identitetskort",
-    "en": "an ID card"
-   },
-   {
     "da": "en kultur",
     "en": "a culture"
    }
@@ -2094,7 +2078,7 @@
   }
  },
  "en idrætshal": {
-  "explanation": "\"En idrætshal\" means \"a sports hall\", a big indoor building for sports like handball, badminton and gymnastics. It is built from idræt (sports) and hal (hall). \"Idræt\" is also the name of the sports class at school.",
+  "explanation": "\"En idrætshal\" means \"a sports hall\". It is built from \"idræt\" (sports) and \"en hal\" (a hall). To say you have the school subject, use \"idræt\" alone: \"Vi har idræt i morgen\" (We have PE tomorrow).",
   "forms": [
    {
     "da": "en idrætshal",
@@ -2125,10 +2109,6 @@
    {
     "da": "en gymnastiksal",
     "en": "a gymnasium"
-   },
-   {
-    "da": "et fitnesscenter",
-    "en": "a fitness center"
    }
   ],
   "sentence": {
@@ -2137,7 +2117,7 @@
   }
  },
  "en idé": {
-  "explanation": "\"En idé\" means \"an idea\", a thought about what to do or a way to solve something. For \"I have no idea\", Danes say \"Jeg aner det ikke\" (I do not know) or \"Jeg har ingen anelse\" (I have no clue).",
+  "explanation": "\"En idé\" means \"an idea\". To say you get an idea, use \"at få\" (to get): \"Jeg fik en idé\" (I got an idea). To say you have no idea, say: \"Jeg aner det ikke\" (I have no clue).",
   "forms": [
    {
     "da": "en idé",
@@ -2176,7 +2156,7 @@
   }
  },
  "en igangsætter": {
-  "explanation": "\"En igangsætter\" means \"an initiator\", a person who gets a project, an idea or a change started. It comes from \"at sætte i gang\" (to set something going).",
+  "explanation": "\"En igangsætter\" means \"an initiator\". It comes from \"at sætte i gang\" (to set something going): \"Vi sætter projektet i gang\" (We are getting the project started).",
   "forms": [
    {
     "da": "en igangsætter",
@@ -2207,10 +2187,6 @@
    {
     "da": "en ophavsmand",
     "en": "an originator"
-   },
-   {
-    "da": "en leder",
-    "en": "a leader"
    }
   ],
   "sentence": {
@@ -2219,7 +2195,7 @@
   }
  },
  "en illusion": {
-  "explanation": "\"En illusion\" means \"an illusion\", something that looks real but is not. It is used for tricks of the eye and also for false hopes: \"Jeg har ingen illusioner om det\" (I have no illusions about it) means you are realistic about it.",
+  "explanation": "\"En illusion\" means \"an illusion\". To say you have no false hopes about something, say: \"Jeg har ingen illusioner om det\" (I have no illusions about it).",
   "forms": [
    {
     "da": "en illusion",
@@ -2262,7 +2238,7 @@
   }
  },
  "en illustration": {
-  "explanation": "\"En illustration\" means \"an illustration\", a picture that goes with a text and helps explain it, as in a book or a magazine. It can also mean an example that makes a point clear.",
+  "explanation": "\"En illustration\" means \"an illustration\". It comes from the verb \"at illustrere\" (to illustrate): \"Tegneren illustrerer bogen\" (The artist illustrates the book). To say an example makes a point clear, say: \"Det er en god illustration af problemet\" (That is a good illustration of the problem).",
   "forms": [
    {
     "da": "en illustration",
@@ -2291,12 +2267,12 @@
     "en": "an illustrator"
    },
    {
-    "da": "en figur",
-    "en": "a figure"
-   },
-   {
     "da": "et maleri",
     "en": "a painting"
+   },
+   {
+    "da": "en figur",
+    "en": "a figure"
    }
   ],
   "sentence": {
@@ -2305,7 +2281,7 @@
   }
  },
  "en implikation": {
-  "explanation": "\"En implikation\" means \"an implication\", something that follows from a decision or a fact without being said directly. It is often used in the plural: \"Hvad er implikationerne?\" (What are the implications?)",
+  "explanation": "\"En implikation\" means \"an implication\". To ask what a decision leads to, use the plural: \"Hvad er implikationerne?\" (What are the implications?)",
   "forms": [
    {
     "da": "en implikation",
@@ -2334,10 +2310,6 @@
     "en": "a result"
    },
    {
-    "da": "en betydning",
-    "en": "a meaning"
-   },
-   {
     "da": "en virkning",
     "en": "an effect"
    }
@@ -2348,7 +2320,7 @@
   }
  },
  "en indbakke": {
-  "explanation": "\"En indbakke\" means \"an inbox\", the place where new messages arrive. It is built from ind (in) and bakke (tray). \"Bakke\" also means \"a hill\": \"Cyklen ruller ned ad bakken\" (The bike rolls down the hill).",
+  "explanation": "\"En indbakke\" means \"an inbox\". It is built from \"ind\" (in) and \"en bakke\" (a tray). \"Bakke\" also means \"hill\", as in \"Cyklen ruller ned ad bakken\" (The bike rolls down the hill).",
   "forms": [
    {
     "da": "en indbakke",
@@ -2369,16 +2341,16 @@
   ],
   "related": [
    {
-    "da": "en udbakke",
-    "en": "an outbox"
+    "da": "en postkasse",
+    "en": "a mailbox"
    },
    {
     "da": "en mail",
     "en": "an email"
    },
    {
-    "da": "en postkasse",
-    "en": "a mailbox"
+    "da": "en besked",
+    "en": "a message"
    }
   ],
   "sentence": {
@@ -2387,7 +2359,7 @@
   }
  },
  "en indblanding": {
-  "explanation": "\"En indblanding\" means \"an interference\", when someone gets involved in something that is not their business. It is almost always negative: \"Hun bryder sig ikke om andres indblanding\" (She does not like other people butting in).",
+  "explanation": "\"En indblanding\" means \"an interference\". To say someone dislikes others getting involved, say: \"Hun bryder sig ikke om andres indblanding\" (She does not like other people butting in).",
   "forms": [
    {
     "da": "en indblanding",
@@ -2430,7 +2402,7 @@
   }
  },
  "en indbygger": {
-  "explanation": "\"En indbygger\" means \"an inhabitant\", a person who lives in a town, a city or a country. It is the word used to count the people of a place: \"Byen har 50.000 indbyggere\" (The town has 50,000 inhabitants).",
+  "explanation": "\"En indbygger\" means \"an inhabitant\". To say how many people live in a place, say: \"Byen har 50.000 indbyggere\" (The town has 50,000 inhabitants).",
   "forms": [
    {
     "da": "en indbygger",
@@ -2469,7 +2441,7 @@
   }
  },
  "en inddragelse": {
-  "explanation": "\"En inddragelse\" means \"an involvement\", bringing people in so they can take part in a decision: \"inddragelse af borgerne\" (involving the residents). Do not mix it up with \"indblanding\" (interference), which people do not want. The same word also means taking something away officially: \"inddragelse af kørekort\" (taking away a driver's license).",
+  "explanation": "\"En inddragelse\" means \"an involvement\". To say people take part in a decision, say: \"inddragelse af borgerne\" (involving the residents). Do not mix it up with \"indblanding\" (interference): \"Hun bryder sig ikke om andres indblanding\" (She does not like other people butting in). To say a license is taken away officially, say: \"inddragelse af kørekort\" (taking away a driver's license).",
   "forms": [
    {
     "da": "en inddragelse",
@@ -2490,8 +2462,8 @@
   ],
   "related": [
    {
-    "da": "deltagelse",
-    "en": "participation"
+    "da": "en deltagelse",
+    "en": "a participation"
    },
    {
     "da": "en medbestemmelse",
@@ -2512,7 +2484,7 @@
   }
  },
  "en inder": {
-  "explanation": "\"En inder\" means \"an Indian\", a person from India. Do not mix it up with \"en indianer\" (a Native American). The country is \"Indien\" (India), and food or music from there is called \"indisk\" (Indian).",
+  "explanation": "\"En inder\" means \"an Indian\". It comes from the country \"Indien\" (India). To say food is Indian, use \"indisk\" (Indian): \"indisk mad\" (Indian food). Do not mix it up with \"en indianer\" (a Native American): \"Mange indianere boede i Nordamerika\" (Many Native Americans lived in North America).",
   "forms": [
    {
     "da": "en inder",
@@ -2543,10 +2515,6 @@
    {
     "da": "en nepaler",
     "en": "a Nepali"
-   },
-   {
-    "da": "en bangladesher",
-    "en": "a Bangladeshi"
    }
   ],
   "sentence": {
@@ -2555,7 +2523,7 @@
   }
  },
  "en inderside": {
-  "explanation": "\"En inderside\" means \"an inside\", the inner surface of something. It is built from inder (inner) and side (side). \"Side\" also means \"page\": \"side 12\" (page 12).",
+  "explanation": "\"En inderside\" means \"an inside\". It is built from \"inder\" (inner) and \"en side\" (a side). To say a page number, \"side\" also means \"page\": \"side 12\" (page 12).",
   "forms": [
    {
     "da": "en inderside",
@@ -2598,7 +2566,7 @@
   }
  },
  "en indflydelse": {
-  "explanation": "\"En indflydelse\" means \"an influence\", the power to affect what other people think or do. A common phrase is \"at have indflydelse på\" (to have influence on): \"Jeg har ingen indflydelse på det\" (I have no say in it).",
+  "explanation": "\"En indflydelse\" means \"an influence\". To say you have influence over something, use \"at have indflydelse på\" (to have influence on): \"Jeg har ingen indflydelse på det\" (I have no say in it).",
   "forms": [
    {
     "da": "en indflydelse",
@@ -2624,7 +2592,7 @@
    },
    {
     "da": "en betydning",
-    "en": "an importance"
+    "en": "a meaning"
    },
    {
     "da": "en autoritet",
@@ -2641,7 +2609,7 @@
   }
  },
  "en indflytning": {
-  "explanation": "\"En indflytning\" means \"a move-in\", the act or day of moving into a new home. The matching verb is \"at flytte ind\" (to move in).",
+  "explanation": "\"En indflytning\" means \"a move-in\". It is built from \"ind\" (in) and \"en flytning\" (a move). To say you move into a new home, use the verb \"at flytte ind\" (to move in): \"Vi flytter ind på fredag\" (We are moving in on Friday).",
   "forms": [
    {
     "da": "en indflytning",
@@ -2684,7 +2652,7 @@
   }
  },
  "en indflytningsgave": {
-  "explanation": "\"En indflytningsgave\" means \"a housewarming gift\", a present you give to people who have just moved into a new home. It is built from indflytning (moving in) and gave (gift). \"Gave\" also appears in \"en julegave\" (a Christmas present).",
+  "explanation": "\"En indflytningsgave\" means \"a housewarming gift\". It is built from \"indflytning\" (moving in) and \"en gave\" (a gift). \"Gave\" also appears in \"en julegave\" (a Christmas present).",
   "forms": [
    {
     "da": "en indflytningsgave",
@@ -2727,7 +2695,7 @@
   }
  },
  "en indfødsretsprøve": {
-  "explanation": "\"En indfødsretsprøve\" means \"a citizenship test\", the test about Danish society, history and culture that you must pass to apply for Danish nationality. It is built from indfødsret (the right of a native) and prøve (test).",
+  "explanation": "\"En indfødsretsprøve\" means \"a citizenship test\". It is built from \"indfødsret\" (citizenship) and \"en prøve\" (a test). The test is about Danish society, history and culture.",
   "forms": [
    {
     "da": "en indfødsretsprøve",
@@ -2748,20 +2716,16 @@
   ],
   "related": [
    {
-    "da": "en danskprøve",
-    "en": "a Danish language test"
-   },
-   {
-    "da": "et pas",
-    "en": "a passport"
-   },
-   {
-    "da": "en ansøgning",
-    "en": "an application"
+    "da": "et statsborgerskab",
+    "en": "citizenship"
    },
    {
     "da": "en medborgerskabsprøve",
     "en": "a civics test"
+   },
+   {
+    "da": "en ansøgning",
+    "en": "an application"
    }
   ],
   "sentence": {
@@ -2770,7 +2734,7 @@
   }
  },
  "en indgang": {
-  "explanation": "\"En indgang\" means \"an entrance\", the place where you go in, such as the door of a building or the gate of a park. It is built from ind (in) and gang (passage). \"Gang\" also means \"a hallway\": \"Skoene står i gangen\" (The shoes are in the hallway).",
+  "explanation": "\"En indgang\" means \"an entrance\". It is built from \"ind\" (in) and \"en gang\" (a passage). \"Gang\" also means \"hallway\", as in \"Skoene står i gangen\" (The shoes are in the hallway).",
   "forms": [
    {
     "da": "en indgang",
@@ -2791,20 +2755,20 @@
   ],
   "related": [
    {
-    "da": "en dør",
-    "en": "a door"
+    "da": "en udgang",
+    "en": "an exit"
    },
    {
     "da": "en hoveddør",
     "en": "a front door"
    },
    {
-    "da": "at gå ind",
-    "en": "to go in"
-   },
-   {
     "da": "en indkørsel",
     "en": "a driveway"
+   },
+   {
+    "da": "en dør",
+    "en": "a door"
    }
   ],
   "sentence": {
@@ -2813,7 +2777,7 @@
   }
  },
  "en indkaldelse": {
-  "explanation": "\"En indkaldelse\" means \"a summons / notice\", an official message that calls you to show up. It is used for meetings, hospital appointments and military service: \"indkaldelse til generalforsamling\" (notice of a general meeting).",
+  "explanation": "\"En indkaldelse\" means \"a summons or notice\". It comes from the verb \"at indkalde\" (to call in). To say you got a notice for a meeting, add \"til\" (to): \"indkaldelse til generalforsamling\" (notice of a general meeting).",
   "forms": [
    {
     "da": "en indkaldelse",
@@ -2842,12 +2806,12 @@
     "en": "an agenda"
    },
    {
-    "da": "en tilmelding",
-    "en": "a sign-up"
-   },
-   {
     "da": "et afbud",
     "en": "a notice of absence"
+   },
+   {
+    "da": "en tilmelding",
+    "en": "a sign-up"
    }
   ],
   "sentence": {
@@ -2856,7 +2820,7 @@
   }
  },
  "en indkomst": {
-  "explanation": "\"En indkomst\" means \"an income\", the money a person or a household earns. It is the standard word in tax and official forms, where you give your \"årlige indkomst\" (yearly income).",
+  "explanation": "\"En indkomst\" means \"an income\". To say income tax, put \"skat\" (tax) after it: \"indkomstskat\" (income tax). To talk about a whole year, use \"årlig\" (yearly): \"årlig indkomst\" (yearly income).",
   "forms": [
    {
     "da": "en indkomst",
@@ -2889,8 +2853,8 @@
     "en": "an expense"
    },
    {
-    "da": "en skat",
-    "en": "a tax"
+    "da": "en lønseddel",
+    "en": "a payslip"
    }
   ],
   "sentence": {
@@ -2899,7 +2863,7 @@
   }
  },
  "en indkøbskurv": {
-  "explanation": "\"En indkøbskurv\" means \"a shopping basket\", the kind you carry by hand in a shop. A bigger one on wheels is \"en indkøbsvogn\" (a shopping cart). The word is built from indkøb (shopping) and en kurv (a basket).",
+  "explanation": "\"En indkøbskurv\" means \"a shopping basket\". It is built from \"indkøb\" (shopping) and \"en kurv\" (a basket). Do not mix it up with \"en indkøbsvogn\" (a shopping cart on wheels): \"Indkøbsvognene står ved indgangen\" (The shopping carts are by the entrance).",
   "forms": [
    {
     "da": "en indkøbskurv",
@@ -2920,16 +2884,16 @@
   ],
   "related": [
    {
-    "da": "at købe ind",
-    "en": "to buy groceries"
-   },
-   {
     "da": "en indkøbspose",
     "en": "a shopping bag"
    },
    {
     "da": "en indkøbsliste",
     "en": "a shopping list"
+   },
+   {
+    "da": "at købe ind",
+    "en": "to buy groceries"
    }
   ],
   "sentence": {
@@ -2938,7 +2902,7 @@
   }
  },
  "en indkøbsliste": {
-  "explanation": "\"En indkøbsliste\" means \"a shopping list\", the list of things you plan to buy, on paper or in your phone. It is built from indkøb (shopping) and liste (list). \"Indkøb\" also appears in \"at gå på indkøb\" (to go shopping).",
+  "explanation": "\"En indkøbsliste\" means \"a shopping list\". It is built from \"indkøb\" (shopping) and \"en liste\" (a list). \"Indkøb\" also appears in \"at gå på indkøb\" (to go shopping): \"Jeg går på indkøb\" (I am going shopping).",
   "forms": [
    {
     "da": "en indkøbsliste",
@@ -2969,6 +2933,10 @@
    {
     "da": "en huskeliste",
     "en": "a reminder list"
+   },
+   {
+    "da": "en indkøbspose",
+    "en": "a shopping bag"
    }
   ],
   "sentence": {
@@ -2977,7 +2945,7 @@
   }
  },
  "en indkøbspose": {
-  "explanation": "\"En indkøbspose\" means \"a shopping bag\", a plastic or cloth bag you fill in a store. It is built from indkøb (shopping) and en pose (a bag). \"Pose\" also names a bag of food: \"en pose chips\" (a bag of chips).",
+  "explanation": "\"En indkøbspose\" means \"a shopping bag\". It is built from \"indkøb\" (shopping) and \"en pose\" (a bag). \"Pose\" also names a bag of food, as in \"en pose chips\" (a bag of chips).",
   "forms": [
    {
     "da": "en indkøbspose",
@@ -3016,7 +2984,7 @@
   }
  },
  "en indkøbstur": {
-  "explanation": "\"En indkøbstur\" means \"a shopping trip\", going out to buy things like groceries or clothes. You usually say \"at tage på indkøbstur\" (to go on a shopping trip).",
+  "explanation": "\"En indkøbstur\" means \"a shopping trip\". It is built from \"indkøb\" (shopping) and \"en tur\" (a trip). \"Tur\" also appears in \"en cykeltur\" (a bike ride).",
   "forms": [
    {
     "da": "en indkøbstur",
@@ -3059,7 +3027,7 @@
   }
  },
  "en indkøbsvogn": {
-  "explanation": "\"En indkøbsvogn\" means \"a shopping cart\", the kind on wheels that you push around a supermarket. It is built from indkøb (shopping) and en vogn (a cart). \"Vogn\" also appears in \"en barnevogn\" (a baby stroller).",
+  "explanation": "\"En indkøbsvogn\" means \"a shopping cart\". It is built from \"indkøb\" (shopping) and \"en vogn\" (a cart). \"Vogn\" also appears in \"en barnevogn\" (a baby stroller).",
   "forms": [
    {
     "da": "en indkøbsvogn",
@@ -3098,7 +3066,7 @@
   }
  },
  "en indkørsel": {
-  "explanation": "\"En indkørsel\" means \"a driveway\", the way from the road to a house. On a road sign, \"Indkørsel forbudt\" (No entry) means cars may not drive in.",
+  "explanation": "\"En indkørsel\" means \"a driveway\". It is built from \"ind\" (in) and \"kørsel\" (driving). To read a road sign, \"Indkørsel forbudt\" means \"No entry\" for cars.",
   "forms": [
    {
     "da": "en indkørsel",
@@ -3141,7 +3109,7 @@
   }
  },
  "en indledning": {
-  "explanation": "\"En indledning\" means \"an introduction\", the first part of a text, a speech or a report, which tells what is coming. It is not for presenting a person: for that, say \"at præsentere\" (to introduce).",
+  "explanation": "\"En indledning\" means \"an introduction\". To say where something is written in a text, say: \"Det står i indledningen\" (It says so in the introduction). To introduce a person, use \"at præsentere\" (to introduce) instead: \"Må jeg præsentere min kollega?\" (May I introduce my colleague?).",
   "forms": [
    {
     "da": "en indledning",
@@ -3172,10 +3140,6 @@
    {
     "da": "et forord",
     "en": "a preface"
-   },
-   {
-    "da": "at indlede",
-    "en": "to begin"
    }
   ],
   "sentence": {
@@ -3184,7 +3148,7 @@
   }
  },
  "en indlæggelse": {
-  "explanation": "\"En indlæggelse\" means \"a hospitalization\", being admitted to a hospital to stay overnight or longer. The matching verb is \"at indlægge\" (to admit): \"Han er indlagt\" (He is admitted). A visit where you go home the same day is called \"ambulant\" (outpatient).",
+  "explanation": "\"En indlæggelse\" means \"a hospitalization\". It comes from the verb \"at indlægge\" (to admit): \"Han er indlagt\" (He has been admitted). For treatment without an overnight stay, use \"ambulant\" (outpatient): \"en ambulant behandling\" (an outpatient treatment).",
   "forms": [
    {
     "da": "en indlæggelse",
@@ -3209,16 +3173,12 @@
     "en": "a discharge"
    },
    {
-    "da": "en sygeplejerske",
-    "en": "a nurse"
-   },
-   {
-    "da": "en lægeundersøgelse",
-    "en": "a medical exam"
-   },
-   {
     "da": "en patient",
     "en": "a patient"
+   },
+   {
+    "da": "en sygeplejerske",
+    "en": "a nurse"
    }
   ],
   "sentence": {
@@ -3227,7 +3187,7 @@
   }
  },
  "en indlæring": {
-  "explanation": "\"En indlæring\" means \"a learning process\", taking in new knowledge or skills, mostly in school and studies. You often see it in compound words such as \"indlæringsvanskeligheder\" (learning difficulties).",
+  "explanation": "\"En indlæring\" means \"a learning process\". It is built from \"ind\" (in) and \"at lære\" (to learn). To say someone has trouble learning, add \"vanskeligheder\" (difficulties): \"indlæringsvanskeligheder\" (learning difficulties).",
   "forms": [
    {
     "da": "en indlæring",
@@ -3258,10 +3218,6 @@
    {
     "da": "en oplæring",
     "en": "training"
-   },
-   {
-    "da": "en indføring",
-    "en": "an introduction"
    }
   ],
   "sentence": {
@@ -3270,7 +3226,7 @@
   }
  },
  "en indretning": {
-  "explanation": "\"En indretning\" means \"a layout\" or \"furnishing\", how a room or a home is arranged and decorated. The matching verb is \"at indrette\" (to furnish): \"Vi har indrettet stuen\" (We have furnished the living room).",
+  "explanation": "\"En indretning\" means \"a layout or furnishing\". It comes from the verb \"at indrette\" (to furnish). To say you have furnished a room, say: \"Vi har indrettet stuen\" (We have furnished the living room).",
   "forms": [
    {
     "da": "en indretning",
@@ -3299,12 +3255,12 @@
     "en": "home decor"
    },
    {
-    "da": "en planløsning",
-    "en": "a floor plan"
-   },
-   {
     "da": "et møbel",
     "en": "a piece of furniture"
+   },
+   {
+    "da": "en planløsning",
+    "en": "a floor plan"
    }
   ],
   "sentence": {
@@ -3313,7 +3269,7 @@
   }
  },
  "en indretningsarkitekt": {
-  "explanation": "\"En indretningsarkitekt\" means \"an interior designer\", a trained professional who plans how rooms look and are used, from colors to furniture and light. It is built from indretning (layout, furnishing) and arkitekt (architect).",
+  "explanation": "\"En indretningsarkitekt\" means \"an interior designer\". It is built from \"indretning\" (layout, furnishing) and \"en arkitekt\" (an architect).",
   "forms": [
    {
     "da": "en indretningsarkitekt",
@@ -3356,7 +3312,7 @@
   }
  },
  "en indsamling": {
-  "explanation": "\"En indsamling\" means \"a collection\" in the sense of gathering money or goods for a good cause. It is not a hobby collection like stamps, which is \"en samling\" (a collection). The matching verb is \"at samle ind\" (to collect money).",
+  "explanation": "\"En indsamling\" means \"a collection (fundraiser)\". To say you collect money for others, use \"at samle ind\" (to collect): \"Vi samler penge ind\" (We are collecting money). Do not mix it up with \"en samling\" (a collection of things you own): \"Han har en stor samling frimærker\" (He has a big collection of stamps).",
   "forms": [
    {
     "da": "en indsamling",
@@ -3377,8 +3333,8 @@
   ],
   "related": [
    {
-    "da": "en pengeindsamling",
-    "en": "a fundraiser"
+    "da": "en kampagne",
+    "en": "a campaign"
    },
    {
     "da": "en donation",
@@ -3399,7 +3355,7 @@
   }
  },
  "en indsat": {
-  "explanation": "\"En indsat\" means \"an inmate\", a person who is in prison. It is the neutral word used by prison staff and in the news, and it sounds more respectful than \"fange\" (prisoner).",
+  "explanation": "\"En indsat\" means \"an inmate\". It is the past form of \"at indsætte\" (to put in), so it literally means \"put in\".",
   "forms": [
    {
     "da": "en indsat",
@@ -3442,7 +3398,7 @@
   }
  },
  "en indsats": {
-  "explanation": "\"En indsats\" means \"an effort\", the work and energy someone puts into something, often as a contribution to a group. \"Tak for din indsats\" (Thanks for your effort) is a common way to praise someone. It can also mean a planned action, such as a public program against a problem: \"en indsats mod ensomhed\" (an effort against loneliness).",
+  "explanation": "\"En indsats\" means \"an effort\". To say you make an effort, use \"at gøre\" (to do): \"Jeg gør en indsats\" (I am making an effort). To thank someone, say: \"Tak for din indsats\" (Thanks for your effort). To name a planned action against a problem, say: \"en indsats mod ensomhed\" (an effort against loneliness).",
   "forms": [
    {
     "da": "en indsats",
@@ -3473,10 +3429,6 @@
    {
     "da": "en bestræbelse",
     "en": "an endeavor"
-   },
-   {
-    "da": "en opgave",
-    "en": "a task"
    }
   ],
   "sentence": {
@@ -3485,7 +3437,7 @@
   }
  },
  "en indskrivning": {
-  "explanation": "\"En indskrivning\" means \"an enrollment\", putting a name on the list at a school or a university. Parents do it for their children before school starts: \"Indskrivningen begynder i januar\" (Enrollment begins in January).",
+  "explanation": "\"En indskrivning\" means \"an enrollment\". It is built from \"ind\" (in) and \"at skrive\" (to write). To say when enrollment opens, say: \"Indskrivningen begynder i januar\" (Enrollment begins in January).",
   "forms": [
    {
     "da": "en indskrivning",
@@ -3524,7 +3476,7 @@
   }
  },
  "en indsprøjtning": {
-  "explanation": "\"En indsprøjtning\" means \"an injection\", medicine put into the body with a needle. In daily talk people often say \"en sprøjte\" (a shot): \"Jeg skal have en sprøjte\" (I am getting a shot). The word is also used for money put into something, such as a company: \"en økonomisk indsprøjtning\" (a financial injection).",
+  "explanation": "\"En indsprøjtning\" means \"an injection\". To say you get a shot, use the shorter \"en sprøjte\" (a syringe): \"Jeg skal have en sprøjte\" (I am getting a shot). To say money is put into a business, say: \"en økonomisk indsprøjtning\" (a financial injection).",
   "forms": [
    {
     "da": "en indsprøjtning",
@@ -3567,7 +3519,7 @@
   }
  },
  "en indstilling": {
-  "explanation": "\"En indstilling\" means \"a setting\", a choice you can adjust on a phone, a machine or a program. The word has a second meaning, a person's attitude: \"Han har en positiv indstilling\" (He has a positive attitude). You can tell which one it is from the context of the sentence.",
+  "explanation": "\"En indstilling\" means \"a setting\". To say you changed a setting on a phone or in an app, say: \"Jeg har ændret indstillingen\" (I have changed the setting). To say someone has an attitude, say: \"Han har en positiv indstilling\" (He has a positive attitude).",
   "forms": [
    {
     "da": "en indstilling",
@@ -3610,7 +3562,7 @@
   }
  },
  "en indtægt": {
-  "explanation": "\"En indtægt\" means \"an income\" or \"revenue\", money that comes in, for a person or a business: \"Turisme er byens vigtigste indtægt\" (Tourism is the town's main income). It is the opposite of \"en udgift\" (an expense).",
+  "explanation": "\"En indtægt\" means \"an income\". To say where money comes from, say: \"Turisme er byens vigtigste indtægt\" (Tourism is the town's main income). The opposite is \"en udgift\" (an expense): \"Husleje er min største udgift\" (Rent is my biggest expense).",
   "forms": [
    {
     "da": "en indtægt",
@@ -3653,7 +3605,7 @@
   }
  },
  "en industri": {
-  "explanation": "\"En industri\" means \"an industry\", a branch of business that makes goods in large amounts, usually with machines: \"fødevareindustri\" (food industry), \"medicinalindustri\" (drug industry). It can also mean the business sector of a country: \"Dansk industri\" (Danish industry).",
+  "explanation": "\"En industri\" means \"an industry\". To name one kind of industry, put a word in front: \"fødevareindustri\" (food industry) and \"medicinalindustri\" (drug industry).",
   "forms": [
    {
     "da": "en industri",
@@ -3696,7 +3648,7 @@
   }
  },
  "en indvandrer": {
-  "explanation": "\"En indvandrer\" means \"an immigrant\", a person who has moved to a country to live. The matching action is \"at indvandre\" (to immigrate).",
+  "explanation": "\"En indvandrer\" means \"an immigrant\". It comes from the verb \"at indvandre\" (to immigrate): \"Han indvandrede i 2010\" (He immigrated in 2010).",
   "forms": [
    {
     "da": "en indvandrer",
@@ -3725,12 +3677,12 @@
     "en": "a foreigner"
    },
    {
-    "da": "en statsborger",
-    "en": "a citizen"
-   },
-   {
     "da": "en emigrant",
     "en": "an emigrant"
+   },
+   {
+    "da": "en statsborger",
+    "en": "a citizen"
    }
   ],
   "sentence": {
@@ -3739,7 +3691,7 @@
   }
  },
  "en indånding": {
-  "explanation": "\"En indånding\" means \"an inhalation\", one drawing in of air. It is used in medical and yoga talk, often with its opposite: \"indånding og udånding\" (breathing in and out).",
+  "explanation": "\"En indånding\" means \"an inhalation or breath\". It is built from \"ind\" (in) and \"at ånde\" (to breathe). To say you take a deep breath, use \"dyb\" (deep): \"en dyb indånding\" (a deep breath).",
   "forms": [
    {
     "da": "en indånding",
@@ -3764,12 +3716,12 @@
     "en": "a breath"
    },
    {
-    "da": "at ånde",
-    "en": "to breathe"
-   },
-   {
     "da": "en lunge",
     "en": "a lung"
+   },
+   {
+    "da": "at trække vejret",
+    "en": "to breathe"
    }
   ],
   "sentence": {
@@ -3778,7 +3730,7 @@
   }
  },
  "en infektion": {
-  "explanation": "\"En infektion\" means \"an infection\", an illness caused by germs getting into the body. Doctors often name the place, as in \"en halsinfektion\" (a throat infection). Antibiotics work on infections from bacteria, but not on those from a virus.",
+  "explanation": "\"En infektion\" means \"an infection\". To say where the infection is, put the body part before it: \"en halsinfektion\" (a throat infection). To say you caught one, use \"at få\" (to get): \"Han har fået en infektion\" (He has got an infection).",
   "forms": [
    {
     "da": "en infektion",
@@ -3821,7 +3773,7 @@
   }
  },
  "en influencer": {
-  "explanation": "\"En influencer\" means \"an influencer\", the same word as in English. It is someone who shows their life online and recommends things to an audience.",
+  "explanation": "\"En influencer\" means \"an influencer\". To say you follow one online, use \"at følge\" (to follow): \"Jeg følger en influencer på Instagram\" (I follow an influencer on Instagram).",
   "forms": [
    {
     "da": "en influencer",
@@ -3842,8 +3794,8 @@
   ],
   "related": [
    {
-    "da": "en følger",
-    "en": "a follower"
+    "da": "en abonnent",
+    "en": "a subscriber"
    },
    {
     "da": "en blogger",
@@ -3860,7 +3812,7 @@
   }
  },
  "en ingeniør": {
-  "explanation": "\"En ingeniør\" means \"an engineer\", someone who designs or builds technical things like machines or roads. The word is the same for men and women.",
+  "explanation": "\"En ingeniør\" means \"an engineer\". To name the kind of engineer, put a word in front: \"maskiningeniør\" (mechanical engineer).",
   "forms": [
    {
     "da": "en ingeniør",
@@ -3899,7 +3851,7 @@
   }
  },
  "en ingrediens": {
-  "explanation": "\"En ingrediens\" means \"an ingredient\", one of the things a food is made from. The list on a package is \"en ingrediensliste\" (an ingredient list).",
+  "explanation": "\"En ingrediens\" means \"an ingredient\". To ask what a recipe needs, use the plural: \"Hvilke ingredienser skal jeg bruge?\" (Which ingredients do I need?) To name the list on a package, say \"en ingrediensliste\" (an ingredient list).",
   "forms": [
    {
     "da": "en ingrediens",
@@ -3942,7 +3894,7 @@
   }
  },
  "en innovation": {
-  "explanation": "\"En innovation\" means \"an innovation\", a new idea, product or method that is put to use. Unlike \"en opfindelse\" (an invention), \"innovation\" is used for a new thing that people actually use.",
+  "explanation": "\"En innovation\" means \"an innovation\". Do not mix it up with \"en opfindelse\" (an invention), a thing someone makes for the first time: \"Telefonen er en vigtig opfindelse\" (The telephone is an important invention).",
   "forms": [
    {
     "da": "en innovation",
@@ -3985,7 +3937,7 @@
   }
  },
  "en inspektør": {
-  "explanation": "\"En inspektør\" means \"an inspector\", a person whose job is to check that rules are followed, such as in a school, a restaurant or a factory. \"En fødevareinspektør\" (a food inspector) visits shops and restaurants.",
+  "explanation": "\"En inspektør\" means \"an inspector\". To name the kind of inspector, put a word in front: \"en fødevareinspektør\" (a food inspector).",
   "forms": [
    {
     "da": "en inspektør",
@@ -4028,7 +3980,7 @@
   }
  },
  "en inspiration": {
-  "explanation": "\"En inspiration\" means \"an inspiration\", something that gives you new ideas or the wish to create. A common phrase is \"at hente inspiration\" (to get inspiration): \"Vi henter inspiration fra Italien\" (We get inspiration from Italy).",
+  "explanation": "\"En inspiration\" means \"an inspiration\". To say you get ideas from somewhere, use \"at hente\" (to fetch): \"Vi henter inspiration fra Italien\" (We get inspiration from Italy).",
   "forms": [
    {
     "da": "en inspiration",
@@ -4053,10 +4005,6 @@
     "en": "an idea"
    },
    {
-    "da": "at inspirere",
-    "en": "to inspire"
-   },
-   {
     "da": "en motivation",
     "en": "a motivation"
    },
@@ -4071,7 +4019,7 @@
   }
  },
  "en installation": {
-  "explanation": "\"En installation\" means \"an installation\", the act of fitting equipment or software so it works, or the equipment itself. In art, it is also a work built in a room. The matching verb is \"at installere\" (to install).",
+  "explanation": "\"En installation\" means \"an installation\". To say how long it takes to put in a program, say: \"Installationen tager to minutter\" (The installation takes two minutes). In art it means a work built in a room: \"Kunstneren har bygget en installation i museet\" (The artist has built an installation in the museum).",
   "forms": [
    {
     "da": "en installation",
@@ -4100,8 +4048,8 @@
     "en": "a setup"
    },
    {
-    "da": "en afinstallation",
-    "en": "an uninstall"
+    "da": "en installatør",
+    "en": "an installer"
    },
    {
     "da": "en opdatering",
@@ -4114,7 +4062,7 @@
   }
  },
  "en institution": {
-  "explanation": "\"En institution\" means \"an institution\", an organization with an important public role, such as a school, a hospital or a museum. In Denmark, a daycare for children is also called \"en institution\", as in \"vuggestue\" (nursery) and \"børnehave\" (kindergarten).",
+  "explanation": "\"En institution\" means \"an institution\". In Denmark it is also the word for a daycare for children, such as \"en vuggestue\" (a nursery) or \"en børnehave\" (a kindergarten). To say a child goes there, say: \"Vores søn er i institution\" (Our son is in daycare).",
   "forms": [
    {
     "da": "en institution",
@@ -4157,7 +4105,7 @@
   }
  },
  "en instruks": {
-  "explanation": "\"En instruks\" means \"an instruction\", written rules from an employer or an authority about exactly what to do in a certain situation, such as handling a customer complaint. It can also be an order to the person doing the job: \"Han handlede efter instruks\" (He acted on orders).",
+  "explanation": "\"En instruks\" means \"an instruction\". To say someone did what the rules told them, say: \"Han handlede efter instruks\" (He acted according to instructions).",
   "forms": [
    {
     "da": "en instruks",
@@ -4200,7 +4148,7 @@
   }
  },
  "en instruktion": {
-  "explanation": "\"En instruktion\" means \"an instruction\", a piece of guidance that tells you how to do something. It is often used in the plural for a list of steps: \"Læs instruktionerne først\" (Read the instructions first). Do not mix it up with \"en instruktør\" (a director).",
+  "explanation": "\"En instruktion\" means \"an instruction\". To tell someone to read the steps, use the plural: \"Læs instruktionerne først\" (Read the instructions first). Do not mix it up with \"en instruktør\" (a director): \"Instruktøren leder filmen\" (The director leads the film).",
   "forms": [
    {
     "da": "en instruktion",
@@ -4243,7 +4191,7 @@
   }
  },
  "en instruktør": {
-  "explanation": "\"En instruktør\" means \"a director\" of a film, play or TV show, the person who leads the cast and decides how it looks. The same word is also used for an instructor in sports: \"en svømmeinstruktør\" (a swimming instructor). Do not mix it up with \"en direktør\" (a company director).",
+  "explanation": "\"En instruktør\" means \"a director\". To say who leads a film, say: \"Instruktøren leder filmen\" (The director leads the film). To name a sports teacher, put the sport in front: \"en svømmeinstruktør\" (a swimming instructor). Do not mix it up with \"en direktør\" (a company director): \"Direktøren leder firmaet\" (The company director runs the firm).",
   "forms": [
    {
     "da": "en instruktør",
@@ -4286,7 +4234,7 @@
   }
  },
  "en integration": {
-  "explanation": "\"En integration\" means \"integration\", the process of becoming a full part of a society, a school or a workplace. In Denmark it is most often used about new arrivals learning the language and finding work. It can also mean joining two computer systems.",
+  "explanation": "\"En integration\" means \"integration\". To talk about newcomers becoming part of society, say: \"integration af flygtninge\" (integration of refugees). To talk about computer systems, say: \"integration mellem to systemer\" (integration between two systems).",
   "forms": [
    {
     "da": "en integration",
@@ -4315,12 +4263,12 @@
     "en": "an immigrant"
    },
    {
-    "da": "en flygtning",
-    "en": "a refugee"
-   },
-   {
     "da": "en tilpasning",
     "en": "an adjustment"
+   },
+   {
+    "da": "et fællesskab",
+    "en": "a community"
    }
   ],
   "sentence": {
@@ -4329,7 +4277,7 @@
   }
  },
  "en interesse": {
-  "explanation": "\"En interesse\" means \"an interest\", something you like to spend time on. To name the subject of your interest, add \"for\" (in): \"Han har stor interesse for biler\" (He has a big interest in cars). To describe yourself as interested, use \"at være interesseret i\" (to be interested in).",
+  "explanation": "\"En interesse\" means \"an interest\". To name the subject of your interest, add \"for\" (in): \"Han har stor interesse for biler\" (He has a big interest in cars). To say you are interested, use \"at være interesseret i\" (to be interested in): \"Jeg er interesseret i historie\" (I am interested in history).",
   "forms": [
    {
     "da": "en interesse",
@@ -4372,7 +4320,7 @@
   }
  },
  "en internetforbindelse": {
-  "explanation": "\"En internetforbindelse\" means \"an internet connection\", the link that lets a phone or computer get online. When the signal is gone, you can say: \"Jeg har ingen forbindelse\" (I have no connection).",
+  "explanation": "\"En internetforbindelse\" means \"an internet connection\". It is built from \"internet\" and \"en forbindelse\" (a connection). To say you have no signal, say: \"Jeg har ingen forbindelse\" (I have no connection).",
   "forms": [
    {
     "da": "en internetforbindelse",
@@ -4411,7 +4359,7 @@
   }
  },
  "en invasion": {
-  "explanation": "\"En invasion\" means \"an invasion\", when an army enters another country by force. It is also used lightly for a big crowd arriving: \"en invasion af turister\" (an invasion of tourists).",
+  "explanation": "\"En invasion\" means \"an invasion\". It comes from the verb \"at invadere\" (to invade). To say a crowd of tourists fills a place, say: \"en invasion af turister\" (an invasion of tourists).",
   "forms": [
    {
     "da": "en invasion",
@@ -4454,7 +4402,7 @@
   }
  },
  "en investering": {
-  "explanation": "\"En investering\" means \"an investment\", money or time you put into something to get more back later. It is used for shares and houses, and also in daily talk: \"Den nye cykel er en god investering\" (The new bike is a good investment).",
+  "explanation": "\"En investering\" means \"an investment\". To say what you invest in, add \"i\" (in): \"en investering i uddannelse\" (an investment in education). To say something is worth the money, say: \"Den nye cykel er en god investering\" (The new bike is a good investment).",
   "forms": [
    {
     "da": "en investering",
@@ -4497,7 +4445,7 @@
   }
  },
  "en invitation": {
-  "explanation": "\"En invitation\" means \"an invitation\", a request to come to a party or event. The matching action is \"at invitere\" (to invite).",
+  "explanation": "\"En invitation\" means \"an invitation\". It comes from the verb \"at invitere\" (to invite). To say you accept, use \"at takke ja\" (to say yes, thanks): \"Jeg takker ja til invitationen\" (I accept the invitation).",
   "forms": [
    {
     "da": "en invitation",
@@ -4536,7 +4484,7 @@
   }
  },
  "en irritation": {
-  "explanation": "\"En irritation\" means \"an irritation\", a small feeling of being bothered or upset by something. It is used for feelings and also for the body: \"en irritation i huden\" (an irritation in the skin).",
+  "explanation": "\"En irritation\" means \"an irritation\". It comes from the verb \"at irritere\" (to irritate). To say your skin is irritated, say: \"en irritation i huden\" (an irritation in the skin).",
   "forms": [
    {
     "da": "en irritation",
@@ -4565,12 +4513,12 @@
     "en": "an annoyance"
    },
    {
-    "da": "at irritere",
-    "en": "to irritate"
-   },
-   {
     "da": "en gene",
     "en": "a nuisance"
+   },
+   {
+    "da": "irriterende",
+    "en": "annoying"
    }
   ],
   "sentence": {
@@ -4579,7 +4527,7 @@
   }
  },
  "en isbjørn": {
-  "explanation": "\"En isbjørn\" means \"a polar bear\". It is built from is (ice) and bjørn (bear). \"Is\" also means \"ice cream\": \"Jeg vil have en is\" (I want an ice cream).",
+  "explanation": "\"En isbjørn\" means \"a polar bear\". It is built from \"is\" (ice) and \"en bjørn\" (a bear). \"Is\" also means \"ice cream\", as in \"Jeg vil have en is\" (I want an ice cream).",
   "forms": [
    {
     "da": "en isbjørn",
@@ -4608,8 +4556,8 @@
     "en": "a grizzly bear"
    },
    {
-    "da": "en panda",
-    "en": "a panda"
+    "da": "en sortbjørn",
+    "en": "a black bear"
    }
   ],
   "sentence": {
@@ -4618,7 +4566,7 @@
   }
  },
  "en isbod": {
-  "explanation": "\"En isbod\" means \"an ice cream stand\", a small stall that sells ice cream. \"Is\" means both \"ice\" and \"ice cream\"; \"bod\" means \"a small stall\".",
+  "explanation": "\"En isbod\" means \"an ice cream stand\". It is built from \"is\" (ice cream) and \"en bod\" (a small stall). \"Is\" also means \"ice\", as in \"Der er is på søen\" (There is ice on the lake).",
   "forms": [
    {
     "da": "en isbod",
@@ -4657,7 +4605,7 @@
   }
  },
  "en isenkræmmer": {
-  "explanation": "\"En isenkræmmer\" means \"a hardware dealer\", a shopkeeper who sells everyday items for the home and workshop, called \"isenkram\" (hardware). The word sounds old-fashioned today, and most people now buy such things at \"et byggemarked\" (a home improvement store).",
+  "explanation": "\"En isenkræmmer\" means \"a hardware dealer\". It comes from \"isenkram\" (hardware, small things for the home). To say where you buy nails and screws, say: \"Vi køber søm og skruer hos isenkræmmeren\" (We buy nails and screws at the hardware store).",
   "forms": [
    {
     "da": "en isenkræmmer",
@@ -4700,7 +4648,7 @@
   }
  },
  "en islænding": {
-  "explanation": "\"En islænding\" means \"an Icelander\", a person from Iceland. The country is \"Island\" (Iceland), and the language is \"islandsk\" (Icelandic). Do not mix it up with \"en irlænder\" (an Irishman).",
+  "explanation": "\"En islænding\" means \"an Icelander\". It comes from the country \"Island\" (Iceland). To name the language, use \"islandsk\" (Icelandic): \"Hun taler islandsk\" (She speaks Icelandic). Do not mix it up with \"en irlænder\" (an Irishman): \"En irlænder kommer fra Irland\" (An Irishman comes from Ireland).",
   "forms": [
    {
     "da": "en islænding",
@@ -4743,7 +4691,7 @@
   }
  },
  "en istap": {
-  "explanation": "\"En istap\" means \"an icicle\", a pointed piece of ice that hangs down. It is built from is (ice) and tap (a plug or peg).",
+  "explanation": "\"En istap\" means \"an icicle\". It is built from \"is\" (ice) and \"tap\" (a peg). The part \"is\" also appears in \"en isbjørn\" (a polar bear).",
   "forms": [
    {
     "da": "en istap",
@@ -4768,16 +4716,16 @@
     "en": "a block of ice"
    },
    {
-    "da": "frost",
-    "en": "frost"
-   },
-   {
-    "da": "en snedrive",
-    "en": "a snowdrift"
+    "da": "en isterning",
+    "en": "an ice cube"
    },
    {
     "da": "at tø",
     "en": "to thaw"
+   },
+   {
+    "da": "et isbjerg",
+    "en": "an iceberg"
    }
   ],
   "sentence": {
@@ -4786,7 +4734,7 @@
   }
  },
  "en isterning": {
-  "explanation": "\"En isterning\" means \"an ice cube\", a small frozen block that you put in a drink. It is built from is (ice) and terning (cube). \"Terning\" is also \"a die\" for games: \"Slå en terning\" (Roll a die).",
+  "explanation": "\"En isterning\" means \"an ice cube\". It is built from \"is\" (ice) and \"en terning\" (a cube). To talk about a die in a board game, the same word \"terning\" is used: \"Jeg slår med terningen\" (I roll the die).",
   "forms": [
    {
     "da": "en isterning",
@@ -4811,12 +4759,16 @@
     "en": "ice water"
    },
    {
-    "da": "en isbøtte",
-    "en": "an ice bucket"
+    "da": "en drink",
+    "en": "a drink"
    },
    {
     "da": "en fryser",
     "en": "a freezer"
+   },
+   {
+    "da": "en istap",
+    "en": "an icicle"
    }
   ],
   "sentence": {
@@ -4825,7 +4777,7 @@
   }
  },
  "en isvaffel": {
-  "explanation": "\"En isvaffel\" means \"an ice cream cone\", the crispy cone you hold ice cream in. It is built from is (ice cream) and vaffel (waffle). Do not mix it up with \"en vaffel\" (a waffle), the soft kind you eat with jam: \"en vaffel med syltetøj\" (a waffle with jam).",
+  "explanation": "\"En isvaffel\" means \"an ice cream cone\". It is built from \"is\" (ice cream) and \"en vaffel\" (a waffle). To offer someone an ice cream, say: \"Vil du have en is?\" (Do you want an ice cream?)",
   "forms": [
    {
     "da": "en isvaffel",
@@ -4850,12 +4802,12 @@
     "en": "a soft serve"
    },
    {
-    "da": "en iskugle",
-    "en": "a scoop of ice cream"
+    "da": "en isbar",
+    "en": "an ice-cream bar"
    },
    {
-    "da": "en vandis",
-    "en": "a popsicle"
+    "da": "en dessert",
+    "en": "a dessert"
    }
   ],
   "sentence": {
@@ -4864,7 +4816,7 @@
   }
  },
  "en italiener": {
-  "explanation": "\"En italiener\" means \"an Italian\", a person from Italy. For food and other things, use the matching word \"italiensk\": \"italiensk mad\" (Italian food).",
+  "explanation": "\"En italiener\" means \"an Italian\". To describe food or other things, use the matching word \"italiensk\": \"italiensk mad\" (Italian food). The same word names the language. To say you speak it, say: \"Jeg taler italiensk\" (I speak Italian).",
   "forms": [
    {
     "da": "en italiener",
@@ -4885,16 +4837,20 @@
   ],
   "related": [
    {
-    "da": "Italien",
-    "en": "Italy"
-   },
-   {
     "da": "en spanier",
     "en": "a Spaniard"
    },
    {
     "da": "en franskmand",
     "en": "a Frenchman"
+   },
+   {
+    "da": "en tysker",
+    "en": "a German"
+   },
+   {
+    "da": "en dansker",
+    "en": "a Dane"
    }
   ],
   "sentence": {
@@ -4903,7 +4859,7 @@
   }
  },
  "en iværksætter": {
-  "explanation": "\"En iværksætter\" means \"an entrepreneur\", someone who starts a new business. It comes from \"at iværksætte\" (to set going), so it carries the idea of getting something started.",
+  "explanation": "\"En iværksætter\" means \"an entrepreneur\". It is the noun for the verb \"at iværksætte\" (to set going). To say what someone does for a living, Danish leaves out \"en\": \"Hun er iværksætter\" (She is an entrepreneur).",
   "forms": [
    {
     "da": "en iværksætter",
@@ -4932,8 +4888,8 @@
     "en": "a business owner"
    },
    {
-    "da": "en opstart",
-    "en": "a startup"
+    "da": "en virksomhed",
+    "en": "a company"
    },
    {
     "da": "en selvstændig",
@@ -4946,7 +4902,7 @@
   }
  },
  "et ildfast fad": {
-  "explanation": "\"Et ildfast fad\" means \"an ovenproof dish\", a dish that can take strong heat. \"Ildfast\" (fireproof) means it stands up to fire and heat. A plain \"et fad\" (a platter) is for serving: \"Kagen står på et fad\" (The cake is on a platter).",
+  "explanation": "\"Et ildfast fad\" means \"an ovenproof dish\". It is \"et fad\" (a dish) with the adjective \"ildfast\" (fireproof) in front. The part \"ild\" (fire) also appears in \"en ildslukker\" (a fire extinguisher).",
   "forms": [
    {
     "da": "et ildfast fad",
@@ -4967,20 +4923,16 @@
   ],
   "related": [
    {
+    "da": "ovnfast",
+    "en": "ovenproof"
+   },
+   {
+    "da": "en bageform",
+    "en": "a baking tin"
+   },
+   {
     "da": "en bageplade",
     "en": "a baking sheet"
-   },
-   {
-    "da": "en gryde",
-    "en": "a pot"
-   },
-   {
-    "da": "en pande",
-    "en": "a pan"
-   },
-   {
-    "da": "en ovn",
-    "en": "an oven"
    }
   ],
   "sentence": {
@@ -4989,7 +4941,7 @@
   }
  },
  "et imperium": {
-  "explanation": "\"Et imperium\" means \"an empire\", a very large power that rules over many lands and peoples. Another Danish word for the same idea is \"et rige\" (a realm), as in \"Romerriget\" (the Roman Empire).",
+  "explanation": "\"Et imperium\" means \"an empire\". The shorter word \"et rige\" (a realm) is also used for an empire. To name the Roman one, say: \"Romerriget\" (the Roman Empire).",
   "forms": [
    {
     "da": "et imperium",
@@ -5032,7 +4984,7 @@
   }
  },
  "et indbrud": {
-  "explanation": "\"Et indbrud\" means \"a burglary\", when someone breaks into a home or shop. It is built from ind (in) and brud (a break). \"Brud\" also appears in \"et benbrud\" (a broken bone).",
+  "explanation": "\"Et indbrud\" means \"a burglary\". It is built from \"ind\" (in) and \"et brud\" (a break). The part \"brud\" also appears in \"et benbrud\" (a broken bone). To say a burglary has happened, say: \"Der har været indbrud hos naboen\" (There has been a burglary at the neighbor's).",
   "forms": [
    {
     "da": "et indbrud",
@@ -5063,6 +5015,10 @@
    {
     "da": "et tyveri",
     "en": "a theft"
+   },
+   {
+    "da": "en tyv",
+    "en": "a thief"
    }
   ],
   "sentence": {
@@ -5071,7 +5027,7 @@
   }
  },
  "et indkøb": {
-  "explanation": "\"Et indkøb\" means \"a purchase\". It is also used for everyday shopping: \"Jeg skal lave indkøb\" (I need to do the shopping).",
+  "explanation": "\"Et indkøb\" means \"a purchase\". It is built from \"ind\" (in) and \"køb\" (purchase). To say you need to buy groceries, say: \"Jeg skal lave indkøb\" (I need to do the shopping).",
   "forms": [
    {
     "da": "et indkøb",
@@ -5092,10 +5048,6 @@
   ],
   "related": [
    {
-    "da": "at købe",
-    "en": "to buy"
-   },
-   {
     "da": "at handle",
     "en": "to shop"
    },
@@ -5106,6 +5058,10 @@
    {
     "da": "en butik",
     "en": "a store"
+   },
+   {
+    "da": "en indkøbskurv",
+    "en": "a shopping basket"
    }
   ],
   "sentence": {
@@ -5114,7 +5070,7 @@
   }
  },
  "et indkøbscenter": {
-  "explanation": "\"Et indkøbscenter\" means \"a shopping mall\", a large building with many stores. It is made of indkøb (shopping) and et center (a center). People also say \"et shoppingcenter\" (a shopping mall), which means the same.",
+  "explanation": "\"Et indkøbscenter\" means \"a shopping mall\". It is built from \"indkøb\" (shopping) and \"et center\" (a center). The word \"et shoppingcenter\" (a shopping mall) means the same.",
   "forms": [
    {
     "da": "et indkøbscenter",
@@ -5135,16 +5091,20 @@
   ],
   "related": [
    {
-    "da": "at købe ind",
-    "en": "to buy groceries"
-   },
-   {
     "da": "en indkøbskurv",
     "en": "a shopping basket"
    },
    {
+    "da": "en indkøbsvogn",
+    "en": "a shopping cart"
+   },
+   {
     "da": "et varehus",
     "en": "a department store"
+   },
+   {
+    "da": "en butik",
+    "en": "a store"
    }
   ],
   "sentence": {
@@ -5153,7 +5113,7 @@
   }
  },
  "et indlæg": {
-  "explanation": "\"Et indlæg\" means \"a post / contribution\", something you add to a discussion, such as a text you publish online or a short talk in a meeting: \"et indlæg på Facebook\" (a post on Facebook). It is also the word for an insole you put in a shoe.",
+  "explanation": "\"Et indlæg\" means \"a post or contribution\". To talk about something you publish online, say: \"et indlæg på Facebook\" (a post on Facebook). To say someone gives a short talk at a meeting, say: \"Hun holdt et indlæg i mødet\" (She gave a talk at the meeting).",
   "forms": [
    {
     "da": "et indlæg",
@@ -5196,7 +5156,7 @@
   }
  },
  "et indtryk": {
-  "explanation": "\"Et indtryk\" means \"an impression\", the picture you form in your mind of someone or something after meeting or seeing it. \"Det gjorde stort indtryk på mig\" (It made a big impression on me). Do not mix it up with \"et udtryk\" (an expression), which is a phrase that you say: \"et sjovt udtryk\" (a funny expression).",
+  "explanation": "\"Et indtryk\" means \"an impression\". To say something affected you strongly, say: \"Det gjorde stort indtryk på mig\" (It made a big impression on me). Do not mix it up with \"et udtryk\" (an expression). To talk about a phrase, say: \"et sjovt udtryk\" (a funny expression).",
   "forms": [
    {
     "da": "et indtryk",
@@ -5226,7 +5186,11 @@
    },
    {
     "da": "en fornemmelse",
-    "en": "a feeling / sense"
+    "en": "a sense"
+   },
+   {
+    "da": "at imponere",
+    "en": "to impress"
    }
   ],
   "sentence": {
@@ -5235,7 +5199,7 @@
   }
  },
  "et initiativ": {
-  "explanation": "\"Et initiativ\" means \"an initiative\", the first step that gets something started. To say that a person starts things on their own, use \"Han har meget initiativ\" (He has a lot of initiative).",
+  "explanation": "\"Et initiativ\" means \"an initiative\". To say someone is good at starting things, say: \"Han har meget initiativ\" (He has a lot of initiative). To say you did something without being asked, say: \"Hun gjorde det på eget initiativ\" (She did it on her own initiative).",
   "forms": [
    {
     "da": "et initiativ",
@@ -5274,7 +5238,7 @@
   }
  },
  "et insekt": {
-  "explanation": "\"Et insekt\" means \"an insect\", a small animal with six legs. A spider is not an insect, because \"en edderkop\" (a spider) has eight legs.",
+  "explanation": "\"Et insekt\" means \"an insect\". It is the first part of \"et insektbid\" (an insect bite), built from \"insekt\" and \"bid\" (a bite). To say you have been bitten, say: \"Jeg har et insektbid på armen\" (I have an insect bite on my arm).",
   "forms": [
    {
     "da": "et insekt",
@@ -5317,7 +5281,7 @@
   }
  },
  "et instinkt": {
-  "explanation": "\"Et instinkt\" means \"an instinct\", a natural urge to act in a certain way that nobody has taught you, such as a newborn animal searching for its mother's milk. You can say \"Jeg gjorde det af instinkt\" (I did it by instinct) when you acted without thinking.",
+  "explanation": "\"Et instinkt\" means \"an instinct\". To say someone is naturally good at something, say: \"Han har et godt instinkt for fodbold\" (He has a good instinct for football).",
   "forms": [
    {
     "da": "et instinkt",
@@ -5360,7 +5324,7 @@
   }
  },
  "et institut": {
-  "explanation": "\"Et institut\" means \"an institute\", an organization that studies or teaches one particular subject. In higher education, a department is also called an \"institut\". A beauty salon is \"et skønhedsinstitut\" (a beauty institute).",
+  "explanation": "\"Et institut\" means \"an institute\". At a Danish university, a department is called \"et institut\": \"Institut for Datalogi\" (the Department of Computer Science). A beauty salon is \"et skønhedsinstitut\" (a beauty institute).",
   "forms": [
    {
     "da": "et institut",
@@ -5399,7 +5363,7 @@
   }
  },
  "et instrument": {
-  "explanation": "\"Et instrument\" means \"an instrument\", something you play music on. It is also a tool for measuring, such as \"et termometer\" (a thermometer).",
+  "explanation": "\"Et instrument\" means \"an instrument\". To ask whether someone plays music, say: \"Spiller du et instrument?\" (Do you play an instrument?) To talk about a tool for measuring, say \"et måleinstrument\" (a measuring instrument).",
   "forms": [
    {
     "da": "et instrument",
@@ -5420,20 +5384,16 @@
   ],
   "related": [
    {
-    "da": "en musiker",
-    "en": "a musician"
+    "da": "et redskab",
+    "en": "a tool"
    },
    {
-    "da": "en guitar",
-    "en": "a guitar"
+    "da": "et værktøj",
+    "en": "a tool"
    },
    {
-    "da": "et orkester",
-    "en": "an orchestra"
-   },
-   {
-    "da": "en violin",
-    "en": "a violin"
+    "da": "et apparat",
+    "en": "a device"
    }
   ],
   "sentence": {
@@ -5442,7 +5402,7 @@
   }
  },
  "et interview": {
-  "explanation": "\"Et interview\" means \"an interview\", a talk where one person asks another about their work or life. For a job interview, say \"en jobsamtale\" (a job interview).",
+  "explanation": "\"Et interview\" means \"an interview\". To say you interview someone, use \"at interviewe\" (to interview): \"Journalisten skal interviewe ministeren\" (The journalist will interview the minister). For an interview for a job, use \"en jobsamtale\" (a job interview): \"Jeg har en jobsamtale i morgen\" (I have a job interview tomorrow).",
   "forms": [
    {
     "da": "et interview",
@@ -5471,12 +5431,12 @@
     "en": "an answer"
    },
    {
-    "da": "en journalist",
-    "en": "a journalist"
+    "da": "en reporter",
+    "en": "a reporter"
    },
    {
-    "da": "at interviewe",
-    "en": "to interview"
+    "da": "at spørge",
+    "en": "to ask"
    }
   ],
   "sentence": {
@@ -5485,7 +5445,7 @@
   }
  },
  "i": {
-  "explanation": "\"I\" means \"you\" when you talk to several people: \"I er søde\" (You are all nice). The little word \"i\" (in) sounds the same but is written with a lowercase letter: \"i huset\" (in the house).",
+  "explanation": "\"I\" means \"you\". To speak to several people at once, use \"I\" as the subject: \"Er I trætte?\" (Are you all tired?) Do not mix it up with \"i\" (in), which sounds the same: \"i huset\" (in the house).",
   "forms": [
    {
     "da": "I er søde.",
@@ -5524,7 +5484,7 @@
   }
  },
  "i aften": {
-  "explanation": "\"I aften\" means \"this evening\", an evening that is still to come: \"Jeg ser en film i aften\" (I am watching a movie this evening). Once it is over, say \"i aftes\" (last night): \"Jeg så en film i aftes\" (I watched a movie last night).",
+  "explanation": "\"I aften\" means \"this evening\". To say what you will do later today, say: \"Jeg ser en film i aften\" (I am watching a movie this evening). To talk about the evening that has already ended, use \"i aftes\" (last night): \"Jeg så en film i aftes\" (I watched a movie last night).",
   "forms": [
    {
     "da": "i aften",
@@ -5551,6 +5511,10 @@
    {
     "da": "i morgen",
     "en": "tomorrow"
+   },
+   {
+    "da": "i eftermiddag",
+    "en": "this afternoon"
    }
   ],
   "sentence": {
@@ -5559,7 +5523,7 @@
   }
  },
  "i aftes": {
-  "explanation": "\"I aftes\" means \"last night\", meaning the evening that just ended: \"Jeg så en film i aftes\" (I watched a movie last night). For the evening still to come, say \"i aften\" (this evening). For the hours when you were asleep, say \"i nat\" (last night): \"Jeg sov dårligt i nat\" (I slept badly last night).",
+  "explanation": "\"I aftes\" means \"last night or yesterday evening\". To say what you did the evening before, say: \"Jeg så en film i aftes\" (I watched a movie last night). Do not mix it up with \"i aften\" (this evening), which is the evening still to come: \"Jeg ser en film i aften\" (I am watching a movie this evening).",
   "forms": [
    {
     "da": "i aftes",
@@ -5586,6 +5550,10 @@
    {
     "da": "i forgårs",
     "en": "the day before yesterday"
+   },
+   {
+    "da": "i nat",
+    "en": "last night / tonight"
    }
   ],
   "sentence": {
@@ -5594,7 +5562,7 @@
   }
  },
  "i dag": {
-  "explanation": "\"I dag\" means \"today\". For the evening of today, say \"i aften\" (this evening).",
+  "explanation": "\"I dag\" means \"today\". It is written as two words, unlike the English word. Literally, it is \"in day\". To ask what someone is doing today, say: \"Hvad skal du lave i dag?\" (What are you doing today?)",
   "forms": [
    {
     "da": "i dag",
@@ -5621,6 +5589,10 @@
    {
     "da": "i overmorgen",
     "en": "the day after tomorrow"
+   },
+   {
+    "da": "i aften",
+    "en": "this evening"
    }
   ],
   "sentence": {
@@ -5629,7 +5601,7 @@
   }
  },
  "i det hele taget": {
-  "explanation": "\"I det hele taget\" means \"on the whole\" or \"generally\". In a question it means \"at all\": \"Kan du i det hele taget svømme?\" (Can you swim at all?)",
+  "explanation": "\"I det hele taget\" means \"on the whole\". To say you like something in general, say: \"Jeg kan i det hele taget godt lide det\" (I generally like it). To ask whether something is possible at all, use it in a question: \"Kan du i det hele taget svømme?\" (Can you swim at all?)",
   "forms": [
    {
     "da": "i det hele taget",
@@ -5668,7 +5640,7 @@
   }
  },
  "i det mindste": {
-  "explanation": "\"I det mindste\" means \"at least\" and points to the smallest good thing you still have or can do: \"Hun er syg, men hun har i det mindste ikke feber\" (She is sick, but at least she has no fever).",
+  "explanation": "\"I det mindste\" means \"at least\". Literally, it is \"in the smallest\". To say something is still good in a bad situation, say: \"Hun er syg, men hun har i det mindste ikke feber\" (She is sick, but at least she has no fever).",
   "forms": [
    {
     "da": "i det mindste en time",
@@ -5685,10 +5657,6 @@
   ],
   "related": [
    {
-    "da": "mindst",
-    "en": "at least, minimum"
-   },
-   {
     "da": "højst",
     "en": "at most"
    },
@@ -5697,8 +5665,8 @@
     "en": "in any case"
    },
    {
-    "da": "mindre",
-    "en": "smaller, less"
+    "da": "som minimum",
+    "en": "at a minimum"
    }
   ],
   "sentence": {
@@ -5707,7 +5675,7 @@
   }
  },
  "i det store hele": {
-  "explanation": "\"I det store hele\" means \"all in all\" and sums up what you think, even if a few details were bad: \"I det store hele var turen god, men hotellet var dårligt\" (All in all the trip was good, but the hotel was bad).",
+  "explanation": "\"I det store hele\" means \"all in all\". Literally, it is \"in the big whole\". To sum up your overall view even though some things were bad, say: \"I det store hele var turen god, men hotellet var dårligt\" (All in all the trip was good, but the hotel was bad).",
   "forms": [
    {
     "da": "I det store hele gik det godt",
@@ -5746,7 +5714,7 @@
   }
  },
  "i eftermiddag": {
-  "explanation": "\"I eftermiddag\" means \"this afternoon\", the afternoon of today. For something that happens every afternoon, say \"om eftermiddagen\" (in the afternoon): \"Jeg læser om eftermiddagen\" (I read in the afternoons).",
+  "explanation": "\"I eftermiddag\" means \"this afternoon\". To talk about the afternoon in general, say \"om eftermiddagen\" (in the afternoon): \"Jeg læser om eftermiddagen\" (I read in the afternoon).",
   "forms": [
    {
     "da": "i eftermiddag",
@@ -5773,6 +5741,10 @@
    {
     "da": "i dag",
     "en": "today"
+   },
+   {
+    "da": "i formiddag",
+    "en": "this morning"
    }
   ],
   "sentence": {
@@ -5781,7 +5753,7 @@
   }
  },
  "i forgårs": {
-  "explanation": "\"I forgårs\" means \"the day before yesterday\". Count back: \"i dag\" (today), \"i går\" (yesterday), \"i forgårs\".",
+  "explanation": "\"I forgårs\" means \"the day before yesterday\". It is built from \"for\" (before) and \"går\" (yesterday). To say the same thing with a number of days, say: \"Det skete for to dage siden\" (It happened two days ago).",
   "forms": [
    {
     "da": "i forgårs",
@@ -5806,8 +5778,12 @@
     "en": "the day after tomorrow"
    },
    {
-    "da": "for to dage siden",
-    "en": "two days ago"
+    "da": "i går",
+    "en": "yesterday"
+   },
+   {
+    "da": "i dag",
+    "en": "today"
    }
   ],
   "sentence": {
@@ -5816,7 +5792,7 @@
   }
  },
  "i forhold til": {
-  "explanation": "\"I forhold til\" means \"in relation to\" and also \"compared to\": \"Det er billigt i forhold til Paris\" (It is cheap compared to Paris).",
+  "explanation": "\"I forhold til\" means \"compared to\". To say something is cheap or expensive next to another thing, say: \"Det er billigt i forhold til Paris\" (It is cheap compared to Paris).",
   "forms": [
    {
     "da": "i forhold til dig",
@@ -5851,7 +5827,7 @@
   }
  },
  "i fortiden": {
-  "explanation": "\"I fortiden\" means \"in the past\", before now or long ago. For what comes later, use \"i fremtiden\" (in the future).",
+  "explanation": "\"I fortiden\" means \"in the past\". It is built from \"i\" (in) and \"fortiden\" (the past). To talk about what comes later, use \"i fremtiden\" (in the future): \"I fremtiden bliver det nemmere\" (In the future it will be easier).",
   "forms": [
    {
     "da": "I fortiden boede folk anderledes.",
@@ -5890,7 +5866,7 @@
   }
  },
  "i forvejen": {
-  "explanation": "\"I forvejen\" means \"beforehand\" and \"already\". For \"beforehand\": \"Du skal bestille bord i forvejen\" (You need to book a table beforehand). For \"already\": \"Jeg kender hende i forvejen\" (I already know her).",
+  "explanation": "\"I forvejen\" means \"beforehand\". To say you do something before the time comes, say: \"Du skal bestille bord i forvejen\" (You need to book a table beforehand). To say you already have or know something, it means \"already\": \"Jeg kender hende i forvejen\" (I already know her).",
   "forms": [
    {
     "da": "Sig det i forvejen",
@@ -5929,7 +5905,7 @@
   }
  },
  "i fremtiden": {
-  "explanation": "\"I fremtiden\" means \"in the future\". The opposite is \"i fortiden\" (in the past).",
+  "explanation": "\"I fremtiden\" means \"in the future\". It is built from \"i\" (in) and \"fremtiden\" (the future). To talk about the time before now, use \"i fortiden\" (in the past): \"Det skete i fortiden\" (It happened in the past).",
   "forms": [
    {
     "da": "Jeg vil rejse mere i fremtiden.",
@@ -5968,7 +5944,7 @@
   }
  },
  "i første omgang": {
-  "explanation": "\"I første omgang\" means \"at first\", the first step of something that will go on. It often hints that more steps come later. \"Omgang\" here means a round or stage.",
+  "explanation": "\"I første omgang\" means \"at first\". It is built from \"i\" (in), \"første\" (first) and \"en omgang\" (a round). The word \"omgang\" also means a round of drinks. To say you will buy the next round, say: \"Jeg giver en omgang\" (I will buy a round).",
   "forms": [
    {
     "da": "i første omgang",
@@ -6007,7 +5983,7 @@
   }
  },
  "i gang": {
-  "explanation": "\"I gang\" means \"going\" or \"underway\", for something that has started and is still happening. With \"komme\" (to come), it means getting started: \"Vi kommer i gang klokken ti\" (We get started at ten).",
+  "explanation": "\"I gang\" means \"on\", as in a movie that has started and is still running: \"Filmen er i gang\" (The movie is on). To say you get started, use \"komme\" (to come): \"Vi kommer i gang klokken ti\" (We get started at ten). To say you start a project, use \"at sætte\" (to put): \"Han satte projektet i gang\" (He started the project).",
   "forms": [
    {
     "da": "Filmen er i gang",
@@ -6046,7 +6022,7 @@
   }
  },
  "i gang med": {
-  "explanation": "\"I gang med\" means \"busy with\" or \"in the middle of\". The phrase usually comes after \"er\" (am / is / are): \"Jeg er i gang med lektierne\" (I am busy with the homework). To name the verb you are in the middle of, add \"at\" (to) before it: \"i gang med at spise\" (in the middle of eating).",
+  "explanation": "\"I gang med\" means \"busy with\". To say what you are busy with right now, put \"er\" (am / is / are) before it: \"Jeg er i gang med lektierne\" (I am busy with the homework). To name an action, add \"at\" (to) and a verb: \"Hun er i gang med at ringe\" (She is in the middle of calling).",
   "forms": [
    {
     "da": "Jeg er i gang med lektierne.",
@@ -6081,7 +6057,7 @@
   }
  },
  "i går": {
-  "explanation": "\"I går\" means \"yesterday\". Add a time of day for more detail: \"i går aftes\" (last night) and \"i går morges\" (yesterday morning).",
+  "explanation": "\"I går\" means \"yesterday\". To say which part of yesterday you mean, add a time of day: \"i går morges\" (yesterday morning).",
   "forms": [
    {
     "da": "i går",
@@ -6110,8 +6086,8 @@
     "en": "the day before yesterday"
    },
    {
-    "da": "en dag",
-    "en": "a day"
+    "da": "i aftes",
+    "en": "last night"
    }
   ],
   "sentence": {
@@ -6120,7 +6096,7 @@
   }
  },
  "i hvert fald": {
-  "explanation": "\"I hvert fald\" means \"at least\" and \"in any case\". The second use says something stays true whatever happens: \"Jeg kommer i hvert fald\" (I am coming in any case).",
+  "explanation": "\"I hvert fald\" means \"at least\". To say something stays true whatever happens, it means \"in any case\": \"Jeg kommer i hvert fald\" (I am coming in any case).",
   "forms": [
    {
     "da": "Jeg har i hvert fald prøvet",
@@ -6159,7 +6135,7 @@
   }
  },
  "i kraft af": {
-  "explanation": "\"I kraft af\" means \"by virtue of\" and names the job or position that gives someone the right: \"i kraft af sin stilling som formand\" (by virtue of her position as chair). For ordinary causes such as weather, use \"på grund af\" (because of) instead.",
+  "explanation": "\"I kraft af\" means \"by virtue of\". To say a job or position gives someone the right to do something, say: \"Hun kan beslutte det i kraft af sin stilling som formand\" (She can decide it by virtue of her position as chair). To give an ordinary cause such as weather, use \"på grund af\" (because of): \"Vi bliver hjemme på grund af regnen\" (We are staying home because of the rain).",
   "forms": [
    {
     "da": "i kraft af sin stilling",
@@ -6198,7 +6174,7 @@
   }
  },
  "i lige måde": {
-  "explanation": "\"I lige måde\" means \"likewise\" and answers a good wish by returning it. It stands in for the whole wish: after \"Hav en god dag!\" (Have a good day!) it means \"you have a good day too\".",
+  "explanation": "\"I lige måde\" means \"likewise\". Literally, it is \"in equal way\". To return a good wish, answer with it: \"Hav en god dag!\" \"I lige måde!\" (Have a good day! You too!) The part \"lige\" also appears in \"lige nu\" (right now) and \"lige meget\" (it does not matter).",
   "forms": [
    {
     "da": "I lige måde!",
@@ -6233,7 +6209,7 @@
   }
  },
  "i mangel af": {
-  "explanation": "\"I mangel af\" means \"for lack of\". It names what was missing, so something else had to do instead. It often goes with \"bedre\" (better): \"i mangel af bedre\" (for lack of anything better).",
+  "explanation": "\"I mangel af\" means \"for lack of\". It is built from \"i\" (in), \"en mangel\" (a lack) and \"af\" (of). To say you accept something because nothing better is there, say: \"Vi tog bussen i mangel af bedre\" (We took the bus for lack of anything better).",
   "forms": [
    {
     "da": "i mangel af tid",
@@ -6272,7 +6248,7 @@
   }
  },
  "i mellemtiden": {
-  "explanation": "\"I mellemtiden\" means \"in the meantime\" and names what happens while you wait for something else. It is built from i (in), mellem (between) and tiden (the time), so it points to the gap before the other thing happens.",
+  "explanation": "\"I mellemtiden\" means \"in the meantime\". It is built from \"i\" (in), \"mellem\" (between) and \"tiden\" (the time). To say what someone can do while waiting, say: \"Maden bliver færdig om ti minutter, så i mellemtiden kan du dække bord\" (The food will be ready in ten minutes, so in the meantime you can set the table).",
   "forms": [
    {
     "da": "i mellemtiden",
@@ -6311,7 +6287,7 @@
   }
  },
  "i modsætning til": {
-  "explanation": "\"I modsætning til\" means \"in contrast to\": \"Han er rolig, i modsætning til sin søster\" (He is calm, unlike his sister).",
+  "explanation": "\"I modsætning til\" means \"unlike\". It is built from \"i\" (in), \"en modsætning\" (a contrast) and \"til\" (to). To say two people are different, say: \"Han er rolig, i modsætning til sin søster\" (He is calm, unlike his sister).",
   "forms": [
    {
     "da": "i modsætning til mig",
@@ -6350,7 +6326,7 @@
   }
  },
  "i morgen": {
-  "explanation": "\"I morgen\" means \"tomorrow\". It looks like \"i morges\" (this morning, already past), so watch the last letters: \"i morgen\" is still to come, \"i morges\" is already over. \"Hun ringede i morges\" (She called this morning).",
+  "explanation": "\"I morgen\" means \"tomorrow\". To say what you will do the next day, say: \"Jeg tager til Aarhus i morgen\" (I am going to Aarhus tomorrow). Do not mix it up with \"i morges\" (this morning), which looks almost the same: \"Hun ringede i morges\" (She called this morning).",
   "forms": [
    {
     "da": "i morgen",
@@ -6385,7 +6361,7 @@
   }
  },
  "i morges": {
-  "explanation": "\"I morges\" means \"this morning\", the morning of today that is already over. It looks like \"i morgen\" (tomorrow), so watch the last letters: \"i morges\" is behind you, \"i morgen\" is ahead.",
+  "explanation": "\"I morges\" means \"this morning\". To say what you did earlier today, say: \"Jeg læste avisen i morges\" (I read the newspaper this morning). Do not mix it up with \"i morgen\" (tomorrow), which looks almost the same: \"Jeg har fri i morgen\" (I am off tomorrow).",
   "forms": [
    {
     "da": "i morges",
@@ -6420,7 +6396,7 @@
   }
  },
  "i nat": {
-  "explanation": "\"I nat\" means \"tonight\" or \"last night\". You can tell which one it is from the context of the sentence. \"Jeg sov dårligt i nat\" (I slept badly last night) is about the night just gone. \"Jeg sover hos Anna i nat\" (I am sleeping at Anna's tonight) is about the night to come.",
+  "explanation": "\"I nat\" means \"tonight or last night\". To talk about the night that has just passed, say: \"Jeg sov dårligt i nat\" (I slept badly last night). To talk about the night to come, say: \"Jeg sover hos Anna i nat\" (I am sleeping at Anna's tonight).",
   "forms": [
    {
     "da": "i nat",
@@ -6455,7 +6431,7 @@
   }
  },
  "i nærheden": {
-  "explanation": "\"I nærheden\" means \"nearby\". To say near what, add \"af\" (of): \"i nærheden af banegården\" (near the train station).",
+  "explanation": "\"I nærheden\" means \"nearby\". It is built from \"i\" (in) and \"nærheden\" (the nearness). To say what the place is near, add \"af\" (of) after it: \"i nærheden af banegården\" (near the train station).",
   "forms": [
    {
     "da": "i nærheden",
@@ -6482,10 +6458,6 @@
    {
     "da": "lige ved",
     "en": "right next to"
-   },
-   {
-    "da": "nær",
-    "en": "near"
    }
   ],
   "sentence": {
@@ -6494,7 +6466,7 @@
   }
  },
  "i og med": {
-  "explanation": "\"I og med\" means \"since\" or \"given that\". It gives a reason that is already a known fact. It is nearly always followed by \"at\" (that): \"I og med at det regner, bliver vi hjemme\" (Since it is raining, we stay home).",
+  "explanation": "\"I og med\" means \"since\". Literally, it is \"in and with\". To give a reason that is already known, add \"at\" (that) after it: \"I og med at det regner, bliver vi hjemme\" (Since it is raining, we stay home).",
   "forms": [
    {
     "da": "i og med at det er søndag",
@@ -6533,7 +6505,7 @@
   }
  },
  "i orden": {
-  "explanation": "\"I orden\" means \"all right\" or \"in order\". \"Det er i orden\" (That is all right) can answer an apology, like saying no problem. \"Er alt i orden?\" (Is everything all right?) checks that nothing is wrong.",
+  "explanation": "\"I orden\" means \"all right\". It is built from \"i\" (in) and \"orden\" (order). To tell someone an apology is fine, say: \"Det er i orden\" (That is all right). To say papers are correct and complete, say: \"Papirerne er i orden\" (The papers are in order).",
   "forms": [
    {
     "da": "Det er i orden.",
@@ -6568,7 +6540,7 @@
   }
  },
  "i overmorgen": {
-  "explanation": "\"I overmorgen\" means \"the day after tomorrow\". Count forward: \"i dag\" (today), \"i morgen\" (tomorrow), \"i overmorgen\".",
+  "explanation": "\"I overmorgen\" means \"the day after tomorrow\". It is built from \"over\" (over) and \"morgen\" (tomorrow), so it jumps over tomorrow. To say the same thing with a number of days, say: \"Det sker om to dage\" (It happens in two days).",
   "forms": [
    {
     "da": "i overmorgen",
@@ -6593,8 +6565,8 @@
     "en": "yesterday"
    },
    {
-    "da": "om to dage",
-    "en": "in two days"
+    "da": "i dag",
+    "en": "today"
    }
   ],
   "sentence": {
@@ -6603,7 +6575,7 @@
   }
  },
  "i princippet": {
-  "explanation": "\"I princippet\" means \"in principle\" and says something is true on paper, while real life may be different. That is why \"men\" (but) often follows it.",
+  "explanation": "\"I princippet\" means \"in principle\". It is built from \"i\" (in) and \"princippet\" (the principle). To say something is possible on paper but add a problem, follow it with \"men\" (but): \"I princippet kan jeg komme, men jeg har travlt\" (In principle I can come, but I am busy).",
   "forms": [
    {
     "da": "i princippet",
@@ -6630,10 +6602,6 @@
    {
     "da": "principielt",
     "en": "in principle"
-   },
-   {
-    "da": "et princip",
-    "en": "a principle"
    }
   ],
   "sentence": {
@@ -6642,7 +6610,7 @@
   }
  },
  "i sidste ende": {
-  "explanation": "\"I sidste ende\" means \"in the end\" or \"ultimately\" and says what decides things after everything else is considered: \"Jeg hører på alle, men i sidste ende bestemmer jeg selv\" (I listen to everyone, but in the end I decide myself). For the last step in a series, use \"til sidst\" (at the very end).",
+  "explanation": "\"I sidste ende\" means \"in the end\". To say what decides things after everything else is considered, say: \"Jeg hører på alle, men i sidste ende bestemmer jeg selv\" (I listen to everyone, but in the end I decide myself). For the last step in a series, use \"til sidst\" (at the very end): \"Til sidst tager vi opvasken\" (At the very end, we do the dishes).",
   "forms": [
    {
     "da": "i sidste ende",
@@ -6681,7 +6649,7 @@
   }
  },
  "i skole": {
-  "explanation": "\"I skole\" means \"in school\" or \"at school\", as a pupil with lessons. It covers being there and heading there: \"Jeg skal i skole\" (I am off to school).",
+  "explanation": "\"I skole\" means \"in school\". To say you are going there, use \"skal\" (am going to): \"Jeg skal i skole\" (I am off to school). To say you attend school as a pupil, use \"at gå\" (to go): \"Hun går i skole i Odense\" (She goes to school in Odense).",
   "forms": [
    {
     "da": "i skole",
@@ -6698,16 +6666,20 @@
   ],
   "related": [
    {
-    "da": "at gå i skole",
-    "en": "to go to school"
-   },
-   {
     "da": "i børnehave",
     "en": "in kindergarten"
    },
    {
     "da": "på arbejde",
     "en": "at work"
+   },
+   {
+    "da": "en elev",
+    "en": "a pupil"
+   },
+   {
+    "da": "en lærer",
+    "en": "a teacher"
    }
   ],
   "sentence": {
@@ -6716,7 +6688,7 @@
   }
  },
  "i stedet": {
-  "explanation": "\"I stedet\" means \"instead\" and can stand alone at the end. To say instead of what, use \"i stedet for\" (instead of): \"Jeg vil have te i stedet for kaffe\" (I want tea instead of coffee).",
+  "explanation": "\"I stedet\" means \"instead\". To say which thing you pick in place of something just mentioned, put it at the end: \"Vi tager bussen i stedet\" (We take the bus instead). To say instead of what, use \"i stedet for\" (instead of): \"Jeg vil have te i stedet for kaffe\" (I want tea instead of coffee).",
   "forms": [
    {
     "da": "Jeg drikker te i stedet",
@@ -6755,7 +6727,7 @@
   }
  },
  "i stedet for": {
-  "explanation": "\"I stedet for\" means \"instead of\": \"Jeg vil have te i stedet for kaffe\" (I want tea instead of coffee). To say instead of doing something, add \"at\" (to) before the action word, and English uses -ing: \"i stedet for at vente\" (instead of waiting).",
+  "explanation": "\"I stedet for\" means \"instead of\". Literally, it is \"in the place for\". To say you choose one thing and not another, say: \"Jeg vil have te i stedet for kaffe\" (I want tea instead of coffee). To say instead of doing something, add \"at\" (to) before the verb: \"i stedet for at vente\" (instead of waiting).",
   "forms": [
    {
     "da": "i stedet for kaffe",
@@ -6794,7 +6766,7 @@
   }
  },
  "i stykker": {
-  "explanation": "\"I stykker\" means \"broken\" (literally, \"in pieces\"). You say it about something that has fallen apart or stopped working, with \"er\" (is): \"Min cykel er i stykker\" (My bike is broken).",
+  "explanation": "\"I stykker\" means \"broken\". Literally, it is \"in pieces\". To say something has stopped working, use \"er\" (is): \"Min cykel er i stykker\" (My bike is broken). To say something broke, use \"gik\" (went): \"Telefonen gik i stykker\" (The phone broke).",
   "forms": [
    {
     "da": "Glasset er i stykker.",
@@ -6811,10 +6783,6 @@
   ],
   "related": [
    {
-    "da": "at gå i stykker",
-    "en": "to break"
-   },
-   {
     "da": "ødelagt",
     "en": "ruined / broken"
    },
@@ -6823,8 +6791,12 @@
     "en": "whole / unbroken"
    },
    {
-    "da": "et stykke",
-    "en": "a piece"
+    "da": "defekt",
+    "en": "faulty"
+   },
+   {
+    "da": "at reparere",
+    "en": "to repair"
    }
   ],
   "sentence": {
@@ -6833,7 +6805,7 @@
   }
  },
  "i tide": {
-  "explanation": "\"I tide\" means \"in time\", early enough for something to happen. For arriving at exactly the agreed time, say \"til tiden\" (on time): \"Toget kom til tiden\" (The train came on time).",
+  "explanation": "\"I tide\" means \"in time\". To say you finished before a deadline, say: \"Jeg afleverede opgaven i tide\" (I handed in the assignment in time). Do not mix it up with \"til tiden\" (on time), which means at the agreed time: \"Toget kom til tiden\" (The train came on time).",
   "forms": [
    {
     "da": "Vi kom i tide",
@@ -6872,7 +6844,7 @@
   }
  },
  "i tilfælde af": {
-  "explanation": "\"I tilfælde af\" means \"in case of\": \"i tilfælde af brand\" (in case of fire). To follow it with a whole sentence, add \"at\" (that): \"i tilfælde af at det regner\" (in case it rains).",
+  "explanation": "\"I tilfælde af\" means \"in case of\". It is built from \"i\" (in), \"et tilfælde\" (a case) and \"af\" (of). To warn about something that might happen, say: \"i tilfælde af brand\" (in case of fire). To follow it with a whole sentence, add \"at\" (that): \"Tag en paraply med i tilfælde af at det regner\" (Bring an umbrella in case it rains).",
   "forms": [
    {
     "da": "i tilfælde af sygdom",
@@ -6899,10 +6871,6 @@
    {
     "da": "i så fald",
     "en": "in that case"
-   },
-   {
-    "da": "i alle tilfælde",
-    "en": "in any case"
    }
   ],
   "sentence": {
@@ -6911,7 +6879,7 @@
   }
  },
  "i udlandet": {
-  "explanation": "\"I udlandet\" means \"abroad\", in another country. The small word in front shows the direction: \"i\" (in) for being there, \"til\" (to) for going there, \"fra\" (from) for coming from there. \"Jeg bor i udlandet\" (I live abroad), \"Jeg rejser til udlandet\" (I am traveling abroad), \"Han kommer fra udlandet\" (He comes from abroad).",
+  "explanation": "\"I udlandet\" means \"abroad\". To say where you live, put \"i\" (in) before it: \"Jeg bor i udlandet\" (I live abroad). To say where you are going, use \"til\" (to): \"Jeg rejser til udlandet\" (I am traveling abroad). To say where someone comes from, use \"fra\" (from): \"Han kommer fra udlandet\" (He comes from abroad).",
   "forms": [
    {
     "da": "Jeg bor i udlandet.",
@@ -6928,8 +6896,8 @@
   ],
   "related": [
    {
-    "da": "et land",
-    "en": "a country"
+    "da": "en grænse",
+    "en": "a border"
    },
    {
     "da": "en udlænding",
@@ -6946,7 +6914,7 @@
   }
  },
  "i virkeligheden": {
-  "explanation": "\"I virkeligheden\" means \"in reality\" or \"actually\" and is used when the truth differs from how things look: \"Det ser nemt ud, men i virkeligheden er det svært\" (It looks easy, but in reality it is hard).",
+  "explanation": "\"I virkeligheden\" means \"in reality\". It is built from \"i\" (in) and \"virkeligheden\" (the reality). To say the truth differs from how things look, say: \"Det ser nemt ud, men i virkeligheden er det svært\" (It looks easy, but in reality it is hard).",
   "forms": [
    {
     "da": "i virkeligheden",
@@ -6985,7 +6953,7 @@
   }
  },
  "i weekenden": {
-  "explanation": "\"I weekenden\" means \"this weekend\" or \"on the weekend\" and has three uses. For the coming weekend: \"Vi skal i biografen i weekenden\" (We are going to the movies this weekend). For the last one: \"Jeg var i Aarhus i weekenden\" (I was in Aarhus last weekend). For every weekend: \"Jeg sover længe i weekenden\" (I sleep late on weekends).",
+  "explanation": "\"I weekenden\" means \"this weekend or on the weekend\". To talk about the coming weekend, say: \"Vi skal i biografen i weekenden\" (We are going to the movies this weekend). To talk about the weekend just gone, use the past tense: \"Jeg var i Aarhus i weekenden\" (I was in Aarhus last weekend). To say how you spend every weekend, say: \"Jeg sover længe i weekenden\" (I sleep late on weekends).",
   "forms": [
    {
     "da": "i weekenden",
@@ -7020,7 +6988,7 @@
   }
  },
  "i år": {
-  "explanation": "\"I år\" means \"this year\", the year we are in now. For something that repeats every year, say \"hvert år\" (every year): \"Vi rejser hvert år\" (We travel every year).",
+  "explanation": "\"I år\" means \"this year\". Literally, it is \"in year\". To say something repeats each year, use \"hvert år\" (every year): \"Vi rejser hvert år\" (We travel every year).",
   "forms": [
    {
     "da": "i år",
@@ -7055,7 +7023,7 @@
   }
  },
  "i øvrigt": {
-  "explanation": "\"I øvrigt\" means \"by the way\" and \"moreover\". It adds a side remark or one more point and usually sits right after the verb: \"Bogen er god. Den er i øvrigt billig.\" (The book is good. It is also cheap, by the way.)",
+  "explanation": "\"I øvrigt\" means \"by the way\". To add a side remark about something already said, say: \"Bogen er god. Den er i øvrigt billig.\" (The book is good. It is also cheap, by the way.)",
   "forms": [
    {
     "da": "Han er i øvrigt dansker",
@@ -7078,10 +7046,6 @@
    {
     "da": "endvidere",
     "en": "furthermore"
-   },
-   {
-    "da": "øvrig",
-    "en": "remaining"
    }
   ],
   "sentence": {
@@ -7090,7 +7054,7 @@
   }
  },
  "iblandt": {
-  "explanation": "\"Iblandt\" means \"among\", inside a group. The shorter form \"blandt\" (among) is more common.",
+  "explanation": "\"Iblandt\" means \"among\". It is built from \"i\" (in) and \"blandt\" (among). The shorter word \"blandt\" means the same: \"Hun er blandt de bedste\" (She is among the best).",
   "forms": [
    {
     "da": "iblandt os",
@@ -7119,8 +7083,8 @@
     "en": "a mix"
    },
    {
-    "da": "mellem",
-    "en": "between (two things)"
+    "da": "at blande",
+    "en": "to mix"
    }
   ],
   "sentence": {
@@ -7129,7 +7093,7 @@
   }
  },
  "ideel": {
-  "explanation": "\"Ideel\" means \"ideal\", the best possible for a certain purpose. The thing you aim for is \"et ideal\" (an ideal).",
+  "explanation": "\"Ideel\" means \"ideal\". The noun is \"et ideal\" (an ideal). To say something is perfect for a purpose, add \"til\" (for) and the purpose: \"Huset er ideelt til en stor familie\" (The house is ideal for a big family).",
   "forms": [
    {
     "da": "en ideel løsning",
@@ -7168,7 +7132,7 @@
   }
  },
  "identisk": {
-  "explanation": "\"Identisk\" means \"identical\", exactly the same in every detail. To name the other item that is exactly the same, add \"med\" (with) after \"identisk\": \"Svaret er identisk med mit\" (The answer is identical to mine).",
+  "explanation": "\"Identisk\" means \"identical\". To say two things are exactly the same, add \"med\" (with) and the other thing: \"Svaret er identisk med mit\" (The answer is identical to mine). The Danish word ends in \"-isk\", not \"-ical\".",
   "forms": [
    {
     "da": "en identisk kopi",
@@ -7207,7 +7171,7 @@
   }
  },
  "idet": {
-  "explanation": "\"Idet\" means \"as\" or \"since\" and has two uses. For two things at the same moment, it means \"as\": \"Idet han gik ud, slukkede han lyset\" (As he went out, he turned off the light). For a reason, it means \"since\": \"Idet det regner, aflyser vi\" (Since it is raining, we cancel).",
+  "explanation": "\"Idet\" means \"as\". Literally, it is \"i det\" (in that), joined into one word. To say two things happen at the same moment, say: \"Idet han gik ud, slukkede han lyset\" (As he went out, he turned off the light).",
   "forms": [
    {
     "da": "idet han kom ind",
@@ -7232,12 +7196,8 @@
     "en": "when"
    },
    {
-    "da": "fordi",
-    "en": "because"
-   },
-   {
-    "da": "i og med",
-    "en": "given that"
+    "da": "imens",
+    "en": "meanwhile"
    }
   ],
   "sentence": {
@@ -7246,7 +7206,7 @@
   }
  },
  "idræt": {
-  "explanation": "\"Idræt\" means \"PE\" or \"sports\". At school it is the gym class: \"Vi har idræt efter frokost\" (We have PE after lunch). Outside school it means sports as an activity: \"Hun elsker idræt\" (She loves sports).",
+  "explanation": "\"Idræt\" means \"PE\". To say what class you have at school, say: \"Vi har idræt efter frokost\" (We have PE after lunch). Outside school, it means \"sports\" as an activity: \"Hun elsker idræt\" (She loves sports).",
   "forms": [
    {
     "da": "Vi har idræt i dag",
@@ -7285,7 +7245,7 @@
   }
  },
  "ifølge": {
-  "explanation": "\"Ifølge\" means \"according to\" and names where the information comes from: \"ifølge lægen\" (according to the doctor). For your own view, say \"efter min mening\" (in my opinion).",
+  "explanation": "\"Ifølge\" means \"according to\". To name where the information comes from, say: \"ifølge lægen\" (according to the doctor). To give your own view instead, use \"efter min mening\" (in my opinion): \"Efter min mening er filmen dårlig\" (In my opinion the film is bad).",
   "forms": [
    {
     "da": "ifølge avisen",
@@ -7324,7 +7284,7 @@
   }
  },
  "igen": {
-  "explanation": "\"Igen\" means \"again\" and usually comes at the end: \"Jeg kommer igen\" (I will come back). To say that one more person or thing is included, use \"også\" (too): \"Jeg kommer også\" (I am coming too).",
+  "explanation": "\"Igen\" means \"again\". To say you will return, say: \"Jeg kommer igen\" (I will come back). To say another person is included, use \"også\" (too): \"Jeg kommer også\" (I am coming too).",
   "forms": [
    {
     "da": "prøv igen",
@@ -7359,7 +7319,7 @@
   }
  },
  "igennem": {
-  "explanation": "\"Igennem\" means \"through\", going from one side of something to the other. After a verb it can also mean \"from start to finish\": \"Jeg læste bogen igennem\" (I read the book all the way through).",
+  "explanation": "\"Igennem\" means \"through\". The shorter word \"gennem\" means the same: \"gennem skoven\" (through the forest). To say you read or check something from start to finish, put \"igennem\" after the verb: \"Jeg læste bogen igennem\" (I read the book all the way through).",
   "forms": [
    {
     "da": "gå igennem skoven",
@@ -7376,16 +7336,16 @@
   ],
   "related": [
    {
-    "da": "gennem",
-    "en": "through (short form)"
-   },
-   {
     "da": "forbi",
     "en": "past, by"
    },
    {
     "da": "hen over",
     "en": "across"
+   },
+   {
+    "da": "at gennemgå",
+    "en": "to go through"
    }
   ],
   "sentence": {
@@ -7394,7 +7354,7 @@
   }
  },
  "ikke": {
-  "explanation": "\"Ikke\" means \"not\" and goes right after words like \"er\" (is) and \"kan\" (can). It is not the answer no: that is \"nej\", as in \"Nej, jeg er ikke sulten\" (No, I am not hungry). Before a thing you do not have, Danish often uses \"ingen\" (no): \"Jeg har ingen penge\" (I have no money).",
+  "explanation": "\"Ikke\" means \"not\". To say something is not so, put it after \"er\" (is): \"Det er ikke dyrt\" (It is not expensive). Do not mix it up with \"nej\" (no), which answers a question: \"Nej, jeg er ikke sulten\" (No, I am not hungry).",
   "forms": [
    {
     "da": "Jeg ved det ikke.",
@@ -7419,8 +7379,8 @@
     "en": "nothing"
    },
    {
-    "da": "heller ikke",
-    "en": "neither / not either"
+    "da": "ingen",
+    "en": "no / none"
    }
   ],
   "sentence": {
@@ -7429,7 +7389,7 @@
   }
  },
  "ikke desto mindre": {
-  "explanation": "\"Ikke desto mindre\" means \"nevertheless\". It starts a statement that is still true despite what was just said: \"Det var dyrt. Ikke desto mindre købte vi det\" (It was expensive. Nevertheless, we bought it). In everyday speech, \"alligevel\" (anyway) is more common.",
+  "explanation": "\"Ikke desto mindre\" means \"nevertheless\". Literally, it is \"not the less\". To say something is still true despite what was just said, say: \"Det var dyrt. Ikke desto mindre købte vi det\" (It was expensive. Nevertheless, we bought it).",
   "forms": [
    {
     "da": "ikke desto mindre",
@@ -7454,8 +7414,8 @@
     "en": "however"
    },
    {
-    "da": "men",
-    "en": "but"
+    "da": "alligevel",
+    "en": "anyway"
    },
    {
     "da": "på den anden side",
@@ -7468,7 +7428,7 @@
   }
  },
  "ikke endnu": {
-  "explanation": "\"Ikke endnu\" means \"not yet\" and answers a question like \"Are you ready?\" In a longer sentence \"endnu\" (yet) usually goes last: \"Jeg har ikke spist endnu\" (I have not eaten yet). Do not mix it up with \"ikke mere\" (not anymore), which says something has stopped: \"Jeg bor ikke her mere\" (I do not live here anymore).",
+  "explanation": "\"Ikke endnu\" means \"not yet\". To answer a question about being ready, say: \"Er du klar?\" \"Ikke endnu.\" (Are you ready? Not yet.) To say you have not done something so far, put \"endnu\" (yet) at the end: \"Jeg har ikke ringet endnu\" (I have not called yet). Do not mix it up with \"ikke mere\" (not anymore), which says something has stopped: \"Jeg bor ikke her mere\" (I do not live here anymore).",
   "forms": [
    {
     "da": "Ikke endnu.",
@@ -7503,7 +7463,7 @@
   }
  },
  "ikke engang": {
-  "explanation": "\"Ikke engang\" means \"not even\" and goes right before the surprising missing thing: \"Hun har ikke engang tid til en kop kaffe\" (She does not even have time for a cup of coffee).",
+  "explanation": "\"Ikke engang\" means \"not even\". To say something is missing although you would expect it, say: \"Hun har ikke engang tid til en kop kaffe\" (She does not even have time for a cup of coffee). The part \"engang\" also appears in the fairy-tale opening \"Der var engang\" (Once upon a time).",
   "forms": [
    {
     "da": "Ikke engang min bror kom.",
@@ -7524,12 +7484,8 @@
     "en": "even / self"
    },
    {
-    "da": "heller ikke",
-    "en": "not either"
-   },
-   {
-    "da": "slet ikke",
-    "en": "not at all"
+    "da": "overhovedet",
+    "en": "at all"
    }
   ],
   "sentence": {
@@ -7538,7 +7494,7 @@
   }
  },
  "ikke mere": {
-  "explanation": "\"Ikke mere\" means \"no more\" or \"not anymore\". Use it when you have had enough, or when something has stopped. \"Ikke mere, tak\" (No more, thank you) is a polite way to refuse more food or drink.",
+  "explanation": "\"Ikke mere\" means \"no more\". To turn down more of something, say: \"Mere kaffe?\" \"Nej tak, ikke mere.\" (More coffee? No thank you, no more.) To say something has stopped, it means \"not anymore\": \"Jeg bor ikke her mere\" (I do not live here anymore).",
   "forms": [
    {
     "da": "Ikke mere, tak.",
@@ -7573,7 +7529,7 @@
   }
  },
  "ild": {
-  "explanation": "\"Ild\" means \"fire\" as in flames. Do not mix it up with \"en brand\" (a destructive fire), as in \"Der er brand i huset\" (The house is on fire), or \"et bål\" (a campfire), as in \"Vi sidder ved et bål\" (We sit by a campfire).",
+  "explanation": "\"Ild\" means \"fire\", as in flames. Do not mix it up with \"en brand\" (a destructive fire): \"Der er brand i huset\" (The house is on fire). To ask someone for a light, say: \"Har du ild?\" (Do you have a light?)",
   "forms": [
    {
     "da": "ild",
@@ -7612,7 +7568,7 @@
   }
  },
  "ilt": {
-  "explanation": "\"Ilt\" means \"oxygen\", the part of the air that people and animals need in order to live.",
+  "explanation": "\"Ilt\" means \"oxygen\". To say a patient is given oxygen, say: \"Patienten får ilt\" (The patient is getting oxygen). Do not mix it up with \"ild\" (fire), which differs by one letter: \"Man må ikke lege med ild\" (You must not play with fire).",
   "forms": [
    {
     "da": "ilt",
@@ -7655,7 +7611,7 @@
   }
  },
  "imellem": {
-  "explanation": "\"Imellem\" means \"between\". In the phrase \"en gang imellem\" it means \"once in a while\". The shorter \"mellem\" (between) means the same and is more common.",
+  "explanation": "\"Imellem\" means \"between\". To say something sits in the space of two things, say: \"imellem to huse\" (between two houses). To say something happens from time to time, use \"en gang imellem\" (once in a while): \"Jeg ser hende en gang imellem\" (I see her once in a while).",
   "forms": [
    {
     "da": "imellem os",
@@ -7690,7 +7646,7 @@
   }
  },
  "imens": {
-  "explanation": "\"Imens\" means \"while\", joining two things that happen together. It also means \"meanwhile\" between two sentences: \"Jeg laver mad. Imens dækker du bord\" (I am cooking. Meanwhile you set the table).",
+  "explanation": "\"Imens\" means \"while\". It is built from \"i\" (in) and \"mens\" (while). To say what happens during the wait, start a second sentence with it, where it means \"meanwhile\": \"Jeg laver mad. Imens dækker du bord\" (I am cooking. Meanwhile you set the table).",
   "forms": [
    {
     "da": "Du læser, imens jeg laver mad",
@@ -7706,10 +7662,6 @@
    }
   ],
   "related": [
-   {
-    "da": "mens",
-    "en": "while"
-   },
    {
     "da": "under",
     "en": "during"
@@ -7729,7 +7681,7 @@
   }
  },
  "immunitet": {
-  "explanation": "\"En immunitet\" means \"immunity\", the body's protection against a disease: \"Hun har immunitet mod influenza\" (She has immunity to the flu). It also means legal protection: \"diplomatisk immunitet\" (diplomatic immunity).",
+  "explanation": "\"En immunitet\" means \"an immunity\". To say someone cannot catch an illness, add \"mod\" (against): \"Hun har immunitet mod influenza\" (She has immunity to the flu). In law, the word means protection from prosecution: \"diplomatisk immunitet\" (diplomatic immunity).",
   "forms": [
    {
     "da": "en immunitet",
@@ -7772,7 +7724,7 @@
   }
  },
  "imod": {
-  "explanation": "\"Imod\" means \"against\" and \"toward\". Meaning \"against\": \"Vi spiller imod dem\" (We play against them). Meaning \"toward\": \"Hun gik imod døren\" (She walked toward the door).",
+  "explanation": "\"Imod\" means \"against\". To say you play against someone, say: \"Vi spiller imod dem\" (We play against them). To say you move toward something, it means \"toward\": \"Hun gik imod døren\" (She walked toward the door).",
   "forms": [
    {
     "da": "Jeg er imod det",
@@ -7811,7 +7763,7 @@
   }
  },
  "imponerende": {
-  "explanation": "\"Imponerende\" means \"impressive\", for something that makes people admire the skill or effort behind it. The person who feels it is \"imponeret\" (impressed).",
+  "explanation": "\"Imponerende\" means \"impressive\". It comes from the verb \"at imponere\" (to impress). To talk about the person who feels it, use \"imponeret\" (impressed): \"Jeg er imponeret\" (I am impressed).",
   "forms": [
    {
     "da": "en imponerende bygning",
@@ -7828,10 +7780,6 @@
   ],
   "related": [
    {
-    "da": "at imponere",
-    "en": "to impress"
-   },
-   {
     "da": "fantastisk",
     "en": "fantastic"
    },
@@ -7842,6 +7790,10 @@
    {
     "da": "bemærkelsesværdig",
     "en": "remarkable"
+   },
+   {
+    "da": "enestående",
+    "en": "outstanding"
    }
   ],
   "sentence": {
@@ -7850,7 +7802,7 @@
   }
  },
  "imponeret": {
-  "explanation": "\"Imponeret\" means \"impressed\". Use \"over\" (about) for what impressed you: \"Jeg er meget imponeret over resultatet\" (I am very impressed with the result).",
+  "explanation": "\"Imponeret\" means \"impressed\". It comes from the verb \"at imponere\" (to impress). To say what impressed you, add \"over\" (about): \"Jeg er meget imponeret over resultatet\" (I am very impressed with the result). Do not mix it up with \"imponerende\" (impressive), which describes the thing that impresses: \"et imponerende resultat\" (an impressive result).",
   "forms": [
    {
     "da": "en imponeret gæst",
@@ -7867,20 +7819,20 @@
   ],
   "related": [
    {
-    "da": "at imponere",
-    "en": "to impress"
-   },
-   {
-    "da": "imponerende",
-    "en": "impressive"
-   },
-   {
     "da": "at beundre",
     "en": "to admire"
    },
    {
     "da": "forbløffet",
     "en": "amazed"
+   },
+   {
+    "da": "begejstret",
+    "en": "enthusiastic"
+   },
+   {
+    "da": "overrasket",
+    "en": "surprised"
    }
   ],
   "sentence": {
@@ -7889,7 +7841,7 @@
   }
  },
  "import": {
-  "explanation": "\"En import\" means \"import\", goods that are bought abroad and brought into a country. The opposite is \"eksport\" (export).",
+  "explanation": "\"En import\" means \"an import\". It is the noun for the verb \"at importere\" (to import). To talk about goods leaving the country, use the opposite, \"en eksport\" (an export): \"Firmaet lever af eksport\" (The company lives off export).",
   "forms": [
    {
     "da": "en import",
@@ -7910,20 +7862,20 @@
   ],
   "related": [
    {
-    "da": "at indføre",
-    "en": "to bring in"
-   },
-   {
-    "da": "at importere",
-    "en": "to import"
-   },
-   {
     "da": "en importør",
     "en": "an importer"
    },
    {
     "da": "en told",
     "en": "a customs duty"
+   },
+   {
+    "da": "en vare",
+    "en": "a good"
+   },
+   {
+    "da": "en handel",
+    "en": "a trade"
    }
   ],
   "sentence": {
@@ -7932,7 +7884,7 @@
   }
  },
  "impulsiv": {
-  "explanation": "\"Impulsiv\" means \"impulsive\", acting on a sudden urge without thinking first. The urge is \"en impuls\" (an impulse), and \"et impulskøb\" (an impulse buy) is something you buy without planning.",
+  "explanation": "\"Impulsiv\" means \"impulsive\". It comes from the noun \"en impuls\" (an impulse). To say you bought something without planning, say: \"Det var et impulskøb\" (It was an impulse buy).",
   "forms": [
    {
     "da": "en impulsiv beslutning",
@@ -7971,7 +7923,7 @@
   }
  },
  "ind": {
-  "explanation": "\"Ind\" means \"in\" and is used for moving to the inside: \"Kom ind!\" (Come in!). For being inside already, use \"inde\" (inside): \"Han er inde\" (He is inside). \"Ind i\" means \"into\": \"Hun løber ind i butikken\" (She runs into the store).",
+  "explanation": "\"Ind\" means \"in\". To tell someone to come into a room, say: \"Kom ind!\" (Come in!) To say the place you enter, add \"i\" (in) after it: \"Hun løber ind i butikken\" (She runs into the store). To say someone is already inside, use \"inde\" (inside): \"Han er inde\" (He is inside).",
   "forms": [
    {
     "da": "Kom ind!",
@@ -8006,7 +7958,7 @@
   }
  },
  "indadvendt": {
-  "explanation": "\"Indadvendt\" means \"introverted\", someone who keeps to themselves and needs time alone. It is built from indad (inward) and vendt (turned), so it means \"turned inward\". The opposite is \"udadvendt\" (outgoing).",
+  "explanation": "\"Indadvendt\" means \"introverted\". It is built from \"indad\" (inward) and \"vendt\" (turned), so it means \"turned inward\". To describe someone who likes meeting people, use the opposite, \"udadvendt\" (outgoing): \"Hun er meget udadvendt\" (She is very outgoing).",
   "forms": [
    {
     "da": "en indadvendt dreng",
@@ -8045,7 +7997,7 @@
   }
  },
  "indbydende": {
-  "explanation": "\"Indbydende\" means \"inviting\", something that looks so pleasant that you want to come in or try it. It is used about anything that looks welcoming, such as rooms, food and water: \"Vandet så indbydende ud\" (The water looked inviting).",
+  "explanation": "\"Indbydende\" means \"inviting\". It comes from the verb \"at indbyde\" (to invite). To say something looks tempting, say: \"Vandet så indbydende ud\" (The water looked inviting).",
   "forms": [
    {
     "da": "en indbydende stue",
@@ -8084,7 +8036,7 @@
   }
  },
  "indefra": {
-  "explanation": "\"Indefra\" means \"from the inside\". It tells where something comes from or is done: \"Døren er låst indefra\" (The door is locked from the inside). The opposite is \"udefra\" (from the outside).",
+  "explanation": "\"Indefra\" means \"from the inside\". To say where a lock is, say: \"Døren er låst indefra\" (The door is locked from the inside). To say from the outside, use the opposite, \"udefra\": \"Døren kan kun åbnes udefra\" (The door can only be opened from the outside).",
   "forms": [
    {
     "da": "låst indefra",
@@ -8123,7 +8075,7 @@
   }
  },
  "inden": {
-  "explanation": "\"Inden\" means \"before\" and links an action to one that comes after it. Do not mix it up with \"indenfor\" (inside), which is about a place: \"Vi er indenfor\" (We are inside).",
+  "explanation": "\"Inden\" means \"before\". To say something happens before a time, put the time after it: \"Vi er hjemme inden middag\" (We are home before dinner). Do not mix it up with \"indenfor\" (inside), which is about a place: \"Vi er indenfor\" (We are inside).",
   "forms": [
    {
     "da": "inden jeg går",
@@ -8158,7 +8110,7 @@
   }
  },
  "indenfor": {
-  "explanation": "\"Indenfor\" means \"inside\". You say it at the door to invite someone in: \"Kom indenfor!\" (Come in!). With a time it means \"within\": \"indenfor en uge\" (within a week).",
+  "explanation": "\"Indenfor\" means \"inside\". To invite someone in from the door, say: \"Kom indenfor!\" (Come in!) To say within a time, say: \"indenfor en uge\" (within a week).",
   "forms": [
    {
     "da": "kom indenfor!",
@@ -8179,16 +8131,12 @@
     "en": "outside"
    },
    {
-    "da": "inde",
-    "en": "inside"
+    "da": "indendørs",
+    "en": "indoors"
    },
    {
-    "da": "ind",
-    "en": "in (movement)"
-   },
-   {
-    "da": "inden",
-    "en": "before"
+    "da": "udendørs",
+    "en": "outdoors"
    }
   ],
   "sentence": {
@@ -8197,7 +8145,7 @@
   }
  },
  "indeni": {
-  "explanation": "\"Indeni\" means \"inside\" and tells what is inside something: \"Æblet er råddent indeni\" (The apple is rotten inside). It can also be about feelings: \"Jeg er glad indeni\" (I am happy inside).",
+  "explanation": "\"Indeni\" means \"inside\". To say what the inside of a thing is like, say: \"Æblet er råddent indeni\" (The apple is rotten inside). To talk about feelings you hide, say: \"Hun smiler, men hun er ked af det indeni\" (She smiles, but she is sad inside).",
   "forms": [
    {
     "da": "Hvad er der indeni?",
@@ -8218,16 +8166,16 @@
     "en": "on the outside"
    },
    {
-    "da": "inde",
-    "en": "inside / indoors"
-   },
-   {
     "da": "indenfor",
     "en": "inside"
    },
    {
     "da": "udenfor",
     "en": "outside"
+   },
+   {
+    "da": "indvendig",
+    "en": "on the inside"
    }
   ],
   "sentence": {
@@ -8236,7 +8184,7 @@
   }
  },
  "indenlandsk": {
-  "explanation": "\"Indenlandsk\" means \"domestic\", something that stays within one country, such as flights and goods. For flights, Danes also say \"en indenrigsflyvning\" (a domestic flight).",
+  "explanation": "\"Indenlandsk\" means \"domestic\". It is built from \"inden\" (within) and \"land\" (country). To talk about goods from another country, use the opposite, \"udenlandsk\" (foreign): \"udenlandske varer\" (foreign goods).",
   "forms": [
    {
     "da": "indenlandsk produktion",
@@ -8253,16 +8201,16 @@
   ],
   "related": [
    {
-    "da": "udenlandsk",
-    "en": "foreign"
-   },
-   {
     "da": "international",
     "en": "international"
    },
    {
     "da": "national",
     "en": "national, of the whole country"
+   },
+   {
+    "da": "indenrigs",
+    "en": "domestic"
    }
   ],
   "sentence": {
@@ -8271,7 +8219,7 @@
   }
  },
  "inderst": {
-  "explanation": "\"Inderst\" means \"innermost\", the place furthest in. In \"inderst inde\" it means \"deep down\" and is about true feelings people may hide: \"Inderst inde er han bange\" (Deep down he is afraid).",
+  "explanation": "\"Inderst\" means \"at the very back\". It is the \"most\" form of \"indre\" (inner). To talk about true feelings, use \"inderst inde\" (deep down): \"Inderst inde er han bange\" (Deep down he is afraid).",
   "forms": [
    {
     "da": "inderst i skabet",
@@ -8306,7 +8254,7 @@
   }
  },
  "indflydelsesrig": {
-  "explanation": "\"Indflydelsesrig\" means \"influential\", having the power to change what others think or decide. It is built from indflydelse (influence) and rig (rich), so it means \"rich in influence\". The phrase \"at have indflydelse på\" means \"to have influence on\".",
+  "explanation": "\"Indflydelsesrig\" means \"influential\". It is built from \"indflydelse\" (influence) and \"rig\" (rich), so it means \"rich in influence\". To say who is affected, add \"på\" (on) after \"indflydelse\": \"Han har stor indflydelse på sine kolleger\" (He has great influence on his colleagues).",
   "forms": [
    {
     "da": "en indflydelsesrig politiker",
@@ -8345,7 +8293,7 @@
   }
  },
  "indfødsret": {
-  "explanation": "\"En indfødsret\" means \"a citizenship\", the legal right to belong to a country as one of its own people. It is the formal word in law and news; in everyday talk people say \"statsborgerskab\" (citizenship).",
+  "explanation": "\"En indfødsret\" means \"a citizenship\". It is built from \"indfødt\" (native) and \"ret\" (right). In Denmark, a new citizen is granted \"indfødsret\" by a law passed in parliament.",
   "forms": [
    {
     "da": "en indfødsret",
@@ -8370,12 +8318,12 @@
     "en": "a foreigner"
    },
    {
-    "da": "indfødt",
-    "en": "native"
-   },
-   {
     "da": "et pas",
     "en": "a passport"
+   },
+   {
+    "da": "et statsborgerskab",
+    "en": "a citizenship"
    }
   ],
   "sentence": {
@@ -8384,7 +8332,7 @@
   }
  },
  "indfødt": {
-  "explanation": "\"Indfødt\" means \"native\", for a person born in a given place: \"en indfødt københavner\" (a native Copenhagener). It is about where someone was born, not where they live now.",
+  "explanation": "\"Indfødt\" means \"native\", as in born in a place: \"en indfødt københavner\" (a native Copenhagener). It is built from \"ind\" (in) and \"født\" (born).",
   "forms": [
    {
     "da": "en indfødt jyde",
@@ -8423,7 +8371,7 @@
   }
  },
  "indhold": {
-  "explanation": "\"Et indhold\" means \"content\", what something holds, like the things in a box or the information in a text.",
+  "explanation": "\"Indholdet\" means \"the content\". It comes from the verb \"at indeholde\" (to contain). The list at the front of a book is \"en indholdsfortegnelse\" (a table of contents).",
   "forms": [
    {
     "da": "indholdet",
@@ -8440,16 +8388,16 @@
   ],
   "related": [
    {
-    "da": "en indholdsfortegnelse",
-    "en": "a table of contents"
-   },
-   {
-    "da": "at indeholde",
-    "en": "to contain"
-   },
-   {
     "da": "en beholder",
     "en": "a container"
+   },
+   {
+    "da": "et emne",
+    "en": "a subject"
+   },
+   {
+    "da": "en tekst",
+    "en": "a text"
    }
   ],
   "sentence": {
@@ -8458,7 +8406,7 @@
   }
  },
  "indien": {
-  "explanation": "\"Indien\" means \"India\". A person from India is \"en inder\" (an Indian); do not mix it up with \"en indianer\" (a Native American).",
+  "explanation": "\"Indien\" means \"India\". To say a person is from India, use \"en inder\" (an Indian person): \"Han er inder\" (He is an Indian). Do not mix it up with \"en indianer\" (a Native American): \"Hun er indianer\" (She is a Native American).",
   "forms": [
    {
     "da": "Indien",
@@ -8493,7 +8441,7 @@
   }
  },
  "indimellem": {
-  "explanation": "\"Indimellem\" means \"now and then\", for things that happen from time to time but not on a fixed schedule.",
+  "explanation": "\"Indimellem\" means \"now and then\". It is built from \"ind\" (in) and \"imellem\" (between). To say someone does something from time to time, say: \"Hun ringer indimellem\" (She calls now and then).",
   "forms": [
    {
     "da": "Jeg løber indimellem",
@@ -8532,7 +8480,7 @@
   }
  },
  "indisk": {
-  "explanation": "\"Indisk\" means \"Indian\", from \"Indien\" (India). It is written with a lowercase letter (\"indisk\"), while English \"Indian\" has an uppercase letter. Do not mix it up with \"en indianer\" (a Native American).",
+  "explanation": "\"Indisk\" means \"Indian\", from \"Indien\" (India). To talk about a person from India, use \"en inder\" (an Indian person). Do not mix it up with \"en indianer\" (a Native American): \"Han er indianer\" (He is a Native American).",
   "forms": [
    {
     "da": "en indisk restaurant",
@@ -8549,16 +8497,16 @@
   ],
   "related": [
    {
-    "da": "en inder",
-    "en": "an Indian person"
-   },
-   {
     "da": "kinesisk",
     "en": "Chinese"
    },
    {
     "da": "japansk",
     "en": "Japanese"
+   },
+   {
+    "da": "thailandsk",
+    "en": "Thai"
    }
   ],
   "sentence": {
@@ -8567,7 +8515,7 @@
   }
  },
  "individuel": {
-  "explanation": "\"Individuel\" means \"individual\", made for or about one person instead of a group. A person seen on their own is \"et individ\" (an individual).",
+  "explanation": "\"Individuel\" means \"individual\". It comes from the noun \"et individ\" (an individual person). To describe a talk that is meant for just one person, put it before the noun: \"en individuel samtale\" (an individual conversation).",
   "forms": [
    {
     "da": "individuel træning",
@@ -8588,16 +8536,16 @@
     "en": "personal"
    },
    {
-    "da": "særlig",
-    "en": "special"
-   },
-   {
     "da": "enkelt",
     "en": "single"
    },
    {
     "da": "fælles",
     "en": "shared"
+   },
+   {
+    "da": "kollektiv",
+    "en": "collective"
    }
   ],
   "sentence": {
@@ -8606,7 +8554,7 @@
   }
  },
  "indlysende": {
-  "explanation": "\"Indlysende\" means \"obvious\", so clear that no explanation is needed. The opposite is \"uklar\" (unclear).",
+  "explanation": "\"Indlysende\" means \"obvious\". To say that a fact is clear to everyone, use it after \"Det er\": \"Det er indlysende, at han tager fejl\" (It is obvious that he is wrong).",
   "forms": [
    {
     "da": "et indlysende svar",
@@ -8635,8 +8583,8 @@
     "en": "of course"
    },
    {
-    "da": "tvivlsom",
-    "en": "doubtful"
+    "da": "uklar",
+    "en": "unclear"
    }
   ],
   "sentence": {
@@ -8645,7 +8593,7 @@
   }
  },
  "indre": {
-  "explanation": "\"Indre\" means \"inner\", for what is on the inside: \"den indre by\" (the inner city). It is also used for feelings: \"indre uro\" (inner unrest).",
+  "explanation": "\"Indre\" means \"inner\". To talk about the central part of a city, say \"den indre by\" (the inner city). To talk about feelings inside a person, say \"indre uro\" (inner unrest).",
   "forms": [
    {
     "da": "en indre stemme",
@@ -8684,7 +8632,7 @@
   }
  },
  "indsigt": {
-  "explanation": "\"En indsigt\" means \"insight\", a deeper grasp of something. It is often used with \"i\" (in): \"Hun har god indsigt i økonomi\" (She has good insight into economics).",
+  "explanation": "\"En indsigt\" means \"an insight\". To say what a person understands well, put \"i\" (in) after it: \"Hun har god indsigt i økonomi\" (She has good insight into economics).",
   "forms": [
    {
     "da": "en indsigt",
@@ -8727,7 +8675,7 @@
   }
  },
  "indtil": {
-  "explanation": "\"Indtil\" means \"until\". It works with a time: \"indtil fredag\" (until Friday). It also works with a whole sentence: \"Bliv, indtil du er rask\" (Stay until you are well). \"Indtil videre\" means \"for now\".",
+  "explanation": "\"Indtil\" means \"until\". To say when something stops, put a time after it: \"indtil fredag\" (until Friday). To say something lasts until an event happens, put a whole sentence after it: \"Bliv, indtil du er rask\" (Stay until you are well).",
   "forms": [
    {
     "da": "indtil i morgen",
@@ -8744,16 +8692,16 @@
   ],
   "related": [
    {
-    "da": "til",
-    "en": "to / until"
-   },
-   {
     "da": "inden",
     "en": "before"
    },
    {
-    "da": "indtil nu",
-    "en": "until now"
+    "da": "før",
+    "en": "before"
+   },
+   {
+    "da": "indtil da",
+    "en": "until then"
    }
   ],
   "sentence": {
@@ -8762,7 +8710,7 @@
   }
  },
  "indtil nu": {
-  "explanation": "\"Indtil nu\" means \"until now\" and looks back at how things have been. To look ahead, use \"fra nu af\" (from now on).",
+  "explanation": "\"Indtil nu\" means \"until now\". It is built from \"indtil\" (until) and \"nu\" (now). To talk about what happens from this moment forward, use \"fra nu af\" (from now on): \"Fra nu af kommer jeg i tide\" (From now on I will be on time).",
   "forms": [
    {
     "da": "Indtil nu har det været godt.",
@@ -8801,7 +8749,7 @@
   }
  },
  "indtil videre": {
-  "explanation": "\"Indtil videre\" means \"for now\" or \"so far\", until something changes. It means \"for now\" when you describe the coming days and \"so far\" when you describe the days up to today: \"Det går godt indtil videre\" (It is going well so far).",
+  "explanation": "\"Indtil videre\" means \"so far\". It is built from \"indtil\" (until) and \"videre\" (further). To talk about the coming days, it means \"for now\": \"Vi holder lukket indtil videre\" (We are staying closed for now).",
   "forms": [
    {
     "da": "Det går godt indtil videre.",
@@ -8840,7 +8788,7 @@
   }
  },
  "indviklet": {
-  "explanation": "\"Indviklet\" means \"complicated\", with so many parts or steps that it is hard to follow. It comes from \"at indvikle\" (to wrap up or tangle), so something \"indviklet\" is tangled.",
+  "explanation": "\"Indviklet\" means \"complicated\". It comes from the verb \"at indvikle\" (to wrap up), so something \"indviklet\" is wrapped up in itself and hard to follow.",
   "forms": [
    {
     "da": "en indviklet historie",
@@ -8879,7 +8827,7 @@
   }
  },
  "ineffektiv": {
-  "explanation": "\"Ineffektiv\" means \"inefficient\", doing something in a way that wastes time or effort. It can also mean that something does not give the result you want: \"en ineffektiv medicin\" (a medicine that does not work well).",
+  "explanation": "\"Ineffektiv\" means \"inefficient\". It is built from \"effektiv\" (efficient) with \"in\" in front, which turns it into the opposite. To say that a medicine does not give the result you want, use it for the medicine: \"en ineffektiv medicin\" (an ineffective medicine).",
   "forms": [
    {
     "da": "en ineffektiv metode",
@@ -8895,10 +8843,6 @@
    }
   ],
   "related": [
-   {
-    "da": "effektiv",
-    "en": "efficient"
-   },
    {
     "da": "uproduktiv",
     "en": "unproductive"
@@ -8918,7 +8862,7 @@
   }
  },
  "inficeret": {
-  "explanation": "\"Inficeret\" means \"infected\", reached by germs, as in a wound. Computers can be \"inficeret\" too, by a harmful program. For a person with an illness, Danes usually say \"smittet\" (infected): \"Han er smittet\" (He is infected).",
+  "explanation": "\"Inficeret\" means \"infected\". It comes from the verb \"at inficere\" (to infect). To say that a person has caught an illness, use \"smittet\" (infected) instead: \"Han er smittet\" (He is infected).",
   "forms": [
    {
     "da": "et inficeret sår",
@@ -8947,7 +8891,7 @@
     "en": "to disinfect"
    },
    {
-    "da": "rask",
+    "da": "sund",
     "en": "healthy"
    }
   ],
@@ -8957,7 +8901,7 @@
   }
  },
  "inflation": {
-  "explanation": "\"Inflation\" means \"inflation\", a general rise in prices over time, so the same money buys less.",
+  "explanation": "\"Inflation\" means \"inflation\". To say that prices are going up, use the verb \"at stige\" (to rise): \"Inflationen stiger\" (Inflation is rising).",
   "forms": [
    {
     "da": "inflation",
@@ -8982,10 +8926,6 @@
     "en": "deflation"
    },
    {
-    "da": "en pris",
-    "en": "a price"
-   },
-   {
     "da": "en prisstigning",
     "en": "a price rise"
    },
@@ -9000,7 +8940,7 @@
   }
  },
  "influenza": {
-  "explanation": "\"Influenza\" means \"flu\". Danes say \"Jeg har influenza\" (I have the flu) without \"en\" (a) in front.",
+  "explanation": "\"Influenza\" means \"flu\". To say you have the flu, leave out \"en\" (a): \"Jeg har influenza\" (I have the flu).",
   "forms": [
    {
     "da": "influenza",
@@ -9035,7 +8975,7 @@
   }
  },
  "information": {
-  "explanation": "\"Information\" means \"information\", facts that tell you about something, such as a place, a time or a price. Like most words ending in \"-ion\", it uses \"en\": \"en station\" (a station), \"en lektion\" (a lesson).",
+  "explanation": "\"Information\" means \"information\". To say what the information is about, put \"om\" (about) after it: \"information om togene\" (information about the trains).",
   "forms": [
    {
     "da": "en information",
@@ -9078,7 +9018,7 @@
   }
  },
  "informeret": {
-  "explanation": "\"Informeret\" means \"informed\", knowing the facts you need before you decide or act. To name the topic you know about, use \"om\" (about): \"Er du informeret om ændringen?\" (Are you informed about the change?)",
+  "explanation": "\"Informeret\" means \"informed\". It comes from the verb \"at informere\" (to inform). To name the topic you know about, use \"om\" (about): \"Er du informeret om ændringen?\" (Are you informed about the change?)",
   "forms": [
    {
     "da": "en informeret borger",
@@ -9095,10 +9035,6 @@
   ],
   "related": [
    {
-    "da": "at informere",
-    "en": "to inform"
-   },
-   {
     "da": "orienteret",
     "en": "briefed"
    },
@@ -9109,6 +9045,10 @@
    {
     "da": "bekendt med",
     "en": "familiar with"
+   },
+   {
+    "da": "information",
+    "en": "information"
    }
   ],
   "sentence": {
@@ -9117,7 +9057,7 @@
   }
  },
  "ingefær": {
-  "explanation": "\"Ingefær\" means \"ginger\", the sharp, warm root used to flavor food and drinks.",
+  "explanation": "\"Ingefær\" means \"ginger\". To name a drink made with ginger, put \"ingefær\" in front of the drink: \"ingefærte\" (ginger tea) and \"ingefærøl\" (ginger beer).",
   "forms": [
    {
     "da": "ingefær",
@@ -9138,12 +9078,16 @@
     "en": "turmeric"
    },
    {
-    "da": "ingefærte",
-    "en": "ginger tea"
+    "da": "kanel",
+    "en": "cinnamon"
    },
    {
-    "da": "ingefærøl",
-    "en": "ginger beer"
+    "da": "et krydderi",
+    "en": "a spice"
+   },
+   {
+    "da": "en rod",
+    "en": "a root"
    }
   ],
   "sentence": {
@@ -9152,7 +9096,7 @@
   }
  },
  "ingen": {
-  "explanation": "\"Ingen\" means \"no one\" or \"no\". Its opposite is \"nogen\" (anyone), used in questions: \"Er der nogen hjemme?\" (Is anyone home?). The answer uses \"ingen\": \"Nej, der er ingen hjemme\" (No, no one is home). Do not add \"ikke\" (not) next to \"ingen\"; the word already means \"not any\".",
+  "explanation": "\"Ingen\" means \"no one\". To say you have none of something, use it before the noun, as \"no\": \"Der er ingen billetter\" (There are no tickets). Danish does not add \"ikke\" (not) next to it, so say \"Jeg kender ingen her\" (I know no one here). In a question, use \"nogen\" (anyone) instead: \"Er der nogen hjemme?\" (Is anyone home?)",
   "forms": [
    {
     "da": "Ingen er hjemme.",
@@ -9174,7 +9118,7 @@
    },
    {
     "da": "intet",
-    "en": "nothing (et-word)"
+    "en": "nothing"
    },
    {
     "da": "alle",
@@ -9191,7 +9135,7 @@
   }
  },
  "ingen problemer": {
-  "explanation": "\"Ingen problemer\" means \"no problem\" and is a relaxed answer when someone asks you for help. A longer way to say it is \"det er ikke noget problem\" (it is not a problem).",
+  "explanation": "\"Ingen problemer\" means \"no problem\". To agree when someone asks you for a small favor, say it as your answer: \"Kan jeg få en pose?\" \"Ingen problemer.\" (Can I have a bag? No problem.) A longer way to say the same is \"Det er ikke noget problem\" (That is not a problem).",
   "forms": [
    {
     "da": "Ingen problemer!",
@@ -9209,7 +9153,7 @@
   "related": [
    {
     "da": "ingen sag",
-    "en": "no problem (casual)"
+    "en": "no problem"
    },
    {
     "da": "det er i orden",
@@ -9230,7 +9174,7 @@
   }
  },
  "ingen årsag": {
-  "explanation": "\"Ingen årsag\" means \"don't mention it\" and is a reply to thanks. Literally, it says \"no reason\".",
+  "explanation": "\"Ingen årsag\" means \"don't mention it\". Literally, it says \"no reason\". To answer when someone thanks you, say it as your reply: \"Tak for lånet.\" \"Ingen årsag.\" (Thanks for the loan. Don't mention it.)",
   "forms": [
    {
     "da": "Ingen årsag!",
@@ -9255,8 +9199,8 @@
     "en": "it was nothing"
    },
    {
-    "da": "tak",
-    "en": "thanks"
+    "da": "ingen problemer",
+    "en": "no problem"
    }
   ],
   "sentence": {
@@ -9265,7 +9209,7 @@
   }
  },
  "ingenting": {
-  "explanation": "\"Ingenting\" means \"nothing\", the opposite of \"noget\" (something): \"Jeg ser noget\" (I see something), \"Jeg ser ingenting\" (I see nothing). Do not add \"ikke\" (not): the word already means \"not anything\". For people, use \"ingen\" (no one): \"Ingen er her\" (No one is here).",
+  "explanation": "\"Ingenting\" means \"nothing\". To say you see something, use \"noget\" (something): \"Jeg ser noget\" (I see something). Danish does not add \"ikke\" (not) next to \"ingenting\", so say \"Jeg ved ingenting\" (I know nothing). To say that no person is there, use \"ingen\" (no one): \"Ingen er her\" (No one is here).",
   "forms": [
    {
     "da": "Jeg ser ingenting.",
@@ -9291,7 +9235,7 @@
    },
    {
     "da": "intet",
-    "en": "nothing (formal)"
+    "en": "nothing"
    },
    {
     "da": "ingen steder",
@@ -9304,7 +9248,7 @@
   }
  },
  "inklusive": {
-  "explanation": "\"Inklusive\" means \"including\". It can come before the price or item: \"inklusive moms\" (including tax). It can also come after: \"Morgenmad inklusive\" (Breakfast included).",
+  "explanation": "\"Inklusive\" means \"including\". To list what a price covers, put it before the item: \"inklusive fragt\" (including shipping). It can also come after the item: \"Morgenmad inklusive\" (Breakfast included).",
   "forms": [
    {
     "da": "inklusive moms",
@@ -9343,7 +9287,7 @@
   }
  },
  "inspireret": {
-  "explanation": "\"Inspireret\" means \"inspired\", full of ideas and energy after seeing or hearing something good. To name the person or thing that inspired you, add \"af\" (by) after \"inspireret\": \"inspireret af en bog\" (inspired by a book).",
+  "explanation": "\"Inspireret\" means \"inspired\". To name the person or thing that inspired you, add \"af\" (by) after it: \"inspireret af en bog\" (inspired by a book).",
   "forms": [
    {
     "da": "en inspireret kunstner",
@@ -9382,7 +9326,7 @@
   }
  },
  "intakt": {
-  "explanation": "\"Intakt\" means \"intact\", in one piece with nothing broken: \"Pakken er intakt\" (The package is intact).",
+  "explanation": "\"Intakt\" means \"intact\". English speakers should spell it with \"kt\" at the end, not \"ct\". To say a delivered package is not damaged, say: \"Pakken er intakt\" (The package is intact).",
   "forms": [
    {
     "da": "en intakt rude",
@@ -9421,7 +9365,7 @@
   }
  },
  "intelligens": {
-  "explanation": "\"En intelligens\" means \"intelligence\", the ability to learn, understand and solve problems. The describing word is \"intelligent\" (intelligent).",
+  "explanation": "\"En intelligens\" means \"an intelligence\". It is the noun for the describing word \"intelligent\" (intelligent).",
   "forms": [
    {
     "da": "en intelligens",
@@ -9450,10 +9394,6 @@
     "en": "gifted"
    },
    {
-    "da": "en hjerne",
-    "en": "a brain"
-   },
-   {
     "da": "dum",
     "en": "stupid"
    }
@@ -9464,7 +9404,7 @@
   }
  },
  "intelligent": {
-  "explanation": "\"Intelligent\" means \"intelligent\" and is spelled almost like the English word. You say it about anyone or anything that shows good thinking: \"et intelligent svar\" (an intelligent answer), \"en intelligent hund\" (an intelligent dog).",
+  "explanation": "\"Intelligent\" means \"intelligent\". It is the describing word for the noun \"intelligens\" (intelligence). To say an animal shows good thinking, use it before the noun: \"en intelligent hund\" (an intelligent dog).",
   "forms": [
    {
     "da": "en intelligent pige",
@@ -9489,12 +9429,12 @@
     "en": "stupid"
    },
    {
-    "da": "en intelligens",
-    "en": "an intelligence"
-   },
-   {
     "da": "snedig",
     "en": "clever / cunning"
+   },
+   {
+    "da": "begavet",
+    "en": "gifted"
    }
   ],
   "sentence": {
@@ -9503,7 +9443,7 @@
   }
  },
  "interessant": {
-  "explanation": "\"Interessant\" means \"interesting\". To say you are interested, use \"interesseret\" (interested): \"Jeg er interesseret i musik\" (I am interested in music).",
+  "explanation": "\"Interessant\" means \"interesting\". To say something sounds interesting, use \"lyder\" (sounds): \"Det lyder interessant\" (That sounds interesting). To say you are interested, use \"interesseret\" (interested) instead: \"Jeg er interesseret i musik\" (I am interested in music).",
   "forms": [
    {
     "da": "en interessant bog",
@@ -9542,7 +9482,7 @@
   }
  },
  "interesseret": {
-  "explanation": "\"Interesseret\" means \"interested\", and it is followed by \"i\" (in): \"Jeg er interesseret i musik\" (I am interested in music).",
+  "explanation": "\"Interesseret\" means \"interested\". To say what you are interested in, put \"i\" (in) after it: \"Hun er interesseret i historie\" (She is interested in history).",
   "forms": [
    {
     "da": "en interesseret elev",
@@ -9581,7 +9521,7 @@
   }
  },
  "interesseret i": {
-  "explanation": "\"Interesseret i\" means \"interested in\". To say you are interested in doing something, add \"at\" (to) before the action word: \"interesseret i at lære\" (interested in learning).",
+  "explanation": "\"Interesseret i\" means \"interested in\". To say you are interested in doing something, put \"at\" (to) and a verb after it: \"interesseret i at lære\" (interested in learning).",
   "forms": [
    {
     "da": "Jeg er interesseret i musik.",
@@ -9620,7 +9560,7 @@
   }
  },
  "intern": {
-  "explanation": "\"Intern\" means \"internal\", something that stays inside one company or group and is not meant for outsiders. The opposite is \"ekstern\" (external).",
+  "explanation": "\"Intern\" means \"internal\". To talk about messages that stay inside a company, say \"intern kommunikation\" (internal communication).",
   "forms": [
    {
     "da": "en intern regel",
@@ -9637,10 +9577,6 @@
   ],
   "related": [
    {
-    "da": "indre",
-    "en": "inner"
-   },
-   {
     "da": "fortrolig",
     "en": "confidential"
    },
@@ -9651,6 +9587,10 @@
    {
     "da": "privat",
     "en": "private"
+   },
+   {
+    "da": "ekstern",
+    "en": "external"
    }
   ],
   "sentence": {
@@ -9659,7 +9599,7 @@
   }
  },
  "international": {
-  "explanation": "\"International\" means \"international\", between or across countries. The word for something inside one country is \"national\" (national).",
+  "explanation": "\"International\" means \"international\". To talk about something inside one country, use \"national\" (national) instead: \"en national turnering\" (a national tournament).",
   "forms": [
    {
     "da": "en international skole",
@@ -9698,7 +9638,7 @@
   }
  },
  "internet": {
-  "explanation": "\"Internet\" means \"internet\" and is spelled the same as in English. It also means an internet connection: \"Der er ikke internet her\" (There is no internet here).",
+  "explanation": "\"Internet\" means \"the internet\". To say that a place has no connection, use it for the connection: \"Der er ikke internet her\" (There is no internet here).",
   "forms": [
    {
     "da": "internettet",
@@ -9733,7 +9673,7 @@
   }
  },
  "intet": {
-  "explanation": "\"Intet\" means \"nothing\", and also \"no\" in front of an et-word: \"Det er intet problem\" (It is no problem). In everyday talk, Danes often say \"ikke noget\" (not anything) instead: \"Jeg har ikke noget\" (I have nothing).",
+  "explanation": "\"Intet\" means \"no\". Use it before a word that takes \"et\": \"Det er intet problem\" (It is no problem). To say you see nothing, it also means \"nothing\" after the verb: \"Jeg ser intet\" (I see nothing).",
   "forms": [
    {
     "da": "intet svar",
@@ -9760,6 +9700,10 @@
    {
     "da": "alt",
     "en": "everything"
+   },
+   {
+    "da": "noget",
+    "en": "something"
    }
   ],
   "sentence": {
@@ -9768,7 +9712,7 @@
   }
  },
  "intetkøn": {
-  "explanation": "\"Et intetkøn\" means \"the gender of et-words\", the group of words that use \"et\", like \"et hus\" (a house) and \"et barn\" (a child). The other group is en-words. It is built from intet (nothing) and køn (gender), so it literally means \"no gender\".",
+  "explanation": "\"Et intetkøn\" means \"a neuter gender\". It is built from \"intet\" (nothing) and \"et køn\" (a gender), so it literally means \"no gender\". Words in this group take \"et\", as in \"et hus\" (a house) and \"et barn\" (a child).",
   "forms": [
    {
     "da": "et intetkøn",
@@ -9803,7 +9747,7 @@
   }
  },
  "involveret": {
-  "explanation": "\"Involveret\" means \"involved\", taking part in something or tied up in it. To name the project or event you take part in, add \"i\" (in) after \"involveret\": \"Hun er involveret i projektet\" (She is involved in the project).",
+  "explanation": "\"Involveret\" means \"involved\". To name what a person takes part in, put \"i\" (in) after it: \"Hun er involveret i projektet\" (She is involved in the project).",
   "forms": [
    {
     "da": "en involveret person",
@@ -9842,7 +9786,7 @@
   }
  },
  "ironisk": {
-  "explanation": "\"Ironisk\" means \"ironic\", saying the opposite of what you mean, or something that turns out the opposite of what you would expect: \"Det er ironisk, at bageren aldrig spiser brød\" (It is ironic that the baker never eats bread).",
+  "explanation": "\"Ironisk\" means \"ironic\". It is the describing word for the noun \"en ironi\" (an irony). To say a situation turned out the opposite of what you would expect, say: \"Det er ironisk, at bageren aldrig spiser brød\" (It is ironic that the baker never eats bread).",
   "forms": [
    {
     "da": "en ironisk bemærkning",
@@ -9863,16 +9807,16 @@
     "en": "sarcastic"
    },
    {
-    "da": "en ironi",
-    "en": "an irony"
-   },
-   {
     "da": "alvorlig",
     "en": "serious"
    },
    {
     "da": "spydig",
     "en": "sharp-tongued"
+   },
+   {
+    "da": "humoristisk",
+    "en": "humorous"
    }
   ],
   "sentence": {
@@ -9881,7 +9825,7 @@
   }
  },
  "irrationel": {
-  "explanation": "\"Irrationel\" means \"irrational\", not based on logic, like a feeling with no good reason. In math it is a number that cannot be written as a simple fraction: \"et irrationelt tal\" (an irrational number).",
+  "explanation": "\"Irrationel\" means \"irrational\". English speakers should end it in \"el\", not \"al\". In math, to name a number that cannot be written as a simple fraction, say \"et irrationelt tal\" (an irrational number).",
   "forms": [
    {
     "da": "en irrationel frygt",
@@ -9898,8 +9842,8 @@
   ],
   "related": [
    {
-    "da": "rationel",
-    "en": "rational"
+    "da": "absurd",
+    "en": "absurd"
    },
    {
     "da": "logisk",
@@ -9920,7 +9864,7 @@
   }
  },
  "irrelevant": {
-  "explanation": "\"Irrelevant\" means \"irrelevant\", having nothing to do with the matter at hand. To name the matter that the fact does not concern, add \"for\" (for) after \"irrelevant\": \"Det er irrelevant for sagen\" (It is irrelevant to the case).",
+  "explanation": "\"Irrelevant\" means \"irrelevant\". To name the matter that something does not concern, put \"for\" (for) after it: \"Det er irrelevant for sagen\" (It is irrelevant to the case).",
   "forms": [
    {
     "da": "en irrelevant detalje",
@@ -9937,8 +9881,8 @@
   ],
   "related": [
    {
-    "da": "relevant",
-    "en": "relevant"
+    "da": "vigtig",
+    "en": "important"
    },
    {
     "da": "uvæsentlig",
@@ -9959,7 +9903,7 @@
   }
  },
  "irriterende": {
-  "explanation": "\"Irriterende\" means \"annoying\" and describes what bothers you. When you are the one who is bothered, say \"irriteret\" (irritated): \"Jeg er irriteret\" (I am irritated).",
+  "explanation": "\"Irriterende\" means \"annoying\". To say that you are the one who feels bothered, use \"irriteret\" (irritated) instead: \"Jeg er irriteret\" (I am irritated).",
   "forms": [
    {
     "da": "en irriterende lyd",
@@ -9998,7 +9942,7 @@
   }
  },
  "irriteret": {
-  "explanation": "\"Irriteret\" means \"irritated\", how you feel. \"Irriterende\" (annoying) describes what causes it: \"Lyden er irriterende\" (The sound is annoying).",
+  "explanation": "\"Irriteret\" means \"irritated\". To say what causes the feeling, use \"irriterende\" (annoying) instead: \"Lyden er irriterende\" (The sound is annoying).",
   "forms": [
    {
     "da": "en irriteret mand",
@@ -10037,7 +9981,7 @@
   }
  },
  "is": {
-  "explanation": "\"Is\" means \"ice cream\" and also \"ice\". You can tell which one it is from the context of the sentence. To order a scoop, say \"en kugle is\" (a scoop of ice cream, literally \"a ball of ice cream\").",
+  "explanation": "\"Is\" means \"ice cream\". To order one scoop, say \"en kugle is\" (a scoop of ice cream, literally \"a ball of ice cream\"). To say there is frozen water on the road, use it for \"ice\": \"Der er is på vejen\" (There is ice on the road).",
   "forms": [
    {
     "da": "en is",
@@ -10072,7 +10016,7 @@
   }
  },
  "ishockey": {
-  "explanation": "\"Ishockey\" means \"ice hockey\". It is built from is (ice) and hockey. Danish also uses \"is\" for ice cream, but in this word it means ice.",
+  "explanation": "\"Ishockey\" means \"ice hockey\". It is built from \"is\" (ice) and \"hockey\" (hockey). To say you watch a game on TV, use \"at se\" (to watch): \"Vi ser ishockey i aften\" (We are watching ice hockey tonight).",
   "forms": [
    {
     "da": "Jeg spiller ishockey.",
@@ -10097,8 +10041,8 @@
     "en": "an ice skate"
    },
    {
-    "da": "håndbold",
-    "en": "handball"
+    "da": "en skøjtebane",
+    "en": "an ice rink"
    }
   ],
   "sentence": {
@@ -10107,7 +10051,7 @@
   }
  },
  "iskold": {
-  "explanation": "\"Iskold\" means \"ice-cold\", built from is (ice) and kold (cold). It is stronger than \"kold\" (cold): it describes something as cold as ice.",
+  "explanation": "\"Iskold\" means \"ice-cold\". It is built from \"is\" (ice) and \"kold\" (cold).",
   "forms": [
    {
     "da": "en iskold vind",
@@ -10146,7 +10090,7 @@
   }
  },
  "islam": {
-  "explanation": "\"Islam\" means \"Islam\", the religion. Danish writes the names of religions with a lowercase letter and uses no \"en\" or \"et\": \"Islam er en verdensreligion\" (Islam is a world religion). A follower is \"en muslim\" (a Muslim).",
+  "explanation": "\"Islam\" means \"Islam\". English writes \"Islam\" with a big first letter, but Danish writes \"islam\" like an ordinary word. To name a person who follows it, use \"en muslim\" (a Muslim).",
   "forms": [
    {
     "da": "islam",
@@ -10185,7 +10129,7 @@
   }
  },
  "island": {
-  "explanation": "\"Island\" means \"Iceland\". Do not mix it up with the English word \"island\": the Danish word for an island is \"en ø\".",
+  "explanation": "\"Island\" means \"Iceland\". Do not mix it up with the English word \"island\". To say an island, use \"en ø\" (an island): \"en lille ø\" (a small island).",
   "forms": [
    {
     "da": "Island",
@@ -10214,8 +10158,8 @@
     "en": "Greenland"
    },
    {
-    "da": "Norge",
-    "en": "Norway"
+    "da": "Færøerne",
+    "en": "the Faroe Islands"
    }
   ],
   "sentence": {
@@ -10224,7 +10168,7 @@
   }
  },
  "islandsk": {
-  "explanation": "\"Islandsk\" means \"Icelandic\" and describes things from Iceland. It is also the language: \"Hun taler islandsk\" (She speaks Icelandic).",
+  "explanation": "\"Islandsk\" means \"Icelandic\". It comes from \"Island\" (Iceland). To name the language, use it as the language: \"Hun taler islandsk\" (She speaks Icelandic).",
   "forms": [
    {
     "da": "en islandsk hest",
@@ -10241,10 +10185,6 @@
   ],
   "related": [
    {
-    "da": "Island",
-    "en": "Iceland"
-   },
-   {
     "da": "norsk",
     "en": "Norwegian"
    },
@@ -10255,6 +10195,10 @@
    {
     "da": "dansk",
     "en": "Danish"
+   },
+   {
+    "da": "en islænding",
+    "en": "an Icelander"
    }
   ],
   "sentence": {
@@ -10263,7 +10207,7 @@
   }
  },
  "isolation": {
-  "explanation": "\"Isolation\" means \"isolation\", being kept apart from other people, for example a patient with a contagious illness, or someone who feels cut off. To keep heat in a house, the word is \"isolering\" (insulation).",
+  "explanation": "\"Isolation\" means \"isolation\". To talk about keeping heat inside a house, use \"isolering\" (insulation) instead: \"isolering af loftet\" (insulation of the attic).",
   "forms": [
    {
     "da": "isolation",
@@ -10306,7 +10250,7 @@
   }
  },
  "isoleret": {
-  "explanation": "\"Isoleret\" means \"isolated\", far from or cut off from others. For a house, it means \"insulated\", keeping heat in: \"et velisoleret hus\" (a well-insulated house).",
+  "explanation": "\"Isoleret\" means \"isolated\". To say a house keeps its heat, use it to mean \"insulated\": \"et godt isoleret hus\" (a well-insulated house).",
   "forms": [
    {
     "da": "en isoleret ø",
@@ -10345,7 +10289,7 @@
   }
  },
  "isolering": {
-  "explanation": "\"Isolering\" means \"insulation\", the material or work that keeps heat inside a building. Do not mix it up with \"isolation\" (isolation), which is about people being kept apart.",
+  "explanation": "\"Isolering\" means \"insulation\". To talk about people kept apart from others, use \"isolation\" (isolation) instead: \"Patienten er i isolation\" (The patient is in isolation).",
   "forms": [
    {
     "da": "isolering",
@@ -10384,7 +10328,7 @@
   }
  },
  "isslag": {
-  "explanation": "\"Isslag\" means \"freezing rain\". It is built from is (ice) and slag (a blow, a hit). When it happens, a thin layer of ice covers roads and trees.",
+  "explanation": "\"Isslag\" means \"freezing rain\". It is built from \"is\" (ice) and \"slag\" (a blow, a hit).",
   "forms": [
    {
     "da": "et isslag",
@@ -10427,7 +10371,7 @@
   }
  },
  "især": {
-  "explanation": "\"Især\" means \"especially\" and singles out one case from a group you just named, often after a comma: \"Jeg holder af dyr, især hunde\" (I like animals, especially dogs).",
+  "explanation": "\"Især\" means \"especially\". To pick out one case from a group you just named, put \"især\" after the group: \"Jeg holder af dyr, især hunde\" (I like animals, especially dogs).",
   "forms": [
    {
     "da": "Jeg elsker frugt, især æbler",
@@ -10452,12 +10396,8 @@
     "en": "especially"
    },
    {
-    "da": "særligt",
+    "da": "navnlig",
     "en": "particularly"
-   },
-   {
-    "da": "en særhed",
-    "en": "an oddity"
    }
   ],
   "sentence": {
@@ -10466,7 +10406,7 @@
   }
  },
  "italien": {
-  "explanation": "\"Italien\" means \"Italy\". The word for Italian is \"italiensk\", as in \"italiensk mad\" (Italian food).",
+  "explanation": "\"Italien\" means \"Italy\". To describe things from Italy, use \"italiensk\" (Italian) instead: \"italiensk mad\" (Italian food).",
   "forms": [
    {
     "da": "Italien",
@@ -10501,7 +10441,7 @@
   }
  },
  "italiensk": {
-  "explanation": "\"Italiensk\" means \"Italian\", for things from Italy and for the language, as in \"Jeg taler italiensk\" (I speak Italian). It is written with a lowercase letter (\"italiensk\"), while the English word \"Italian\" has an uppercase letter.",
+  "explanation": "\"Italiensk\" means \"Italian\". It comes from \"Italien\" (Italy). To name the language, use it as the language: \"Jeg taler italiensk\" (I speak Italian).",
   "forms": [
    {
     "da": "en italiensk bil",
@@ -10518,16 +10458,16 @@
   ],
   "related": [
    {
-    "da": "Italien",
-    "en": "Italy"
-   },
-   {
     "da": "en italiener",
     "en": "an Italian (person)"
    },
    {
     "da": "spansk",
     "en": "Spanish"
+   },
+   {
+    "da": "fransk",
+    "en": "French"
    }
   ],
   "sentence": {
@@ -10536,7 +10476,7 @@
   }
  },
  "ivrig": {
-  "explanation": "\"Ivrig\" means \"eager\", for someone who wants something a lot and shows it with energy. For a hobby it means \"keen\": \"en ivrig cyklist\" (a keen cyclist).",
+  "explanation": "\"Ivrig\" means \"eager\". To say someone does a hobby with great energy, put it before the noun: \"en ivrig cyklist\" (a keen cyclist).",
   "forms": [
    {
     "da": "en ivrig elev",
@@ -10575,7 +10515,7 @@
   }
  },
  "iøjnefaldende": {
-  "explanation": "\"Iøjnefaldende\" means \"conspicuous\", easy to see and noticed right away. The word comes from \"falde i øjnene\" (to catch the eye). You say it when something stands out from what is around it: \"Logoet er meget iøjnefaldende\" (The logo is very conspicuous).",
+  "explanation": "\"Iøjnefaldende\" means \"conspicuous\". It comes from \"at falde i øjnene\" (literally, to fall into the eyes).",
   "forms": [
    {
     "da": "en iøjnefaldende farve",

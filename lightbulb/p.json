@@ -1,6 +1,6 @@
 {
  "at padle": {
-  "explanation": "\"At padle\" means \"to paddle\", to move a small boat by pushing the water with a paddle. When you paddle, you face forward. For rowing, use \"at ro\" (to row): with oars you sit with your back to where you are going.",
+  "explanation": "\"At padle\" means \"to paddle\". The tool you paddle with is \"en pagaj\" (a paddle): \"Jeg har glemt min pagaj\" (I have forgotten my paddle). For rowing with oars, use \"at ro\" (to row) instead: \"Vi roer over søen\" (We row across the lake).",
   "forms": [
    {
     "da": "at padle",
@@ -39,7 +39,7 @@
   }
  },
  "at pakke": {
-  "explanation": "\"At pakke\" means \"to pack\", such as a suitcase or a bag: \"Jeg pakker tasken\" (I am packing the bag). To wrap a present, say \"at pakke ind\" (to wrap). \"En pakke\" (a parcel) is spelled the same: \"Jeg henter en pakke\" (I am picking up a parcel).",
+  "explanation": "\"At pakke\" means \"to pack\". When you put your things in a bag, say: \"Jeg pakker tasken\" (I am packing the bag). When you wrap a present, add \"ind\": \"Jeg pakker gaven ind\" (I am wrapping the present). When you mean a parcel, the noun \"en pakke\" is spelled the same: \"Jeg henter en pakke\" (I am picking up a parcel).",
   "forms": [
    {
     "da": "at pakke",
@@ -60,10 +60,6 @@
   ],
   "related": [
    {
-    "da": "at pakke ud",
-    "en": "to unpack"
-   },
-   {
     "da": "emballage",
     "en": "packaging"
    },
@@ -74,6 +70,10 @@
    {
     "da": "en rygsæk",
     "en": "a backpack"
+   },
+   {
+    "da": "bagage",
+    "en": "luggage"
    }
   ],
   "sentence": {
@@ -82,7 +82,7 @@
   }
  },
  "at pakke ud": {
-  "explanation": "\"At pakke ud\" means \"to unpack\", and also \"to unwrap\": \"Børnene pakker gaver ud\" (The children unwrap presents).",
+  "explanation": "\"At pakke ud\" means \"to unpack\". It is built from \"at pakke\" (to pack) and \"ud\" (out). When you take your things out of a bag, say: \"Jeg pakker tasken ud\" (I am unpacking the bag). When you open a present, it is also used: \"Børnene pakker gaver ud\" (The children unwrap presents).",
   "forms": [
    {
     "da": "at pakke ud",
@@ -103,16 +103,20 @@
   ],
   "related": [
    {
-    "da": "at pakke ned",
-    "en": "to pack"
+    "da": "at åbne",
+    "en": "to open"
    },
    {
-    "da": "at pakke ind",
-    "en": "to wrap up"
+    "da": "at tømme",
+    "en": "to empty"
    },
    {
     "da": "en kuffert",
     "en": "a suitcase"
+   },
+   {
+    "da": "en kasse",
+    "en": "a box"
    }
   ],
   "sentence": {
@@ -121,7 +125,7 @@
   }
  },
  "at parkere": {
-  "explanation": "\"At parkere\" means \"to park\", such as a car or a bike. On a sign you will see \"Parkering forbudt\" (No parking).",
+  "explanation": "\"At parkere\" means \"to park\". When you leave a car somewhere, say: \"Jeg parkerer bilen her\" (I am parking the car here). When you read a sign that forbids parking, you see the noun: \"Parkering forbudt\" (No parking).",
   "forms": [
    {
     "da": "at parkere",
@@ -150,8 +154,12 @@
     "en": "a parking ticket"
    },
    {
-    "da": "at holde",
-    "en": "to stop / park"
+    "da": "en garage",
+    "en": "a garage"
+   },
+   {
+    "da": "at bakke",
+    "en": "to reverse"
    }
   ],
   "sentence": {
@@ -160,7 +168,7 @@
   }
  },
  "at passe": {
-  "explanation": "\"At passe\" means \"to fit\" or \"to suit\": \"Skoene passer mig\" (The shoes fit me). It also means to look after: \"Jeg passer min lillebror\" (I am looking after my little brother).",
+  "explanation": "\"At passe\" means \"to fit (suit)\". When clothes are the right size, say: \"Skoene passer mig\" (The shoes fit me). When a time is good for you, it means \"to suit\": \"Mandag passer mig godt\" (Monday suits me well). When you take care of a child, it means \"to look after\": \"Jeg passer min lillebror\" (I am looking after my little brother).",
   "forms": [
    {
     "da": "at passe",
@@ -191,6 +199,10 @@
    {
     "da": "at klæde",
     "en": "to suit"
+   },
+   {
+    "da": "at matche",
+    "en": "to match"
    }
   ],
   "sentence": {
@@ -199,7 +211,7 @@
   }
  },
  "at passe børn": {
-  "explanation": "\"At passe børn\" means \"to babysit\" or \"to look after children\". The word \"at passe\" works for animals too: \"at passe en hund\" (to look after a dog).",
+  "explanation": "\"At passe børn\" means \"to babysit\". It is built from \"at passe\" (to look after) and \"børn\" (children). When you look after an animal, the same verb works: \"at passe en hund\" (to look after a dog).",
   "forms": [
    {
     "da": "at passe børn",
@@ -224,12 +236,16 @@
     "en": "a babysitter"
    },
    {
-    "da": "at passe på",
-    "en": "to be careful, to look out"
+    "da": "en barnepige",
+    "en": "a nanny"
    },
    {
     "da": "at tage sig af",
     "en": "to take care of"
+   },
+   {
+    "da": "at passe på",
+    "en": "to watch out"
    }
   ],
   "sentence": {
@@ -238,7 +254,7 @@
   }
  },
  "at passe ind": {
-  "explanation": "\"At passe ind\" means \"to fit in\", with a group or a place: \"Han passer godt ind på holdet\" (He fits in well on the team). It also works for things: \"Sofaen passer ind i stuen\" (The sofa fits into the living room).",
+  "explanation": "\"At passe ind\" means \"to fit in\". When a person feels part of a group, say: \"Han passer godt ind på holdet\" (He fits in well on the team). When a thing looks right in a room, say: \"Sofaen passer ind i stuen\" (The sofa fits into the living room).",
   "forms": [
    {
     "da": "at passe ind",
@@ -281,7 +297,7 @@
   }
  },
  "at passe på": {
-  "explanation": "\"At passe på\" means \"to watch out\", and also \"to take care of\". To watch out: \"Pas på!\" (Watch out!). To take care: \"Pas på dig selv\" (Take care of yourself) and \"Jeg passer på dine nøgler\" (I am looking after your keys).",
+  "explanation": "\"At passe på\" means \"to take care or watch out\". When you warn someone about danger, say: \"Pas på!\" (Watch out!). When you wish someone well, say: \"Pas på dig selv\" (Take care of yourself). When you look after someone's object, say: \"Jeg passer på dine nøgler\" (I am looking after your keys).",
   "forms": [
    {
     "da": "at passe på",
@@ -312,6 +328,10 @@
    {
     "da": "at vogte",
     "en": "to guard"
+   },
+   {
+    "da": "at holde øje med",
+    "en": "to keep an eye on"
    }
   ],
   "sentence": {
@@ -320,7 +340,7 @@
   }
  },
  "at passe til": {
-  "explanation": "\"At passe til\" means \"to go with\" or \"to suit\": \"Skjorten passer til bukserne\" (The shirt goes with the pants). It also works for people: \"Jobbet passer til dig\" (The job suits you).",
+  "explanation": "\"At passe til\" means \"to go with or suit\". When two pieces of clothing match, say: \"Skjorten passer til bukserne\" (The shirt goes with the pants). When a job is right for a person, say: \"Jobbet passer til dig\" (The job suits you).",
   "forms": [
    {
     "da": "at passe til",
@@ -363,7 +383,7 @@
   }
  },
  "at passere": {
-  "explanation": "\"At passere\" means \"to pass\", going by a place. To pass a test, use \"at bestå\" (to pass): \"Jeg bestod prøven\" (I passed the test).",
+  "explanation": "\"At passere\" means \"to pass\". When you go past a place, say: \"Vi passerer banegården\" (We are passing the train station). To say you pass a test, use \"at bestå\" (to pass an exam) instead: \"Jeg bestod prøven\" (I passed the test).",
   "forms": [
    {
     "da": "at passere",
@@ -406,7 +426,7 @@
   }
  },
  "at pege": {
-  "explanation": "\"At pege\" means \"to point\".",
+  "explanation": "\"At pege\" means \"to point\". When you point at something, use \"på\" (on) after the verb: \"Han peger på bilen\" (He points at the car).",
   "forms": [
    {
     "da": "at pege",
@@ -449,7 +469,7 @@
   }
  },
  "at pege på": {
-  "explanation": "\"At pege på\" means \"to point to\" or \"to point at\". Danish uses \"på\" (on) where English says \"to\" or \"at\": \"Han peger på bogen\" (He points at the book).",
+  "explanation": "\"At pege på\" means \"to point to\". It is built from \"at pege\" (to point) and \"på\" (on). Danish keeps \"på\" where English says \"to\" or \"at\": \"Han peger på bogen\" (He points to the book).",
   "forms": [
    {
     "da": "at pege på",
@@ -480,6 +500,10 @@
    {
     "da": "at udpege",
     "en": "to pick out"
+   },
+   {
+    "da": "at henvise",
+    "en": "to refer"
    }
   ],
   "sentence": {
@@ -488,7 +512,7 @@
   }
  },
  "at pendle": {
-  "explanation": "\"At pendle\" means \"to commute\", to go back and forth between home and work or school, often a long way. A person who does this is \"en pendler\" (a commuter).",
+  "explanation": "\"At pendle\" means \"to commute\". When you travel to work every day, say: \"Jeg pendler til København\" (I commute to Copenhagen). A person who does this is \"en pendler\" (a commuter).",
   "forms": [
    {
     "da": "at pendle",
@@ -513,8 +537,8 @@
     "en": "to travel"
    },
    {
-    "da": "et pendlertog",
-    "en": "a commuter train"
+    "da": "en arbejdsplads",
+    "en": "a workplace"
    },
    {
     "da": "at køre",
@@ -527,7 +551,7 @@
   }
  },
  "at piske": {
-  "explanation": "\"At piske\" means \"to whisk\" and \"to whip\": you mix air into eggs or cream with fast strokes, so the mixture gets lighter and fluffier.",
+  "explanation": "\"At piske\" means \"to whisk or whip\". When you beat cream with fast strokes until it gets stiff, say: \"Jeg pisker fløden\" (I am whipping the cream).",
   "forms": [
    {
     "da": "at piske",
@@ -558,6 +582,10 @@
    {
     "da": "at blande",
     "en": "to mix"
+   },
+   {
+    "da": "et piskeris",
+    "en": "a whisk"
    }
   ],
   "sentence": {
@@ -566,7 +594,7 @@
   }
  },
  "at pjække": {
-  "explanation": "\"At pjække\" means \"to skip school\", to stay away from lessons without a good reason. Danes also use it for work or training: \"Jeg pjækker fra træning\" (I am skipping practice).",
+  "explanation": "\"At pjække\" means \"to skip school or play hooky\". When you stay away from school without permission, say: \"Han pjækker fra skole\" (He is skipping school). Use \"fra\" (from) to name what you skip.",
   "forms": [
    {
     "da": "at pjække",
@@ -609,7 +637,7 @@
   }
  },
  "at placere": {
-  "explanation": "\"At placere\" means \"to place\" or \"to put\" in a particular spot. It also means to give someone a seat: \"Jeg placerer dig her\" (I will seat you here).",
+  "explanation": "\"At placere\" means \"to place\". When you put something in a spot, say: \"Jeg placerer vasen på bordet\" (I put the vase on the table). When you give a guest a seat, say: \"Jeg placerer dig her\" (I will seat you here).",
   "forms": [
    {
     "da": "at placere",
@@ -652,7 +680,7 @@
   }
  },
  "at plage": {
-  "explanation": "\"At plage\" means \"to pester\" or \"to torment\", to keep after someone again and again. For people: \"Børn kan plage deres forældre om slik\" (Children can pester their parents for candy). For things such as pain, worry or noise: \"Smerterne plager ham\" (The pain torments him).",
+  "explanation": "\"At plage\" means \"to pester or torment\". When a child keeps asking a parent for something, say: \"Børn kan plage deres forældre om slik\" (Children can pester their parents for candy). When pain or noise bothers a person again and again, say: \"Smerterne plager ham\" (The pain torments him).",
   "forms": [
    {
     "da": "at plage",
@@ -695,7 +723,7 @@
   }
  },
  "at planlægge": {
-  "explanation": "\"At planlægge\" means \"to plan\": to decide ahead what will happen and when, such as for trips, parties or work.",
+  "explanation": "\"At planlægge\" means \"to plan\". It is built from \"en plan\" (a plan) and \"at lægge\" (to lay). When you prepare a trip ahead, say: \"Vi planlægger en ferie\" (We are planning a holiday).",
   "forms": [
    {
     "da": "at planlægge",
@@ -726,6 +754,10 @@
    {
     "da": "at tilrettelægge",
     "en": "to arrange / organize"
+   },
+   {
+    "da": "at forberede",
+    "en": "to prepare"
    }
   ],
   "sentence": {
@@ -734,7 +766,7 @@
   }
  },
  "at plante": {
-  "explanation": "\"At plante\" means \"to plant\", to put something such as a tree, a flower or a seed in the ground. What you plant is \"en plante\" (a plant).",
+  "explanation": "\"At plante\" means \"to plant\". When you put vegetables in the ground, say: \"Jeg planter tomater\" (I am planting tomatoes). The noun \"en plante\" (a plant) is spelled the same: \"Jeg vander min plante\" (I am watering my plant).",
   "forms": [
    {
     "da": "at plante",
@@ -777,7 +809,7 @@
   }
  },
  "at pleje": {
-  "explanation": "\"At pleje\" means \"to usually (do)\" and \"to care for\". For a habit, add \"at\" (to) before the action word: \"Jeg plejer at gå tidligt i seng\" (I usually go to bed early). The care meaning is for someone who needs looking after, such as a sick person: \"Hun plejer sin syge far\" (She cares for her sick father).",
+  "explanation": "\"At pleje\" means \"to usually (do) or to care for\". When you say what you normally do, put \"at\" (to) and the action word after it: \"Jeg plejer at gå tidligt i seng\" (I normally go to bed early). When you look after someone who needs help, it means \"to care for\": \"Hun plejer sin syge far\" (She cares for her sick father).",
   "forms": [
    {
     "da": "at pleje",
@@ -820,7 +852,7 @@
   }
  },
  "at plukke": {
-  "explanation": "\"At plukke\" means \"to pick\", to take fruit or flowers by hand from where they grow. It also means to pluck the feathers off a bird: \"at plukke en kylling\" (to pluck a chicken).",
+  "explanation": "\"At plukke\" means \"to pick\", as in picking fruit or flowers. When you take apples off a tree by hand, say: \"Børnene plukker æbler\" (The children are picking apples). When you pull the feathers off a bird, it also means \"to pluck\": \"at plukke en kylling\" (to pluck a chicken).",
   "forms": [
    {
     "da": "at plukke",
@@ -863,7 +895,7 @@
   }
  },
  "at plyndre": {
-  "explanation": "\"At plyndre\" means \"to plunder\", to take everything valuable from a place, often by force during war or riots. It is also used playfully for raiding a place: \"Børnene plyndrer køleskabet\" (The kids raid the fridge).",
+  "explanation": "\"At plyndre\" means \"to plunder or loot\". When thieves or soldiers take everything of value from a place, say: \"De plyndrer byen\" (They are plundering the town). When someone takes all the food from a place, it also means \"to raid\": \"Børnene plyndrer køleskabet\" (The kids raid the fridge).",
   "forms": [
    {
     "da": "at plyndre",
@@ -906,7 +938,7 @@
   }
  },
  "at poste": {
-  "explanation": "\"At poste\" means \"to post\" something online, such as a photo or a message. It can also mean to mail a letter: \"Jeg poster brevet i dag\" (I am mailing the letter today).",
+  "explanation": "\"At poste\" means \"to post\". When you put a message online, say: \"Hun poster en kommentar\" (She is posting a comment). When you send a letter, it means \"to mail\": \"Jeg poster brevet i dag\" (I am mailing the letter today).",
   "forms": [
    {
     "da": "at poste",
@@ -937,6 +969,10 @@
    {
     "da": "at uploade",
     "en": "to upload"
+   },
+   {
+    "da": "en postkasse",
+    "en": "a mailbox"
    }
   ],
   "sentence": {
@@ -945,7 +981,7 @@
   }
  },
  "at praktisere": {
-  "explanation": "\"At praktisere\" means \"to practice\", to carry out a profession, a belief or an idea in real life: \"Hun praktiserer buddhisme\" (She practices Buddhism). It is not for repeating something to get better. For that, use \"at øve\" (to practice).",
+  "explanation": "\"At praktisere\" means \"to practice\", as in following a belief or working in a profession. To say what a person follows, say: \"Hun praktiserer buddhisme\" (She practices Buddhism). To say you repeat something to get better, use \"at øve\" (to practice) instead: \"Jeg øver klaver\" (I am practicing the piano).",
   "forms": [
    {
     "da": "at praktisere",
@@ -988,7 +1024,7 @@
   }
  },
  "at presse": {
-  "explanation": "\"At presse\" means \"to squeeze\" and \"to pressure\", pushing hard on something. For squeezing: \"Jeg presser en appelsin\" (I squeeze an orange). For pressuring a person: \"Chefen presser os\" (The boss is pressuring us).",
+  "explanation": "\"At presse\" means \"to press or pressure\". When you squeeze juice out of fruit, say: \"Jeg presser en appelsin\" (I am squeezing an orange). When you push a person to do more, say: \"Chefen presser os\" (The boss is pressuring us).",
   "forms": [
    {
     "da": "at presse",
@@ -1019,6 +1055,10 @@
    {
     "da": "at klemme",
     "en": "to squeeze"
+   },
+   {
+    "da": "en saftpresser",
+    "en": "a juicer"
    }
   ],
   "sentence": {
@@ -1027,7 +1067,7 @@
   }
  },
  "at printe": {
-  "explanation": "\"At printe\" means \"to print\" from a computer. For books and newspapers, Danes say \"at trykke\" (to print with a press).",
+  "explanation": "\"At printe\" means \"to print\". When you print a page from a computer, say: \"Jeg printer dokumentet\" (I am printing the document). When a press prints books or newspapers, Danish uses \"at trykke\" (to print with a press): \"De trykker aviser\" (They print newspapers).",
   "forms": [
    {
     "da": "at printe",
@@ -1048,8 +1088,8 @@
   ],
   "related": [
    {
-    "da": "en printer",
-    "en": "a printer"
+    "da": "at udskrive",
+    "en": "to print out"
    },
    {
     "da": "at kopiere",
@@ -1058,6 +1098,10 @@
    {
     "da": "at scanne",
     "en": "to scan"
+   },
+   {
+    "da": "en udskrift",
+    "en": "a printout"
    }
   ],
   "sentence": {
@@ -1066,7 +1110,7 @@
   }
  },
  "at prioritere": {
-  "explanation": "\"At prioritere\" means \"to prioritize\", to decide what matters most and do that first when you cannot do everything. It also works for money and time: \"at prioritere sin tid\" (to prioritize your time).",
+  "explanation": "\"At prioritere\" means \"to prioritize\". When you decide how to spend your time, say: \"Jeg prioriterer min tid\" (I prioritize my time). When you decide where money goes first, it works the same: \"Vi prioriterer pengene til huset\" (We prioritize the money for the house).",
   "forms": [
    {
     "da": "at prioritere",
@@ -1109,7 +1153,7 @@
   }
  },
  "at producere": {
-  "explanation": "\"At producere\" means \"to produce\", to make things in large amounts, usually to sell them. It also works for films and music: \"Hun producerer film\" (She produces films).",
+  "explanation": "\"At producere\" means \"to produce\". When a farm or a factory makes goods, say: \"Landmanden producerer mælk\" (The farmer produces milk). When you talk about films or music, it also works: \"Hun producerer film\" (She produces films).",
   "forms": [
    {
     "da": "at producere",
@@ -1152,7 +1196,7 @@
   }
  },
  "at programmere": {
-  "explanation": "\"At programmere\" means \"to program\", to write instructions that a computer follows. It also means to set a machine to work by itself: \"at programmere en vaskemaskine\" (to program a washing machine).",
+  "explanation": "\"At programmere\" means \"to program\". When you write code for a computer, say: \"Hun programmerer en app\" (She is programming an app). When you set up a machine, it also works: \"Jeg programmerer vaskemaskinen\" (I am programming the washing machine).",
   "forms": [
    {
     "da": "at programmere",
@@ -1195,7 +1239,7 @@
   }
  },
  "at protestere": {
-  "explanation": "\"At protestere\" means \"to protest\", to say or show that you do not accept something: \"Folk protesterer mod den nye lov\" (People protest against the new law).",
+  "explanation": "\"At protestere\" means \"to protest\". When you speak out against something, add \"mod\" (against): \"Folk protesterer mod den nye lov\" (People protest against the new law).",
   "forms": [
    {
     "da": "at protestere",
@@ -1226,6 +1270,10 @@
    {
     "da": "at demonstrere",
     "en": "to demonstrate"
+   },
+   {
+    "da": "et oprør",
+    "en": "a revolt"
    }
   ],
   "sentence": {
@@ -1234,7 +1282,7 @@
   }
  },
  "at præsentere": {
-  "explanation": "\"At præsentere\" means \"to present\" or \"to introduce\": \"Jeg præsenterer min ven for min mor\" (I introduce my friend to my mom).",
+  "explanation": "\"At præsentere\" means \"to present or introduce\". When you introduce one person to another, add \"for\" (to) before the second person: \"Jeg præsenterer min ven for min mor\" (I introduce my friend to my mom). When you show a plan to a group, it means \"to present\": \"Hun præsenterer projektet for chefen\" (She presents the project to the boss).",
   "forms": [
    {
     "da": "at præsentere",
@@ -1277,7 +1325,7 @@
   }
  },
  "at prøve": {
-  "explanation": "\"At prøve\" means \"to try\", and also \"to try on\": \"prøve en kjole\" (to try on a dress). \"En prøve\" means \"a test\" or \"a sample\".",
+  "explanation": "\"At prøve\" means \"to try\". When you test something new, say: \"Jeg prøver sushi\" (I am trying sushi). When you put on clothes to see how they look, it means \"to try on\": \"Hun prøver en kjole\" (She is trying on a dress). The noun \"en prøve\" (a test) is spelled the same: \"Vi har en prøve i dag\" (We have a test today).",
   "forms": [
    {
     "da": "at prøve",
@@ -1302,8 +1350,8 @@
     "en": "to attempt"
    },
    {
-    "da": "at prøve tøj",
-    "en": "to try on clothes"
+    "da": "at afprøve",
+    "en": "to test out"
    },
    {
     "da": "at smage",
@@ -1316,7 +1364,7 @@
   }
  },
  "at prøve på": {
-  "explanation": "\"At prøve på\" means \"to try to\": \"Jeg prøver på at sove\" (I am trying to sleep). You can drop \"på\" (on) and keep the same meaning: \"Jeg prøver at sove\" (I am trying to sleep).",
+  "explanation": "\"At prøve på\" means \"to try to\". When you say you are making an effort to do something, say: \"Jeg prøver på at sove\" (I am trying to sleep). The meaning stays the same without \"på\" (on): \"Jeg prøver at sove\" (I am trying to sleep).",
   "forms": [
    {
     "da": "at prøve på",
@@ -1359,7 +1407,7 @@
   }
  },
  "at prøve tøj": {
-  "explanation": "\"At prøve tøj\" means \"to try on clothes\", such as in a store. To ask about one item, say \"Må jeg prøve den?\" (May I try it on?).",
+  "explanation": "\"At prøve tøj\" means \"to try on clothes\". It is built from \"at prøve\" (to try) and \"tøj\" (clothes). When you ask a shop assistant for permission, say: \"Må jeg prøve denne trøje?\" (May I try on this sweater?).",
   "forms": [
    {
     "da": "at prøve tøj",
@@ -1398,7 +1446,7 @@
   }
  },
  "at pudse": {
-  "explanation": "\"At pudse\" means \"to polish\" or \"to clean until shiny\", usually with a cloth. It is also what Danes say for cleaning windows: \"Jeg pudser vinduer\" (I clean windows).",
+  "explanation": "\"At pudse\" means \"to polish\". When you rub a thing until it shines, say: \"Jeg pudser sølvet\" (I am polishing the silver). When you clean glass, it also means \"to clean windows\": \"Jeg pudser vinduer\" (I am cleaning windows).",
   "forms": [
    {
     "da": "at pudse",
@@ -1441,7 +1489,7 @@
   }
  },
  "at puste": {
-  "explanation": "\"At puste\" means \"to blow\" with your mouth: \"Hun puster på sin kaffe\" (She blows on her coffee). \"At puste ud\" (to breathe out) is also used for taking a break: \"Jeg puster ud efter løbeturen\" (I am catching my breath after the run).",
+  "explanation": "\"At puste\" means \"to blow or puff\". When you fill a balloon with air, add \"op\" (up): \"Han puster en ballon op\" (He blows up a balloon). When you rest after hard effort, use \"at puste ud\" (to breathe out): \"Jeg puster ud efter løbeturen\" (I am catching my breath after the run).",
   "forms": [
    {
     "da": "at puste",
@@ -1484,7 +1532,7 @@
   }
  },
  "at putte": {
-  "explanation": "\"At putte\" means \"to put\" something into a place without much care, such as into a pocket or a bag.",
+  "explanation": "\"At putte\" means \"to put\". When you slip something into a pocket or a bag, say: \"Jeg putter bogen i tasken\" (I put the book in the bag). When you put a child to bed, it also means \"to tuck in\": \"Jeg putter børnene\" (I am tucking the children in).",
   "forms": [
    {
     "da": "at putte",
@@ -1527,7 +1575,7 @@
   }
  },
  "at pynte": {
-  "explanation": "\"At pynte\" means \"to decorate\". With \"sig\" (oneself) it means \"to dress up\": \"Hun pyntede sig til festen\" (She dressed up for the party).",
+  "explanation": "\"At pynte\" means \"to decorate\". When you make a room look festive, say: \"Vi pynter juletræet\" (We are decorating the Christmas tree). With \"sig\" (oneself) it means \"to dress up\": \"Hun pyntede sig til festen\" (She dressed up for the party).",
   "forms": [
    {
     "da": "at pynte",
@@ -1548,12 +1596,16 @@
   ],
   "related": [
    {
-    "da": "pynt",
-    "en": "decorations"
+    "da": "at udsmykke",
+    "en": "to adorn"
    },
    {
     "da": "at dekorere",
     "en": "to decorate"
+   },
+   {
+    "da": "en dekoration",
+    "en": "a decoration"
    },
    {
     "da": "at klæde sig på",
@@ -1566,7 +1618,7 @@
   }
  },
  "at påberåbe sig": {
-  "explanation": "\"At påberåbe sig\" means \"to invoke\", to point to a right, a rule or an excuse as your reason. \"Sig\" changes with who does it, such as \"du påberåber dig\" (you invoke).",
+  "explanation": "\"At påberåbe sig\" means \"to invoke\". When you name a right as your reason, say: \"Han påberåber sig sin ret til ferie\" (He invokes his right to a holiday). The word \"sig\" (oneself) changes with the person: \"du påberåber dig\" (you invoke).",
   "forms": [
    {
     "da": "at påberåbe sig",
@@ -1609,7 +1661,7 @@
   }
  },
  "at pådrage sig": {
-  "explanation": "\"At pådrage sig\" means \"to catch\" an illness or \"to pick up\" an injury. It is also used for costs and trouble you bring on yourself: \"pådrage sig gæld\" (to run up debt).",
+  "explanation": "\"At pådrage sig\" means \"to catch or incur\". When you get an illness, say: \"Hun pådrog sig en forkølelse\" (She caught a cold). When you run up debt, say: \"Han pådrager sig gæld\" (He is running up debt).",
   "forms": [
    {
     "da": "at pådrage sig",
@@ -1652,7 +1704,7 @@
   }
  },
  "at påføre": {
-  "explanation": "\"At påføre\" means \"to inflict\", to cause pain, damage or loss to someone. It also means \"to apply\" a layer onto a surface: \"påføre solcreme\" (to apply sunscreen). For catching something yourself, use \"at pådrage sig\" (to catch).",
+  "explanation": "\"At påføre\" means \"to inflict or apply\". When you cause pain to someone, say: \"Han påfører hende smerte\" (He inflicts pain on her). When you put a layer onto skin, say: \"Jeg påfører solcreme\" (I apply sunscreen). To say you catch something yourself, use \"at pådrage sig\" (to catch) instead: \"Hun pådrager sig en forkølelse\" (She catches a cold).",
   "forms": [
    {
     "da": "at påføre",
@@ -1695,7 +1747,7 @@
   }
  },
  "at pålægge": {
-  "explanation": "\"At pålægge\" means \"to impose\", to make someone pay or do something by official decision. It is related to \"pålæg\" (sandwich toppings), things you lay on top of the bread.",
+  "explanation": "\"At pålægge\" means \"to impose\". It is built from \"på\" (on) and \"at lægge\" (to lay), like \"pålæg\" (sandwich toppings). When a boss gives people extra duties, say: \"Chefen pålægger medarbejderne ekstra arbejde\" (The boss imposes extra work on the employees).",
   "forms": [
    {
     "da": "at pålægge",
@@ -1738,7 +1790,7 @@
   }
  },
  "at påpege": {
-  "explanation": "\"At påpege\" means \"to point out\", to say clearly that something is wrong or should be noticed: \"påpege en fejl\" (to point out a mistake). To point with your finger, use \"at pege\" (to point): \"Hun peger på døren\" (She points at the door).",
+  "explanation": "\"At påpege\" means \"to point out\". When you tell someone about a mistake, say: \"Jeg påpeger en fejl\" (I point out a mistake). To point with your finger, use \"at pege\" (to point) instead: \"Hun peger på døren\" (She points at the door).",
   "forms": [
    {
     "da": "at påpege",
@@ -1781,7 +1833,7 @@
   }
  },
  "at påstå": {
-  "explanation": "\"At påstå\" means \"to claim\", to say that something is true, often without showing proof: \"Han påstår, at han ikke vidste det\" (He claims that he did not know). It often sounds doubtful, as if the speaker does not quite believe it.",
+  "explanation": "\"At påstå\" means \"to claim\". When you repeat what someone says is true, put \"at\" (that) after it: \"Han påstår, at han ikke vidste det\" (He claims that he did not know). The noun is \"en påstand\" (a claim).",
   "forms": [
    {
     "da": "at påstå",
@@ -1802,10 +1854,6 @@
   ],
   "related": [
    {
-    "da": "en påstand",
-    "en": "an assertion"
-   },
-   {
     "da": "at hævde",
     "en": "to assert"
    },
@@ -1816,6 +1864,10 @@
    {
     "da": "at indrømme",
     "en": "to admit"
+   },
+   {
+    "da": "at bevise",
+    "en": "to prove"
    }
   ],
   "sentence": {
@@ -1824,7 +1876,7 @@
   }
  },
  "at påtage sig": {
-  "explanation": "\"At påtage sig\" means \"to take on\", to agree to do a job or carry a duty. It is often used for a heavy or official duty: \"påtage sig ansvaret\" (to take on the responsibility). \"Sig\" changes with who does it, such as \"du påtager dig\" (you take on).",
+  "explanation": "\"At påtage sig\" means \"to take on\". When you accept a duty, say: \"Han påtager sig ansvaret\" (He takes on the responsibility). The word \"sig\" (oneself) changes with the person: \"du påtager dig\" (you take on).",
   "forms": [
    {
     "da": "at påtage sig",
@@ -1867,7 +1919,7 @@
   }
  },
  "at påvirke": {
-  "explanation": "\"At påvirke\" means \"to influence\", to have an effect on how a person or thing feels, acts or turns out. It also means to be under the influence: \"Han er påvirket af alkohol\" (He is under the influence of alcohol).",
+  "explanation": "\"At påvirke\" means \"to influence\". When you say one person changes another, say: \"Vennerne påvirker hende\" (Her friends influence her). When someone has drunk too much, it also means \"under the influence\": \"Han er påvirket af alkohol\" (He is under the influence of alcohol).",
   "forms": [
    {
     "da": "at påvirke",
@@ -1898,6 +1950,10 @@
    {
     "da": "at ændre",
     "en": "to change"
+   },
+   {
+    "da": "en påvirkning",
+    "en": "an influence"
    }
   ],
   "sentence": {
@@ -1906,7 +1962,7 @@
   }
  },
  "en p-plads": {
-  "explanation": "\"En p-plads\" means \"a parking spot\". \"P\" stands for \"parkering\" (parking), and \"plads\" means \"space\".",
+  "explanation": "\"En p-plads\" means \"a parking spot\". The \"p\" stands for \"parkering\" (parking), and \"plads\" means \"space\". When you say you have room for cars, say: \"Vi har to p-pladser\" (We have two parking spots).",
   "forms": [
    {
     "da": "en p-plads",
@@ -1945,7 +2001,7 @@
   }
  },
  "en p-skive": {
-  "explanation": "\"En p-skive\" means \"a parking disc\", a small cardboard dial you set to the time you arrived.",
+  "explanation": "\"En p-skive\" means \"a parking disc\". It is built from \"p\" (parking) and \"en skive\" (a disc). When you set the arrival time on it, say: \"Jeg stiller p-skiven til klokken ni\" (I set the parking disc to nine o'clock).",
   "forms": [
    {
     "da": "en p-skive",
@@ -1988,7 +2044,7 @@
   }
  },
  "en pakke": {
-  "explanation": "\"En pakke\" means \"a package\" or \"a parcel\", and also \"a packet\", like \"en pakke smør\" (a packet of butter).",
+  "explanation": "\"En pakke\" means \"a package\". When you get something in the mail, say: \"Jeg har fået en pakke\" (I have received a package). When you buy butter or tea, it also means \"a packet\": \"en pakke smør\" (a packet of butter).",
   "forms": [
    {
     "da": "en pakke",
@@ -2017,8 +2073,8 @@
     "en": "to wrap"
    },
    {
-    "da": "et brev",
-    "en": "a letter"
+    "da": "en forsendelse",
+    "en": "a shipment"
    }
   ],
   "sentence": {
@@ -2027,7 +2083,7 @@
   }
  },
  "en pakkeboks": {
-  "explanation": "\"En pakkeboks\" means \"a parcel locker\", a self-service box where you collect your parcel with a code.",
+  "explanation": "\"En pakkeboks\" means \"a parcel locker\". It is built from \"en pakke\" (a parcel) and \"en boks\" (a box). When you say where your parcel is, say: \"Pakken ligger i pakkeboksen\" (The parcel is in the parcel locker).",
   "forms": [
    {
     "da": "en pakkeboks",
@@ -2066,7 +2122,7 @@
   }
  },
  "en pakkekalender": {
-  "explanation": "\"En pakkekalender\" means \"a gift Advent calendar\", a calendar made of 24 small wrapped packages for the days up to December 24. You open one package each day.",
+  "explanation": "\"En pakkekalender\" means \"a gift Advent calendar\". It is built from \"en pakke\" (a package) and \"en kalender\" (a calendar). In Denmark it holds 24 small wrapped presents, one for each day until Christmas Eve.",
   "forms": [
    {
     "da": "en pakkekalender",
@@ -2109,7 +2165,7 @@
   }
  },
  "en pakkeshop": {
-  "explanation": "\"En pakkeshop\" means \"a parcel shop\", an ordinary shop where you can also pick up and send parcels. Staff help you there, unlike at \"en pakkeboks\" (a parcel locker).",
+  "explanation": "\"En pakkeshop\" means \"a parcel shop\". It is built from \"en pakke\" (a parcel) and \"shop\" (shop). To say you collect a parcel from a locker instead, use \"en pakkeboks\" (a parcel locker): \"Jeg henter pakken i en pakkeboks\" (I am collecting the parcel from a parcel locker).",
   "forms": [
    {
     "da": "en pakkeshop",
@@ -2140,6 +2196,10 @@
    {
     "da": "et postbud",
     "en": "a mail carrier"
+   },
+   {
+    "da": "en postboks",
+    "en": "a P.O. box"
    }
   ],
   "sentence": {
@@ -2148,7 +2208,7 @@
   }
  },
  "en pande": {
-  "explanation": "\"En pande\" means \"a pan\", mostly a frying pan. The same word also means \"forehead\": \"Han har ondt i panden\" (He has a pain in his forehead).",
+  "explanation": "\"En pande\" means \"a pan\". When you mean the front of your head, the same word means \"forehead\": \"Han har ondt i panden\" (He has a pain in his forehead).",
   "forms": [
    {
     "da": "en pande",
@@ -2191,7 +2251,7 @@
   }
  },
  "en pandekage": {
-  "explanation": "\"En pandekage\" means \"a pancake\", built from pande (a pan) and kage (a cake). Danes often eat them rolled up with jam or sugar.",
+  "explanation": "\"En pandekage\" means \"a pancake\". It is built from \"en pande\" (a pan) and \"en kage\" (a cake). To say what goes with it, use \"med\" (with): \"pandekager med syltetøj\" (pancakes with jam).",
   "forms": [
    {
     "da": "en pandekage",
@@ -2230,7 +2290,7 @@
   }
  },
  "en pandemi": {
-  "explanation": "\"En pandemi\" means \"a pandemic\", a disease that spreads across many countries at the same time, usually the whole world. A smaller one limited to one area is \"en epidemi\" (an epidemic).",
+  "explanation": "\"En pandemi\" means \"a pandemic\". To say a disease spreads in only one area, use \"en epidemi\" (an epidemic) instead: \"Der er en epidemi i byen\" (There is an epidemic in the city).",
   "forms": [
    {
     "da": "en pandemi",
@@ -2273,7 +2333,7 @@
   }
  },
  "en pantautomat": {
-  "explanation": "\"En pantautomat\" means \"a bottle return machine\". You put empty bottles and cans in it, and it prints a receipt that you use in the shop.",
+  "explanation": "\"En pantautomat\" means \"a bottle return machine\". It is built from \"pant\" (deposit) and \"en automat\" (a machine). In Denmark you pay a deposit on bottles and cans, and the machine gives the money back when you return them.",
   "forms": [
    {
     "da": "en pantautomat",
@@ -2298,10 +2358,6 @@
     "en": "a deposit receipt"
    },
    {
-    "da": "et pant",
-    "en": "a deposit"
-   },
-   {
     "da": "en flaske",
     "en": "a bottle"
    },
@@ -2316,7 +2372,7 @@
   }
  },
  "en pantbon": {
-  "explanation": "\"En pantbon\" means \"a deposit receipt\". The machine prints it when you return bottles, and you hand it in at the checkout for money off your shopping.",
+  "explanation": "\"En pantbon\" means \"a deposit receipt\". It is built from \"pant\" (deposit) and \"en bon\" (a slip). In Denmark the cashier takes the amount off your shopping when you hand it in.",
   "forms": [
    {
     "da": "en pantbon",
@@ -2355,7 +2411,7 @@
   }
  },
  "en papegøje": {
-  "explanation": "\"En papegøje\" means \"a parrot\", a colorful bird that can copy words.",
+  "explanation": "\"En papegøje\" means \"a parrot\". English speakers should spell the ending with \"ø\", as in \"papegøje\". To say where a pet bird sits, say: \"Papegøjen sidder i et bur\" (The parrot is sitting in a cage).",
   "forms": [
    {
     "da": "en papegøje",
@@ -2398,7 +2454,7 @@
   }
  },
  "en papirclips": {
-  "explanation": "\"En papirclips\" means \"a paper clip\", a small bent piece of wire that holds pages together. The second part, \"clips\", is the English word, borrowed into Danish.",
+  "explanation": "\"En papirclips\" means \"a paper clip\". It is built from \"papir\" (paper) and \"clips\", an English word that Danish borrowed. To say you hold sheets together, say: \"Sæt en papirclips på arkene\" (Put a paper clip on the sheets).",
   "forms": [
    {
     "da": "en papirclips",
@@ -2441,7 +2497,7 @@
   }
  },
  "en papirkurv": {
-  "explanation": "\"En papirkurv\" means \"a wastepaper basket\", a small bin for loose paper and other light waste, often placed by a desk.",
+  "explanation": "\"En papirkurv\" means \"a wastepaper basket\". It is built from \"papir\" (paper) and \"en kurv\" (a basket). To tell someone to throw paper away, say: \"Smid papiret i papirkurven\" (Throw the paper in the wastepaper basket).",
   "forms": [
    {
     "da": "en papirkurv",
@@ -2484,7 +2540,7 @@
   }
  },
  "en paraply": {
-  "explanation": "\"En paraply\" means \"an umbrella\", the thing you hold over your head to keep off the rain.",
+  "explanation": "\"En paraply\" means \"an umbrella\". To remind someone to take it when it rains, say: \"Husk din paraply\" (Remember your umbrella). For sun, use \"en parasol\" (a sunshade) instead: \"Vi sidder under en parasol\" (We sit under a sunshade).",
   "forms": [
    {
     "da": "en paraply",
@@ -2505,16 +2561,16 @@
   ],
   "related": [
    {
-    "da": "en parasol",
-    "en": "a parasol, sunshade"
-   },
-   {
     "da": "en regnjakke",
     "en": "a rain jacket"
    },
    {
     "da": "regn",
     "en": "rain"
+   },
+   {
+    "da": "en regnfrakke",
+    "en": "a raincoat"
    }
   ],
   "sentence": {
@@ -2523,7 +2579,7 @@
   }
  },
  "en parasol": {
-  "explanation": "\"En parasol\" means \"a parasol\", a large sunshade at a table or beach. For rain, use \"en paraply\" (an umbrella).",
+  "explanation": "\"En parasol\" means \"a parasol\". For rain, use \"en paraply\" (an umbrella) instead: \"Det regner, så jeg tager en paraply med\" (It is raining, so I take an umbrella along).",
   "forms": [
    {
     "da": "en parasol",
@@ -2552,8 +2608,8 @@
     "en": "a shade sail"
    },
    {
-    "da": "en strandparasol",
-    "en": "a beach parasol"
+    "da": "en skygge",
+    "en": "a shade"
    }
   ],
   "sentence": {
@@ -2562,7 +2618,7 @@
   }
  },
  "en parfume": {
-  "explanation": "\"En parfume\" means \"a perfume\", the liquid you put on your skin to smell nice.",
+  "explanation": "\"En parfume\" means \"a perfume\". English speakers should spell it with \"a\" in the middle, not \"e\": \"parfume\". To say how much you have, use \"en flaske\" (a bottle): \"en flaske parfume\" (a bottle of perfume).",
   "forms": [
    {
     "da": "en parfume",
@@ -2593,6 +2649,10 @@
    {
     "da": "en lugt",
     "en": "a smell"
+   },
+   {
+    "da": "en deodorant",
+    "en": "a deodorant"
    }
   ],
   "sentence": {
@@ -2601,7 +2661,7 @@
   }
  },
  "en park": {
-  "explanation": "\"En park\" means \"a park\", a green area with grass and trees where people walk.",
+  "explanation": "\"En park\" means \"a park\". A private plot behind a house is \"en have\" (a garden), not \"en park\": \"Vi sidder i haven bag huset\" (We are sitting in the garden behind the house).",
   "forms": [
    {
     "da": "en park",
@@ -2622,16 +2682,16 @@
   ],
   "related": [
    {
-    "da": "en have",
-    "en": "a garden"
+    "da": "en parkbænk",
+    "en": "a park bench"
    },
    {
     "da": "en parkering",
     "en": "a parking lot"
    },
    {
-    "da": "en parkbænk",
-    "en": "a park bench"
+    "da": "en bypark",
+    "en": "a city park"
    }
   ],
   "sentence": {
@@ -2640,7 +2700,7 @@
   }
  },
  "en parkeringsautomat": {
-  "explanation": "\"En parkeringsautomat\" means \"a parking meter\", the machine where you pay to park.",
+  "explanation": "\"En parkeringsautomat\" means \"a parking meter\". It is built from \"parkering\" (parking) and \"en automat\" (a machine). To say where you pay, say: \"Jeg betaler ved parkeringsautomaten\" (I pay at the parking meter).",
   "forms": [
    {
     "da": "en parkeringsautomat",
@@ -2683,7 +2743,7 @@
   }
  },
  "en parkeringsbøde": {
-  "explanation": "\"En parkeringsbøde\" means \"a parking ticket\", the fine you get for parking wrong.",
+  "explanation": "\"En parkeringsbøde\" means \"a parking ticket\". It is built from \"parkering\" (parking) and \"en bøde\" (a fine). To say you pay it, say: \"Jeg betaler parkeringsbøden\" (I am paying the parking ticket).",
   "forms": [
    {
     "da": "en parkeringsbøde",
@@ -2726,7 +2786,7 @@
   }
  },
  "en parkeringsplads": {
-  "explanation": "\"En parkeringsplads\" means \"a parking space\", and also \"a parking lot\", the whole area with many spaces. For short, Danes also say \"en p-plads\" (a parking spot).",
+  "explanation": "\"En parkeringsplads\" means \"a parking space or lot\". It is built from \"parkering\" (parking) and \"en plads\" (a space). The short form is \"en p-plads\" (a parking spot): \"Der er ingen ledig p-plads\" (There is no free parking spot).",
   "forms": [
    {
     "da": "en parkeringsplads",
@@ -2765,7 +2825,7 @@
   }
  },
  "en parkeringsvagt": {
-  "explanation": "\"En parkeringsvagt\" means \"a parking attendant\", a person who checks parked cars and can give a ticket.",
+  "explanation": "\"En parkeringsvagt\" means \"a parking attendant\". It is built from \"parkering\" (parking) and \"en vagt\" (a guard). To say what the attendant does, say: \"Parkeringsvagten giver mig en bøde\" (The parking attendant gives me a fine).",
   "forms": [
    {
     "da": "en parkeringsvagt",
@@ -2808,7 +2868,7 @@
   }
  },
  "en parodi": {
-  "explanation": "\"En parodi\" means \"a parody\", a funny copy that exaggerates something well known, such as a famous song, to make fun of it.",
+  "explanation": "\"En parodi\" means \"a parody\". When you name what is copied, use \"på\" (on) after it: \"Showet er en parodi på nyhederne\" (The show is a parody of the news). English speakers should spell the ending with \"i\", not \"y\": \"parodi\".",
   "forms": [
    {
     "da": "en parodi",
@@ -2833,16 +2893,12 @@
     "en": "a satire"
    },
    {
-    "da": "en imitation",
-    "en": "an imitation"
-   },
-   {
     "da": "en karikatur",
     "en": "a caricature"
    },
    {
-    "da": "en vittighed",
-    "en": "a joke"
+    "da": "en imitation",
+    "en": "an imitation"
    }
   ],
   "sentence": {
@@ -2851,7 +2907,7 @@
   }
  },
  "en partner": {
-  "explanation": "\"En partner\" means \"a partner\", someone you share your life or business with. In a business, \"en partner\" is a co-owner.",
+  "explanation": "\"En partner\" means \"a partner\". When you talk about the person you live with, say: \"Min partner og jeg bor i København\" (My partner and I live in Copenhagen). When you talk about a co-owner of a firm, it also works: \"Jeg er partner i et firma\" (I am a partner in a firm).",
   "forms": [
    {
     "da": "en partner",
@@ -2890,7 +2946,7 @@
   }
  },
  "en passager": {
-  "explanation": "\"En passager\" means \"a passenger\", a person who travels in a car, train, plane or boat.",
+  "explanation": "\"En passager\" means \"a passenger\". To say you ride along but do not drive, say: \"Jeg er passager i bilen\" (I am a passenger in the car).",
   "forms": [
    {
     "da": "en passager",
@@ -2929,7 +2985,7 @@
   }
  },
  "en passagerfærge": {
-  "explanation": "\"En passagerfærge\" means \"a passenger ferry\", a boat that carries people. It is passager (passenger) plus færge (ferry). The same \"passager\" is in \"et passagerfly\" (a passenger plane).",
+  "explanation": "\"En passagerfærge\" means \"a passenger ferry\". It is built from \"en passager\" (a passenger) and \"en færge\" (a ferry). The first part also appears in \"et passagerfly\" (a passenger plane).",
   "forms": [
    {
     "da": "en passagerfærge",
@@ -2968,7 +3024,7 @@
   }
  },
  "en pastor": {
-  "explanation": "\"En pastor\" means \"a pastor\", a minister who leads services and weddings. In Denmark the everyday word is \"en præst\" (a priest), and \"pastor\" is also used as a title before a name: \"pastor Hansen\".",
+  "explanation": "\"En pastor\" means \"a pastor\". When you name a pastor, put \"pastor\" before the name: \"Pastor Hansen holder gudstjeneste\" (Pastor Hansen leads the service). The common word for a priest of the Danish church is \"en præst\" (a priest): \"Præsten døber barnet\" (The priest baptizes the child).",
   "forms": [
    {
     "da": "en pastor",
@@ -3011,7 +3067,7 @@
   }
  },
  "en patient": {
-  "explanation": "\"En patient\" means \"a patient\", a person getting medical care. Do not mix it up with the English word patient meaning calm: that is \"tålmodig\" (patient) in Danish: \"Han er tålmodig\" (He is patient).",
+  "explanation": "\"En patient\" means \"a patient\", as in a person who receives medical care. The English word \"patient\" meaning calm is \"tålmodig\" in Danish: \"Han er tålmodig\" (He is patient).",
   "forms": [
    {
     "da": "en patient",
@@ -3032,7 +3088,7 @@
   ],
   "related": [
    {
-    "da": "en doktor",
+    "da": "en læge",
     "en": "a doctor"
    },
    {
@@ -3050,7 +3106,7 @@
   }
  },
  "en patrulje": {
-  "explanation": "\"En patrulje\" means \"a patrol\", a small group that walks or drives around an area to watch over it, such as soldiers or police.",
+  "explanation": "\"En patrulje\" means \"a patrol\". To say a group goes out to watch an area, say: \"Politiet sender en patrulje\" (The police send out a patrol).",
   "forms": [
    {
     "da": "en patrulje",
@@ -3083,8 +3139,8 @@
     "en": "a sentry"
    },
    {
-    "da": "at patruljere",
-    "en": "to patrol"
+    "da": "en politibetjent",
+    "en": "a police officer"
    }
   ],
   "sentence": {
@@ -3093,7 +3149,7 @@
   }
  },
  "en pause": {
-  "explanation": "\"En pause\" means \"a break\" or \"a pause\", for example at work or school. \"At holde pause\" means \"to take a break\", and \"en kaffepause\" is a coffee break.",
+  "explanation": "\"En pause\" means \"a break\". To say you stop for a break, use \"at holde\" (to hold): \"Vi holder pause klokken tolv\" (We take a break at twelve). In music or speech, it also means \"a pause\": \"Der er en lang pause i musikken\" (There is a long pause in the music).",
   "forms": [
    {
     "da": "en pause",
@@ -3124,6 +3180,10 @@
    {
     "da": "en ferie",
     "en": "a vacation"
+   },
+   {
+    "da": "en kaffepause",
+    "en": "a coffee break"
    }
   ],
   "sentence": {
@@ -3132,7 +3192,7 @@
   }
  },
  "en pave": {
-  "explanation": "\"En pave\" means \"a pope\", the leader of the Catholic Church.",
+  "explanation": "\"En pave\" means \"a pope\". To say where he lives, say: \"Paven bor i Vatikanet\" (The pope lives in the Vatican).",
   "forms": [
    {
     "da": "en pave",
@@ -3161,12 +3221,12 @@
     "en": "a bishop"
    },
    {
-    "da": "Vatikanet",
-    "en": "the Vatican"
-   },
-   {
     "da": "en præst",
     "en": "a priest"
+   },
+   {
+    "da": "et konklave",
+    "en": "a conclave"
    }
   ],
   "sentence": {
@@ -3175,7 +3235,7 @@
   }
  },
  "en peberfrugt": {
-  "explanation": "\"En peberfrugt\" means \"a bell pepper\", the colorful vegetable you slice for salads. \"Peber\" (pepper) is the spice.",
+  "explanation": "\"En peberfrugt\" means \"a bell pepper\". It is built from \"peber\" (pepper) and \"en frugt\" (a fruit). The spice is just \"peber\" (pepper): \"Jeg strør peber på kødet\" (I sprinkle pepper on the meat).",
   "forms": [
    {
     "da": "en peberfrugt",
@@ -3214,7 +3274,7 @@
   }
  },
  "en peberkværn": {
-  "explanation": "\"En peberkværn\" means \"a pepper mill\", which grinds whole peppercorns fresh over your food.",
+  "explanation": "\"En peberkværn\" means \"a pepper mill\". It is built from \"peber\" (pepper) and \"en kværn\" (a mill). To ask for it at the table, say: \"Kan du række mig peberkværnen?\" (Can you pass me the pepper mill?).",
   "forms": [
    {
     "da": "en peberkværn",
@@ -3253,7 +3313,7 @@
   }
  },
  "en pebernød": {
-  "explanation": "\"En pebernød\" means \"a small Christmas spice cookie\". It is built from peber (pepper) and nød (nut), but it has no nuts.",
+  "explanation": "\"En pebernød\" means \"a small Christmas spice cookie\". It is built from \"peber\" (pepper) and \"en nød\" (a nut), but it has no nuts. In Denmark it is a traditional Christmas treat.",
   "forms": [
    {
     "da": "en pebernød",
@@ -3296,7 +3356,7 @@
   }
  },
  "en pegefinger": {
-  "explanation": "\"En pegefinger\" means \"an index finger\", the finger you point with. The first part is \"at pege\" (to point), as in \"en pegepind\" (a pointer stick).",
+  "explanation": "\"En pegefinger\" means \"an index finger\". It is built from \"at pege\" (to point) and \"en finger\" (a finger). To say someone warns you, say: \"Han løfter pegefingeren\" (He raises his index finger).",
   "forms": [
    {
     "da": "en pegefinger",
@@ -3339,7 +3399,7 @@
   }
  },
  "en pels": {
-  "explanation": "\"En pels\" means \"a fur\", a warm garment made from animal skin with the hair left on. It is also the word for the fur on a living animal: \"hundens pels\" (the dog's fur).",
+  "explanation": "\"En pels\" means \"a fur\". When you talk about the hair on an animal, it also means \"fur\": \"Hundens pels er blød\" (The dog's fur is soft). When you talk about a coat made of fur, say: \"Hun har en pels på\" (She is wearing a fur coat).",
   "forms": [
    {
     "da": "en pels",
@@ -3409,6 +3469,10 @@
    {
     "da": "en tusch",
     "en": "a marker pen"
+   },
+   {
+    "da": "en fyldepen",
+    "en": "a fountain pen"
    }
   ],
   "sentence": {
@@ -3417,7 +3481,7 @@
   }
  },
  "en pendler": {
-  "explanation": "\"En pendler\" means \"a commuter\", a person who travels between home and work every day, often a long way.",
+  "explanation": "\"En pendler\" means \"a commuter\". It comes from the verb \"at pendle\" (to commute). To say you travel to work every day, say: \"Jeg er pendler fra Roskilde\" (I am a commuter from Roskilde).",
   "forms": [
    {
     "da": "en pendler",
@@ -3438,20 +3502,20 @@
   ],
   "related": [
    {
-    "da": "et pendlertog",
-    "en": "a commuter train"
+    "da": "et tog",
+    "en": "a train"
    },
    {
     "da": "et pendlerkort",
     "en": "a commuter pass"
    },
    {
-    "da": "at pendle",
-    "en": "to commute"
-   },
-   {
     "da": "en rejsende",
     "en": "a traveler"
+   },
+   {
+    "da": "et månedskort",
+    "en": "a monthly pass"
    }
   ],
   "sentence": {
@@ -3460,7 +3524,7 @@
   }
  },
  "en pengepung": {
-  "explanation": "\"En pengepung\" means \"a purse\", a small case for coins, bills and cards. For the bag you carry on your shoulder (what Americans call a purse), say \"en håndtaske\" (a handbag), not pengepung.",
+  "explanation": "\"En pengepung\" means \"a purse\", as in a small case for coins and bills. For the bag you carry on your shoulder, say \"en håndtaske\" (a handbag) instead: \"Hun har sin telefon i håndtasken\" (She has her phone in the handbag).",
   "forms": [
    {
     "da": "en pengepung",
@@ -3503,7 +3567,7 @@
   }
  },
  "en pensel": {
-  "explanation": "\"En pensel\" means \"a paintbrush\". Do not use it for a brush for teeth or cleaning: that is \"en børste\" (a brush), as in \"en tandbørste\" (a toothbrush).",
+  "explanation": "\"En pensel\" means \"a paintbrush\". To say a brush for cleaning, use \"en børste\" (a brush) instead, as in \"en tandbørste\" (a toothbrush): \"Jeg køber en ny tandbørste\" (I am buying a new toothbrush).",
   "forms": [
    {
     "da": "en pensel",
@@ -3546,7 +3610,7 @@
   }
  },
  "en pension": {
-  "explanation": "\"En pension\" means \"a pension\", money you get every month after you stop working. The word also names that time of life: \"Min far går på pension i år\" (My father retires this year).",
+  "explanation": "\"En pension\" means \"a pension\". When you say someone stops working because of age, use \"at gå på pension\" (to retire): \"Min far går på pension i år\" (My father retires this year).",
   "forms": [
    {
     "da": "en pension",
@@ -3589,7 +3653,7 @@
   }
  },
  "en pensionist": {
-  "explanation": "\"En pensionist\" means \"a retiree\", a person who has stopped working and gets money from the state or a pension fund.",
+  "explanation": "\"En pensionist\" means \"a retiree\". It is built from \"pension\" (pension) and the ending \"-ist\", which names a person, as in \"en turist\" (a tourist). To say you are retired, say: \"Jeg er pensionist\" (I am a retiree).",
   "forms": [
    {
     "da": "en pensionist",
@@ -3628,7 +3692,7 @@
   }
  },
  "en periode": {
-  "explanation": "\"En periode\" means \"a period\" of time. Use \"i en periode\" when you do not name how long it lasted: \"Jeg boede i Odense i en periode\" (I lived in Odense for a while). The dot at the end of a sentence is not this word; that is \"et punktum\" (a period).",
+  "explanation": "\"En periode\" means \"a period\" of time. To say you did something for a while without naming how long, say \"i en periode\" (for a period): \"Jeg boede i Odense i en periode\" (I lived in Odense for a while). To end a sentence, use \"et punktum\" (a period) instead: \"Sæt et punktum efter sætningen\" (Put a period after the sentence).",
   "forms": [
    {
     "da": "en periode",
@@ -3671,7 +3735,7 @@
   }
  },
  "en perron": {
-  "explanation": "\"En perron\" means \"a platform\" at a train station. You say \"på perronen\" (on the platform).",
+  "explanation": "\"En perron\" means \"a platform\", as in a train station. To say where you stand, say \"på perronen\" (on the platform): \"Vi står på perronen\" (We are standing on the platform).",
   "forms": [
    {
     "da": "en perron",
@@ -3710,7 +3774,7 @@
   }
  },
  "en persienne": {
-  "explanation": "\"En persienne\" means \"a blind\", the kind with flat slats that you tilt or pull up.",
+  "explanation": "\"En persienne\" means \"a blind\", as in a window covering. To keep the sun out, say: \"Jeg lukker persiennen\" (I am closing the blind).",
   "forms": [
    {
     "da": "en persienne",
@@ -3749,7 +3813,7 @@
   }
  },
  "en person": {
-  "explanation": "\"En person\" means \"a person\". When booking, you say \"et bord til to personer\" (a table for two people).",
+  "explanation": "\"En person\" means \"a person\". When you book a table, say: \"Et bord til to personer\" (A table for two people).",
   "forms": [
    {
     "da": "en person",
@@ -3792,7 +3856,7 @@
   }
  },
  "en personlig træner": {
-  "explanation": "\"En personlig træner\" means \"a personal trainer\", a person you pay to plan your workouts and help you exercise. \"En træner\" (a coach) of a team works with many people at once.",
+  "explanation": "\"En personlig træner\" means \"a personal trainer\". It is built from \"personlig\" (personal) and \"en træner\" (a trainer). To say the leader of a team, use \"en træner\" (a coach) alone: \"Træneren har tyve spillere\" (The coach has twenty players).",
   "forms": [
    {
     "da": "en personlig træner",
@@ -3835,7 +3899,7 @@
   }
  },
  "en personlighed": {
-  "explanation": "\"En personlighed\" means \"a personality\", the way a person is. It can also mean a well-known person: \"en kendt personlighed\" (a well-known figure).",
+  "explanation": "\"En personlighed\" means \"a personality\". The ending \"-hed\" works like English \"-ness\", as in \"en frihed\" (a freedom). When you mean a famous person, it also means \"a figure\": \"en kendt personlighed\" (a well-known figure).",
   "forms": [
    {
     "da": "en personlighed",
@@ -3856,8 +3920,8 @@
   ],
   "related": [
    {
-    "da": "personlig",
-    "en": "personal"
+    "da": "et temperament",
+    "en": "a temperament"
    },
    {
     "da": "en karakter",
@@ -3866,6 +3930,10 @@
    {
     "da": "en egenskab",
     "en": "a trait"
+   },
+   {
+    "da": "en identitet",
+    "en": "an identity"
    }
   ],
   "sentence": {
@@ -3874,7 +3942,7 @@
   }
  },
  "en pest": {
-  "explanation": "\"En pest\" means \"a plague\", a deadly disease that killed millions of people in Europe in the Middle Ages. It is also used in an idiom: \"Jeg undgår ham som pesten\" (I avoid him like the plague).",
+  "explanation": "\"En pest\" means \"a plague\". To say you avoid someone completely, say: \"Jeg undgår ham som pesten\" (I avoid him like the plague).",
   "forms": [
    {
     "da": "en pest",
@@ -3909,7 +3977,7 @@
   }
  },
  "en ph.d.": {
-  "explanation": "\"En ph.d.\" means \"a PhD\", the highest degree at a university, usually after about three years of study beyond a master's degree. In Denmark it is usually a paid job at a university.",
+  "explanation": "\"En ph.d.\" means \"a PhD\". English writes \"PhD\", but Danish writes \"ph.d.\" with dots. In Denmark a PhD student is employed by the university and gets a salary.",
   "forms": [
    {
     "da": "en ph.d.",
@@ -3952,7 +4020,7 @@
   }
  },
  "en picnic": {
-  "explanation": "\"En picnic\" means \"a picnic\", a meal outdoors. To go on one, say \"at tage på picnic\" (to go on a picnic).",
+  "explanation": "\"En picnic\" means \"a picnic\". To suggest one, use \"at tage på picnic\" (to go on a picnic): \"Skal vi tage på picnic i morgen?\" (Shall we go on a picnic tomorrow?).",
   "forms": [
    {
     "da": "en picnic",
@@ -3995,7 +4063,7 @@
   }
  },
  "en pige": {
-  "explanation": "\"En pige\" means \"a girl\", a child or teenager. For a grown woman, say \"en kvinde\" (a woman).",
+  "explanation": "\"En pige\" means \"a girl\". For a grown woman, say \"en kvinde\" (a woman) instead: \"Hun er en voksen kvinde\" (She is a grown woman).",
   "forms": [
    {
     "da": "en pige",
@@ -4034,7 +4102,7 @@
   }
  },
  "en pil": {
-  "explanation": "\"En pil\" means \"an arrow\" and also \"a willow\". As an arrow it is the pointed sign or the kind shot from a bow. As a willow it is a tree, and you can also say \"et piletræ\" (a willow tree).",
+  "explanation": "\"En pil\" means \"an arrow\". It also means \"a willow\": \"Der står en pil i haven\" (There is a willow in the garden). To say the tree by its full name, use \"et piletræ\" (a willow tree).",
   "forms": [
    {
     "da": "en pil",
@@ -4073,7 +4141,7 @@
   }
  },
  "en pille": {
-  "explanation": "\"En pille\" means \"a pill\" or \"a tablet\". With \"the\" added, \"pillen\" (the pill) often means the birth control pill.",
+  "explanation": "\"En pille\" means \"a pill\". The form \"pillen\" (the pill) can mean the birth control pill: \"Hun tager pillen\" (She takes the birth control pill).",
   "forms": [
    {
     "da": "en pille",
@@ -4104,6 +4172,10 @@
    {
     "da": "en p-pille",
     "en": "a birth control pill"
+   },
+   {
+    "da": "en tablet",
+    "en": "a tablet"
    }
   ],
   "sentence": {
@@ -4112,7 +4184,7 @@
   }
  },
  "en pilot": {
-  "explanation": "\"En pilot\" means \"a pilot\", the person who flies a plane. The word is the same for men and women: \"Hun er pilot\" (She is a pilot).",
+  "explanation": "\"En pilot\" means \"a pilot\". To say what a pilot does, say: \"Piloten lander flyet i København\" (The pilot lands the plane in Copenhagen).",
   "forms": [
    {
     "da": "en pilot",
@@ -4133,16 +4205,16 @@
   ],
   "related": [
    {
-    "da": "et fly",
-    "en": "a plane"
-   },
-   {
     "da": "en kaptajn",
     "en": "a captain"
    },
    {
     "da": "en passager",
     "en": "a passenger"
+   },
+   {
+    "da": "en flyveleder",
+    "en": "an air traffic controller"
    }
   ],
   "sentence": {
@@ -4151,7 +4223,7 @@
   }
  },
  "en pind": {
-  "explanation": "\"En pind\" means \"a stick\", a small thin piece of wood.",
+  "explanation": "\"En pind\" means \"a stick\". It is part of \"spisepinde\" (chopsticks), built from \"at spise\" (to eat) and \"pinde\" (sticks).",
   "forms": [
    {
     "da": "en pind",
@@ -4180,10 +4252,6 @@
     "en": "a cane / stick"
    },
    {
-    "da": "spisepinde",
-    "en": "chopsticks"
-   },
-   {
     "da": "en tændstik",
     "en": "a match"
    }
@@ -4194,7 +4262,7 @@
   }
  },
  "en pingvin": {
-  "explanation": "\"En pingvin\" means \"a penguin\", the black and white sea bird that cannot fly.",
+  "explanation": "\"En pingvin\" means \"a penguin\". To name one kind of penguin, say \"en kejserpingvin\" (an emperor penguin): \"Kejserpingvinen bor i Antarktis\" (The emperor penguin lives in Antarctica).",
   "forms": [
    {
     "da": "en pingvin",
@@ -4219,12 +4287,12 @@
     "en": "a bird"
    },
    {
-    "da": "en sæl",
-    "en": "a seal"
+    "da": "en kongepingvin",
+    "en": "a king penguin"
    },
    {
-    "da": "en hval",
-    "en": "a whale"
+    "da": "en struds",
+    "en": "an ostrich"
    }
   ],
   "sentence": {
@@ -4233,7 +4301,7 @@
   }
  },
  "en pinkode": {
-  "explanation": "\"En pinkode\" means \"a PIN code\", the secret number for your bank card. It is the code you type at a card reader or a cash machine.",
+  "explanation": "\"En pinkode\" means \"a PIN code\". It is built from \"pin\" (PIN) and \"en kode\" (a code).",
   "forms": [
    {
     "da": "en pinkode",
@@ -4272,7 +4340,7 @@
   }
  },
  "en pirat": {
-  "explanation": "\"En pirat\" means \"a pirate\", a robber at sea. Piracy of films and music is called \"piratkopiering\" (pirated copying).",
+  "explanation": "\"En pirat\" means \"a pirate\". Illegal copying of films and music is called \"piratkopiering\" (pirate copying), built from \"pirat\" and \"at kopiere\" (to copy).",
   "forms": [
    {
     "da": "en pirat",
@@ -4311,7 +4379,7 @@
   }
  },
  "en pistol": {
-  "explanation": "\"En pistol\" means \"a pistol\" or \"a gun\", a small gun held in one hand. A larger gun is \"et gevær\" (a rifle).",
+  "explanation": "\"En pistol\" means \"a pistol\". To talk about a long gun, use \"et gevær\" (a rifle): \"Jægeren har et gevær\" (The hunter has a rifle).",
   "forms": [
    {
     "da": "en pistol",
@@ -4354,7 +4422,7 @@
   }
  },
  "en pita": {
-  "explanation": "\"En pita\" means \"a pita\", a round flatbread with a pocket inside for filling.",
+  "explanation": "\"En pita\" means \"a pita\". To name the filling, use \"med\" (with): \"en pita med kebab\" (a pita with kebab).",
   "forms": [
    {
     "da": "en pita",
@@ -4393,7 +4461,7 @@
   }
  },
  "en pizza": {
-  "explanation": "\"En pizza\" means \"a pizza\". To order one to take away, say \"en pizza til at tage med\" (a pizza to take with you).",
+  "explanation": "\"En pizza\" means \"a pizza\". To order a pizza, use \"at bestille\" (to order): \"Jeg vil gerne bestille en pizza\" (I would like to order a pizza).",
   "forms": [
    {
     "da": "en pizza",
@@ -4414,12 +4482,12 @@
   ],
   "related": [
    {
-    "da": "en pizzeria",
+    "da": "et pizzeria",
     "en": "a pizza restaurant"
    },
    {
-    "da": "en burger",
-    "en": "a burger"
+    "da": "en calzone",
+    "en": "a calzone"
    },
    {
     "da": "en pizzabund",
@@ -4431,15 +4499,15 @@
    "en": "A pizza has a base, sauce and cheese."
   }
  },
- "en pizzeria": {
-  "explanation": "\"En pizzeria\" means \"a pizzeria\", a casual restaurant that sells pizza.",
+ "et pizzeria": {
+  "explanation": "\"Et pizzeria\" means \"a pizzeria\". It is built from \"pizza\" and the ending \"-eria\".",
   "forms": [
    {
-    "da": "en pizzeria",
+    "da": "et pizzeria",
     "en": "a pizzeria"
    },
    {
-    "da": "pizzeriaen",
+    "da": "pizzeriaet",
     "en": "the pizzeria"
    },
    {
@@ -4470,12 +4538,12 @@
    }
   ],
   "sentence": {
-   "da": "Vi spiser pizza på en lille **pizzeria**.",
+   "da": "Vi spiser pizza på et lille **pizzeria**.",
    "en": "We eat pizza at a small pizzeria."
   }
  },
  "en plade": {
-  "explanation": "\"En plade\" means \"a record\" or \"a flat sheet\": \"Jeg køber en gammel plade\" (I buy an old record), \"en plade af træ\" (a sheet of wood). A dinner plate is \"en tallerken\" (a plate).",
+  "explanation": "\"En plade\" means \"a plate or record\". When you talk about music, it means a vinyl record: \"Jeg køber en gammel plade\" (I buy an old record). When you talk about a flat piece of material, it means a sheet: \"en plade af træ\" (a sheet of wood). For a plate you eat from, use \"en tallerken\" (a plate): \"Maden ligger på en tallerken\" (The food is on a plate).",
   "forms": [
    {
     "da": "en plade",
@@ -4514,7 +4582,7 @@
   }
  },
  "en pladespiller": {
-  "explanation": "\"En pladespiller\" means \"a record player\", a machine that plays music from round vinyl discs. A disc like that is called \"en plade\" (a record).",
+  "explanation": "\"En pladespiller\" means \"a record player\". It is built from \"en plade\" (a record) and \"at spille\" (to play).",
   "forms": [
    {
     "da": "en pladespiller",
@@ -4557,7 +4625,7 @@
   }
  },
  "en plads": {
-  "explanation": "\"En plads\" means \"a seat\", \"room (space)\" or \"a town square\". On a train or in a cinema, \"en plads\" is your seat. To ask whether there is space, say \"Er der plads?\" (Is there room?).",
+  "explanation": "\"En plads\" means \"a seat or room or square\". When you talk about where you sit on a train or in a cinema, it means \"a seat\": \"Er denne plads optaget?\" (Is this seat taken?). When you ask whether there is space, it means \"room\": \"Er der plads?\" (Is there room?). When you talk about a town square, it means \"a square\": \"Vi mødes på pladsen\" (We meet in the square).",
   "forms": [
    {
     "da": "en plads",
@@ -4596,7 +4664,7 @@
   }
  },
  "en plaid": {
-  "explanation": "\"En plaid\" means \"a throw blanket\", a soft blanket for the sofa. For what you sleep under at night, use \"en dyne\" (a duvet).",
+  "explanation": "\"En plaid\" means \"a throw blanket\". English speakers know \"plaid\" as a checked pattern, but in Danish it is a blanket. For the cover you sleep under at night, use \"en dyne\" (a duvet): \"Jeg sover under en dyne\" (I sleep under a duvet).",
   "forms": [
    {
     "da": "en plaid",
@@ -4635,7 +4703,7 @@
   }
  },
  "en plakat": {
-  "explanation": "\"En plakat\" means \"a poster\", a printed sheet you hang on a wall or put up in a shop window or on a lamppost.",
+  "explanation": "\"En plakat\" means \"a poster\". A poster for a film is \"en filmplakat\" (a movie poster): \"Jeg har en filmplakat på væggen\" (I have a movie poster on the wall).",
   "forms": [
    {
     "da": "en plakat",
@@ -4678,7 +4746,7 @@
   }
  },
  "en plan": {
-  "explanation": "\"En plan\" means \"a plan\". You can ask \"Har du planer i weekenden?\" (Do you have plans this weekend?). \"En køreplan\" (a timetable) is a plan for trains and buses.",
+  "explanation": "\"En plan\" means \"a plan\". To ask what someone is doing, say: \"Har du planer i weekenden?\" (Do you have plans this weekend?). The word is also part of \"en køreplan\" (a timetable) and \"en madplan\" (a meal plan).",
   "forms": [
    {
     "da": "en plan",
@@ -4717,7 +4785,7 @@
   }
  },
  "en planet": {
-  "explanation": "\"En planet\" means \"a planet\". It is also used for the whole world: \"Vi skal passe på planeten\" (We must take care of the planet).",
+  "explanation": "\"En planet\" means \"a planet\". To talk about the whole Earth as our home, use it too: \"Vi skal passe på planeten\" (We must take care of the planet).",
   "forms": [
    {
     "da": "en planet",
@@ -4760,7 +4828,7 @@
   }
  },
  "en planke": {
-  "explanation": "\"En planke\" means \"a plank\", a long, flat, thick piece of wood used to build floors, fences and docks.",
+  "explanation": "\"En planke\" means \"a plank\". To talk about a plank in a floor, use \"en gulvplanke\" (a floor plank): \"Gulvplanken knirker\" (The floor plank creaks).",
   "forms": [
    {
     "da": "en planke",
@@ -4803,7 +4871,7 @@
   }
  },
  "en plante": {
-  "explanation": "\"En plante\" means \"a plant\", something that grows in soil. The same word also works as a verb, \"at plante\" (to plant): \"Vi planter et træ\" (We plant a tree).",
+  "explanation": "\"En plante\" means \"a plant\". To say you put a tree in the ground, use the verb \"at plante\" (to plant): \"Vi planter et træ\" (We plant a tree).",
   "forms": [
    {
     "da": "en plante",
@@ -4834,6 +4902,10 @@
    {
     "da": "et frø",
     "en": "a seed"
+   },
+   {
+    "da": "en busk",
+    "en": "a bush"
    }
   ],
   "sentence": {
@@ -4842,7 +4914,7 @@
   }
  },
  "en planteskole": {
-  "explanation": "\"En planteskole\" means \"a plant nursery\", a place where young plants and trees are grown and sold. It is not a place for small children: a daycare for babies is \"en vuggestue\" (a nursery).",
+  "explanation": "\"En planteskole\" means \"a plant nursery\". It is built from \"en plante\" (a plant) and \"en skole\" (a school). Do not mix it up with \"en vuggestue\" (a daycare for babies): \"Min søn går i vuggestue\" (My son goes to daycare).",
   "forms": [
    {
     "da": "en planteskole",
@@ -4885,7 +4957,7 @@
   }
  },
  "en plastikpose": {
-  "explanation": "\"En plastikpose\" means \"a plastic bag\", from plastik (plastic) and en pose (a bag). In shops, you may hear \"Vil du have en pose?\" (Do you want a bag?).",
+  "explanation": "\"En plastikpose\" means \"a plastic bag\". It is built from \"plastik\" (plastic) and \"en pose\" (a bag). To ask a customer if they want a bag, say: \"Vil du have en pose?\" (Do you want a bag?).",
   "forms": [
    {
     "da": "en plastikpose",
@@ -4928,7 +5000,7 @@
   }
  },
  "en platform": {
-  "explanation": "\"En platform\" means \"a platform\", mostly an online place where people share, watch or buy things. At a train station, the word is \"en perron\" (a station platform), not \"en platform\".",
+  "explanation": "\"En platform\" means \"a platform\", as in an online service. For the place where you wait for a train, use \"en perron\" (a station platform): \"Toget kører fra perron tre\" (The train leaves from platform three).",
   "forms": [
    {
     "da": "en platform",
@@ -4971,7 +5043,7 @@
   }
  },
  "en playliste": {
-  "explanation": "\"En playliste\" means \"a playlist\", a list of songs you pick yourself.",
+  "explanation": "\"En playliste\" means \"a playlist\". To say you put songs together, use \"at lave\" (to make): \"Jeg laver en playliste til festen\" (I make a playlist for the party).",
   "forms": [
    {
     "da": "en playliste",
@@ -5010,7 +5082,7 @@
   }
  },
  "en plejefamilie": {
-  "explanation": "\"En plejefamilie\" means \"a foster family\", a family that takes in a child who cannot live with their own parents, for a short time or for many years. In Denmark the municipality (\"kommunen\") decides when a child is placed in one.",
+  "explanation": "\"En plejefamilie\" means \"a foster family\". It is built from \"pleje\" (care) and \"en familie\" (a family). In Denmark the municipality (\"kommunen\") decides when a child is placed in one.",
   "forms": [
    {
     "da": "en plejefamilie",
@@ -5053,7 +5125,7 @@
   }
  },
  "en plet": {
-  "explanation": "\"En plet\" means \"a stain\" or \"a spot\", a mark that does not belong. It can also be a small area, as in \"en grøn plet\" (a green spot).",
+  "explanation": "\"En plet\" means \"a stain\". To describe a small area, it also means \"a spot\": \"en grøn plet\" (a green spot).",
   "forms": [
    {
     "da": "en plet",
@@ -5096,7 +5168,7 @@
   }
  },
  "en pligt": {
-  "explanation": "\"En pligt\" means \"a duty\", something you must do. A well-known saying is \"Pligt før fornøjelse\" (Duty before pleasure).",
+  "explanation": "\"En pligt\" means \"a duty\". To say work comes before fun, use the saying \"Pligt før fornøjelse\" (Duty before pleasure).",
   "forms": [
    {
     "da": "en pligt",
@@ -5139,7 +5211,7 @@
   }
  },
  "en pligtfølelse": {
-  "explanation": "\"En pligtfølelse\" means \"a sense of duty\", the feeling that you must do something because it is right or expected, even when you do not want to.",
+  "explanation": "\"En pligtfølelse\" means \"a sense of duty\". It is built from \"en pligt\" (a duty) and \"en følelse\" (a feeling).",
   "forms": [
    {
     "da": "en pligtfølelse",
@@ -5178,7 +5250,7 @@
   }
  },
  "en plov": {
-  "explanation": "\"En plov\" means \"a plow\", a farm tool that cuts and turns over the soil before seeds are planted.",
+  "explanation": "\"En plov\" means \"a plow\". To say you work the soil with it, use the verb \"at pløje\" (to plow): \"Bonden pløjer marken\" (The farmer plows the field).",
   "forms": [
    {
     "da": "en plov",
@@ -5203,10 +5275,6 @@
     "en": "a harrow"
    },
    {
-    "da": "at pløje",
-    "en": "to plow"
-   },
-   {
     "da": "en kultivator",
     "en": "a cultivator"
    },
@@ -5221,7 +5289,7 @@
   }
  },
  "en plæne": {
-  "explanation": "\"En plæne\" means \"a lawn\", the grass area by a house: \"Vi klipper plænen\" (We mow the lawn). The plant itself is \"græs\" (grass): \"Græsset er vådt\" (The grass is wet).",
+  "explanation": "\"En plæne\" means \"a lawn\". To say you mow a lawn, use \"at klippe\" (to cut): \"Vi klipper plænen\" (We mow the lawn). Do not mix it up with \"græs\" (grass): \"Græsset er vådt\" (The grass is wet).",
   "forms": [
    {
     "da": "en plæne",
@@ -5260,7 +5328,7 @@
   }
  },
  "en podcast": {
-  "explanation": "\"En podcast\" means \"a podcast\", a show you listen to online.",
+  "explanation": "\"En podcast\" means \"a podcast\". To suggest listening to a podcast, use \"at lytte til\" (to listen to): \"Skal vi lytte til en podcast?\" (Shall we listen to a podcast?).",
   "forms": [
    {
     "da": "en podcast",
@@ -5299,7 +5367,7 @@
   }
  },
  "en pointe": {
-  "explanation": "\"En pointe\" means \"a point\", the main idea of a story or an argument, the thing that makes it worth telling. A score in a game is \"et point\" (a point), not en pointe.",
+  "explanation": "\"En pointe\" means \"a point\", as in the main idea of a story. For a score in a game, use \"et point\" (a point): \"Holdet fik et point\" (The team got one point).",
   "forms": [
    {
     "da": "en pointe",
@@ -5342,7 +5410,7 @@
   }
  },
  "en pokal": {
-  "explanation": "\"En pokal\" means \"a trophy\", often shaped like a cup, that a team or person gets for winning a competition.",
+  "explanation": "\"En pokal\" means \"a trophy\". To say you won a trophy, use \"at vinde\" (to win): \"Vi vandt pokalen\" (We won the trophy).",
   "forms": [
    {
     "da": "en pokal",
@@ -5371,8 +5439,8 @@
     "en": "a prize"
    },
    {
-    "da": "en vinder",
-    "en": "a winner"
+    "da": "et trofæ",
+    "en": "a trophy"
    },
    {
     "da": "en turnering",
@@ -5385,7 +5453,7 @@
   }
  },
  "en polak": {
-  "explanation": "\"En polak\" means \"a Pole\", a person from Poland. For things from Poland, use \"polsk\" (Polish): \"polsk pølse\" (Polish sausage).",
+  "explanation": "\"En polak\" means \"a Pole\". To describe something from Poland, use \"polsk\" (Polish): \"polsk pølse\" (Polish sausage).",
   "forms": [
    {
     "da": "en polak",
@@ -5416,6 +5484,10 @@
    {
     "da": "en svensker",
     "en": "a Swede"
+   },
+   {
+    "da": "en dansker",
+    "en": "a Dane"
    }
   ],
   "sentence": {
@@ -5424,7 +5496,7 @@
   }
  },
  "en politibetjent": {
-  "explanation": "\"En politibetjent\" means \"a police officer\". You use it for a man or a woman: \"Hun er politibetjent\" (She is a police officer).",
+  "explanation": "\"En politibetjent\" means \"a police officer\". It is built from \"politi\" (police) and \"en betjent\" (an officer). To say what someone's job is, leave out the article: \"Hun er politibetjent\" (She is a police officer).",
   "forms": [
    {
     "da": "en politibetjent",
@@ -5445,16 +5517,20 @@
   ],
   "related": [
    {
-    "da": "politiet",
-    "en": "the police"
-   },
-   {
     "da": "en politimand",
     "en": "a policeman"
    },
    {
     "da": "en politikvinde",
     "en": "a policewoman"
+   },
+   {
+    "da": "en politibil",
+    "en": "a police car"
+   },
+   {
+    "da": "en politistation",
+    "en": "a police station"
    }
   ],
   "sentence": {
@@ -5463,7 +5539,7 @@
   }
  },
  "en politik": {
-  "explanation": "\"En politik\" means \"a policy\", the rules a group follows. Without \"en\", \"politik\" is the word for \"politics\": \"Han taler om politik\" (He talks about politics).",
+  "explanation": "\"En politik\" means \"a policy\". When you talk about politics in general, leave out \"en\": \"Han taler om politik\" (He talks about politics).",
   "forms": [
    {
     "da": "en politik",
@@ -5506,7 +5582,7 @@
   }
  },
  "en politiker": {
-  "explanation": "\"En politiker\" means \"a politician\", a person with a job in politics, in a city or for the whole country. The field itself is \"politik\" (politics).",
+  "explanation": "\"En politiker\" means \"a politician\". It comes from \"politik\" (politics). To say who you vote for, use \"at stemme på\" (to vote for): \"Jeg stemmer på en lokal politiker\" (I vote for a local politician).",
   "forms": [
    {
     "da": "en politiker",
@@ -5549,7 +5625,7 @@
   }
  },
  "en politimand": {
-  "explanation": "\"En politimand\" means \"a policeman\". The whole force is \"politiet\" (the police): \"Politiet kommer\" (The police are coming). For a word that fits men and women, say \"en politibetjent\" (a police officer).",
+  "explanation": "\"En politimand\" means \"a policeman\". For a word that fits both men and women, use \"en politibetjent\" (a police officer): \"Hun er politibetjent\" (She is a police officer).",
   "forms": [
    {
     "da": "en politimand",
@@ -5574,6 +5650,10 @@
     "en": "a policewoman"
    },
    {
+    "da": "politiet",
+    "en": "the police"
+   },
+   {
     "da": "en politibil",
     "en": "a police car"
    },
@@ -5588,7 +5668,7 @@
   }
  },
  "en politistation": {
-  "explanation": "\"En politistation\" means \"a police station\". To say you are there, use \"på politistationen\" (at the police station): \"Jeg er på politistationen\" (I am at the police station).",
+  "explanation": "\"En politistation\" means \"a police station\". To say you are there, use \"på\" (at): \"Jeg er på politistationen\" (I am at the police station).",
   "forms": [
    {
     "da": "en politistation",
@@ -5617,8 +5697,8 @@
     "en": "a police car"
    },
    {
-    "da": "et nødnummer",
-    "en": "an emergency number"
+    "da": "en betjent",
+    "en": "a police officer"
    }
   ],
   "sentence": {
@@ -5627,7 +5707,7 @@
   }
  },
  "en pollenallergi": {
-  "explanation": "\"En pollenallergi\" means \"a pollen allergy\", a reaction to the fine dust from flowers and trees. It gives itchy eyes and a runny nose, mostly in spring and summer.",
+  "explanation": "\"En pollenallergi\" means \"a pollen allergy\". It is built from \"pollen\" (pollen) and \"en allergi\" (an allergy). To say you have it, use \"at have\" (to have) without an article: \"Jeg har pollenallergi\" (I have a pollen allergy).",
   "forms": [
    {
     "da": "en pollenallergi",
@@ -5670,7 +5750,7 @@
   }
  },
  "en polo": {
-  "explanation": "\"En polo\" means \"a polo shirt\", the short-sleeved shirt with a collar and a few buttons.",
+  "explanation": "\"En polo\" means \"a polo shirt\". A different use of the word is the sport, without an article: \"Han spiller polo\" (He plays polo).",
   "forms": [
    {
     "da": "en polo",
@@ -5709,7 +5789,7 @@
   }
  },
  "en polterabend": {
-  "explanation": "\"En polterabend\" means \"a pre-wedding party\", a party with friends for a couple just before they marry. Friends often smash old plates outside the door, because broken pieces are said to bring luck.",
+  "explanation": "\"En polterabend\" means \"a pre-wedding party\". The word comes from German, where \"poltern\" means to make a loud banging noise.",
   "forms": [
    {
     "da": "en polterabend",
@@ -5752,7 +5832,7 @@
   }
  },
  "en pony": {
-  "explanation": "\"En pony\" means \"a pony\", a small horse that children often ride. A full-size horse is \"en hest\" (a horse).",
+  "explanation": "\"En pony\" means \"a pony\". Do not mix it up with \"en hest\" (a horse): \"Hesten løber hurtigt\" (The horse runs fast).",
   "forms": [
    {
     "da": "en pony",
@@ -5791,7 +5871,7 @@
   }
  },
  "en pool": {
-  "explanation": "\"En pool\" means \"a pool\" for swimming, often in a garden or at a hotel. For a big public pool building, say \"en svømmehal\" (a swimming hall).",
+  "explanation": "\"En pool\" means \"a pool\", as in a swimming pool. For a big public pool building, use \"en svømmehal\" (a swimming hall): \"Vi svømmer i svømmehallen\" (We swim in the swimming hall).",
   "forms": [
    {
     "da": "en pool",
@@ -5830,7 +5910,7 @@
   }
  },
  "en porre": {
-  "explanation": "\"En porre\" means \"a leek\", a long vegetable that is white at the bottom and green at the top. It tastes like a mild onion.",
+  "explanation": "\"En porre\" means \"a leek\". A soup made with leeks is \"porresuppe\" (leek soup): \"Vi spiser porresuppe\" (We eat leek soup).",
   "forms": [
    {
     "da": "en porre",
@@ -5873,7 +5953,7 @@
   }
  },
  "en port": {
-  "explanation": "\"En port\" means \"a gate\", like the gate to a yard or a farm. A small garden gate is \"en låge\" (a small gate).",
+  "explanation": "\"En port\" means \"a gate\". For a small gate in a garden, use \"en låge\" (a small gate): \"Haven har en låge\" (The garden has a small gate). The door of a garage is \"en garageport\" (a garage door).",
   "forms": [
    {
     "da": "en port",
@@ -5916,7 +5996,7 @@
   }
  },
  "en portion": {
-  "explanation": "\"En portion\" means \"a portion\" or \"a serving\", such as one person's share of food. In restaurants, you may hear \"en lille portion\" (a small portion) or \"en stor portion\" (a large portion).",
+  "explanation": "\"En portion\" means \"a portion\". To order food by the portion, put the food after it: \"Jeg vil gerne have en portion pommes frites\" (I would like a portion of fries).",
   "forms": [
    {
     "da": "en portion",
@@ -5937,8 +6017,8 @@
   ],
   "related": [
    {
-    "da": "at portionere",
-    "en": "to portion out"
+    "da": "et måltid",
+    "en": "a meal"
    },
    {
     "da": "en ration",
@@ -5955,7 +6035,7 @@
   }
  },
  "en pose": {
-  "explanation": "\"En pose\" means \"a bag\", a soft bag made of plastic or paper. A bag you carry, such as a handbag, is \"en taske\" (a bag, purse).",
+  "explanation": "\"En pose\" means \"a bag\". To name what is inside, put the food after it: \"en pose chips\" (a bag of chips). For a bag you carry on your shoulder, use \"en taske\" (a bag, purse): \"Hun har en taske på skulderen\" (She has a bag on her shoulder).",
   "forms": [
    {
     "da": "en pose",
@@ -5998,7 +6078,7 @@
   }
  },
  "en position": {
-  "explanation": "\"En position\" means \"a position\": where something stands in a ranking, on a map or on a team.",
+  "explanation": "\"En position\" means \"a position\", as in a place on a team. To talk about a job at the top of a company, say: \"en ledende position\" (a leading position).",
   "forms": [
    {
     "da": "en position",
@@ -6041,7 +6121,7 @@
   }
  },
  "en postkasse": {
-  "explanation": "\"En postkasse\" means \"a mailbox\", the box by your door or on the street. It is built from post (mail) and kasse (box). \"Kasse\" is the same word used for the checkout in a store: \"Jeg betaler ved kassen\" (I pay at the checkout).",
+  "explanation": "\"En postkasse\" means \"a mailbox\". It is built from \"post\" (mail) and \"en kasse\" (a box). In a shop, \"kassen\" (the checkout) uses the same word: \"Jeg betaler ved kassen\" (I pay at the checkout).",
   "forms": [
    {
     "da": "en postkasse",
@@ -6080,7 +6160,7 @@
   }
  },
  "en pote": {
-  "explanation": "\"En pote\" means \"a paw\", the foot of a dog, cat or bear. A well-known command to a dog is \"Giv pote!\" (Shake!).",
+  "explanation": "\"En pote\" means \"a paw\". To tell a dog to shake hands, say: \"Giv pote!\" (Shake!).",
   "forms": [
    {
     "da": "en pote",
@@ -6109,12 +6189,8 @@
     "en": "a claw"
    },
    {
-    "da": "en pels",
-    "en": "fur"
-   },
-   {
-    "da": "en hale",
-    "en": "a tail"
+    "da": "en fod",
+    "en": "a foot"
    }
   ],
   "sentence": {
@@ -6123,7 +6199,7 @@
   }
  },
  "en potte": {
-  "explanation": "\"En potte\" means \"a pot\" for a plant. Small children also sit on \"en potte\" (a potty) when they learn to use the toilet.",
+  "explanation": "\"En potte\" means \"a pot\", as in a pot for a plant. A different use is the potty for a small child: \"Han sidder på potten\" (He sits on the potty).",
   "forms": [
    {
     "da": "en potte",
@@ -6166,7 +6242,7 @@
   }
  },
  "en potteplante": {
-  "explanation": "\"En potteplante\" means \"a houseplant\", a plant that grows in a pot indoors.",
+  "explanation": "\"En potteplante\" means \"a houseplant\". It is built from \"en potte\" (a pot) and \"en plante\" (a plant).",
   "forms": [
    {
     "da": "en potteplante",
@@ -6188,7 +6264,7 @@
   "related": [
    {
     "da": "en stueplante",
-    "en": "a houseplant (same meaning)"
+    "en": "a houseplant"
    },
    {
     "da": "en blomst",
@@ -6204,12 +6280,12 @@
    }
   ],
   "sentence": {
-   "da": "Min **potteplante** står i en pot og skal have vand.",
+   "da": "Min **potteplante** står i en potte og skal have vand.",
    "en": "My houseplant stands in a pot and needs water."
   }
  },
  "en praksis": {
-  "explanation": "\"En praksis\" means \"a practice\", the way something is really done, as opposed to what is only planned. A doctor's office is called \"en lægepraksis\" (a doctor's practice).",
+  "explanation": "\"En praksis\" means \"a practice\", as in how something is really done. To say how it works in real life, use \"i praksis\" (in practice): \"I praksis er det svært\" (In practice it is hard). A doctor's office is \"en lægepraksis\" (a doctor's practice): \"Hun arbejder i en lægepraksis\" (She works in a doctor's practice).",
   "forms": [
    {
     "da": "en praksis",
@@ -6238,10 +6314,6 @@
     "en": "an experience"
    },
    {
-    "da": "en vane",
-    "en": "a habit"
-   },
-   {
     "da": "en øvelse",
     "en": "an exercise"
    }
@@ -6252,7 +6324,7 @@
   }
  },
  "en praktikant": {
-  "explanation": "\"En praktikant\" means \"an intern\", someone who works at a company for a limited time to learn the job, often as part of a study program.",
+  "explanation": "\"En praktikant\" means \"an intern\". A period of work like this is called \"praktik\" (work placement): \"Jeg er i praktik\" (I am on a work placement).",
   "forms": [
    {
     "da": "en praktikant",
@@ -6283,10 +6355,6 @@
    {
     "da": "en vikar",
     "en": "a substitute"
-   },
-   {
-    "da": "en praktikperiode",
-    "en": "an internship period"
    }
   ],
   "sentence": {
@@ -6295,7 +6363,7 @@
   }
  },
  "en praktikplads": {
-  "explanation": "\"En praktikplads\" means \"an internship placement\", a spot at a company where you do the practical part of your studies. In Denmark, students in trade programs must find one to finish.",
+  "explanation": "\"En praktikplads\" means \"an internship placement\". It is built from \"praktik\" (work placement) and \"en plads\" (a place). In Denmark, students in vocational programs must find one at a company to complete their education.",
   "forms": [
    {
     "da": "en praktikplads",
@@ -6338,7 +6406,7 @@
   }
  },
  "en praktiserende læge": {
-  "explanation": "\"En praktiserende læge\" means \"a general practitioner\", the doctor you go to first for most health problems and who can send you on for more tests. Many people say \"min læge\" (my doctor) instead.",
+  "explanation": "\"En praktiserende læge\" means \"a general practitioner\". It is built from \"praktiserende\" (practicing) and \"en læge\" (a doctor). To say you are going to see the doctor, use \"at gå til\" (to go to): \"Jeg skal til lægen i morgen\" (I am going to the doctor tomorrow).",
   "forms": [
    {
     "da": "en praktiserende læge",
@@ -6381,7 +6449,7 @@
   }
  },
  "en premiere": {
-  "explanation": "\"En premiere\" means \"a premiere\", the first public showing of a film or a play. To say something opens, use \"har premiere\": \"Filmen har premiere i morgen\" (The film opens tomorrow).",
+  "explanation": "\"En premiere\" means \"a premiere\". To say a film opens, use \"at have premiere\" (to have a premiere): \"Filmen har premiere i morgen\" (The film opens tomorrow).",
   "forms": [
    {
     "da": "en premiere",
@@ -6424,7 +6492,7 @@
   }
  },
  "en presse": {
-  "explanation": "\"En presse\" means \"a press\", mostly the reporters and TV and radio stations: \"Pressen skriver om det\" (The press is writing about it). It is also a machine that squeezes things.",
+  "explanation": "\"En presse\" means \"a press\", as in the news media: \"Pressen skriver om det\" (The press is writing about it). A different meaning is a machine that squeezes things: \"en saftpresse\" (a juicer).",
   "forms": [
    {
     "da": "en presse",
@@ -6467,7 +6535,7 @@
   }
  },
  "en prik": {
-  "explanation": "\"En prik\" means \"a dot\", a small round mark. Something covered in dots is \"prikket\" (dotted), like a dress with polka dots.",
+  "explanation": "\"En prik\" means \"a dot\". The word for dotted is \"prikket\": \"en prikket kjole\" (a dotted dress).",
   "forms": [
    {
     "da": "en prik",
@@ -6510,7 +6578,7 @@
   }
  },
  "en prins": {
-  "explanation": "\"En prins\" means \"a prince\", a male member of a royal family who is not the king. In a title, it comes before the name: \"Prins Joachim er kongens bror\" (Prince Joachim is the king's brother).",
+  "explanation": "\"En prins\" means \"a prince\". When you use it as a title with a name, put it first: \"Prins Henrik var gift med dronning Margrethe\" (Prince Henrik was married to Queen Margrethe).",
   "forms": [
    {
     "da": "en prins",
@@ -6535,8 +6603,8 @@
     "en": "a princess"
    },
    {
-    "da": "en dronning",
-    "en": "a queen"
+    "da": "en konge",
+    "en": "a king"
    },
    {
     "da": "en kronprins",
@@ -6549,7 +6617,7 @@
   }
  },
  "en prinsesse": {
-  "explanation": "\"En prinsesse\" means \"a princess\", the daughter of a king or queen.",
+  "explanation": "\"En prinsesse\" means \"a princess\". It is the female form of \"en prins\" (a prince).",
   "forms": [
    {
     "da": "en prinsesse",
@@ -6570,16 +6638,16 @@
   ],
   "related": [
    {
-    "da": "en prins",
-    "en": "a prince"
-   },
-   {
     "da": "en dronning",
     "en": "a queen"
    },
    {
     "da": "en kronprinsesse",
     "en": "a crown princess"
+   },
+   {
+    "da": "en konge",
+    "en": "a king"
    }
   ],
   "sentence": {
@@ -6588,7 +6656,7 @@
   }
  },
  "en printer": {
-  "explanation": "\"En printer\" means \"a printer\", the machine that prints on paper.",
+  "explanation": "\"En printer\" means \"a printer\". To print a document, use the verb \"at printe\" (to print): \"Jeg printer dokumentet\" (I print the document).",
   "forms": [
    {
     "da": "en printer",
@@ -6609,16 +6677,16 @@
   ],
   "related": [
    {
-    "da": "at printe",
-    "en": "to print"
-   },
-   {
     "da": "en kopimaskine",
     "en": "a copier"
    },
    {
     "da": "en scanner",
     "en": "a scanner"
+   },
+   {
+    "da": "en blækpatron",
+    "en": "an ink cartridge"
    }
   ],
   "sentence": {
@@ -6627,7 +6695,7 @@
   }
  },
  "en prioritering": {
-  "explanation": "\"En prioritering\" means \"a prioritization\", the choice of what comes first and what must wait. You need one when money or time is short: \"Vi må lave en prioritering\" (We have to decide what comes first).",
+  "explanation": "\"En prioritering\" means \"a prioritization\". It comes from the verb \"at prioritere\" (to prioritize). To say you must choose what to do first, say: \"Vi må lave en prioritering\" (We have to make a prioritization).",
   "forms": [
    {
     "da": "en prioritering",
@@ -6652,10 +6720,6 @@
     "en": "a priority"
    },
    {
-    "da": "at prioritere",
-    "en": "to prioritize"
-   },
-   {
     "da": "en rækkefølge",
     "en": "an order"
    },
@@ -6670,7 +6734,7 @@
   }
  },
  "en prioritet": {
-  "explanation": "\"En prioritet\" means \"a priority\", what you decide matters most and do first. The verb \"at prioritere\" (to prioritize) means to choose what to put first.",
+  "explanation": "\"En prioritet\" means \"a priority\". It is built on the verb \"at prioritere\" (to prioritize). To say something matters a lot, use \"høj prioritet\" (high priority): \"Sikkerhed er en høj prioritet her\" (Safety is a high priority here).",
   "forms": [
    {
     "da": "en prioritet",
@@ -6691,16 +6755,12 @@
   ],
   "related": [
    {
+    "da": "en prioritering",
+    "en": "a prioritization"
+   },
+   {
     "da": "en rækkefølge",
     "en": "an order"
-   },
-   {
-    "da": "et valg",
-    "en": "a choice"
-   },
-   {
-    "da": "et behov",
-    "en": "a need"
    },
    {
     "da": "en hastesag",
@@ -6713,7 +6773,7 @@
   }
  },
  "en pris": {
-  "explanation": "\"En pris\" means \"a price\", what something costs: \"en pris på tyve kroner\" (a price of twenty crowns). It also means \"a prize\" or \"an award\": \"at vinde en pris\" (to win a prize). You can tell which one it is from the context of the sentence.",
+  "explanation": "\"En pris\" means \"a price\". To say what something costs, use \"på\" (of): \"en pris på tyve kroner\" (a price of twenty crowns). It also means \"a prize\" or \"an award\". To say you win one, use \"at vinde\" (to win): \"Hun vandt en pris\" (She won a prize).",
   "forms": [
    {
     "da": "en pris",
@@ -6752,7 +6812,7 @@
   }
  },
  "en prisforskel": {
-  "explanation": "\"En prisforskel\" means \"a price difference\", how much more one thing costs than another. It is built from pris (price) and forskel (difference). \"Forskel\" is also in the phrase \"Det gør ingen forskel\" (It makes no difference).",
+  "explanation": "\"En prisforskel\" means \"a price difference\". It is built from \"en pris\" (a price) and \"en forskel\" (a difference). \"Forskel\" is also in the phrase \"Det gør ingen forskel\" (It makes no difference).",
   "forms": [
    {
     "da": "en prisforskel",
@@ -6791,7 +6851,7 @@
   }
  },
  "en prisstigning": {
-  "explanation": "\"En prisstigning\" means \"a price increase\", when something costs more than before. It can be a rise for one product or for most prices in a country at once.",
+  "explanation": "\"En prisstigning\" means \"a price increase\". It is built from \"en pris\" (a price) and \"en stigning\" (a rise). The verb in it is \"at stige\" (to rise): \"Priserne stiger\" (Prices are rising).",
   "forms": [
    {
     "da": "en prisstigning",
@@ -6834,7 +6894,7 @@
   }
  },
  "en privatperson": {
-  "explanation": "\"En privatperson\" means \"a private individual\", a person acting for themselves, not for a company or an authority. Rules and prices are often different for \"privatpersoner\" (private individuals) and for companies.",
+  "explanation": "\"En privatperson\" means \"a private individual\". It is built from \"privat\" (private) and \"en person\" (a person). To say an offer is not for companies, use the plural: \"Tilbuddet er kun for privatpersoner\" (The offer is only for private individuals).",
   "forms": [
    {
     "da": "en privatperson",
@@ -6877,7 +6937,7 @@
   }
  },
  "en problemstilling": {
-  "explanation": "\"En problemstilling\" means \"an issue to address\", the specific matter that a project, report or school assignment sets out to look into and solve.",
+  "explanation": "\"En problemstilling\" means \"an issue\". The first part is \"et problem\" (a problem). To say a text looks at an issue closely, use \"at belyse\" (to shed light on): \"Rapporten belyser en vigtig problemstilling\" (The report sheds light on an important issue).",
   "forms": [
    {
     "da": "en problemstilling",
@@ -6906,10 +6966,6 @@
     "en": "a question"
    },
    {
-    "da": "et emne",
-    "en": "a topic"
-   },
-   {
     "da": "en problemformulering",
     "en": "a problem statement"
    }
@@ -6920,7 +6976,7 @@
   }
  },
  "en procedure": {
-  "explanation": "\"En procedure\" means \"a procedure\", a fixed way of doing something: \"Vi følger en procedure\" (We follow a procedure). For something that changes over time, use \"en proces\" (a process): \"Det er en lang proces\" (It is a long process).",
+  "explanation": "\"En procedure\" means \"a procedure\". To say you follow the steps, use \"at følge\" (to follow): \"Vi følger en procedure\" (We follow a procedure). Do not mix it up with \"en proces\" (a process): \"Det er en lang proces\" (It is a long process).",
   "forms": [
    {
     "da": "en procedure",
@@ -6959,7 +7015,7 @@
   }
  },
  "en procent": {
-  "explanation": "\"En procent\" means \"a percent\". With a number it stays \"procent\": \"tre procent\" (three percent).",
+  "explanation": "\"En procent\" means \"a percent\". When you say a number before it, \"procent\" stays the same: \"tre procent\" (three percent). To say you are completely sure, say: \"Jeg er hundrede procent sikker\" (I am one hundred percent sure).",
   "forms": [
    {
     "da": "en procent",
@@ -7002,7 +7058,7 @@
   }
  },
  "en proces": {
-  "explanation": "\"En proces\" means \"a process\", a series of changes over time. A fixed set of rules for doing something is \"en procedure\" (a procedure).",
+  "explanation": "\"En proces\" means \"a process\". To say you start one, use \"at sætte i gang\" (to start): \"Vi sætter en proces i gang\" (We start a process). Do not mix it up with \"en procedure\" (a procedure): \"Vi følger en procedure\" (We follow a procedure).",
   "forms": [
    {
     "da": "en proces",
@@ -7045,7 +7101,7 @@
   }
  },
  "en producer": {
-  "explanation": "\"En producer\" means \"a producer\" of a film, TV show or music. For a company that makes goods, Danes say \"en producent\" (a manufacturer).",
+  "explanation": "\"En producer\" means \"a producer\", as in film, TV or music. For a company that makes goods, use \"en producent\" (a manufacturer): \"Producenten sælger varer til butikkerne\" (The manufacturer sells goods to the shops).",
   "forms": [
    {
     "da": "en producer",
@@ -7084,7 +7140,7 @@
   }
  },
  "en professor": {
-  "explanation": "\"En professor\" means \"a professor\", a senior teacher at a university. A teacher at a normal school is \"en lærer\" (a teacher).",
+  "explanation": "\"En professor\" means \"a professor\". For a teacher at a normal school, use \"en lærer\" (a teacher): \"Min lærer hedder Anna\" (My teacher is called Anna).",
   "forms": [
    {
     "da": "en professor",
@@ -7123,7 +7179,7 @@
   }
  },
  "en profil": {
-  "explanation": "\"En profil\" means \"a profile\", your own page with your name and photo on a website or app. It can also mean a side view of a face: \"Fotoet viser hende i profil\" (The photo shows her in profile).",
+  "explanation": "\"En profil\" means \"a profile\", as in your page on a website or app. To describe a side view of a face, use \"i profil\" (in profile): \"Fotoet viser hende i profil\" (The photo shows her in profile).",
   "forms": [
    {
     "da": "en profil",
@@ -7162,7 +7218,7 @@
   }
  },
  "en programmør": {
-  "explanation": "\"En programmør\" means \"a programmer\", someone who writes computer code. You use it for a man or a woman: \"Han er programmør\" (He is a programmer), \"Hun er programmør\" (She is a programmer).",
+  "explanation": "\"En programmør\" means \"a programmer\". It comes from \"et program\" (a program). To say what someone's job is, leave out the article: \"Hun er programmør\" (She is a programmer).",
   "forms": [
    {
     "da": "en programmør",
@@ -7183,16 +7239,16 @@
   ],
   "related": [
    {
-    "da": "et program",
-    "en": "a program"
-   },
-   {
     "da": "en udvikler",
     "en": "a developer"
    },
    {
     "da": "en ingeniør",
     "en": "an engineer"
+   },
+   {
+    "da": "at programmere",
+    "en": "to program"
    }
   ],
   "sentence": {
@@ -7201,7 +7257,7 @@
   }
  },
  "en projektleder": {
-  "explanation": "\"En projektleder\" means \"a project manager\", the person who plans a project, divides the work and makes sure it is finished on time.",
+  "explanation": "\"En projektleder\" means \"a project manager\". It is built from \"et projekt\" (a project) and \"en leder\" (a leader). The ending \"-leder\" is also in \"en afdelingsleder\" (a department manager).",
   "forms": [
    {
     "da": "en projektleder",
@@ -7232,10 +7288,6 @@
    {
     "da": "en koordinator",
     "en": "a coordinator"
-   },
-   {
-    "da": "en tidsplan",
-    "en": "a schedule"
    }
   ],
   "sentence": {
@@ -7244,7 +7296,7 @@
   }
  },
  "en proptrækker": {
-  "explanation": "\"En proptrækker\" means \"a corkscrew\". It is built from prop (cork) and trække (to pull), so it pulls the cork out. \"Prop\" also means \"a plug\", as in \"en trafikprop\" (a traffic jam).",
+  "explanation": "\"En proptrækker\" means \"a corkscrew\". It is built from \"en prop\" (a cork) and \"at trække\" (to pull). A different use of \"prop\" is a blockage: \"Der er en trafikprop\" (There is a traffic jam).",
   "forms": [
    {
     "da": "en proptrækker",
@@ -7283,7 +7335,7 @@
   }
  },
  "en protest": {
-  "explanation": "\"En protest\" means \"a protest\", a public way of showing that you disagree with a decision. It can be a big march in the street or just a letter.",
+  "explanation": "\"En protest\" means \"a protest\". The verb is \"at protestere\" (to protest): \"Eleverne protesterer mod reglen\" (The students protest against the rule).",
   "forms": [
    {
     "da": "en protest",
@@ -7326,7 +7378,7 @@
   }
  },
  "en præmie": {
-  "explanation": "\"En præmie\" means \"a prize\", something you get for winning. It also means the amount you pay for insurance (a premium): \"Præmien er tusind kroner om året\" (The premium is a thousand kroner a year).",
+  "explanation": "\"En præmie\" means \"a prize\". For the amount you pay for insurance, it means \"a premium\": \"Præmien er tusind kroner om året\" (The premium is a thousand kroner a year).",
   "forms": [
    {
     "da": "en præmie",
@@ -7357,10 +7409,6 @@
    {
     "da": "en pokal",
     "en": "a trophy"
-   },
-   {
-    "da": "en vinder",
-    "en": "a winner"
    }
   ],
   "sentence": {
@@ -7369,7 +7417,7 @@
   }
  },
  "en præsentation": {
-  "explanation": "\"En præsentation\" means \"a presentation\", a talk given to an audience, usually with slides. The verb that goes with it is \"at holde\" (to hold): \"Chefen holder en præsentation\" (The boss gives a presentation).",
+  "explanation": "\"En præsentation\" means \"a presentation\". It comes from the verb \"at præsentere\" (to present). To say you prepare one, use \"at lave\" (to make): \"Jeg laver en præsentation til kunden\" (I make a presentation for the customer).",
   "forms": [
    {
     "da": "en præsentation",
@@ -7398,10 +7446,6 @@
     "en": "a talk"
    },
    {
-    "da": "at præsentere",
-    "en": "to present"
-   },
-   {
     "da": "et møde",
     "en": "a meeting"
    }
@@ -7412,7 +7456,7 @@
   }
  },
  "en præsident": {
-  "explanation": "\"En præsident\" means \"a president\", the head of a country, or of a club or an organization.",
+  "explanation": "\"En præsident\" means \"a president\". Denmark has no president, because its head of state is the king.",
   "forms": [
    {
     "da": "en præsident",
@@ -7437,10 +7481,6 @@
     "en": "a prime minister"
    },
    {
-    "da": "en leder",
-    "en": "a leader"
-   },
-   {
     "da": "et valg",
     "en": "an election"
    },
@@ -7455,7 +7495,7 @@
   }
  },
  "en præst": {
-  "explanation": "\"En præst\" means \"a priest\", and in Denmark it is also the normal word for a church minister. You use it for a man or a woman: \"Hun er præst i Roskilde\" (She is a priest in Roskilde).",
+  "explanation": "\"En præst\" means \"a priest\". In Denmark it is also the word for a minister in the Church of Denmark. To say what someone's job is, leave out the article: \"Hun er præst i Roskilde\" (She is a priest in Roskilde).",
   "forms": [
    {
     "da": "en præst",
@@ -7494,7 +7534,7 @@
   }
  },
  "en præstation": {
-  "explanation": "\"En præstation\" means \"a performance\", how well someone does or what they achieve in sports, at work or at school. A show on a stage is \"en forestilling\" (a show), not \"en præstation\".",
+  "explanation": "\"En præstation\" means \"a performance\", as in how well someone does. For a show on a stage, use \"en forestilling\" (a show): \"Vi ser en forestilling i teatret\" (We see a show at the theater).",
   "forms": [
    {
     "da": "en præstation",
@@ -7525,10 +7565,6 @@
    {
     "da": "en bedrift",
     "en": "a feat"
-   },
-   {
-    "da": "en rekord",
-    "en": "a record"
    }
   ],
   "sentence": {
@@ -7537,7 +7573,7 @@
   }
  },
  "en prøve": {
-  "explanation": "\"En prøve\" means \"a test\" or \"a quiz\": \"Vi har en prøve i matematik\" (We have a test in math). It also means \"a sample\", as in \"en prøve af osten\" (a sample of the cheese).",
+  "explanation": "\"En prøve\" means \"a test or a sample\". When you talk about school, it means \"a test\": \"Vi har en prøve i matematik\" (We have a test in math). When you talk about a small bit to try, it means \"a sample\": \"en prøve af osten\" (a sample of the cheese).",
   "forms": [
    {
     "da": "en prøve",
@@ -7576,7 +7612,7 @@
   }
  },
  "en prøvetid": {
-  "explanation": "\"En prøvetid\" means \"a probation period\", the first weeks or months of a new job, when either side can end the job on short notice.",
+  "explanation": "\"En prøvetid\" means \"a probation period\". It is built from \"en prøve\" (a test) and \"en tid\" (a time). To say you are still in it, use \"at være i\" (to be in): \"Jeg er stadig i prøvetid\" (I am still on probation).",
   "forms": [
    {
     "da": "en prøvetid",
@@ -7619,7 +7655,7 @@
   }
  },
  "en psykiater": {
-  "explanation": "\"En psykiater\" means \"a psychiatrist\". Do not mix it up with \"en psykolog\" (a psychologist): a psychiatrist is a medical doctor who can prescribe medicine, and a psychologist is not.",
+  "explanation": "\"En psykiater\" means \"a psychiatrist\". To say you are going to see one, say: \"Jeg skal til psykiater\" (I am going to see a psychiatrist). Do not mix it up with \"en psykolog\" (a psychologist), who is not a medical doctor: \"Jeg skal til psykolog\" (I am going to see a psychologist).",
   "forms": [
    {
     "da": "en psykiater",
@@ -7662,7 +7698,7 @@
   }
  },
  "en psykolog": {
-  "explanation": "\"En psykolog\" means \"a psychologist\", someone you talk to about feelings and worries: \"Jeg skal til psykolog\" (I am going to see a psychologist). \"En psykiater\" (a psychiatrist) is a medical doctor who can also prescribe medicine.",
+  "explanation": "\"En psykolog\" means \"a psychologist\". To say you are going to see one, say: \"Jeg skal til psykolog\" (I am going to see a psychologist). Do not mix it up with \"en psykiater\" (a psychiatrist), who is a medical doctor: \"Jeg skal til psykiater\" (I am going to see a psychiatrist).",
   "forms": [
    {
     "da": "en psykolog",
@@ -7705,7 +7741,7 @@
   }
  },
  "en psykopat": {
-  "explanation": "\"En psykopat\" means \"a psychopath\", a person who feels no sympathy and does not care about hurting others. In everyday speech people also use it as a harsh word for someone who behaves wildly: \"Han kørte som en psykopat\" (He drove like a maniac).",
+  "explanation": "\"En psykopat\" means \"a psychopath\". It is also used as a harsh word for someone who behaves wildly: \"Han kørte som en psykopat\" (He drove like a maniac).",
   "forms": [
    {
     "da": "en psykopat",
@@ -7748,7 +7784,7 @@
   }
  },
  "en publikation": {
-  "explanation": "\"En publikation\" means \"a publication\", a text that has been officially published, such as a book, a report or a scientific paper. Do not mix it up with \"publikum\" (audience), which is the people watching: \"Publikum klappede\" (The audience clapped).",
+  "explanation": "\"En publikation\" means \"a publication\". Do not mix it up with \"publikum\" (audience): \"Publikum klappede\" (The audience clapped), but \"Forskeren læser en publikation\" (The researcher reads a publication).",
   "forms": [
    {
     "da": "en publikation",
@@ -7791,7 +7827,7 @@
   }
  },
  "en pude": {
-  "explanation": "\"En pude\" means \"a pillow\" or \"a cushion\", for example on a sofa. A bed pillow can be called \"en hovedpude\" (literally a head pillow).",
+  "explanation": "\"En pude\" means \"a pillow\". To talk about a soft cushion for a sofa, it means \"a cushion\": \"Der ligger en pude i sofaen\" (There is a cushion on the sofa). A pillow for your head is also \"en hovedpude\" (literally, a head pillow).",
   "forms": [
    {
     "da": "en pude",
@@ -7830,7 +7866,7 @@
   }
  },
  "en puls": {
-  "explanation": "\"En puls\" means \"a pulse\", the beat of your heart that you can feel on your wrist or neck.",
+  "explanation": "\"En puls\" means \"a pulse\". To say someone checks it, use \"at måle\" (to measure): \"Lægen måler min puls\" (The doctor measures my pulse).",
   "forms": [
    {
     "da": "en puls",
@@ -7873,7 +7909,7 @@
   }
  },
  "en pung": {
-  "explanation": "\"En pung\" means \"a wallet\". \"En tegnebog\" (a wallet) means the same, but \"pung\" is the word people use in daily speech.",
+  "explanation": "\"En pung\" means \"a wallet\". To say you have to pay a lot, use the phrase \"at punge ud\" (to pay up): \"Vi måtte punge ud for en ny bil\" (We had to pay up for a new car).",
   "forms": [
    {
     "da": "en pung",
@@ -7894,12 +7930,12 @@
   ],
   "related": [
    {
-    "da": "en portemonnæ",
-    "en": "a coin purse"
+    "da": "en tegnebog",
+    "en": "a wallet"
    },
    {
-    "da": "en taske",
-    "en": "a bag"
+    "da": "en portemonnæ",
+    "en": "a coin purse"
    },
    {
     "da": "en lomme",
@@ -7912,7 +7948,7 @@
   }
  },
  "en punktering": {
-  "explanation": "\"En punktering\" means \"a flat tire\" or \"a puncture\", a hole in a bike or car tire that lets the air out.",
+  "explanation": "\"En punktering\" means \"a flat tire or a puncture\". To say a tire gets a hole, use the verb \"at punktere\" (to puncture): \"Min cykel punkterede\" (My bike got a flat tire).",
   "forms": [
    {
     "da": "en punktering",
@@ -7937,10 +7973,6 @@
     "en": "a tire"
    },
    {
-    "da": "at punktere",
-    "en": "to puncture"
-   },
-   {
     "da": "en cykelslange",
     "en": "an inner tube"
    },
@@ -7955,7 +7987,7 @@
   }
  },
  "en pyjamas": {
-  "explanation": "\"En pyjamas\" means \"a pair of pajamas\". Danes say \"en pyjamas\" (literally, \"a pajamas\") where English says \"a pair of pajamas\": \"Jeg har en ny pyjamas\" (I have new pajamas).",
+  "explanation": "\"En pyjamas\" means \"a pair of pajamas\". Danish counts it as one thing, so it takes \"en\": \"Jeg har fået en ny pyjamas\" (I got a new pair of pajamas). English speakers spell \"pajamas\" with \"a\", but the Danish word is spelled with \"y\".",
   "forms": [
    {
     "da": "en pyjamas",
@@ -7994,7 +8026,7 @@
   }
  },
  "en pyt": {
-  "explanation": "\"En pyt\" means \"a puddle\", a small amount of water lying on the ground after rain. The same spelling is also the very common Danish word \"Pyt!\" (Never mind!), but that one has no \"en\" in front.",
+  "explanation": "\"En pyt\" means \"a puddle\". To say \"never mind\", use the word \"Pyt!\" without \"en\": \"Pyt, det gør ikke noget\" (Never mind, it does not matter).",
   "forms": [
    {
     "da": "en pyt",
@@ -8020,15 +8052,11 @@
    },
    {
     "da": "en pøl",
-    "en": "a pool"
+    "en": "a puddle"
    },
    {
     "da": "en dam",
     "en": "a pond"
-   },
-   {
-    "da": "mudder",
-    "en": "mud"
    }
   ],
   "sentence": {
@@ -8037,7 +8065,7 @@
   }
  },
  "en påskeferie": {
-  "explanation": "\"En påskeferie\" means \"an Easter vacation\", the days off around Easter. Schools in Denmark close at that time, and many families travel.",
+  "explanation": "\"En påskeferie\" means \"an Easter vacation\". It is built from \"påske\" (Easter) and \"en ferie\" (a vacation). To wish someone a happy holiday, say: \"Glædelig påske!\" (Happy Easter!).",
   "forms": [
    {
     "da": "en påskeferie",
@@ -8080,7 +8108,7 @@
   }
  },
  "en påskefrokost": {
-  "explanation": "\"En påskefrokost\" means \"an Easter lunch\", a long lunch with family or friends, like \"en julefrokost\" (a Christmas lunch) but in spring. A special beer, \"påskebryg\" (Easter beer), is sold for it.",
+  "explanation": "\"En påskefrokost\" means \"an Easter lunch\". It is built from \"påske\" (Easter) and \"en frokost\" (a lunch), like \"en julefrokost\" (a Christmas lunch). In Denmark, a special beer called \"påskebryg\" (Easter brew) is sold for this season.",
   "forms": [
    {
     "da": "en påskefrokost",
@@ -8123,7 +8151,7 @@
   }
  },
  "en påstand": {
-  "explanation": "\"En påstand\" means \"a claim\", something said to be true, often without anything to back it up. When you call something \"en påstand\", you often doubt it: \"Det er kun en påstand\" (It is only a claim).",
+  "explanation": "\"En påstand\" means \"a claim\". To say something has not been proven, say: \"Det er kun en påstand\" (It is only a claim).",
   "forms": [
    {
     "da": "en påstand",
@@ -8166,7 +8194,7 @@
   }
  },
  "en påvirkning": {
-  "explanation": "\"En påvirkning\" means \"an influence\", the way something changes how a person or thing acts or feels. It is also used for being drunk: \"kørsel under påvirkning\" (driving under the influence).",
+  "explanation": "\"En påvirkning\" means \"an influence\". It comes from the verb \"at påvirke\" (to affect). For being drunk, it is used in \"kørsel under påvirkning\" (driving under the influence).",
   "forms": [
    {
     "da": "en påvirkning",
@@ -8187,10 +8215,6 @@
   ],
   "related": [
    {
-    "da": "at påvirke",
-    "en": "to affect"
-   },
-   {
     "da": "en effekt",
     "en": "an effect"
    },
@@ -8199,8 +8223,8 @@
     "en": "a consequence"
    },
    {
-    "da": "en følge",
-    "en": "a result"
+    "da": "en indflydelse",
+    "en": "an influence"
    }
   ],
   "sentence": {
@@ -8209,7 +8233,7 @@
   }
  },
  "en pædagog": {
-  "explanation": "\"En pædagog\" means \"a daycare worker\", someone who looks after and teaches children and young people outside of school.",
+  "explanation": "\"En pædagog\" means \"a daycare worker\". In Denmark, \"en pædagog\" also works with children after school hours in \"en SFO\" (an after-school program).",
   "forms": [
    {
     "da": "en pædagog",
@@ -8252,7 +8276,7 @@
   }
  },
  "en pære": {
-  "explanation": "\"En pære\" means \"a pear\" and also \"a light bulb\". You can tell which one it is from the context of the sentence: \"en saftig pære\" (a juicy pear) is fruit, while \"en ny pære til lampen\" (a new bulb for the lamp) is a light bulb.",
+  "explanation": "\"En pære\" means \"a pear\". When you talk about a lamp, it also means \"a light bulb\": \"en ny pære til lampen\" (a new bulb for the lamp).",
   "forms": [
    {
     "da": "en pære",
@@ -8291,7 +8315,7 @@
   }
  },
  "en pølse": {
-  "explanation": "\"En pølse\" means \"a sausage\". In Danish, a hot dog is \"en hotdog\" or \"en pølse i brød\" (a sausage in bread), and a street stand that sells them is \"en pølsevogn\" (a hot dog stand).",
+  "explanation": "\"En pølse\" means \"a sausage\". To order a hot dog, say: \"Jeg vil gerne have en hotdog\" (I would like a hot dog). A street stand that sells them is \"en pølsevogn\" (a hot dog stand).",
   "forms": [
    {
     "da": "en pølse",
@@ -8330,7 +8354,7 @@
   }
  },
  "en pølsevogn": {
-  "explanation": "\"En pølsevogn\" means \"a hot dog stand\", a small food wagon on the street that sells hot dogs. It is built from pølse (sausage) and vogn (wagon). \"Vogn\" is also in \"en indkøbsvogn\" (a shopping cart) and \"en barnevogn\" (a stroller).",
+  "explanation": "\"En pølsevogn\" means \"a hot dog stand\". It is built from \"en pølse\" (a sausage) and \"en vogn\" (a wagon). \"Vogn\" is also in \"en indkøbsvogn\" (a shopping cart) and \"en barnevogn\" (a stroller).",
   "forms": [
    {
     "da": "en pølsevogn",
@@ -8369,7 +8393,7 @@
   }
  },
  "et palads": {
-  "explanation": "\"Et palads\" means \"a palace\", a very large, grand building where a ruler lives. Danish also has \"et slot\" (a castle), the word used for royal homes like Amalienborg Slot.",
+  "explanation": "\"Et palads\" means \"a palace\". To talk about a palace in a story, say: \"Prinsessen bor i et palads\" (The princess lives in a palace). Do not mix it up with \"et slot\" (a castle).",
   "forms": [
    {
     "da": "et palads",
@@ -8412,7 +8436,7 @@
   }
  },
  "et par": {
-  "explanation": "\"Et par\" means \"a pair\" or \"a couple\", as in \"et par sko\" (a pair of shoes). It also means \"a few\": \"et par dage\" means \"a couple of days\". Two people in a relationship are also \"et par\" (a couple).",
+  "explanation": "\"Et par\" means \"a couple or a pair\". To talk about two things that belong together, say: \"et par sko\" (a pair of shoes). To say a small number, put it before a noun: \"et par dage\" (a couple of days). To talk about two people in a relationship, say: \"De er et sødt par\" (They are a sweet couple).",
   "forms": [
    {
     "da": "et par",
@@ -8451,7 +8475,7 @@
   }
  },
  "et par jeans": {
-  "explanation": "\"Et par jeans\" means \"a pair of jeans\". You can also just say \"jeans\": \"Jeg har jeans på\" means \"I am wearing jeans\".",
+  "explanation": "\"Et par jeans\" means \"a pair of jeans\". To say what colour they are, put the colour after \"et par\": \"et par sorte jeans\" (a pair of black jeans). To say you are wearing jeans, leave out \"et par\": \"Jeg har jeans på\" (I am wearing jeans).",
   "forms": [
    {
     "da": "et par jeans",
@@ -8468,12 +8492,12 @@
   ],
   "related": [
    {
-    "da": "bukser",
-    "en": "pants"
+    "da": "cowboybukser",
+    "en": "jeans"
    },
    {
-    "da": "et par sko",
-    "en": "a pair of shoes"
+    "da": "bukser",
+    "en": "pants"
    },
    {
     "da": "shorts",
@@ -8486,7 +8510,7 @@
   }
  },
  "et paradis": {
-  "explanation": "\"Et paradis\" means \"a paradise\", a perfect place of happiness. In religion, it is where good people go after death. In everyday speech, it is any wonderful place: \"Stranden er et paradis for børn\" (The beach is a paradise for children).",
+  "explanation": "\"Et paradis\" means \"a paradise\". To say a place is a paradise for a certain group, use \"for\": \"et paradis for børn\" (a paradise for children).",
   "forms": [
    {
     "da": "et paradis",
@@ -8529,7 +8553,7 @@
   }
  },
  "et paraplystativ": {
-  "explanation": "\"Et paraplystativ\" means \"an umbrella stand\", a holder by the door for wet umbrellas. It is built from paraply (umbrella) and stativ (stand).",
+  "explanation": "\"Et paraplystativ\" means \"an umbrella stand\". It is built from \"en paraply\" (an umbrella) and \"et stativ\" (a stand).",
   "forms": [
    {
     "da": "et paraplystativ",
@@ -8558,8 +8582,8 @@
     "en": "a hook"
    },
    {
-    "da": "et skostativ",
-    "en": "a shoe rack"
+    "da": "en entré",
+    "en": "an entrance hall"
    },
    {
     "da": "en garderobe",
@@ -8572,7 +8596,7 @@
   }
  },
  "et parkeringshus": {
-  "explanation": "\"Et parkeringshus\" means \"a parking garage\", a building with several floors for cars. It is built from at parkere (to park) and et hus (a house).",
+  "explanation": "\"Et parkeringshus\" means \"a parking garage\". It is built from \"en parkering\" (parking) and \"et hus\" (a house).",
   "forms": [
    {
     "da": "et parkeringshus",
@@ -8611,7 +8635,7 @@
   }
  },
  "et parti": {
-  "explanation": "\"Et parti\" means \"a political party\", a group with shared political goals that runs in elections. It also means one game of chess or cards: \"Vi spiller et parti skak\" (We are playing a game of chess). For a party with food and music, use \"en fest\" (a party).",
+  "explanation": "\"Et parti\" means \"a party\", as in a political party. To talk about one game of chess, use it for a game: \"Vi spiller et parti skak\" (We are playing a game of chess). For a party with food and music, use \"en fest\" (a party): \"Vi holder fest i morgen\" (We are having a party tomorrow).",
   "forms": [
    {
     "da": "et parti",
@@ -8654,7 +8678,7 @@
   }
  },
  "et pas": {
-  "explanation": "\"Et pas\" means \"a passport\", the document you show at the border. Do not mix it up with \"at passe\" (to fit, to look after): \"Skoen passer\" (The shoe fits).",
+  "explanation": "\"Et pas\" means \"a passport\". To ask to see one, say: \"Må jeg se dit pas?\" (May I see your passport?). Do not mix it up with \"at passe\" (to fit): \"Skoen passer\" (The shoe fits).",
   "forms": [
    {
     "da": "et pas",
@@ -8689,7 +8713,7 @@
   }
  },
  "et pasfoto": {
-  "explanation": "\"Et pasfoto\" means \"a passport photo\", a small picture for your passport or ID. It is built from pas (passport) and foto (photo), and \"foto\" also appears in \"et fotoalbum\" (a photo album).",
+  "explanation": "\"Et pasfoto\" means \"a passport photo\". It is built from \"et pas\" (a passport) and \"et foto\" (a photo). \"Foto\" is also in \"et fotoalbum\" (a photo album).",
   "forms": [
    {
     "da": "et pasfoto",
@@ -8714,8 +8738,8 @@
     "en": "a driver's license"
    },
    {
-    "da": "en fotoautomat",
-    "en": "a photo booth"
+    "da": "et fotografi",
+    "en": "a photograph"
    },
    {
     "da": "et ID-kort",
@@ -8728,7 +8752,7 @@
   }
  },
  "et penalhus": {
-  "explanation": "\"Et penalhus\" means \"a pencil case\", a small case for pens and pencils at school.",
+  "explanation": "\"Et penalhus\" means \"a pencil case\". It ends in \"hus\" (house), as in \"et parkeringshus\" (a parking garage).",
   "forms": [
    {
     "da": "et penalhus",
@@ -8771,7 +8795,7 @@
   }
  },
  "et pengeskab": {
-  "explanation": "\"Et pengeskab\" means \"a safe\", a strong locked box for money, passports and other valuables. Many hotel rooms have one, and you open it with a code.",
+  "explanation": "\"Et pengeskab\" means \"a safe\". It is built from \"penge\" (money) and \"et skab\" (a cupboard). \"Skab\" is also in \"et køleskab\" (a refrigerator).",
   "forms": [
    {
     "da": "et pengeskab",
@@ -8814,7 +8838,7 @@
   }
  },
  "et pensum": {
-  "explanation": "\"Et pensum\" means \"a syllabus\", all the material students must learn for a course. Something that will not be tested is \"ikke på pensum\" (not on the syllabus).",
+  "explanation": "\"Et pensum\" means \"a syllabus\". To say something is not part of the course material, use \"ikke på pensum\" (not on the syllabus): \"Det kapitel er ikke på pensum\" (That chapter is not on the syllabus).",
   "forms": [
    {
     "da": "et pensum",
@@ -8843,8 +8867,8 @@
     "en": "a piece of homework"
    },
    {
-    "da": "en læseliste",
-    "en": "a reading list"
+    "da": "en bog",
+    "en": "a book"
    },
    {
     "da": "en lærebog",
@@ -8857,7 +8881,7 @@
   }
  },
  "et personalemøde": {
-  "explanation": "\"Et personalemøde\" means \"a staff meeting\", a meeting where everyone who works at a place gathers to share news and decide practical things. The first part, \"personale\", means the staff.",
+  "explanation": "\"Et personalemøde\" means \"a staff meeting\". It is built from \"personale\" (staff) and \"et møde\" (a meeting). \"Møde\" is also in \"et forældremøde\" (a parents' meeting).",
   "forms": [
    {
     "da": "et personalemøde",
@@ -8900,7 +8924,7 @@
   }
  },
  "et perspektiv": {
-  "explanation": "\"Et perspektiv\" means \"a perspective\", a particular way of seeing something: \"Det er et interessant perspektiv\" (That is an interesting perspective). In drawing, it is also the way lines make a flat picture look deep.",
+  "explanation": "\"Et perspektiv\" means \"a perspective\". To say someone's view is interesting, say: \"Det er et interessant perspektiv\" (That is an interesting perspective). In drawing, it means making a flat picture look deep: \"Tegn huset i perspektiv\" (Draw the house in perspective).",
   "forms": [
    {
     "da": "et perspektiv",
@@ -8943,7 +8967,7 @@
   }
  },
  "et pindsvin": {
-  "explanation": "\"Et pindsvin\" means \"a hedgehog\", a small, round animal that sleeps through the winter and often lives in gardens. It is built from the words for stick and hog, so it is literally a stick hog.",
+  "explanation": "\"Et pindsvin\" means \"a hedgehog\". Literally, it is a \"stick hog\".",
   "forms": [
    {
     "da": "et pindsvin",
@@ -8982,7 +9006,7 @@
   }
  },
  "et piskeris": {
-  "explanation": "\"Et piskeris\" means \"a whisk\", a kitchen tool of wire loops. It is built from at piske (to whip) and ris (twigs).",
+  "explanation": "\"Et piskeris\" means \"a whisk\". It is built from \"at piske\" (to whip) and \"ris\" (twigs).",
   "forms": [
    {
     "da": "et piskeris",
@@ -9021,7 +9045,7 @@
   }
  },
  "et plaster": {
-  "explanation": "\"Et plaster\" means \"a band-aid\", a small sticky bandage for a cut.",
+  "explanation": "\"Et plaster\" means \"a band-aid\". To talk about a pack of band-aids, use the plural form \"plastre\": \"en pakke plastre\" (a pack of band-aids).",
   "forms": [
    {
     "da": "et plaster",
@@ -9060,7 +9084,7 @@
   }
  },
  "et plejebarn": {
-  "explanation": "\"Et plejebarn\" means \"a foster child\", a child who lives with another family because the child's own parents cannot look after it. Unlike \"et adoptivbarn\" (an adopted child), a foster child does not become the legal child of the new family.",
+  "explanation": "\"Et plejebarn\" means \"a foster child\". It is built from \"pleje\" (care) and \"et barn\" (a child). Do not mix it up with \"et adoptivbarn\" (an adopted child): \"De har et adoptivbarn fra Kina\" (They have an adopted child from China).",
   "forms": [
    {
     "da": "et plejebarn",
@@ -9085,8 +9109,8 @@
     "en": "a foster family"
    },
    {
-    "da": "et fosterhjem",
-    "en": "a foster home"
+    "da": "et hjem",
+    "en": "a home"
    },
    {
     "da": "en adoption",
@@ -9103,7 +9127,7 @@
   }
  },
  "et point": {
-  "explanation": "\"Et point\" means \"a point\" in a game or test. A point in a discussion is \"en pointe\" (a point made in an argument): \"Det var en god pointe\" (That was a good point).",
+  "explanation": "\"Et point\" means \"a point\", as in a game or test. To say how many you scored, say: \"Hun fik ti point\" (She got ten points). To make a point in an argument, use \"en pointe\": \"Det var en god pointe\" (That was a good point).",
   "forms": [
    {
     "da": "et point",
@@ -9146,7 +9170,7 @@
   }
  },
  "et postbud": {
-  "explanation": "\"Et postbud\" means \"a mail carrier\", the person who brings letters to your home. You will also hear \"en postmand\" (a mailman).",
+  "explanation": "\"Et postbud\" means \"a mail carrier\". It is built from \"post\" (mail) and \"et bud\" (a messenger).",
   "forms": [
    {
     "da": "et postbud",
@@ -9189,7 +9213,7 @@
   }
  },
  "et posthus": {
-  "explanation": "\"Et posthus\" means \"a post office\", the place you go to send and pick up mail. It is built from post (mail) and hus (house).",
+  "explanation": "\"Et posthus\" means \"a post office\". It is built from \"post\" (mail) and \"et hus\" (a house). To say you are going there, say: \"Jeg skal på posthuset\" (I am going to the post office).",
   "forms": [
    {
     "da": "et posthus",
@@ -9232,7 +9256,7 @@
   }
  },
  "et postkontor": {
-  "explanation": "\"Et postkontor\" means \"a post office\", where you send letters and packages. It is built from post (mail) and kontor (office). You may also hear \"et posthus\" (a post office), which means the same.",
+  "explanation": "\"Et postkontor\" means \"a post office\". It is built from \"post\" (mail) and \"et kontor\" (an office). To say you are going there, say: \"Jeg skal på postkontoret\" (I am going to the post office).",
   "forms": [
    {
     "da": "et postkontor",
@@ -9271,7 +9295,7 @@
   }
  },
  "et postkort": {
-  "explanation": "\"Et postkort\" means \"a postcard\", a card you send by mail. It is built from post (mail) and kort (card).",
+  "explanation": "\"Et postkort\" means \"a postcard\". It is built from \"post\" (mail) and \"et kort\" (a card). \"Kort\" is also in \"et kreditkort\" (a credit card).",
   "forms": [
    {
     "da": "et postkort",
@@ -9310,7 +9334,7 @@
   }
  },
  "et postnummer": {
-  "explanation": "\"Et postnummer\" means \"a postal code\", the four digits of a Danish address: \"2100 København Ø\" (2100 Copenhagen Ø). It comes before the town and after the street and house number.",
+  "explanation": "\"Et postnummer\" means \"a postal code\". It is built from \"post\" (mail) and \"et nummer\" (a number). To write a Danish address, put the four-digit postal code before the town: \"2100 København Ø\" (2100 Copenhagen Ø).",
   "forms": [
    {
     "da": "et postnummer",
@@ -9353,7 +9377,7 @@
   }
  },
  "et potentiale": {
-  "explanation": "\"Et potentiale\" means \"a potential\", what someone or something could become with time and effort. It is often used without \"et\": \"Der er potentiale i idéen\" (There is potential in the idea).",
+  "explanation": "\"Et potentiale\" means \"a potential\". To say something has potential in general, leave out \"et\": \"Der er potentiale i idéen\" (There is potential in the idea).",
   "forms": [
    {
     "da": "et potentiale",
@@ -9396,7 +9420,7 @@
   }
  },
  "et princip": {
-  "explanation": "\"Et princip\" means \"a principle\", a basic belief that guides your decisions. Two set phrases are worth knowing: \"af princip\" (on principle), as in \"Jeg spiser ikke kød af princip\" (I do not eat meat on principle), and \"i princip\" (in principle), as in \"I princip kan alle komme\" (In principle, anyone can come).",
+  "explanation": "\"Et princip\" means \"a principle\". To say you do something because of your beliefs, use \"af princip\" (on principle): \"Jeg spiser ikke kød af princip\" (I do not eat meat on principle). To say something is true in theory, use \"i princip\" (in principle): \"I princip kan alle komme\" (In principle, anyone can come).",
   "forms": [
    {
     "da": "et princip",
@@ -9439,7 +9463,7 @@
   }
  },
  "et prisfald": {
-  "explanation": "\"Et prisfald\" means \"a price drop\", when something becomes cheaper. It is built from pris (price) and fald (fall).",
+  "explanation": "\"Et prisfald\" means \"a price drop\". It is built from \"en pris\" (a price) and \"et fald\" (a fall). \"Fald\" is also in \"et snefald\" (a snowfall).",
   "forms": [
    {
     "da": "et prisfald",
@@ -9482,7 +9506,7 @@
   }
  },
  "et prisskilt": {
-  "explanation": "\"Et prisskilt\" means \"a price tag\", the small sign or label that shows what something costs. It is built from pris (price) and skilt (sign).",
+  "explanation": "\"Et prisskilt\" means \"a price tag\". It is built from \"en pris\" (a price) and \"et skilt\" (a sign). \"Skilt\" is also in \"et gadeskilt\" (a street sign).",
   "forms": [
    {
     "da": "et prisskilt",
@@ -9521,7 +9545,7 @@
   }
  },
  "et problem": {
-  "explanation": "\"Et problem\" means \"a problem\", something difficult that needs to be dealt with. To say \"no problem\", Danes say \"Det er ikke noget problem\" (It is no problem).",
+  "explanation": "\"Et problem\" means \"a problem\". To say \"no problem\" when someone thanks you or asks a favor, say: \"Det er ikke noget problem\" (It is no problem).",
   "forms": [
    {
     "da": "et problem",
@@ -9560,7 +9584,7 @@
   }
  },
  "et produkt": {
-  "explanation": "\"Et produkt\" means \"a product\", something made to be sold. Items on shop shelves are also called \"varer\" (goods).",
+  "explanation": "\"Et produkt\" means \"a product\". To say where a product comes from, put the country adjective before it: \"et dansk produkt\" (a Danish product).",
   "forms": [
    {
     "da": "et produkt",
@@ -9603,7 +9627,7 @@
   }
  },
  "et program": {
-  "explanation": "\"Et program\" means \"a program\" on a computer. It also means a plan or schedule for an event or a day: \"Hvad er programmet i dag?\" (What is the plan today?)",
+  "explanation": "\"Et program\" means \"a program\", as on a computer. When you ask what is planned for the day, it means \"schedule\": \"Hvad er programmet i dag?\" (What is the plan today?)",
   "forms": [
    {
     "da": "et program",
@@ -9642,7 +9666,7 @@
   }
  },
  "et projekt": {
-  "explanation": "\"Et projekt\" means \"a project\", a piece of work with a clear goal and an end: \"Vi starter et nyt projekt i dag\" (We are starting a new project today).",
+  "explanation": "\"Et projekt\" means \"a project\". To say you are beginning one, say: \"Vi starter et nyt projekt i dag\" (We are starting a new project today).",
   "forms": [
    {
     "da": "et projekt",
@@ -9685,7 +9709,7 @@
   }
  },
  "et prøverum": {
-  "explanation": "\"Et prøverum\" means \"a fitting room\", the little booth in a store, with a curtain or a door, where you check how something fits. It is built from at prøve (to try) and et rum (a room).",
+  "explanation": "\"Et prøverum\" means \"a fitting room\". It is built from \"at prøve\" (to try) and \"et rum\" (a room).",
   "forms": [
    {
     "da": "et prøverum",
@@ -9724,7 +9748,7 @@
   }
  },
  "et pseudonym": {
-  "explanation": "\"Et pseudonym\" means \"a pseudonym\", a made-up name that someone uses instead of their real name, often a writer or an artist who wants to stay unknown.",
+  "explanation": "\"Et pseudonym\" means \"a pseudonym\". To ask for an author's pen name, say: \"Hvad er hendes pseudonym?\" (What is her pseudonym?) Do not mix it up with \"anonym\" (anonymous), which means no name is given at all: \"Brevet er anonymt\" (The letter is anonymous).",
   "forms": [
    {
     "da": "et pseudonym",
@@ -9767,7 +9791,7 @@
   }
  },
  "et pudebetræk": {
-  "explanation": "\"Et pudebetræk\" means \"a pillowcase\". It is built from pude (pillow) and betræk (cover), and \"betræk\" also appears in \"et sofabetræk\" (a sofa cover).",
+  "explanation": "\"Et pudebetræk\" means \"a pillowcase\". It is built from \"en pude\" (a pillow) and \"et betræk\" (a cover). \"Betræk\" is also in \"et sofabetræk\" (a sofa cover).",
   "forms": [
    {
     "da": "et pudebetræk",
@@ -9810,7 +9834,7 @@
   }
  },
  "et pulver": {
-  "explanation": "\"Et pulver\" means \"a powder\", something dry and fine. It is the second part of \"bagepulver\" (baking powder).",
+  "explanation": "\"Et pulver\" means \"a powder\". It is also the last part of \"bagepulver\" (baking powder).",
   "forms": [
    {
     "da": "et pulver",
@@ -9853,7 +9877,7 @@
   }
  },
  "et pund": {
-  "explanation": "\"Et pund\" means \"a pound\", both the British money and a weight. In Danish, the weight is 500 grams, which is more than a US pound (454 grams).",
+  "explanation": "\"Et pund\" means \"a pound\", as in British money. When you buy food by weight, \"et pund\" is 500 grams: \"Jeg køber et pund smør\" (I am buying 500 grams of butter).",
   "forms": [
    {
     "da": "et pund",
@@ -9886,8 +9910,8 @@
     "en": "a dollar"
    },
    {
-    "da": "et kilo",
-    "en": "a kilo"
+    "da": "et gram",
+    "en": "a gram"
    }
   ],
   "sentence": {
@@ -9896,7 +9920,7 @@
   }
  },
  "et punkt": {
-  "explanation": "\"Et punkt\" means \"a point\", a spot or an item on a list. A period at the end of a sentence is \"et punktum\" (a period).",
+  "explanation": "\"Et punkt\" means \"a point or spot\". To name a weak spot, say: \"et svagt punkt\" (a weak point). Do not mix it up with \"et punktum\" (a period): \"Sæt et punktum efter sætningen\" (Put a period after the sentence).",
   "forms": [
    {
     "da": "et punkt",
@@ -9939,7 +9963,7 @@
   }
  },
  "et punktum": {
-  "explanation": "\"Et punktum\" means \"a period\", the dot at the end of a sentence. Added to a statement, \"Punktum!\" means \"That's final!\": \"Jeg har sagt nej, punktum!\" (I said no, period!)",
+  "explanation": "\"Et punktum\" means \"a period\", as in the punctuation mark. To say a matter is closed, say \"Punktum!\" (That's final!): \"Jeg har sagt nej, punktum!\" (I said no, period!)",
   "forms": [
    {
     "da": "et punktum",
@@ -9978,7 +10002,7 @@
   }
  },
  "et puslespil": {
-  "explanation": "\"Et puslespil\" means \"a puzzle\", a game where you fit small pieces together into a picture. Do not mix it up with \"en gåde\" (a riddle), which is a question you solve by thinking.",
+  "explanation": "\"Et puslespil\" means \"a puzzle\". To say you are doing one, use \"at lægge\" (to put): \"Vi lægger et puslespil\" (We are doing a puzzle). Do not mix it up with \"en gåde\" (a riddle): \"Kan du løse den gåde?\" (Can you solve that riddle?)",
   "forms": [
    {
     "da": "et puslespil",
@@ -10007,8 +10031,8 @@
     "en": "a card game"
    },
    {
-    "da": "et korsord",
-    "en": "a crossword"
+    "da": "et spil",
+    "en": "a game"
    },
    {
     "da": "et brætspil",
@@ -10021,7 +10045,7 @@
   }
  },
  "et påfund": {
-  "explanation": "\"Et påfund\" means \"an idea\" and \"an invention\", something that someone has thought up. It often sounds surprised or critical, as in \"Hvad er det for et påfund?\" (What kind of idea is that?)",
+  "explanation": "\"Et påfund\" means \"an idea or invention\". It comes from \"at finde på\" (to think up). To ask what someone has come up with, say: \"Hvad er det for et påfund?\" (What kind of idea is that?)",
   "forms": [
    {
     "da": "et påfund",
@@ -10064,7 +10088,7 @@
   }
  },
  "et påskeæg": {
-  "explanation": "\"Et påskeæg\" means \"an Easter egg\", often a chocolate egg or a painted egg. It is built from påske (Easter) and æg (egg).",
+  "explanation": "\"Et påskeæg\" means \"an Easter egg\". It is built from \"påske\" (Easter) and \"et æg\" (an egg). In Denmark, someone who guesses who sent a \"gækkebrev\" (a teasing Easter letter) wins an Easter egg.",
   "forms": [
    {
     "da": "et påskeæg",
@@ -10097,8 +10121,8 @@
     "en": "an Easter vacation"
    },
    {
-    "da": "en påskekylling",
-    "en": "an Easter chick"
+    "da": "en chokolade",
+    "en": "a chocolate"
    }
   ],
   "sentence": {
@@ -10107,7 +10131,7 @@
   }
  },
  "pandehår": {
-  "explanation": "\"Et pandehår\" means \"bangs\", the short hair cut straight across the forehead. Danes say it without \"et\": \"Hun har pandehår\" (She has bangs).",
+  "explanation": "\"Et pandehår\" means \"bangs\". It is built from \"en pande\" (a forehead) and \"et hår\" (a hair). To say someone has bangs, leave out \"et\": \"Hun har pandehår\" (She has bangs).",
   "forms": [
    {
     "da": "et pandehår",
@@ -10146,7 +10170,7 @@
   }
  },
  "panik": {
-  "explanation": "\"Panik\" means \"panic\", a sudden, overwhelming feeling that makes people stop thinking clearly. Danes say \"Jeg var i panik\" (I was in a panic), leaving out \"a\" (literally, \"I was in panic\").",
+  "explanation": "\"Panik\" means \"panic\". To say someone suddenly panicked, use \"at gå i panik\" (to panic): \"Hun gik i panik\" (She panicked).",
   "forms": [
    {
     "da": "panik",
@@ -10185,7 +10209,7 @@
   }
  },
  "pant": {
-  "explanation": "\"Pant\" means \"deposit\": a small extra amount added to the price of a bottle or can, which you get back when you return the empty bottle.",
+  "explanation": "\"Pant\" means \"deposit\". In Denmark, you get the \"pant\" back when you return an empty bottle or can to a shop.",
   "forms": [
    {
     "da": "pant",
@@ -10202,8 +10226,8 @@
   ],
   "related": [
    {
-    "da": "en pantflaske",
-    "en": "a deposit bottle"
+    "da": "en dåse",
+    "en": "a can"
    },
    {
     "da": "en pantautomat",
@@ -10220,7 +10244,7 @@
   }
  },
  "pap": {
-  "explanation": "\"Pap\" means \"cardboard\", the thick, stiff material boxes are made of. Do not mix it up with \"papir\" (paper): \"pap\" is much thicker.",
+  "explanation": "\"Pap\" means \"cardboard\". To say what something is cut from, say: \"Han klipper en figur ud af pap\" (He cuts a shape out of cardboard). Do not mix it up with \"papir\" (paper): \"Jeg skriver på papir\" (I write on paper).",
   "forms": [
    {
     "da": "pap",
@@ -10255,7 +10279,7 @@
   }
  },
  "papir": {
-  "explanation": "\"Papir\" means \"paper\", the material you write or print on. In the plural, \"papirer\" can also mean \"documents\": \"Har du dine papirer med?\" (Do you have your papers with you?)",
+  "explanation": "\"Papir\" means \"a paper\". To talk about the material, leave out \"et\": \"Vi bruger ikke plastik, kun papir\" (We do not use plastic, only paper). In the plural, \"papirer\" also means \"documents\": \"Har du dine papirer med?\" (Do you have your papers with you?)",
   "forms": [
    {
     "da": "et papir",
@@ -10294,7 +10318,7 @@
   }
  },
  "paradoksal": {
-  "explanation": "\"Paradoksal\" means \"paradoxical\", seeming to contradict itself even though it may still be true.",
+  "explanation": "\"Paradoksal\" means \"paradoxical\". It comes from the noun \"et paradoks\" (a paradox).",
   "forms": [
    {
     "da": "en paradoksal situation",
@@ -10311,20 +10335,20 @@
   ],
   "related": [
    {
-    "da": "et paradoks",
-    "en": "a paradox"
-   },
-   {
     "da": "selvmodsigende",
     "en": "self-contradictory"
    },
    {
-    "da": "underlig",
-    "en": "strange"
+    "da": "en modsigelse",
+    "en": "a contradiction"
    },
    {
     "da": "ironisk",
     "en": "ironic"
+   },
+   {
+    "da": "underlig",
+    "en": "strange"
    }
   ],
   "sentence": {
@@ -10333,7 +10357,7 @@
   }
  },
  "paranoid": {
-  "explanation": "\"Paranoid\" means \"paranoid\", believing without reason that others are against you or watching you. Danes also say it as a joke about someone who is too suspicious: \"Du er helt paranoid\" (You are totally paranoid).",
+  "explanation": "\"Paranoid\" means \"paranoid\". To tell someone they are being too suspicious, say: \"Du er helt paranoid\" (You are totally paranoid).",
   "forms": [
    {
     "da": "en paranoid kollega",
@@ -10368,7 +10392,7 @@
   }
  },
  "parat": {
-  "explanation": "\"Parat\" means \"ready\", prepared to do something. With \"stå\" (stand) it means being on standby: \"Politiet står parat\" (The police stand ready).",
+  "explanation": "\"Parat\" means \"ready\". To say people are standing by, use it with \"stå\" (to stand): \"Politiet står parat\" (The police stand ready).",
   "forms": [
    {
     "da": "Er du parat?",
@@ -10403,7 +10427,7 @@
   }
  },
  "parkeret": {
-  "explanation": "\"Parkeret\" means \"parked\", for a vehicle that is standing still.",
+  "explanation": "\"Parkeret\" means \"parked\". It comes from the verb \"at parkere\" (to park). To say a car is parked where it is not allowed, add \"ulovligt\" (illegally): \"ulovligt parkeret\" (illegally parked).",
   "forms": [
    {
     "da": "en parkeret bil",
@@ -10442,7 +10466,7 @@
   }
  },
  "parkering": {
-  "explanation": "\"Parkering\" means \"parking\", the place where you may leave a car. The action is \"at parkere\" (to park): \"Jeg skal parkere bilen\" (I have to park the car).",
+  "explanation": "\"Parkering\" means \"parking\". It comes from the verb \"at parkere\" (to park). To say you are looking for a space, use \"finde\" (to find): \"Det er svært at finde parkering\" (It is hard to find parking).",
   "forms": [
    {
     "da": "parkering",
@@ -10477,7 +10501,7 @@
   }
  },
  "parmesan": {
-  "explanation": "\"Parmesan\" means \"parmesan\", a hard, salty Italian cheese that is often grated over pasta.",
+  "explanation": "\"Parmesan\" means \"parmesan\". Danish also has \"parmesanost\" (parmesan cheese), built from \"parmesan\" and \"en ost\" (a cheese).",
   "forms": [
    {
     "da": "parmesan",
@@ -10512,7 +10536,7 @@
   }
  },
  "pas på": {
-  "explanation": "\"Pas på\" means \"watch out\" or \"be careful\": \"Pas på, det er varmt\" (Careful, it is hot). It also means \"look after\": \"Pas på børnene\" (Look after the children).",
+  "explanation": "\"Pas på\" means \"watch out\". To warn someone about danger, say: \"Pas på, det er varmt\" (Watch out, it is hot). To tell someone to look after other people, say: \"Pas på børnene\" (Look after the children).",
   "forms": [
    {
     "da": "Pas på!",
@@ -10547,7 +10571,7 @@
   }
  },
  "pas på dig selv": {
-  "explanation": "\"Pas på dig selv\" means \"take care of yourself\" and is a warm way to say goodbye: \"Tak for i dag. Pas på dig selv!\" (Thanks for today. Take care of yourself!). To several people, say \"pas på jer selv\" (take care of yourselves).",
+  "explanation": "\"Pas på dig selv\" means \"take care\". To end a talk with a wish for the other person, say: \"Tak for i dag. Pas på dig selv!\" (Thanks for today. Take care!) To say it to several people, use \"pas på jer selv\" (take care of yourselves).",
   "forms": [
    {
     "da": "Pas på dig selv!",
@@ -10582,7 +10606,7 @@
   }
  },
  "passende": {
-  "explanation": "\"Passende\" means \"suitable\" or \"appropriate\": \"Det er ikke passende at komme for sent\" (It is not appropriate to come late). With a price it means \"reasonable\": \"en passende pris\" (a reasonable price).",
+  "explanation": "\"Passende\" means \"suitable\". To say something is the right thing to do, say: \"Det er ikke passende at komme for sent\" (It is not appropriate to come late). To tell someone to dress for an occasion, say: \"Tag passende tøj på\" (Put on suitable clothes).",
   "forms": [
    {
     "da": "en passende gave",
@@ -10621,7 +10645,7 @@
   }
  },
  "passiv": {
-  "explanation": "\"Passiv\" means \"passive\", not taking action or joining in. In grammar, a passive sentence tells what happened to something: \"Bilen blev stjålet\" (The car was stolen).",
+  "explanation": "\"Passiv\" means \"passive\". In grammar, \"passiv\" names a sentence form where the action happens to the subject: \"Bilen blev stjålet\" (The car was stolen).",
   "forms": [
    {
     "da": "en passiv rolle",
@@ -10656,7 +10680,7 @@
   }
  },
  "pasta": {
-  "explanation": "\"Pasta\" means \"pasta\", the Italian food made from wheat dough. You do not use an article with it, so leave out \"en\" and \"et\": \"Jeg laver pasta\" (I am making pasta).",
+  "explanation": "\"Pasta\" means \"pasta\". Its \"the\" form \"pastaen\" shows that it takes \"en\". When you talk about pasta in general, leave \"en\" out: \"Jeg laver pasta\" (I am making pasta).",
   "forms": [
    {
     "da": "pasta",
@@ -10691,7 +10715,7 @@
   }
  },
  "peber": {
-  "explanation": "\"Peber\" means \"pepper\", the spice you put on food. It is normally used without \"en\" or \"et\": \"Jeg bruger peber på kødet\" (I use pepper on the meat). Do not mix it up with \"peberfrugt\" (bell pepper), which is a vegetable.",
+  "explanation": "\"Peber\" means \"pepper\", as in the spice. To say you season food with it, say: \"Jeg bruger peber på kødet\" (I use pepper on the meat). Do not mix it up with \"peberfrugt\" (bell pepper), a vegetable: \"Jeg skærer en peberfrugt i tern\" (I cut a bell pepper into cubes).",
   "forms": [
    {
     "da": "peber",
@@ -10730,7 +10754,7 @@
   }
  },
  "penge": {
-  "explanation": "\"Penge\" means \"money\". You do not use an article with it, so leave out \"en\" and \"et\": \"Jeg har ingen penge\" (I have no money). For one coin or one note, say \"en mønt\" (a coin) or \"en seddel\" (a banknote).",
+  "explanation": "\"Penge\" means \"money\". To say you have none, say: \"Jeg har ingen penge\" (I have no money). To talk about one coin, use \"en mønt\" (a coin): \"Jeg har en mønt i lommen\" (I have a coin in my pocket).",
   "forms": [
    {
     "da": "penge",
@@ -10769,7 +10793,7 @@
   }
  },
  "pensioneret": {
-  "explanation": "\"Pensioneret\" means \"retired\", no longer working because of age.",
+  "explanation": "\"Pensioneret\" means \"retired\". It comes from \"en pension\" (a pension).",
   "forms": [
    {
     "da": "en pensioneret lærer",
@@ -10786,16 +10810,16 @@
   ],
   "related": [
    {
-    "da": "en pension",
-    "en": "a pension"
-   },
-   {
     "da": "en pensionist",
     "en": "a retiree"
    },
    {
     "da": "at gå på pension",
     "en": "to retire"
+   },
+   {
+    "da": "en folkepension",
+    "en": "a state pension"
    }
   ],
   "sentence": {
@@ -10804,7 +10828,7 @@
   }
  },
  "perfekt": {
-  "explanation": "\"Perfekt\" means \"perfect\". As a reply, \"Perfekt!\" means \"Great, that works!\".",
+  "explanation": "\"Perfekt\" means \"perfect\". To agree to a plan with one word, reply: \"Perfekt. Så ses vi klokken otte.\" (Perfect. See you at eight.)",
   "forms": [
    {
     "da": "en perfekt dag",
@@ -10839,7 +10863,7 @@
   }
  },
  "permanent": {
-  "explanation": "\"Permanent\" means \"permanent\", meant to stay for good, not just for a while. The opposite is \"midlertidig\" (temporary).",
+  "explanation": "\"Permanent\" means \"permanent\". The opposite is \"midlertidig\" (temporary): \"en midlertidig løsning\" (a temporary solution).",
   "forms": [
    {
     "da": "en permanent løsning",
@@ -10878,7 +10902,7 @@
   }
  },
  "persille": {
-  "explanation": "\"Persille\" means \"parsley\", a green herb often sprinkled on food at the end.",
+  "explanation": "\"Persille\" means \"parsley\". To say it is chopped, add \"hakket\" (chopped): \"hakket persille\" (chopped parsley).",
   "forms": [
    {
     "da": "persille",
@@ -10917,7 +10941,7 @@
   }
  },
  "personale": {
-  "explanation": "\"Et personale\" means \"staff\", all the people who work at a shop, hospital or company. For one person, say \"en medarbejder\" (an employee).",
+  "explanation": "\"Et personale\" means \"staff\". To talk about one person who works there, use \"en medarbejder\" (an employee): \"Vi har en ny medarbejder\" (We have a new employee).",
   "forms": [
    {
     "da": "et personale",
@@ -10956,7 +10980,7 @@
   }
  },
  "personlig": {
-  "explanation": "\"Personlig\" means \"personal\", belonging to one person's own life or character: \"Det er et personligt spørgsmål\" (That is a personal question). It also means \"with your own character\": \"en personlig stil\" (a personal style).",
+  "explanation": "\"Personlig\" means \"personal\". To say a question touches someone's private life, say: \"Det er et personligt spørgsmål\" (That is a personal question). To say something has its own character, say: \"en personlig stil\" (a personal style).",
   "forms": [
    {
     "da": "en personlig gave",
@@ -10991,7 +11015,7 @@
   }
  },
  "personligt": {
-  "explanation": "\"Personligt\" means \"personally\" and starts a sentence with your own opinion: \"Personligt kan jeg godt lide vinteren\" (Personally, I like winter). It also means \"in person\": \"Jeg har mødt hende personligt\" (I have met her in person).",
+  "explanation": "\"Personligt\" means \"personally\". To give your own opinion, put it at the start of the sentence: \"Personligt synes jeg, at det er for dyrt\" (Personally, I think it is too expensive). To say in person, put it after the verb: \"Jeg har mødt hende personligt\" (I have met her in person).",
   "forms": [
    {
     "da": "Personligt foretrækker jeg te",
@@ -11030,7 +11054,7 @@
   }
  },
  "pervers": {
-  "explanation": "\"Pervers\" means \"perverted\", a strong, negative word for behavior seen as sick or morally wrong, often sexual. It can also mean \"perverse\", against what is reasonable: \"Det er pervers, at ...\" (It is perverse that ...).",
+  "explanation": "\"Pervers\" means \"perverted\". It is a strong word, so be careful when you use it about a person. To say something is absurdly against what is reasonable, say: \"Det er pervers, at vi smider mad ud\" (It is perverse that we throw food away).",
   "forms": [
    {
     "da": "en pervers mand",
@@ -11069,7 +11093,7 @@
   }
  },
  "pessimistisk": {
-  "explanation": "\"Pessimistisk\" means \"pessimistic\", expecting things to go badly. Say it about a person, \"Hun er pessimistisk\" (She is pessimistic), or about a view, such as \"en pessimistisk prognose\" (a pessimistic forecast).",
+  "explanation": "\"Pessimistisk\" means \"pessimistic\". To say a person expects the worst, say: \"Hun er pessimistisk\" (She is pessimistic). To say a forecast looks bad, say: \"en pessimistisk prognose\" (a pessimistic forecast).",
   "forms": [
    {
     "da": "en pessimistisk tanke",
@@ -11108,7 +11132,7 @@
   }
  },
  "pinlig": {
-  "explanation": "\"Pinlig\" means \"embarrassing\" and describes the situation. To describe your own feeling, say \"Jeg er flov\" (I am embarrassed).",
+  "explanation": "\"Pinlig\" means \"embarrassing\". It describes the situation, not your feeling. To say how you feel, use \"flov\" (embarrassed): \"Jeg er flov\" (I am embarrassed).",
   "forms": [
    {
     "da": "en pinlig situation",
@@ -11147,7 +11171,7 @@
   }
  },
  "pinse": {
-  "explanation": "\"En pinse\" means \"Pentecost\" or \"Whitsun\", a church holiday seven weeks after Easter. In Denmark \"pinsedag\" (Whit Sunday) and \"anden pinsedag\" (Whit Monday) are days off, so it is a long weekend.",
+  "explanation": "\"En pinse\" means \"Pentecost\". In Denmark, the Monday after is called \"anden pinsedag\" (the second day of Pentecost).",
   "forms": [
    {
     "da": "en pinse",
@@ -11186,7 +11210,7 @@
   }
  },
  "piskefløde": {
-  "explanation": "\"Piskefløde\" means \"whipping cream\", cream with enough fat that you can whip it. It is built from at piske (to whip) and fløde (cream). Cream for coffee is called \"kaffefløde\" (coffee cream).",
+  "explanation": "\"Piskefløde\" means \"whipping cream\". It is built from \"at piske\" (to whip) and \"fløde\" (cream). For cream in your coffee, ask for \"kaffefløde\" (coffee cream): \"Må jeg få lidt kaffefløde?\" (May I have a little coffee cream?)",
   "forms": [
    {
     "da": "en liter piskefløde",
@@ -11221,7 +11245,7 @@
   }
  },
  "pjat": {
-  "explanation": "\"Pjat\" means \"nonsense\". Use it to wave off an idea: \"Han taler pjat\" (He is talking nonsense). As a quick reply, \"Pjat!\" is a light way to say you do not believe it.",
+  "explanation": "\"Pjat\" means \"nonsense\". To say someone is talking nonsense, use \"at tale pjat\" (to talk nonsense): \"Han taler pjat\" (He is talking nonsense).",
   "forms": [
    {
     "da": "noget pjat",
@@ -11256,7 +11280,7 @@
   }
  },
  "placeret": {
-  "explanation": "\"Placeret\" means \"placed\" or \"located\": \"Hotellet er placeret tæt på stationen\" (The hotel is located close to the station). With \"højt\" (high) it also means high-ranking: \"en højt placeret politiker\" (a high-ranking politician).",
+  "explanation": "\"Placeret\" means \"located\". To say where a building is, say: \"Biblioteket er placeret ved havnen\" (The library is located by the harbor). To say someone has a high rank, add \"højt\" (high): \"en højt placeret politiker\" (a high-ranking politician).",
   "forms": [
    {
     "da": "centralt placeret",
@@ -11291,7 +11315,7 @@
   }
  },
  "pladsmangel": {
-  "explanation": "\"En pladsmangel\" means \"lack of space\", not enough room for people or things. Danish often builds words like this with \"mangel\" (lack) on the end, for example \"vandmangel\" (lack of water).",
+  "explanation": "\"En pladsmangel\" means \"a lack of space\". It is built from \"en plads\" (a space) and \"en mangel\" (a lack). \"Mangel\" is also in \"vandmangel\" (water shortage).",
   "forms": [
    {
     "da": "en pladsmangel",
@@ -11330,7 +11354,7 @@
   }
  },
  "planlægning": {
-  "explanation": "\"Planlægning\" means \"planning\", deciding in advance what to do and when. Do not mix it up with \"en plan\" (a plan): \"planlægning\" is the work of making plans, while \"en plan\" is the finished plan: \"Vi har en plan\" (We have a plan).",
+  "explanation": "\"Planlægning\" means \"planning\". Do not mix it up with \"en plan\" (a plan), which is the result: \"Vi har en plan\" (We have a plan). The work before it is \"planlægning\": \"Rejsen kræver god planlægning\" (The trip needs good planning).",
   "forms": [
    {
     "da": "god planlægning",
@@ -11369,7 +11393,7 @@
   }
  },
  "plastik": {
-  "explanation": "\"Plastik\" means \"plastic\". Many words start with it, such as \"plastikaffald\" (plastic waste).",
+  "explanation": "\"Plastik\" means \"plastic\". It is also the first part of \"plastikaffald\" (plastic waste) and \"en plastikflaske\" (a plastic bottle).",
   "forms": [
    {
     "da": "plastik",
@@ -11408,7 +11432,7 @@
   }
  },
  "plastikaffald": {
-  "explanation": "\"Plastikaffald\" means \"plastic waste\", trash made of plastic such as bottles and bags. Danish builds many words from a material plus \"affald\" (waste), such as \"madaffald\" (food waste).",
+  "explanation": "\"Plastikaffald\" means \"plastic waste\". It is built from \"plastik\" (plastic) and \"et affald\" (waste). \"Affald\" is also in \"madaffald\" (food waste).",
   "forms": [
    {
     "da": "et plastikaffald",
@@ -11451,7 +11475,7 @@
   }
  },
  "plat": {
-  "explanation": "\"Plat\" means \"vulgar\" or \"cheesy\", for jokes, remarks and entertainment that feel crude or cheap.",
+  "explanation": "\"Plat\" means \"cheesy\". When you flip a coin, \"plat\" is also the word for one side: \"Krone eller plat?\" (Heads or tails?)",
   "forms": [
    {
     "da": "en plat vittighed",
@@ -11486,7 +11510,7 @@
   }
  },
  "pleje": {
-  "explanation": "\"En pleje\" means \"care\", looking after someone who is sick or old, or after your body. It is practical care, unlike \"omsorg\" (warm concern). The verb \"at pleje\" also means \"to usually do something\": \"Jeg plejer at stå tidligt op\" (I usually get up early).",
+  "explanation": "\"En pleje\" means \"care\", as in looking after someone who is ill. The verb \"at pleje\" means \"to nurse\": \"Hun plejer sin syge mor\" (She nurses her sick mother). It also means \"to be in the habit of\": \"Jeg plejer at stå tidligt op\" (I usually get up early).",
   "forms": [
    {
     "da": "en pleje",
@@ -11525,7 +11549,7 @@
   }
  },
  "pludselig": {
-  "explanation": "\"Pludselig\" means \"suddenly\" or \"sudden\". Before a noun it means \"sudden\": \"en pludselig lyd\" (a sudden sound). At the start of a sentence it means \"suddenly\", and the verb comes right after it: \"Pludselig kom han ind\" (Suddenly he came in).",
+  "explanation": "\"Pludselig\" means \"suddenly\". Before a noun, it means \"sudden\": \"en pludselig lyd\" (a sudden sound).",
   "forms": [
    {
     "da": "pludselig",
@@ -11560,7 +11584,7 @@
   }
  },
  "poesi": {
-  "explanation": "\"En poesi\" means \"poetry\", written art that plays with sound and images. It can describe a beautiful, dreamlike quality in something: \"Der er poesi i den gamle by\" (There is poetry in the old town).",
+  "explanation": "\"En poesi\" means \"poetry\". It can also mean a beautiful, dreamlike quality in a place: \"Der er poesi i den gamle by\" (There is poetry in the old town).",
   "forms": [
    {
     "da": "en poesi",
@@ -11603,7 +11627,7 @@
   }
  },
  "polen": {
-  "explanation": "\"Polen\" means \"Poland\". Use \"i\" (in) for being there and \"til\" (to) for going there: \"Vi rejser til Polen\" (We are traveling to Poland).",
+  "explanation": "\"Polen\" means \"Poland\". To say you are going there, use \"til\" (to): \"Vi rejser til Polen\" (We are traveling to Poland). To say you are there, use \"i\" (in): \"Hun bor i Polen\" (She lives in Poland).",
   "forms": [
    {
     "da": "Polen",
@@ -11638,7 +11662,7 @@
   }
  },
  "politi": {
-  "explanation": "\"Politi\" means \"police\". Leave out \"en\" before it, and add \"-et\" for \"the police\": \"Politiet er her\" (The police are here). One officer is \"en politibetjent\" (a police officer).",
+  "explanation": "\"Politi\" means \"police\". To say \"the police\", add \"-et\": \"Politiet er her\" (The police are here). To talk about one officer, use \"en politibetjent\" (a police officer): \"En politibetjent hjælper os\" (A police officer is helping us).",
   "forms": [
    {
     "da": "politi",
@@ -11673,7 +11697,7 @@
   }
  },
  "politisk": {
-  "explanation": "\"Politisk\" means \"political\". Use it for debates and decisions about running a country: \"en politisk debat\" (a political debate). The subject itself is \"politik\" (politics).",
+  "explanation": "\"Politisk\" means \"political\". To describe a debate, say: \"en politisk debat\" (a political debate). The subject itself is \"politik\" (politics): \"Han interesserer sig for politik\" (He is interested in politics).",
   "forms": [
    {
     "da": "en politisk sag",
@@ -11712,7 +11736,7 @@
   }
  },
  "polsk": {
-  "explanation": "\"Polsk\" means \"Polish\", for things from Poland and for the language. Danish writes languages and nationalities with a lowercase letter, so \"polsk\" is not capitalized.",
+  "explanation": "\"Polsk\" means \"Polish\". In English \"Polish\" starts with \"P\", but Danish \"polsk\" starts with \"p\", even for the language: \"Jeg taler polsk\" (I speak Polish).",
   "forms": [
    {
     "da": "en polsk bil",
@@ -11747,7 +11771,7 @@
   }
  },
  "polyester": {
-  "explanation": "\"En polyester\" means \"polyester\", a man-made fabric used for clothes and sports gear. It dries quickly and does not wrinkle easily.",
+  "explanation": "\"En polyester\" means \"polyester\". It can start a longer word for clothes: \"en polyestertrøje\" (a polyester sweater).",
   "forms": [
    {
     "da": "en polyester",
@@ -11790,7 +11814,7 @@
   }
  },
  "pommes frites": {
-  "explanation": "\"Pommes frites\" means \"French fries\". Danes often shorten it to \"pommes\" (fries).",
+  "explanation": "\"Pommes frites\" means \"French fries\". To order them in a short way, say \"pommes\" (fries): \"En burger og pommes, tak\" (A burger and fries, please).",
   "forms": [
    {
     "da": "pommes frites",
@@ -11825,7 +11849,7 @@
   }
  },
  "popcorn": {
-  "explanation": "\"Popcorn\" means \"popcorn\" and is spelled as in English. To indicate an amount, name the container that holds the popcorn: \"en spand popcorn\" (a bucket of popcorn).",
+  "explanation": "\"Popcorn\" means \"popcorn\". To suggest making it, use \"lave\" (to make): \"Skal vi lave popcorn?\" (Shall we make popcorn?)",
   "forms": [
    {
     "da": "popcorn",
@@ -11864,7 +11888,7 @@
   }
  },
  "populær": {
-  "explanation": "\"Populær\" means \"popular\", for people, places and things that many people enjoy.",
+  "explanation": "\"Populær\" means \"popular\". To say who likes it, use \"blandt\" (among): \"Sangen er populær blandt børn\" (The song is popular with children).",
   "forms": [
    {
     "da": "en populær sang",
@@ -11903,7 +11927,7 @@
   }
  },
  "porcelæn": {
-  "explanation": "\"Porcelæn\" means \"china\" or \"porcelain\", a fine, hard ceramic used for plates, cups and vases. Danes also use it for the dishes themselves: \"det fine porcelæn\" (the good china).",
+  "explanation": "\"Et porcelæn\" means \"porcelain\". To talk about the best dishes, say \"det fine porcelæn\" (the good china): \"Vi bruger det fine porcelæn til jul\" (We use the good china at Christmas).",
   "forms": [
    {
     "da": "et porcelæn",
@@ -11946,7 +11970,7 @@
   }
  },
  "porto": {
-  "explanation": "\"Porto\" means \"postage\", the price for sending a letter or package: \"Hvad koster porto til Tyskland?\" (What does postage to Germany cost?)",
+  "explanation": "\"Porto\" means \"postage\". To ask about the cost of sending something, say: \"Hvad koster porto til Sverige?\" (What does postage to Sweden cost?)",
   "forms": [
    {
     "da": "porto",
@@ -11981,7 +12005,7 @@
   }
  },
  "positiv": {
-  "explanation": "\"Positiv\" means \"positive\", both for things and for people: \"positive nyheder\" (positive news), \"Hun er meget positiv\" (She is very upbeat). The opposite is \"negativ\" (negative).",
+  "explanation": "\"Positiv\" means \"positive\". To talk about good news, say: \"positive nyheder\" (positive news). To say a person is upbeat, say: \"Hun er meget positiv\" (She is very upbeat). The opposite is \"negativ\" (negative): \"et negativt svar\" (a negative answer).",
   "forms": [
    {
     "da": "en positiv holdning",
@@ -12020,7 +12044,7 @@
   }
  },
  "positivt": {
-  "explanation": "\"Positivt\" means \"positively\", in a good or hopeful way: \"Hun svarede positivt\" (She answered positively). It often follows \"tænke\" (think) and \"reagere\" (react): \"Tænk positivt!\" (Think positively!)",
+  "explanation": "\"Positivt\" means \"positively\". To say how someone spoke about something, say: \"Hun talte positivt om projektet\" (She spoke positively about the project). To tell someone to stay hopeful, say: \"Tænk positivt!\" (Think positively!)",
   "forms": [
    {
     "da": "Han svarede positivt",
@@ -12059,7 +12083,7 @@
   }
  },
  "post": {
-  "explanation": "\"Post\" means \"mail\": the letters and parcels that arrive. You say it without \"en\" or \"et\": \"Jeg har fået post\" (I have received mail).",
+  "explanation": "\"Post\" means \"mail\". To talk about mail in general, leave out \"en\": \"Jeg har fået post\" (I have received mail). It is also the first part of \"et postkort\" (a postcard).",
   "forms": [
    {
     "da": "post",
@@ -12098,7 +12122,7 @@
   }
  },
  "pragtfuld": {
-  "explanation": "\"Pragtfuld\" means \"splendid\": magnificent and beautiful, such as a view, a building or a sunset: \"en pragtfuld udsigt\" (a splendid view). It is built from pragt (splendor) and -fuld (full of).",
+  "explanation": "\"Pragtfuld\" means \"splendid\". It is built from \"pragt\" (splendor) and \"-fuld\" (full of). To praise a view, say: \"en pragtfuld solnedgang\" (a splendid sunset).",
   "forms": [
    {
     "da": "en pragtfuld dag",
@@ -12137,7 +12161,7 @@
   }
  },
  "praktisk": {
-  "explanation": "\"Praktisk\" means \"practical\" and \"handy\", for things that are useful in daily life. About a person, it means good with your hands: \"Jeg er ikke så praktisk\" (I am not very handy).",
+  "explanation": "\"Praktisk\" means \"practical\". To say it is handy to do something, say: \"Det er praktisk at bo tæt på stationen\" (It is practical to live close to the station). To say a person is good with their hands, say: \"Jeg er ikke så praktisk\" (I am not very handy).",
   "forms": [
    {
     "da": "en praktisk løsning",
@@ -12176,7 +12200,7 @@
   }
  },
  "pressefrihed": {
-  "explanation": "\"Pressefrihed\" means \"freedom of the press\", the right of the media and reporters to publish what they find without government control.",
+  "explanation": "\"Pressefrihed\" means \"freedom of the press\". It is built from \"presse\" (press) and \"frihed\" (freedom).",
   "forms": [
    {
     "da": "pressefrihed",
@@ -12219,7 +12243,7 @@
   }
  },
  "prikket": {
-  "explanation": "\"Prikket\" means \"polka-dotted\", covered in small round dots. It is built from \"en prik\" (a dot).",
+  "explanation": "\"Prikket\" means \"polka-dotted\". It is built from \"en prik\" (a dot). When the word after it is plural, it ends in \"-e\": \"Hun har prikkede sokker på\" (She is wearing polka-dotted socks).",
   "forms": [
    {
     "da": "en prikket kjole",
@@ -12258,7 +12282,7 @@
   }
  },
  "primær": {
-  "explanation": "\"Primær\" means \"primary\", the first or main one of several: \"den primære årsag\" (the primary reason).",
+  "explanation": "\"Primær\" means \"primary\". To say which reason matters most, use it before the noun: \"Den primære årsag er prisen\" (The primary reason is the price). To say what you mostly do, use \"primært\" (primarily) instead: \"Vi arbejder primært hjemme\" (We mostly work at home).",
   "forms": [
    {
     "da": "en primær årsag",
@@ -12279,16 +12303,16 @@
     "en": "secondary"
    },
    {
-    "da": "primært",
-    "en": "primarily"
-   },
-   {
     "da": "en hovedårsag",
     "en": "a main cause"
    },
    {
     "da": "vigtigst",
     "en": "most important"
+   },
+   {
+    "da": "central",
+    "en": "central"
    }
   ],
   "sentence": {
@@ -12297,7 +12321,7 @@
   }
  },
  "primært": {
-  "explanation": "\"Primært\" means \"primarily\", mostly or above all: \"Vi sælger primært brugte bøger\" (We mainly sell used books). To describe a thing, Danish uses \"primær\" (primary): \"det primære mål\" (the primary goal).",
+  "explanation": "\"Primært\" means \"mainly\". To say what a shop mostly sells, put it before the goods: \"Vi sælger primært brugte bøger\" (We mainly sell used books). To describe a noun, use \"primær\" (primary) instead: \"det primære mål\" (the primary goal).",
   "forms": [
    {
     "da": "primært for børn",
@@ -12336,7 +12360,7 @@
   }
  },
  "privat": {
-  "explanation": "\"Privat\" means \"private\", for what belongs to one person or family and not to everyone: \"et privat hjem\" (a private home), \"Det er privat\" (That is private).",
+  "explanation": "\"Privat\" means \"private\". To tell someone a matter is personal, say: \"Det er privat\" (That is private). To say who owns a place, use it before the noun: \"et privat hjem\" (a private home).",
   "forms": [
    {
     "da": "en privat samtale",
@@ -12375,7 +12399,7 @@
   }
  },
  "privatliv": {
-  "explanation": "\"Et privatliv\" means \"privacy\" and \"private life\", the part of your life that belongs to you and not to work or the public.",
+  "explanation": "\"Et privatliv\" means \"privacy\". It is built from \"privat\" (private) and \"et liv\" (a life). To say someone keeps work and home apart, say: \"Hun holder sit arbejde og sit privatliv adskilt\" (She keeps her work and her private life apart).",
   "forms": [
    {
     "da": "et privatliv",
@@ -12404,8 +12428,8 @@
     "en": "a secret"
    },
    {
-    "da": "databeskyttelse",
-    "en": "data protection"
+    "da": "offentlig",
+    "en": "public"
    },
    {
     "da": "et familieliv",
@@ -12418,7 +12442,7 @@
   }
  },
  "problematisk": {
-  "explanation": "\"Problematisk\" means \"problematic\", for a situation, plan or habit that brings problems. It is built on et problem (a problem).",
+  "explanation": "\"Problematisk\" means \"problematic\". It is built from \"et problem\" (a problem). To say something causes no trouble, use \"uproblematisk\" (unproblematic): \"Det er helt uproblematisk\" (It is completely unproblematic).",
   "forms": [
    {
     "da": "en problematisk situation",
@@ -12443,12 +12467,12 @@
     "en": "risky"
    },
    {
-    "da": "uproblematisk",
-    "en": "unproblematic"
-   },
-   {
     "da": "besværlig",
     "en": "troublesome"
+   },
+   {
+    "da": "problemfri",
+    "en": "problem-free"
    }
   ],
   "sentence": {
@@ -12457,7 +12481,7 @@
   }
  },
  "problemfri": {
-  "explanation": "\"Problemfri\" means \"problem-free\", going well, with no trouble. The ending \"-fri\" (free) means \"without\" in many words: \"sukkerfri\" (sugar-free), \"glutenfri\" (gluten-free).",
+  "explanation": "\"Problemfri\" means \"problem-free\". It is built from \"et problem\" (a problem) and \"fri\" (free). The ending \"-fri\" is also in \"sukkerfri\" (sugar-free) and \"glutenfri\" (gluten-free).",
   "forms": [
    {
     "da": "en problemfri rejse",
@@ -12496,7 +12520,7 @@
   }
  },
  "produktiv": {
-  "explanation": "\"Produktiv\" means \"productive\", getting a lot done or producing a lot. It describes a person or a method that gets results, not just one that is busy: \"Jeg var travl, men ikke produktiv\" (I was busy, but not productive).",
+  "explanation": "\"Produktiv\" means \"productive\". To say someone was busy but got little done, say: \"Jeg var travl, men ikke produktiv\" (I was busy, but not productive).",
   "forms": [
    {
     "da": "en produktiv medarbejder",
@@ -12535,7 +12559,7 @@
   }
  },
  "professionel": {
-  "explanation": "\"Professionel\" means \"professional\", done as a paid job or at a high level: \"professionelt arbejde\" (professional work), \"en professionel fodboldspiller\" (a professional soccer player).",
+  "explanation": "\"Professionel\" means \"professional\". It ends in \"-el\", not \"-al\" as in English. To praise how well a job was done, say: \"Det er et professionelt stykke arbejde\" (That is a professional piece of work).",
   "forms": [
    {
     "da": "en professionel fotograf",
@@ -12574,7 +12598,7 @@
   }
  },
  "protein": {
-  "explanation": "\"Et protein\" means \"a protein\", the nutrient the body uses to build and repair muscles. When you talk about it in food, leave out \"et\": \"Æg indeholder meget protein\" (Eggs contain a lot of protein).",
+  "explanation": "\"Et protein\" means \"a protein\". When you talk about protein in food in general, leave out \"et\": \"Æg indeholder meget protein\" (Eggs contain a lot of protein).",
   "forms": [
    {
     "da": "et protein",
@@ -12603,7 +12627,7 @@
     "en": "a fat"
    },
    {
-    "da": "en vitamin",
+    "da": "et vitamin",
     "en": "a vitamin"
    },
    {
@@ -12617,7 +12641,7 @@
   }
  },
  "præcis": {
-  "explanation": "\"Præcis\" means \"exactly\" and is used for amounts and times: \"Det koster præcis hundrede kroner\" (It costs exactly a hundred kroner). For an approximate amount, use \"cirka\" (about): \"Det koster cirka hundrede kroner\" (It costs about a hundred kroner). As a reply, \"Præcis!\" means \"Exactly!\" or \"That's right!\".",
+  "explanation": "\"Præcis\" means \"exactly\". To give an exact amount, say: \"Det koster præcis hundrede kroner\" (It costs exactly a hundred kroner). To say the amount is not exact, use \"cirka\" (about): \"Det koster cirka hundrede kroner\" (It costs about a hundred kroner). To agree with someone, answer: \"Så vi mødes klokken otte?\" \"Præcis!\" (So we meet at eight? Exactly!)",
   "forms": [
    {
     "da": "præcis klokken tre",
@@ -12652,7 +12676,7 @@
   }
  },
  "psykiatrisk": {
-  "explanation": "\"Psykiatrisk\" means \"psychiatric\", about the medical care of serious mental illness. For anything to do with the mind and feelings, Danes say \"psykisk\" (mental).",
+  "explanation": "\"Psykiatrisk\" means \"psychiatric\". It comes from \"en psykiatri\" (psychiatry). To say someone is a patient of that kind, say: \"Han er psykiatrisk patient\" (He is a psychiatric patient). Do not mix it up with \"psykisk\" (mental), which is about the mind in general: \"psykiske problemer\" (mental problems).",
   "forms": [
    {
     "da": "en psykiatrisk afdeling",
@@ -12677,12 +12701,12 @@
     "en": "a psychologist"
    },
    {
-    "da": "en psykiatri",
-    "en": "psychiatry (the field)"
-   },
-   {
     "da": "somatisk",
     "en": "of the body (medical)"
+   },
+   {
+    "da": "en psykose",
+    "en": "a psychosis"
    }
   ],
   "sentence": {
@@ -12691,7 +12715,7 @@
   }
  },
  "psykisk": {
-  "explanation": "\"Psykisk\" means \"mental\" or \"psychological\", about the mind and feelings, not the body. Its opposite is \"fysisk\" (physical): \"fysisk og psykisk sundhed\" (physical and mental health).",
+  "explanation": "\"Psykisk\" means \"mental\". To talk about body and mind together, use its opposite \"fysisk\" (physical): \"fysisk og psykisk sundhed\" (physical and mental health).",
   "forms": [
    {
     "da": "en psykisk lidelse",
@@ -12730,7 +12754,7 @@
   }
  },
  "publikum": {
-  "explanation": "\"Et publikum\" means \"an audience\", all the people who watch or listen at a concert, a play or a match. Even for thousands of people, you use one word: \"Publikum klappede\" (The audience clapped).",
+  "explanation": "\"Et publikum\" means \"an audience\". To say where someone sat, use \"i publikum\" (in the audience): \"Min mor sad i publikum\" (My mother sat in the audience).",
   "forms": [
    {
     "da": "et publikum",
@@ -12765,7 +12789,7 @@
   }
  },
  "pudsig": {
-  "explanation": "\"Pudsig\" means \"funny\" or \"odd\" in a sweet way: something that makes you smile rather than laugh out loud: \"en pudsig lille hund\" (a funny little dog). A joke or a party is \"sjov\" (fun) instead.",
+  "explanation": "\"Pudsig\" means \"funny\", in the sense of charming and a little odd. For something that makes you laugh or is fun, use \"sjov\" (fun) instead: \"Festen var sjov\" (The party was fun).",
   "forms": [
    {
     "da": "en pudsig hund",
@@ -12804,7 +12828,7 @@
   }
  },
  "punktlig": {
-  "explanation": "\"Punktlig\" means \"punctual\", the habit of showing up or finishing right when agreed. For one single occasion, use \"til tiden\" (on time): \"Jeg kom til tiden\" (I arrived on time).",
+  "explanation": "\"Punktlig\" means \"punctual\". To say you arrived at the agreed time once, use \"til tiden\" (on time) instead: \"Jeg kom til tiden\" (I arrived on time).",
   "forms": [
    {
     "da": "en punktlig mand",
@@ -12821,8 +12845,8 @@
   ],
   "related": [
    {
-    "da": "upunktlig",
-    "en": "unpunctual"
+    "da": "et tidspunkt",
+    "en": "a point in time"
    },
    {
     "da": "præcis",
@@ -12831,6 +12855,10 @@
    {
     "da": "forsinket",
     "en": "delayed"
+   },
+   {
+    "da": "at komme for sent",
+    "en": "to be late"
    }
   ],
   "sentence": {
@@ -12839,7 +12867,7 @@
   }
  },
  "purløg": {
-  "explanation": "\"Purløg\" means \"chives\", thin green stalks you cut small and sprinkle on food. It is not an onion, even though \"et løg\" (an onion) is in the word.",
+  "explanation": "\"Purløg\" means \"chives\". The word \"løg\" (onion) is also in \"hvidløg\" (garlic) and \"forårsløg\" (spring onions).",
   "forms": [
    {
     "da": "purløg",
@@ -12856,20 +12884,20 @@
   ],
   "related": [
    {
-    "da": "forårsløg",
-    "en": "spring onions"
-   },
-   {
-    "da": "et rødløg",
-    "en": "a red onion"
-   },
-   {
     "da": "persille",
     "en": "parsley"
    },
    {
     "da": "dild",
     "en": "dill"
+   },
+   {
+    "da": "et rødløg",
+    "en": "a red onion"
+   },
+   {
+    "da": "karse",
+    "en": "cress"
    }
   ],
   "sentence": {
@@ -12878,7 +12906,7 @@
   }
  },
  "pynt": {
-  "explanation": "\"Pynt\" means \"decoration(s)\", things that make a place look nice. You do not use an article with it: \"Vi hænger pynt op\" (We put up decorations).",
+  "explanation": "\"Pynt\" means \"decoration(s)\". It is the noun for the verb \"at pynte\" (to decorate). To say you buy decorations in general, leave out the article: \"Jeg køber pynt til julen\" (I am buying decorations for Christmas).",
   "forms": [
    {
     "da": "pynt",
@@ -12899,10 +12927,6 @@
   ],
   "related": [
    {
-    "da": "at pynte",
-    "en": "to decorate"
-   },
-   {
     "da": "en dekoration",
     "en": "a decoration"
    },
@@ -12913,6 +12937,10 @@
    {
     "da": "et ornament",
     "en": "an ornament"
+   },
+   {
+    "da": "en guirlande",
+    "en": "a garland"
    }
   ],
   "sentence": {
@@ -12921,7 +12949,7 @@
   }
  },
  "pyt": {
-  "explanation": "\"Pyt\" means \"never mind\" and lets a small problem go. Say it after a small mistake: \"Pyt, jeg tørrer det op\" (Never mind, I'll wipe it up).",
+  "explanation": "\"Pyt\" means \"never mind\". When someone says sorry for a small accident, answer: \"Undskyld, jeg spildte.\" \"Pyt!\" (Sorry, I spilled. Never mind!)",
   "forms": [
    {
     "da": "Pyt!",
@@ -12960,7 +12988,7 @@
   }
  },
  "på": {
-  "explanation": "\"På\" means \"on\", but also \"at\" or \"in\": \"på arbejde\" (at work), \"på ferie\" (on vacation), \"på dansk\" (in Danish). It is also used with islands and streets: \"på Fyn\" (on Funen), \"på gaden\" (on the street).",
+  "explanation": "\"På\" means \"on\". To say where you are at a workplace, Danish uses it for \"at\": \"Jeg er på arbejde\" (I am at work). To name a language, it is used for \"in\": \"Jeg skriver på dansk\" (I write in Danish). To say you are on an island, it is used for \"on\": \"Vi bor på Fyn\" (We live on Funen).",
   "forms": [
    {
     "da": "på bordet",
@@ -12976,10 +13004,6 @@
    }
   ],
   "related": [
-   {
-    "da": "i",
-    "en": "in"
-   },
    {
     "da": "over",
     "en": "over"
@@ -12999,7 +13023,7 @@
   }
  },
  "på deltid": {
-  "explanation": "\"På deltid\" means \"part-time\", for a shorter week than normal: \"Jeg arbejder på deltid\" (I work part-time). It is built from del (part) and tid (time). The same \"del\" is in \"en del af ugen\" (a part of the week).",
+  "explanation": "\"På deltid\" means \"part-time\". It is built from \"del\" (part) and \"tid\" (time). To name the job itself, say: \"Hun har et deltidsjob\" (She has a part-time job).",
   "forms": [
    {
     "da": "Jeg arbejder på deltid.",
@@ -13020,12 +13044,12 @@
     "en": "full-time"
    },
    {
-    "da": "et deltidsjob",
-    "en": "a part-time job"
-   },
-   {
     "da": "en arbejdstid",
     "en": "working hours"
+   },
+   {
+    "da": "en arbejdsuge",
+    "en": "a work week"
    }
   ],
   "sentence": {
@@ -13034,7 +13058,7 @@
   }
  },
  "på den anden side": {
-  "explanation": "\"På den anden side\" means \"on the other hand\" and gives a second view that balances the first: \"Huset er stort. På den anden side er det dyrt.\" (The house is big. On the other hand, it is expensive.)",
+  "explanation": "\"På den anden side\" means \"on the other hand\". To add a second view after the first, start the new sentence with it: \"Huset er stort. På den anden side er det dyrt.\" (The house is big. On the other hand, it is expensive.) To say where a place is, it also means \"on the other side\": \"Butikken ligger på den anden side af vejen\" (The shop is on the other side of the road).",
   "forms": [
    {
     "da": "på den anden side",
@@ -13069,7 +13093,7 @@
   }
  },
  "på den ene side": {
-  "explanation": "\"På den ene side\" means \"on one hand\" and starts the first of two views: \"På den ene side vil jeg gerne rejse, men jeg har ikke penge\" (On one hand I would like to travel, but I have no money).",
+  "explanation": "\"På den ene side\" means \"on one hand\". To start the first of two views, say: \"På den ene side vil jeg gerne rejse, men jeg har ikke penge\" (On one hand I would like to travel, but I have no money). To say where something is, it also means \"on one side\": \"Haven ligger på den ene side af huset\" (The garden is on one side of the house).",
   "forms": [
    {
     "da": "på den ene side",
@@ -13091,11 +13115,11 @@
    },
    {
     "da": "derimod",
-    "en": "on the other hand, by contrast"
+    "en": "by contrast"
    },
    {
     "da": "til gengæld",
-    "en": "on the other hand, in return"
+    "en": "in return, on the other hand"
    }
   ],
   "sentence": {
@@ -13104,7 +13128,7 @@
   }
  },
  "på forhånd": {
-  "explanation": "\"På forhånd\" means \"in advance\", before something happens. It is also in \"Tak på forhånd!\" (Thanks in advance!), said at the end of a request: \"Kan du sende filen? Tak på forhånd!\" (Can you send the file? Thanks in advance!)",
+  "explanation": "\"På forhånd\" means \"in advance\". To thank someone before they do something, end your request with: \"Kan du sende filen? Tak på forhånd!\" (Can you send the file? Thanks in advance!) To say you paid ahead of time, say: \"Jeg betalte på forhånd\" (I paid in advance).",
   "forms": [
    {
     "da": "Tak på forhånd",
@@ -13143,7 +13167,7 @@
   }
  },
  "på fuldtid": {
-  "explanation": "\"På fuldtid\" means \"full-time\", for the usual number of hours in a job: \"Jeg arbejder på fuldtid\" (I work full-time). It is built from fuld (full) and tid (time). \"Fuld\" also means \"drunk\": \"Han er fuld\" (He is drunk).",
+  "explanation": "\"På fuldtid\" means \"full-time\". It is built from \"fuld\" (full) and \"tid\" (time). To say someone is drunk, the word \"fuld\" is also used: \"Han er fuld\" (He is drunk).",
   "forms": [
    {
     "da": "Jeg arbejder på fuldtid.",
@@ -13164,16 +13188,16 @@
     "en": "part-time"
    },
    {
-    "da": "et fuldtidsjob",
-    "en": "a full-time job"
-   },
-   {
     "da": "overarbejde",
     "en": "overtime"
    },
    {
     "da": "en arbejdsuge",
     "en": "a work week"
+   },
+   {
+    "da": "en arbejdstid",
+    "en": "working hours"
    }
   ],
   "sentence": {
@@ -13182,7 +13206,7 @@
   }
  },
  "på gensyn": {
-  "explanation": "\"På gensyn\" means \"until we see each other again\" and is a polite, slightly formal goodbye: \"Tak for i dag, på gensyn!\" (Thanks for today, until we meet again!). With friends, \"vi ses\" (see you) is more common.",
+  "explanation": "\"På gensyn\" means \"see you again\". It is built from \"på\" (on) and \"et gensyn\" (a seeing again). To end a visit politely, say: \"Tak for i dag, på gensyn!\" (Thanks for today, see you again!)",
   "forms": [
    {
     "da": "På gensyn!",
@@ -13209,6 +13233,10 @@
    {
     "da": "hav det godt",
     "en": "take care"
+   },
+   {
+    "da": "vi ses",
+    "en": "see you"
    }
   ],
   "sentence": {
@@ -13217,7 +13245,7 @@
   }
  },
  "på grund af": {
-  "explanation": "\"På grund af\" means \"because of\": \"på grund af regnen\" (because of the rain). To give a reason with a verb in it, use \"fordi\" (because): \"fordi det regner\" (because it is raining).",
+  "explanation": "\"På grund af\" means \"because of\". To give a reason that is a noun, say: \"på grund af regnen\" (because of the rain). To give a reason that has a verb in it, use \"fordi\" (because): \"Jeg bliver hjemme, fordi det regner\" (I am staying home because it is raining).",
   "forms": [
    {
     "da": "på grund af vejret",
@@ -13256,7 +13284,7 @@
   }
  },
  "på tide": {
-  "explanation": "\"På tide\" means \"about time\" and \"time to\". Use it when something should be done now: \"Det er på tide at gå hjem\" (It is time to go home). As an exclamation, \"Det er på tide!\" means \"It's about time!\", when something has waited too long.",
+  "explanation": "\"På tide\" means \"time\", as in \"it is time to do something\". To say it is time to act, say: \"Det er på tide at gå hjem\" (It is time to go home). To say something has waited too long, say: \"Det er på tide!\" (It is about time!)",
   "forms": [
    {
     "da": "Det er på tide at stå op.",
@@ -13291,7 +13319,7 @@
   }
  },
  "på tilbud": {
-  "explanation": "\"På tilbud\" means \"on sale\", for something sold at a lower price than usual. \"Tilbud\" is the word for \"offer\", so \"på tilbud\" is literally \"on offer\".",
+  "explanation": "\"På tilbud\" means \"on sale\". Literally, it is \"on offer\", since \"et tilbud\" means \"an offer\".",
   "forms": [
    {
     "da": "Den er på tilbud",
@@ -13326,7 +13354,7 @@
   }
  },
  "på trods af": {
-  "explanation": "\"På trods af\" means \"despite\".",
+  "explanation": "\"På trods af\" means \"despite\". To start a sentence with the obstacle, say: \"På trods af alt er hun glad\" (Despite everything, she is happy).",
   "forms": [
    {
     "da": "på trods af vejret",
@@ -13361,7 +13389,7 @@
   }
  },
  "på vej": {
-  "explanation": "\"På vej\" means \"on the way\": \"Jeg er på vej\" (I am on my way). To name the place you are going to, add \"til\" (to) or \"hjem\" (home): \"på vej til arbejde\" (on the way to work), \"på vej hjem\" (on the way home).",
+  "explanation": "\"På vej\" means \"on the way\". To say someone will arrive soon, say: \"Gæsterne er på vej\" (The guests are on the way). To name where you are going, add \"til\" (to): \"Jeg er på vej til arbejde\" (I am on my way to work).",
   "forms": [
    {
     "da": "Jeg er på vej.",
@@ -13396,7 +13424,7 @@
   }
  },
  "påfaldende": {
-  "explanation": "\"Påfaldende\" means \"striking\": so unusual that you cannot help noticing it, usually something odd rather than beautiful. Before a word such as \"stille\" (quiet) it means \"oddly\": \"Han var påfaldende stille\" (He was oddly quiet).",
+  "explanation": "\"Påfaldende\" means \"striking\". Before an adjective such as \"stille\" (quiet), it means \"strikingly\": \"Han var påfaldende stille\" (He was strikingly quiet).",
   "forms": [
    {
     "da": "en påfaldende lighed",
@@ -13435,7 +13463,7 @@
   }
  },
  "pålidelig": {
-  "explanation": "\"Pålidelig\" means \"reliable\", someone or something you can count on to do what is expected: \"Han er pålidelig\" (He is reliable). Do not mix it up with \"troværdig\" (believable), for what you believe: \"en troværdig forklaring\" (a believable explanation).",
+  "explanation": "\"Pålidelig\" means \"reliable\". To say you can count on a person, say: \"Han er pålidelig\" (He is reliable). Do not mix it up with \"troværdig\" (believable), which is about what people believe: \"en troværdig forklaring\" (a believable explanation).",
   "forms": [
    {
     "da": "en pålidelig bil",
@@ -13474,7 +13502,7 @@
   }
  },
  "pålæg": {
-  "explanation": "\"Pålæg\" means \"cold cuts\" or \"sandwich toppings\", anything you lay on a slice, such as ham, cheese or liver pâté.",
+  "explanation": "\"Pålæg\" means \"cold cuts\". It is built from \"på\" (on) and \"at lægge\" (to lay), because it is laid on bread. To name one kind, say: \"Jeg vil have leverpostej som pålæg\" (I want liver pâté as a topping).",
   "forms": [
    {
     "da": "noget pålæg",
@@ -13509,7 +13537,7 @@
   }
  },
  "påske": {
-  "explanation": "\"Påske\" means \"Easter\" and is used without \"en\" or \"et\". Danes get several days off around it: \"skærtorsdag\" (Maundy Thursday), \"langfredag\" (Good Friday) and \"anden påskedag\" (Easter Monday).",
+  "explanation": "\"Påske\" means \"Easter\". Denmark has public holidays around it: \"skærtorsdag\" (Maundy Thursday), \"langfredag\" (Good Friday) and \"anden påskedag\" (Easter Monday). To say you are off work, say: \"Jeg har fri i påsken\" (I am off during Easter).",
   "forms": [
    {
     "da": "påske",
@@ -13540,6 +13568,10 @@
    {
     "da": "pinse",
     "en": "Whitsun"
+   },
+   {
+    "da": "en påskefrokost",
+    "en": "an Easter lunch"
    }
   ],
   "sentence": {
@@ -13548,7 +13580,7 @@
   }
  },
  "påskedag": {
-  "explanation": "\"Påskedag\" means \"Easter Sunday\", the main day of Easter. The day after is called \"anden påskedag\" (Easter Monday), and both are public holidays in Denmark.",
+  "explanation": "\"Påskedag\" means \"Easter Sunday\". The day after is \"anden påskedag\" (Easter Monday), and both are public holidays in Denmark. To say you visit someone then, say: \"Vi besøger mormor anden påskedag\" (We visit grandma on Easter Monday).",
   "forms": [
    {
     "da": "påskedag",
@@ -13583,7 +13615,7 @@
   }
  },
  "påtrængende": {
-  "explanation": "\"Påtrængende\" means \"pushy\" or \"pressing\". About a person, it means too eager and not leaving you alone: \"Sælgeren var påtrængende\" (The salesperson was pushy). About a need, it means urgent: \"et påtrængende behov\" (a pressing need).",
+  "explanation": "\"Påtrængende\" means \"overpowering\". To say a person is too eager and will not leave you alone, it means \"pushy\": \"Han var for påtrængende\" (He was too pushy). To say a need is urgent, it means \"pressing\": \"et påtrængende behov\" (a pressing need).",
   "forms": [
    {
     "da": "en påtrængende lugt",
@@ -13604,8 +13636,8 @@
     "en": "assertive"
    },
    {
-    "da": "opdringende",
-    "en": "obtrusive"
+    "da": "insisterende",
+    "en": "insistent"
    },
    {
     "da": "akut",
@@ -13622,7 +13654,7 @@
   }
  },
  "pæn": {
-  "explanation": "\"Pæn\" means \"nice-looking\" or \"neat\": \"en pæn kjole\" (a nice dress), \"et pænt værelse\" (a neat room). Said to a child, \"Vær pæn!\" means \"Be good!\".",
+  "explanation": "\"Pæn\" means \"nice\", in the sense of good-looking or neat. To say a room is neat, say: \"Det er et pænt værelse\" (It is a neat room). To tell a child to behave, say: \"Vær pæn!\" (Be good!)",
   "forms": [
    {
     "da": "en pæn kjole",
@@ -13649,6 +13681,10 @@
    {
     "da": "ryddelig",
     "en": "tidy"
+   },
+   {
+    "da": "flot",
+    "en": "good-looking"
    }
   ],
   "sentence": {

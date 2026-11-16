@@ -1,6 +1,6 @@
 {
  "at observere": {
-  "explanation": "\"At observere\" means \"to observe\", to watch something closely in order to learn from it: \"at observere fuglene\" (to observe the birds).",
+  "explanation": "\"At observere\" means \"to observe\". To say you watch animals in nature, say: \"at observere fuglene\" (to observe the birds).",
   "forms": [
    {
     "da": "at observere",
@@ -26,7 +26,7 @@
    },
    {
     "da": "at iagttage",
-    "en": "to watch closely"
+    "en": "to watch"
    },
    {
     "da": "at overvåge",
@@ -34,7 +34,7 @@
    },
    {
     "da": "at betragte",
-    "en": "to watch"
+    "en": "to regard"
    }
   ],
   "sentence": {
@@ -43,7 +43,7 @@
   }
  },
  "at offentliggøre": {
-  "explanation": "\"At offentliggøre\" means \"to publish / make public\", to let everyone know something that was private. You use it when a result or a decision is announced: \"Regeringen offentliggør planen\" (The government makes the plan public).",
+  "explanation": "\"At offentliggøre\" means \"to publish or make public\". It is built from \"offentlig\" (public) and \"at gøre\" (to make). To say an official body makes something known, say: \"Regeringen offentliggør planen\" (The government makes the plan public).",
   "forms": [
    {
     "da": "at offentliggøre",
@@ -65,7 +65,7 @@
   "related": [
    {
     "da": "en offentliggørelse",
-    "en": "a publication / release"
+    "en": "a publication"
    },
    {
     "da": "hemmelig",
@@ -73,7 +73,7 @@
    },
    {
     "da": "at udgive",
-    "en": "to publish (a book)"
+    "en": "to publish"
    },
    {
     "da": "at afsløre",
@@ -86,7 +86,7 @@
   }
  },
  "at ofre": {
-  "explanation": "\"At ofre\" means \"to sacrifice\", to give up something valuable for a person or a goal, such as time or money: \"Hun ofrer sin weekend\" (She gives up her weekend). It is also used for an offering to a god: \"at ofre til guderne\" (to make an offering to the gods).",
+  "explanation": "\"At ofre\" means \"to sacrifice\". To say you give up something valuable for others, say: \"Hun ofrer sin weekend\" (She gives up her weekend). To say someone makes an offering to a god, say: \"at ofre til guderne\" (to make an offering to the gods).",
   "forms": [
    {
     "da": "at ofre",
@@ -108,7 +108,7 @@
   "related": [
    {
     "da": "et offer",
-    "en": "a sacrifice / victim"
+    "en": "a victim"
    },
    {
     "da": "at undvære",
@@ -120,7 +120,7 @@
    },
    {
     "da": "at skænke",
-    "en": "to give / donate"
+    "en": "to donate"
    }
   ],
   "sentence": {
@@ -129,7 +129,7 @@
   }
  },
  "at omdanne": {
-  "explanation": "\"At omdanne\" means \"to transform\", to change something completely into a new form or use. You can say it about a person too: \"Oplevelsen omdannede ham\" (The experience transformed him).",
+  "explanation": "\"At omdanne\" means \"to transform\". To say what something becomes, add \"til\" (into): \"De omdanner fabrikken til boliger\" (They transform the factory into homes).",
   "forms": [
    {
     "da": "at omdanne",
@@ -151,15 +151,15 @@
   "related": [
    {
     "da": "at omskabe",
-    "en": "to reshape"
+    "en": "to remodel"
    },
    {
     "da": "at ændre",
-    "en": "to alter"
+    "en": "to change"
    },
    {
     "da": "en ombygning",
-    "en": "a rebuilding"
+    "en": "a conversion"
    },
    {
     "da": "at bevare",
@@ -172,7 +172,7 @@
   }
  },
  "at omfatte": {
-  "explanation": "\"At omfatte\" means \"to include\".",
+  "explanation": "\"At omfatte\" means \"to include\". It is built from \"om\" (around) and \"at fatte\" (to grasp). To say what a price covers, say: \"Prisen omfatter morgenmad\" (The price includes breakfast).",
   "forms": [
    {
     "da": "at omfatte",
@@ -215,7 +215,7 @@
   }
  },
  "at omformulere": {
-  "explanation": "\"At omformulere\" means \"to rephrase\", to say or write the same thing again in other words. You say it when something was unclear: \"Kan du omformulere det?\" (Can you rephrase that?)",
+  "explanation": "\"At omformulere\" means \"to rephrase\". The \"om\" at the start works like \"re-\" in \"at omskrive\" (to rewrite). When someone did not understand you, ask: \"Kan du omformulere det?\" (Can you rephrase that?)",
   "forms": [
    {
     "da": "at omformulere",
@@ -236,12 +236,8 @@
   ],
   "related": [
    {
-    "da": "at omskrive",
-    "en": "to rewrite"
-   },
-   {
     "da": "at præcisere",
-    "en": "to make more precise"
+    "en": "to specify"
    },
    {
     "da": "en formulering",
@@ -250,6 +246,10 @@
    {
     "da": "at gentage",
     "en": "to repeat"
+   },
+   {
+    "da": "at forklare",
+    "en": "to explain"
    }
   ],
   "sentence": {
@@ -258,7 +258,7 @@
   }
  },
  "at omgive": {
-  "explanation": "\"At omgive\" means \"to surround\": to be on all sides of something: \"En mur omgiver byen\" (A wall surrounds the town). You often see it as \"omgivet af\" (surrounded by): \"Huset er omgivet af skov\" (The house is surrounded by forest).",
+  "explanation": "\"At omgive\" means \"to surround\". To say what a place is surrounded by, use \"omgivet af\" (surrounded by): \"Huset er omgivet af skov\" (The house is surrounded by forest).",
   "forms": [
    {
     "da": "at omgive",
@@ -297,7 +297,7 @@
   }
  },
  "at omgå": {
-  "explanation": "\"At omgå\" means \"to bypass\" or \"to get around\" a problem, a rule or an obstacle, often by finding a clever way past: \"omgå et problem\" (get around a problem). Do not mix it up with \"at omgås\" (to socialize), which only adds an \"s\".",
+  "explanation": "\"At omgå\" means \"to bypass or get around\". To say you get around a difficulty, say: \"Vi omgår problemet\" (We get around the problem). Do not mix it up with \"at omgås\", which means \"to socialize\": \"Jeg omgås mine kolleger\" (I socialize with my colleagues).",
   "forms": [
    {
     "da": "at omgå",
@@ -336,7 +336,7 @@
   }
  },
  "at omgås": {
-  "explanation": "\"At omgås\" means \"to associate with\" or \"to socialize\": to spend time with people regularly: \"Jeg omgås mest folk fra arbejdet\" (I mostly spend time with people from work). Do not mix it up with \"at omgå\" (to bypass), which has no \"s\".",
+  "explanation": "\"At omgås\" means \"to associate with or socialize\". To say who you spend time with, say: \"Jeg omgås mest folk fra arbejdet\" (I mostly spend time with people from work). Do not mix it up with \"at omgå\", which means \"to bypass\": \"Lastbilen omgår byen\" (The truck goes around the town).",
   "forms": [
    {
     "da": "at omgås",
@@ -375,7 +375,7 @@
   }
  },
  "at omringe": {
-  "explanation": "\"At omringe\" means \"to surround\", to stand on all sides of someone or something so that there is no way past. It is used for people, such as crowds and soldiers, and also for things: \"En mur omringer haven\" (A wall surrounds the garden).",
+  "explanation": "\"At omringe\" means \"to surround\". It is built from \"om\" (around) and \"ring\" (ring). To say a crowd closes in on something, say: \"Folk omringede scenen\" (People surrounded the stage).",
   "forms": [
    {
     "da": "at omringe",
@@ -418,7 +418,7 @@
   }
  },
  "at omstille sig": {
-  "explanation": "\"At omstille sig\" means \"to adapt\", to change how you work or live when the situation changes, for example after new rules or a new job. \"Sig\" means \"yourself\" and changes with the person: \"jeg omstiller mig\" (I adapt), \"du omstiller dig\" (you adapt), \"de omstiller sig\" (they adapt).",
+  "explanation": "\"At omstille sig\" means \"to adapt\". It needs \"sig\" (yourself), which changes with the person: \"jeg omstiller mig\" (I adapt) and \"de omstiller sig\" (they adapt). To say what you adapt to, add \"til\" (to): \"Vi må omstille os til nye regler\" (We have to adapt to new rules).",
   "forms": [
    {
     "da": "at omstille sig",
@@ -448,7 +448,7 @@
    },
    {
     "da": "en omstilling",
-    "en": "a changeover"
+    "en": "an adjustment"
    },
    {
     "da": "at holde fast ved",
@@ -461,7 +461,7 @@
   }
  },
  "at omstrukturere": {
-  "explanation": "\"At omstrukturere\" means \"to restructure\": to arrange something in a new way, such as a company, a school or a system: \"Kommunen omstrukturerer sine skoler\" (The city is restructuring its schools). The \"om\" at the start works like \"re-\" in other words, such as \"at omskrive\" (to rewrite).",
+  "explanation": "\"At omstrukturere\" means \"to restructure\". The \"om\" at the start works like \"re-\" in \"at omskrive\" (to rewrite). To say a city changes how its schools are organized, say: \"Kommunen omstrukturerer sine skoler\" (The city is restructuring its schools).",
   "forms": [
    {
     "da": "at omstrukturere",
@@ -487,11 +487,15 @@
    },
    {
     "da": "at omlægge",
-    "en": "to rearrange"
+    "en": "to reorganize"
    },
    {
     "da": "at omdanne",
     "en": "to transform"
+   },
+   {
+    "da": "en omstrukturering",
+    "en": "a restructuring"
    }
   ],
   "sentence": {
@@ -500,7 +504,7 @@
   }
  },
  "at omtale": {
-  "explanation": "\"At omtale\" means \"to mention\" or \"to refer to\", to speak of a person or thing, often in a newspaper or in public. To say how someone is described, add \"som\" (as): \"Hun omtales som byens bedste kok\" (She is referred to as the best cook in town).",
+  "explanation": "\"At omtale\" means \"to mention or refer to\". To say you mention a topic, say: \"Han omtalte aldrig ulykken\" (He never mentioned the accident). To say how someone is described, add \"som\" (as): \"Hun omtales som byens bedste kok\" (She is referred to as the best cook in town).",
   "forms": [
    {
     "da": "at omtale",
@@ -534,7 +538,7 @@
    },
    {
     "da": "at tie om",
-    "en": "to keep quiet about"
+    "en": "to keep silent about"
    }
   ],
   "sentence": {
@@ -543,7 +547,7 @@
   }
  },
  "at opbevare": {
-  "explanation": "\"At opbevare\" means \"to store\", to keep something in a place until it is needed or so that it stays safe, such as food, documents, tools or medicine.",
+  "explanation": "\"At opbevare\" means \"to store\". On a food label, the instruction to store something in a cool place reads: \"Opbevares køligt\" (Store in a cool place).",
   "forms": [
    {
     "da": "at opbevare",
@@ -565,7 +569,7 @@
   "related": [
    {
     "da": "at gemme",
-    "en": "to save / hide"
+    "en": "to keep"
    },
    {
     "da": "et lager",
@@ -577,7 +581,7 @@
    },
    {
     "da": "at smide ud",
-    "en": "to throw away"
+    "en": "to throw out"
    }
   ],
   "sentence": {
@@ -586,7 +590,7 @@
   }
  },
  "at opbygge": {
-  "explanation": "\"At opbygge\" means \"to build up\", to create something that grows slowly step by step, such as a business, muscles or trust. For a house, use \"at bygge\" (to build) instead.",
+  "explanation": "\"At opbygge\" means \"to build up\". It is built from \"op\" (up) and \"at bygge\" (to build). To say you grow trust slowly, say: \"Vi opbygger tillid\" (We build up trust). For a house, use \"at bygge\" instead: \"Vi bygger et hus\" (We are building a house).",
   "forms": [
    {
     "da": "at opbygge",
@@ -620,7 +624,7 @@
    },
    {
     "da": "en opbygning",
-    "en": "a structure"
+    "en": "a build-up"
    }
   ],
   "sentence": {
@@ -629,7 +633,7 @@
   }
  },
  "at opdage": {
-  "explanation": "\"At opdage\" means \"to discover\": to find or notice something you did not know about: \"Jeg opdagede en fejl\" (I noticed a mistake). It often comes as a surprise: \"Hun opdagede, at tasken var væk\" (She discovered that the bag was gone).",
+  "explanation": "\"At opdage\" means \"to discover\". To say you notice a thing, say: \"Jeg opdagede en fejl\" (I noticed a mistake). To say you find out that something happened, add \"at\" (that): \"Hun opdagede, at tasken var væk\" (She discovered that the bag was gone).",
   "forms": [
    {
     "da": "at opdage",
@@ -672,7 +676,7 @@
   }
  },
  "at opdatere": {
-  "explanation": "\"At opdatere\" means \"to update\", to make something new or current, such as a program or a list.",
+  "explanation": "\"At opdatere\" means \"to update\". To remind someone to keep a program current, say: \"Husk at opdatere appen\" (Remember to update the app).",
   "forms": [
    {
     "da": "at opdatere",
@@ -711,7 +715,7 @@
   }
  },
  "at opdele": {
-  "explanation": "\"At opdele\" means \"to divide\", to split something into several parts or groups: \"Læreren opdeler klassen i fire hold\" (The teacher splits the class into four teams). \"At dele\" (to share) is used more for giving a part to someone else: \"Jeg deler kagen med dig\" (I share the cake with you).",
+  "explanation": "\"At opdele\" means \"to divide\". To say you split something into parts, add \"i\" (into): \"Læreren opdeler klassen i fire hold\" (The teacher splits the class into four teams). Do not mix it up with \"at dele\", which means \"to share\": \"Jeg deler kagen med dig\" (I share the cake with you).",
   "forms": [
    {
     "da": "at opdele",
@@ -737,7 +741,7 @@
    },
    {
     "da": "at samle",
-    "en": "to collect"
+    "en": "to gather"
    },
    {
     "da": "en opdeling",
@@ -745,7 +749,7 @@
    },
    {
     "da": "at skille ad",
-    "en": "to take apart"
+    "en": "to separate"
    }
   ],
   "sentence": {
@@ -754,7 +758,7 @@
   }
  },
  "at opdrage": {
-  "explanation": "\"At opdrage\" means \"to raise (a child)\", to teach a child how to behave.",
+  "explanation": "\"At opdrage\" means \"to raise (a child)\". To say who raises the children, say: \"Hun opdrager sine børn alene\" (She raises her children alone).",
   "forms": [
    {
     "da": "at opdrage",
@@ -780,7 +784,7 @@
    },
    {
     "da": "uopdragen",
-    "en": "badly brought up"
+    "en": "ill-mannered"
    },
    {
     "da": "at uddanne",
@@ -797,7 +801,7 @@
   }
  },
  "at operere": {
-  "explanation": "\"At operere\" means \"to operate\", on a patient: \"Lægen opererer i morgen\" (The doctor operates tomorrow). It is also used for a business working somewhere: \"Firmaet opererer i Europa\" (The company operates in Europe).",
+  "explanation": "\"At operere\" means \"to operate\", as in surgery. To say a doctor performs surgery, say: \"Lægen opererer i morgen\" (The doctor operates tomorrow). A second meaning is a business working in a place: \"Firmaet opererer i Europa\" (The company operates in Europe).",
   "forms": [
    {
     "da": "at operere",
@@ -836,7 +840,7 @@
   }
  },
  "at opfange": {
-  "explanation": "\"At opfange\" means \"to pick up\" or \"to catch\" something that is sent or passing by, such as a sound, a signal or a message.",
+  "explanation": "\"At opfange\" means \"to pick up or catch\". It is built from \"op\" (up) and \"at fange\" (to catch). To say a device does not receive a signal, say: \"Radioen opfanger ikke signalet her\" (The radio does not pick up the signal here).",
   "forms": [
    {
     "da": "at opfange",
@@ -862,7 +866,7 @@
    },
    {
     "da": "at aflytte",
-    "en": "to eavesdrop on"
+    "en": "to eavesdrop"
    },
    {
     "da": "at overhøre",
@@ -870,7 +874,7 @@
    },
    {
     "da": "at opdage",
-    "en": "to detect"
+    "en": "to notice"
    }
   ],
   "sentence": {
@@ -879,7 +883,7 @@
   }
  },
  "at opfatte": {
-  "explanation": "\"At opfatte\" means \"to perceive\" and has two uses. For how you see a person or a situation: \"Hvordan opfatter du ham?\" (How do you see him?). For catching words you hear: \"Jeg opfattede ikke navnet\" (I did not catch the name).",
+  "explanation": "\"At opfatte\" means \"to perceive\". To ask how someone sees a person or a situation, say: \"Hvordan opfatter du ham?\" (How do you see him?) To say you did not catch words you heard, say: \"Jeg opfattede ikke navnet\" (I did not catch the name).",
   "forms": [
    {
     "da": "at opfatte",
@@ -922,7 +926,7 @@
   }
  },
  "at opfinde": {
-  "explanation": "\"At opfinde\" means \"to invent\", to make something completely new that did not exist before. It also means to make up a story: \"Han opfandt en undskyldning\" (He made up an excuse).",
+  "explanation": "\"At opfinde\" means \"to invent\". It is built from \"op\" (up) and \"at finde\" (to find). A second meaning is \"to make up\": \"Han opfandt en undskyldning\" (He made up an excuse).",
   "forms": [
    {
     "da": "at opfinde",
@@ -965,7 +969,7 @@
   }
  },
  "at opfordre": {
-  "explanation": "\"At opfordre\" means \"to urge\" or \"to encourage\", to ask someone strongly to do something, often in public: \"Politiet opfordrer folk til at blive hjemme\" (The police urge people to stay at home). To lift someone's mood, use \"at opmuntre\" (to cheer up): \"Hun opmuntrede mig\" (She cheered me up).",
+  "explanation": "\"At opfordre\" means \"to urge or encourage\". To say who is urged to do what, add \"til at\" (to) before the verb: \"Politiet opfordrer folk til at blive hjemme\" (The police urge people to stay at home). Do not mix it up with \"at opmuntre\", which means \"to cheer up\": \"Hun opmuntrede mig\" (She cheered me up).",
   "forms": [
    {
     "da": "at opfordre",
@@ -987,7 +991,7 @@
   "related": [
    {
     "da": "en opfordring",
-    "en": "a call to act"
+    "en": "an appeal"
    },
    {
     "da": "at anmode",
@@ -1008,7 +1012,7 @@
   }
  },
  "at opfylde": {
-  "explanation": "\"At opfylde\" means \"to fulfill\", to do what a promise, a hope or a rule asks for.",
+  "explanation": "\"At opfylde\" means \"to fulfill\". It is built from \"op\" (up) and \"at fylde\" (to fill). To say you keep a promise, say: \"Han opfylder sit løfte\" (He fulfills his promise).",
   "forms": [
    {
     "da": "at opfylde",
@@ -1038,7 +1042,7 @@
    },
    {
     "da": "at indfri",
-    "en": "to deliver on"
+    "en": "to redeem"
    },
    {
     "da": "at svigte",
@@ -1051,7 +1055,7 @@
   }
  },
  "at opføre": {
-  "explanation": "\"At opføre\" means \"to build\" or \"to perform\". For building, \"at opføre\" is used for larger buildings: \"Kommunen opfører en ny skole\" (The council is building a new school). For performing, it means to put on a play or a show: \"Teatret opfører et stykke\" (The theater is putting on a play). You can tell which meaning is intended from the context of the sentence. With \"sig\" (oneself), \"at opføre\" means \"to behave\": \"at opføre sig pænt\" (to behave nicely).",
+  "explanation": "\"At opføre\" means \"to build or perform\". To say a building is put up, say: \"Kommunen opfører en ny skole\" (The council is building a new school). To say a play is put on, say: \"Teatret opfører et stykke\" (The theater is putting on a play). With \"sig\" (oneself), it means \"to behave\": \"at opføre sig pænt\" (to behave nicely).",
   "forms": [
    {
     "da": "at opføre",
@@ -1094,7 +1098,7 @@
   }
  },
  "at opføre sig": {
-  "explanation": "\"At opføre sig\" means \"to behave\", and it needs a word like \"pænt\" (nicely) or \"dårligt\" (badly): \"Han opfører sig dårligt\" (He behaves badly). Without \"sig\" (oneself), \"at opføre\" means \"to build\": \"De opfører et hus\" (They are building a house).",
+  "explanation": "\"At opføre sig\" means \"to behave\". To say how someone behaves, add a word like \"pænt\" (nicely) or \"dårligt\" (badly): \"Han opfører sig dårligt\" (He behaves badly). Without \"sig\" (oneself), \"at opføre\" means \"to build\": \"De opfører et hus\" (They are building a house).",
   "forms": [
    {
     "da": "at opføre sig",
@@ -1116,7 +1120,7 @@
   "related": [
    {
     "da": "en opførsel",
-    "en": "behavior"
+    "en": "a behavior"
    },
    {
     "da": "uartig",
@@ -1137,7 +1141,7 @@
   }
  },
  "at opgive": {
-  "explanation": "\"At opgive\" means \"to give up\", to quit trying because it seems impossible or not worth it: \"Hun opgav at finde nøglen\" (She gave up looking for the key). It also means to give information: \"at opgive et navn\" (to give a name).",
+  "explanation": "\"At opgive\" means \"to give up\". To say you stop trying, say: \"Hun opgav at finde nøglen\" (She gave up looking for the key). A second meaning is \"to state\": \"at opgive et navn\" (to give a name).",
   "forms": [
    {
     "da": "at opgive",
@@ -1163,11 +1167,11 @@
    },
    {
     "da": "at holde ud",
-    "en": "to endure"
+    "en": "to hold out"
    },
    {
     "da": "at kapitulere",
-    "en": "to capitulate"
+    "en": "to surrender"
    },
    {
     "da": "at overgive sig",
@@ -1180,7 +1184,7 @@
   }
  },
  "at opgradere": {
-  "explanation": "\"At opgradere\" means \"to upgrade\", to replace something with a newer or stronger version, such as a phone, a program or a plan: \"Jeg opgraderer mit abonnement\" (I upgrade my subscription). It is built like the English word, with \"op\" (up) in front. For making something better in any way, use \"at forbedre\" (to improve).",
+  "explanation": "\"At opgradere\" means \"to upgrade\". To say you move to a better plan, say: \"Jeg opgraderer mit abonnement\" (I upgrade my subscription). For making something better in any way, use \"at forbedre\" (to improve): \"Vi forbedrer servicen\" (We improve the service).",
   "forms": [
    {
     "da": "at opgradere",
@@ -1223,7 +1227,7 @@
   }
  },
  "at opgøre": {
-  "explanation": "\"At opgøre\" means \"to calculate\" or \"to settle\": to add everything up and find the final amount: \"opgøre regnskabet\" (settle the accounts), \"opgøre skaden\" (calculate the damage).",
+  "explanation": "\"At opgøre\" means \"to calculate or settle\". It is built from \"op\" (up) and \"at gøre\" (to do). To say you work out the final accounts, say: \"opgøre regnskabet\" (settle the accounts). To say you work out how bad a loss is, say: \"opgøre skaden\" (calculate the damage).",
   "forms": [
    {
     "da": "at opgøre",
@@ -1245,11 +1249,11 @@
   "related": [
    {
     "da": "en opgørelse",
-    "en": "a statement of figures"
+    "en": "a statement"
    },
    {
     "da": "at beregne",
-    "en": "to compute"
+    "en": "to calculate"
    },
    {
     "da": "at tælle op",
@@ -1262,7 +1266,7 @@
   }
  },
  "at ophæve": {
-  "explanation": "\"At ophæve\" means \"to repeal\" or \"to lift\": to officially end a rule or a decision: \"ophæve en lov\" (repeal a law), \"ophæve en regel\" (lift a rule).",
+  "explanation": "\"At ophæve\" means \"to repeal or lift\". To say a law is ended officially, say: \"ophæve en lov\" (repeal a law). To say a rule stops applying, say: \"ophæve en regel\" (lift a rule).",
   "forms": [
    {
     "da": "at ophæve",
@@ -1284,7 +1288,7 @@
   "related": [
    {
     "da": "at annullere",
-    "en": "to annul"
+    "en": "to cancel"
    },
    {
     "da": "at indføre",
@@ -1305,7 +1309,7 @@
   }
  },
  "at ophøre": {
-  "explanation": "\"At ophøre\" means \"to cease\", to come to an end, usually for something that has been going on: \"Støjen ophører klokken ti\" (The noise ceases at ten). It sounds official, such as in letters and announcements. In everyday speech people say \"at holde op\" (to stop): \"Hold op!\" (Stop it!)",
+  "explanation": "\"At ophøre\" means \"to cease\". To say something ends at a time, say: \"Støjen ophører klokken ti\" (The noise ceases at ten). To tell someone to stop, use \"at holde op\" (to stop): \"Hold op!\" (Stop it!)",
   "forms": [
    {
     "da": "at ophøre",
@@ -1348,7 +1352,7 @@
   }
  },
  "at opklare": {
-  "explanation": "\"At opklare\" means \"to solve (a case)\", to find out the truth about a crime or a mystery. It can also mean to clear up a misunderstanding: \"Vi må opklare, hvad der skete\" (We must find out what happened). For puzzles and math problems, use \"at løse\" (to solve).",
+  "explanation": "\"At opklare\" means \"to solve (a case)\". To say you find out what happened, say: \"Vi må opklare, hvad der skete\" (We must find out what happened). For puzzles and math problems, use \"at løse\" (to solve): \"Jeg løser opgaven\" (I solve the exercise).",
   "forms": [
    {
     "da": "at opklare",
@@ -1374,7 +1378,7 @@
    },
    {
     "da": "en opklaring",
-    "en": "a clearing-up (of a case)"
+    "en": "a clearing up"
    },
    {
     "da": "en detektiv",
@@ -1382,7 +1386,7 @@
    },
    {
     "da": "at afsløre",
-    "en": "to expose"
+    "en": "to reveal"
    }
   ],
   "sentence": {
@@ -1391,7 +1395,7 @@
   }
  },
  "at oplade": {
-  "explanation": "\"At oplade\" means \"to charge\", to fill a battery with power: \"Jeg oplader min computer\" (I charge my computer). In daily speech, people often drop \"op\" (up) and say \"at lade\" (to charge): \"Jeg lader min telefon\" (I am charging my phone).",
+  "explanation": "\"At oplade\" means \"to charge\", as in a battery. To say you charge a device, say: \"Jeg oplader min computer\" (I charge my computer). The shorter \"at lade\" (to charge) also exists: \"Jeg lader min telefon\" (I am charging my phone).",
   "forms": [
    {
     "da": "at oplade",
@@ -1413,7 +1417,7 @@
   "related": [
    {
     "da": "en stikkontakt",
-    "en": "a power outlet"
+    "en": "a socket"
    },
    {
     "da": "et ladekabel",
@@ -1430,7 +1434,7 @@
   }
  },
  "at opleve": {
-  "explanation": "\"At opleve\" means \"to experience\", to go through something yourself.",
+  "explanation": "\"At opleve\" means \"to experience\". It is built from \"op\" (up) and \"at leve\" (to live). To say something happened to you, say: \"Vi oplevede en flot solnedgang\" (We experienced a beautiful sunset).",
   "forms": [
    {
     "da": "at opleve",
@@ -1456,7 +1460,7 @@
    },
    {
     "da": "en erfaring",
-    "en": "experience gained over time"
+    "en": "experience"
    },
    {
     "da": "at prøve",
@@ -1469,7 +1473,7 @@
   }
  },
  "at oplyse": {
-  "explanation": "\"At oplyse\" means \"to inform\" or \"to light up\". For \"to inform\", it means to give someone facts, such as news from an authority: \"Politiet oplyser, at manden er fundet\" (The police say the man has been found). For \"to light up\", it is used for places: \"Månen oplyser vejen\" (The moon lights up the road).",
+  "explanation": "\"At oplyse\" means \"to inform or light up\". To say an authority gives facts, say: \"Politiet oplyser, at manden er fundet\" (The police say the man has been found). To say light shines on a place, say: \"Månen oplyser vejen\" (The moon lights up the road).",
   "forms": [
    {
     "da": "at oplyse",
@@ -1512,7 +1516,7 @@
   }
  },
  "at oplære": {
-  "explanation": "\"At oplære\" means \"to train\": to show a person how to do the practical work of a job, step by step: \"Butikken oplærer ham i at bruge kassen\" (The store trains him to use the register). For sports and exercise, Danes say \"at træne\" (to work out) instead.",
+  "explanation": "\"At oplære\" means \"to train\", as in teaching someone a job. To say a person is shown how to do the work, say: \"Butikken oplærer ham i at bruge kassen\" (The store trains him to use the register). For sports and exercise, use \"at træne\" (to work out): \"Jeg træner hver dag\" (I work out every day).",
   "forms": [
    {
     "da": "at oplære",
@@ -1534,7 +1538,7 @@
   "related": [
    {
     "da": "en oplæring",
-    "en": "a training period"
+    "en": "a training"
    },
    {
     "da": "at undervise",
@@ -1551,7 +1555,7 @@
   }
  },
  "at opmuntre": {
-  "explanation": "\"At opmuntre\" means \"to encourage\" or \"to cheer up\", to give someone courage or a better mood when they feel down: \"Læreren opmuntrede hende til at prøve igen\" (The teacher encouraged her to try again). To ask someone strongly to act, use \"at opfordre\" (to urge).",
+  "explanation": "\"At opmuntre\" means \"to encourage or cheer up\". To say someone gives a person courage, say: \"Læreren opmuntrede hende til at prøve igen\" (The teacher encouraged her to try again). Do not mix it up with \"at opfordre\", which means \"to urge\": \"Politiet opfordrer folk til at blive hjemme\" (The police urge people to stay at home).",
   "forms": [
    {
     "da": "at opmuntre",
@@ -1594,7 +1598,7 @@
   }
  },
  "at opnå": {
-  "explanation": "\"At opnå\" means \"to achieve\", to end up with a result through effort or time: \"at opnå et godt resultat\" (to achieve a good result). It also works for a result you reach with other people, such as an agreement: \"at opnå enighed\" (to come to an agreement).",
+  "explanation": "\"At opnå\" means \"to achieve\". To say you reach a result, say: \"at opnå et godt resultat\" (to achieve a good result). To say people reach an agreement, say: \"at opnå enighed\" (to come to an agreement).",
   "forms": [
    {
     "da": "at opnå",
@@ -1624,7 +1628,7 @@
    },
    {
     "da": "en præstation",
-    "en": "an accomplishment"
+    "en": "an achievement"
    },
    {
     "da": "at mislykkes",
@@ -1637,7 +1641,7 @@
   }
  },
  "at opprioritere": {
-  "explanation": "\"At opprioritere\" means \"to prioritize higher\": to make something more important than before, with more attention and funding: \"opprioritere ældreplejen\" (give elder care more attention). The \"op\" works like \"up\" in English.",
+  "explanation": "\"At opprioritere\" means \"to prioritize higher\". The \"op\" at the start works like \"up\" in English. To say elder care gets more attention, say: \"opprioritere ældreplejen\" (give elder care higher priority).",
   "forms": [
    {
     "da": "at opprioritere",
@@ -1659,15 +1663,15 @@
   "related": [
    {
     "da": "at nedprioritere",
-    "en": "to deprioritize"
+    "en": "to give lower priority"
    },
    {
     "da": "at satse på",
-    "en": "to focus on"
+    "en": "to bet on"
    },
    {
     "da": "at fremhæve",
-    "en": "to emphasize"
+    "en": "to highlight"
    },
    {
     "da": "at styrke",
@@ -1680,7 +1684,7 @@
   }
  },
  "at opretholde": {
-  "explanation": "\"At opretholde\" means \"to maintain\", to keep something going in the same state. Use it for something that would soon fail without effort: \"Politiet opretholder ordenen\" (The police maintain order), \"Vi må opretholde kontakten\" (We must keep up the contact). For cleaning and repairing a building or machine, use \"at vedligeholde\" (to keep in repair).",
+  "explanation": "\"At opretholde\" means \"to maintain\". To say the police keep things calm, say: \"Politiet opretholder ordenen\" (The police maintain order). To say you keep contact going, say: \"Vi må opretholde kontakten\" (We must keep up the contact). For a building or machine kept in repair, use \"at vedligeholde\" (to keep in repair): \"Vi vedligeholder maskinen\" (We maintain the machine).",
   "forms": [
    {
     "da": "at opretholde",
@@ -1706,7 +1710,7 @@
    },
    {
     "da": "at fastholde",
-    "en": "to stick to"
+    "en": "to hold on to"
    },
    {
     "da": "at bibeholde",
@@ -1723,7 +1727,7 @@
   }
  },
  "at oprette": {
-  "explanation": "\"At oprette\" means \"to set up\" or \"to create\", to make something official that did not exist before, such as an account, a company or a file: \"Jeg opretter en konto\" (I create an account). To put a thing in place, such as a shelf, use \"at opsætte\" (to set up): \"Jeg opsætter hylden\" (I put up the shelf).",
+  "explanation": "\"At oprette\" means \"to set up or create\". To say you make an account, say: \"Jeg opretter en konto\" (I create an account). To put a thing in place, such as a shelf, use \"at opsætte\" (to put up): \"Jeg opsætter hylden\" (I put up the shelf).",
   "forms": [
    {
     "da": "at oprette",
@@ -1753,7 +1757,7 @@
    },
    {
     "da": "at nedlægge",
-    "en": "to shut down"
+    "en": "to close down"
    },
    {
     "da": "at slette",
@@ -1766,7 +1770,7 @@
   }
  },
  "at opsige": {
-  "explanation": "\"At opsige\" means \"to cancel\" or \"to terminate\" something that runs over time, such as a job, a lease or a subscription, with notice: \"Jeg har opsagt min lejlighed\" (I have given notice on my apartment). For your own job, say \"opsige sin stilling\" (resign).",
+  "explanation": "\"At opsige\" means \"to cancel or terminate\". To say you give notice on a home, say: \"Jeg har opsagt min lejlighed\" (I have given notice on my apartment). To say you resign from your job, say: \"Jeg opsiger min stilling\" (I resign from my job).",
   "forms": [
    {
     "da": "at opsige",
@@ -1805,7 +1809,7 @@
   }
  },
  "at opstille": {
-  "explanation": "\"At opstille\" means \"to set up\" or \"to nominate\". To set up is to put things in position: \"Vi opstiller teltet\" (We set up the tent). In politics it means to put someone forward for election: \"Partiet opstiller Lars til valget\" (The party puts Lars forward for the election).",
+  "explanation": "\"At opstille\" means \"to set up or nominate\". To say things are put in position, say: \"Vi opstiller teltet\" (We set up the tent). To say a party puts someone forward for election, say: \"Partiet opstiller Lars til valget\" (The party puts Lars forward for the election).",
   "forms": [
    {
     "da": "at opstille",
@@ -1848,7 +1852,7 @@
   }
  },
  "at opstå": {
-  "explanation": "\"At opstå\" means \"to arise\" or \"to occur\", to come into being without anyone planning it, such as a problem, a fire or a misunderstanding: \"Der opstod en brand\" (A fire broke out). Do not mix it up with \"at stå op\" (to get out of bed): \"Jeg står op klokken syv\" (I get up at seven).",
+  "explanation": "\"At opstå\" means \"to arise or occur\". To say a problem or event comes into being, use it with the thing that appears: \"Der opstod en brand\" (A fire broke out). To say you get out of bed, use \"at stå op\" (to get up): \"Jeg står op klokken syv\" (I get up at seven).",
   "forms": [
    {
     "da": "at opstå",
@@ -1881,8 +1885,8 @@
     "en": "to disappear"
    },
    {
-    "da": "at starte",
-    "en": "to start"
+    "da": "at fremkomme",
+    "en": "to emerge"
    }
   ],
   "sentence": {
@@ -1891,7 +1895,7 @@
   }
  },
  "at opsummere": {
-  "explanation": "\"At opsummere\" means \"to summarize\", to give the key parts of something in a shorter form, such as a meeting, a text or a discussion. People often use it at the end, to wrap things up: \"Lad mig lige opsummere\" (Let me sum it up quickly).",
+  "explanation": "\"At opsummere\" means \"to summarize\". To start giving the key points at the end of a meeting, say: \"Lad mig lige opsummere\" (Let me sum it up quickly). The noun for the result is \"en opsummering\" (a summary).",
   "forms": [
    {
     "da": "at opsummere",
@@ -1934,7 +1938,7 @@
   }
  },
  "at opsætte": {
-  "explanation": "\"At opsætte\" means \"to set up\", to put something in place and make it ready, such as a shelf, a lamp or a program. To make an account or a company, use \"at oprette\" (to create).",
+  "explanation": "\"At opsætte\" means \"to set up\". It is built from \"op\" (up) and \"at sætte\" (to put). To say you set up a shelf, say: \"Jeg opsætter en hylde\" (I am setting up a shelf). To make an account or a company, use \"at oprette\" (to create): \"Jeg opretter en konto\" (I create an account).",
   "forms": [
    {
     "da": "at opsætte",
@@ -1977,7 +1981,7 @@
   }
  },
  "at opsøge": {
-  "explanation": "\"At opsøge\" means \"to seek out\", to go to a person or place on purpose, often because you need help or advice, instead of waiting for them to come to you: \"Han opsøgte lægen\" (He went to see the doctor).",
+  "explanation": "\"At opsøge\" means \"to seek out\". It is built from \"op\" (up) and \"at søge\" (to search). To say you go to a person on purpose, use it with the person: \"Han opsøgte lægen\" (He went to see the doctor).",
   "forms": [
    {
     "da": "at opsøge",
@@ -1998,10 +2002,6 @@
   ],
   "related": [
    {
-    "da": "at søge",
-    "en": "to search"
-   },
-   {
     "da": "at finde",
     "en": "to find"
    },
@@ -2012,6 +2012,10 @@
    {
     "da": "at undgå",
     "en": "to avoid"
+   },
+   {
+    "da": "at henvende sig",
+    "en": "to contact"
    }
   ],
   "sentence": {
@@ -2020,7 +2024,7 @@
   }
  },
  "at optage": {
-  "explanation": "\"At optage\" means \"to record\" sound or video: \"Jeg optager sangen\" (I am recording the song). It also means \"to take up\" room: \"Det optager meget plads\" (It takes up a lot of space).",
+  "explanation": "\"At optage\" means \"to record\", as in saving sound or video. To say you record a song, use it with the thing you save: \"Jeg optager sangen\" (I am recording the song). When you talk about something that fills room, it means \"to take up\": \"Det optager meget plads\" (It takes up a lot of space).",
   "forms": [
    {
     "da": "at optage",
@@ -2063,7 +2067,7 @@
   }
  },
  "at optimere": {
-  "explanation": "\"At optimere\" means \"to optimize\", to make something work as well as it can: \"Vi optimerer ruten\" (We optimize the route). To say only that something becomes better, use \"at forbedre\" (to improve): \"Jeg forbedrer min dansk\" (I am improving my Danish).",
+  "explanation": "\"At optimere\" means \"to optimize\". To say you make something work as well as possible, use it with the thing: \"Vi optimerer ruten\" (We optimize the route). To say only that something becomes better, use \"at forbedre\" (to improve): \"Jeg forbedrer min dansk\" (I am improving my Danish).",
   "forms": [
    {
     "da": "at optimere",
@@ -2106,7 +2110,7 @@
   }
  },
  "at optrappe": {
-  "explanation": "\"At optrappe\" means \"to escalate\": to make something bigger or more intense step by step: \"optrappe indsatsen\" (step up the effort). It is built from op (up) and trappe (staircase), so it goes up one step at a time.",
+  "explanation": "\"At optrappe\" means \"to escalate\". It is built from \"op\" (up) and \"en trappe\" (a staircase). To say you increase the effort step by step, use it with the thing that grows: \"Vi optrapper indsatsen\" (We are stepping up the effort).",
   "forms": [
    {
     "da": "at optrappe",
@@ -2149,7 +2153,7 @@
   }
  },
  "at optræde": {
-  "explanation": "\"At optræde\" means \"to perform\" or \"to appear\". It is used for people on stage, such as musicians and actors: \"Bandet optræder i aften\" (The band is performing tonight). It also means to appear in a role: \"at optræde som vidne\" (to appear as a witness).",
+  "explanation": "\"At optræde\" means \"to perform or appear\". When you talk about someone on stage, it means \"to perform\": \"Bandet optræder i aften\" (The band is performing tonight). When you talk about taking a role, it means \"to appear\": \"at optræde som vidne\" (to appear as a witness).",
   "forms": [
    {
     "da": "at optræde",
@@ -2171,15 +2175,15 @@
   "related": [
    {
     "da": "en optræden",
-    "en": "a show"
+    "en": "a performance"
    },
    {
-    "da": "en kunstner",
-    "en": "an artist"
+    "da": "at medvirke",
+    "en": "to take part in"
    },
    {
-    "da": "at spille",
-    "en": "to play"
+    "da": "at fremføre",
+    "en": "to perform"
    },
    {
     "da": "at underholde",
@@ -2192,7 +2196,7 @@
   }
  },
  "at ordne": {
-  "explanation": "\"At ordne\" means \"to fix\" or \"to sort out\" a task or problem. You say it when you take care of something yourself: \"Jeg ordner det\" (I will sort it out).",
+  "explanation": "\"At ordne\" means \"to fix or sort out\". To promise you will take care of a task yourself, say: \"Jeg ordner det\" (I will sort it out). To say a problem will work out, use \"sig\" (itself): \"Det ordner sig\" (It will work out).",
   "forms": [
    {
     "da": "at ordne",
@@ -2235,7 +2239,7 @@
   }
  },
  "at organisere": {
-  "explanation": "\"At organisere\" means \"to organize\": to plan and arrange something: \"Hun organiserer en tur\" (She is organizing a trip). It can also mean to put things in order: \"Jeg organiserer mine filer\" (I am organizing my files).",
+  "explanation": "\"At organisere\" means \"to organize\". To say you plan and arrange an event, use it with the event: \"Hun organiserer en tur\" (She is organizing a trip). To say you put things in order, use it with the things: \"Jeg organiserer mine filer\" (I am organizing my files).",
   "forms": [
    {
     "da": "at organisere",
@@ -2278,7 +2282,7 @@
   }
  },
  "at orientere": {
-  "explanation": "\"At orientere\" means \"to inform\" or \"to orient\". Most often you inform someone about something: \"Direktøren orienterer medarbejderne om planerne\" (The director informs the staff about the plans). With \"sig\" (oneself), \"at orientere sig\" means to look around to get your bearings.",
+  "explanation": "\"At orientere\" means \"to inform or orient\". To say you tell people about something, add \"om\" (about): \"Direktøren orienterer medarbejderne om planerne\" (The director informs the staff about the plans). To say you look around to get your bearings, add \"sig\" (oneself): \"Jeg orienterer mig på kortet\" (I get my bearings on the map).",
   "forms": [
    {
     "da": "at orientere",
@@ -2321,7 +2325,7 @@
   }
  },
  "at orke": {
-  "explanation": "\"At orke\" means \"to have the energy for\", and it is mostly used in questions and with \"ikke\" (not): \"Jeg orker ikke mere\" (I can't take any more). \"Orker du at gå en tur?\" (Do you have the energy for a walk?)",
+  "explanation": "\"At orke\" means \"to have the energy for\". To say you cannot take any more, add \"ikke\" (not): \"Jeg orker ikke mere\" (I can't take any more). To ask whether someone has the energy for something, say: \"Orker du at gå en tur?\" (Do you have the energy for a walk?)",
   "forms": [
    {
     "da": "at orke",
@@ -2364,7 +2368,7 @@
   }
  },
  "at overbevise": {
-  "explanation": "\"At overbevise\" means \"to convince\", to make someone believe or agree by giving reasons or proof: \"Hun overbeviste mig om, at det var sikkert\" (She convinced me that it was safe). \"At overtale\" (to persuade) gets someone to do something, while \"overbevise\" changes what they believe.",
+  "explanation": "\"At overbevise\" means \"to convince\". To say you make someone believe something by giving reasons, say: \"Hun overbeviste mig om, at det var sikkert\" (She convinced me that it was safe). To say you get someone to do something, use \"at overtale\" (to persuade): \"Hun overtalte mig til at tage med\" (She persuaded me to come along).",
   "forms": [
    {
     "da": "at overbevise",
@@ -2407,7 +2411,7 @@
   }
  },
  "at overdrage": {
-  "explanation": "\"At overdrage\" means \"to hand over\" or \"to transfer\", used when something official passes from one person to another, such as a company, a role or a right: \"overdrage ledelsen\" (to hand over the management). For giving someone an ordinary thing, use \"at give\" (to give).",
+  "explanation": "\"At overdrage\" means \"to hand over or transfer\". To say something official passes to another person, such as a company or a role, say: \"overdrage ledelsen\" (to hand over the management). To give someone an ordinary thing, use \"at give\" (to give): \"Jeg giver dig bogen\" (I give you the book).",
   "forms": [
    {
     "da": "at overdrage",
@@ -2450,7 +2454,7 @@
   }
  },
  "at overdrive": {
-  "explanation": "\"At overdrive\" means \"to exaggerate\", to say or do more than the facts or the situation call for: \"Du overdriver, det var kun to minutter\" (You are exaggerating, it was only two minutes). \"Over\" means \"beyond\", so the idea is going beyond what is true.",
+  "explanation": "\"At overdrive\" means \"to exaggerate\". To tell someone they are exaggerating, say: \"Du overdriver, det var kun to minutter\" (You are exaggerating, it was only two minutes). The noun is \"en overdrivelse\" (an exaggeration): \"Det er en overdrivelse\" (That is an exaggeration).",
   "forms": [
    {
     "da": "at overdrive",
@@ -2493,7 +2497,7 @@
   }
  },
  "at overføre": {
-  "explanation": "\"At overføre\" means \"to transfer\", to move something from one place or person to another: \"Jeg overfører penge til din konto\" (I transfer money to your account). It is also used for passing on an illness: \"at overføre smitte\" (to pass on an infection).",
+  "explanation": "\"At overføre\" means \"to transfer\". To say you move something from one place or person to another, say: \"Jeg overfører penge til din konto\" (I transfer money to your account). To say an illness is passed on, say: \"at overføre smitte\" (to pass on an infection).",
   "forms": [
    {
     "da": "at overføre",
@@ -2536,7 +2540,7 @@
   }
  },
  "at overføre penge": {
-  "explanation": "\"At overføre penge\" means \"to transfer money\", such as from one account to another: \"Hun overfører penge hver måned\" (She transfers money every month). You can also say \"at sende penge\" (to send money).",
+  "explanation": "\"At overføre penge\" means \"to transfer money\". To say how often you do it, say: \"Hun overfører penge hver måned\" (She transfers money every month). To say you send money to a person, use \"at sende penge\" (to send money): \"Jeg sender dig penge\" (I send you money).",
   "forms": [
    {
     "da": "at overføre penge",
@@ -2579,7 +2583,7 @@
   }
  },
  "at overgive sig": {
-  "explanation": "\"At overgive sig\" means \"to surrender\", to stop fighting and give yourself to the other side. \"Sig\" changes with the person: \"jeg overgiver mig\" (I surrender), \"de overgiver sig\" (they surrender). It also works in play, such as in a game or an argument: \"Jeg overgiver mig!\" (I give up!)",
+  "explanation": "\"At overgive sig\" means \"to surrender\". When you say who surrenders, \"sig\" (oneself) changes with the person: \"jeg overgiver mig\" (I surrender), \"de overgiver sig\" (they surrender). To say you give up in a game or an argument, say: \"Jeg overgiver mig!\" (I give up!)",
   "forms": [
    {
     "da": "at overgive sig",
@@ -2604,16 +2608,16 @@
     "en": "to capitulate"
    },
    {
-    "da": "at bøje sig",
-    "en": "to yield"
+    "da": "at give op",
+    "en": "to give up"
    },
    {
-    "da": "at vinde",
-    "en": "to win"
+    "da": "en overgivelse",
+    "en": "a surrender"
    },
    {
-    "da": "at tabe",
-    "en": "to lose"
+    "da": "at trodse",
+    "en": "to defy"
    }
   ],
   "sentence": {
@@ -2622,7 +2626,7 @@
   }
  },
  "at overgå": {
-  "explanation": "\"At overgå\" means \"to surpass\", to be better or greater than someone or something. It is often used about expectations: \"overgå forventningerne\" (to exceed the expectations).",
+  "explanation": "\"At overgå\" means \"to exceed or surpass\". It is built from \"over\" (over) and \"at gå\" (to go). To say something turned out better than people hoped, say: \"overgå forventningerne\" (to exceed the expectations).",
   "forms": [
    {
     "da": "at overgå",
@@ -2665,7 +2669,7 @@
   }
  },
  "at overhale": {
-  "explanation": "\"At overhale\" means \"to overtake\", to pass something on the road, such as a car or a bike: \"Hun overhaler en traktor\" (She overtakes a tractor). To catch up with someone ahead of you, use \"at indhente\" (to catch up): \"Jeg indhenter dig\" (I catch up with you).",
+  "explanation": "\"At overhale\" means \"to overtake\". To say you pass a vehicle on the road, use it with the vehicle: \"Hun overhaler en traktor\" (She overtakes a tractor). To say you catch up with someone ahead of you, use \"at indhente\" (to catch up): \"Jeg indhenter dig\" (I catch up with you).",
   "forms": [
    {
     "da": "at overhale",
@@ -2704,7 +2708,7 @@
   }
  },
  "at overholde": {
-  "explanation": "\"At overholde\" means \"to comply with\", to do what a rule, a deadline or an agreement requires: \"overholde fristen\" (to meet the deadline).",
+  "explanation": "\"At overholde\" means \"to comply with\". It is built from \"over\" (over) and \"at holde\" (to hold). To say you meet a deadline, say: \"overholde fristen\" (to meet the deadline).",
   "forms": [
    {
     "da": "at overholde",
@@ -2747,7 +2751,7 @@
   }
  },
  "at overkomme": {
-  "explanation": "\"At overkomme\" means \"to manage\", to have the strength or time to get a big task done. It is mostly used with \"ikke\" (not): \"Jeg kan ikke overkomme det hele\" (I cannot manage it all). For beating a fear or an opponent, use \"at overvinde\" (to overcome).",
+  "explanation": "\"At overkomme\" means \"to manage\". To say you do not have the strength or time for a big task, add \"ikke\" (not): \"Jeg kan ikke overkomme det hele\" (I cannot manage it all). To say you beat a fear, use \"at overvinde\" (to overcome): \"Hun overvandt sin frygt\" (She overcame her fear).",
   "forms": [
    {
     "da": "at overkomme",
@@ -2790,7 +2794,7 @@
   }
  },
  "at overlade": {
-  "explanation": "\"At overlade\" means \"to leave (to someone)\" or \"to hand over\", to let another person take care of something or decide it: \"Jeg overlader beslutningen til dig\" (I leave the decision to you). It is often used with \"til\" (to), as in \"overlade noget til tilfældighederne\" (to leave something to chance).",
+  "explanation": "\"At overlade\" means \"to leave (to someone) or hand over\". To say you let another person decide, say: \"Jeg overlader beslutningen til dig\" (I leave the decision to you). To say you leave something to chance, use \"til\" (to): \"overlade noget til tilfældighederne\" (to leave something to chance).",
   "forms": [
    {
     "da": "at overlade",
@@ -2833,7 +2837,7 @@
   }
  },
  "at overleve": {
-  "explanation": "\"At overleve\" means \"to survive\": \"Han overlevede ulykken\" (He survived the accident). It is built from over (over) and leve (to live), so it means to live through something.",
+  "explanation": "\"At overleve\" means \"to survive\". It is built from \"over\" (over) and \"at leve\" (to live), so it means to live through something. To say someone came through an accident, say: \"Han overlevede ulykken\" (He survived the accident).",
   "forms": [
    {
     "da": "at overleve",
@@ -2876,7 +2880,7 @@
   }
  },
  "at overnatte": {
-  "explanation": "\"At overnatte\" means \"to stay overnight\", such as at a hotel, a hostel or a friend's house.",
+  "explanation": "\"At overnatte\" means \"to stay overnight\". It is built from \"over\" (over) and \"en nat\" (a night). To say you sleep at a friend's home, say: \"Jeg overnatter hos en ven\" (I am staying overnight at a friend's).",
   "forms": [
    {
     "da": "at overnatte",
@@ -2901,12 +2905,12 @@
     "en": "an overnight stay"
    },
    {
-    "da": "en nat",
-    "en": "a night"
-   },
-   {
     "da": "at sove",
     "en": "to sleep"
+   },
+   {
+    "da": "at bo",
+    "en": "to stay"
    }
   ],
   "sentence": {
@@ -2915,7 +2919,7 @@
   }
  },
  "at overraske": {
-  "explanation": "\"At overraske\" means \"to surprise\": \"Jeg vil overraske min mor\" (I want to surprise my mom). It also means to catch someone off guard: \"Regnen overraskede os\" (The rain surprised us).",
+  "explanation": "\"At overraske\" means \"to surprise\". To say you plan something nice for someone, say: \"Jeg vil overraske min mor\" (I want to surprise my mom). To say something catches people off guard, say: \"Regnen overraskede os\" (The rain surprised us).",
   "forms": [
    {
     "da": "at overraske",
@@ -2958,7 +2962,7 @@
   }
  },
  "at overrække": {
-  "explanation": "\"At overrække\" means \"to present\", to hand something over in person to someone, often at a ceremony: \"Borgmesteren overrakte prisen\" (The mayor presented the prize).",
+  "explanation": "\"At overrække\" means \"to hand over or present\". It is built from \"over\" (over) and \"at række\" (to pass). To say a prize is handed to someone, say: \"Borgmesteren overrakte prisen\" (The mayor presented the prize). To ask someone to pass you something at the table, use \"at række\": \"Kan du række mig saltet?\" (Can you pass me the salt?)",
   "forms": [
    {
     "da": "at overrække",
@@ -3001,7 +3005,7 @@
   }
  },
  "at overse": {
-  "explanation": "\"At overse\" means \"to overlook\", to miss something by accident, such as a mistake or a sign: \"Jeg overså fejlen\" (I missed the error). It can also be on purpose, when you choose not to react to something small. Do not mix it up with the English word \"oversee\": \"at overse\" means to miss, not to supervise.",
+  "explanation": "\"At overse\" means \"to overlook\". To say you miss something by accident, say: \"Jeg overså fejlen\" (I missed the error). To say you choose not to react to something small, say: \"Jeg overser det denne gang\" (I will let it pass this time).",
   "forms": [
    {
     "da": "at overse",
@@ -3044,7 +3048,7 @@
   }
  },
  "at overskride": {
-  "explanation": "\"At overskride\" means \"to exceed\", to go past a limit such as a speed, a budget or a deadline: \"Vi har overskredet budgettet\" (We have gone over the budget).",
+  "explanation": "\"At overskride\" means \"to exceed\". To say you go past a limit, use it with the limit: \"Vi har overskredet budgettet\" (We have gone over the budget). To say you keep to a limit, use \"at overholde\" (to comply with): \"Jeg overholder fartgrænsen\" (I keep to the speed limit).",
   "forms": [
    {
     "da": "at overskride",
@@ -3069,12 +3073,12 @@
     "en": "to surpass"
    },
    {
-    "da": "at underskride",
-    "en": "to fall below"
+    "da": "en grænse",
+    "en": "a limit"
    },
    {
-    "da": "at overholde",
-    "en": "to comply with"
+    "da": "en overskridelse",
+    "en": "an exceeding"
    },
    {
     "da": "at overtræde",
@@ -3087,7 +3091,7 @@
   }
  },
  "at overskue": {
-  "explanation": "\"At overskue\" means \"to get an overview of\", to see a whole situation or task clearly enough to deal with it. It is often used with \"ikke\" (not) when something feels too big: \"Jeg kan ikke overskue det\" (It is too much for me).",
+  "explanation": "\"At overskue\" means \"to get an overview of\". To say something is too much for you, add \"ikke\" (not): \"Jeg kan ikke overskue det\" (It is too much for me). To say you can see the whole situation, say: \"Jeg kan overskue situationen\" (I can get an overview of the situation).",
   "forms": [
    {
     "da": "at overskue",
@@ -3130,7 +3134,7 @@
   }
  },
  "at oversætte": {
-  "explanation": "\"At oversætte\" means \"to translate\": \"Jeg oversætter brevet\" (I translate the letter). Use \"fra\" (from) and \"til\" (to) for the languages: \"Hun oversætter fra dansk til tysk\" (She translates from Danish to German).",
+  "explanation": "\"At oversætte\" means \"to translate\". To say you translate a text, use it with the text: \"Jeg oversætter brevet\" (I translate the letter). To name the languages, use \"fra\" (from) and \"til\" (to): \"Hun oversætter fra dansk til tysk\" (She translates from Danish to German).",
   "forms": [
    {
     "da": "at oversætte",
@@ -3155,12 +3159,16 @@
     "en": "a translation"
    },
    {
-    "da": "et sprog",
-    "en": "a language"
+    "da": "en tolk",
+    "en": "an interpreter"
    },
    {
-    "da": "en ordbog",
-    "en": "a dictionary"
+    "da": "at tolke",
+    "en": "to interpret"
+   },
+   {
+    "da": "at gengive",
+    "en": "to render"
    }
   ],
   "sentence": {
@@ -3169,7 +3177,7 @@
   }
  },
  "at overtage": {
-  "explanation": "\"At overtage\" means \"to take over\", to receive control or responsibility from someone else, such as a job, a shop or a house: \"Kan du overtage rattet?\" (Can you take over the wheel?) It also works for duties: \"at overtage ansvaret\" (to take over the responsibility).",
+  "explanation": "\"At overtage\" means \"to take over\". To ask someone to take your place, say: \"Kan du overtage rattet?\" (Can you take over the wheel?) To say you accept a duty, say: \"at overtage ansvaret\" (to take over the responsibility).",
   "forms": [
    {
     "da": "at overtage",
@@ -3212,7 +3220,7 @@
   }
  },
  "at overtale": {
-  "explanation": "\"At overtale\" means \"to persuade\", to get someone to say yes: \"Hun overtalte mig til at komme med\" (She persuaded me to come along).",
+  "explanation": "\"At overtale\" means \"to persuade\". To say you get someone to say yes, say: \"Hun overtalte mig til at komme med\" (She persuaded me to come along). To say you change what someone believes, use \"at overbevise\" (to convince): \"Han overbeviste mig om, at det var sandt\" (He convinced me that it was true).",
   "forms": [
    {
     "da": "at overtale",
@@ -3233,16 +3241,16 @@
   ],
   "related": [
    {
-    "da": "at overbevise",
-    "en": "to convince"
-   },
-   {
     "da": "at presse",
     "en": "to pressure"
    },
    {
     "da": "at lokke",
     "en": "to tempt"
+   },
+   {
+    "da": "at forlede",
+    "en": "to lead into"
    }
   ],
   "sentence": {
@@ -3251,7 +3259,7 @@
   }
  },
  "at overtræde": {
-  "explanation": "\"At overtræde\" means \"to violate\", to go against something such as a law, a rule or a limit: \"overtræde fartgrænsen\" (to break the speed limit). The opposite is \"at overholde\" (to comply with).",
+  "explanation": "\"At overtræde\" means \"to violate\". To say you break a rule or a limit, use it with the rule: \"overtræde fartgrænsen\" (to break the speed limit). To say you follow a rule, use \"at overholde\" (to comply with): \"Jeg overholder reglerne\" (I follow the rules).",
   "forms": [
    {
     "da": "at overtræde",
@@ -3294,7 +3302,7 @@
   }
  },
  "at overveje": {
-  "explanation": "\"At overveje\" means \"to consider\", which is thinking about something carefully before you decide: \"Jeg overvejer at flytte\" (I am considering moving). For a quick thought, use \"at tænke\" (to think): \"Jeg tænker på mad\" (I am thinking about food).",
+  "explanation": "\"At overveje\" means \"to consider\". To say you think about something carefully before you decide, say: \"Jeg overvejer at flytte\" (I am considering moving). To say what is on your mind, use \"at tænke\" (to think): \"Jeg tænker på mad\" (I am thinking about food).",
   "forms": [
    {
     "da": "at overveje",
@@ -3325,6 +3333,10 @@
    {
     "da": "en overvejelse",
     "en": "a consideration"
+   },
+   {
+    "da": "at gruble",
+    "en": "to ponder"
    }
   ],
   "sentence": {
@@ -3333,7 +3345,7 @@
   }
  },
  "at overvinde": {
-  "explanation": "\"At overvinde\" means \"to overcome\", to get past something difficult, such as a problem or an opponent: \"Vi overvandt problemerne\" (We overcame the problems). Do not mix it up with \"at vinde\" (to win), which is for games and prizes.",
+  "explanation": "\"At overvinde\" means \"to overcome\". To say you get past something difficult, say: \"Vi overvandt problemerne\" (We overcame the problems). To say you win a game, use \"at vinde\" (to win): \"Vi vandt kampen\" (We won the match).",
   "forms": [
    {
     "da": "at overvinde",
@@ -3376,7 +3388,7 @@
   }
  },
  "at overvåge": {
-  "explanation": "\"At overvåge\" means \"to monitor\" or \"to watch\", to follow someone or something over time so you know what happens: \"Lægerne overvåger patienten\" (The doctors are monitoring the patient). It works for prices too: \"Hun overvåger priserne\" (She monitors the prices).",
+  "explanation": "\"At overvåge\" means \"to monitor or watch\". To say people follow a patient over time, say: \"Lægerne overvåger patienten\" (The doctors are monitoring the patient). To say you follow something such as prices, say: \"Hun overvåger priserne\" (She monitors the prices).",
   "forms": [
    {
     "da": "at overvåge",
@@ -3409,8 +3421,8 @@
     "en": "to supervise"
    },
    {
-    "da": "en vagt",
-    "en": "a guard"
+    "da": "en overvågning",
+    "en": "a surveillance"
    }
   ],
   "sentence": {
@@ -3419,7 +3431,7 @@
   }
  },
  "en oberst": {
-  "explanation": "\"En oberst\" means \"a colonel\", a high officer rank in the army and air force, just below the generals.",
+  "explanation": "\"En oberst\" means \"a colonel\". To say which part of the armed forces someone serves in, say: \"Han er oberst i hæren\" (He is a colonel in the army).",
   "forms": [
    {
     "da": "en oberst",
@@ -3452,8 +3464,8 @@
     "en": "a captain"
    },
    {
-    "da": "en løjtnant",
-    "en": "a lieutenant"
+    "da": "en general",
+    "en": "a general"
    }
   ],
   "sentence": {
@@ -3462,7 +3474,7 @@
   }
  },
  "en odder": {
-  "explanation": "\"En odder\" means \"an otter\", an animal that lives by water, swims well and has thick brown fur.",
+  "explanation": "\"En odder\" means \"an otter\".",
   "forms": [
    {
     "da": "en odder",
@@ -3483,20 +3495,20 @@
   ],
   "related": [
    {
-    "da": "en bæver",
-    "en": "a beaver"
-   },
-   {
-    "da": "en sæl",
-    "en": "a seal"
-   },
-   {
     "da": "en mink",
     "en": "a mink"
    },
    {
     "da": "en mår",
     "en": "a marten"
+   },
+   {
+    "da": "en grævling",
+    "en": "a badger"
+   },
+   {
+    "da": "en ilder",
+    "en": "a polecat"
    }
   ],
   "sentence": {
@@ -3505,7 +3517,7 @@
   }
  },
  "en officer": {
-  "explanation": "\"En officer\" means \"an officer\", a person in the armed forces who has a leadership rank and gives orders to those under them. Do not use it for the police: \"en betjent\" (a police officer) is the word there.",
+  "explanation": "\"En officer\" means \"an officer\", as in the armed forces. To say a police officer, use \"en betjent\" (a police officer): \"Betjenten stoppede bilen\" (The police officer stopped the car).",
   "forms": [
    {
     "da": "en officer",
@@ -3548,7 +3560,7 @@
   }
  },
  "en offside": {
-  "explanation": "\"En offside\" means \"an offside\", a call in soccer when an attacker is closer to the goal than the last defender at the moment the ball is passed to them. Danes usually say \"Der er offside\" (It is offside), leaving out \"en\".",
+  "explanation": "\"En offside\" means \"an offside\". To say the referee calls it, say: \"Dommeren dømte offside\" (The referee called offside).",
   "forms": [
    {
     "da": "en offside",
@@ -3591,7 +3603,7 @@
   }
  },
  "en okse": {
-  "explanation": "\"En okse\" means \"an ox\", a large farm animal: a male of the cattle family, kept for meat or to pull heavy loads.",
+  "explanation": "\"En okse\" means \"an ox\". The part \"okse\" also appears in \"oksesteg\" (roast beef).",
   "forms": [
    {
     "da": "en okse",
@@ -3634,7 +3646,7 @@
   }
  },
  "en oldefar": {
-  "explanation": "\"En oldefar\" means \"a great-grandfather\", one generation above your grandparents.",
+  "explanation": "\"En oldefar\" means \"a great-grandfather\". It is built from \"olde\" (one generation further back) and \"far\" (father). The part \"olde\" also appears in \"et oldebarn\" (a great-grandchild). To say someone has one, say: \"Hun har et oldebarn\" (She has a great-grandchild).",
   "forms": [
    {
     "da": "en oldefar",
@@ -3667,8 +3679,8 @@
     "en": "a great-grandmother"
    },
    {
-    "da": "et oldebarn",
-    "en": "a great-grandchild"
+    "da": "en bedstefar",
+    "en": "a grandfather"
    }
   ],
   "sentence": {
@@ -3677,7 +3689,7 @@
   }
  },
  "en oldemor": {
-  "explanation": "\"En oldemor\" means \"a great-grandmother\", one generation above your grandparents.",
+  "explanation": "\"En oldemor\" means \"a great-grandmother\". It is built from \"olde\" (one generation further back) and \"mor\" (mother). The part \"olde\" also appears in \"et oldebarn\" (a great-grandchild). To say someone has one, say: \"Hun har et oldebarn\" (She has a great-grandchild).",
   "forms": [
    {
     "da": "en oldemor",
@@ -3710,8 +3722,8 @@
     "en": "a great-grandfather"
    },
    {
-    "da": "et oldebarn",
-    "en": "a great-grandchild"
+    "da": "en bedstemor",
+    "en": "a grandmother"
    }
   ],
   "sentence": {
@@ -3720,7 +3732,7 @@
   }
  },
  "en oliven": {
-  "explanation": "\"En oliven\" means \"an olive\", a small fruit from a tree in warm countries, often eaten salted. The oil pressed from it is \"olivenolie\" (olive oil).",
+  "explanation": "\"En oliven\" means \"an olive\". It is the first part of \"olivenolie\" (olive oil). To say you cook with the oil, say: \"Jeg steger i olivenolie\" (I fry in olive oil).",
   "forms": [
    {
     "da": "en oliven",
@@ -3749,8 +3761,8 @@
     "en": "an olive grove"
    },
    {
-    "da": "en kapers",
-    "en": "a caper"
+    "da": "olivengrøn",
+    "en": "olive green"
    }
   ],
   "sentence": {
@@ -3759,7 +3771,7 @@
   }
  },
  "en ombudsmand": {
-  "explanation": "\"En ombudsmand\" means \"an ombudsman\", an independent person who listens to people who feel they were treated unfairly by the state and checks what happened. In Denmark, \"Folketingets Ombudsmand\" (the Parliamentary Ombudsman) does this for the whole country.",
+  "explanation": "\"En ombudsmand\" means \"an ombudsman\". It is built from \"et ombud\" (a representative) and \"en mand\" (a man). In Denmark, \"Folketingets Ombudsmand\" (the Parliamentary Ombudsman) looks into complaints about how the state treats people.",
   "forms": [
    {
     "da": "en ombudsmand",
@@ -3802,7 +3814,7 @@
   }
  },
  "en ombygning": {
-  "explanation": "\"En ombygning\" means \"a remodel\", when a house, shop or room is rebuilt to look or work differently. The part \"om-\" means \"over again\", as in \"at omskrive\" (to rewrite).",
+  "explanation": "\"En ombygning\" means \"a remodel\". The part \"om-\" means \"over again\", as in \"at omskrive\" (to rewrite): \"Jeg omskriver teksten\" (I am rewriting the text). To say the work is going on right now, say: \"Huset er under ombygning\" (The house is being remodeled).",
   "forms": [
    {
     "da": "en ombygning",
@@ -3845,7 +3857,7 @@
   }
  },
  "en ombytning": {
-  "explanation": "\"En ombytning\" means \"an exchange\", when one thing is swapped for another, often by mistake.",
+  "explanation": "\"En ombytning\" means \"an exchange\". It comes from \"at bytte om\" (to switch around). To say you switch two things around, say: \"Vi bytter om på stolene\" (We switch the chairs around).",
   "forms": [
    {
     "da": "en ombytning",
@@ -3874,12 +3886,12 @@
     "en": "a replacement"
    },
    {
-    "da": "at bytte",
-    "en": "to swap"
+    "da": "at forveksle",
+    "en": "to mix up"
    },
    {
-    "da": "at bytte om",
-    "en": "to switch around"
+    "da": "at skifte",
+    "en": "to change"
    }
   ],
   "sentence": {
@@ -3888,7 +3900,7 @@
   }
  },
  "en omgang": {
-  "explanation": "\"En omgang\" means \"a round\" or \"a lap\", one full turn of something that is repeated. It is also used for drinks for a group: \"Jeg giver en omgang\" (I am buying a round).",
+  "explanation": "\"En omgang\" means \"a round or lap\". To say you buy drinks for a group, say: \"Jeg giver en omgang\" (I am buying a round). To say you run once around a track, say: \"Jeg løber en omgang\" (I run one lap).",
   "forms": [
    {
     "da": "en omgang",
@@ -3909,8 +3921,8 @@
   ],
   "related": [
    {
-    "da": "en gang",
-    "en": "a time"
+    "da": "en etape",
+    "en": "a stage"
    },
    {
     "da": "en tur",
@@ -3927,7 +3939,7 @@
   }
  },
  "en omgangskreds": {
-  "explanation": "\"En omgangskreds\" means \"a circle of friends\", the people you spend time with regularly, from close ones to people you only know a little. It comes from \"at omgås\" (to spend time with).",
+  "explanation": "\"En omgangskreds\" means \"a circle of friends\". It is built from \"at omgås\" (to spend time with) and \"en kreds\" (a circle). To say how many people you spend time with, say: \"Hun har en stor omgangskreds\" (She has a large circle of friends).",
   "forms": [
    {
     "da": "en omgangskreds",
@@ -3970,7 +3982,7 @@
   }
  },
  "en omkamp": {
-  "explanation": "\"En omkamp\" means \"a rematch\", a match played again, for example after a draw. \"Om\" at the start of a word often means \"again\": \"at lave om\" (to redo).",
+  "explanation": "\"En omkamp\" means \"a rematch\". It is built from \"om\" (again) and \"en kamp\" (a match). The part \"om\" also means \"again\" in \"at lave om\" (to redo): \"Jeg laver opgaven om\" (I redo the assignment).",
   "forms": [
    {
     "da": "en omkamp",
@@ -3995,16 +4007,12 @@
     "en": "a revenge match"
    },
    {
-    "da": "en finale",
-    "en": "a final"
+    "da": "at spille om",
+    "en": "to replay"
    },
    {
-    "da": "en turnering",
-    "en": "a tournament"
-   },
-   {
-    "da": "et nederlag",
-    "en": "a defeat"
+    "da": "uafgjort",
+    "en": "a draw"
    }
   ],
   "sentence": {
@@ -4013,7 +4021,7 @@
   }
  },
  "en omkostning": {
-  "explanation": "\"En omkostning\" means \"a cost\", money spent to run or do something. Danes mostly say \"omkostninger\" (costs), such as repairs and insurance: \"høje omkostninger\" (high costs). For what you pay for something you buy, say \"en pris\" (a price).",
+  "explanation": "\"En omkostning\" means \"a cost\". To talk about the costs of running something in the plural, say: \"høje omkostninger\" (high costs). To ask what one thing you buy costs, use \"en pris\" (a price): \"Hvad er prisen?\" (What is the price?)",
   "forms": [
    {
     "da": "en omkostning",
@@ -4056,7 +4064,7 @@
   }
  },
  "en omkørsel": {
-  "explanation": "\"En omkørsel\" means \"a detour\", the route set up when a road is closed. A longer way that you choose yourself is \"en omvej\" (a longer way around).",
+  "explanation": "\"En omkørsel\" means \"a detour\". To tell someone to follow the route set up around a closed road, say: \"Følg omkørslen\" (Follow the detour). To say you choose a longer way yourself, use \"en omvej\" (a longer way): \"Jeg tager en omvej hjem\" (I take a longer way home).",
   "forms": [
    {
     "da": "en omkørsel",
@@ -4095,7 +4103,7 @@
   }
  },
  "en omlægning": {
-  "explanation": "\"En omlægning\" means \"a restructuring\", changing how something is arranged or done, such as a tax system, a route or a company. It is also used for loans: \"omlægning af lån\" (switching a loan to new terms).",
+  "explanation": "\"En omlægning\" means \"a restructuring\". It comes from \"at lægge om\" (to change over): \"Hun lægger kosten om\" (She changes her diet). To say a loan gets new terms, say: \"omlægning af lån\" (switching a loan to new terms).",
   "forms": [
    {
     "da": "en omlægning",
@@ -4138,7 +4146,7 @@
   }
  },
  "en omstilling": {
-  "explanation": "\"En omstilling\" means \"an adjustment\" or \"a transition\", moving from one way of working or living to another. At a company, \"omstillingen\" (the switchboard) is also the main phone line that connects you to the right person.",
+  "explanation": "\"En omstilling\" means \"an adjustment or a transition\". To say a change takes getting used to, say: \"en stor omstilling\" (a big adjustment). To say you call a company, use \"omstillingen\" (the switchboard): \"Jeg ringer til omstillingen\" (I am calling the switchboard).",
   "forms": [
    {
     "da": "en omstilling",
@@ -4181,7 +4189,7 @@
   }
  },
  "en omstændighed": {
-  "explanation": "\"En omstændighed\" means \"a circumstance\", a fact around an event that affects how it turns out. \"Under alle omstændigheder\" means \"in any case\": \"Jeg kommer under alle omstændigheder\" (I will come in any case).",
+  "explanation": "\"En omstændighed\" means \"a circumstance\". To say you will do something whatever happens, say: \"Jeg kommer under alle omstændigheder\" (I will come in any case). To say how things are right now, say: \"Under de omstændigheder\" (Under the circumstances).",
   "forms": [
    {
     "da": "en omstændighed",
@@ -4224,7 +4232,7 @@
   }
  },
  "en omsætning": {
-  "explanation": "\"En omsætning\" means \"a turnover\" or \"revenue\", the total money a business takes in from selling, before costs are taken out. The money left after costs is \"en fortjeneste\" (a profit), not \"omsætning\".",
+  "explanation": "\"En omsætning\" means \"a turnover or revenue\". To say what a business has left after costs, use \"en fortjeneste\" (a profit): \"Vi har en stor fortjeneste\" (We have a large profit).",
   "forms": [
    {
     "da": "en omsætning",
@@ -4267,7 +4275,7 @@
   }
  },
  "en omvej": {
-  "explanation": "\"En omvej\" means \"a detour\", a longer way around. It is the opposite of \"en genvej\" (a shortcut).",
+  "explanation": "\"En omvej\" means \"a detour\". To say you take a longer way, say: \"Jeg tager en omvej\" (I take a longer way). To say you take the shorter way, use \"en genvej\" (a shortcut): \"Jeg tager en genvej\" (I take a shortcut).",
   "forms": [
    {
     "da": "en omvej",
@@ -4288,8 +4296,8 @@
   ],
   "related": [
    {
-    "da": "en vej",
-    "en": "a road"
+    "da": "en afstikker",
+    "en": "a side trip"
    },
    {
     "da": "en rute",
@@ -4306,7 +4314,7 @@
   }
  },
  "en onkel": {
-  "explanation": "\"En onkel\" means \"an uncle\". Before a name it works as a title: \"onkel Peter\" (Uncle Peter).",
+  "explanation": "\"En onkel\" means \"an uncle\". To use it as a title before a name, say: \"onkel Peter\" (Uncle Peter). Danish has separate words for an uncle on each side: \"en morbror\" (mother's brother) and \"en farbror\" (father's brother). To say where your father's brother lives, say: \"Min farbror bor i Odense\" (My father's brother lives in Odense).",
   "forms": [
    {
     "da": "en onkel",
@@ -4349,7 +4357,7 @@
   }
  },
  "en opdagelse": {
-  "explanation": "\"En opdagelse\" means \"a discovery\", learning about something nobody knew before, or noticing something for the first time. It is not the same as \"en opfindelse\" (an invention): a discovery was already there, but an invention is made.",
+  "explanation": "\"En opdagelse\" means \"a discovery\". To say someone found something that was already there, say: \"Han gjorde en vigtig opdagelse\" (He made an important discovery). To say a person made something new, use \"en opfindelse\" (an invention): \"Hjulet er en gammel opfindelse\" (The wheel is an old invention).",
   "forms": [
    {
     "da": "en opdagelse",
@@ -4392,7 +4400,7 @@
   }
  },
  "en opdatering": {
-  "explanation": "\"En opdatering\" means \"an update\", a new version of an app or system. The action is \"at opdatere\" (to update).",
+  "explanation": "\"En opdatering\" means \"an update\". The verb is \"at opdatere\" (to update): \"Jeg opdaterer appen\" (I am updating the app).",
   "forms": [
    {
     "da": "en opdatering",
@@ -4417,12 +4425,16 @@
     "en": "an upgrade"
    },
    {
-    "da": "en softwareopdatering",
-    "en": "a software update"
+    "da": "en version",
+    "en": "a version"
    },
    {
     "da": "en ændring",
     "en": "a change"
+   },
+   {
+    "da": "at installere",
+    "en": "to install"
    }
   ],
   "sentence": {
@@ -4431,7 +4443,7 @@
   }
  },
  "en opdeling": {
-  "explanation": "\"En opdeling\" means \"a division\", splitting something into parts or groups. It comes from \"at dele op\" (to split up).",
+  "explanation": "\"En opdeling\" means \"a division\". It comes from \"at dele op\" (to split up): \"Vi deler klassen op\" (We split the class up).",
   "forms": [
    {
     "da": "en opdeling",
@@ -4474,7 +4486,7 @@
   }
  },
  "en opdragelse": {
-  "explanation": "\"En opdragelse\" means \"an upbringing\", the way adults teach a child manners and values: \"en streng opdragelse\" (a strict upbringing). Do not mix it up with \"en opvækst\" (the years of growing up in a place): \"en opvækst på landet\" (growing up in the countryside).",
+  "explanation": "\"En opdragelse\" means \"an upbringing\". To describe how strict it was, say: \"en streng opdragelse\" (a strict upbringing). To talk about the years of growing up in a place, use \"en opvækst\" (an upbringing in a place): \"en opvækst på landet\" (growing up in the countryside).",
   "forms": [
    {
     "da": "en opdragelse",
@@ -4517,7 +4529,7 @@
   }
  },
  "en opera": {
-  "explanation": "\"En opera\" means \"an opera\", and also the building where it is shown: \"Vi skal i operaen i aften\" (We are going to the opera tonight). Do not mix it up with \"et teater\" (a theater), where people mostly speak.",
+  "explanation": "\"En opera\" means \"an opera\". To say you go to the building, say: \"Vi skal i operaen i aften\" (We are going to the opera tonight). To say you go to a play, use \"et teater\" (a theater): \"Vi skal i teatret i aften\" (We are going to the theater tonight).",
   "forms": [
    {
     "da": "en opera",
@@ -4538,20 +4550,20 @@
   ],
   "related": [
    {
-    "da": "en koncert",
-    "en": "a concert"
-   },
-   {
     "da": "en operette",
     "en": "an operetta"
    },
    {
-    "da": "et orkester",
-    "en": "an orchestra"
-   },
-   {
     "da": "en musical",
     "en": "a musical"
+   },
+   {
+    "da": "en arie",
+    "en": "an aria"
+   },
+   {
+    "da": "et operahus",
+    "en": "an opera house"
    }
   ],
   "sentence": {
@@ -4560,7 +4572,7 @@
   }
  },
  "en operation": {
-  "explanation": "\"En operation\" means \"an operation\" or \"surgery\" at a hospital. The action is \"at operere\" (to operate).",
+  "explanation": "\"En operation\" means \"an operation\", as in surgery at a hospital. The verb is \"at operere\" (to operate): \"Lægen opererer hende\" (The doctor is operating on her).",
   "forms": [
    {
     "da": "en operation",
@@ -4599,7 +4611,7 @@
   }
  },
  "en opfattelse": {
-  "explanation": "\"En opfattelse\" means \"a view\" or \"a perception\", how you see something: \"Min opfattelse er, at planen er for dyr\" (My view is that the plan is too expensive).",
+  "explanation": "\"En opfattelse\" means \"a perception or view\". To say what you think about a plan, say: \"Min opfattelse er, at planen er for dyr\" (My view is that the plan is too expensive). To ask what someone else thinks, say: \"Hvad er din opfattelse?\" (What is your view?)",
   "forms": [
    {
     "da": "en opfattelse",
@@ -4642,7 +4654,7 @@
   }
  },
  "en opfindelse": {
-  "explanation": "\"En opfindelse\" means \"an invention\", something new that a person has made, like a machine. Unlike \"en opdagelse\" (a discovery), it did not exist before.",
+  "explanation": "\"En opfindelse\" means \"an invention\". To say something was made long ago, say: \"Hjulet er en gammel opfindelse\" (The wheel is an old invention). To say someone found something that was already there, use \"en opdagelse\" (a discovery): \"Han gjorde en vigtig opdagelse\" (He made an important discovery).",
   "forms": [
    {
     "da": "en opfindelse",
@@ -4681,7 +4693,7 @@
   }
  },
  "en opfinder": {
-  "explanation": "\"En opfinder\" means \"an inventor\", a person who thinks up something new and builds it. The word comes from \"at opfinde\" (to invent), and \"-er\" makes it the person who does it, just like in \"en lærer\" (a teacher).",
+  "explanation": "\"En opfinder\" means \"an inventor\". It comes from \"at opfinde\" (to invent), and \"-er\" makes it the person who does it, just like in \"en lærer\" (a teacher). To say what someone is, say: \"Hun er opfinder\" (She is an inventor).",
   "forms": [
    {
     "da": "en opfinder",
@@ -4720,7 +4732,7 @@
   }
  },
  "en opfordring": {
-  "explanation": "\"En opfordring\" means \"a call\" or \"an appeal\", when someone encourages others to do something. \"På opfordring\" (when asked to) is common: \"Han sang på opfordring\" (He sang when asked to).",
+  "explanation": "\"En opfordring\" means \"a call or appeal\". To say someone did something because they were asked, say: \"Han sang på opfordring\" (He sang when asked to).",
   "forms": [
    {
     "da": "en opfordring",
@@ -4759,7 +4771,7 @@
   }
  },
  "en opførelse": {
-  "explanation": "\"En opførelse\" means \"a construction\", the putting up of something large, such as a bridge. It also means a performance of a theater piece or an opera. Do not mix it up with \"en opførsel\" (behavior): \"Hans opførsel var uhøflig\" (His behavior was rude).",
+  "explanation": "\"En opførelse\" means \"a construction or a performance\". To say a big structure is built, use the first meaning: \"opførelsen af en bro\" (the construction of a bridge). To say a play is shown, use the second meaning: \"opførelsen af en opera\" (the performance of an opera). To say how someone behaves, use \"en opførsel\" (behavior): \"Hans opførsel var uhøflig\" (His behavior was rude).",
   "forms": [
    {
     "da": "en opførelse",
@@ -4802,7 +4814,7 @@
   }
  },
  "en opgang": {
-  "explanation": "\"En opgang\" means \"a stairwell\" or \"an entrance\", one entrance with its stairs in a large residential building. Big buildings often have several, named by letter or number.",
+  "explanation": "\"En opgang\" means \"a stairwell or entrance\". To say which entrance of an apartment block you live in, say: \"Jeg bor i opgang B\" (I live in stairwell B).",
   "forms": [
    {
     "da": "en opgang",
@@ -4833,6 +4845,10 @@
    {
     "da": "en elevator",
     "en": "an elevator"
+   },
+   {
+    "da": "en trappe",
+    "en": "a staircase"
    }
   ],
   "sentence": {
@@ -4841,7 +4857,7 @@
   }
  },
  "en opgave": {
-  "explanation": "\"En opgave\" means \"a task\", at work or at school. In school it can also be an exercise: \"en matematikopgave\" (a math exercise).",
+  "explanation": "\"En opgave\" means \"a task\". To say what you have to do at school, use it for an exercise: \"en matematikopgave\" (a math exercise). To say what you are asked to do at work, use it for a duty: \"Jeg har en ny opgave\" (I have a new task).",
   "forms": [
    {
     "da": "en opgave",
@@ -4880,7 +4896,7 @@
   }
  },
  "en opgavebog": {
-  "explanation": "\"En opgavebog\" means \"an exercise book\", a book full of tasks to solve, used in school for subjects like math or language. It is for practice, so you write the answers right in it.",
+  "explanation": "\"En opgavebog\" means \"an exercise book\". It is built from \"en opgave\" (a task) and \"en bog\" (a book). To say you write the answers in it, say: \"Jeg skriver i opgavebogen\" (I am writing in the exercise book).",
   "forms": [
    {
     "da": "en opgavebog",
@@ -4919,7 +4935,7 @@
   }
  },
  "en opgivelse": {
-  "explanation": "\"En opgivelse\" means \"a giving up\", the act of stopping a goal or plan because you no longer think it can succeed. It comes from \"at opgive\" (to give up).",
+  "explanation": "\"En opgivelse\" means \"a giving up\". It comes from \"at opgive\" (to give up): \"Han opgav drømmen\" (He gave up the dream).",
   "forms": [
    {
     "da": "en opgivelse",
@@ -4962,7 +4978,7 @@
   }
  },
  "en opgørelse": {
-  "explanation": "\"En opgørelse\" means \"a statement\" or \"a count\", a written summary of figures after adding things up. It comes from \"at opgøre\" (to work out, to tally).",
+  "explanation": "\"En opgørelse\" means \"a statement or a count\". It comes from \"at opgøre\" (to work out): \"Jeg opgør udgifterne\" (I work out the expenses).",
   "forms": [
    {
     "da": "en opgørelse",
@@ -5005,7 +5021,7 @@
   }
  },
  "en opholdstilladelse": {
-  "explanation": "\"En opholdstilladelse\" means \"a residence permit\", an official paper from the authorities that lets a foreigner live in a country. It is built from ophold (a stay) and tilladelse (a permission), so it is literally \"stay permission\".",
+  "explanation": "\"En opholdstilladelse\" means \"a residence permit\". It is built from \"et ophold\" (a stay) and \"en tilladelse\" (a permission), so it is literally \"stay permission\". To say you ask the authorities for one, say: \"Jeg søger om opholdstilladelse\" (I am applying for a residence permit).",
   "forms": [
    {
     "da": "en opholdstilladelse",
@@ -5044,7 +5060,7 @@
   }
  },
  "en ophævelse": {
-  "explanation": "\"En ophævelse\" means \"an abolition\" or \"a cancellation\", officially ending something that was in force, such as a rule, a contract or a ban. It comes from \"at ophæve\" (to repeal).",
+  "explanation": "\"En ophævelse\" means \"an abolition or a cancellation\". It comes from \"at ophæve\" (to repeal). To say a contract is ended officially, say: \"ophævelse af kontrakten\" (the cancellation of the contract).",
   "forms": [
    {
     "da": "en ophævelse",
@@ -5087,7 +5103,7 @@
   }
  },
  "en oplader": {
-  "explanation": "\"En oplader\" means \"a charger\" for a phone or laptop. The action is \"at oplade\" (to charge).",
+  "explanation": "\"En oplader\" means \"a charger\". The verb is \"at oplade\" (to charge): \"Jeg oplader telefonen\" (I am charging the phone).",
   "forms": [
    {
     "da": "en oplader",
@@ -5126,7 +5142,7 @@
   }
  },
  "en oplevelse": {
-  "explanation": "\"En oplevelse\" means \"an experience\", something you live through. For work experience or skills, use \"erfaring\" (experience): \"Jeg har ti års erfaring\" (I have ten years of experience).",
+  "explanation": "\"En oplevelse\" means \"an experience\", as in something you live through. To say an event stayed with you, say: \"en uforglemmelig oplevelse\" (an unforgettable experience). To talk about work experience or skills, use \"erfaring\" (experience): \"Jeg har ti års erfaring\" (I have ten years of experience).",
   "forms": [
    {
     "da": "en oplevelse",
@@ -5169,7 +5185,7 @@
   }
  },
  "en oplysning": {
-  "explanation": "\"En oplysning\" means \"a piece of information\", one fact you are told. On forms, \"oplysninger\" (details) means your name, address and so on.",
+  "explanation": "\"En oplysning\" means \"a piece of information\". On a form, the plural \"oplysninger\" (details) is what you fill in: \"Skriv dine oplysninger her\" (Write your details here).",
   "forms": [
    {
     "da": "en oplysning",
@@ -5208,7 +5224,7 @@
   }
  },
  "en opmuntring": {
-  "explanation": "\"En opmuntring\" means \"an encouragement\", something that cheers you up or gives you courage to keep going. A small gift can also be \"en lille opmuntring\" (a little pick-me-up).",
+  "explanation": "\"En opmuntring\" means \"an encouragement\". To thank someone for cheering you up, say: \"Tak for opmuntringen\" (Thanks for the encouragement). To call a small gift that cheers someone up, say: \"en lille opmuntring\" (a little pick-me-up).",
   "forms": [
    {
     "da": "en opmuntring",
@@ -5247,7 +5263,7 @@
   }
  },
  "en opposition": {
-  "explanation": "\"En opposition\" means \"an opposition\", in politics the groups that are not in power and question those who are. It can also mean any strong objection: \"Der er stærk opposition mod planen\" (There is strong opposition to the plan).",
+  "explanation": "\"En opposition\" means \"an opposition\". To say someone belongs to the parties outside the government, say: \"Han er i oppositionen\" (He is in the opposition). To say many people strongly object, say: \"Der er stærk opposition mod planen\" (There is strong opposition to the plan).",
   "forms": [
    {
     "da": "en opposition",
@@ -5272,16 +5288,16 @@
     "en": "a government"
    },
    {
-    "da": "et folketing",
-    "en": "a parliament"
-   },
-   {
     "da": "en modstander",
     "en": "an opponent"
    },
    {
     "da": "en modstand",
     "en": "a resistance"
+   },
+   {
+    "da": "en kritik",
+    "en": "a criticism"
    }
   ],
   "sentence": {
@@ -5290,7 +5306,7 @@
   }
  },
  "en oprindelse": {
-  "explanation": "\"En oprindelse\" means \"an origin\", the place or cause where something starts. It is often used for where people, words or products come from: \"Hvad er ordets oprindelse?\" (What is the origin of the word?)",
+  "explanation": "\"En oprindelse\" means \"an origin\". To ask where a word comes from, say: \"Hvad er ordets oprindelse?\" (What is the origin of the word?) The adjective is \"oprindelig\" (original): \"den oprindelige plan\" (the original plan).",
   "forms": [
    {
     "da": "en oprindelse",
@@ -5333,7 +5349,7 @@
   }
  },
  "en opringning": {
-  "explanation": "\"En opringning\" means \"a phone call\", the moment someone phones you or you phone someone. It is built from \"at ringe op\" (literally, to ring up). In daily speech, \"et opkald\" (a call) is more common.",
+  "explanation": "\"En opringning\" means \"a phone call\". It is built from \"at ringe op\" (literally, to ring up): \"Jeg ringer dig op i aften\" (I will call you tonight). The shorter word \"et opkald\" (a call) also exists.",
   "forms": [
    {
     "da": "en opringning",
@@ -5372,7 +5388,7 @@
   }
  },
  "en oprydning": {
-  "explanation": "\"En oprydning\" means \"a tidying up\", putting a room or place back in order. It is also used for clearing up after a storm or an event: \"oprydning efter stormen\" (cleanup after the storm).",
+  "explanation": "\"En oprydning\" means \"a tidying up\". To say it is time to put a room in order, say: \"Så er det tid til oprydning\" (Now it is time to tidy up). To say you clear up after a storm, say: \"oprydning efter stormen\" (cleanup after the storm).",
   "forms": [
    {
     "da": "en oprydning",
@@ -5411,7 +5427,7 @@
   }
  },
  "en opsang": {
-  "explanation": "\"En opsang\" means \"a telling-off\", a stern talking-to after someone did something wrong, usually from a parent or a boss. You get one with \"få\" (to get): \"at få en opsang\" (to get told off).",
+  "explanation": "\"En opsang\" means \"a telling-off\". To say you get one, use \"at få\" (to get): \"Jeg fik en opsang\" (I got told off).",
   "forms": [
    {
     "da": "en opsang",
@@ -5440,8 +5456,8 @@
     "en": "a rebuke"
    },
    {
-    "da": "en straffeprædiken",
-    "en": "a lecture"
+    "da": "en kritik",
+    "en": "a criticism"
    },
    {
     "da": "en formaning",
@@ -5454,7 +5470,7 @@
   }
  },
  "en opsigelse": {
-  "explanation": "\"En opsigelse\" means \"a resignation\" or \"a notice of termination\", the formal step that ends a job, rental or subscription. It works both ways: you can hand one in yourself, or your employer can give you one. \"At få en opsigelse\" (to be let go) is the second case.",
+  "explanation": "\"En opsigelse\" means \"a resignation or notice of termination\". To say you end your own job, say: \"Jeg afleverer min opsigelse\" (I hand in my resignation). To say your employer ends it, say: \"at få en opsigelse\" (to be let go).",
   "forms": [
    {
     "da": "en opsigelse",
@@ -5497,7 +5513,7 @@
   }
  },
  "en opskrift": {
-  "explanation": "\"En opskrift\" means \"a recipe\", a list of ingredients and steps for making a dish. To name the dish, use \"på\" (for): \"en opskrift på pandekager\" (a recipe for pancakes).",
+  "explanation": "\"En opskrift\" means \"a recipe\". To name the dish, add \"på\" (for): \"en opskrift på pandekager\" (a recipe for pancakes). To ask someone to share it, say: \"Kan jeg få opskriften?\" (Can I have the recipe?)",
   "forms": [
    {
     "da": "en opskrift",
@@ -5540,7 +5556,7 @@
   }
  },
  "en opslagstavle": {
-  "explanation": "\"En opslagstavle\" means \"a bulletin board\", a board where people pin notes and notices.",
+  "explanation": "\"En opslagstavle\" means \"a bulletin board\". It is built from \"et opslag\" (a notice) and \"en tavle\" (a board). To say you pin a note on it, say: \"Jeg satte sedlen op på opslagstavlen\" (I pinned the note on the bulletin board).",
   "forms": [
    {
     "da": "en opslagstavle",
@@ -5561,20 +5577,16 @@
   ],
   "related": [
    {
-    "da": "et opslag",
-    "en": "a notice"
-   },
-   {
-    "da": "en tavle",
-    "en": "a board"
-   },
-   {
     "da": "en tegnestift",
     "en": "a thumbtack"
    },
    {
     "da": "en plakat",
     "en": "a poster"
+   },
+   {
+    "da": "en væg",
+    "en": "a wall"
    }
   ],
   "sentence": {
@@ -5583,7 +5595,7 @@
   }
  },
  "en opsparing": {
-  "explanation": "\"En opsparing\" means \"savings\", money you have put aside over time.",
+  "explanation": "\"En opsparing\" means \"savings\". To say you put money aside for a goal, use \"at spare op\" (to save up): \"Jeg sparer op til en rejse\" (I am saving up for a trip).",
   "forms": [
    {
     "da": "en opsparing",
@@ -5616,8 +5628,8 @@
     "en": "an interest rate"
    },
    {
-    "da": "at spare op",
-    "en": "to save up"
+    "da": "en sparegris",
+    "en": "a piggy bank"
    }
   ],
   "sentence": {
@@ -5626,7 +5638,7 @@
   }
  },
  "en optagelse": {
-  "explanation": "\"En optagelse\" means \"a recording\", sound or video saved so you can play it again later. It also means \"admission\" when you are accepted into a school or club: \"optagelse på universitetet\" (admission to the university).",
+  "explanation": "\"En optagelse\" means \"a recording\". It comes from \"at optage\" (to record). To say a person is accepted into a school, use the meaning \"admission\": \"optagelse på universitetet\" (admission to the university).",
   "forms": [
    {
     "da": "en optagelse",
@@ -5647,16 +5659,16 @@
   ],
   "related": [
    {
-    "da": "at optage",
-    "en": "to record"
-   },
-   {
-    "da": "en film",
-    "en": "a film"
+    "da": "en indspilning",
+    "en": "a recording"
    },
    {
     "da": "en lydfil",
     "en": "an audio file"
+   },
+   {
+    "da": "en indskrivning",
+    "en": "an enrolment"
    }
   ],
   "sentence": {
@@ -5665,7 +5677,7 @@
   }
  },
  "en optiker": {
-  "explanation": "\"En optiker\" means \"an optician\", a person who tests your sight and sells you glasses. Do not mix it up with \"en øjenlæge\" (an eye doctor), who treats eye diseases.",
+  "explanation": "\"En optiker\" means \"an optician\". To say you go to see an eye doctor, use \"en øjenlæge\" (an eye doctor): \"Jeg skal til øjenlægen\" (I am going to the eye doctor).",
   "forms": [
    {
     "da": "en optiker",
@@ -5704,7 +5716,7 @@
   }
  },
  "en optikerforretning": {
-  "explanation": "\"En optikerforretning\" means \"an optician's shop\", where you buy glasses and get your eyes tested.",
+  "explanation": "\"En optikerforretning\" means \"an optician's shop\". It is built from \"en optiker\" (an optician) and \"en forretning\" (a shop). To ask for directions, say: \"Hvor ligger optikerforretningen?\" (Where is the optician's shop?)",
   "forms": [
    {
     "da": "en optikerforretning",
@@ -5725,16 +5737,16 @@
   ],
   "related": [
    {
-    "da": "en optiker",
-    "en": "an optician"
-   },
-   {
     "da": "en linse",
     "en": "a lens"
    },
    {
     "da": "en øjenlæge",
     "en": "an eye doctor"
+   },
+   {
+    "da": "et brillestel",
+    "en": "a frame"
    }
   ],
   "sentence": {
@@ -5743,7 +5755,7 @@
   }
  },
  "en optræden": {
-  "explanation": "\"En optræden\" means \"a performance\", when someone appears in front of an audience, such as a singer, actor or comedian. It can also mean how a person comes across in public: \"Hendes optræden var rolig og sikker\" (She came across as calm and confident).",
+  "explanation": "\"En optræden\" means \"a performance\". To say someone performs for an audience, say: \"Hun har en optræden i aften\" (She has a performance tonight). To say how someone comes across, say: \"Hendes optræden var rolig og sikker\" (She came across as calm and confident).",
   "forms": [
    {
     "da": "en optræden",
@@ -5786,7 +5798,7 @@
   }
  },
  "en optælling": {
-  "explanation": "\"En optælling\" means \"a count\", counting things to find out how many there are, for example goods in stock or people at an event. It comes from \"at tælle op\" (to count up).",
+  "explanation": "\"En optælling\" means \"a count\". It comes from \"at tælle op\" (to count up). To say how long the counting takes, say: \"Optællingen tager en time\" (The count takes an hour).",
   "forms": [
    {
     "da": "en optælling",
@@ -5829,7 +5841,7 @@
   }
  },
  "en opvarmning": {
-  "explanation": "\"En opvarmning\" means \"a warm-up\", light exercise before sport to prepare the body. It also means the heating of a building: \"opvarmning af huset\" (heating the house).",
+  "explanation": "\"En opvarmning\" means \"a warm-up\". To say players prepare before a match, say: \"Spillerne laver en opvarmning\" (The players do a warm-up). To talk about heating a building, say: \"opvarmning af huset\" (heating the house).",
   "forms": [
    {
     "da": "en opvarmning",
@@ -5868,7 +5880,7 @@
   }
  },
  "en opvask": {
-  "explanation": "\"En opvask\" means \"dishwashing\", the dirty dishes or the job of washing them. It also appears in \"en opvaskemaskine\" (a dishwasher).",
+  "explanation": "\"En opvask\" means \"dishwashing\". It comes from \"at vaske op\" (to wash up). The part \"opvask\" also appears in \"en opvaskemaskine\" (a dishwasher): \"Jeg tømmer opvaskemaskinen\" (I empty the dishwasher).",
   "forms": [
    {
     "da": "en opvask",
@@ -5897,8 +5909,12 @@
     "en": "a dish towel"
    },
    {
-    "da": "at vaske op",
-    "en": "to wash up"
+    "da": "et opvaskemiddel",
+    "en": "dish soap"
+   },
+   {
+    "da": "en opvaskebørste",
+    "en": "a dish brush"
    }
   ],
   "sentence": {
@@ -5907,7 +5923,7 @@
   }
  },
  "en opvaskebørste": {
-  "explanation": "\"En opvaskebørste\" means \"a dish brush\", a brush with a handle for scrubbing plates and pots.",
+  "explanation": "\"En opvaskebørste\" means \"a dish brush\". It is built from \"opvask\" (dishes) and \"en børste\" (a brush). To say what to scrub with it, say: \"Brug opvaskebørsten til gryden\" (Use the dish brush for the pot).",
   "forms": [
    {
     "da": "en opvaskebørste",
@@ -5928,20 +5944,16 @@
   ],
   "related": [
    {
-    "da": "en børste",
-    "en": "a brush"
-   },
-   {
-    "da": "en opvask",
-    "en": "the dishes"
-   },
-   {
     "da": "en svamp",
     "en": "a sponge"
    },
    {
     "da": "et opvaskemiddel",
     "en": "dish soap"
+   },
+   {
+    "da": "en karklud",
+    "en": "a dishcloth"
    }
   ],
   "sentence": {
@@ -5950,7 +5962,7 @@
   }
  },
  "en opvaskemaskine": {
-  "explanation": "\"En opvaskemaskine\" means \"a dishwasher\", the machine in a kitchen that cleans plates and cups with hot water. A person who washes dishes by hand is \"en opvasker\" (a person who washes dishes).",
+  "explanation": "\"En opvaskemaskine\" means \"a dishwasher\", as in the machine. To say you empty the machine, say: \"Jeg tømmer opvaskemaskinen\" (I empty the dishwasher). To say a person who washes dishes, use \"en opvasker\" (a person who washes dishes): \"Han arbejder som opvasker\" (He works as a dishwasher).",
   "forms": [
    {
     "da": "en opvaskemaskine",
@@ -5975,8 +5987,8 @@
     "en": "to wash dishes"
    },
    {
-    "da": "opvask",
-    "en": "dishes to wash"
+    "da": "en karklud",
+    "en": "a dishcloth"
    },
    {
     "da": "en vaskemaskine",
@@ -5993,7 +6005,7 @@
   }
  },
  "en opvasker": {
-  "explanation": "\"En opvasker\" means \"a dishwasher\" when it is a person, someone who washes dishes in a restaurant. The machine is \"en opvaskemaskine\" (a dishwashing machine).",
+  "explanation": "\"En opvasker\" means \"a dishwasher\", as in a person. To say what someone does for work, say: \"Han arbejder som opvasker\" (He works as a dishwasher). To say the machine, use \"en opvaskemaskine\" (a dishwashing machine): \"Jeg tømmer opvaskemaskinen\" (I empty the dishwasher).",
   "forms": [
    {
     "da": "en opvasker",
@@ -6018,8 +6030,8 @@
     "en": "to wash the dishes"
    },
    {
-    "da": "en opvask",
-    "en": "the dishes to wash"
+    "da": "en karklud",
+    "en": "a dishcloth"
    },
    {
     "da": "et opvaskemiddel",
@@ -6036,7 +6048,7 @@
   }
  },
  "en opvækst": {
-  "explanation": "\"En opvækst\" means \"an upbringing\", the early years of your life and where you spent them: \"en opvækst i Jylland\" (an upbringing in Jutland). Do not mix it up with \"en opdragelse\" (the way your parents taught you): \"en streng opdragelse\" (a strict upbringing).",
+  "explanation": "\"En opvækst\" means \"an upbringing\". It comes from the verb \"at vokse op\" (to grow up). To say where you grew up, put \"i\" (in) and the place after it: \"en opvækst i Jylland\" (an upbringing in Jutland).",
   "forms": [
    {
     "da": "en opvækst",
@@ -6065,8 +6077,12 @@
     "en": "a youth"
    },
    {
-    "da": "at vokse op",
-    "en": "to grow up"
+    "da": "en opdragelse",
+    "en": "an upbringing in manners and behavior"
+   },
+   {
+    "da": "at opdrage",
+    "en": "to raise (a child)"
    }
   ],
   "sentence": {
@@ -6075,7 +6091,7 @@
   }
  },
  "en ordbog": {
-  "explanation": "\"En ordbog\" means \"a dictionary\", built from ord (word) and bog (book). The same \"ord\" is in \"et ordsprog\" (a proverb).",
+  "explanation": "\"En ordbog\" means \"a dictionary\". It is built from \"ord\" (word) and \"bog\" (book). The same \"ord\" is in \"et ordsprog\" (a proverb).",
   "forms": [
    {
     "da": "en ordbog",
@@ -6114,7 +6130,7 @@
   }
  },
  "en ordliste": {
-  "explanation": "\"En ordliste\" means \"a word list\" or \"a glossary\", a list of words with their meanings, often made for learners of a language or a school subject. It is shorter and simpler than \"en ordbog\" (a dictionary).",
+  "explanation": "\"En ordliste\" means \"a word list or glossary\". It is built from \"ord\" (word) and \"en liste\" (a list). Do not mix it up with \"en ordbog\" (a dictionary), which is a book that explains words: \"Jeg slår ordet op i en ordbog\" (I look the word up in a dictionary).",
   "forms": [
    {
     "da": "en ordliste",
@@ -6139,8 +6155,8 @@
     "en": "an encyclopedia"
    },
    {
-    "da": "en gloseliste",
-    "en": "a vocabulary list"
+    "da": "et alfabet",
+    "en": "an alphabet"
    },
    {
     "da": "et ordforråd",
@@ -6153,7 +6169,7 @@
   }
  },
  "en ordning": {
-  "explanation": "\"En ordning\" means \"an arrangement\" or \"a scheme\", a fixed way of organizing something, at work, at home or by the state. It comes from \"at ordne\" (to put in order) and often ends longer words: \"en pensionsordning\" (a pension scheme).",
+  "explanation": "\"En ordning\" means \"an arrangement or scheme\". It comes from the verb \"at ordne\" (to put in order). To talk about a pension scheme, add \"pension\" in front: \"en pensionsordning\" (a pension scheme).",
   "forms": [
    {
     "da": "en ordning",
@@ -6196,7 +6212,7 @@
   }
  },
  "en ordre": {
-  "explanation": "\"En ordre\" means \"an order\", something you are told to do by someone with authority, like a boss. It also means a customer's order of goods in business: \"en ordre på ti stole\" (an order for ten chairs). In a restaurant, Danes use \"at bestille\" (to order) instead.",
+  "explanation": "\"En ordre\" means \"an order (command)\". To talk about goods a customer asks a company to supply, use it too: \"en ordre på ti stole\" (an order for ten chairs). To order food in a restaurant, use \"at bestille\" (to order) instead: \"Jeg vil gerne bestille en pizza\" (I would like to order a pizza).",
   "forms": [
    {
     "da": "en ordre",
@@ -6227,6 +6243,10 @@
    {
     "da": "et påbud",
     "en": "a decree"
+   },
+   {
+    "da": "en kommando",
+    "en": "a command"
    }
   ],
   "sentence": {
@@ -6235,7 +6255,7 @@
   }
  },
  "en organisation": {
-  "explanation": "\"En organisation\" means \"an organization\", a group of people working together for a shared aim, such as a charity. It can also mean how something is arranged: \"organisationen af arbejdet\" (the way the work is arranged).",
+  "explanation": "\"En organisation\" means \"an organization\". It is the noun for the verb \"at organisere\" (to organize). To talk about how work is arranged, use it too: \"organisationen af arbejdet\" (the organization of the work).",
   "forms": [
    {
     "da": "en organisation",
@@ -6278,7 +6298,7 @@
   }
  },
  "en orkan": {
-  "explanation": "\"En orkan\" means \"a hurricane\", a violent wind of extreme force. In Danish weather reports, it is the very top level of wind strength.",
+  "explanation": "\"En orkan\" means \"a hurricane\". In Danish weather reports, \"orkan\" is the strongest level on the wind scale.",
   "forms": [
    {
     "da": "en orkan",
@@ -6321,7 +6341,7 @@
   }
  },
  "en orm": {
-  "explanation": "\"En orm\" means \"a worm\", the long soft animal with no legs that lives in the soil.",
+  "explanation": "\"En orm\" means \"a worm\". It is the end of \"en regnorm\" (an earthworm), built from \"regn\" (rain) and \"orm\".",
   "forms": [
    {
     "da": "en orm",
@@ -6342,10 +6362,6 @@
   ],
   "related": [
    {
-    "da": "en regnorm",
-    "en": "an earthworm"
-   },
-   {
     "da": "en larve",
     "en": "a larva"
    },
@@ -6364,7 +6380,7 @@
   }
  },
  "en ostehandler": {
-  "explanation": "\"En ostehandler\" means \"a cheesemonger\", a person or shop that sells cheese.",
+  "explanation": "\"En ostehandler\" means \"a cheesemonger\". The ending \"-handler\" is also in \"en fiskehandler\" (a fishmonger).",
   "forms": [
    {
     "da": "en ostehandler",
@@ -6385,10 +6401,6 @@
   ],
   "related": [
    {
-    "da": "en fiskehandler",
-    "en": "a fishmonger"
-   },
-   {
     "da": "en slagter",
     "en": "a butcher"
    },
@@ -6399,6 +6411,10 @@
    {
     "da": "en vinhandler",
     "en": "a wine merchant"
+   },
+   {
+    "da": "en grønthandler",
+    "en": "a greengrocer"
    }
   ],
   "sentence": {
@@ -6407,7 +6423,7 @@
   }
  },
  "en ostemad": {
-  "explanation": "\"En ostemad\" means \"a cheese sandwich\", a slice of bread with cheese on it. It is ost (cheese) plus mad (food). \"Mad\" means \"food\", but \"en mad\" is also a slice of bread with a topping: \"Jeg spiser en mad\" (I eat a sandwich).",
+  "explanation": "\"En ostemad\" means \"a cheese sandwich\". It is built from \"ost\" (cheese) and \"en mad\" (a sandwich). Without an article, \"mad\" means food in general: \"Vi laver mad\" (We are cooking).",
   "forms": [
    {
     "da": "en ostemad",
@@ -6428,8 +6444,8 @@
   ],
   "related": [
    {
-    "da": "en skinkemad",
-    "en": "a ham sandwich"
+    "da": "en frokost",
+    "en": "a lunch"
    },
    {
     "da": "en leverpostejmad",
@@ -6446,7 +6462,7 @@
   }
  },
  "en osteskærer": {
-  "explanation": "\"En osteskærer\" means \"a cheese slicer\", the flat tool that cuts thin, even slices from a block of cheese.",
+  "explanation": "\"En osteskærer\" means \"a cheese slicer\". It is built from \"ost\" (cheese) and the verb \"at skære\" (to cut). The same ending is in \"en pizzaskærer\" (a pizza cutter).",
   "forms": [
    {
     "da": "en osteskærer",
@@ -6475,8 +6491,8 @@
     "en": "a butter knife"
    },
    {
-    "da": "en pizzaskærer",
-    "en": "a pizza cutter"
+    "da": "en ostehøvl",
+    "en": "a cheese plane"
    }
   ],
   "sentence": {
@@ -6485,7 +6501,7 @@
   }
  },
  "en overbetjent": {
-  "explanation": "\"En overbetjent\" means \"a police sergeant\", a senior officer rank within the police. The \"over-\" means higher in rank, like in \"en overlæge\" (a senior doctor).",
+  "explanation": "\"En overbetjent\" means \"a police sergeant\". It is built from \"over-\" (higher) and \"en betjent\" (an officer). The same \"over-\" is in \"en overlæge\" (a senior doctor).",
   "forms": [
    {
     "da": "en overbetjent",
@@ -6524,7 +6540,7 @@
   }
  },
  "en overbevisning": {
-  "explanation": "\"En overbevisning\" means \"a conviction\", an idea you hold very firmly, often about politics, religion or right and wrong. A conviction in court is something else: \"en domfældelse\" (a guilty verdict).",
+  "explanation": "\"En overbevisning\" means \"a conviction\", as in a firm belief. It comes from the verb \"at overbevise\" (to convince). For a court's guilty verdict, use \"en domfældelse\" instead: \"Efter domfældelsen kom han i fængsel\" (After the conviction, he went to prison).",
   "forms": [
    {
     "da": "en overbevisning",
@@ -6555,10 +6571,6 @@
    {
     "da": "en holdning",
     "en": "an attitude"
-   },
-   {
-    "da": "at overbevise",
-    "en": "to convince"
    }
   ],
   "sentence": {
@@ -6567,7 +6579,7 @@
   }
  },
  "en overdosis": {
-  "explanation": "\"En overdosis\" means \"an overdose\", a dose of a drug or medicine that is too large and can harm the body. The \"over-\" often means too much, as in \"at overvurdere\" (to overestimate).",
+  "explanation": "\"En overdosis\" means \"an overdose\". It is built from \"over-\" (over) and \"en dosis\" (a dose). To say what someone died from, use \"af\" (of): \"Han døde af en overdosis\" (He died of an overdose).",
   "forms": [
    {
     "da": "en overdosis",
@@ -6606,7 +6618,7 @@
   }
  },
  "en overenskomst": {
-  "explanation": "\"En overenskomst\" means \"a collective agreement\", a deal between employers and a trade union that sets wages and rules for a whole group of workers. It applies on top of what you agree with your own employer, and many jobs in Denmark are covered by one.",
+  "explanation": "\"En overenskomst\" means \"a collective agreement\". Many jobs in Denmark are covered by one. To ask whether a workplace has one, say: \"Har I overenskomst?\" (Do you have a collective agreement?)",
   "forms": [
    {
     "da": "en overenskomst",
@@ -6637,6 +6649,10 @@
    {
     "da": "en løn",
     "en": "a salary"
+   },
+   {
+    "da": "en fagforening",
+    "en": "a trade union"
    }
   ],
   "sentence": {
@@ -6645,7 +6661,7 @@
   }
  },
  "en overflade": {
-  "explanation": "\"En overflade\" means \"a surface\", the outside of something, such as the top of water. It is built from over (over) and flade (flat area).",
+  "explanation": "\"En overflade\" means \"a surface\". It is built from \"over\" (over) and \"en flade\" (a flat area). To say something is on it, use \"på\" (on): \"på overfladen\" (on the surface).",
   "forms": [
    {
     "da": "en overflade",
@@ -6670,12 +6686,12 @@
     "en": "superficial"
    },
    {
-    "da": "et lag",
-    "en": "a layer"
+    "da": "en overside",
+    "en": "a top side"
    },
    {
-    "da": "en kant",
-    "en": "an edge"
+    "da": "en underside",
+    "en": "an underside"
    },
    {
     "da": "en bund",
@@ -6688,7 +6704,7 @@
   }
  },
  "en overførsel": {
-  "explanation": "\"En overførsel\" means \"a transfer\", moving something from one place to another, most often money between bank accounts. It can also be data: \"overførsel af filer\" (transfer of files).",
+  "explanation": "\"En overførsel\" means \"a transfer\". It is the noun for the verb \"at overføre\" (to transfer). To talk about a payment between bank accounts, add \"bank\" in front: \"en bankoverførsel\" (a bank transfer). To talk about moving computer files, say: \"overførsel af filer\" (transfer of files).",
   "forms": [
    {
     "da": "en overførsel",
@@ -6709,10 +6725,6 @@
   ],
   "related": [
    {
-    "da": "at overføre",
-    "en": "to transfer"
-   },
-   {
     "da": "en betaling",
     "en": "a payment"
    },
@@ -6731,7 +6743,7 @@
   }
  },
  "en overgang": {
-  "explanation": "\"En overgang\" means \"a transition\", the move from one stage to another, such as from winter to spring. Here \"over-\" means \"across\", which is why the word is also used for a crossing: \"en fodgængerovergang\" (a pedestrian crossing).",
+  "explanation": "\"En overgang\" means \"a transition\". It comes from \"at gå over\" (to go across). To talk about a place where people cross a street, say: \"en fodgængerovergang\" (a pedestrian crossing).",
   "forms": [
    {
     "da": "en overgang",
@@ -6770,7 +6782,7 @@
   }
  },
  "en overnatning": {
-  "explanation": "\"En overnatning\" means \"an overnight stay\", a stay where you sleep away from home, for example at a hotel.",
+  "explanation": "\"En overnatning\" means \"an overnight stay\". To ask for a stay that includes breakfast, say: \"overnatning med morgenmad\" (a stay with breakfast).",
   "forms": [
    {
     "da": "en overnatning",
@@ -6801,10 +6813,6 @@
    {
     "da": "et værelse",
     "en": "a room"
-   },
-   {
-    "da": "en nat",
-    "en": "a night"
    }
   ],
   "sentence": {
@@ -6813,7 +6821,7 @@
   }
  },
  "en overraskelse": {
-  "explanation": "\"En overraskelse\" means \"a surprise\", something you did not expect. The action is \"at overraske\" (to surprise).",
+  "explanation": "\"En overraskelse\" means \"a surprise\". It comes from the verb \"at overraske\" (to surprise). To tell someone you have a surprise for them, say: \"Jeg har en overraskelse til dig\" (I have a surprise for you).",
   "forms": [
    {
     "da": "en overraskelse",
@@ -6856,7 +6864,7 @@
   }
  },
  "en oversigt": {
-  "explanation": "\"En oversigt\" means \"an overview\", a short summary that shows the main points.",
+  "explanation": "\"En oversigt\" means \"an overview\". It is built from \"over\" (over) and \"sigt\" (sight), the same \"sigt\" as in \"en udsigt\" (a view).",
   "forms": [
    {
     "da": "en oversigt",
@@ -6895,7 +6903,7 @@
   }
  },
  "en overskrift": {
-  "explanation": "\"En overskrift\" means \"a headline\", the big title above a news story. It is also the line at the top of a document or a chapter: \"Skriv en overskrift øverst på siden\" (Write a headline at the top of the page).",
+  "explanation": "\"En overskrift\" means \"a headline\". It is built from \"over\" (over) and \"skrift\" (writing), so it is the writing that stands above a text.",
   "forms": [
    {
     "da": "en overskrift",
@@ -6924,8 +6932,8 @@
     "en": "a heading"
    },
    {
-    "da": "en underoverskrift",
-    "en": "a subheading"
+    "da": "en undertitel",
+    "en": "a subtitle"
    }
   ],
   "sentence": {
@@ -6934,7 +6942,7 @@
   }
  },
  "en oversvømmelse": {
-  "explanation": "\"En oversvømmelse\" means \"a flood\", when water covers land or buildings that are normally dry, after heavy rain or when a river or the sea rises. It can also be a small flood at home, such as from a burst pipe.",
+  "explanation": "\"En oversvømmelse\" means \"a flood\". It comes from the verb \"at oversvømme\" (to flood). To warn that water may rise, say: \"Der er risiko for oversvømmelse\" (There is a risk of flooding).",
   "forms": [
    {
     "da": "en oversvømmelse",
@@ -6955,10 +6963,6 @@
   ],
   "related": [
    {
-    "da": "at oversvømme",
-    "en": "to flood"
-   },
-   {
     "da": "et skybrud",
     "en": "a cloudburst"
    },
@@ -6977,7 +6981,7 @@
   }
  },
  "en oversættelse": {
-  "explanation": "\"En oversættelse\" means \"a translation\", a written text moved from one language into another. For spoken words, the person who translates out loud is \"en tolk\" (an interpreter).",
+  "explanation": "\"En oversættelse\" means \"a translation\". It comes from the verb \"at oversætte\" (to translate). For someone who translates spoken words, use \"en tolk\" (an interpreter) instead: \"Vi fik en tolk til mødet\" (We got an interpreter for the meeting).",
   "forms": [
    {
     "da": "en oversættelse",
@@ -6998,10 +7002,6 @@
   ],
   "related": [
    {
-    "da": "at oversætte",
-    "en": "to translate"
-   },
-   {
     "da": "en oversætter",
     "en": "a translator"
    },
@@ -7020,7 +7020,7 @@
   }
  },
  "en oversætter": {
-  "explanation": "\"En oversætter\" means \"a translator\", a person who turns written text from one language into another.",
+  "explanation": "\"En oversætter\" means \"a translator\". It is the person who does \"at oversætte\" (to translate). For someone who translates spoken words, use \"en tolk\" (an interpreter) instead: \"Jeg bruger en tolk til mødet\" (I am using an interpreter for the meeting).",
   "forms": [
    {
     "da": "en oversætter",
@@ -7041,16 +7041,16 @@
   ],
   "related": [
    {
-    "da": "at oversætte",
-    "en": "to translate"
-   },
-   {
     "da": "en oversættelse",
     "en": "a translation"
    },
    {
-    "da": "en tolk",
-    "en": "an interpreter"
+    "da": "et sprog",
+    "en": "a language"
+   },
+   {
+    "da": "en ordbog",
+    "en": "a dictionary"
    }
   ],
   "sentence": {
@@ -7059,7 +7059,7 @@
   }
  },
  "en overvejelse": {
-  "explanation": "\"En overvejelse\" means \"a consideration\", thinking about something carefully before you decide. Danes often say \"overvejelser\" (considerations): \"efter nogle overvejelser\" (after some thought).",
+  "explanation": "\"En overvejelse\" means \"a consideration\". It is the noun for the verb \"at overveje\" (to consider). To say something happened after some thought, use the plural: \"efter nogle overvejelser\" (after some consideration).",
   "forms": [
    {
     "da": "en overvejelse",
@@ -7080,10 +7080,6 @@
   ],
   "related": [
    {
-    "da": "at overveje",
-    "en": "to consider"
-   },
-   {
     "da": "en beslutning",
     "en": "a decision"
    },
@@ -7102,7 +7098,7 @@
   }
  },
  "en ovn": {
-  "explanation": "\"En ovn\" means \"an oven\", the one you bake and roast in. Typical phrases are \"i ovnen\" (in the oven) and \"at tænde ovnen\" (to turn on the oven). The cooking surface on top is a different word, \"en kogeplade\" (a stovetop).",
+  "explanation": "\"En ovn\" means \"an oven\". To say you turn it on, use \"at tænde\" (to turn on): \"Jeg tænder ovnen\" (I turn on the oven). For the cooking surface on top, use \"en kogeplade\" (a stovetop) instead: \"Jeg koger vand på kogepladen\" (I boil water on the stovetop).",
   "forms": [
    {
     "da": "en ovn",
@@ -7131,8 +7127,8 @@
     "en": "a microwave oven"
    },
    {
-    "da": "en ovnhandske",
-    "en": "an oven mitt"
+    "da": "en pizza",
+    "en": "a pizza"
    }
   ],
   "sentence": {
@@ -7141,7 +7137,7 @@
   }
  },
  "et offentligt rum": {
-  "explanation": "\"Et offentligt rum\" means \"a public space\", a place that anyone can enter, like a street, a park or a library.",
+  "explanation": "\"Et offentligt rum\" means \"a public space\". After \"i det\" (in the), the adjective ends in \"-e\": \"i det offentlige rum\" (in public space). The word \"et rum\" can also mean \"a room\": \"Lejligheden har tre rum\" (The apartment has three rooms).",
   "forms": [
    {
     "da": "et offentligt rum",
@@ -7163,15 +7159,15 @@
    },
    {
     "da": "et fællesområde",
-    "en": "a shared area"
-   },
-   {
-    "da": "et offentligt sted",
-    "en": "a public place"
+    "en": "a common area"
    },
    {
     "da": "et privat område",
     "en": "a private area"
+   },
+   {
+    "da": "en plads",
+    "en": "a square"
    }
   ],
   "sentence": {
@@ -7180,7 +7176,7 @@
   }
  },
  "et offentligt toilet": {
-  "explanation": "\"Et offentligt toilet\" means \"a public restroom\". On signs, you may see \"et herretoilet\" (a men's restroom) or \"et dametoilet\" (a women's restroom).",
+  "explanation": "\"Et offentligt toilet\" means \"a public restroom\". The adjective ends in \"-t\" here, but it ends in \"-e\" after \"det\" (the): \"det offentlige toilet\" (the public restroom).",
   "forms": [
    {
     "da": "et offentligt toilet",
@@ -7202,15 +7198,19 @@
   "related": [
    {
     "da": "et wc",
-    "en": "a WC, a toilet"
+    "en": "a toilet"
    },
    {
-    "da": "en håndvask",
-    "en": "a sink"
+    "da": "et herretoilet",
+    "en": "a men's restroom"
    },
    {
-    "da": "toiletpapir",
-    "en": "toilet paper"
+    "da": "et dametoilet",
+    "en": "a women's restroom"
+   },
+   {
+    "da": "et handicaptoilet",
+    "en": "an accessible toilet"
    }
   ],
   "sentence": {
@@ -7219,7 +7219,7 @@
   }
  },
  "et offer": {
-  "explanation": "\"Et offer\" means \"a victim\", for example of a crime or an accident: \"Politiet talte med offeret\" (The police spoke with the victim). It also means \"a sacrifice\": \"Det kræver et offer\" (It takes a sacrifice).",
+  "explanation": "\"Et offer\" means \"a victim\". To talk about someone hurt in a crime, say: \"Politiet talte med offeret\" (The police spoke with the victim). It also means \"a sacrifice\". To say something costs you something you give up, say: \"Det kræver et offer\" (It takes a sacrifice).",
   "forms": [
    {
     "da": "et offer",
@@ -7258,7 +7258,7 @@
   }
  },
  "et omdømme": {
-  "explanation": "\"Et omdømme\" means \"a reputation\", what people in general think of a person, a company or a place. It is built up over time from what people hear and experience.",
+  "explanation": "\"Et omdømme\" means \"a reputation\". It is built from \"om\" (around) and \"at dømme\" (to judge). To say something harms it, use \"at skade\" (to damage): \"Skandalen skadede firmaets omdømme\" (The scandal damaged the company's reputation).",
   "forms": [
    {
     "da": "et omdømme",
@@ -7280,11 +7280,11 @@
   "related": [
    {
     "da": "et ry",
-    "en": "a reputation"
+    "en": "a repute"
    },
    {
     "da": "en anseelse",
-    "en": "esteem"
+    "en": "a standing"
    },
    {
     "da": "et image",
@@ -7301,7 +7301,7 @@
   }
  },
  "et omklædningsrum": {
-  "explanation": "\"Et omklædningsrum\" means \"a locker room\", a room at a gym, pool or sports club where you change clothes. Its first part, \"omklædning\", means changing clothes.",
+  "explanation": "\"Et omklædningsrum\" means \"a locker room\". It is built from \"omklædning\" (changing clothes) and \"et rum\" (a room).",
   "forms": [
    {
     "da": "et omklædningsrum",
@@ -7327,15 +7327,11 @@
    },
    {
     "da": "et skab",
-    "en": "a cabinet"
+    "en": "a cupboard"
    },
    {
     "da": "et badeværelse",
     "en": "a bathroom"
-   },
-   {
-    "da": "en bruser",
-    "en": "a shower"
    }
   ],
   "sentence": {
@@ -7344,7 +7340,7 @@
   }
  },
  "et område": {
-  "explanation": "\"Et område\" means \"an area\", a part of a place. It also means a field of knowledge: \"Hun er ekspert på dette område\" (She is an expert in this field).",
+  "explanation": "\"Et område\" means \"an area\". When you talk about a subject someone knows well, it means \"a field\": \"Hun er ekspert på dette område\" (She is an expert in this field).",
   "forms": [
    {
     "da": "et område",
@@ -7366,7 +7362,7 @@
   "related": [
    {
     "da": "en egn",
-    "en": "a region / district"
+    "en": "a district"
    },
    {
     "da": "en region",
@@ -7387,7 +7383,7 @@
   }
  },
  "et ophold": {
-  "explanation": "\"Et ophold\" means \"a stay\", the time you spend somewhere, such as in a hotel. You also use it for a short stop on a trip: \"et kort ophold\" (a short stop).",
+  "explanation": "\"Et ophold\" means \"a stay\". It comes from the verb \"at opholde sig\" (to stay somewhere). It is also in \"en opholdstilladelse\" (a residence permit).",
   "forms": [
    {
     "da": "et ophold",
@@ -7408,10 +7404,6 @@
   ],
   "related": [
    {
-    "da": "at opholde sig",
-    "en": "to stay / be located"
-   },
-   {
     "da": "en overnatning",
     "en": "an overnight stay"
    },
@@ -7430,7 +7422,7 @@
   }
  },
  "et opholdsrum": {
-  "explanation": "\"Et opholdsrum\" means \"a lounge\" or \"a common room\", a room where people can sit and relax together, for example at a school, a workplace or a care home. Its first part comes from \"at opholde sig\" (to stay somewhere).",
+  "explanation": "\"Et opholdsrum\" means \"a lounge\". It is built from \"et ophold\" (a stay) and \"et rum\" (a room). Do not mix it up with \"en stue\" (a living room), which is in a home: \"Vi sidder i stuen\" (We are sitting in the living room).",
   "forms": [
    {
     "da": "et opholdsrum",
@@ -7451,12 +7443,8 @@
   ],
   "related": [
    {
-    "da": "et pauserum",
-    "en": "a break room"
-   },
-   {
-    "da": "en stue",
-    "en": "a living room"
+    "da": "en sofa",
+    "en": "a sofa"
    },
    {
     "da": "en kantine",
@@ -7465,6 +7453,10 @@
    {
     "da": "et mødelokale",
     "en": "a meeting room"
+   },
+   {
+    "da": "et fællesrum",
+    "en": "a common room"
    }
   ],
   "sentence": {
@@ -7473,7 +7465,7 @@
   }
  },
  "et opkald": {
-  "explanation": "\"Et opkald\" means \"a phone call\" as an event, the moment the phone rings or you dial. The talk itself is \"en samtale\" (a conversation): \"Vi havde en lang samtale\" (We had a long conversation).",
+  "explanation": "\"Et opkald\" means \"a phone call\". When you mean the talk itself, use \"en samtale\" (a conversation): \"Vi havde en lang samtale\" (We had a long conversation). To name a call nobody picked up, say: \"et ubesvaret opkald\" (an unanswered call).",
   "forms": [
    {
     "da": "et opkald",
@@ -7512,7 +7504,7 @@
   }
  },
  "et opkøb": {
-  "explanation": "\"Et opkøb\" means \"an acquisition\" and \"a buyout\", when a company buys another company or a large part of it. It comes from \"at købe op\" (to buy up).",
+  "explanation": "\"Et opkøb\" means \"an acquisition or buyout\". It comes from \"at købe op\" (to buy up). To talk about a takeover the owners did not want, say: \"et fjendtligt opkøb\" (a hostile takeover).",
   "forms": [
    {
     "da": "et opkøb",
@@ -7541,10 +7533,6 @@
     "en": "a takeover"
    },
    {
-    "da": "et køb",
-    "en": "a purchase"
-   },
-   {
     "da": "et salg",
     "en": "a sale"
    }
@@ -7555,7 +7543,7 @@
   }
  },
  "et oplæg": {
-  "explanation": "\"Et oplæg\" means \"a presentation\" and \"a proposal\": a short talk or a written plan that starts a conversation: \"Hun holder et oplæg på mødet\" (She gives a presentation at the meeting).",
+  "explanation": "\"Et oplæg\" means \"a presentation or proposal\". To say someone gives a talk, use \"at holde\" (to hold): \"Han holder et oplæg om klima\" (He gives a presentation about climate).",
   "forms": [
    {
     "da": "et oplæg",
@@ -7598,7 +7586,7 @@
   }
  },
  "et oprør": {
-  "explanation": "\"Et oprør\" means \"a rebellion\" and \"an uprising\", when many people openly rise up against those in power. It is also used on a small scale: \"Børnene gjorde oprør mod reglerne\" (The children rebelled against the rules).",
+  "explanation": "\"Et oprør\" means \"a rebellion or uprising\". To say someone refuses to obey, use \"at gøre oprør mod\" (to rebel against): \"Børnene gjorde oprør mod reglerne\" (The children rebelled against the rules).",
   "forms": [
    {
     "da": "et oprør",
@@ -7624,7 +7612,7 @@
    },
    {
     "da": "en opstand",
-    "en": "a revolt"
+    "en": "an uprising"
    },
    {
     "da": "en protest",
@@ -7641,7 +7629,7 @@
   }
  },
  "et opslag": {
-  "explanation": "\"Et opslag\" means \"a post\" on social media: \"Hun skrev et opslag om sin ferie\" (She wrote a post about her vacation). It also means a notice on a board: \"et opslag på skolen\" (a notice at the school).",
+  "explanation": "\"Et opslag\" means \"a post\", as on social media: \"Hun skrev et opslag om sin ferie\" (She wrote a post about her vacation). To talk about a paper notice on a wall, use it too: \"Der hænger et opslag på skolen\" (There is a notice up at the school).",
   "forms": [
    {
     "da": "et opslag",
@@ -7667,11 +7655,11 @@
    },
    {
     "da": "et opslagsværk",
-    "en": "a reference book"
+    "en": "a reference work"
    },
    {
     "da": "en opslagstavle",
-    "en": "a bulletin board"
+    "en": "a notice board"
    }
   ],
   "sentence": {
@@ -7680,7 +7668,7 @@
   }
  },
  "et optog": {
-  "explanation": "\"Et optog\" means \"a parade\", a group of people walking together through the streets, often with music or flags. A carnival has one, and so does a protest walk.",
+  "explanation": "\"Et optog\" means \"a parade\". To say people march together in one, use \"at gå i optog\" (to walk in a parade): \"Børnene går i optog\" (The children march in a parade).",
   "forms": [
    {
     "da": "et optog",
@@ -7709,8 +7697,8 @@
     "en": "a demonstration"
    },
    {
-    "da": "en march",
-    "en": "a march"
+    "da": "et karneval",
+    "en": "a carnival"
    }
   ],
   "sentence": {
@@ -7719,7 +7707,7 @@
   }
  },
  "et ord": {
-  "explanation": "\"Et ord\" means \"a word\". It is the start of many compounds, such as \"en ordbog\" (a dictionary, literally a word book) and \"et ordspil\" (a pun, literally a word game).",
+  "explanation": "\"Et ord\" means \"a word\". It is the start of compounds such as \"en ordbog\" (a dictionary, literally a word book). To say you keep a promise, use \"at holde\" (to keep): \"Jeg holder mit ord\" (I keep my word).",
   "forms": [
    {
     "da": "et ord",
@@ -7758,7 +7746,7 @@
   }
  },
  "et ordforråd": {
-  "explanation": "\"Et ordforråd\" means \"a vocabulary\", all the words a person knows and uses. It is built from ord (word) and forråd (a stock of supplies), so it is literally a stock of words. You say that someone has \"et stort ordforråd\" (a large vocabulary).",
+  "explanation": "\"Et ordforråd\" means \"a vocabulary\". It is built from \"ord\" (word) and \"et forråd\" (a stock of supplies), so it is literally a stock of words. To say someone knows many words, say: \"Hun har et stort ordforråd\" (She has a large vocabulary).",
   "forms": [
    {
     "da": "et ordforråd",
@@ -7801,7 +7789,7 @@
   }
  },
  "et ordspil": {
-  "explanation": "\"Et ordspil\" means \"a pun\" and \"wordplay\", a clever phrase that plays on words that sound alike or have two meanings. It is built from et ord (a word) and et spil (a game), so it is literally a word game.",
+  "explanation": "\"Et ordspil\" means \"a pun or wordplay\". It is built from \"et ord\" (a word) and \"et spil\" (a game), so it is literally a word game. To say you made one, say: \"Jeg lavede et ordspil\" (I made a pun).",
   "forms": [
    {
     "da": "et ordspil",
@@ -7844,7 +7832,7 @@
   }
  },
  "et ordsprog": {
-  "explanation": "\"Et ordsprog\" means \"a proverb\", a short, well-known statement of advice about life. One example is \"Den, der intet vover, intet vinder\" (Nothing ventured, nothing gained).",
+  "explanation": "\"Et ordsprog\" means \"a proverb\". To give a well-known Danish one: \"Den, der intet vover, intet vinder\" (Nothing ventured, nothing gained).",
   "forms": [
    {
     "da": "et ordsprog",
@@ -7870,7 +7858,7 @@
    },
    {
     "da": "en talemåde",
-    "en": "an expression"
+    "en": "an idiom"
    },
    {
     "da": "et citat",
@@ -7878,7 +7866,7 @@
    },
    {
     "da": "en leveregel",
-    "en": "a rule of life"
+    "en": "a rule to live by"
    }
   ],
   "sentence": {
@@ -7887,7 +7875,7 @@
   }
  },
  "et organ": {
-  "explanation": "\"Et organ\" means \"an organ\", a part of the body with its own job. The liver, the kidneys and the lungs are organs.",
+  "explanation": "\"Et organ\" means \"an organ\", as in a part of the body. To talk about an authority, it also means \"a body\": \"et offentligt organ\" (a public body).",
   "forms": [
    {
     "da": "et organ",
@@ -7912,16 +7900,16 @@
     "en": "a brain"
    },
    {
-    "da": "en mave",
-    "en": "a stomach"
+    "da": "en lever",
+    "en": "a liver"
    },
    {
-    "da": "en muskel",
-    "en": "a muscle"
+    "da": "en nyre",
+    "en": "a kidney"
    },
    {
-    "da": "en tarm",
-    "en": "an intestine"
+    "da": "en lunge",
+    "en": "a lung"
    }
   ],
   "sentence": {
@@ -7930,7 +7918,7 @@
   }
  },
  "et overblik": {
-  "explanation": "\"Et overblik\" means \"an overview\", a clear picture of the whole situation without the small details. To gain one, say \"at få overblik\" (to get an overview). To lose it, say \"Jeg har mistet overblikket\" (I have lost track of things).",
+  "explanation": "\"Et overblik\" means \"an overview\". It is built from \"over\" (over) and \"et blik\" (a look). To say you have lost your grip on things, say: \"Jeg har mistet overblikket\" (I have lost track of things).",
   "forms": [
    {
     "da": "et overblik",
@@ -7960,7 +7948,7 @@
    },
    {
     "da": "en helhed",
-    "en": "a whole"
+    "en": "a unity"
    },
    {
     "da": "et perspektiv",
@@ -7973,7 +7961,7 @@
   }
  },
  "et overfald": {
-  "explanation": "\"Et overfald\" means \"an assault\", a sudden violent act against a person, usually by someone who surprises them. If the attacker also steals something, it becomes \"et røveri\" (a robbery).",
+  "explanation": "\"Et overfald\" means \"an assault\". It comes from the verb \"at overfalde\" (to attack). If the attacker also steals something, use \"et røveri\" (a robbery) instead: \"Der var et røveri i banken\" (There was a robbery at the bank).",
   "forms": [
    {
     "da": "et overfald",
@@ -7999,7 +7987,7 @@
    },
    {
     "da": "en overfaldsmand",
-    "en": "an assailant"
+    "en": "an attacker"
    },
    {
     "da": "et slagsmål",
@@ -8012,7 +8000,7 @@
   }
  },
  "et overskud": {
-  "explanation": "\"Et overskud\" means \"a surplus\", more than what is needed. For a company, it is the money left after all costs, which is profit. For a person, \"at have overskud\" means having energy to spare: \"Jeg har ikke overskud i dag\" (I do not have the energy today).",
+  "explanation": "\"Et overskud\" means \"a surplus\". In a company's accounts, it means the profit left after costs: \"Regnskabet viser et overskud på en million\" (The accounts show a surplus of one million). To say you have energy to spare, use \"at have overskud\" (to have energy to spare): \"Jeg har ikke overskud i dag\" (I do not have the energy today).",
   "forms": [
    {
     "da": "et overskud",
@@ -8055,7 +8043,7 @@
   }
  },
  "et overskæg": {
-  "explanation": "\"Et overskæg\" means \"a mustache\", the hair that grows on the upper lip. Do not mix it up with \"et skæg\" (a beard), which grows on the chin and cheeks.",
+  "explanation": "\"Et overskæg\" means \"a mustache\". It is built from \"over\" (over) and \"et skæg\" (a beard), so it is the beard hair above the mouth.",
   "forms": [
    {
     "da": "et overskæg",
@@ -8094,7 +8082,7 @@
   }
  },
  "objektiv": {
-  "explanation": "\"Objektiv\" means \"objective\", based on facts and not on personal feelings: \"en objektiv vurdering\" (an objective assessment). \"Et objektiv\" is also the lens of a camera: \"Han skiftede objektiv\" (He changed the lens).",
+  "explanation": "\"Objektiv\" means \"objective\". Before an \"et\" word it ends in \"-t\": \"et objektivt billede\" (an objective picture). To talk about a camera lens, use the noun \"et objektiv\" (a lens): \"Han skiftede objektiv\" (He changed the lens).",
   "forms": [
    {
     "da": "en objektiv beskrivelse",
@@ -8121,6 +8109,10 @@
    {
     "da": "upartisk",
     "en": "impartial"
+   },
+   {
+    "da": "neutral",
+    "en": "neutral"
    }
   ],
   "sentence": {
@@ -8129,7 +8121,7 @@
   }
  },
  "obligatorisk": {
-  "explanation": "\"Obligatorisk\" means \"mandatory\", made necessary by a rule and not by your own choice: \"Mødet er obligatorisk\" (The meeting is mandatory).",
+  "explanation": "\"Obligatorisk\" means \"mandatory\". To say who it applies to, put \"for\" (for) after it: \"Kurset er obligatorisk for alle\" (The course is mandatory for everyone).",
   "forms": [
    {
     "da": "et obligatorisk fag",
@@ -8168,7 +8160,7 @@
   }
  },
  "odds": {
-  "explanation": "\"Odds\" means \"odds\", the numbers in gambling that show how much you can earn for each krone you put in. The lower the number, the more likely the result.",
+  "explanation": "\"Odds\" means \"odds\". To say you bet on something, use \"at satse på\" (to bet on): \"Jeg satser på det røde hold\" (I am betting on the red team).",
   "forms": [
    {
     "da": "høje odds",
@@ -8190,7 +8182,7 @@
    },
    {
     "da": "en gevinst",
-    "en": "winnings"
+    "en": "a win"
    },
    {
     "da": "en chance",
@@ -8207,7 +8199,7 @@
   }
  },
  "offentlig": {
-  "explanation": "\"Offentlig\" means \"public\", for things that belong to everyone, such as the country or a town: \"offentlig transport\" (public transport). The opposite is \"privat\" (private).",
+  "explanation": "\"Offentlig\" means \"public\". To talk about transport everyone can use, say: \"offentlig transport\" (public transport). The opposite is \"privat\" (private): \"en privat skole\" (a private school).",
   "forms": [
    {
     "da": "en offentlig skole",
@@ -8246,7 +8238,7 @@
   }
  },
  "offentlighed": {
-  "explanation": "\"Offentlighed\" means \"the public\", the ordinary people of a country: \"Politiet bad offentligheden om hjælp\" (The police asked the public for help). It also means openness: a meeting held \"med offentlighed\" (with the public present) is open, so anyone can watch it or read about it.",
+  "explanation": "\"Offentlighed\" means \"the public\". It is built from the adjective \"offentlig\" (public). To say who the police asked for help, say: \"Politiet bad offentligheden om hjælp\" (The police asked the public for help).",
   "forms": [
    {
     "da": "offentligheden",
@@ -8276,7 +8268,7 @@
    },
    {
     "da": "hemmelighed",
-    "en": "secrecy"
+    "en": "a secret"
    }
   ],
   "sentence": {
@@ -8285,7 +8277,7 @@
   }
  },
  "offentligt": {
-  "explanation": "\"Offentligt\" means \"publicly\", in front of everyone and not in private: \"Han talte offentligt om sygdommen\" (He spoke publicly about the illness). It comes from offentlig (public).",
+  "explanation": "\"Offentligt\" means \"publicly\". It comes from \"offentlig\" (public). To say someone speaks in front of everyone, say: \"Han talte offentligt om sygdommen\" (He spoke publicly about the illness).",
   "forms": [
    {
     "da": "tale offentligt",
@@ -8320,7 +8312,7 @@
   }
  },
  "officiel": {
-  "explanation": "\"Officiel\" means \"official\", for what comes from the government or from someone with the power to decide: \"et officielt brev\" (an official letter).",
+  "explanation": "\"Officiel\" means \"official\". Do not mix it up with \"offentlig\" (public), which is about things that belong to everyone: \"et offentligt bibliotek\" (a public library).",
   "forms": [
    {
     "da": "en officiel regel",
@@ -8341,10 +8333,6 @@
     "en": "unofficial"
    },
    {
-    "da": "offentlig",
-    "en": "public"
-   },
-   {
     "da": "formel",
     "en": "formal"
    },
@@ -8359,7 +8347,7 @@
   }
  },
  "officielt": {
-  "explanation": "\"Officielt\" means \"officially\", by the rules or the authorities, and it often hints that reality is different: \"Officielt er det forbudt, men alle gør det\" (Officially it is forbidden, but everyone does it).",
+  "explanation": "\"Officielt\" means \"officially\". It comes from \"officiel\" (official). To say what the rules say, whatever people do, say: \"Officielt er det forbudt, men alle gør det\" (Officially it is forbidden, but everyone does it).",
   "forms": [
    {
     "da": "officielt åbnet",
@@ -8394,7 +8382,7 @@
   }
  },
  "offline": {
-  "explanation": "\"Offline\" means \"offline\", not connected to the web. It is the same word as in English.",
+  "explanation": "\"Offline\" means \"offline\". To say you disconnect from the web, use \"at gå offline\" (to go offline): \"Jeg går offline nu\" (I am going offline now).",
   "forms": [
    {
     "da": "Jeg er offline i dag",
@@ -8468,7 +8456,7 @@
   }
  },
  "oftest": {
-  "explanation": "\"Oftest\" means \"most often\": \"Jeg spiser oftest ris\" (I most often eat rice). It comes from \"ofte\" (often): the forms go \"ofte\", \"oftere\" (more often), \"oftest\".",
+  "explanation": "\"Oftest\" means \"most often\". It is the last step of \"ofte\" (often): \"ofte\", \"oftere\" (more often), \"oftest\". To say what you eat most often, say: \"Jeg spiser oftest ris\" (I most often eat rice).",
   "forms": [
    {
     "da": "Det sker oftest om aftenen",
@@ -8503,7 +8491,7 @@
   }
  },
  "og": {
-  "explanation": "\"Og\" means \"and\". Do not mix it up with \"også\" (also, too): \"Jeg kan også lide te\" (I also like tea). \"Og\" is said without the g sound.",
+  "explanation": "\"Og\" means \"and\". It is said without the \"g\" sound. Do not mix it up with \"også\" (also, too): \"Jeg kan også lide te\" (I also like tea).",
   "forms": [
    {
     "da": "kaffe og kage",
@@ -8528,10 +8516,6 @@
     "en": "but"
    },
    {
-    "da": "både ... og",
-    "en": "both ... and"
-   },
-   {
     "da": "samt",
     "en": "as well as"
    }
@@ -8542,7 +8526,7 @@
   }
  },
  "også": {
-  "explanation": "\"Også\" means \"also\" or \"too\". In a negative sentence, use \"heller ikke\" (either) instead: \"Jeg kommer heller ikke\" (I am not coming either). Do not mix it up with \"og\" (and): \"te og kaffe\" (tea and coffee).",
+  "explanation": "\"Også\" means \"too\". In a negative sentence, use \"heller ikke\" (either) instead: \"Jeg kommer heller ikke\" (I am not coming either). Do not mix it up with \"og\" (and): \"te og kaffe\" (tea and coffee).",
   "forms": [
    {
     "da": "Jeg kommer også.",
@@ -8560,7 +8544,7 @@
   "related": [
    {
     "da": "både … og",
-    "en": "both … and"
+    "en": "both ... and"
    },
    {
     "da": "desuden",
@@ -8581,7 +8565,7 @@
   }
  },
  "okay": {
-  "explanation": "\"Okay\" means \"okay\", the same word as in English. You use it to agree: \"Skal vi mødes klokken otte?\" \"Okay.\" (Shall we meet at eight? Okay.)",
+  "explanation": "\"Okay\" means \"okay\". To agree to a plan, answer with it: \"Skal vi tage bussen?\" \"Okay.\" (Shall we take the bus? Okay.)",
   "forms": [
    {
     "da": "Okay!",
@@ -8607,7 +8591,7 @@
    },
    {
     "da": "det er i orden",
-    "en": "that's all right"
+    "en": "that is all right"
    }
   ],
   "sentence": {
@@ -8651,7 +8635,7 @@
   }
  },
  "oksekød": {
-  "explanation": "\"Oksekød\" means \"beef\". It is made from okse (ox) and kød (meat), so it is literally ox meat.",
+  "explanation": "\"Oksekød\" means \"beef\". It is built from \"en okse\" (an ox) and \"kød\" (meat), so it is literally ox meat.",
   "forms": [
    {
     "da": "oksekød",
@@ -8686,7 +8670,7 @@
   }
  },
  "oktober": {
-  "explanation": "\"Oktober\" means \"October\". Danish spells it with a k, where English has a c. Like all month names, it is written with a lowercase letter.",
+  "explanation": "\"Oktober\" means \"October\". Danish spells it with a \"k\", where English has a \"c\".",
   "forms": [
    {
     "da": "oktober",
@@ -8721,7 +8705,7 @@
   }
  },
  "oldnordisk": {
-  "explanation": "\"Oldnordisk\" means \"Old Norse\", the language of the Viking Age. The Scandinavian languages all developed from it. It is also the name of a university subject, as in \"at læse oldnordisk\" (to study Old Norse).",
+  "explanation": "\"Oldnordisk\" means \"Old Norse\". The \"old-\" means ancient, as in \"oldtiden\" (ancient times). To say you study it, use \"at læse\" (to study): \"Han læser oldnordisk\" (He studies Old Norse).",
   "forms": [
    {
     "da": "en oldnordisk tekst",
@@ -8742,16 +8726,16 @@
     "en": "Icelandic"
    },
    {
-    "da": "nordisk",
-    "en": "Nordic"
-   },
-   {
     "da": "oldengelsk",
     "en": "Old English"
    },
    {
     "da": "en rune",
     "en": "a rune"
+   },
+   {
+    "da": "en saga",
+    "en": "a saga"
    }
   ],
   "sentence": {
@@ -8799,7 +8783,7 @@
   }
  },
  "olivenolie": {
-  "explanation": "\"Olivenolie\" means \"olive oil\", built from oliven (olive) and olie (oil). It is used for salad or frying.",
+  "explanation": "\"Olivenolie\" means \"olive oil\". It is built from \"en oliven\" (an olive) and \"olie\" (oil).",
   "forms": [
    {
     "da": "en olivenolie",
@@ -8821,7 +8805,7 @@
   "related": [
    {
     "da": "rapsolie",
-    "en": "canola oil"
+    "en": "rapeseed oil"
    },
    {
     "da": "solsikkeolie",
@@ -8842,7 +8826,7 @@
   }
  },
  "om": {
-  "explanation": "\"Om\" means \"about\", \"in\" (time from now) or \"whether\": \"en bog om Danmark\" (a book about Denmark), \"om en uge\" (a week from now), \"Jeg ved ikke, om han kommer\" (I do not know whether he is coming). To name how long an event lasts, use \"i\" (for) instead: \"i en uge\" (for a week).",
+  "explanation": "\"Om\" means \"about\". To say what a book is about, use it: \"en bog om Danmark\" (a book about Denmark). It also means \"in\" for time from now: \"om en uge\" (a week from now). It also means \"whether\", after a verb like \"at vide\" (to know): \"Jeg ved ikke, om han kommer\" (I do not know whether he is coming). To say how long something lasts, use \"i\" (for) instead: \"i en uge\" (for a week).",
   "forms": [
    {
     "da": "om bogen",
@@ -8912,7 +8896,7 @@
   }
  },
  "om lidt": {
-  "explanation": "\"Om lidt\" means \"in a little while\" or \"soon\". It is later than \"nu\" (now): \"Jeg kommer om lidt\" (I am coming in a little while).",
+  "explanation": "\"Om lidt\" means \"in a little while\". To promise that you will arrive soon, say: \"Jeg kommer om lidt\" (I am coming in a little while). The \"om\" in it is the same \"om\" as in \"om en uge\" (a week from now).",
   "forms": [
    {
     "da": "om lidt",
@@ -9029,7 +9013,7 @@
   }
  },
  "om ugen": {
-  "explanation": "\"Om ugen\" means \"per week\" and tells how often something happens. The same pattern works for other times: \"to gange om dagen\" (twice a day), \"fem dage om ugen\" (five days a week).",
+  "explanation": "\"Om ugen\" means \"per week\". The same pattern works for a day: \"to gange om dagen\" (twice a day).",
   "forms": [
    {
     "da": "om ugen",
@@ -9045,10 +9029,6 @@
    }
   ],
   "related": [
-   {
-    "da": "en uge",
-    "en": "a week"
-   },
    {
     "da": "om måneden",
     "en": "per month"
@@ -9068,7 +9048,7 @@
   }
  },
  "om året": {
-  "explanation": "\"Om året\" means \"per year\" and tells how often something happens. The same pattern works for a week: \"to gange om ugen\" (twice a week).",
+  "explanation": "\"Om året\" means \"a year\", for how often something happens. The same pattern works for a month: \"en gang om måneden\" (once a month).",
   "forms": [
    {
     "da": "to gange om året",
@@ -9089,16 +9069,16 @@
     "en": "per day"
    },
    {
-    "da": "om måneden",
-    "en": "per month"
-   },
-   {
     "da": "hvert år",
     "en": "every year"
    },
    {
     "da": "årlig",
-    "en": "yearly"
+    "en": "annual"
+   },
+   {
+    "da": "om ugen",
+    "en": "per week"
    }
   ],
   "sentence": {
@@ -9107,7 +9087,7 @@
   }
  },
  "ombord": {
-  "explanation": "\"Ombord\" means \"on board\" a ship, plane or train: \"Hun går ombord på færgen\" (She goes on board the ferry). The opposite is \"i land\" (ashore): \"Vi går i land\" (We go ashore).",
+  "explanation": "\"Ombord\" means \"on board\". To say someone steps onto a ferry, use it with \"på\" (on): \"Hun går ombord på færgen\" (She goes on board the ferry). The opposite is \"i land\" (ashore): \"Vi går i land\" (We go ashore).",
   "forms": [
    {
     "da": "Velkommen ombord!",
@@ -9128,12 +9108,12 @@
     "en": "boarding"
    },
    {
-    "da": "overbord",
-    "en": "overboard"
+    "da": "et skib",
+    "en": "a ship"
    },
    {
     "da": "at stige ombord",
-    "en": "to get on board"
+    "en": "to board"
    }
   ],
   "sentence": {
@@ -9142,7 +9122,7 @@
   }
  },
  "omfattende": {
-  "explanation": "\"Omfattende\" means \"extensive\", for something with many parts or a wide reach: \"Skaden er omfattende\" (The damage is extensive), \"en omfattende rapport\" (an extensive report). It is not for physical size: for a big house, use \"stor\" (big): \"et stort hus\" (a big house).",
+  "explanation": "\"Omfattende\" means \"extensive\". To say damage is extensive, say: \"Skaden er omfattende\" (The damage is extensive). To talk about the size of a house, use \"stor\" (big) instead: \"et stort hus\" (a big house).",
   "forms": [
    {
     "da": "en omfattende plan",
@@ -9177,7 +9157,7 @@
   }
  },
  "omgivet": {
-  "explanation": "\"Omgivet\" means \"surrounded\", with something on every side. Add \"af\" (by) before what is on every side: \"omgivet af skov\" (surrounded by forest).",
+  "explanation": "\"Omgivet\" means \"surrounded\". It comes from the verb \"at omgive\" (to surround). To say what surrounds a house, use \"af\" (by): \"Huset er omgivet af en have\" (The house is surrounded by a garden).",
   "forms": [
    {
     "da": "omgivet af skov",
@@ -9194,10 +9174,6 @@
   ],
   "related": [
    {
-    "da": "at omgive",
-    "en": "to surround"
-   },
-   {
     "da": "omkring",
     "en": "around"
    },
@@ -9208,6 +9184,10 @@
    {
     "da": "omgivelserne",
     "en": "the surroundings"
+   },
+   {
+    "da": "at omringe",
+    "en": "to encircle"
    }
   ],
   "sentence": {
@@ -9216,7 +9196,7 @@
   }
  },
  "omgående": {
-  "explanation": "\"Omgående\" means \"immediately\": with no delay at all: \"Svar omgående\" (Reply immediately). It is common in business letters, rules and warnings, and it is stricter than \"snart\" (soon).",
+  "explanation": "\"Omgående\" means \"immediately\". To ask someone to act at once, say: \"Kontakt os omgående\" (Contact us immediately).",
   "forms": [
    {
     "da": "Svar omgående",
@@ -9234,11 +9214,11 @@
   "related": [
    {
     "da": "straks",
-    "en": "right away"
+    "en": "at once"
    },
    {
     "da": "med det samme",
-    "en": "at once"
+    "en": "right away"
    },
    {
     "da": "hurtigst muligt",
@@ -9255,7 +9235,7 @@
   }
  },
  "omhyggelig": {
-  "explanation": "\"Omhyggelig\" means \"careful\" or \"meticulous\", paying attention to every small detail so nothing goes wrong: \"et omhyggeligt arbejde\" (careful work). For avoiding danger or damage, use \"forsigtig\" (cautious): \"Vær forsigtig!\" (Be careful!)",
+  "explanation": "\"Omhyggelig\" means \"careful\", as in thorough. To describe how a plan was made, say: \"en omhyggelig planlægning\" (careful planning). To tell someone to avoid danger, use \"forsigtig\" (cautious) instead: \"Vær forsigtig!\" (Be careful!)",
   "forms": [
    {
     "da": "en omhyggelig arbejder",
@@ -9277,7 +9257,7 @@
    },
    {
     "da": "nøjagtig",
-    "en": "accurate"
+    "en": "exact"
    },
    {
     "da": "sjusket",
@@ -9290,7 +9270,7 @@
   }
  },
  "omkring": {
-  "explanation": "\"Omkring\" means \"around\" in three ways. For a place: \"omkring hjørnet\" (around the corner). For an amount: \"omkring hundrede mennesker\" (about a hundred people). For a time: \"omkring klokken tre\" (around three o'clock).",
+  "explanation": "\"Omkring\" means \"around\". To say where something is, use it for a place: \"omkring hjørnet\" (around the corner). To say about how many, use it for \"about\": \"omkring hundrede mennesker\" (about a hundred people). To give a rough time, use it before the clock: \"omkring klokken tre\" (around three o'clock).",
   "forms": [
    {
     "da": "omkring huset",
@@ -9308,15 +9288,15 @@
   "related": [
    {
     "da": "rundt",
-    "en": "around (moving)"
+    "en": "round"
    },
    {
     "da": "cirka",
     "en": "approximately"
    },
    {
-    "da": "rundt om",
-    "en": "all around"
+    "da": "omtrent",
+    "en": "about"
    }
   ],
   "sentence": {
@@ -9325,7 +9305,7 @@
   }
  },
  "omsider": {
-  "explanation": "\"Omsider\" means \"at last\", used when something happens after a long wait: \"Bussen kom omsider\" (The bus came at last).",
+  "explanation": "\"Omsider\" means \"at last\". To say a long job is finally done, say: \"Nu er hun omsider færdig\" (Now she is at last finished).",
   "forms": [
    {
     "da": "Bussen kom omsider",
@@ -9351,7 +9331,7 @@
    },
    {
     "da": "langt om længe",
-    "en": "at long last"
+    "en": "after a long time"
    }
   ],
   "sentence": {
@@ -9360,7 +9340,7 @@
   }
  },
  "omsorg": {
-  "explanation": "\"En omsorg\" means \"care\", the warm concern you show a person who needs help, such as a parent for a child: \"omsorg for børn\" (care for children).",
+  "explanation": "\"En omsorg\" means \"care\". To say who receives it, use \"for\" (for): \"omsorg for børn\" (care for children).",
   "forms": [
    {
     "da": "en omsorg",
@@ -9386,7 +9366,7 @@
    },
    {
     "da": "pleje",
-    "en": "nursing"
+    "en": "nursing care"
    },
    {
     "da": "at passe på",
@@ -9403,7 +9383,7 @@
   }
  },
  "omsorgsfuld": {
-  "explanation": "\"Omsorgsfuld\" means \"caring\", showing warm concern for someone who needs help: \"en omsorgsfuld far\" (a caring father). It is omsorg (care) plus -fuld (full of), the same ending as in \"smertefuld\" (painful).",
+  "explanation": "\"Omsorgsfuld\" means \"caring\". It is built from \"omsorg\" (care) and \"-fuld\" (full of), the same ending as in \"smertefuld\" (painful). To describe a teacher, say: \"en omsorgsfuld lærer\" (a caring teacher).",
   "forms": [
    {
     "da": "en omsorgsfuld mor",
@@ -9438,7 +9418,7 @@
   }
  },
  "omstændelig": {
-  "explanation": "\"Omstændelig\" means \"long-winded\" or \"elaborate\": it takes more steps, words or time than needed: \"en omstændelig procedure\" (a long-winded procedure). Do not mix it up with \"kompliceret\" (complicated), which is hard to understand. Something omstændelig may be easy, but it is long and fussy.",
+  "explanation": "\"Omstændelig\" means \"long-winded\". To describe a task with too many steps, say: \"en omstændelig procedure\" (a long-winded procedure). Do not mix it up with \"kompliceret\" (complicated), which is hard to understand: \"Det er et kompliceret problem\" (It is a complicated problem).",
   "forms": [
    {
     "da": "en omstændelig forklaring",
@@ -9464,7 +9444,7 @@
    },
    {
     "da": "kortfattet",
-    "en": "concise"
+    "en": "brief"
    },
    {
     "da": "vidtløftig",
@@ -9477,7 +9457,7 @@
   }
  },
  "omtrent": {
-  "explanation": "\"Omtrent\" means \"about\", used with numbers, times and amounts: \"omtrent tyve mennesker\" (about twenty people). It also means \"more or less\": \"Det er omtrent færdigt\" (It is more or less done).",
+  "explanation": "\"Omtrent\" means \"about\". To say about how many, use it before the number: \"omtrent tyve mennesker\" (about twenty people). To say something is nearly done, it also means \"more or less\": \"Det er omtrent færdigt\" (It is more or less done).",
   "forms": [
    {
     "da": "omtrent ti minutter",
@@ -9516,7 +9496,7 @@
   }
  },
  "omvendt": {
-  "explanation": "\"Omvendt\" means \"the other way around\": \"Bogen står omvendt på hylden\" (The book stands the wrong way around on the shelf). At the start of a sentence it means \"conversely\" and introduces a contrast: \"Han er høj. Omvendt er hun lille\" (He is tall. Conversely, she is short).",
+  "explanation": "\"Omvendt\" means \"reverse\". To say a book is the wrong way around, say: \"Bogen står omvendt på hylden\" (The book is the wrong way around on the shelf). At the start of a sentence, it means \"conversely\": \"Han er høj. Omvendt er hun lille\" (He is tall. Conversely, she is short).",
   "forms": [
    {
     "da": "i omvendt rækkefølge",
@@ -9551,7 +9531,7 @@
   }
  },
  "ond": {
-  "explanation": "\"Ond\" means \"evil\" or \"wicked\". It also means \"painful\" in set phrases: \"Det gør ondt\" (It hurts) and \"Jeg har ondt i hovedet\" (I have a headache).",
+  "explanation": "\"Ond\" means \"evil\". It also means \"painful\" in set phrases, where it ends in \"-t\". To say something hurts, say: \"Det gør ondt\" (It hurts).",
   "forms": [
    {
     "da": "en ond heks",
@@ -9590,7 +9570,7 @@
   }
  },
  "ondskab": {
-  "explanation": "\"En ondskab\" means \"evil\" or \"malice\": the wish to hurt others on purpose. It is built from ond (bad) and -skab, as in \"venskab\" (friendship).",
+  "explanation": "\"Ondskab\" means \"malice\". It is built from \"ond\" (evil) and \"-skab\", the same ending as in \"venskab\" (friendship).",
   "forms": [
    {
     "da": "ondskab",
@@ -9620,7 +9600,7 @@
    },
    {
     "da": "fjendskab",
-    "en": "enmity"
+    "en": "hostility"
    }
   ],
   "sentence": {
@@ -9629,7 +9609,7 @@
   }
  },
  "ondt": {
-  "explanation": "\"Ondt\" means \"pain\" or \"hurt\". Danes say \"Jeg har ondt i maven\" (My stomach hurts), literally \"I have pain in the stomach\". Do not say \"Jeg er ondt\" (I am pain).",
+  "explanation": "\"Ondt\" means \"hurt\". To say a body part hurts, use \"at have\" (to have) with \"ondt\" and \"i\" (in): \"Jeg har ondt i ryggen\" (My back hurts), literally \"I have pain in the back\". To say something hurts, use \"at gøre\" (to do): \"Det gør ondt\" (It hurts).",
   "forms": [
    {
     "da": "Jeg har ondt i hovedet.",
@@ -9664,7 +9644,7 @@
   }
  },
  "online": {
-  "explanation": "\"Online\" means \"online\", connected to the internet. It is spelled the same as in English, and it never changes its ending: \"en online butik\" (an online store), \"et online kursus\" (an online course).",
+  "explanation": "\"Online\" means \"online\". It keeps the same ending before an \"en\" word and an \"et\" word: \"en online butik\" (an online store), \"et online kursus\" (an online course). To say you shop on the web, use \"at handle\" (to shop): \"Jeg handler online\" (I shop online).",
   "forms": [
    {
     "da": "Jeg er online nu",
@@ -9690,7 +9670,7 @@
    },
    {
     "da": "nettet",
-    "en": "the internet"
+    "en": "the net"
    },
    {
     "da": "en internetforbindelse",
@@ -9703,7 +9683,7 @@
   }
  },
  "onsdag": {
-  "explanation": "\"Onsdag\" means \"Wednesday\". Like all day names, it starts with a lowercase letter. Use \"på onsdag\" (on Wednesday, coming up) for the next one, and \"om onsdagen\" (on Wednesdays) for every week.",
+  "explanation": "\"Onsdag\" means \"Wednesday\". To say something happens next Wednesday, say: \"Vi ses på onsdag\" (We will see each other on Wednesday). To say it happens every Wednesday, say: \"Jeg træner om onsdagen\" (I work out on Wednesdays).",
   "forms": [
    {
     "da": "en onsdag",
@@ -9742,7 +9722,7 @@
   }
  },
  "op": {
-  "explanation": "\"Op\" means \"up\", for moving up: \"Kom op!\" (Come up!) To name the place where a person already is, use \"oppe\" (up there): \"Han er oppe på loftet\" (He is up in the attic). \"Op\" is also part of \"at stå op\" (to get up out of bed).",
+  "explanation": "\"Op\" means \"up\". To tell someone to move upward, say: \"Kom op!\" (Come up!) To say where someone already is, use \"oppe\" (up there) instead: \"Han er oppe på loftet\" (He is up in the attic). It is also part of \"at stå op\" (to get up out of bed): \"Jeg står op klokken seks\" (I get up at six).",
   "forms": [
    {
     "da": "Gå op!",
@@ -9768,7 +9748,7 @@
    },
    {
     "da": "opad",
-    "en": "upwards"
+    "en": "upward"
    }
   ],
   "sentence": {
@@ -9777,7 +9757,7 @@
   }
  },
  "opad": {
-  "explanation": "\"Opad\" means \"upward\". Words ending in -ad name a direction, like \"udad\" (outward).",
+  "explanation": "\"Opad\" means \"upward\". The ending \"-ad\" names a direction, as in \"udad\" (outward).",
   "forms": [
    {
     "da": "Stien går opad",
@@ -9812,7 +9792,7 @@
   }
  },
  "opbakning": {
-  "explanation": "\"Opbakning\" means \"support\" or \"backing\", when people stand behind a person, a plan or a decision. It does not mean physical support, such as a wall holding up a roof. To name what receives the support, use \"til\" (for): \"opbakning til forslaget\" (support for the proposal).",
+  "explanation": "\"Opbakning\" means \"support\". It is the noun for \"at bakke op\" (to back up). To name what receives the support, use \"til\" (for): \"opbakning til forslaget\" (support for the proposal).",
   "forms": [
    {
     "da": "opbakning",
@@ -9838,15 +9818,15 @@
    },
    {
     "da": "tilslutning",
-    "en": "backing, joining in"
-   },
-   {
-    "da": "at bakke op",
-    "en": "to back up"
+    "en": "backing"
    },
    {
     "da": "modstand",
-    "en": "opposition"
+    "en": "resistance"
+   },
+   {
+    "da": "en støtte",
+    "en": "a support"
    }
   ],
   "sentence": {
@@ -9855,7 +9835,7 @@
   }
  },
  "opdateret": {
-  "explanation": "\"Opdateret\" means \"updated\", with the newest information or version. It also fits a person who knows the latest: \"Er du opdateret på nyhederne?\" (Are you up to date on the news?)",
+  "explanation": "\"Opdateret\" means \"updated\". It is the \"-et\" form of the verb \"at opdatere\" (to update). To say someone knows the latest news, use it for the person: \"Er du opdateret på nyhederne?\" (Are you up to date on the news?)",
   "forms": [
    {
     "da": "en opdateret liste",
@@ -9872,8 +9852,8 @@
   ],
   "related": [
    {
-    "da": "at opdatere",
-    "en": "to update"
+    "da": "en opdatering",
+    "en": "an update"
    },
    {
     "da": "forældet",
@@ -9894,7 +9874,7 @@
   }
  },
  "opdraget": {
-  "explanation": "\"Opdraget\" means \"brought up\", for how someone was taught to behave. With \"godt\" (well) it means polite and well-behaved: \"Han er godt opdraget\" (He is well brought up). With \"dårligt\" (badly) it means rude.",
+  "explanation": "\"Opdraget\" means \"brought up\". With \"godt\" (well) it describes someone polite: \"Han er godt opdraget\" (He is well brought up). With \"dårligt\" (badly) it describes someone rude: \"Drengen er dårligt opdraget\" (The boy is badly brought up).",
   "forms": [
    {
     "da": "et godt opdraget barn",
@@ -9915,10 +9895,6 @@
     "en": "an upbringing"
    },
    {
-    "da": "at opdrage",
-    "en": "to raise"
-   },
-   {
     "da": "velopdragen",
     "en": "well-mannered"
    },
@@ -9933,7 +9909,7 @@
   }
  },
  "opfindsom": {
-  "explanation": "\"Opfindsom\" means \"inventive\": good at finding clever new ways to solve a problem, often with simple things you already have: \"en opfindsom løsning\" (an inventive solution).",
+  "explanation": "\"Opfindsom\" means \"inventive\". It is built from the verb \"at opfinde\" (to invent) and \"-som\", the same ending as in \"hjælpsom\" (helpful). To describe a solution, say: \"en opfindsom løsning\" (an inventive solution).",
   "forms": [
    {
     "da": "en opfindsom pige",
@@ -9972,7 +9948,7 @@
   }
  },
  "opførsel": {
-  "explanation": "\"Opførsel\" means \"behavior\", how a person acts around others. For good or bad manners, Danes say \"manerer\" (manners): \"gode manerer\" (good manners).",
+  "explanation": "\"Opførsel\" means \"behavior\". To say someone behaves badly, use \"dårlig opførsel\" (bad behavior): \"Dårlig opførsel er ikke tilladt\" (Bad behavior is not allowed). To talk about manners, use \"manerer\" (manners): \"gode manerer\" (good manners).",
   "forms": [
    {
     "da": "en opførsel",
@@ -10011,7 +9987,7 @@
   }
  },
  "ophidset": {
-  "explanation": "\"Ophidset\" means \"agitated\" or \"excited\", very worked up and tense, as in \"en ophidset debat\" (a heated debate). It can also mean sexually aroused, so it is not the word for happy excitement.",
+  "explanation": "\"Ophidset\" means \"agitated\". To describe a heated argument, use it before the noun: \"en ophidset debat\" (a heated debate). It can also mean sexually aroused.",
   "forms": [
    {
     "da": "en ophidset mand",
@@ -10050,7 +10026,7 @@
   }
  },
  "opkast": {
-  "explanation": "\"Opkast\" means \"vomit\", the substance that comes up, not the act. The act is \"at kaste op\" (to throw up), and opkast is built from the same two parts.",
+  "explanation": "\"Opkast\" means \"vomit\". It is built from \"op\" (up) and \"et kast\" (a throw), like the verb \"at kaste op\" (to throw up). To say a child is throwing up, use the verb: \"Barnet kaster op\" (The child is throwing up).",
   "forms": [
    {
     "da": "et opkast",
@@ -10071,12 +10047,16 @@
     "en": "to puke"
    },
    {
-    "da": "en mavesyge",
-    "en": "a stomach bug"
+    "da": "en mave",
+    "en": "a stomach"
    },
    {
     "da": "en opkastning",
     "en": "an act of vomiting"
+   },
+   {
+    "da": "kvalm",
+    "en": "nauseous"
    }
   ],
   "sentence": {
@@ -10085,7 +10065,7 @@
   }
  },
  "opladning": {
-  "explanation": "\"Opladning\" means \"charging\", filling a battery up again. The action is \"at oplade\" (to charge).",
+  "explanation": "\"Opladning\" means \"charging\". It comes from the verb \"at oplade\" (to charge). To say you charge a phone, use the verb: \"Jeg lader telefonen op\" (I am charging the phone).",
   "forms": [
    {
     "da": "opladning",
@@ -10110,8 +10090,8 @@
     "en": "a charger"
    },
    {
-    "da": "strøm",
-    "en": "power"
+    "da": "en powerbank",
+    "en": "a power bank"
    }
   ],
   "sentence": {
@@ -10120,7 +10100,7 @@
   }
  },
  "oplagt": {
-  "explanation": "\"Oplagt\" means \"obvious\", for a choice or an answer that anyone can see. About a person, it means \"in good form\", full of energy and ready for the day: \"Hun er godt oplagt i dag\" (She is in good form today).",
+  "explanation": "\"Oplagt\" means \"obvious\". When you describe a person who is full of energy, it also means \"in good form\": \"Hun er godt oplagt i dag\" (She is in good form today).",
   "forms": [
    {
     "da": "et oplagt valg",
@@ -10159,7 +10139,7 @@
   }
  },
  "opmærksom": {
-  "explanation": "\"Opmærksom\" means \"attentive\" or \"aware\". With \"på\" (on) it means aware of something: \"Jeg er opmærksom på problemet\" (I am aware of the problem).",
+  "explanation": "\"Opmærksom\" means \"attentive\". To say you are aware of something, add \"på\" (on) after it: \"Jeg er opmærksom på problemet\" (I am aware of the problem).",
   "forms": [
    {
     "da": "en opmærksom elev",
@@ -10185,7 +10165,7 @@
    },
    {
     "da": "at mærke",
-    "en": "to notice"
+    "en": "to feel"
    },
    {
     "da": "koncentreret",
@@ -10198,7 +10178,7 @@
   }
  },
  "opmærksom på": {
-  "explanation": "\"Opmærksom på\" means \"aware of\" or \"paying attention to\". To point something out to someone, use \"at gøre nogen opmærksom på\" (to make someone aware of): \"Jeg gjorde ham opmærksom på fejlen\" (I pointed out the mistake to him).",
+  "explanation": "\"Opmærksom på\" means \"aware of\". To point something out to someone, use \"at gøre nogen opmærksom på\" (to make someone aware of): \"Jeg gjorde ham opmærksom på fejlen\" (I pointed out the mistake to him).",
   "forms": [
    {
     "da": "Jeg er opmærksom på det.",
@@ -10233,7 +10213,7 @@
   }
  },
  "opmærksomhed": {
-  "explanation": "\"Opmærksomhed\" means \"attention\", the focus you give to someone or something. To pay attention, say \"at være opmærksom\" (to be attentive).",
+  "explanation": "\"Opmærksomhed\" means \"attention\". It is the noun for the word \"opmærksom\" (attentive). To ask a room for its attention, say: \"Må jeg bede om jeres opmærksomhed?\" (May I have your attention?)",
   "forms": [
    {
     "da": "opmærksomhed",
@@ -10268,7 +10248,7 @@
   }
  },
  "oppe": {
-  "explanation": "\"Oppe\" means \"up there\", for where something already is: \"Katten er oppe på bordet\" (The cat is up on the table). For moving up, use \"op\" (up): \"Katten hopper op på bordet\" (The cat jumps up onto the table). \"Oppe\" also means out of bed, as when you ask if someone is already awake.",
+  "explanation": "\"Oppe\" means \"up\". When something is already in a high place, use it: \"Katten er oppe på bordet\" (The cat is up on the table). When something moves up, use \"op\" (up) instead: \"Katten hopper op på bordet\" (The cat jumps up onto the table). To ask whether someone is out of bed, use it too: \"Er du oppe?\" (Are you up?)",
   "forms": [
    {
     "da": "oppe på bordet",
@@ -10303,7 +10283,7 @@
   }
  },
  "oprevet": {
-  "explanation": "\"Oprevet\" means \"upset\", emotionally thrown off after something unpleasant such as bad news or an argument: \"Hun var meget oprevet efter skænderiet\" (She was very upset after the argument). It is stronger than just being sad.",
+  "explanation": "\"Oprevet\" means \"upset\". To say someone is upset after something unpleasant, use it with \"efter\" (after): \"Hun var meget oprevet efter skænderiet\" (She was very upset after the argument).",
   "forms": [
    {
     "da": "en oprevet kvinde",
@@ -10342,7 +10322,7 @@
   }
  },
  "oprigtig": {
-  "explanation": "\"Oprigtig\" means \"sincere\", meaning what you say and feel without pretending: \"en oprigtig undskyldning\" (a sincere apology). For telling the truth, use \"ærlig\" (honest): \"Vær ærlig\" (Be honest).",
+  "explanation": "\"Oprigtig\" means \"sincere\". To give your honest opinion, use it before the noun: \"Det er min oprigtige mening\" (That is my sincere opinion). To tell someone to speak the truth, use \"ærlig\" (honest) instead: \"Vær ærlig\" (Be honest).",
   "forms": [
    {
     "da": "en oprigtig undskyldning",
@@ -10377,7 +10357,7 @@
   }
  },
  "oprindelig": {
-  "explanation": "\"Oprindelig\" means \"original\" in the sense of how it was at the start, before anything was changed: \"den oprindelige plan\" (the original plan). For something new and creative, Danes say \"original\" instead: \"en original idé\" (an original idea).",
+  "explanation": "\"Oprindelig\" means \"original\". For something new and creative, use \"original\" instead: \"en original idé\" (an original idea). To say what was true at the start, use \"oprindeligt\" (originally): \"Oprindeligt boede vi i Aarhus\" (Originally we lived in Aarhus).",
   "forms": [
    {
     "da": "en oprindelig plan",
@@ -10416,7 +10396,7 @@
   }
  },
  "oprørsk": {
-  "explanation": "\"Oprørsk\" means \"rebellious\": refusing to obey rules or people in charge: \"en oprørsk teenager\" (a rebellious teenager).",
+  "explanation": "\"Oprørsk\" means \"rebellious\". It comes from the noun \"et oprør\" (a revolt). To describe a teenager who refuses to follow the rules: \"en oprørsk teenager\" (a rebellious teenager).",
   "forms": [
    {
     "da": "en oprørsk fase",
@@ -10432,10 +10412,6 @@
    }
   ],
   "related": [
-   {
-    "da": "et oprør",
-    "en": "a revolt"
-   },
    {
     "da": "en oprører",
     "en": "a rebel"
@@ -10455,7 +10431,7 @@
   }
  },
  "oprørt": {
-  "explanation": "\"Oprørt\" means \"upset\" or \"stirred up\", about feelings and also about water: \"et oprørt hav\" (a stormy sea). For the cause, use \"over\" (about): \"oprørt over nyheden\" (upset about the news).",
+  "explanation": "\"Oprørt\" means \"upset\". It can also describe water: \"et oprørt hav\" (a rough sea). To say what upset someone, use \"over\" (about): \"oprørt over nyheden\" (upset about the news).",
   "forms": [
    {
     "da": "en oprørt mand",
@@ -10494,7 +10470,7 @@
   }
  },
  "opsyn": {
-  "explanation": "\"Et opsyn\" means \"supervision\": someone keeping an eye on people, animals or things so that nothing goes wrong: \"Børnene er under opsyn\" (The children are being supervised).",
+  "explanation": "\"Opsyn\" means \"supervision\". To say who is being watched over, use it with \"under\" (under): \"Børnene er under opsyn\" (The children are being supervised).",
   "forms": [
    {
     "da": "opsynet",
@@ -10519,12 +10495,12 @@
     "en": "surveillance"
    },
    {
-    "da": "kontrol",
-    "en": "control"
+    "da": "et tilsyn",
+    "en": "an inspection"
    },
    {
-    "da": "en opsynsmand",
-    "en": "a supervisor"
+    "da": "en kontrol",
+    "en": "a check"
    }
   ],
   "sentence": {
@@ -10533,7 +10509,7 @@
   }
  },
  "optaget": {
-  "explanation": "\"Optaget\" means \"busy\", \"taken\" or \"occupied\". Use it for a phone line, a toilet or a seat that is in use. For a person it means no time right now: \"Jeg er optaget lige nu\" (I am busy right now).",
+  "explanation": "\"Optaget\" means \"busy\". When a seat or a table is in use, it means \"taken\": \"Er denne plads optaget?\" (Is this seat taken?) When a person has no time, it means \"busy\": \"Jeg er optaget lige nu\" (I am busy right now).",
   "forms": [
    {
     "da": "en optaget linje",
@@ -10568,7 +10544,7 @@
   }
  },
  "optimistisk": {
-  "explanation": "\"Optimistisk\" means \"optimistic\", for someone who expects things to go well: \"Jeg er optimistisk\" (I am optimistic). The opposite is \"pessimistisk\" (pessimistic).",
+  "explanation": "\"Optimistisk\" means \"optimistic\". It is the adjective for the noun \"en optimist\" (an optimist). To say you are cautiously optimistic: \"Jeg er forsigtigt optimistisk\" (I am cautiously optimistic).",
   "forms": [
    {
     "da": "en optimistisk mand",
@@ -10585,10 +10561,6 @@
   ],
   "related": [
    {
-    "da": "en optimist",
-    "en": "an optimist"
-   },
-   {
     "da": "positiv",
     "en": "positive"
    },
@@ -10599,6 +10571,10 @@
    {
     "da": "negativ",
     "en": "negative"
+   },
+   {
+    "da": "pessimistisk",
+    "en": "pessimistic"
    }
   ],
   "sentence": {
@@ -10607,7 +10583,7 @@
   }
  },
  "opvaskemiddel": {
-  "explanation": "\"Opvaskemiddel\" means \"dish soap\". It is not for clothes; for those you use \"vaskepulver\" (laundry detergent).",
+  "explanation": "\"Opvaskemiddel\" means \"dish soap\". It is built from \"at vaske op\" (to wash dishes) and \"et middel\" (a product). For clothes, use \"vaskepulver\" (laundry detergent) instead: \"Jeg køber vaskepulver\" (I buy laundry detergent).",
   "forms": [
    {
     "da": "opvaskemidlet",
@@ -10632,8 +10608,8 @@
     "en": "a cleaning product"
    },
    {
-    "da": "at vaske op",
-    "en": "to wash dishes"
+    "da": "et vaskemiddel",
+    "en": "a detergent"
    }
   ],
   "sentence": {
@@ -10642,7 +10618,7 @@
   }
  },
  "orange": {
-  "explanation": "\"Orange\" means \"orange\", the color. For the fruit, Danes say \"en appelsin\" (an orange), not orange. It never changes its ending: \"en orange bil\" (an orange car), \"et orange hus\" (an orange house).",
+  "explanation": "\"Orange\" means \"orange\", as in the color. For the fruit, use \"en appelsin\" (an orange): \"Jeg spiser en appelsin\" (I am eating an orange).",
   "forms": [
    {
     "da": "en orange bil",
@@ -10681,7 +10657,7 @@
   }
  },
  "ordblind": {
-  "explanation": "\"Ordblind\" means \"dyslexic\", having a lasting difficulty with reading and spelling, which has nothing to do with intelligence. It is built from ord (word) and blind (blind), so it is literally word-blind.",
+  "explanation": "\"Ordblind\" means \"dyslexic\". It is built from \"ord\" (word) and \"blind\" (blind), so it is literally \"word-blind\".",
   "forms": [
    {
     "da": "en ordblind elev",
@@ -10702,16 +10678,12 @@
     "en": "dyslexia"
    },
    {
-    "da": "dysleksi",
-    "en": "dyslexia (the medical term)"
-   },
-   {
     "da": "farveblind",
     "en": "colorblind"
    },
    {
-    "da": "en ordblindetest",
-    "en": "a dyslexia test"
+    "da": "at læse",
+    "en": "to read"
    }
   ],
   "sentence": {
@@ -10720,7 +10692,7 @@
   }
  },
  "ordentlig": {
-  "explanation": "\"Ordentlig\" means \"proper\" or \"decent\", done well and as it should be. For a person it means well-behaved: \"en ordentlig mand\" (a respectable man).",
+  "explanation": "\"Ordentlig\" means \"proper\". When you describe a person, it means \"decent\": \"en ordentlig mand\" (a decent man). To say how something is done, use \"ordentligt\" (properly): \"Gør det ordentligt\" (Do it properly).",
   "forms": [
    {
     "da": "en ordentlig jakke",
@@ -10738,7 +10710,7 @@
   "related": [
    {
     "da": "rigtig",
-    "en": "real, proper"
+    "en": "real"
    },
    {
     "da": "anstændig",
@@ -10759,7 +10731,7 @@
   }
  },
  "organiseret": {
-  "explanation": "\"Organiseret\" means \"organized\", with everything in order and in its place. Add \"vel\" (well) in front to get \"velorganiseret\" (well organized).",
+  "explanation": "\"Organiseret\" means \"organized\". It comes from the verb \"at organisere\" (to organize). To say something is well organized, add \"vel\" (well) in front: \"velorganiseret\" (well organized).",
   "forms": [
    {
     "da": "en organiseret kollega",
@@ -10788,8 +10760,8 @@
     "en": "planned"
    },
    {
-    "da": "at organisere",
-    "en": "to organize"
+    "da": "uorganiseret",
+    "en": "disorganized"
    }
   ],
   "sentence": {
@@ -10798,7 +10770,7 @@
   }
  },
  "original": {
-  "explanation": "\"Original\" means \"original\": the first real one, not a copy. It can also mean \"creative and new\": \"en original idé\" (an original idea).",
+  "explanation": "\"Original\" means \"original\", as in the first version rather than a copy. For a creative, new idea, it has a second meaning: \"en original idé\" (an original idea).",
   "forms": [
    {
     "da": "en original tegning",
@@ -10837,7 +10809,7 @@
   }
  },
  "os": {
-  "explanation": "\"Os\" means \"us\", used when we are the ones the action happens to: \"Han ser os\" (He sees us). It is also used after words like \"med\" (with): \"med os\" (with us). When we are the ones doing the action, use \"vi\" (we): \"Vi ser ham\" (We see him).",
+  "explanation": "\"Os\" means \"us\". When someone sees or helps us, use it: \"Han ser os\" (He sees us). When we are the ones doing the action, use \"vi\" (we): \"Vi ser ham\" (We see him).",
   "forms": [
    {
     "da": "Han ser os.",
@@ -10876,7 +10848,7 @@
   }
  },
  "ost": {
-  "explanation": "\"Ost\" means \"cheese\". When you mean one kind of cheese, say \"en ost\": \"en fransk ost\" (a French cheese). Without \"en\" it means the food itself.",
+  "explanation": "\"Ost\" means \"cheese\". To talk about one kind of cheese, put \"en\" before it: \"en fransk ost\" (a French cheese).",
   "forms": [
    {
     "da": "ost",
@@ -10897,12 +10869,12 @@
     "en": "a cheese sandwich"
    },
    {
-    "da": "smør",
-    "en": "butter"
+    "da": "en ostehøvl",
+    "en": "a cheese slicer"
    },
    {
-    "da": "mælk",
-    "en": "milk"
+    "da": "en ostekage",
+    "en": "a cheesecake"
    }
   ],
   "sentence": {
@@ -10911,7 +10883,7 @@
   }
  },
  "otte": {
-  "explanation": "\"Otte\" means \"eight\". Do not mix it up with \"atten\" (eighteen): \"otte børn\" (eight children), \"atten børn\" (eighteen children).",
+  "explanation": "\"Otte\" means \"eight\". To keep it apart from \"atten\" (eighteen), compare \"otte børn\" (eight children) and \"atten børn\" (eighteen children).",
   "forms": [
    {
     "da": "otte æbler",
@@ -10950,7 +10922,7 @@
   }
  },
  "ottende": {
-  "explanation": "\"Ottende\" means \"eighth\". It is also used for dates: \"den ottende marts\" (the eighth of March).",
+  "explanation": "\"Ottende\" means \"eighth\". To say a date, put it before the month: \"den ottende marts\" (the eighth of March).",
   "forms": [
    {
     "da": "ottende",
@@ -10975,8 +10947,8 @@
     "en": "ninth"
    },
    {
-    "da": "otte",
-    "en": "eight"
+    "da": "tiende",
+    "en": "tenth"
    },
    {
     "da": "første",
@@ -10989,7 +10961,7 @@
   }
  },
  "ovenover": {
-  "explanation": "\"Ovenover\" means \"above\", directly overhead or on the floor higher up in the same building: \"Naboen bor ovenover\" (The neighbor lives above us). The opposite is \"nedenunder\" (below).",
+  "explanation": "\"Ovenover\" means \"upstairs\". To say where a noise comes from, use it after the verb: \"Der er støj ovenover\" (There is noise upstairs). To say the floor below instead, use \"nedenunder\" (downstairs): \"Vi bor nedenunder\" (We live downstairs).",
   "forms": [
    {
     "da": "Naboen bor ovenover",
@@ -11028,7 +11000,7 @@
   }
  },
  "ovenpå": {
-  "explanation": "\"Ovenpå\" means \"upstairs\", on the floor above you. It works for where something is and for going there: \"Jeg bor ovenpå\" (I live upstairs), \"Jeg går ovenpå\" (I go upstairs). The opposite is \"nedenunder\" (downstairs).",
+  "explanation": "\"Ovenpå\" means \"upstairs\". To ask where someone is in the house, use it after the verb: \"Er børnene ovenpå?\" (Are the children upstairs?) For the floor below, use \"nedenunder\" (downstairs): \"Køkkenet er nedenunder\" (The kitchen is downstairs).",
   "forms": [
    {
     "da": "ovenpå",
@@ -11063,7 +11035,7 @@
   }
  },
  "over": {
-  "explanation": "\"Over\" means \"over\", \"above\", \"across\" or \"more than\". Above: \"Flyet flyver over byen\" (The plane flies over the city). Across: \"Vi går over gaden\" (We walk across the street). More than: \"over tyve mennesker\" (more than twenty people).",
+  "explanation": "\"Over\" means \"over\". To say something is higher than a place, use it before the place: \"Flyet flyver over byen\" (The plane flies over the city). To say you cross something, use it with a verb of moving: \"Katten løber over vejen\" (The cat runs across the road). To say more than a number, use it before the number: \"Der kom over tyve mennesker\" (More than twenty people came).",
   "forms": [
    {
     "da": "over bordet",
@@ -11098,7 +11070,7 @@
   }
  },
  "overalt": {
-  "explanation": "\"Overalt\" means \"everywhere\", in every place. It can also start a sentence for emphasis: \"Overalt er der blomster\" (Everywhere there are flowers). The opposite is \"ingen steder\" (nowhere).",
+  "explanation": "\"Overalt\" means \"everywhere\". It is built from \"over\" (over) and \"alt\" (all). It can also come first in the sentence: \"Overalt er der blomster\" (Everywhere there are flowers).",
   "forms": [
    {
     "da": "overalt i byen",
@@ -11137,7 +11109,7 @@
   }
  },
  "overarbejde": {
-  "explanation": "\"Overarbejde\" means \"overtime\", the work done beyond your normal hours. To do it, Danes say \"at arbejde over\" (to work overtime).",
+  "explanation": "\"Overarbejde\" means \"overtime\". It is built from \"over\" (over) and \"arbejde\" (work). To say you work overtime, use \"at arbejde over\" (to work overtime): \"Jeg arbejder over i dag\" (I am working overtime today).",
   "forms": [
    {
     "da": "et overarbejde",
@@ -11180,7 +11152,7 @@
   }
  },
  "overbevisende": {
-  "explanation": "\"Overbevisende\" means \"convincing\", good at making people believe or accept something. It comes from \"at overbevise\" (to convince), the same way convincing comes from convince.",
+  "explanation": "\"Overbevisende\" means \"convincing\". It comes from the verb \"at overbevise\" (to convince): \"Han overbeviste mig\" (He convinced me).",
   "forms": [
    {
     "da": "et overbevisende argument",
@@ -11201,8 +11173,8 @@
     "en": "credible"
    },
    {
-    "da": "uoverbevisende",
-    "en": "unconvincing"
+    "da": "et argument",
+    "en": "an argument"
    },
    {
     "da": "en overbevisning",
@@ -11219,7 +11191,7 @@
   }
  },
  "overdreven": {
-  "explanation": "\"Overdreven\" means \"exaggerated\" or \"excessive\", more than is reasonable or true. It can describe an amount or a way of telling something: \"overdreven høflighed\" (excessive politeness).",
+  "explanation": "\"Overdreven\" means \"exaggerated\". It comes from the verb \"at overdrive\" (to exaggerate). To say someone is far too polite, use it before the noun: \"overdreven høflighed\" (excessive politeness).",
   "forms": [
    {
     "da": "en overdreven reaktion",
@@ -11236,10 +11208,6 @@
   ],
   "related": [
    {
-    "da": "at overdrive",
-    "en": "to exaggerate"
-   },
-   {
     "da": "en overdrivelse",
     "en": "an exaggeration"
    },
@@ -11250,6 +11218,10 @@
    {
     "da": "for meget",
     "en": "too much"
+   },
+   {
+    "da": "rimelig",
+    "en": "reasonable"
    }
   ],
   "sentence": {
@@ -11258,7 +11230,7 @@
   }
  },
  "overfladisk": {
-  "explanation": "\"Overfladisk\" means \"superficial\", touching only the outside of something. You can say it about what you know or about a person: \"overfladisk viden\" (superficial knowledge), \"Han er meget overfladisk\" (He is very superficial).",
+  "explanation": "\"Overfladisk\" means \"superficial\". It comes from \"en overflade\" (a surface). To say someone knows little about a subject, use it before the noun: \"overfladisk viden\" (superficial knowledge). To describe a person, use it after \"er\" (is): \"Han er meget overfladisk\" (He is very superficial).",
   "forms": [
    {
     "da": "en overfladisk samtale",
@@ -11275,10 +11247,6 @@
   ],
   "related": [
    {
-    "da": "en overflade",
-    "en": "a surface"
-   },
-   {
     "da": "dyb",
     "en": "deep"
    },
@@ -11288,7 +11256,11 @@
    },
    {
     "da": "flygtig",
-    "en": "brief"
+    "en": "fleeting"
+   },
+   {
+    "da": "dybtgående",
+    "en": "profound"
    }
   ],
   "sentence": {
@@ -11297,7 +11269,7 @@
   }
  },
  "overfor": {
-  "explanation": "\"Overfor\" means \"opposite\" or \"across from\", for something on the other side of a street or room. It can also mean \"facing\" a problem or choice: \"Jeg står overfor et valg\" (I am facing a choice).",
+  "explanation": "\"Overfor\" means \"across from\". To say you are facing a choice or problem, use \"at stå overfor\" (to be faced with): \"Jeg står overfor et valg\" (I am facing a choice).",
   "forms": [
    {
     "da": "overfor skolen",
@@ -11336,7 +11308,7 @@
   }
  },
  "overfyldt": {
-  "explanation": "\"Overfyldt\" means \"overcrowded\" or \"overfull\", with more in it than there is room for. It also fits things, not just places with people: \"en overfyldt skuffe\" (a stuffed drawer).",
+  "explanation": "\"Overfyldt\" means \"overcrowded\". It is built from \"over\" (too much) and \"fyldt\" (filled). To say a drawer has too much in it: \"en overfyldt skuffe\" (an overfull drawer).",
   "forms": [
    {
     "da": "en overfyldt bus",
@@ -11352,10 +11324,6 @@
    }
   ],
   "related": [
-   {
-    "da": "fyldt",
-    "en": "filled"
-   },
    {
     "da": "propfuld",
     "en": "crammed"
@@ -11375,7 +11343,7 @@
   }
  },
  "overhovedet": {
-  "explanation": "\"Overhovedet\" means \"at all\" and is used with \"ikke\" (not) or in questions: \"Jeg forstår overhovedet ikke\" (I do not understand at all).",
+  "explanation": "\"Overhovedet\" means \"at all\". To say not at all, put it before \"ikke\" (not): \"Jeg forstår overhovedet ikke\" (I do not understand at all).",
   "forms": [
    {
     "da": "Er han overhovedet hjemme?",
@@ -11410,7 +11378,7 @@
   }
  },
  "overlegen": {
-  "explanation": "\"Overlegen\" means \"superior\": clearly better or stronger than others. About a person's manner, it means looking down on others: \"Han talte med en overlegen tone\" (He spoke in a superior tone).",
+  "explanation": "\"Overlegen\" means \"commanding\". To say a team is clearly better than its opponents, it means \"superior\": \"Holdet var overlegent\" (The team was superior). To describe a person who looks down on others: \"Han talte med en overlegen tone\" (He spoke in a superior tone).",
   "forms": [
    {
     "da": "en overlegen sejr",
@@ -11444,12 +11412,12 @@
    }
   ],
   "sentence": {
-   "da": "Holdet var **overlegen** og vandt kampen med lethed.",
-   "en": "The team was superior and won the match with ease."
+   "da": "Hun var **overlegen** og vandt kampen med lethed.",
+   "en": "She was superior and won the match with ease."
   }
  },
  "overlevelse": {
-  "explanation": "\"En overlevelse\" means \"survival\", staying alive despite danger or hardship. It comes from \"at overleve\" (to survive): \"Vi overlevede\" (We survived).",
+  "explanation": "\"Overlevelse\" means \"survival\". It comes from the verb \"at overleve\" (to survive): \"Vi overlevede\" (We survived).",
   "forms": [
    {
     "da": "en overlevelse",
@@ -11474,10 +11442,6 @@
     "en": "a survivor"
    },
    {
-    "da": "et liv",
-    "en": "a life"
-   },
-   {
     "da": "at klare sig",
     "en": "to get by"
    },
@@ -11492,7 +11456,7 @@
   }
  },
  "overmodig": {
-  "explanation": "\"Overmodig\" means \"overconfident\": so sure of yourself that you take risks or ignore danger. It is built from over (too much) and mod (courage), so it is courage that has gone too far.",
+  "explanation": "\"Overmodig\" means \"overconfident\". It is built from \"over\" (too much) and \"mod\" (courage), so it is courage that has gone too far. To tell someone to be careful: \"Vær ikke så overmodig\" (Do not be so overconfident).",
   "forms": [
    {
     "da": "en overmodig dreng",
@@ -11531,7 +11495,7 @@
   }
  },
  "overordnet": {
-  "explanation": "\"Overordnet\" means \"overall\" and \"superior\". For the big picture: \"overordnet set\" (broadly speaking). For rank, \"en overordnet\" (a superior) is a person above you at work.",
+  "explanation": "\"Overordnet\" means \"overall\". To say broadly speaking, use \"overordnet set\" (broadly speaking): \"Overordnet set er planen god\" (Broadly speaking, the plan is good).",
   "forms": [
    {
     "da": "en overordnet plan",
@@ -11552,16 +11516,16 @@
     "en": "general"
    },
    {
-    "da": "en chef",
-    "en": "a boss"
-   },
-   {
     "da": "underordnet",
     "en": "subordinate"
    },
    {
     "da": "samlet",
     "en": "combined"
+   },
+   {
+    "da": "detaljeret",
+    "en": "detailed"
    }
   ],
   "sentence": {
@@ -11570,7 +11534,7 @@
   }
  },
  "overraskende": {
-  "explanation": "\"Overraskende\" means \"surprising\" and describes news or events that you did not expect. To describe your own feeling, use \"overrasket\" (surprised): \"Jeg er overrasket\" (I am surprised).",
+  "explanation": "\"Overraskende\" means \"surprising\". To say how you feel yourself, use \"overrasket\" (surprised): \"Jeg er overrasket\" (I am surprised).",
   "forms": [
    {
     "da": "en overraskende nyhed",
@@ -11609,7 +11573,7 @@
   }
  },
  "overskuelig": {
-  "explanation": "\"Overskuelig\" means \"manageable\", easy to take in at one glance because it is small or well organized: \"et overskueligt budget\" (a manageable budget). The opposite is \"uoverskuelig\" (confusing, hard to take in at a glance).",
+  "explanation": "\"Overskuelig\" means \"clear\". To say a task is small enough to handle, it means \"manageable\": \"Opgaven er overskuelig\" (The task is manageable). The opposite is \"uoverskuelig\" (impossible to get an overview of): \"Situationen er uoverskuelig\" (The situation is impossible to get an overview of).",
   "forms": [
    {
     "da": "en overskuelig plan",
@@ -11648,7 +11612,7 @@
   }
  },
  "overskyet": {
-  "explanation": "\"Overskyet\" means \"overcast\", with the whole sky covered by clouds: \"Himlen er overskyet\" (The sky is overcast). It is stronger than \"skyet\" (cloudy), which can mean just a few clouds.",
+  "explanation": "\"Overskyet\" means \"overcast\". It comes from \"en sky\" (a cloud). To say what the weather is like: \"Det er overskyet\" (It is overcast).",
   "forms": [
    {
     "da": "en overskyet dag",
@@ -11673,8 +11637,8 @@
     "en": "cloudless"
    },
    {
-    "da": "tåget",
-    "en": "foggy"
+    "da": "regnfuld",
+    "en": "rainy"
    }
   ],
   "sentence": {
@@ -11683,7 +11647,7 @@
   }
  },
  "overvågning": {
-  "explanation": "\"En overvågning\" means \"surveillance\", careful watching of people, places or systems, often by cameras. It is also used for watching a patient in a hospital: \"overvågning af patienten\" (watching over the patient).",
+  "explanation": "\"Overvågning\" means \"surveillance\". It comes from the verb \"at overvåge\" (to monitor). In a hospital, it can mean watching over a patient: \"overvågning af patienten\" (monitoring of the patient).",
   "forms": [
    {
     "da": "en overvågning",
@@ -11704,15 +11668,11 @@
   ],
   "related": [
    {
-    "da": "at overvåge",
-    "en": "to monitor"
-   },
-   {
     "da": "kontrol",
     "en": "control"
    },
    {
-    "da": "tilsyn",
+    "da": "et tilsyn",
     "en": "supervision"
    },
    {
@@ -11726,7 +11686,7 @@
   }
  },
  "overvægt": {
-  "explanation": "\"En overvægt\" means \"overweight\", carrying more body weight than is healthy. Danes say \"at have overvægt\" (to be overweight). At the airport it also means baggage over the weight limit: \"Kufferten har overvægt\" (The suitcase is overweight).",
+  "explanation": "\"Overvægt\" means \"overweight\". To say a person is overweight, use it with \"at have\" (to have): \"Han har overvægt\" (He is overweight). At the airport, it means baggage over the weight limit: \"Kufferten har overvægt\" (The suitcase is overweight).",
   "forms": [
    {
     "da": "en overvægt",
@@ -11765,7 +11725,7 @@
   }
  },
  "overvældende": {
-  "explanation": "\"Overvældende\" means \"overwhelming\", so big or intense that it is hard to take in. You can use it for good things and bad: \"en overvældende opgave\" (an overwhelming task), \"en overvældende støtte\" (overwhelming support). For how you feel, say \"overvældet\" (overwhelmed): \"Jeg er overvældet\" (I am overwhelmed).",
+  "explanation": "\"Overvældende\" means \"overwhelming\". To describe a task that is too big, use it before the noun: \"en overvældende opgave\" (an overwhelming task). To say how you feel yourself, use \"overvældet\" (overwhelmed): \"Jeg er overvældet\" (I am overwhelmed).",
   "forms": [
    {
     "da": "en overvældende følelse",
@@ -11800,7 +11760,7 @@
   }
  },
  "overvældet": {
-  "explanation": "\"Overvældet\" means \"overwhelmed\", the feeling of being hit by something too big or too much, whether good or bad. Say it about yourself: \"Jeg er overvældet\" (I am overwhelmed). For the thing that overwhelms you, say \"overvældende\" (overwhelming): \"en overvældende opgave\" (an overwhelming task).",
+  "explanation": "\"Overvældet\" means \"overwhelmed\". To say how you feel: \"Jeg er overvældet\" (I am overwhelmed). To describe the thing that overwhelms you, use \"overvældende\" (overwhelming): \"en overvældende opgave\" (an overwhelming task).",
   "forms": [
    {
     "da": "en overvældet gæst",

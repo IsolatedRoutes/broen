@@ -1,6 +1,6 @@
 {
  "absolut": {
-  "explanation": "\"Absolut\" means \"absolutely\". Put it before \"ikke\" (not) to say no strongly, or say it alone to say yes strongly.",
+  "explanation": "\"Absolut\" means \"absolutely\". When you want to say \"definitely not\", put it before \"ikke\" (not): \"absolut ikke\" (absolutely not). When you want to say \"definitely yes\", use it alone: \"Kommer du?\" \"Absolut!\" (Are you coming? Absolutely!)",
   "forms": [
    {
     "da": "Det er absolut nødvendigt",
@@ -39,7 +39,7 @@
   }
  },
  "abstrakt": {
-  "explanation": "\"Abstrakt\" means \"abstract\", about thoughts and qualities rather than things you can touch. In art, it describes pictures that do not show real objects: \"abstrakt kunst\" (abstract art).",
+  "explanation": "\"Abstrakt\" means \"abstract\". When you name a style of art, put it before \"kunst\": \"abstrakt kunst\" (abstract art).",
   "forms": [
    {
     "da": "en abstrakt idé",
@@ -74,7 +74,7 @@
   }
  },
  "absurd": {
-  "explanation": "\"Absurd\" means \"absurd\", used for something so unreasonable that it makes no sense, such as a price, an excuse or a rule.",
+  "explanation": "\"Absurd\" means \"absurd\". When something makes no sense and you want to react, say \"Det er absurd!\" (That is absurd!)",
   "forms": [
    {
     "da": "en absurd pris",
@@ -109,7 +109,7 @@
   }
  },
  "adfærd": {
-  "explanation": "\"En adfærd\" means \"behavior\", the way a person or an animal acts over time, not one single act. For one single act, use \"en handling\" (an action).",
+  "explanation": "\"En adfærd\" means \"a behavior\". Do not mix it up with \"en handling\" (an action). \"Adfærd\" is how someone acts in general: \"Hundens adfærd er rolig\" (The dog's behavior is calm). \"En handling\" is one act: \"Det var en modig handling\" (That was a brave act).",
   "forms": [
    {
     "da": "en adfærd",
@@ -144,7 +144,7 @@
   }
  },
  "adgang": {
-  "explanation": "\"Adgang\" means \"access\" or \"entry\", the right to get in or to use something. It is followed by \"til\" (to): \"Vi har ikke adgang til rummet\" (We do not have access to the room).",
+  "explanation": "\"Adgang\" means \"access\". To say what you can get into or use, add \"til\" (to): \"Vi har ikke adgang til rummet\" (We do not have access to the room).",
   "forms": [
    {
     "da": "adgang",
@@ -169,16 +169,12 @@
     "en": "an entrance"
    },
    {
+    "da": "en udgang",
+    "en": "an exit"
+   },
+   {
     "da": "en adgangskode",
     "en": "a password"
-   },
-   {
-    "da": "en tilladelse",
-    "en": "a permission"
-   },
-   {
-    "da": "et forbud",
-    "en": "a ban"
    }
   ],
   "sentence": {
@@ -187,7 +183,7 @@
   }
  },
  "adopteret": {
-  "explanation": "\"Adopteret\" means \"adopted\", taken into a family as your own child. It comes from \"at adoptere\" (to adopt).",
+  "explanation": "\"Adopteret\" means \"adopted\". It comes from the verb \"at adoptere\" (to adopt).",
   "forms": [
    {
     "da": "en adopteret pige",
@@ -212,8 +208,8 @@
     "en": "biological"
    },
    {
-    "da": "en plejefamilie",
-    "en": "a foster family"
+    "da": "adoptivforældre",
+    "en": "adoptive parents"
    }
   ],
   "sentence": {
@@ -222,7 +218,7 @@
   }
  },
  "adskillige": {
-  "explanation": "\"Adskillige\" means \"several\", more than a few but without giving the exact number. It is used with more than one thing, never with just one.",
+  "explanation": "\"Adskillige\" means \"several\". Do not mix it up with \"at adskille\" (to separate), which starts the same. \"Adskillige\" goes before a plural noun: \"adskillige bøger\" (several books). \"At adskille\" is a verb: \"at adskille æg og mel\" (to separate eggs and flour).",
   "forms": [
    {
     "da": "adskillige gange",
@@ -261,7 +257,7 @@
   }
  },
  "adskilt": {
-  "explanation": "\"Adskilt\" means \"separated\", kept apart and not joined. For a couple who are divorced, Danes say \"skilt\" (divorced): \"De er skilt\" (They are divorced).",
+  "explanation": "\"Adskilt\" means \"separate\". Do not mix it up with \"skilt\" (divorced). \"Adskilt\" is for things kept apart: \"Rummene er adskilt\" (The rooms are separate). \"Skilt\" is for a couple whose marriage has ended: \"De er skilt\" (They are divorced).",
   "forms": [
    {
     "da": "en adskilt del",
@@ -296,7 +292,7 @@
   }
  },
  "af og til": {
-  "explanation": "\"Af og til\" means \"now and then\", for things that happen once in a while, not every day. \"Jeg drikker kaffe hver dag\" (I drink coffee every day) is a daily habit, while \"Jeg drikker kaffe af og til\" (I drink coffee now and then) happens only sometimes.",
+  "explanation": "\"Af og til\" means \"now and then\". When someone asks how often you do something, you can answer: \"Går du i biografen?\" \"Ja, af og til.\" (Do you go to the cinema? Yes, now and then.)",
   "forms": [
    {
     "da": "af og til",
@@ -335,7 +331,7 @@
   }
  },
  "afdød": {
-  "explanation": "\"Afdød\" means \"deceased\", a respectful word for someone who is no longer alive, used in obituaries and about family.",
+  "explanation": "\"Afdød\" means \"deceased\". It is a formal, polite word. When you talk politely about a relative who has died, say \"min afdøde far\" (my late father).",
   "forms": [
    {
     "da": "en afdød mand",
@@ -370,7 +366,7 @@
   }
  },
  "affald": {
-  "explanation": "\"Affald\" means \"trash\". You leave out \"en\" and \"et\" with it: \"Der er meget affald på gaden\" (There is a lot of trash on the street). To name one bag of it, say \"en pose affald\" (a bag of trash).",
+  "explanation": "\"Affald\" means \"trash\". When you talk about trash in general, leave out \"et\": \"Der er meget affald på gaden\" (There is a lot of trash on the street). When you count a bag of it, say the container first: \"en pose affald\" (a bag of trash).",
   "forms": [
    {
     "da": "affald",
@@ -409,7 +405,7 @@
   }
  },
  "afgjort": {
-  "explanation": "\"Afgjort\" means \"decided\" or \"settled\", a matter that has been decided and cannot change. Before a word like \"bedre\" (better), it means \"for sure\", with no doubt: \"afgjort bedre\" (clearly better).",
+  "explanation": "\"Afgjort\" means \"settled\". It comes from the verb \"at afgøre\" (to decide), so it says that something is decided and certain. Put it before an adjective to mean \"definitely\": \"Den nye bil er afgjort billigere\" (The new car is definitely cheaper).",
   "forms": [
    {
     "da": "Sagen er afgjort.",
@@ -426,12 +422,12 @@
   ],
   "related": [
    {
-    "da": "at afgøre",
-    "en": "to decide"
-   },
-   {
     "da": "afgørende",
     "en": "decisive"
+   },
+   {
+    "da": "uafgjort",
+    "en": "tied"
    },
    {
     "da": "sikkert",
@@ -448,7 +444,7 @@
   }
  },
  "afgørende": {
-  "explanation": "\"Afgørende\" means \"decisive\" or \"crucial\", something that settles the outcome, so that everything depends on it. It is stronger than \"vigtig\" (important).",
+  "explanation": "\"Afgørende\" means \"decisive\". Do not mix it up with \"vigtig\" (important). Something \"vigtig\" matters: \"Det er vigtigt at sove\" (It is important to sleep). Something \"afgørende\" decides the result: \"et afgørende møde\" (a decisive meeting).",
   "forms": [
    {
     "da": "en afgørende faktor",
@@ -483,7 +479,7 @@
   }
  },
  "afhængig": {
-  "explanation": "\"Afhængig\" means \"dependent\" or \"addicted\", and is used with \"af\" (of): \"Jeg er afhængig af kaffe\" (I am addicted to coffee). For something that depends on something else: \"Det er afhængigt af vejret\" (It depends on the weather).",
+  "explanation": "\"Afhængig\" means \"dependent\". When you say what you depend on, add \"af\" (on): \"Barnet er afhængigt af sine forældre\" (The child is dependent on its parents). When you mean a habit you cannot stop, it also means \"addicted\": \"Jeg er afhængig af kaffe\" (I am addicted to coffee).",
   "forms": [
    {
     "da": "en afhængig mand",
@@ -522,7 +518,7 @@
   }
  },
  "afhængig af": {
-  "explanation": "\"Afhængig af\" means \"dependent on\", needing something or someone. It also covers addiction: \"Han er afhængig af sin telefon\" (He is hooked on his phone). For a thing that depends on something, use \"at afhænge af\" (to depend on): \"Det afhænger af prisen\" (It depends on the price).",
+  "explanation": "\"Afhængig af\" means \"dependent on\". It is the adjective \"afhængig\" (dependent) followed by \"af\" (on). When you mean a habit you cannot stop, it also means \"addicted to\": \"Han er afhængig af nikotin\" (He is addicted to nicotine). When you say that a thing depends on something, use the verb \"at afhænge af\" (to depend on): \"Det afhænger af prisen\" (It depends on the price).",
   "forms": [
    {
     "da": "Jeg er afhængig af kaffe.",
@@ -561,7 +557,7 @@
   }
  },
  "aflyst": {
-  "explanation": "\"Aflyst\" means \"canceled\", for example a train, a flight or an event that will not take place. It is different from \"forsinket\" (delayed): a delayed train still comes, but a canceled one does not.",
+  "explanation": "\"Aflyst\" means \"canceled\". Do not mix it up with \"forsinket\" (delayed). A \"forsinket\" flight still goes: \"Flyet er forsinket\" (The flight is delayed). An \"aflyst\" flight does not go at all: \"Flyet er aflyst\" (The flight is canceled).",
   "forms": [
    {
     "da": "en aflyst bus",
@@ -596,7 +592,7 @@
   }
  },
  "afmagt": {
-  "explanation": "\"En afmagt\" means \"powerlessness\", the heavy feeling that you cannot change what is happening. It is made from af (away) and magt (power), so the power is taken away.",
+  "explanation": "\"Afmagt\" means \"powerlessness\". It is built from \"af\" (away from) and \"magt\" (power). The part \"magt\" is also in \"magtfuld\" (powerful): \"en magtfuld mand\" (a powerful man).",
   "forms": [
    {
     "da": "afmagt",
@@ -635,7 +631,7 @@
   }
  },
  "afpresning": {
-  "explanation": "\"Afpresning\" means \"blackmail\", forcing someone to give money or do something by frightening them, for example by saying you will reveal a secret. The verb is \"at afpresse\" (to blackmail).",
+  "explanation": "\"En afpresning\" means \"a blackmail case\". It comes from the verb \"at afpresse\" (to blackmail). When you mean the crime in general, leave out \"en\": \"Afpresning er en forbrydelse\" (Blackmail is a crime).",
   "forms": [
    {
     "da": "en afpresning",
@@ -674,7 +670,7 @@
   }
  },
  "afrika": {
-  "explanation": "\"Afrika\" means \"Africa\". It is spelled with a k, not a c as in English. Add \"syd\" (south) to get \"Sydafrika\" (South Africa).",
+  "explanation": "\"Afrika\" means \"Africa\". Spell it with a k, not a c as in English. To name the country at the southern end, put \"syd\" (south) in front: \"Sydafrika\" (South Africa).",
   "forms": [
    {
     "da": "Afrika",
@@ -713,7 +709,7 @@
   }
  },
  "afrikansk": {
-  "explanation": "\"Afrikansk\" means \"African\" and describes things from Africa: \"afrikansk musik\" (African music). For a person, use \"en afrikaner\" (an African).",
+  "explanation": "\"Afrikansk\" means \"African\". It is written with a lowercase letter, while English \"African\" has a capital. To name a person from Africa, use the noun \"en afrikaner\" (an African person): \"Han er afrikaner\" (He is African).",
   "forms": [
    {
     "da": "en afrikansk elefant",
@@ -748,7 +744,7 @@
   }
  },
  "afslappet": {
-  "explanation": "\"Afslappet\" means \"relaxed\", for a person who is calm and not stressed. You can also say it about a place or an event: \"en afslappet stemning\" (a relaxed mood).",
+  "explanation": "\"Afslappet\" means \"relaxed\". It comes from the verb \"at slappe af\" (to relax). When you describe the feeling of a place, put it before the noun: \"en afslappet stemning\" (a relaxed mood).",
   "forms": [
    {
     "da": "en afslappet aften",
@@ -765,10 +761,6 @@
   ],
   "related": [
    {
-    "da": "at slappe af",
-    "en": "to relax"
-   },
-   {
     "da": "en afslapning",
     "en": "a relaxation"
    },
@@ -779,6 +771,10 @@
    {
     "da": "stresset",
     "en": "stressed"
+   },
+   {
+    "da": "rolig",
+    "en": "calm"
    }
   ],
   "sentence": {
@@ -787,7 +783,7 @@
   }
  },
  "afsted": {
-  "explanation": "\"Afsted\" means \"off\" or \"away\". Say it about someone who is leaving or has left, without naming the place.",
+  "explanation": "\"Afsted\" means \"off\". When you say you are leaving without naming the place, use it after \"skal\" (have to): \"Vi skal afsted klokken otte\" (We are leaving at eight).",
   "forms": [
    {
     "da": "jeg skal afsted",
@@ -812,8 +808,8 @@
     "en": "back"
    },
    {
-    "da": "ude",
-    "en": "out, away"
+    "da": "hjemme",
+    "en": "at home"
    }
   ],
   "sentence": {
@@ -822,7 +818,7 @@
   }
  },
  "aftensmad": {
-  "explanation": "\"Aftensmad\" means \"dinner\". It is built from aften (evening) and mad (food): \"Hvad skal vi have til aftensmad?\" (What are we having for dinner?)",
+  "explanation": "\"Aftensmad\" means \"dinner\". It is built from \"aften\" (evening) and \"mad\" (food). To ask what is for dinner, say: \"Hvad skal vi have til aftensmad?\" (What are we having for dinner?)",
   "forms": [
    {
     "da": "aftensmad",
@@ -861,7 +857,7 @@
   }
  },
  "afvænning": {
-  "explanation": "\"Afvænning\" means \"rehab\" and \"detox\", the process of getting free of a habit such as alcohol or drugs. It is built from af (off) and at vænne (to accustom): you get out of the habit.",
+  "explanation": "\"Afvænning\" means \"rehab or detox\". It is built from \"af\" (off) and \"at vænne\" (to accustom). The same verb is in \"at vænne sig til\" (to get used to): \"Jeg skal vænne mig til kulden\" (I have to get used to the cold).",
   "forms": [
    {
     "da": "afvænning",
@@ -900,7 +896,7 @@
   }
  },
  "aggressiv": {
-  "explanation": "\"Aggressiv\" means \"aggressive\", ready to attack or shout. You can say it about a person, an animal or a voice: \"Hun talte i en aggressiv tone\" (She spoke in an aggressive tone).",
+  "explanation": "\"Aggressiv\" means \"aggressive\". When you describe how someone speaks, say \"en aggressiv tone\" (an aggressive tone): \"Hun talte i en aggressiv tone\" (She spoke in an aggressive tone).",
   "forms": [
    {
     "da": "en aggressiv hund",
@@ -939,7 +935,7 @@
   }
  },
  "akademisk": {
-  "explanation": "\"Akademisk\" means \"academic\", about higher education and scholarly work. A person with a degree is \"en akademiker\" (a graduate).",
+  "explanation": "\"Akademisk\" means \"academic\". To name a person with a university degree, use the noun \"en akademiker\" (a person with a university degree): \"Min søster er akademiker\" (My sister has a university degree).",
   "forms": [
    {
     "da": "en akademisk karriere",
@@ -974,7 +970,7 @@
   }
  },
  "akavet": {
-  "explanation": "\"Akavet\" means \"awkward\", for a situation that feels uncomfortable, such as a first date or a sudden question.",
+  "explanation": "\"Akavet\" means \"awkward\". When a moment feels uncomfortable, you can say \"Det er lidt akavet\" (That is a bit awkward).",
   "forms": [
    {
     "da": "en akavet stilhed",
@@ -1013,7 +1009,7 @@
   }
  },
  "aktiv": {
-  "explanation": "\"Aktiv\" means \"active\", busy and doing things: \"Han er meget aktiv i klubben\" (He is very active in the club). It also means switched on: \"en aktiv konto\" (an active account).",
+  "explanation": "\"Aktiv\" means \"active\". When you say what a person takes part in, add \"i\" (in): \"Han er meget aktiv i klubben\" (He is very active in the club). When you talk about an account that is turned on, it also means \"active\": \"Din konto er aktiv\" (Your account is active).",
   "forms": [
    {
     "da": "en aktiv dag",
@@ -1052,7 +1048,7 @@
   }
  },
  "aktuel": {
-  "explanation": "\"Aktuel\" means \"current\" or \"topical\", something that matters right now. It does not mean \"actual\": for that, use \"faktisk\" (actually).",
+  "explanation": "\"Aktuel\" means \"current\". Do not mix it up with \"faktisk\" (actually), even though English \"actual\" looks similar. \"Aktuel\" is about what matters now: \"de aktuelle priser\" (the current prices). \"Faktisk\" means \"in fact\": \"Jeg er faktisk træt\" (I am actually tired).",
   "forms": [
    {
     "da": "en aktuel sag",
@@ -1087,7 +1083,7 @@
   }
  },
  "akut": {
-  "explanation": "\"Akut\" means \"acute\" or \"urgent\", used for something that must be dealt with immediately, most of all in health. Danes call a hospital's emergency room \"en akutmodtagelse\" (an emergency reception).",
+  "explanation": "\"Akut\" means \"urgent\". It is built into \"en akutmodtagelse\" (an emergency room), made from \"akut\" and \"modtagelse\" (reception): \"Hun kom på akutmodtagelsen\" (She came to the emergency room).",
   "forms": [
    {
     "da": "en akut situation",
@@ -1126,7 +1122,7 @@
   }
  },
  "al": {
-  "explanation": "\"Al\" means \"all\" and goes before an en-word with \"the\" on the end: \"al musikken\" (all the music). Before an et-word, use \"alt\" (all): \"alt vandet\" (all the water).",
+  "explanation": "\"Al\" means \"all\". When you talk about an en-word with \"the\" on the end, use \"al\": \"al musikken\" (all the music). Before an et-word, use \"alt\" (all) instead: \"alt arbejdet\" (all the work).",
   "forms": [
    {
     "da": "al maden",
@@ -1165,7 +1161,7 @@
   }
  },
  "aldeles": {
-  "explanation": "\"Aldeles\" means \"entirely\" or \"quite\". Put it before a describing word to make it stronger: \"aldeles umuligt\" (entirely impossible). It sounds more bookish than \"helt\" (completely), which people use in everyday talk.",
+  "explanation": "\"Aldeles\" means \"quite\". When you want to make a describing word stronger, put it before the word: \"aldeles ubrugelig\" (entirely useless).",
   "forms": [
    {
     "da": "aldeles udmærket",
@@ -1200,7 +1196,7 @@
   }
  },
  "aldrig": {
-  "explanation": "\"Aldrig\" means \"never\". It already says \"not\", so do not add \"ikke\" (not): \"Jeg drikker aldrig kaffe\" (I never drink coffee). The opposite is \"altid\" (always): \"Jeg drikker altid kaffe\" (I always drink coffee).",
+  "explanation": "\"Aldrig\" means \"never\". It already says \"not\", so do not add \"ikke\" (not): \"Jeg drikker aldrig kaffe\" (I never drink coffee).",
   "forms": [
    {
     "da": "aldrig",
@@ -1239,7 +1235,7 @@
   }
  },
  "alene": {
-  "explanation": "\"Alene\" means \"alone\" or \"on your own\". It says that nobody else is there: \"Jeg bor alene\" (I live alone). It does not say that you feel sad. For that feeling, use \"ensom\" (lonely): \"Jeg er ensom\" (I feel lonely).",
+  "explanation": "\"Alene\" means \"alone\". Do not mix it up with \"ensom\" (lonely). \"Alene\" only says nobody else is there: \"Jeg går en tur alene\" (I go for a walk alone). \"Ensom\" is a feeling: \"Jeg føler mig ensom\" (I feel lonely).",
   "forms": [
    {
     "da": "Jeg er alene.",
@@ -1274,7 +1270,7 @@
   }
  },
  "alkohol": {
-  "explanation": "\"Alkohol\" means \"alcohol\". Danish does not put \"en\" (a) in front of it: \"Jeg drikker ikke alkohol\" (I do not drink alcohol). \"Alkoholfri øl\" means \"alcohol-free beer\".",
+  "explanation": "\"Alkohol\" means \"alcohol\". When you talk about alcohol in general, leave out \"en\": \"Jeg drikker ikke alkohol\" (I do not drink alcohol). The ending \"-fri\" (free) makes \"alkoholfri øl\" (alcohol-free beer).",
   "forms": [
    {
     "da": "alkohol",
@@ -1309,7 +1305,7 @@
   }
  },
  "alle": {
-  "explanation": "\"Alle\" means \"everyone\" or \"all\". \"Alle sammen\" means \"all together\". Do not mix it up with \"alt\" (everything): \"Alt er her\" (Everything is here).",
+  "explanation": "\"Alle\" means \"everyone\". Do not mix it up with \"alt\" (everything). \"Alle\" is for people: \"Alle er glade\" (Everyone is happy). \"Alt\" is for things: \"Alt er klart\" (Everything is ready).",
   "forms": [
    {
     "da": "Alle er her.",
@@ -1344,7 +1340,7 @@
   }
  },
  "allerede": {
-  "explanation": "\"Allerede\" means \"already\", for something that is true sooner than you expected: \"Han er allerede her\" (He is already here). In a sentence with \"ikke\" (not), use \"endnu\" (yet): \"Han er her ikke endnu\" (He is not here yet).",
+  "explanation": "\"Allerede\" means \"already\". When something is true sooner than you thought, use it: \"Han er allerede her\" (He is already here). When the sentence has \"ikke\" (not), use \"endnu\" (yet) instead: \"Han er her ikke endnu\" (He is not here yet).",
   "forms": [
    {
     "da": "allerede",
@@ -1369,8 +1365,8 @@
     "en": "early"
    },
    {
-    "da": "forlængst",
-    "en": "long since"
+    "da": "snart",
+    "en": "soon"
    }
   ],
   "sentence": {
@@ -1379,7 +1375,7 @@
   }
  },
  "allergisk": {
-  "explanation": "\"Allergisk\" means \"allergic\". To name what causes your allergy, add \"over for\" (to, towards): \"Jeg er allergisk over for nødder\" (I am allergic to nuts).",
+  "explanation": "\"Allergisk\" means \"allergic\". To say what causes your allergy, add \"over for\" (to): \"Jeg er allergisk over for nødder\" (I am allergic to nuts).",
   "forms": [
    {
     "da": "en allergisk dreng",
@@ -1400,16 +1396,12 @@
     "en": "an allergy"
    },
    {
-    "da": "jordnødder",
-    "en": "peanuts"
-   },
-   {
-    "da": "høfeber",
-    "en": "hay fever"
-   },
-   {
     "da": "en allergiker",
     "en": "an allergy sufferer"
+   },
+   {
+    "da": "et allergen",
+    "en": "an allergen"
    }
   ],
   "sentence": {
@@ -1418,7 +1410,7 @@
   }
  },
  "alligevel": {
-  "explanation": "\"Alligevel\" means \"nevertheless\" and \"anyway\". You say it when something happens despite a problem: \"Det regner, men vi går alligevel\" (It is raining, but we are going anyway).",
+  "explanation": "\"Alligevel\" means \"anyway\". When something happens despite a problem, add it: \"Det regner, men vi går alligevel\" (It is raining, but we are going anyway).",
   "forms": [
    {
     "da": "Jeg gør det alligevel",
@@ -1457,7 +1449,7 @@
   }
  },
  "almindelig": {
-  "explanation": "\"Almindelig\" means \"ordinary\" or \"common\": normal, with nothing special about it: \"Det er en almindelig fejl\" (It is a common mistake).",
+  "explanation": "\"Almindelig\" means \"ordinary\". When you say a mistake is one that happens to many people, it means \"common\": \"Det er en almindelig fejl\" (It is a common mistake).",
   "forms": [
    {
     "da": "en almindelig dag",
@@ -1496,7 +1488,7 @@
   }
  },
  "almægtig": {
-  "explanation": "\"Almægtig\" means \"almighty\", having all power. It is built from al (all) and mægtig (mighty). It is mostly used about God, as in \"Gud den almægtige\" (God the Almighty).",
+  "explanation": "\"Almægtig\" means \"almighty\". It is built from \"al\" (all) and \"mægtig\" (mighty). When you name God, the phrase is \"Gud den almægtige\" (God the Almighty).",
   "forms": [
    {
     "da": "en almægtig gud",
@@ -1531,7 +1523,7 @@
   }
  },
  "alt": {
-  "explanation": "\"Alt\" means \"everything\" or \"all\": \"Alt er her\" (Everything is here). It is different from \"alle\" (everyone): \"Alle er her\" (Everyone is here). \"Alt for\" means \"far too\": \"alt for dyrt\" (far too expensive).",
+  "explanation": "\"Alt\" means \"everything\". Do not mix it up with \"alle\" (everyone): \"Alt er her\" (Everything is here) and \"Alle er her\" (Everyone is here). To say \"far too\", put \"for\" after it: \"alt for dyrt\" (far too expensive).",
   "forms": [
    {
     "da": "Jeg ved alt.",
@@ -1566,7 +1558,7 @@
   }
  },
  "alt i alt": {
-  "explanation": "\"Alt i alt\" means \"all in all\". You say it to sum up what you have said: \"Alt i alt var det en god dag\" (All in all it was a good day). It usually comes at the end, after the details.",
+  "explanation": "\"Alt i alt\" means \"all in all\". When you sum up a story, start with it: \"Alt i alt var det en god dag\" (All in all it was a good day).",
   "forms": [
    {
     "da": "alt i alt",
@@ -1601,7 +1593,7 @@
   }
  },
  "alternativ": {
-  "explanation": "\"Alternativ\" means \"alternative\", another option instead of the usual one. It also describes things outside the mainstream: \"alternativ medicin\" (alternative medicine).",
+  "explanation": "\"Alternativ\" means \"alternative\". When you talk about something outside the mainstream, it also fits: \"alternativ medicin\" (alternative medicine).",
   "forms": [
    {
     "da": "en alternativ løsning",
@@ -1640,7 +1632,7 @@
   }
  },
  "altid": {
-  "explanation": "\"Altid\" means \"always\", every single time, with no exceptions: \"Jeg er altid træt\" (I am always tired). The opposite is \"aldrig\" (never): \"Jeg er aldrig træt\" (I am never tired).",
+  "explanation": "\"Altid\" means \"always\". It is built from \"al\" (all) and \"tid\" (time): \"Jeg er altid træt\" (I am always tired).",
   "forms": [
    {
     "da": "altid",
@@ -1665,12 +1657,12 @@
     "en": "sometimes"
    },
    {
-    "da": "for altid",
-    "en": "forever"
+    "da": "som regel",
+    "en": "as a rule"
    },
    {
-    "da": "som regel",
-    "en": "usually"
+    "da": "aldrig",
+    "en": "never"
    }
   ],
   "sentence": {
@@ -1679,7 +1671,7 @@
   }
  },
  "alting": {
-  "explanation": "\"Alting\" means \"everything\": \"Alting koster penge\" (Everything costs money). With \"ikke\" (not) it means \"not everything\": \"Ikke alting er dyrt\" (Not everything is expensive).",
+  "explanation": "\"Alting\" means \"everything\". It is built from \"al\" (all) and \"ting\" (things). To say \"not everything\", put \"ikke\" (not) before it: \"Ikke alting er dyrt\" (Not everything is expensive).",
   "forms": [
    {
     "da": "Alting er klar.",
@@ -1718,7 +1710,7 @@
   }
  },
  "altså": {
-  "explanation": "\"Altså\" means \"so\" or \"then\". You say it when you sum up what was just said: \"Han er syg, så han kommer altså ikke\" (He is sick, so he is not coming). You can also put it in a sentence to stress it, like \"really\" in English: \"Det er altså dyrt!\" (It really is expensive!)",
+  "explanation": "\"Altså\" means \"so\". When you sum up what was just said, use it: \"Han er syg, så han kommer altså ikke\" (He is sick, so he is not coming). When you want to stress a point, it works like \"really\": \"Det er altså dyrt!\" (It really is expensive!)",
   "forms": [
    {
     "da": "så du kommer altså ikke?",
@@ -1757,7 +1749,7 @@
   }
  },
  "aluminium": {
-  "explanation": "\"Aluminium\" means \"aluminum\", the light, silver-colored metal used in window frames, airplanes and pots. You leave out \"en\" and \"et\" with it: \"Vinduerne er af aluminium\" (The windows are made of aluminum).",
+  "explanation": "\"Aluminium\" means \"aluminum\". Spell it with \"ium\" at the end, as in British English \"aluminium\". When you say what something is made of, use \"af\" (of) and no article: \"Vinduerne er af aluminium\" (The windows are made of aluminum).",
   "forms": [
    {
     "da": "aluminium",
@@ -1796,7 +1788,7 @@
   }
  },
  "alverden": {
-  "explanation": "\"Alverden\" means \"the whole world\", said with exaggeration, as if nobody were left out. With an s, \"alverdens\" goes before a word and means \"all kinds of\": \"alverdens mad\" (all kinds of food).",
+  "explanation": "\"Alverden\" means \"the whole wide world\". It is built from \"al\" (all) and \"verden\" (world). When you add an s and put it before a noun, it means \"all kinds of\": \"alverdens mad\" (all kinds of food).",
   "forms": [
    {
     "da": "hele alverden",
@@ -1835,7 +1827,7 @@
   }
  },
  "alvor": {
-  "explanation": "\"Alvor\" means \"seriousness\". To ask whether someone means it, say \"Er det dit alvor?\" (Are you serious?). \"Nu er det alvor\" (Now it is getting serious) is said when the fun is over.",
+  "explanation": "\"Alvor\" means \"serious\". When you ask whether someone means it, say \"Er det dit alvor?\" (Are you serious?). When the fun is over, say \"Nu er det alvor\" (Now it is serious).",
   "forms": [
    {
     "da": "Det er alvor.",
@@ -1857,7 +1849,7 @@
    },
    {
     "da": "seriøs",
-    "en": "serious / earnest"
+    "en": "earnest"
    },
    {
     "da": "en spøg",
@@ -1865,7 +1857,7 @@
    },
    {
     "da": "sjov",
-    "en": "fun / funny"
+    "en": "fun"
    }
   ],
   "sentence": {
@@ -1874,7 +1866,7 @@
   }
  },
  "alvorlig": {
-  "explanation": "\"Alvorlig\" means \"serious\". Use it for something that is a real worry: \"en alvorlig sygdom\" (a serious illness). For a person, it describes someone earnest who rarely jokes: \"Han er meget alvorlig\" (He is very serious).",
+  "explanation": "\"Alvorlig\" means \"serious\". When you talk about something that is a real worry, put it before the noun: \"et alvorligt uheld\" (a serious accident). When you describe a person who does not joke around, it also works: \"Han er meget alvorlig\" (He is very serious).",
   "forms": [
    {
     "da": "en alvorlig fejl",
@@ -1891,8 +1883,12 @@
   ],
   "related": [
    {
+    "da": "alvor",
+    "en": "seriousness"
+   },
+   {
     "da": "seriøs",
-    "en": "serious, earnest"
+    "en": "earnest"
    },
    {
     "da": "farlig",
@@ -1901,10 +1897,6 @@
    {
     "da": "sjov",
     "en": "funny"
-   },
-   {
-    "da": "let",
-    "en": "light, easy"
    }
   ],
   "sentence": {
@@ -1913,7 +1905,7 @@
   }
  },
  "ambitiøs": {
-  "explanation": "\"Ambitiøs\" means \"ambitious\" and describes a person or a goal that aims high.",
+  "explanation": "\"Ambitiøs\" means \"ambitious\". Spell it with \"ø\", ending \"-iøs\", where English has \"-ious\". It comes from the noun \"en ambition\" (an ambition).",
   "forms": [
    {
     "da": "en ambitiøs plan",
@@ -1929,10 +1921,6 @@
    }
   ],
   "related": [
-   {
-    "da": "en ambition",
-    "en": "an ambition"
-   },
    {
     "da": "målrettet",
     "en": "goal-oriented"
@@ -1952,7 +1940,7 @@
   }
  },
  "amerikansk": {
-  "explanation": "\"Amerikansk\" means \"American\", used for things from the USA. It is written with a lowercase letter, while the English word American has an uppercase letter.",
+  "explanation": "\"Amerikansk\" means \"American\". It is written with a lowercase letter, while English \"American\" has a capital. When you name the sport, say \"amerikansk fodbold\" (American football).",
   "forms": [
    {
     "da": "en amerikansk film",
@@ -1991,7 +1979,7 @@
   }
  },
  "ammunition": {
-  "explanation": "\"Ammunition\" means \"ammunition\", everything that a gun or cannon fires. It is also used for facts that help you win an argument: \"Det giver hende ammunition\" (That gives her ammunition).",
+  "explanation": "\"Ammunition\" means \"ammunition\". When you talk about ammunition in general, leave out the article: \"Vi har ikke mere ammunition\" (We have no more ammunition). When you mean facts that help you win an argument, it also works: \"Det giver hende ammunition\" (That gives her ammunition).",
   "forms": [
    {
     "da": "ammunition",
@@ -2030,7 +2018,7 @@
   }
  },
  "anden": {
-  "explanation": "\"Anden\" means \"second\" and \"other\". For order, it means \"second\": \"min anden dag\" (my second day), and in dates \"den anden juni\" (the second of June). To point to the remaining item of two, it means \"other\": \"den anden bil\" (the other car). \"Den anden bil\" can also mean \"the second car\", and you can tell which meaning is used from the context of the sentence.",
+  "explanation": "\"Anden\" means \"second\". When you count in order (first, second, third) and the word is an en-word, use \"anden\": \"min anden dag\" (my second day). With an et-word, use \"andet\": \"det andet barn\" (the second child). When you point to the other one of two things, it means \"other\": \"den anden bil\" (the other car). In a list, \"den anden bil\" can also mean \"the second car\", so the sentence around it tells you which.",
   "forms": [
    {
     "da": "anden",
@@ -2069,7 +2057,7 @@
   }
  },
  "anderledes": {
-  "explanation": "\"Anderledes\" means \"different\", unlike what you know or expect: \"Det er en anderledes film\" (It is an unusual film). To say two things are not alike, use \"forskellig\" (different): \"De er forskellige\" (They are different).",
+  "explanation": "\"Anderledes\" means \"different\". Do not mix it up with \"forskellig\" (different). \"Anderledes\" compares something with what you know: \"Det smager anderledes\" (It tastes different). \"Forskellig\" is for two or more things that are not alike: \"De er forskellige\" (They are different).",
   "forms": [
    {
     "da": "en anderledes bog",
@@ -2108,7 +2096,7 @@
   }
  },
  "anger": {
-  "explanation": "\"Anger\" means \"remorse\", deep sorrow about something wrong you have done. It looks like the English word \"anger\", but it means something else: for anger, Danes say \"vrede\" (anger).",
+  "explanation": "\"Anger\" means \"remorse\". It looks like the English word \"anger\", but it means something else. For anger, Danes say \"vrede\": \"Han var fuld af vrede\" (He was full of anger). For remorse, say \"anger\": \"Jeg føler anger over det, jeg sagde\" (I feel remorse about what I said).",
   "forms": [
    {
     "da": "anger",
@@ -2147,7 +2135,7 @@
   }
  },
  "angst": {
-  "explanation": "\"Angst\" means \"anxiety\", a strong, lasting fear that can take over everyday life, often used for the medical condition. For an ordinary fear of one thing, say \"frygt\" (fear).",
+  "explanation": "\"Angst\" means \"anxiety\". To name a sudden attack of it, use \"et angstanfald\" (an anxiety attack): \"Han fik et angstanfald\" (He had an anxiety attack).",
   "forms": [
    {
     "da": "angst",
@@ -2186,7 +2174,7 @@
   }
  },
  "angående": {
-  "explanation": "\"Angående\" means \"concerning\", placed before the topic. It is common in email subject lines, such as \"Angående ferien\" (Concerning the vacation), while in speech Danes often say \"om\" (about).",
+  "explanation": "\"Angående\" means \"concerning\". Put the topic right after it: \"Angående ferien\" (Concerning the vacation). It sounds formal, so in everyday talk say \"om\" (about): \"Vi taler om ferien\" (We are talking about the vacation).",
   "forms": [
    {
     "da": "angående din ansøgning",
@@ -2221,7 +2209,7 @@
   }
  },
  "anonym": {
-  "explanation": "\"Anonym\" means \"anonymous\", without a name that anyone knows or shows. It is also used for places or things with no personality: \"en anonym lejlighed\" (a faceless apartment).",
+  "explanation": "\"Anonym\" means \"anonymous\". Danish leaves off the ending \"-ous\" that English has. When you name the group for people who want to stop drinking, Danes say \"Anonyme Alkoholikere\" (Alcoholics Anonymous).",
   "forms": [
    {
     "da": "en anonym afsender",
@@ -2256,7 +2244,7 @@
   }
  },
  "anonymt": {
-  "explanation": "\"Anonymt\" means \"anonymously\", doing something without giving your name, such as sending a message or leaving a review. \"Anonym\" (anonymous) goes with a noun: \"en anonym giver\" (an anonymous donor). \"Anonymt\" goes with an action: \"Han giver anonymt\" (He gives anonymously).",
+  "explanation": "\"Anonymt\" means \"anonymously\". Do not mix it up with \"anonym\" (anonymous). \"Anonym\" goes with a noun: \"en anonym giver\" (an anonymous donor). \"Anonymt\" says how someone does an action: \"Han giver anonymt\" (He gives anonymously). \"Anonymt\" is also the form with an et-word: \"et anonymt brev\" (an anonymous letter).",
   "forms": [
    {
     "da": "Du kan stemme anonymt",
@@ -2295,7 +2283,7 @@
   }
  },
  "anspændt": {
-  "explanation": "\"Anspændt\" means \"tense\", used for a situation, a person who is strained, or tight muscles. Do not mix it up with \"spændt\" (excited): \"Jeg er spændt på filmen\" (I am excited about the movie).",
+  "explanation": "\"Anspændt\" means \"tense\". Do not mix it up with \"spændt\" (excited). \"Anspændt\" is a strained feeling: \"en anspændt nakke\" (a tense neck). \"Spændt\" is looking forward to something: \"Jeg er spændt på filmen\" (I am excited about the movie).",
   "forms": [
    {
     "da": "en anspændt samtale",
@@ -2334,7 +2322,7 @@
   }
  },
  "anstrengende": {
-  "explanation": "\"Anstrengende\" means \"strenuous\" or \"tiring\", for something that takes a lot of effort and leaves you worn out, in body or in mind. It describes the thing, not you: for how you feel, say \"træt\" (tired).",
+  "explanation": "\"Anstrengende\" means \"tiring\". Do not mix it up with \"træt\" (tired). \"Anstrengende\" describes what causes it: \"Arbejdet er anstrengende\" (The work is tiring). \"Træt\" describes you: \"Jeg er træt\" (I am tired).",
   "forms": [
    {
     "da": "en anstrengende dag",
@@ -2373,7 +2361,7 @@
   }
  },
  "anstændig": {
-  "explanation": "\"Anstændig\" means \"decent\" in two ways: honest and respectful when said about a person, and good enough when said about a thing: \"en anstændig løn\" (a decent wage).",
+  "explanation": "\"Anstændig\" means \"decent\". When you describe an honest, respectful person, use it for the person: \"En anstændig chef lytter\" (A decent boss listens). When you describe something that is good enough, use it for the thing: \"Det var et anstændigt resultat\" (That was a decent result).",
   "forms": [
    {
     "da": "en anstændig løn",
@@ -2412,7 +2400,7 @@
   }
  },
  "ansvarlig": {
-  "explanation": "\"Ansvarlig\" means \"responsible\" and describes someone you can rely on: \"Han er ansvarlig og kommer til tiden\" (He is responsible and comes on time). It also means in charge: \"Hvem er ansvarlig?\" (Who is in charge?)",
+  "explanation": "\"Ansvarlig\" means \"responsible\". When you ask who is in charge, say \"Hvem er ansvarlig?\" (Who is in charge?). To say what you are responsible for, add \"for\": \"Jeg er ansvarlig for kassen\" (I am responsible for the cash register).",
   "forms": [
    {
     "da": "en ansvarlig voksen",
@@ -2451,7 +2439,7 @@
   }
  },
  "ansvarsfuld": {
-  "explanation": "\"Ansvarsfuld\" means \"responsible\" in the sense of acting with care and thinking about the results of your actions. To name the person who is in charge or to blame, Danes usually use \"ansvarlig\" (responsible): \"Han er ansvarlig for ulykken\" (He is responsible for the accident).",
+  "explanation": "\"Ansvarsfuld\" means \"responsible\". Do not mix it up with \"ansvarlig\" (responsible). \"Ansvarsfuld\" is for careful, thoughtful behavior: \"ansvarsfuld adfærd\" (responsible behavior). \"Ansvarlig\" is for being in charge or to blame: \"Han er ansvarlig for ulykken\" (He is responsible for the accident).",
   "forms": [
    {
     "da": "en ansvarsfuld lærer",
@@ -2490,7 +2478,7 @@
   }
  },
  "antarktis": {
-  "explanation": "\"Antarktis\" means \"Antarctica\", the icy land at the bottom of the world. Do not mix it up with \"Arktis\" (the Arctic) in the north. You use no article with it: \"Antarktis er koldt\" (Antarctica is cold).",
+  "explanation": "\"Antarktis\" means \"Antarctica\". Do not mix it up with \"Arktis\" (the Arctic) in the north. When you say where penguins live, say \"Pingviner bor i Antarktis\" (Penguins live in Antarctica). When you say where polar bears live, say \"Isbjørne bor i Arktis\" (Polar bears live in the Arctic).",
   "forms": [
    {
     "da": "Antarktis",
@@ -2525,7 +2513,7 @@
   }
  },
  "antibiotika": {
-  "explanation": "\"Antibiotika\" means \"antibiotics\" and is used without \"en\" or \"et\", like in English: \"Hun får antibiotika\" (She is getting antibiotics).",
+  "explanation": "\"Antibiotika\" means \"antibiotics\". When you talk about taking it, use no article: \"Hun får antibiotika\" (She is getting antibiotics). To name resistance to it, add \"resistens\": \"antibiotikaresistens\" (antibiotic resistance).",
   "forms": [
    {
     "da": "antibiotika",
@@ -2542,20 +2530,16 @@
   ],
   "related": [
    {
-    "da": "en recept",
-    "en": "a prescription"
-   },
-   {
-    "da": "en bivirkning",
-    "en": "a side effect"
-   },
-   {
-    "da": "en tablet",
-    "en": "a tablet"
+    "da": "penicillin",
+    "en": "penicillin"
    },
    {
     "da": "en bakterie",
     "en": "a bacterium"
+   },
+   {
+    "da": "en virus",
+    "en": "a virus"
    }
   ],
   "sentence": {
@@ -2564,7 +2548,7 @@
   }
  },
  "anvendelig": {
-  "explanation": "\"Anvendelig\" means \"usable\" or \"applicable\", something that can be put to good use in practice, such as advice or a method. It comes from \"at anvende\" (to use).",
+  "explanation": "\"Anvendelig\" means \"usable\". It comes from the verb \"at anvende\" (to use). To say where it works, add \"i\" (in): \"anvendelig i praksis\" (usable in practice).",
   "forms": [
    {
     "da": "en anvendelig løsning",
@@ -2599,7 +2583,7 @@
   }
  },
  "appelsinjuice": {
-  "explanation": "\"Appelsinjuice\" means \"orange juice\", a drink pressed from oranges. It is built from appelsin (orange) and juice (juice), and the same pattern names other juices: put the fruit or vegetable in front of juice.",
+  "explanation": "\"Appelsinjuice\" means \"orange juice\". It is built from \"appelsin\" (orange) and \"juice\" (juice). To name another juice, put the fruit in front of \"juice\": \"æblejuice\" (apple juice).",
   "forms": [
    {
     "da": "appelsinjuice",
@@ -2616,16 +2600,16 @@
   ],
   "related": [
    {
-    "da": "æblejuice",
-    "en": "apple juice"
-   },
-   {
     "da": "tomatjuice",
     "en": "tomato juice"
    },
    {
     "da": "ananasjuice",
     "en": "pineapple juice"
+   },
+   {
+    "da": "saft",
+    "en": "cordial"
    }
   ],
   "sentence": {
@@ -2634,7 +2618,7 @@
   }
  },
  "appetit": {
-  "explanation": "\"Appetit\" means \"appetite\", the wish for food: \"Jeg har ingen appetit\" (I have no appetite). For a wish to do something, Danes say \"have lyst til\" (feel like): \"Jeg har lyst til at gå en tur\" (I feel like going for a walk).",
+  "explanation": "\"Appetit\" means \"appetite\". Do not mix it up with \"lyst\" (a wish to do something). \"Appetit\" is for food: \"Jeg har ingen appetit\" (I have no appetite). \"At have lyst til\" is for doing something: \"Jeg har lyst til at gå en tur\" (I feel like going for a walk).",
   "forms": [
    {
     "da": "appetit",
@@ -2663,10 +2647,6 @@
     "en": "hungry"
    },
    {
-    "da": "at spise",
-    "en": "to eat"
-   },
-   {
     "da": "mæt",
     "en": "full"
    }
@@ -2677,7 +2657,7 @@
   }
  },
  "april": {
-  "explanation": "\"April\" means \"April\". Danish writes month names with a lowercase letter, where English has a capital: \"i april\" (in April). \"Aprilsnar\" means \"April fool\", built from april and nar (fool).",
+  "explanation": "\"April\" means \"April\". Write it with a lowercase letter, where English has a capital: \"i april\" (in April). To say \"April fool\", join it with \"nar\" (fool): \"aprilsnar\" (April fool).",
   "forms": [
    {
     "da": "april",
@@ -2702,8 +2682,8 @@
     "en": "May"
    },
    {
-    "da": "en måned",
-    "en": "a month"
+    "da": "juni",
+    "en": "June"
    }
   ],
   "sentence": {
@@ -2712,7 +2692,7 @@
   }
  },
  "arabisk": {
-  "explanation": "\"Arabisk\" means \"Arabic\", and it is used for the language and for things from the Arab world. It is written with a lowercase letter, while the English word Arabic has an uppercase letter: \"Hun taler arabisk\" (She speaks Arabic).",
+  "explanation": "\"Arabisk\" means \"Arabic\". It is written with a lowercase letter, while English \"Arabic\" has a capital. To name a language, use it alone: \"Hun taler arabisk\" (She speaks Arabic).",
   "forms": [
    {
     "da": "en arabisk bog",
@@ -2733,12 +2713,12 @@
     "en": "an Arab"
    },
    {
-    "da": "Mellemøsten",
-    "en": "the Middle East"
-   },
-   {
     "da": "tyrkisk",
     "en": "Turkish"
+   },
+   {
+    "da": "hebraisk",
+    "en": "Hebrew"
    }
   ],
   "sentence": {
@@ -2747,7 +2727,7 @@
   }
  },
  "arbejdskraft": {
-  "explanation": "\"Arbejdskraft\" means \"labor\" or \"workforce\", the people available to do the work in a company or a country: \"Vi har brug for mere arbejdskraft\" (We need more labor). In the plural, \"arbejdskræfter\" means the workers themselves.",
+  "explanation": "\"Arbejdskraft\" means \"labor\". It is built from \"arbejde\" (work) and \"kraft\" (power): \"Vi har brug for mere arbejdskraft\" (We need more labor). When you mean the workers themselves, use the plural \"arbejdskræfter\": \"udenlandske arbejdskræfter\" (foreign workers).",
   "forms": [
    {
     "da": "arbejdskraft",
@@ -2764,20 +2744,16 @@
   ],
   "related": [
    {
-    "da": "en medarbejder",
-    "en": "an employee"
+    "da": "arbejdsstyrke",
+    "en": "workforce"
    },
    {
-    "da": "personale",
-    "en": "staff"
+    "da": "en arbejder",
+    "en": "a worker"
    },
    {
     "da": "en arbejdsgiver",
     "en": "an employer"
-   },
-   {
-    "da": "løn",
-    "en": "wages"
    }
   ],
   "sentence": {
@@ -2786,7 +2762,7 @@
   }
  },
  "arbejdsløs": {
-  "explanation": "\"Arbejdsløs\" means \"unemployed\", without a job. It is built from arbejde (work) and \"løs\" (without), and \"løs\" works the same way in \"hjemløs\" (homeless).",
+  "explanation": "\"Arbejdsløs\" means \"unemployed\". It is built from \"arbejde\" (work) and \"løs\" (without). The same \"løs\" is in \"hjemløs\" (homeless): \"en hjemløs kat\" (a homeless cat).",
   "forms": [
    {
     "da": "en arbejdsløs mand",
@@ -2811,12 +2787,8 @@
     "en": "unemployment"
    },
    {
-    "da": "en arbejdsgiver",
-    "en": "an employer"
-   },
-   {
-    "da": "at fyre",
-    "en": "to fire"
+    "da": "uden arbejde",
+    "en": "without work"
    }
   ],
   "sentence": {
@@ -2825,7 +2797,7 @@
   }
  },
  "arbejdsløshed": {
-  "explanation": "\"Arbejdsløshed\" means \"unemployment\", the situation where many people in a country have no job. It is built from arbejdsløs (unemployed), which describes one person: \"Han er arbejdsløs\" (He is unemployed).",
+  "explanation": "\"Arbejdsløshed\" means \"unemployment\". It is built from \"arbejde\" (work), \"løs\" (without) and the ending \"-hed\", which makes a noun: \"sikker\" (safe) becomes \"sikkerhed\" (safety).",
   "forms": [
    {
     "da": "høj arbejdsløshed",
@@ -2850,12 +2822,8 @@
     "en": "employment"
    },
    {
-    "da": "et arbejdsmarked",
-    "en": "a labor market"
-   },
-   {
-    "da": "dagpenge",
-    "en": "unemployment benefits"
+    "da": "arbejdsløs",
+    "en": "unemployed"
    }
   ],
   "sentence": {
@@ -2864,7 +2832,7 @@
   }
  },
  "arbejdstid": {
-  "explanation": "\"En arbejdstid\" means \"working hours\", the hours when you are supposed to work, and also the total number of hours you work. \"Uden for arbejdstid\" means \"outside working hours\".",
+  "explanation": "\"En arbejdstid\" means \"working hours\". It is built from \"arbejde\" (work) and \"tid\" (time). When you mean outside those hours, say \"uden for arbejdstid\" (outside working hours).",
   "forms": [
    {
     "da": "en arbejdstid",
@@ -2889,12 +2857,16 @@
     "en": "overtime"
    },
    {
-    "da": "en fyraften",
-    "en": "quitting time"
+    "da": "deltid",
+    "en": "part time"
    },
    {
-    "da": "en arbejdsuge",
-    "en": "a work week"
+    "da": "fuldtid",
+    "en": "full time"
+   },
+   {
+    "da": "flextid",
+    "en": "flexible hours"
    }
   ],
   "sentence": {
@@ -2903,7 +2875,7 @@
   }
  },
  "arkitektur": {
-  "explanation": "\"En arkitektur\" means \"architecture\", the art of designing buildings and also the look of the buildings in a place. It is also used for how a computer system is organized: \"it-arkitektur\" (IT architecture).",
+  "explanation": "\"En arkitektur\" means \"architecture\". It is built on \"en arkitekt\" (an architect). When you talk about how a computer system is organized, use \"it-arkitektur\" (IT architecture).",
   "forms": [
    {
     "da": "en arkitektur",
@@ -2920,12 +2892,8 @@
   ],
   "related": [
    {
-    "da": "en arkitekt",
-    "en": "an architect"
-   },
-   {
-    "da": "en konstruktion",
-    "en": "a structure"
+    "da": "arkitektonisk",
+    "en": "architectural"
    },
    {
     "da": "en stil",
@@ -2942,7 +2910,7 @@
   }
  },
  "arrogant": {
-  "explanation": "\"Arrogant\" means \"arrogant\", for a person who looks down on others and shows it in how they talk or act. It is not the same as feeling good about what you did; for that, say \"stolt\" (proud): \"Jeg er stolt af dig\" (I am proud of you).",
+  "explanation": "\"Arrogant\" means \"arrogant\". Do not mix it up with \"stolt\" (proud). \"Arrogant\" is about how you treat other people: \"Chefen er arrogant\" (The boss is arrogant). \"Stolt\" is about feeling good about something: \"Jeg er stolt af dig\" (I am proud of you).",
   "forms": [
    {
     "da": "en arrogant chef",
@@ -2981,7 +2949,7 @@
   }
  },
  "asiatisk": {
-  "explanation": "\"Asiatisk\" means \"Asian\" and describes things from Asia: \"asiatisk mad\" (Asian food). A person from Asia is \"en asiat\" (an Asian person).",
+  "explanation": "\"Asiatisk\" means \"Asian\". It is written with a lowercase letter, while English \"Asian\" has a capital. To name a person from Asia, use the noun \"en asiat\" (an Asian person): \"Han er asiat\" (He is Asian).",
   "forms": [
    {
     "da": "en asiatisk restaurant",
@@ -3016,7 +2984,7 @@
   }
  },
  "asien": {
-  "explanation": "\"Asien\" means \"Asia\". The Danish spelling ends in -ien, not -ia.",
+  "explanation": "\"Asien\" means \"Asia\". Spell it with \"-ien\" at the end, not \"-ia\" as in English. The adjective is \"asiatisk\" (Asian): \"asiatisk mad\" (Asian food).",
   "forms": [
    {
     "da": "Asien",
@@ -3045,8 +3013,8 @@
     "en": "an Asian person"
    },
    {
-    "da": "asiatisk",
-    "en": "Asian"
+    "da": "Australien",
+    "en": "Australia"
    }
   ],
   "sentence": {
@@ -3055,7 +3023,7 @@
   }
  },
  "aske": {
-  "explanation": "\"Aske\" means \"ash\", the gray powder that is left after something has burned. It is also the first part of \"et askebæger\" (an ashtray).",
+  "explanation": "\"Aske\" means \"ash\". It is the first part of \"et askebæger\" (an ashtray). The day that starts Lent is called \"Askeonsdag\" (Ash Wednesday).",
   "forms": [
    {
     "da": "aske",
@@ -3072,20 +3040,16 @@
   ],
   "related": [
    {
-    "da": "en røg",
-    "en": "smoke"
-   },
-   {
-    "da": "et bål",
-    "en": "a bonfire"
+    "da": "kul",
+    "en": "coal"
    },
    {
     "da": "en glød",
-    "en": "a glow"
+    "en": "an ember"
    },
    {
-    "da": "en gnist",
-    "en": "a spark"
+    "da": "sod",
+    "en": "soot"
    }
   ],
   "sentence": {
@@ -3094,7 +3058,7 @@
   }
  },
  "assistance": {
-  "explanation": "\"Assistance\" means \"assistance\", help from someone. It sounds more formal than \"hjælp\" (help): a clerk may ask \"Kan jeg være til assistance?\" (Can I be of assistance?), but friends say \"Skal jeg hjælpe dig?\" (Shall I help you?)",
+  "explanation": "\"Assistance\" means \"assistance\". It sounds more formal than \"hjælp\" (help). A shop worker may ask \"Kan jeg være til assistance?\" (Can I be of assistance?). Between friends, say \"Skal jeg hjælpe dig?\" (Shall I help you?)",
   "forms": [
    {
     "da": "assistance",
@@ -3123,12 +3087,8 @@
     "en": "an assistant"
    },
    {
-    "da": "en støtte",
-    "en": "a support"
-   },
-   {
-    "da": "en service",
-    "en": "a service"
+    "da": "bistand",
+    "en": "aid"
    }
   ],
   "sentence": {
@@ -3137,7 +3097,7 @@
   }
  },
  "astma": {
-  "explanation": "\"En astma\" means \"asthma\", a lasting lung condition where the airways narrow. In a sentence Danes leave out \"en\": \"Jeg har astma\" (I have asthma).",
+  "explanation": "\"Astma\" means \"asthma\". When you say you have it, leave out \"en\": \"Jeg har astma\" (I have asthma). A sudden attack is \"et astmaanfald\", built from \"astma\" and \"anfald\" (attack).",
   "forms": [
    {
     "da": "astma",
@@ -3154,20 +3114,16 @@
   ],
   "related": [
    {
+    "da": "en astmatiker",
+    "en": "an asthma sufferer"
+   },
+   {
     "da": "en inhalator",
     "en": "an inhaler"
    },
    {
     "da": "en allergi",
     "en": "an allergy"
-   },
-   {
-    "da": "åndenød",
-    "en": "shortness of breath"
-   },
-   {
-    "da": "bronkitis",
-    "en": "bronchitis"
    }
   ],
   "sentence": {
@@ -3176,7 +3132,7 @@
   }
  },
  "at acceptere": {
-  "explanation": "\"At acceptere\" means \"to accept\": \"Jeg accepterer dit tilbud\" (I accept your offer). You can also use it for a situation you must live with: \"Hun kan ikke acceptere, at han er sen\" (She cannot accept that he is late).",
+  "explanation": "\"At acceptere\" means \"to accept\". When you agree to an offer, say \"Jeg accepterer dit tilbud\" (I accept your offer). When you say you cannot live with a situation, use \"ikke\": \"Hun kan ikke acceptere, at han kommer for sent\" (She cannot accept that he is late).",
   "forms": [
    {
     "da": "at acceptere",
@@ -3219,7 +3175,7 @@
   }
  },
  "at adlyde": {
-  "explanation": "\"At adlyde\" means \"to obey\", to do what someone in charge tells you, such as a parent, a law or an order. You need no small word after it: \"at adlyde loven\" (to obey the law).",
+  "explanation": "\"At adlyde\" means \"to obey\". It takes its object directly, with no small word after it: \"at adlyde en ordre\" (to obey an order).",
   "forms": [
    {
     "da": "at adlyde",
@@ -3262,7 +3218,7 @@
   }
  },
  "at adskille": {
-  "explanation": "\"At adskille\" means \"to separate\", to keep or pull things apart, such as two groups or two parts. For a couple, Danes use the shorter \"at skille\" (to separate): \"De blev skilt\" (They got divorced).",
+  "explanation": "\"At adskille\" means \"to separate\". Do not mix it up with \"at skille\" (to separate a couple). \"At adskille\" is for pulling things apart: \"at adskille børnene\" (to separate the children). \"At skille\" is for ending a marriage: \"De blev skilt\" (They got divorced).",
   "forms": [
    {
     "da": "at adskille",
@@ -3305,7 +3261,7 @@
   }
  },
  "at advare": {
-  "explanation": "\"At advare\" means \"to warn\", telling someone about a danger. Use \"mod\" (against) for what you warn about: \"Jeg advarer dig mod hunden\" (I am warning you about the dog).",
+  "explanation": "\"At advare\" means \"to warn\". To say what the danger is, add \"mod\" (against): \"Jeg advarer dig mod hunden\" (I am warning you about the dog).",
   "forms": [
    {
     "da": "at advare",
@@ -3344,7 +3300,7 @@
   }
  },
  "at afbestille": {
-  "explanation": "\"At afbestille\" means \"to cancel\" something you ordered or booked: \"Jeg afbestiller hotelværelset\" (I cancel the hotel room). For an event that will not happen, use \"at aflyse\" (to call off).",
+  "explanation": "\"At afbestille\" means \"to cancel (an order or booking)\". Do not mix it up with \"at aflyse\" (to call off). \"At afbestille\" is for something you booked: \"Jeg afbestiller hotelværelset\" (I cancel the hotel room). \"At aflyse\" is for an event: \"Vi aflyser festen\" (We call off the party).",
   "forms": [
    {
     "da": "at afbestille",
@@ -3387,7 +3343,7 @@
   }
  },
  "at afbryde": {
-  "explanation": "\"At afbryde\" means \"to interrupt\" a person and \"to cut off\" a connection or the power. To speak up politely, say \"Undskyld, jeg afbryder\" (Sorry to interrupt).",
+  "explanation": "\"At afbryde\" means \"to interrupt\". When you want to speak up politely, say \"Undskyld, jeg afbryder\" (Sorry to interrupt). When you stop a connection or the power, it also means \"to cut off\": \"at afbryde forbindelsen\" (to cut off the connection).",
   "forms": [
    {
     "da": "at afbryde",
@@ -3430,7 +3386,7 @@
   }
  },
  "at afbøde": {
-  "explanation": "\"At afbøde\" means \"to mitigate\", to make something bad less serious, such as damage, effects or losses: \"at afbøde skaderne\" (to soften the damage). To stop it before it happens, use \"at afværge\" (to avert).",
+  "explanation": "\"At afbøde\" means \"to mitigate\". When you reduce damage after it has happened, use it: \"at afbøde skaderne\" (to soften the damage). Do not mix it up with \"at afværge\" (to avert), which stops it before it happens: \"at afværge en ulykke\" (to avert an accident).",
   "forms": [
    {
     "da": "at afbøde",
@@ -3473,7 +3429,7 @@
   }
  },
  "at affyre": {
-  "explanation": "\"At affyre\" means \"to fire (a weapon)\", to let a gun, rocket or missile go off. To fire someone from a job, Danes say \"at fyre\" (to fire).",
+  "explanation": "\"At affyre\" means \"to fire (a weapon)\". Do not mix it up with \"at fyre\" (to fire someone from a job). \"At affyre\" is for a weapon: \"at affyre en raket\" (to fire a rocket). \"At fyre\" is for a worker: \"Chefen fyrer ham\" (The boss fires him).",
   "forms": [
    {
     "da": "at affyre",
@@ -3516,7 +3472,7 @@
   }
  },
  "at afgive": {
-  "explanation": "\"At afgive\" means \"to give off\" and \"to submit\". A thing gives off heat or a smell: \"afgive varme\" (give off heat). A person gives a formal statement or a promise: \"afgive et løfte\" (make a promise).",
+  "explanation": "\"At afgive\" means \"to give off or submit\". When a thing sends out heat or a smell, it means \"give off\": \"afgive varme\" (give off heat). When a person makes a formal statement, it means \"submit\": \"afgive et løfte\" (make a promise).",
   "forms": [
    {
     "da": "at afgive",
@@ -3559,7 +3515,7 @@
   }
  },
  "at afgå": {
-  "explanation": "\"At afgå\" means \"to depart\", for trains, buses and ferries that leave at a set time. It is also used when someone gives up a position: \"afgå som formand\" (step down as chair).",
+  "explanation": "\"At afgå\" means \"to depart\". When a train, bus or ferry leaves at a set time, it uses this verb: \"Færgen afgår klokken otte\" (The ferry departs at eight). When someone gives up a position, it means \"to step down\": \"afgå som formand\" (step down as chair).",
   "forms": [
    {
     "da": "at afgå",
@@ -3598,7 +3554,7 @@
   }
  },
  "at afgøre": {
-  "explanation": "\"At afgøre\" means \"to decide\" or \"to settle\", to bring an open question to an end: a result, a match or a case. For a personal choice, use \"at beslutte\" (to decide): \"Jeg har besluttet at flytte\" (I have decided to move).",
+  "explanation": "\"At afgøre\" means \"to decide or settle\". When something open gets an answer, such as a match: \"Straffesparket afgjorde kampen\" (The penalty kick decided the match). Do not mix it up with \"at beslutte\" (to decide). \"At beslutte\" is for your own plan: \"Jeg har besluttet at flytte\" (I have decided to move).",
   "forms": [
    {
     "da": "at afgøre",
@@ -3637,7 +3593,7 @@
   }
  },
  "at afhente": {
-  "explanation": "\"At afhente\" means \"to collect\" or \"to pick up\", to take something that is waiting for you, such as an order or a package. For picking up a person, Danes more often say \"at hente\" (to fetch): \"Jeg henter dig\" (I am picking you up).",
+  "explanation": "\"At afhente\" means \"to collect or pick up\". It is for something that is waiting for you: \"at afhente bestillingen\" (to collect the order). Do not mix it up with \"at hente\" (to fetch), which also works for a person: \"Jeg henter dig klokken fem\" (I will pick you up at five).",
   "forms": [
    {
     "da": "at afhente",
@@ -3680,7 +3636,7 @@
   }
  },
  "at afholde": {
-  "explanation": "\"At afholde\" means \"to hold\" a planned event, such as a meeting or an election. For holding something in your hand, say \"at holde\" (to hold). With \"sig fra\" (yourself from) it means \"to refrain from\": \"at afholde sig fra sukker\" (to stay away from sugar).",
+  "explanation": "\"At afholde\" means \"to hold (an event)\". It is for something planned: \"at afholde valg\" (to hold an election). Do not mix it up with \"at holde\" (to hold in your hand): \"Jeg holder en kop\" (I am holding a cup). With \"sig fra\" (yourself from) it means \"to refrain from\": \"at afholde sig fra sukker\" (to stay away from sugar).",
   "forms": [
    {
     "da": "at afholde",
@@ -3723,7 +3679,7 @@
   }
  },
  "at afhænge af": {
-  "explanation": "\"At afhænge af\" means \"to depend on\": \"Det afhænger af vejret\" (It depends on the weather). In everyday speech, Danes often say \"det kommer an på\" (it depends on) instead.",
+  "explanation": "\"At afhænge af\" means \"to depend on\": \"Det afhænger af vejret\" (It depends on the weather). Another way to say \"it depends\" is \"det kommer an på\": \"Det kommer an på prisen\" (It depends on the price).",
   "forms": [
    {
     "da": "at afhænge af",
@@ -3766,7 +3722,7 @@
   }
  },
  "at afhøre": {
-  "explanation": "\"At afhøre\" means \"to interrogate\", to question someone officially, usually by the police. For an ordinary question, use \"at spørge\" (to ask).",
+  "explanation": "\"At afhøre\" means \"to interrogate\". When you only want to ask an ordinary question, use \"at spørge\" (to ask) instead: \"Jeg spørger om vejen\" (I am asking about the way).",
   "forms": [
    {
     "da": "at afhøre",
@@ -3791,16 +3747,12 @@
     "en": "an interrogation"
    },
    {
-    "da": "en mistænkt",
-    "en": "a suspect"
-   },
-   {
-    "da": "et vidne",
-    "en": "a witness"
-   },
-   {
     "da": "at udspørge",
     "en": "to question closely"
+   },
+   {
+    "da": "at forhøre",
+    "en": "to interrogate"
    }
   ],
   "sentence": {
@@ -3809,7 +3761,7 @@
   }
  },
  "at afkræfte": {
-  "explanation": "\"At afkræfte\" means \"to disprove\", to show that a claim, theory or rumor is not true. The opposite is \"at bekræfte\" (to confirm).",
+  "explanation": "\"At afkræfte\" means \"to disprove\". When you show that a claim is wrong: \"Testen afkræfter rygtet\" (The test disproves the rumor). Do not mix it up with \"at bekræfte\" (to confirm): \"Testen bekræfter rygtet\" (The test confirms the rumor).",
   "forms": [
    {
     "da": "at afkræfte",
@@ -3852,7 +3804,7 @@
   }
  },
  "at afkøle": {
-  "explanation": "\"At afkøle\" means \"to cool down\", making something less warm or letting it get cooler, such as food or an engine. You often see it in recipes: \"Lad kagen afkøle\" (Let the cake cool).",
+  "explanation": "\"At afkøle\" means \"to cool (something) down\". To tell someone to let food get cooler, say: \"Lad kagen afkøle\" (Let the cake cool).",
   "forms": [
    {
     "da": "at afkøle",
@@ -3877,16 +3829,16 @@
     "en": "to heat up"
    },
    {
-    "da": "at fryse",
-    "en": "to freeze"
-   },
-   {
     "da": "at køle",
     "en": "to chill"
    },
    {
     "da": "kold",
     "en": "cold"
+   },
+   {
+    "da": "en afkøling",
+    "en": "a cooling"
    }
   ],
   "sentence": {
@@ -3895,7 +3847,7 @@
   }
  },
  "at aflaste": {
-  "explanation": "\"At aflaste\" means \"to relieve\", to take part of the weight or work off someone or something. It is built from af (off) and en last (a load), so you take some of the load away.",
+  "explanation": "\"At aflaste\" means \"to relieve\", as in taking work or weight off someone. It is built from \"af\" (off) and \"en last\" (a load).",
   "forms": [
    {
     "da": "at aflaste",
@@ -3938,7 +3890,7 @@
   }
  },
  "at aflevere": {
-  "explanation": "\"At aflevere\" means \"to hand in\" and \"to deliver\": \"Jeg afleverer opgaven i morgen\" (I hand in the assignment tomorrow). It also means \"to drop off\": \"Jeg afleverer børnene i skole\" (I drop the kids off at school).",
+  "explanation": "\"At aflevere\" means \"to hand in or deliver\". To say you leave your children at school, use it for dropping someone off: \"Jeg afleverer børnene i skole\" (I drop the children off at school).",
   "forms": [
    {
     "da": "at aflevere",
@@ -3968,7 +3920,11 @@
    },
    {
     "da": "en aflevering",
-    "en": "a hand-in, a drop-off"
+    "en": "a hand-in"
+   },
+   {
+    "da": "at modtage",
+    "en": "to receive"
    }
   ],
   "sentence": {
@@ -3977,7 +3933,7 @@
   }
  },
  "at aflyse": {
-  "explanation": "\"At aflyse\" means \"to cancel\", for an event, a flight or a meeting that will not happen. For your own booking, use \"at afbestille\" (to cancel an order).",
+  "explanation": "\"At aflyse\" means \"to cancel\". To say an event will not happen, use it for the event: \"Koncerten er aflyst\" (The concert is canceled). To cancel something you booked yourself, use \"at afbestille\" (to cancel an order): \"Jeg vil gerne afbestille bordet\" (I would like to cancel the table).",
   "forms": [
    {
     "da": "at aflyse",
@@ -4016,7 +3972,7 @@
   }
  },
  "at aflægge": {
-  "explanation": "\"At aflægge\" means \"to pay (a visit)\" and \"to take (an oath)\". It only goes with a small set of words, such as \"besøg\" (visit), \"ed\" (oath) and \"regnskab\" (accounts): \"at aflægge besøg\" (to pay a visit). For laying something down, use \"at lægge\" (to put).",
+  "explanation": "\"At aflægge\" means \"to pay (a visit) or take (an oath)\". To say you visit someone, use \"besøg\" (visit) after it: \"at aflægge besøg\" (to pay a visit). To say you swear in court, use \"ed\" (oath) after it: \"at aflægge ed\" (to take an oath). To put something down, use \"at lægge\" (to put): \"Jeg lægger bogen på bordet\" (I put the book on the table).",
   "forms": [
    {
     "da": "at aflægge",
@@ -4059,7 +4015,7 @@
   }
  },
  "at afmelde": {
-  "explanation": "\"At afmelde\" means \"to cancel\" or \"to unsubscribe\", taking yourself or someone else off something you signed up for, such as a course, a gym membership or a mailing list.",
+  "explanation": "\"At afmelde\" means \"to cancel or unsubscribe\". To say you take yourself off a course, add \"sig\" (yourself) and \"fra\" (from): \"Jeg afmelder mig fra kurset\" (I cancel my place on the course).",
   "forms": [
    {
     "da": "at afmelde",
@@ -4090,6 +4046,10 @@
    {
     "da": "at melde sig ind",
     "en": "to join"
+   },
+   {
+    "da": "en afmelding",
+    "en": "a cancellation of a sign-up"
    }
   ],
   "sentence": {
@@ -4098,7 +4058,7 @@
   }
  },
  "at afmontere": {
-  "explanation": "\"At afmontere\" means \"to dismantle\", to take a machine or piece of equipment off or apart, so it can be moved or repaired. It is built from af (off) and at montere (to install), so it is the opposite: you take off what was installed.",
+  "explanation": "\"At afmontere\" means \"to dismantle\". It is built from \"af\" (off) and \"at montere\" (to install), so it is the opposite: you take off what was installed.",
   "forms": [
    {
     "da": "at afmontere",
@@ -4141,7 +4101,7 @@
   }
  },
  "at afprøve": {
-  "explanation": "\"At afprøve\" means \"to test\" or \"to try out\", using something to find out how well it works, such as new equipment or a recipe.",
+  "explanation": "\"At afprøve\" means \"to test or try out\". It comes from the verb \"at prøve\" (to try). To say you try something new, put it after the verb: \"at afprøve en ny opskrift\" (to try out a new recipe).",
   "forms": [
    {
     "da": "at afprøve",
@@ -4174,8 +4134,8 @@
     "en": "to experiment"
    },
    {
-    "da": "en prøve",
-    "en": "a trial"
+    "da": "at teste",
+    "en": "to test"
    }
   ],
   "sentence": {
@@ -4184,7 +4144,7 @@
   }
  },
  "at afsende": {
-  "explanation": "\"At afsende\" means \"to send\", for formally sending off goods or messages in business or official settings; in everyday talk Danes say \"at sende\" (to send). The person who sends something is \"en afsender\" (a sender).",
+  "explanation": "\"At afsende\" means \"to send or dispatch\". It comes from the verb \"at sende\" (to send). The person who sends something is \"en afsender\" (a sender).",
   "forms": [
    {
     "da": "at afsende",
@@ -4227,7 +4187,7 @@
   }
  },
  "at afskaffe": {
-  "explanation": "\"At afskaffe\" means \"to abolish\", to end a rule or a system for good, usually by a decision from the government or an organization. The opposite is \"at indføre\" (to introduce).",
+  "explanation": "\"At afskaffe\" means \"to abolish\". To say a new rule is brought in, use the opposite, \"at indføre\" (to introduce): \"De vil indføre en ny skat\" (They want to introduce a new tax).",
   "forms": [
    {
     "da": "at afskaffe",
@@ -4270,7 +4230,7 @@
   }
  },
  "at afslutte": {
-  "explanation": "\"At afslutte\" means \"to finish\" or \"to end\" something on purpose. When something ends by itself, use \"at slutte\" (to end): \"Filmen slutter nu\" (The movie ends now).",
+  "explanation": "\"At afslutte\" means \"to finish or end\". To say you end something yourself, put the thing after it: \"Jeg afslutter mødet\" (I end the meeting). To say something ends by itself, use \"at slutte\" (to end): \"Filmen slutter nu\" (The movie ends now).",
   "forms": [
    {
     "da": "at afslutte",
@@ -4313,7 +4273,7 @@
   }
  },
  "at afslå": {
-  "explanation": "\"At afslå\" means \"to decline\" and \"to refuse\", to say no to a request, an offer or an application, usually officially: \"Kommunen afslog ansøgningen\" (The municipality turned down the application). For a friendly no to an invitation, Danes say \"at takke nej\" (to say no thanks).",
+  "explanation": "\"At afslå\" means \"to decline or refuse\". To say an office turns down an application, use it for the answer: \"Kommunen afslog ansøgningen\" (The municipality turned down the application). To say no politely to an invitation, use \"at takke nej\" (to say no thanks): \"Jeg takker nej til invitationen\" (I say no thanks to the invitation).",
   "forms": [
    {
     "da": "at afslå",
@@ -4344,6 +4304,10 @@
    {
     "da": "at godkende",
     "en": "to approve"
+   },
+   {
+    "da": "et afslag",
+    "en": "a refusal"
    }
   ],
   "sentence": {
@@ -4352,7 +4316,7 @@
   }
  },
  "at afsløre": {
-  "explanation": "\"At afsløre\" means \"to reveal\", to make known something that was secret. Use it when a secret comes out: \"Avisen afslørede planen\" (The newspaper revealed the plan).",
+  "explanation": "\"At afsløre\" means \"to reveal\". To say something secret comes out, use it for the secret: \"Avisen afslørede planen\" (The newspaper revealed the plan). To say someone is caught doing something wrong, use it for the person: \"Politiet afslørede tyven\" (The police caught the thief).",
   "forms": [
    {
     "da": "at afsløre",
@@ -4395,7 +4359,7 @@
   }
  },
  "at afspejle": {
-  "explanation": "\"At afspejle\" means \"to reflect\" in two ways: a shiny surface or water that sends back an image, and something that shows what is true: \"Valget afspejler, hvad folk mener\" (The election reflects what people think). It is not used for thinking something over; for that, say \"at tænke over\" (to think about).",
+  "explanation": "\"At afspejle\" means \"to reflect\", as in a mirror or water sending back an image. When something shows what is true, it also means \"to reflect\": \"Valget afspejler, hvad folk mener\" (The election reflects what people think). To say you think something over, use \"at tænke over\" (to think about): \"Jeg tænker over dit tilbud\" (I am thinking about your offer).",
   "forms": [
    {
     "da": "at afspejle",
@@ -4434,7 +4398,7 @@
   }
  },
  "at afstå": {
-  "explanation": "\"At afstå\" means \"to give up\" and \"to refrain\", to choose not to do or keep something. To name what you refrain from doing, add \"fra at\" (from) before the verb: \"at afstå fra at ryge\" (to refrain from smoking).",
+  "explanation": "\"At afstå\" means \"to give up or refrain\". To say someone gives up something that belongs to them, use it for the right: \"Han afstår sin ret til arven\" (He gives up his right to the inheritance).",
   "forms": [
    {
     "da": "at afstå",
@@ -4477,7 +4441,7 @@
   }
  },
  "at afsætte": {
-  "explanation": "\"At afsætte\" means \"to set aside\" and \"to sell\". With time, it means setting it aside for a purpose: \"Vi afsætter en time til mødet\" (We set aside an hour for the meeting). With goods, it means selling them: \"at afsætte varer\" (to sell goods).",
+  "explanation": "\"At afsætte\" means \"to set aside or sell\". To say money is set aside for a purpose, use it for the money: \"Kommunen afsætter penge til en ny skole\" (The municipality sets aside money for a new school). To talk about selling goods, say \"at afsætte varer\" (to sell goods).",
   "forms": [
    {
     "da": "at afsætte",
@@ -4508,6 +4472,10 @@
    {
     "da": "at bevilge",
     "en": "to grant"
+   },
+   {
+    "da": "at sælge",
+    "en": "to sell"
    }
   ],
   "sentence": {
@@ -4516,7 +4484,7 @@
   }
  },
  "at aftage": {
-  "explanation": "\"At aftage\" means \"to decrease\" or \"to fade\", for something that slowly gets weaker or smaller without anyone doing anything, such as wind, noise or interest.",
+  "explanation": "\"At aftage\" means \"to decrease\". It is built from \"af\" (off) and \"at tage\" (to take).",
   "forms": [
    {
     "da": "at aftage",
@@ -4559,7 +4527,7 @@
   }
  },
  "at aftale": {
-  "explanation": "\"At aftale\" means \"to agree on\" or \"to arrange\": two people settle a time or a plan together. The result is called \"en aftale\" (an agreement, an appointment).",
+  "explanation": "\"At aftale\" means \"to agree or arrange\". The thing you agree on is called \"en aftale\" (an agreement). To say you have a meeting booked, say: \"Jeg har en aftale klokken ti\" (I have an appointment at ten o'clock).",
   "forms": [
    {
     "da": "at aftale",
@@ -4598,7 +4566,7 @@
   }
  },
  "at afvente": {
-  "explanation": "\"At afvente\" means \"to await\", to hold back until something happens. You say it with no small word after it: \"afvente svar\" (await an answer). The shorter \"at vente\" (to wait) needs \"på\" (for): \"vente på svar\" (wait for an answer).",
+  "explanation": "\"At afvente\" means \"to await\". To say you wait for an answer with this word, put the answer right after it, with no small word between: \"afvente svar\" (await an answer). The shorter \"at vente\" (to wait) needs \"på\" (for): \"vente på svar\" (wait for an answer).",
   "forms": [
    {
     "da": "at afvente",
@@ -4623,12 +4591,12 @@
     "en": "to expect"
    },
    {
-    "da": "at udsætte",
-    "en": "to postpone"
+    "da": "en ventetid",
+    "en": "a waiting time"
    },
    {
-    "da": "en forsinkelse",
-    "en": "a delay"
+    "da": "et venteværelse",
+    "en": "a waiting room"
    }
   ],
   "sentence": {
@@ -4637,7 +4605,7 @@
   }
  },
  "at afvise": {
-  "explanation": "\"At afvise\" means \"to reject\" or \"to turn down\", to say no to an offer, a person or an idea. To refuse to do something yourself, say \"at nægte\" (to refuse): \"Han nægtede at betale\" (He refused to pay).",
+  "explanation": "\"At afvise\" means \"to reject\". To say you refuse to do something yourself, use \"at nægte\" (to refuse): \"Han nægtede at betale\" (He refused to pay).",
   "forms": [
    {
     "da": "at afvise",
@@ -4676,7 +4644,7 @@
   }
  },
  "at afværge": {
-  "explanation": "\"At afværge\" means \"to avert\", to stop something bad before it happens, such as an accident or a fight. To make something that has already happened less bad, use \"at afbøde\" (to mitigate).",
+  "explanation": "\"At afværge\" means \"to avert\". To say you make something that has already happened less bad, use \"at afbøde\" (to mitigate): \"Vi forsøger at afbøde skaden\" (We are trying to limit the damage).",
   "forms": [
    {
     "da": "at afværge",
@@ -4715,7 +4683,7 @@
   }
  },
  "at agere": {
-  "explanation": "\"At agere\" means \"to act\", on stage and in real life. To react to something, use \"at reagere\" (to react).",
+  "explanation": "\"At agere\" means \"to act\", as in playing a role or behaving in a certain way. To say you react to something, use \"at reagere\" (to react): \"Jeg reagerer på lyden\" (I react to the sound).",
   "forms": [
    {
     "da": "at agere",
@@ -4758,7 +4726,7 @@
   }
  },
  "at analysere": {
-  "explanation": "\"At analysere\" means \"to analyze\": to study something closely by looking at its parts one by one, such as a text, numbers or a blood sample.",
+  "explanation": "\"At analysere\" means \"to analyze\". To say what you study closely, put the thing after the verb: \"Vi analyserer resultaterne\" (We analyze the results).",
   "forms": [
    {
     "da": "at analysere",
@@ -4801,7 +4769,7 @@
   }
  },
  "at anbefale": {
-  "explanation": "\"At anbefale\" means \"to recommend\", for things you like and trust. It also works for advice about what to do: \"Lægen anbefaler hvile\" (The doctor recommends rest).",
+  "explanation": "\"At anbefale\" means \"to recommend\". To say what a doctor advises, use it for the advice: \"Lægen anbefaler hvile\" (The doctor recommends rest).",
   "forms": [
    {
     "da": "at anbefale",
@@ -4830,6 +4798,10 @@
     "en": "to advise"
    },
    {
+    "da": "at fraråde",
+    "en": "to advise against"
+   },
+   {
     "da": "en anbefaling",
     "en": "a recommendation"
    }
@@ -4840,7 +4812,7 @@
   }
  },
  "at anbringe": {
-  "explanation": "\"At anbringe\" means \"to place\", to put something in a chosen spot: \"at anbringe en kasse\" (to place a box). It is also the official word for placing a child with another family or in care.",
+  "explanation": "\"At anbringe\" means \"to place\". To say you put something in a chosen spot, say: \"at anbringe en kasse\" (to place a box). To talk about a child placed in care, use the describing form: \"et anbragt barn\" (a child placed in care).",
   "forms": [
    {
     "da": "at anbringe",
@@ -4883,7 +4855,7 @@
   }
  },
  "at ane": {
-  "explanation": "\"At ane\" means \"to suspect\" and \"to have an idea\", to feel something without knowing it for sure. It is mostly used in the negative: \"Jeg aner det ikke\" (I have no idea).",
+  "explanation": "\"At ane\" means \"to have an idea or suspect\". To say you have no idea, say: \"Jeg aner det ikke\" (I have no idea).",
   "forms": [
    {
     "da": "at ane",
@@ -4926,7 +4898,7 @@
   }
  },
  "at anerkende": {
-  "explanation": "\"At anerkende\" means \"to recognize\" or \"to acknowledge\": to openly accept that something is true or has value. For knowing a face again, use \"at genkende\" (to recognize): \"Jeg genkender dig!\" (I recognize you!)",
+  "explanation": "\"At anerkende\" means \"to recognize or acknowledge\". To say you openly accept that something is true, say: \"Jeg anerkender, at jeg tog fejl\" (I acknowledge that I was wrong). To know a face again, use \"at genkende\" (to recognize): \"Jeg genkender dig!\" (I recognize you!)",
   "forms": [
    {
     "da": "at anerkende",
@@ -4969,7 +4941,7 @@
   }
  },
  "at angive": {
-  "explanation": "\"At angive\" means \"to state\" or \"to indicate\", to give a clear fact, such as a price, a reason or a time. It is the word used on forms and in official texts; in everyday talk Danes say \"at sige\" (to say).",
+  "explanation": "\"At angive\" means \"to state or indicate\". To say you name the reason for something, say: \"Hun angav sygdom som årsag\" (She gave illness as the reason).",
   "forms": [
    {
     "da": "at angive",
@@ -5012,7 +4984,7 @@
   }
  },
  "at angre": {
-  "explanation": "\"At angre\" means \"to regret\": you wish you had not done or chosen something: \"Jeg angrer, at jeg sagde det\" (I regret that I said it).",
+  "explanation": "\"At angre\" means \"to regret\". To say you regret nothing, say: \"Jeg angrer ingenting\" (I regret nothing). Do not read \"en anger\" as the English word \"anger\": it means \"remorse\".",
   "forms": [
    {
     "da": "at angre",
@@ -5041,8 +5013,8 @@
     "en": "a regret"
    },
    {
-    "da": "en anger",
-    "en": "remorse"
+    "da": "at beklage",
+    "en": "to be sorry about"
    }
   ],
   "sentence": {
@@ -5051,7 +5023,7 @@
   }
  },
  "at angribe": {
-  "explanation": "\"At angribe\" means \"to attack\", with weapons or with words. It is also used for an illness that harms a body part: \"Sygdommen angriber lungerne\" (The disease attacks the lungs).",
+  "explanation": "\"At angribe\" means \"to attack\". To say a disease harms a body part, use it for the disease: \"Sygdommen angriber lungerne\" (The disease attacks the lungs).",
   "forms": [
    {
     "da": "at angribe",
@@ -5094,7 +5066,7 @@
   }
  },
  "at angå": {
-  "explanation": "\"At angå\" means \"to concern\": to be about someone or to matter to them. A common phrase is \"hvad angår\" (as for): \"Hvad angår prisen, er den fin\" (As for the price, it is fine).",
+  "explanation": "\"At angå\" means \"to concern\". To say \"as for\", use the phrase \"hvad angår\": \"Hvad angår prisen, er den fin\" (As for the price, it is fine).",
   "forms": [
    {
     "da": "at angå",
@@ -5137,7 +5109,7 @@
   }
  },
  "at anholde": {
-  "explanation": "\"At anholde\" means \"to arrest\": the police take a person into custody because of a suspected crime. You often meet it in news about the police, usually in the form \"Manden blev anholdt\" (The man was arrested).",
+  "explanation": "\"At anholde\" means \"to arrest\". To say a person was arrested, use \"blive anholdt\" (be arrested): \"Manden blev anholdt\" (The man was arrested).",
   "forms": [
    {
     "da": "at anholde",
@@ -5180,7 +5152,7 @@
   }
  },
  "at anklage": {
-  "explanation": "\"At anklage\" means \"to accuse\" or \"to charge\": to say that someone has done something wrong. In court it is the prosecutor, \"en anklager\", who charges a person with a crime. Outside court it is a strong claim: \"Hun anklager ham for at lyve\" (She accuses him of lying).",
+  "explanation": "\"At anklage\" means \"to charge or accuse\". The person who charges someone in court is \"en anklager\" (a prosecutor).",
   "forms": [
    {
     "da": "at anklage",
@@ -5223,7 +5195,7 @@
   }
  },
  "at ankomme": {
-  "explanation": "\"At ankomme\" means \"to arrive\", and it sounds formal, like an announcement for trains and planes. In everyday talk, Danes say \"at komme frem\" (to get there): \"Vi kommer frem klokken otte\" (We get there at eight).",
+  "explanation": "\"At ankomme\" means \"to arrive\". It is built from the verb \"at komme\" (to come). To say you get to a place, you can also use \"at komme frem\" (to get there): \"Vi kommer frem klokken otte\" (We get there at eight).",
   "forms": [
    {
     "da": "at ankomme",
@@ -5262,7 +5234,7 @@
   }
  },
  "at anlægge": {
-  "explanation": "\"At anlægge\" means \"to construct\" and \"to file (a lawsuit)\". For building, use it for something big: \"at anlægge en vej\" (to construct a road). In law, it goes with \"sag\" (case): \"at anlægge sag mod en virksomhed\" (to bring a case against a company).",
+  "explanation": "\"At anlægge\" means \"to construct or file (a lawsuit)\". To say you build something big, such as a road, say: \"at anlægge en vej\" (to construct a road). To say you start a lawsuit, use \"sag\" (case) after it: \"at anlægge sag mod en virksomhed\" (to bring a case against a company).",
   "forms": [
    {
     "da": "at anlægge",
@@ -5305,7 +5277,7 @@
   }
  },
  "at anmelde": {
-  "explanation": "\"At anmelde\" means \"to report\" a crime to the police, and also \"to review\" a book, film or concert: \"Hun anmelder film for en avis\" (She reviews films for a newspaper).",
+  "explanation": "\"At anmelde\" means \"to report (to police) or review\". To say you write about a film or a book for a newspaper, say: \"Hun anmelder film for en avis\" (She reviews films for a newspaper).",
   "forms": [
    {
     "da": "at anmelde",
@@ -5348,7 +5320,7 @@
   }
  },
  "at anmode": {
-  "explanation": "\"At anmode\" means \"to request\", to formally ask an authority or an office for something, usually in writing. It is followed by \"om\" (for): \"at anmode om hjælp\" (to request help).",
+  "explanation": "\"At anmode\" means \"to request\". The thing you send is \"en anmodning\" (a request).",
   "forms": [
    {
     "da": "at anmode",
@@ -5369,10 +5341,6 @@
   ],
   "related": [
    {
-    "da": "en ansøgning",
-    "en": "an application"
-   },
-   {
     "da": "at bede om",
     "en": "to ask for"
    },
@@ -5391,7 +5359,7 @@
   }
  },
  "at annoncere": {
-  "explanation": "\"At annoncere\" means \"to announce\" or \"to advertise\": to make something known to many people at once: \"Bandet annoncerer en ny turné\" (The band announces a new tour).",
+  "explanation": "\"At annoncere\" means \"to announce or advertise\". To say a band makes news public, say: \"Bandet annoncerer en ny turné\" (The band announces a new tour).",
   "forms": [
    {
     "da": "at annoncere",
@@ -5434,7 +5402,7 @@
   }
  },
  "at anse": {
-  "explanation": "\"At anse\" means \"to regard\" or \"to consider\": to hold the view that someone or something is of a certain kind. You say \"for\" (for) before the description: \"Jeg anser ham for ærlig\" (I consider him honest).",
+  "explanation": "\"At anse\" means \"to regard or consider\". To say how you see yourself, add \"for\" before the description: \"Jeg anser mig selv for heldig\" (I consider myself lucky).",
   "forms": [
    {
     "da": "at anse",
@@ -5477,7 +5445,7 @@
   }
  },
  "at anskaffe": {
-  "explanation": "\"At anskaffe\" means \"to acquire\": to get hold of something you need, such as equipment or a pet. Unlike \"at købe\" (to buy), \"at anskaffe\" does not indicate how you obtain the item: \"Vi anskaffer en hund\" (We are getting a dog).",
+  "explanation": "\"At anskaffe\" means \"to acquire\". To say you get a pet, say: \"Vi anskaffer en hund\" (We are getting a dog). To say you pay money for something, use \"at købe\" (to buy): \"Jeg køber en cykel\" (I buy a bike).",
   "forms": [
    {
     "da": "at anskaffe",
@@ -5520,7 +5488,7 @@
   }
  },
  "at anslå": {
-  "explanation": "\"At anslå\" means \"to estimate\", to give an approximate size, cost or number. For an exact figure that you work out, use \"at beregne\" (to calculate): \"Jeg beregner prisen\" (I calculate the price).",
+  "explanation": "\"At anslå\" means \"to estimate\". To work out an exact figure, use \"at beregne\" (to calculate): \"Jeg beregner prisen\" (I calculate the price).",
   "forms": [
    {
     "da": "at anslå",
@@ -5563,7 +5531,7 @@
   }
  },
  "at ansætte": {
-  "explanation": "\"At ansætte\" means \"to hire\", giving someone a job: \"Firmaet ansætter to nye\" (The company is hiring two new people).",
+  "explanation": "\"At ansætte\" means \"to hire\". To say a company takes on new staff, say: \"Firmaet ansætter to nye\" (The company is hiring two new people).",
   "forms": [
    {
     "da": "at ansætte",
@@ -5606,7 +5574,7 @@
   }
  },
  "at ansøge": {
-  "explanation": "\"At ansøge\" means \"to apply\": to formally ask for a job, a grant, a place or a permit. It is followed by \"om\" (for): \"Hun ansøger om et job\" (She applies for a job). To \"apply\" in the sense of \"use\", Danes say \"at anvende\" (to use).",
+  "explanation": "\"At ansøge\" means \"to apply\", as in asking formally for a job, a grant or a place. To say you use a rule, use \"at anvende\" (to use): \"Vi anvender reglen\" (We apply the rule).",
   "forms": [
    {
     "da": "at ansøge",
@@ -5649,7 +5617,7 @@
   }
  },
  "at antage": {
-  "explanation": "\"At antage\" means \"to assume\": to take something as true without being sure. You add \"at\" (that) before what you assume: \"Jeg antager, at han kommer\" (I assume he is coming).",
+  "explanation": "\"At antage\" means \"to assume\". It comes from the verb \"at tage\" (to take).",
   "forms": [
    {
     "da": "at antage",
@@ -5692,7 +5660,7 @@
   }
  },
  "at antyde": {
-  "explanation": "\"At antyde\" means \"to imply\", to hint at something without stating it directly: \"Han antydede, at han var træt\" (He hinted that he was tired).",
+  "explanation": "\"At antyde\" means \"to imply\". To say you hint at something without saying it, say: \"Han antydede, at han var træt\" (He hinted that he was tired).",
   "forms": [
    {
     "da": "at antyde",
@@ -5735,7 +5703,7 @@
   }
  },
  "at anvende": {
-  "explanation": "\"At anvende\" means \"to use\" or \"to apply\": to put a method, a rule or a tool to work: \"Man må ikke anvende mobilen under prøven\" (You may not use the phone during the test). In everyday talk, \"at bruge\" (to use) is more common.",
+  "explanation": "\"At anvende\" means \"to use or apply\". To say a rule forbids using a phone, say: \"Man må ikke anvende mobilen under prøven\" (You may not use the phone during the test). The plain word for \"to use\" is \"at bruge\": \"Jeg bruger en blyant\" (I use a pencil).",
   "forms": [
    {
     "da": "at anvende",
@@ -5778,7 +5746,7 @@
   }
  },
  "at appellere": {
-  "explanation": "\"At appellere\" means \"to appeal\", in the sense of calling on someone's feelings or sense of duty: \"Hun appellerer til vores medfølelse\" (She appeals to our compassion). Appealing a court ruling is a different word, \"at anke\" (to appeal a ruling).",
+  "explanation": "\"At appellere\" means \"to appeal\", as in calling on someone's feelings or sense of duty. To name the feeling, add \"til\" (to): \"Hun appellerer til vores medfølelse\" (She appeals to our compassion). To appeal a court ruling, use \"at anke\" (to appeal a ruling): \"Han anker dommen\" (He appeals the ruling).",
   "forms": [
    {
     "da": "at appellere",
@@ -5821,7 +5789,7 @@
   }
  },
  "at applaudere": {
-  "explanation": "\"At applaudere\" means \"to applaud\": to clap your hands to show that you liked a performance. It is also used for approving of an idea or a decision: \"Jeg applauderer beslutningen\" (I applaud the decision).",
+  "explanation": "\"At applaudere\" means \"to applaud\". To say you approve of an idea or a decision, say: \"Jeg applauderer beslutningen\" (I applaud the decision).",
   "forms": [
    {
     "da": "at applaudere",
@@ -5864,7 +5832,7 @@
   }
  },
  "at arbejde": {
-  "explanation": "\"At arbejde\" means \"to work\". The noun \"et arbejde\" means \"a job\", and also work itself: \"Jeg har meget arbejde\" (I have a lot of work).",
+  "explanation": "\"At arbejde\" means \"to work\". The noun \"et arbejde\" means \"a job\". To say where your job is, say: \"Mit arbejde er på et hospital\" (My job is at a hospital). It also means work itself: \"Jeg har meget arbejde\" (I have a lot of work).",
   "forms": [
    {
     "da": "at arbejde",
@@ -5895,6 +5863,10 @@
    {
     "da": "en arbejdsdag",
     "en": "a workday"
+   },
+   {
+    "da": "arbejdsløs",
+    "en": "unemployed"
    }
   ],
   "sentence": {
@@ -5903,7 +5875,7 @@
   }
  },
  "at arbejde hjemmefra": {
-  "explanation": "\"At arbejde hjemmefra\" means \"to work from home\". \"Hjemmefra\" (from home) is built from hjemme (at home) and fra (from). It is also used for leaving: \"Jeg går hjemmefra klokken otte\" (I leave home at eight).",
+  "explanation": "\"At arbejde hjemmefra\" means \"to work from home\". \"Hjemmefra\" (from home) is built from \"hjemme\" (at home) and \"fra\" (from). To say you leave your home, use it for leaving: \"Jeg går hjemmefra klokken otte\" (I leave home at eight).",
   "forms": [
    {
     "da": "at arbejde hjemmefra",
@@ -5932,10 +5904,6 @@
     "en": "an office"
    },
    {
-    "da": "en kollega",
-    "en": "a colleague"
-   },
-   {
     "da": "at pendle",
     "en": "to commute"
    }
@@ -5946,7 +5914,7 @@
   }
  },
  "at arbejde med": {
-  "explanation": "\"At arbejde med\" means \"to work with\", for the people, animals or things you deal with in your job: \"Hun arbejder med dyr\" (She works with animals). For a place or a task, use \"på\" (at, on) instead: \"Jeg arbejder på kontoret\" (I work at the office).",
+  "explanation": "\"At arbejde med\" means \"to work with\". To say where you work, use \"at arbejde på\" (to work at): \"Jeg arbejder på kontoret\" (I work at the office).",
   "forms": [
    {
     "da": "at arbejde med",
@@ -5967,16 +5935,16 @@
   ],
   "related": [
    {
-    "da": "at arbejde på",
-    "en": "to work at / work on"
-   },
-   {
     "da": "at samarbejde",
     "en": "to cooperate"
    },
    {
     "da": "en arbejdsplads",
     "en": "a workplace"
+   },
+   {
+    "da": "en arbejdsgiver",
+    "en": "an employer"
    }
   ],
   "sentence": {
@@ -5985,7 +5953,7 @@
   }
  },
  "at arbejde på": {
-  "explanation": "\"At arbejde på\" means \"to work at\" a place, or \"to work on\" a task. Danish uses the same \"på\" (on, at) for both meanings. For a place: \"Jeg arbejder på kontoret\" (I work at the office). For a task: \"Jeg arbejder på rapporten\" (I work on the report). You can tell which meaning is used from the context of the sentence.",
+  "explanation": "\"At arbejde på\" means \"to work on\". To say where you work, \"på\" means \"at\": \"Jeg arbejder på kontoret\" (I work at the office).",
   "forms": [
    {
     "da": "at arbejde på",
@@ -6024,7 +5992,7 @@
   }
  },
  "at argumentere": {
-  "explanation": "\"At argumentere\" means \"to argue\" in the sense of giving reasons for a view: \"Hun argumenterer for en kortere arbejdsuge\" (She argues for a shorter work week). To quarrel, use \"at skændes\" (to quarrel).",
+  "explanation": "\"At argumentere\" means \"to argue\", as in giving reasons for a view. To say which view you argue for, add \"for\" (for): \"Hun argumenterer for en kortere arbejdsuge\" (She argues for a shorter work week). To quarrel, use \"at skændes\" (to quarrel): \"Børnene skændes om legetøjet\" (The children are quarreling about the toy).",
   "forms": [
    {
     "da": "at argumentere",
@@ -6067,7 +6035,7 @@
   }
  },
  "at arrangere": {
-  "explanation": "\"At arrangere\" means \"to arrange\" in the sense of planning and setting up something such as a party, a trip or a meeting. To put things in order, use \"at ordne\" (to sort out): \"Hun ordner bøgerne\" (She is putting the books in order).",
+  "explanation": "\"At arrangere\" means \"to arrange\", as in planning and setting up an event. To put things in order, use \"at ordne\" (to sort out): \"Hun ordner bøgerne\" (She is putting the books in order).",
   "forms": [
    {
     "da": "at arrangere",
@@ -6110,7 +6078,7 @@
   }
  },
  "at arrestere": {
-  "explanation": "\"At arrestere\" means \"to arrest\": the police take a person into custody. \"At anholde\" (to arrest) is used for the same thing and is the word you often see in news about the police.",
+  "explanation": "\"At arrestere\" means \"to arrest\". To say a person was arrested, say: \"Tyven blev arresteret\" (The thief was arrested).",
   "forms": [
    {
     "da": "at arrestere",
@@ -6153,7 +6121,7 @@
   }
  },
  "at arve": {
-  "explanation": "\"At arve\" means \"to inherit\": to receive money or things from someone who has died. It is also used for traits in a family: \"Hun har arvet sin mors blå øjne\" (She has inherited her mother's blue eyes).",
+  "explanation": "\"At arve\" means \"to inherit\". To say you get a trait from a parent, say: \"Hun har arvet sin mors blå øjne\" (She has inherited her mother's blue eyes).",
   "forms": [
    {
     "da": "at arve",
@@ -6196,7 +6164,7 @@
   }
  },
  "atlanterhavet": {
-  "explanation": "\"Atlanterhavet\" means \"the Atlantic Ocean\", the large ocean between Europe and America. It ends in \"havet\" (the ocean), where \"-et\" already means \"the\", so you add no separate word for \"the\".",
+  "explanation": "\"Atlanterhavet\" means \"the Atlantic Ocean\". It ends in \"havet\" (the ocean), where \"-et\" already means \"the\", so you add no separate word for \"the\".",
   "forms": [
    {
     "da": "i Atlanterhavet",
@@ -6235,7 +6203,7 @@
   }
  },
  "atomkraft": {
-  "explanation": "\"Atomkraft\" means \"nuclear power\", electricity made by splitting atoms: \"Skal Danmark have atomkraft?\" (Should Denmark have nuclear power?)",
+  "explanation": "\"Atomkraft\" means \"nuclear power\". It is built from \"atom\" (atom) and \"kraft\" (power). To ask whether a country should have it, say: \"Skal Danmark have atomkraft?\" (Should Denmark have nuclear power?)",
   "forms": [
    {
     "da": "Jeg er for atomkraft",
@@ -6270,7 +6238,7 @@
   }
  },
  "atten": {
-  "explanation": "\"Atten\" means \"eighteen\". It comes after \"sytten\" (seventeen) and before \"nitten\" (nineteen).",
+  "explanation": "\"Atten\" means \"eighteen\". In the numbers from \"tretten\" (thirteen) to \"nitten\" (nineteen), the ending \"-ten\" means \"ten\".",
   "forms": [
    {
     "da": "atten år",
@@ -6287,8 +6255,8 @@
   ],
   "related": [
    {
-    "da": "tyve",
-    "en": "twenty"
+    "da": "sytten",
+    "en": "seventeen"
    },
    {
     "da": "seksten",
@@ -6297,6 +6265,10 @@
    {
     "da": "femten",
     "en": "fifteen"
+   },
+   {
+    "da": "tyve",
+    "en": "twenty"
    }
   ],
   "sentence": {
@@ -6305,7 +6277,7 @@
   }
  },
  "atter": {
-  "explanation": "\"Atter\" means \"again\", like \"igen\" (again), but it sounds formal and is mostly written: \"Hun er atter blevet syg\" (She has fallen ill again).",
+  "explanation": "\"Atter\" means \"again\". The same meaning is also said with \"igen\" (again): \"Hun er syg igen\" (She is ill again).",
   "forms": [
    {
     "da": "Han kom atter for sent",
@@ -6340,7 +6312,7 @@
   }
  },
  "attraktiv": {
-  "explanation": "\"Attraktiv\" means \"attractive\": something that people want to have or choose, such as \"et attraktivt tilbud\" (an attractive offer). It can describe people too: \"en attraktiv mand\" (an attractive man).",
+  "explanation": "\"Attraktiv\" means \"attractive\". To describe a person who looks good, say: \"en attraktiv mand\" (an attractive man).",
   "forms": [
    {
     "da": "en attraktiv bolig",
@@ -6410,7 +6382,7 @@
   }
  },
  "australien": {
-  "explanation": "\"Australien\" means \"Australia\". Use \"i\" (in) for living or being there: \"Jeg bor i Australien\" (I live in Australia). Use \"til\" (to) for traveling there: \"Jeg rejser til Australien\" (I am traveling to Australia).",
+  "explanation": "\"Australien\" means \"Australia\". To say you live there, use \"i\" (in): \"Jeg bor i Australien\" (I live in Australia). To say you travel there, use \"til\" (to): \"Jeg rejser til Australien\" (I am traveling to Australia).",
   "forms": [
    {
     "da": "Australien",
@@ -6445,7 +6417,7 @@
   }
  },
  "autentisk": {
-  "explanation": "\"Autentisk\" means \"authentic\": true to the original. About a person it means true to themselves: \"Hun er meget autentisk\" (She is very true to herself).",
+  "explanation": "\"Autentisk\" means \"authentic\". To say a person is true to themselves, say: \"Hun er meget autentisk\" (She is very true to herself).",
   "forms": [
    {
     "da": "en autentisk oplevelse",
@@ -6484,7 +6456,7 @@
   }
  },
  "automatisk": {
-  "explanation": "\"Automatisk\" means \"automatic\": something that happens by itself. It also means \"automatically\": \"Døren åbner automatisk\" (The door opens automatically).",
+  "explanation": "\"Automatisk\" means \"automatic\". Do not mix it up with \"en automat\" (a vending machine). To say you buy a drink from a vending machine, say: \"Vi køber en sodavand i en automat\" (We buy a soda from a vending machine).",
   "forms": [
    {
     "da": "en automatisk dør",
@@ -6505,10 +6477,6 @@
     "en": "manual"
    },
    {
-    "da": "en automat",
-    "en": "a vending machine"
-   },
-   {
     "da": "at automatisere",
     "en": "to automate"
    },
@@ -6523,7 +6491,7 @@
   }
  },
  "av": {
-  "explanation": "\"Av\" means \"ouch\" and is what you say when something hurts: \"Av, min fod!\" (Ouch, my foot!) For a small slip, say \"ups\" (oops) instead.",
+  "explanation": "\"Av\" means \"ouch\". To say something hurts, say: \"Av, min fod!\" (Ouch, my foot!) To react to a small slip, say \"ups\" (oops): \"Ups, jeg tabte koppen!\" (Oops, I dropped the cup!)",
   "forms": [
    {
     "da": "Av!",
@@ -6540,8 +6508,8 @@
   ],
   "related": [
    {
-    "da": "aj",
-    "en": "ouch (similar)"
+    "da": "au",
+    "en": "ouch"
    },
    {
     "da": "at gøre ondt",
@@ -6558,7 +6526,7 @@
   }
  },
  "avanceret": {
-  "explanation": "\"Avanceret\" means \"advanced\": complicated or at a high level, such as a machine, a method or a skill. It can also mean hard to use: \"Programmet er for avanceret for mig\" (The program is too advanced for me).",
+  "explanation": "\"Avanceret\" means \"advanced\". To say a program is too difficult for you, say: \"Programmet er for avanceret for mig\" (The program is too advanced for me).",
   "forms": [
    {
     "da": "en avanceret maskine",
@@ -6636,7 +6604,7 @@
   }
  },
  "en abe": {
-  "explanation": "\"En abe\" means \"a monkey\", and also \"an ape\", because Danish uses one word for both. For a great ape, Danes say \"en menneskeabe\" (a great ape).",
+  "explanation": "\"En abe\" means \"a monkey or ape\". Danish uses one word for both. To talk about a great ape, use \"en menneskeabe\" (literally, a human ape): \"En gorilla er en menneskeabe\" (A gorilla is a great ape).",
   "forms": [
    {
     "da": "en abe",
@@ -6657,16 +6625,16 @@
   ],
   "related": [
    {
-    "da": "en gorilla",
-    "en": "a gorilla"
-   },
-   {
     "da": "en chimpanse",
     "en": "a chimpanzee"
    },
    {
     "da": "en orangutang",
     "en": "an orangutan"
+   },
+   {
+    "da": "en bavian",
+    "en": "a baboon"
    }
   ],
   "sentence": {
@@ -6675,7 +6643,7 @@
   }
  },
  "en aborre": {
-  "explanation": "\"En aborre\" means \"a perch\", a common freshwater fish with a spiny fin on its back and orange-red fins below. It lives in Danish lakes and slow rivers.",
+  "explanation": "\"En aborre\" means \"a perch\", as in the fish. To say you catch this fish, say: \"at fange en aborre\" (to catch a perch). It is a common freshwater fish in Danish lakes.",
   "forms": [
    {
     "da": "en aborre",
@@ -6718,7 +6686,7 @@
   }
  },
  "en abort": {
-  "explanation": "\"En abort\" means \"an abortion\", and also \"a miscarriage\" when it happens by itself. An extra word tells them apart: \"en provokeret abort\" (an induced abortion) and \"en spontan abort\" (a miscarriage).",
+  "explanation": "\"En abort\" means \"an abortion or miscarriage\". To say which one, add a word: \"en provokeret abort\" (an induced abortion) and \"en spontan abort\" (a miscarriage).",
   "forms": [
    {
     "da": "en abort",
@@ -6757,7 +6725,7 @@
   }
  },
  "en abrikos": {
-  "explanation": "\"En abrikos\" means \"an apricot\", a small orange fruit with soft skin and a large pit.",
+  "explanation": "\"En abrikos\" means \"an apricot\". To talk about the dried fruit, say: \"tørrede abrikoser\" (dried apricots).",
   "forms": [
    {
     "da": "en abrikos",
@@ -6796,7 +6764,7 @@
   }
  },
  "en accent": {
-  "explanation": "\"En accent\" means \"an accent\", the way someone's speech sounds when they come from another region or language. It is also the small mark over a letter, like the é in café.",
+  "explanation": "\"En accent\" means \"an accent\", as in the way someone speaks. It also means the small mark over a letter, like the é in \"café\". To say the mark is there, say: \"Café har en accent over e'et\" (Café has an accent over the e).",
   "forms": [
    {
     "da": "en accent",
@@ -6839,7 +6807,7 @@
   }
  },
  "en adgangskode": {
-  "explanation": "\"En adgangskode\" means \"a password\", a secret code that lets you in. It is built from adgang (access) and kode (code), and the same \"adgang\" is on the sign \"Ingen adgang\" (No entry).",
+  "explanation": "\"En adgangskode\" means \"a password\". It is built from \"adgang\" (access) and \"kode\" (code). The word \"adgang\" is also on the sign \"Ingen adgang\" (No entry).",
   "forms": [
    {
     "da": "en adgangskode",
@@ -6878,7 +6846,7 @@
   }
  },
  "en admiral": {
-  "explanation": "\"En admiral\" means \"an admiral\", a top officer in the navy. The matching top officer in the army is \"en general\" (a general).",
+  "explanation": "\"En admiral\" means \"an admiral\". Do not mix it up with \"en general\" (a general), which is a rank in the army: \"Generalen leder hæren\" (The general leads the army).",
   "forms": [
    {
     "da": "en admiral",
@@ -6921,7 +6889,7 @@
   }
  },
  "en adoption": {
-  "explanation": "\"En adoption\" means \"an adoption\", when a child becomes the legal child of people who are not its birth parents. The verb \"at adoptere\" (to adopt) is also used for pets: \"adoptere en hund\" (to adopt a dog).",
+  "explanation": "\"En adoption\" means \"an adoption\". To say a child is given up for adoption, use \"at give et barn til adoption\" (to give a child up for adoption).",
   "forms": [
    {
     "da": "en adoption",
@@ -6950,8 +6918,8 @@
     "en": "adoptive parents"
    },
    {
-    "da": "en plejefamilie",
-    "en": "a foster family"
+    "da": "at adoptere",
+    "en": "to adopt"
    }
   ],
   "sentence": {
@@ -6960,7 +6928,7 @@
   }
  },
  "en adresse": {
-  "explanation": "\"En adresse\" means \"an address\", the street and number where someone lives.",
+  "explanation": "\"En adresse\" means \"an address\". To ask for someone's address, say: \"Hvad er din adresse?\" (What is your address?)",
   "forms": [
    {
     "da": "en adresse",
@@ -7003,7 +6971,7 @@
   }
  },
  "en advarsel": {
-  "explanation": "\"En advarsel\" means \"a warning\", a message that danger or trouble may come.",
+  "explanation": "\"En advarsel\" means \"a warning\". To say someone warns you, say: \"Han gav mig en advarsel\" (He gave me a warning).",
   "forms": [
    {
     "da": "en advarsel",
@@ -7046,7 +7014,7 @@
   }
  },
  "en adventskrans": {
-  "explanation": "\"En adventskrans\" means \"an Advent wreath\", a ring of fir branches with four candles, set out in the weeks before December 24.",
+  "explanation": "\"En adventskrans\" means \"an Advent wreath\". It is built from \"advent\" (Advent) and \"en krans\" (a wreath). In Denmark, it is set out in the weeks before December 24.",
   "forms": [
    {
     "da": "en adventskrans",
@@ -7067,8 +7035,8 @@
   ],
   "related": [
    {
-    "da": "en julekrans",
-    "en": "a Christmas wreath"
+    "da": "et lys",
+    "en": "a candle"
    },
    {
     "da": "en julekalender",
@@ -7085,7 +7053,7 @@
   }
  },
  "en advokat": {
-  "explanation": "\"En advokat\" means \"a lawyer\", someone who advises you about the law and argues your side in a dispute. The same word is used for men and women.",
+  "explanation": "\"En advokat\" means \"a lawyer\". To say you hire one, say: \"at hyre en advokat\" (to hire a lawyer).",
   "forms": [
    {
     "da": "en advokat",
@@ -7124,7 +7092,7 @@
   }
  },
  "en afbetaling": {
-  "explanation": "\"En afbetaling\" means \"an installment plan\", paying for something bit by bit instead of all at once.",
+  "explanation": "\"En afbetaling\" means \"an installment plan\". It is built from \"af\" (off) and \"en betaling\" (a payment).",
   "forms": [
    {
     "da": "en afbetaling",
@@ -7167,7 +7135,7 @@
   }
  },
  "en afbrydelse": {
-  "explanation": "\"En afbrydelse\" means \"an interruption\", a stop in something that was going on, like a meeting, a call or the power: \"en afbrydelse i strømmen\" (an interruption in the power). Do not mix it up with \"en pause\" (a break), which is planned: \"en pause på ti minutter\" (a ten-minute break).",
+  "explanation": "\"En afbrydelse\" means \"an interruption\". To say the power stops for a while, say: \"en afbrydelse i strømmen\" (an interruption in the power). Do not mix it up with \"en pause\" (a break): \"en pause på ti minutter\" (a ten-minute break).",
   "forms": [
    {
     "da": "en afbrydelse",
@@ -7210,7 +7178,7 @@
   }
  },
  "en afdeling": {
-  "explanation": "\"En afdeling\" means \"a department\", one section of a large organization, such as a hospital, a store or a bank.",
+  "explanation": "\"En afdeling\" means \"a department\". To name a department by its job, put the job in front: \"en salgsafdeling\" (a sales department).",
   "forms": [
    {
     "da": "en afdeling",
@@ -7253,7 +7221,7 @@
   }
  },
  "en afdelingsleder": {
-  "explanation": "\"En afdelingsleder\" means \"a department manager\", someone who runs one section of a shop, school, hospital or company. It is built from afdeling (department) and leder (leader).",
+  "explanation": "\"En afdelingsleder\" means \"a department manager\". It is built from \"afdeling\" (department) and \"leder\" (leader).",
   "forms": [
    {
     "da": "en afdelingsleder",
@@ -7296,7 +7264,7 @@
   }
  },
  "en affaldssortering": {
-  "explanation": "\"En affaldssortering\" means \"a waste sorting\", separating garbage into kinds so each kind can be reused.",
+  "explanation": "\"En affaldssortering\" means \"a waste sorting\". It is built from \"affald\" (waste) and \"en sortering\" (a sorting).",
   "forms": [
    {
     "da": "en affaldssortering",
@@ -7335,7 +7303,7 @@
   }
  },
  "en affære": {
-  "explanation": "\"En affære\" means \"an affair\", a secret love relationship. It also means a matter or business, as in \"en dyr affære\" (an expensive business).",
+  "explanation": "\"En affære\" means \"an affair\", as in a secret love relationship. It also means a matter or business. To say something is a costly business, say: \"en dyr affære\" (an expensive business).",
   "forms": [
    {
     "da": "en affære",
@@ -7378,7 +7346,7 @@
   }
  },
  "en afgang": {
-  "explanation": "\"En afgang\" means \"a departure\", the time a train, bus or plane leaves.",
+  "explanation": "\"En afgang\" means \"a departure\". To ask when the next train leaves, say: \"Hvornår er næste afgang?\" (When is the next departure?)",
   "forms": [
    {
     "da": "en afgang",
@@ -7417,7 +7385,7 @@
   }
  },
  "en afgangseksamen": {
-  "explanation": "\"En afgangseksamen\" means \"a final exam\", the exam that closes a school or study program, where you show what you have learned.",
+  "explanation": "\"En afgangseksamen\" means \"a final exam\". It is built from \"afgang\" (departure) and \"en eksamen\" (an exam), so it is the exam you take when you leave the school.",
   "forms": [
    {
     "da": "en afgangseksamen",
@@ -7460,7 +7428,7 @@
   }
  },
  "en afgift": {
-  "explanation": "\"En afgift\" means \"a levy\", a charge that the state requires you to pay on a thing or an activity, not on what you earn: \"en afgift på plastikposer\" (a levy on plastic bags).",
+  "explanation": "\"En afgift\" means \"a levy\". To say the state charges money on a thing, say: \"en afgift på plastikposer\" (a levy on plastic bags). A charge on what you earn is \"en skat\" (a tax): \"Jeg betaler skat\" (I pay tax).",
   "forms": [
    {
     "da": "en afgift",
@@ -7481,10 +7449,6 @@
   ],
   "related": [
    {
-    "da": "en skat",
-    "en": "a tax"
-   },
-   {
     "da": "en told",
     "en": "a customs duty"
    },
@@ -7503,7 +7467,7 @@
   }
  },
  "en afgrøde": {
-  "explanation": "\"En afgrøde\" means \"a crop\", a plant that farmers grow on farmland to sell as food, such as wheat or barley.",
+  "explanation": "\"En afgrøde\" means \"a crop\". To say the year's crop turned out well, say: \"en god afgrøde\" (a good crop).",
   "forms": [
    {
     "da": "en afgrøde",
@@ -7546,7 +7510,7 @@
   }
  },
  "en afgørelse": {
-  "explanation": "\"En afgørelse\" means \"a decision\" or \"a ruling\", the final answer an authority gives after considering a case: \"Nævnets afgørelse er endelig\" (The board's ruling is final). Do not mix it up with \"en beslutning\" (a decision you make yourself): \"Jeg har taget en beslutning\" (I have made a decision).",
+  "explanation": "\"En afgørelse\" means \"a decision or ruling\". To say an authority's decision cannot be changed, say: \"Nævnets afgørelse er endelig\" (The board's ruling is final). To talk about a decision you make yourself, use \"en beslutning\" (a decision): \"Jeg har taget en beslutning\" (I have made a decision).",
   "forms": [
    {
     "da": "en afgørelse",
@@ -7589,7 +7553,7 @@
   }
  },
  "en afhandling": {
-  "explanation": "\"En afhandling\" means \"a thesis\", a serious piece of writing that studies one subject closely, usually at a university. A doctoral one is called \"en ph.d.-afhandling\" (a PhD thesis).",
+  "explanation": "\"En afhandling\" means \"a thesis\". To say a thesis written for a doctorate, use \"en ph.d.-afhandling\" (a PhD thesis).",
   "forms": [
    {
     "da": "en afhandling",
@@ -7632,7 +7596,7 @@
   }
  },
  "en afhentning": {
-  "explanation": "\"En afhentning\" means \"a pickup\", collecting something that is ready for you, such as a parcel, an order or a child at daycare.",
+  "explanation": "\"En afhentning\" means \"a pickup\". To say what is collected, add \"af\" (of): \"afhentning af pakker\" (pickup of parcels).",
   "forms": [
    {
     "da": "en afhentning",
@@ -7661,8 +7625,8 @@
     "en": "to fetch"
    },
    {
-    "da": "et afhentningssted",
-    "en": "a pickup point"
+    "da": "en pakke",
+    "en": "a parcel"
    },
    {
     "da": "en levering",
@@ -7675,7 +7639,7 @@
   }
  },
  "en afhængighed": {
-  "explanation": "\"En afhængighed\" means \"an addiction\" for drugs or alcohol, and \"a dependence\" when you need other people or things. Add \"af\" (on) for what you depend on: \"afhængighed af hinanden\" (dependence on each other).",
+  "explanation": "\"En afhængighed\" means \"an addiction or dependence\". When you talk about needing other people, it means \"dependence\": \"afhængighed af hinanden\" (dependence on each other).",
   "forms": [
    {
     "da": "en afhængighed",
@@ -7718,7 +7682,7 @@
   }
  },
  "en afhøring": {
-  "explanation": "\"En afhøring\" means \"an interrogation\", the official questioning of a person by the police or in court.",
+  "explanation": "\"En afhøring\" means \"an interrogation\". It comes from the verb \"at afhøre\" (to question).",
   "forms": [
    {
     "da": "en afhøring",
@@ -7739,16 +7703,16 @@
   ],
   "related": [
    {
-    "da": "at afhøre",
-    "en": "to question"
-   },
-   {
     "da": "et forhør",
     "en": "an interrogation"
    },
    {
     "da": "en efterforskning",
     "en": "an investigation"
+   },
+   {
+    "da": "en vidneafhøring",
+    "en": "a witness examination"
    }
   ],
   "sentence": {
@@ -7757,7 +7721,7 @@
   }
  },
  "en afklaring": {
-  "explanation": "\"En afklaring\" means \"a clarification\", getting an open question settled: \"en afklaring af prisen\" (a clarification of the price). Do not mix it up with \"en forklaring\" (an explanation), which tells how or why something is: \"Jeg vil have en forklaring\" (I want an explanation).",
+  "explanation": "\"En afklaring\" means \"a clarification\". To talk about getting the price settled, say: \"en afklaring af prisen\" (a clarification of the price). Do not mix it up with \"en forklaring\" (an explanation): \"Jeg vil have en forklaring\" (I want an explanation).",
   "forms": [
    {
     "da": "en afklaring",
@@ -7800,7 +7764,7 @@
   }
  },
  "en afkørsel": {
-  "explanation": "\"En afkørsel\" means \"an exit\" where you leave a big road. For the exit of a building, use \"en udgang\" (an exit) instead.",
+  "explanation": "\"En afkørsel\" means \"an exit\", as in leaving a big road. To leave a building, use \"en udgang\" (an exit): \"Udgangen er til højre\" (The exit is on the right).",
   "forms": [
    {
     "da": "en afkørsel",
@@ -7839,7 +7803,7 @@
   }
  },
  "en aflevering": {
-  "explanation": "\"En aflevering\" means \"a submission\", a piece of schoolwork you give to the teacher by a set day. It is also used when you give something back: \"aflevering af nøgler\" (returning the keys).",
+  "explanation": "\"En aflevering\" means \"a submission\". To talk about giving something back, add \"af\" (of): \"aflevering af nøgler\" (returning the keys).",
   "forms": [
    {
     "da": "en aflevering",
@@ -7882,7 +7846,7 @@
   }
  },
  "en afleveringsfrist": {
-  "explanation": "\"En afleveringsfrist\" means \"a submission deadline\", the last time you can hand in work, such as a school paper. It is built from at aflevere (to hand in) and frist (time limit).",
+  "explanation": "\"En afleveringsfrist\" means \"a submission deadline\". It is built from \"at aflevere\" (to hand in) and \"en frist\" (a time limit).",
   "forms": [
    {
     "da": "en afleveringsfrist",
@@ -7921,7 +7885,7 @@
   }
  },
  "en aflysning": {
-  "explanation": "\"En aflysning\" means \"a cancellation\" of something planned, like a flight or a match.",
+  "explanation": "\"En aflysning\" means \"a cancellation\". It comes from the verb \"at aflyse\" (to cancel).",
   "forms": [
    {
     "da": "en aflysning",
@@ -7942,10 +7906,6 @@
   ],
   "related": [
    {
-    "da": "at aflyse",
-    "en": "to cancel"
-   },
-   {
     "da": "aflyst",
     "en": "canceled"
    },
@@ -7956,6 +7916,10 @@
    {
     "da": "at udsætte",
     "en": "to postpone"
+   },
+   {
+    "da": "et afbud",
+    "en": "a notice of absence"
    }
   ],
   "sentence": {
@@ -7964,7 +7928,7 @@
   }
  },
  "en afløser": {
-  "explanation": "\"En afløser\" means \"a substitute\", a person who takes over someone's work for a while, for example when that person is sick or on vacation. Do not mix it up with \"en afløsning\" (a relief), which is the act of taking over.",
+  "explanation": "\"En afløser\" means \"a substitute\". Do not mix it up with \"en afløsning\" (a relief). \"En afløser\" is the person: \"Afløseren kommer klokken otte\" (The substitute comes at eight o'clock). \"En afløsning\" is the act of taking over: \"Natholdet får afløsning klokken seks\" (The night team gets relief at six o'clock).",
   "forms": [
    {
     "da": "en afløser",
@@ -8007,7 +7971,7 @@
   }
  },
  "en afløsning": {
-  "explanation": "\"En afløsning\" means \"a relief\" or \"a replacement\", the act of one person taking over from another at the same job. It is also used for help that gives a family caregiver a break: \"Hun får afløsning to timer om ugen\" (She gets relief two hours a week). The person who takes over is \"en afløser\" (a substitute).",
+  "explanation": "\"En afløsning\" means \"a relief or replacement\". When a caregiver at home gets help so they can take a break, Danish uses this word too: \"Hun får afløsning to timer om ugen\" (She gets relief two hours a week). Do not mix it up with \"en afløser\" (a substitute). \"En afløsning\" is the act of taking over, and \"en afløser\" is the person: \"Afløseren kommer klokken otte\" (The substitute comes at eight o'clock).",
   "forms": [
    {
     "da": "en afløsning",
@@ -8050,7 +8014,7 @@
   }
  },
  "en afrejse": {
-  "explanation": "\"En afrejse\" means \"a departure\", the moment you set off on a trip, often abroad. For a train or bus leaving a station, use \"en afgang\" (a departure from a station or stop) instead.",
+  "explanation": "\"En afrejse\" means \"a departure\". It is built from \"af\" (off) and the verb \"at rejse\" (to travel). Do not mix it up with \"en afgang\" (a departure). \"En afgang\" is when a train or bus leaves a stop: \"Afgang fra spor 3 er klokken ti\" (Departure from platform 3 is at ten o'clock).",
   "forms": [
    {
     "da": "en afrejse",
@@ -8079,8 +8043,8 @@
     "en": "a return trip"
    },
    {
-    "da": "en rejse",
-    "en": "a trip"
+    "da": "en hjemkomst",
+    "en": "a return home"
    }
   ],
   "sentence": {
@@ -8089,7 +8053,7 @@
   }
  },
  "en afrikaner": {
-  "explanation": "\"En afrikaner\" means \"an African\", a person from Africa. Danish writes it with a lowercase letter, unlike English.",
+  "explanation": "\"En afrikaner\" means \"an African\". It is built from \"Afrika\" (Africa). Danish writes it with a small first letter: \"afrikaner\", not \"Afrikaner\".",
   "forms": [
    {
     "da": "en afrikaner",
@@ -8132,7 +8096,7 @@
   }
  },
  "en afsked": {
-  "explanation": "\"En afsked\" means \"a farewell\" or \"a goodbye\", the moment you part, often for a long time. Danes use it with \"at tage\" (to take): \"at tage afsked med nogen\" (to say goodbye to someone).",
+  "explanation": "\"En afsked\" means \"a farewell\". To say you say goodbye to someone, use \"at tage\" (to take) and \"med\" (with): \"Jeg tager afsked med min ven\" (I say goodbye to my friend).",
   "forms": [
    {
     "da": "en afsked",
@@ -8175,7 +8139,7 @@
   }
  },
  "en afslutning": {
-  "explanation": "\"En afslutning\" means \"an ending\" or \"a conclusion\", the last part of something, such as a speech or a school year.",
+  "explanation": "\"En afslutning\" means \"an ending\". It comes from the verb \"at afslutte\" (to finish). In a Danish school, \"afslutning\" is also the party at the end of the school year: \"Vi har afslutning i skolen i morgen\" (We have the end-of-year party at school tomorrow).",
   "forms": [
    {
     "da": "en afslutning",
@@ -8218,7 +8182,7 @@
   }
  },
  "en afstand": {
-  "explanation": "\"En afstand\" means \"a distance\", the space between two places or people, measured in meters or kilometers. \"Hold afstand!\" means \"Keep your distance!\"",
+  "explanation": "\"En afstand\" means \"a distance\". To ask how far away a place is, say \"afstanden til\" (the distance to): \"Hvad er afstanden til stationen?\" (What is the distance to the station?) To tell someone to stay back, say \"Hold afstand!\" (Keep your distance!)",
   "forms": [
    {
     "da": "en afstand",
@@ -8257,7 +8221,7 @@
   }
  },
  "en afstemning": {
-  "explanation": "\"En afstemning\" means \"a vote\", when a group decides a question by voting, often yes or no. For choosing people for an office or a job, Danes say \"et valg\" (an election).",
+  "explanation": "\"En afstemning\" means \"a vote\". Do not mix it up with \"et valg\" (an election). \"En afstemning\" is a vote on a question: \"Der er afstemning om forslaget\" (There is a vote on the proposal). \"Et valg\" is when people choose a person: \"Klubben har valg til bestyrelsen\" (The club has an election for the board).",
   "forms": [
    {
     "da": "en afstemning",
@@ -8296,7 +8260,7 @@
   }
  },
  "en aftale": {
-  "explanation": "\"En aftale\" means \"an appointment\" or \"an agreement\". For a time you booked: \"en aftale med tandlægen\" (an appointment with the dentist). For a deal: \"Det er en aftale!\" (It's a deal!).",
+  "explanation": "\"En aftale\" means \"an appointment or agreement\". When you book a time with someone and want to move it, say \"Kan vi flytte aftalen til fredag?\" (Can we move the appointment to Friday?) When two people agree on something, you can say \"Det er en aftale!\" (It's a deal!)",
   "forms": [
    {
     "da": "en aftale",
@@ -8335,7 +8299,7 @@
   }
  },
  "en aften": {
-  "explanation": "\"En aften\" means \"an evening\", the time of day between afternoon and night. Useful phrases are \"i aften\" (tonight), \"om aftenen\" (in the evening, as a habit), and \"god aften\" (good evening).",
+  "explanation": "\"En aften\" means \"an evening\". To say \"tonight\", use \"i aften\": \"Vi ses i aften\" (See you tonight).",
   "forms": [
    {
     "da": "en aften",
@@ -8374,7 +8338,7 @@
   }
  },
  "en aftenrutine": {
-  "explanation": "\"En aftenrutine\" means \"an evening routine\", the things you do each night before bed, such as brushing your teeth or reading.",
+  "explanation": "\"En aftenrutine\" means \"an evening routine\". It is built from \"aften\" (evening) and \"rutine\" (routine). The part \"aften\" is also in \"aftensmad\" (dinner): \"Hvad skal vi have til aftensmad?\" (What are we having for dinner?)",
   "forms": [
    {
     "da": "en aftenrutine",
@@ -8417,7 +8381,7 @@
   }
  },
  "en aftenskole": {
-  "explanation": "\"En aftenskole\" means \"an evening class\", a course for adults who learn something in their free time, such as cooking or painting.",
+  "explanation": "\"En aftenskole\" means \"an evening class\". In Denmark, adults can take courses in the evening at a school of this kind, in subjects such as languages, cooking or painting. It is built from \"aften\" (evening) and \"skole\" (school).",
   "forms": [
    {
     "da": "en aftenskole",
@@ -8460,7 +8424,7 @@
   }
  },
  "en aftentur": {
-  "explanation": "\"En aftentur\" means \"an evening walk\", a calm walk after dinner. It is built from aften (evening) and tur (walk, trip). You can also say \"Skal vi tage en tur?\" (Shall we go for a walk?), using only \"tur\".",
+  "explanation": "\"En aftentur\" means \"an evening walk\". It is built from \"aften\" (evening) and \"tur\" (walk, trip). To suggest a walk without saying when, use \"tur\" with \"at tage\" (to take): \"Skal vi tage en tur?\" (Shall we go for a walk?)",
   "forms": [
    {
     "da": "en aftentur",
@@ -8503,7 +8467,7 @@
   }
  },
  "en aftrækker": {
-  "explanation": "\"En aftrækker\" means \"a trigger\", the small lever on a gun that you pull to shoot. For the cause that sets off an allergy attack or a reaction, use \"en udløser\" (a trigger) instead.",
+  "explanation": "\"En aftrækker\" means \"a trigger\", as in the part of a gun. Do not use it for something that sets off a reaction. That is \"en udløser\" (a trigger): \"Stress kan være en udløser for migræne\" (Stress can be a trigger for migraine).",
   "forms": [
    {
     "da": "en aftrækker",
@@ -8546,7 +8510,7 @@
   }
  },
  "en afveksling": {
-  "explanation": "\"En afveksling\" means \"a variety\" or \"a change\", something different that breaks up a routine. It is common in \"til afveksling\" (for a change): \"Til afveksling lavede han mad\" (For a change, he cooked).",
+  "explanation": "\"En afveksling\" means \"a variety or change\". To say someone does something for a change, use \"til afveksling\": \"Til afveksling lavede han mad\" (For a change, he cooked).",
   "forms": [
    {
     "da": "en afveksling",
@@ -8585,7 +8549,7 @@
   }
  },
  "en afvigelse": {
-  "explanation": "\"En afvigelse\" means \"a deviation\", a difference from what is normal, expected or planned.",
+  "explanation": "\"En afvigelse\" means \"a deviation\". It comes from the verb \"at afvige\" (to deviate).",
   "forms": [
    {
     "da": "en afvigelse",
@@ -8606,10 +8570,6 @@
   ],
   "related": [
    {
-    "da": "at afvige",
-    "en": "to deviate"
-   },
-   {
     "da": "en undtagelse",
     "en": "an exception"
    },
@@ -8620,6 +8580,10 @@
    {
     "da": "en norm",
     "en": "a norm"
+   },
+   {
+    "da": "en forskel",
+    "en": "a difference"
    }
   ],
   "sentence": {
@@ -8628,7 +8592,7 @@
   }
  },
  "en agent": {
-  "explanation": "\"En agent\" means \"an agent\", someone who acts for another person and handles their deals. It also means a spy: \"en hemmelig agent\" (a secret agent).",
+  "explanation": "\"En agent\" means \"an agent\", as in a person who handles deals for an actor or athlete. When you talk about a spy, it has a different meaning: \"en hemmelig agent\" (a secret agent).",
   "forms": [
    {
     "da": "en agent",
@@ -8671,7 +8635,7 @@
   }
  },
  "en agurk": {
-  "explanation": "\"En agurk\" means \"a cucumber\", a long, green vegetable that is crisp and watery. Pickled ones are \"syltede agurker\" (pickled cucumbers).",
+  "explanation": "\"En agurk\" means \"a cucumber\". To talk about cucumbers kept in a jar, use \"syltede agurker\" (pickled cucumbers): \"Der er syltede agurker i glasset\" (There are pickled cucumbers in the jar).",
   "forms": [
    {
     "da": "en agurk",
@@ -8710,7 +8674,7 @@
   }
  },
  "en airbag": {
-  "explanation": "\"En airbag\" means \"an airbag\", the cushion that fills with air in a crash to protect the people in the car.",
+  "explanation": "\"En airbag\" means \"an airbag\". When you write \"the airbag\", double the g: \"airbaggen\", not \"airbagen\".",
   "forms": [
    {
     "da": "en airbag",
@@ -8741,10 +8705,6 @@
    {
     "da": "en bremse",
     "en": "a brake"
-   },
-   {
-    "da": "et uheld",
-    "en": "an accident"
    }
   ],
   "sentence": {
@@ -8753,7 +8713,7 @@
   }
  },
  "en airfryer": {
-  "explanation": "\"En airfryer\" means \"an air fryer\", a small oven that cooks with hot air and little oil, so food turns crispy.",
+  "explanation": "\"En airfryer\" means \"an air fryer\". Danish writes it as one word, \"airfryer\", not as two words like English.",
   "forms": [
    {
     "da": "en airfryer",
@@ -8792,7 +8752,7 @@
   }
  },
  "en aktie": {
-  "explanation": "\"En aktie\" means \"a share\" in a company. Its price changes every day, and it can pay money back to its owner each year, called \"udbytte\" (a dividend).",
+  "explanation": "\"En aktie\" means \"a share\", as in a part of a company. To say which company, add \"i\" (in): \"Hun ejer aktier i et dansk firma\" (She owns shares in a Danish company).",
   "forms": [
    {
     "da": "en aktie",
@@ -8835,7 +8795,7 @@
   }
  },
  "en aktiekurs": {
-  "explanation": "\"En aktiekurs\" means \"a share price\", what one piece of a company costs to buy right now. It changes all the time while the market is open.",
+  "explanation": "\"En aktiekurs\" means \"a share price\". It is built from \"aktie\" (share) and \"kurs\" (rate). To say the price goes down, use \"at falde\" (to fall): \"Aktiekursen faldt i dag\" (The share price fell today).",
   "forms": [
    {
     "da": "en aktiekurs",
@@ -8878,7 +8838,7 @@
   }
  },
  "en aktivitet": {
-  "explanation": "\"En aktivitet\" means \"an activity\", something you do for fun or to keep fit, like hiking or board games. It is also used for things a school or club plans for people to do: \"aktiviteter for børn\" (activities for children).",
+  "explanation": "\"En aktivitet\" means \"an activity\". When a school or club plans things for a group to do, Danish uses the plural: \"Der er mange aktiviteter for børn i sommerferien\" (There are many activities for children in the summer holiday).",
   "forms": [
    {
     "da": "en aktivitet",
@@ -8921,7 +8881,7 @@
   }
  },
  "en akvariefisk": {
-  "explanation": "\"En akvariefisk\" means \"an aquarium fish\", a fish kept at home in a tank. It is built from akvarium (aquarium) and fisk (fish).",
+  "explanation": "\"En akvariefisk\" means \"an aquarium fish\". It is built from \"akvarium\" (aquarium) and \"fisk\" (fish). For more than one fish, the word stays the same, with no ending: \"Vi har fem akvariefisk\" (We have five aquarium fish).",
   "forms": [
    {
     "da": "en akvariefisk",
@@ -8950,8 +8910,8 @@
     "en": "fish food"
    },
    {
-    "da": "en tropefisk",
-    "en": "a tropical fish"
+    "da": "en dyrehandel",
+    "en": "a pet shop"
    },
    {
     "da": "et kæledyr",
@@ -8964,7 +8924,7 @@
   }
  },
  "en alarm": {
-  "explanation": "\"En alarm\" means \"an alarm\", both a warning sound and the wake-up alarm on a phone. To turn it off, say \"Jeg slukker alarmen\" (I turn off the alarm).",
+  "explanation": "\"En alarm\" means \"an alarm\". When a warning sounds, say \"Alarmen går!\" (The alarm is going off!) To set a wake-up alarm on your phone, say \"Jeg stiller en alarm til klokken syv\" (I set an alarm for seven o'clock).",
   "forms": [
    {
     "da": "en alarm",
@@ -9007,7 +8967,7 @@
   }
  },
  "en alarmklokke": {
-  "explanation": "\"En alarmklokke\" means \"an alarm bell\", a bell that sounds to warn people. It is built from alarm (alarm) and klokke (bell). \"Klokke\" also means \"clock\": \"Hvad er klokken?\" (What time is it?)",
+  "explanation": "\"En alarmklokke\" means \"an alarm bell\". It is built from \"alarm\" (alarm) and \"klokke\" (bell). The part \"klokke\" also means \"clock\" when you ask the time: \"Hvad er klokken?\" (What time is it?)",
   "forms": [
    {
     "da": "en alarmklokke",
@@ -9046,7 +9006,7 @@
   }
  },
  "en albue": {
-  "explanation": "\"En albue\" means \"an elbow\". Where English says \"my elbow\", Danes often use the \"the\" form: \"Jeg har slået albuen\" (I hit my elbow), literally \"I hit the elbow\".",
+  "explanation": "\"En albue\" means \"an elbow\". Danish can use \"albuen\" (the elbow) for your own elbow: \"Jeg har slået albuen\" (I hit my elbow), literally \"I hit the elbow\".",
   "forms": [
    {
     "da": "en albue",
@@ -9089,7 +9049,7 @@
   }
  },
  "en alder": {
-  "explanation": "\"En alder\" means \"an age\", how old someone is. To ask, Danes say \"Hvor gammel er du?\" (How old are you?) with \"gammel\" (old), not \"alder\". You will also see it in \"i min alder\" (at my age).",
+  "explanation": "\"En alder\" means \"an age\". To ask how old someone is, Danish does not use \"alder\". It uses \"gammel\" (old): \"Hvor gammel er du?\" (How old are you?) To say \"at my age\", use \"i min alder\": \"Det er svært i min alder\" (It is hard at my age).",
   "forms": [
    {
     "da": "en alder",
@@ -9124,7 +9084,7 @@
   }
  },
  "en algoritme": {
-  "explanation": "\"En algoritme\" means \"an algorithm\", a set of rules that a computer follows to solve a problem or make a choice. Apps use algorithms to decide what to show you.",
+  "explanation": "\"En algoritme\" means \"an algorithm\". Danish spells it without an \"h\": \"algoritme\", not \"algorithm\".",
   "forms": [
    {
     "da": "en algoritme",
@@ -9167,7 +9127,7 @@
   }
  },
  "en alkoholiker": {
-  "explanation": "\"En alkoholiker\" means \"an alcoholic\", a person who is dependent on alcohol and finds it very hard to stop drinking.",
+  "explanation": "\"En alkoholiker\" means \"an alcoholic\". It is built from \"alkohol\" (alcohol). Danish spells it with \"k\", not \"c\".",
   "forms": [
    {
     "da": "en alkoholiker",
@@ -9210,7 +9170,7 @@
   }
  },
  "en allergi": {
-  "explanation": "\"En allergi\" means \"an allergy\", when your body reacts badly to something like nuts, pollen or cats. To name the substance you react to, put its name in front of \"allergi\" as one word: \"en pollenallergi\" (a pollen allergy).",
+  "explanation": "\"En allergi\" means \"an allergy\". To name what you react to, put its name in front of \"allergi\" as one word: \"en pollenallergi\" (a pollen allergy).",
   "forms": [
    {
     "da": "en allergi",
@@ -9249,7 +9209,7 @@
   }
  },
  "en alliance": {
-  "explanation": "\"En alliance\" means \"an alliance\", an agreement between countries or groups to support each other, often in politics or war.",
+  "explanation": "\"En alliance\" means \"an alliance\". To say who the alliance is with, add \"med\" (with): \"Vi har en alliance med vores naboer\" (We have an alliance with our neighbors).",
   "forms": [
    {
     "da": "en alliance",
@@ -9292,7 +9252,7 @@
   }
  },
  "en allieret": {
-  "explanation": "\"En allieret\" means \"an ally\", a country or person that stands on your side and helps you in a conflict. In history, \"De Allierede\" (the Allies) were the countries that fought Germany in World War II.",
+  "explanation": "\"En allieret\" means \"an ally\". When you talk about history, \"de allierede\" (the allies) are the countries that fought Germany in World War II: \"Danmark blev befriet af de allierede i 1945\" (Denmark was freed by the Allies in 1945).",
   "forms": [
    {
     "da": "en allieret",
@@ -9331,7 +9291,7 @@
   }
  },
  "en altan": {
-  "explanation": "\"En altan\" means \"a balcony\", the small outdoor space attached to an apartment.",
+  "explanation": "\"En altan\" means \"a balcony\". The part \"altan\" is also in \"en altankasse\" (a balcony planter box): \"Jeg har blomster i en altankasse\" (I have flowers in a balcony planter box).",
   "forms": [
    {
     "da": "en altan",
@@ -9356,8 +9316,8 @@
     "en": "a patio"
    },
    {
-    "da": "en have",
-    "en": "a garden"
+    "da": "en tagterrasse",
+    "en": "a roof terrace"
    },
    {
     "da": "en veranda",
@@ -9370,7 +9330,7 @@
   }
  },
  "en amatør": {
-  "explanation": "\"En amatør\" means \"an amateur\", someone who does something for love of it and not as a paid job. It can also be an insult for a person who does a poor job: \"Sikke en amatør!\" (What an amateur!)",
+  "explanation": "\"En amatør\" means \"an amateur\". To call a person who does a poor job an amateur, say \"Sikke en amatør!\" (What an amateur!) This is an insult.",
   "forms": [
    {
     "da": "en amatør",
@@ -9413,7 +9373,7 @@
   }
  },
  "en ambassade": {
-  "explanation": "\"En ambassade\" means \"an embassy\", one country's office in another country, where its citizens can get help.",
+  "explanation": "\"En ambassade\" means \"an embassy\". To say you are going to the embassy, use \"på\" (at): \"Vi skal på ambassaden i morgen\" (We are going to the embassy tomorrow).",
   "forms": [
    {
     "da": "en ambassade",
@@ -9452,7 +9412,7 @@
   }
  },
  "en ambassadør": {
-  "explanation": "\"En ambassadør\" means \"an ambassador\", the top representative of one country in another, who works at \"en ambassade\" (an embassy). It is also used for a well-known person who speaks for a brand or a cause.",
+  "explanation": "\"En ambassadør\" means \"an ambassador\". When a well-known person speaks for a cause, the word fits too: \"Hun er ambassadør for en velgørenhedsorganisation\" (She is an ambassador for a charity).",
   "forms": [
    {
     "da": "en ambassadør",
@@ -9491,7 +9451,7 @@
   }
  },
  "en ambition": {
-  "explanation": "\"En ambition\" means \"an ambition\", a strong wish to achieve something big in your work or life. A common phrase is \"at have ambitioner\" (to have ambitions).",
+  "explanation": "\"En ambition\" means \"an ambition\". To say someone has big goals, use \"at have\" (to have) and the plural: \"De har store ambitioner for firmaet\" (They have big ambitions for the firm).",
   "forms": [
    {
     "da": "en ambition",
@@ -9534,7 +9494,7 @@
   }
  },
  "en ambulance": {
-  "explanation": "\"En ambulance\" means \"an ambulance\", a vehicle that takes sick or hurt people to the hospital. In an emergency in Denmark, you call 112.",
+  "explanation": "\"En ambulance\" means \"an ambulance\". In Denmark, you call the emergency number 112 to get one: \"Ring til 112!\" (Call 112!)",
   "forms": [
    {
     "da": "en ambulance",
@@ -9573,7 +9533,7 @@
   }
  },
  "en amerikaner": {
-  "explanation": "\"En amerikaner\" means \"an American\", a person from the USA, used for both men and women. It does not start with an uppercase letter: \"Hun er amerikaner\" (She is an American).",
+  "explanation": "\"En amerikaner\" means \"an American\". It is built from \"Amerika\" (America). Danish writes it with a small first letter: \"amerikaner\", not \"Amerikaner\". In a Danish bakery, \"en amerikaner\" is also a flat, round cake with icing: \"Vi køber to amerikanere hos bageren\" (We buy two amerikaner cakes at the baker).",
   "forms": [
    {
     "da": "en amerikaner",
@@ -9612,7 +9572,7 @@
   }
  },
  "en analyse": {
-  "explanation": "\"En analyse\" means \"an analysis\", a careful look that breaks something into parts to understand it: \"Vi laver en analyse af tallene\" (We do an analysis of the numbers).",
+  "explanation": "\"En analyse\" means \"an analysis\". To say what you analyze, add \"af\" (of): \"Vi laver en analyse af tallene\" (We do an analysis of the numbers).",
   "forms": [
    {
     "da": "en analyse",
@@ -9655,7 +9615,7 @@
   }
  },
  "en ananas": {
-  "explanation": "\"En ananas\" means \"a pineapple\", a tropical fruit with a rough, spiky skin and juicy flesh.",
+  "explanation": "\"En ananas\" means \"a pineapple\". Danish doubles the s before an ending, so \"the pineapple\" is \"ananassen\" with two s's.",
   "forms": [
    {
     "da": "en ananas",
@@ -9694,7 +9654,7 @@
   }
  },
  "en anbefaling": {
-  "explanation": "\"En anbefaling\" means \"a recommendation\", advice about what is good or what you should do, from a friend or from a doctor.",
+  "explanation": "\"En anbefaling\" means \"a recommendation\". To say who told you about a place, use \"på anbefaling af\" (on the recommendation of): \"Vi kom på anbefaling af en ven\" (We came on a friend's recommendation).",
   "forms": [
    {
     "da": "en anbefaling",
@@ -9737,7 +9697,7 @@
   }
  },
  "en and": {
-  "explanation": "\"En and\" means \"a duck\". Its \"the\" form, \"anden\" (the duck), is spelled the same as \"anden\" (the other, the second): \"Anden svømmer\" (The duck swims) and \"Jeg tager den anden\" (I take the other one). The context of the sentence tells you which one it is.",
+  "explanation": "\"En and\" means \"a duck\". The form for \"the duck\" is \"anden\". The same spelling is also the word for \"the other\". To talk about the duck, say \"Anden svømmer\" (The duck swims). To point to the other one of two things, say \"Jeg tager den anden\" (I take the other one).",
   "forms": [
    {
     "da": "en and",
@@ -9776,7 +9736,7 @@
   }
  },
  "en andel": {
-  "explanation": "\"En andel\" means \"a share\" or \"a portion\", a part of a whole: \"andelen af ældre vokser\" (the share of older people is growing). In housing, \"en andelsbolig\" (a co-op apartment) is one where you own a share of the building.",
+  "explanation": "\"En andel\" means \"a share or portion\". To talk about a part of a whole group, use \"andelen af\" (the share of): \"Andelen af ældre vokser\" (The share of older people is growing). The word \"andel\" is also in \"en andelsbolig\" (a cooperative apartment): \"Vi bor i en andelsbolig\" (We live in a cooperative apartment).",
   "forms": [
    {
     "da": "en andel",
@@ -9819,7 +9779,7 @@
   }
  },
  "en andelsbolig": {
-  "explanation": "\"En andelsbolig\" means \"a cooperative apartment\", a home in a building that the residents own together. You pay a monthly fee for it instead of owning the walls yourself.",
+  "explanation": "\"En andelsbolig\" means \"a cooperative apartment\". It is built from \"andel\" (share) and \"bolig\" (home). In Denmark, the monthly fee you pay for one is called \"boligafgift\" (housing fee).",
   "forms": [
    {
     "da": "en andelsbolig",
@@ -9862,7 +9822,7 @@
   }
  },
  "en anekdote": {
-  "explanation": "\"En anekdote\" means \"an anecdote\", a short episode from real life that you tell to others, often about a person and often with a laugh.",
+  "explanation": "\"En anekdote\" means \"an anecdote\". Danish spells it with \"k\", not \"c\": \"anekdote\".",
   "forms": [
    {
     "da": "en anekdote",
@@ -9905,7 +9865,7 @@
   }
  },
  "en anelse": {
-  "explanation": "\"En anelse\" means \"a hint\" or \"a slight idea\". It can mean a tiny amount: \"en anelse bedre\" (a touch better). It can also mean a vague idea: \"Har du en anelse om hvorfor?\" (Do you have any idea why?)",
+  "explanation": "\"En anelse\" means \"a hint or slight idea\". To say something is a touch better, put \"en anelse\" before the describing word: \"Det er en anelse bedre\" (It is a touch better). To ask whether someone has any idea, say \"Har du en anelse om hvorfor?\" (Do you have any idea why?)",
   "forms": [
    {
     "da": "en anelse",
@@ -9948,7 +9908,7 @@
   }
  },
  "en anfører": {
-  "explanation": "\"En anfører\" means \"a team captain\", the player who is in charge of a sports team on the field. It comes from \"at anføre\" (to lead).",
+  "explanation": "\"En anfører\" means \"a captain (team)\". It comes from the verb \"at anføre\" (to lead).",
   "forms": [
    {
     "da": "en anfører",
@@ -9987,7 +9947,7 @@
   }
  },
  "en angriber": {
-  "explanation": "\"En angriber\" means \"a forward\" in sport, a player whose job is to score goals. Outside sport it means \"an attacker\", a person who carries out an assault on someone.",
+  "explanation": "\"En angriber\" means \"a forward or attacker\". Outside sport, when someone attacks a person, use it for \"attacker\": \"Angriberen løb væk\" (The attacker ran away).",
   "forms": [
    {
     "da": "en angriber",
@@ -10030,7 +9990,7 @@
   }
  },
  "en anholdelse": {
-  "explanation": "\"En anholdelse\" means \"an arrest\", when the police take a person into custody because they are suspected of a crime.",
+  "explanation": "\"En anholdelse\" means \"an arrest\". To say a person was arrested, use \"anholdt\" (arrested) with \"blive\" (to be): \"Han blev anholdt i går\" (He was arrested yesterday).",
   "forms": [
    {
     "da": "en anholdelse",
@@ -10073,7 +10033,7 @@
   }
  },
  "en ankel": {
-  "explanation": "\"En ankel\" means \"an ankle\", the joint you sprain when you twist your foot. A common phrase is \"at forstuve anklen\" (to sprain your ankle).",
+  "explanation": "\"En ankel\" means \"an ankle\". To say you sprained your ankle, use \"at forstuve\" (to sprain): \"Jeg har forstuvet anklen\" (I have sprained my ankle).",
   "forms": [
    {
     "da": "en ankel",
@@ -10116,7 +10076,7 @@
   }
  },
  "en anklage": {
-  "explanation": "\"En anklage\" means \"an accusation\", a statement that someone has done something wrong, often a crime. You bring one with \"at rejse en anklage mod nogen\" (to bring an accusation against someone).",
+  "explanation": "\"En anklage\" means \"an accusation\". It comes from the verb \"at anklage\" (to accuse). To say someone brings an accusation, use \"at rejse\" (to raise): \"De rejser en anklage mod ham\" (They bring an accusation against him).",
   "forms": [
    {
     "da": "en anklage",
@@ -10159,7 +10119,7 @@
   }
  },
  "en anklager": {
-  "explanation": "\"En anklager\" means \"a prosecutor\", the lawyer who speaks in court for the state against a person charged with a crime. Do not mix it up with \"en anklage\" (an accusation), which is the charge itself and not the person.",
+  "explanation": "\"En anklager\" means \"a prosecutor\". Do not mix it up with \"en anklage\" (an accusation). \"En anklager\" is a person: \"Anklageren taler i retten\" (The prosecutor speaks in court). \"En anklage\" is a statement against someone: \"Anklagen er alvorlig\" (The accusation is serious).",
   "forms": [
    {
     "da": "en anklager",
@@ -10202,7 +10162,7 @@
   }
  },
  "en ankomst": {
-  "explanation": "\"En ankomst\" means \"an arrival\", the time a train, plane or person gets somewhere.",
+  "explanation": "\"En ankomst\" means \"an arrival\". To say \"on arrival\", use \"ved ankomsten\": \"Ved ankomsten skal du vise dit pas\" (On arrival you must show your passport).",
   "forms": [
    {
     "da": "en ankomst",
@@ -10245,7 +10205,7 @@
   }
  },
  "en ankomsthal": {
-  "explanation": "\"En ankomsthal\" means \"an arrivals hall\", the area in an airport where arriving passengers come out and meet people. It is built from ankomst (arrival) and hal (hall), and \"hal\" also means any big hall: \"en idrætshal\" (a sports hall).",
+  "explanation": "\"En ankomsthal\" means \"an arrivals hall\". It is built from \"ankomst\" (arrival) and \"hal\" (hall). The part \"hal\" is also in \"en idrætshal\" (a sports hall): \"Vi spiller håndbold i idrætshallen\" (We play handball in the sports hall).",
   "forms": [
    {
     "da": "en ankomsthal",
@@ -10284,7 +10244,7 @@
   }
  },
  "en anledning": {
-  "explanation": "\"En anledning\" means \"an occasion\", the event that something is done for, as in \"i anledning af hendes fødselsdag\" (on the occasion of her birthday). It can also mean a reason to do something: \"Jeg har ingen anledning til at klage\" (I have no reason to complain).",
+  "explanation": "\"En anledning\" means \"an occasion\". When you talk about a reason to do something, the word means \"reason\": \"Jeg har ingen anledning til at klage\" (I have no reason to complain).",
   "forms": [
    {
     "da": "en anledning",
@@ -10327,7 +10287,7 @@
   }
  },
  "en anmeldelse": {
-  "explanation": "\"En anmeldelse\" means \"a review\", a written opinion of a book, film or restaurant. It is also the word for reporting a crime to the police: \"at anmelde et tyveri\" (to report a theft).",
+  "explanation": "\"En anmeldelse\" means \"a review\", as in a written opinion of a book, film or restaurant. When you report a crime to the police, the word is \"en politianmeldelse\": \"Jeg vil gerne lave en politianmeldelse\" (I would like to file a police report).",
   "forms": [
    {
     "da": "en anmeldelse",
@@ -10370,7 +10330,7 @@
   }
  },
  "en anmelder": {
-  "explanation": "\"En anmelder\" means \"a reviewer\" or \"a critic\", a person who gives an opinion in \"en anmeldelse\" (a review) of a book, film or concert. It also means a person who reports a crime to the police.",
+  "explanation": "\"En anmelder\" means \"a reviewer or critic\". When someone reports a crime to the police, that person is \"anmelderen\": \"Anmelderen ringede til politiet\" (The person who reported the crime called the police).",
   "forms": [
    {
     "da": "en anmelder",
@@ -10413,7 +10373,7 @@
   }
  },
  "en anmodning": {
-  "explanation": "\"En anmodning\" means \"a request\", a formal one, usually written and sent to an authority or a company. Between people, Danes say \"at bede om\" (to ask for): \"Jeg vil bede om hjælp\" (I would like to ask for help).",
+  "explanation": "\"En anmodning\" means \"a request\". It is a formal word. For an everyday request, use \"at bede om\" (to ask for): \"Jeg vil bede om hjælp\" (I would like to ask for help).",
   "forms": [
    {
     "da": "en anmodning",
@@ -10456,7 +10416,7 @@
   }
  },
  "en annonce": {
-  "explanation": "\"En annonce\" means \"an advertisement\" in a paper or online. A TV or radio ad is usually \"en reklame\" (a commercial).",
+  "explanation": "\"En annonce\" means \"an advertisement\". For an ad on TV, use \"en reklame\" (a commercial): \"Der er en reklame i fjernsynet\" (There is a commercial on TV).",
   "forms": [
    {
     "da": "en annonce",
@@ -10495,7 +10455,7 @@
   }
  },
  "en ansat": {
-  "explanation": "\"En ansat\" means \"an employee\", a person who works for a company. To state that you work for a company, use \"er ansat\" (am employed): \"Jeg er ansat her\" (I am employed here).",
+  "explanation": "\"En ansat\" means \"an employee\". To say you work for a company, use \"er ansat\" (am employed): \"Jeg er ansat her\" (I am employed here).",
   "forms": [
    {
     "da": "en ansat",
@@ -10538,7 +10498,7 @@
   }
  },
  "en ansigtscreme": {
-  "explanation": "\"En ansigtscreme\" means \"a face cream\", a cream that keeps your skin soft. It is built from ansigt (face) and creme (cream).",
+  "explanation": "\"En ansigtscreme\" means \"a face cream\". Danish spells \"cream\" as \"creme\", and joins \"ansigt\" (face) to it with an \"s\".",
   "forms": [
    {
     "da": "en ansigtscreme",
@@ -10581,7 +10541,7 @@
   }
  },
  "en ansættelse": {
-  "explanation": "\"En ansættelse\" means \"an employment\" or \"a hiring\", when a company takes a person on to work for it. You use it for the hiring itself: \"ansættelsen af en ny chef\" (the hiring of a new boss).",
+  "explanation": "\"En ansættelse\" means \"an employment or hiring\". To say who is being hired, add \"af\" (of): \"ansættelsen af en ny chef\" (the hiring of a new boss).",
   "forms": [
    {
     "da": "en ansættelse",
@@ -10624,7 +10584,7 @@
   }
  },
  "en ansættelseskontrakt": {
-  "explanation": "\"En ansættelseskontrakt\" means \"an employment contract\", the written agreement between you and your employer. You sign it when you start a new job.",
+  "explanation": "\"En ansættelseskontrakt\" means \"an employment contract\". It is built from \"ansættelse\" (employment) and \"kontrakt\" (contract). To say you signed it, use \"at skrive under på\" (to sign): \"Jeg skrev under på ansættelseskontrakten i går\" (I signed the employment contract yesterday).",
   "forms": [
    {
     "da": "en ansættelseskontrakt",
@@ -10667,7 +10627,7 @@
   }
  },
  "en ansættelsessamtale": {
-  "explanation": "\"En ansættelsessamtale\" means \"a job interview\", a meeting where an employer talks with a candidate to decide whether to hire them. In daily talk Danes also say \"en jobsamtale\" (a job interview).",
+  "explanation": "\"En ansættelsessamtale\" means \"a job interview\". It is built from \"ansættelse\" (employment) and \"samtale\" (conversation). Another word for the same thing is \"en jobsamtale\": \"Jeg har en jobsamtale i morgen\" (I have a job interview tomorrow).",
   "forms": [
    {
     "da": "en ansættelsessamtale",
@@ -10710,7 +10670,7 @@
   }
  },
  "en ansøgning": {
-  "explanation": "\"En ansøgning\" means \"an application\", a letter asking for something, usually a job or a place at a school.",
+  "explanation": "\"En ansøgning\" means \"an application\". To say what you apply for, add \"om\" (for): \"Hun skriver en ansøgning om et job\" (She writes an application for a job).",
   "forms": [
    {
     "da": "en ansøgning",
@@ -10749,7 +10709,7 @@
   }
  },
  "en ansøgningsfrist": {
-  "explanation": "\"En ansøgningsfrist\" means \"an application deadline\", the last day you can send in an application, for example for a job or a study place.",
+  "explanation": "\"En ansøgningsfrist\" means \"an application deadline\". It is built from \"ansøgning\" (application) and \"frist\" (deadline). To say you meet it, use \"at overholde\" (to keep to): \"Du skal overholde ansøgningsfristen\" (You must meet the application deadline).",
   "forms": [
    {
     "da": "en ansøgningsfrist",
@@ -10792,7 +10752,7 @@
   }
  },
  "en antagelse": {
-  "explanation": "\"En antagelse\" means \"an assumption\", something you believe is true without having checked it. The matching verb is \"at antage\" (to assume).",
+  "explanation": "\"En antagelse\" means \"an assumption\". It comes from the verb \"at antage\" (to assume). To say an assumption is fair, use \"rimelig\" (reasonable): \"Det er en rimelig antagelse\" (That is a fair assumption).",
   "forms": [
    {
     "da": "en antagelse",
@@ -10835,7 +10795,7 @@
   }
  },
  "en antydning": {
-  "explanation": "\"En antydning\" means \"a hint\", something said or shown indirectly instead of straight out: \"Hun gav en antydning af, at hun ville flytte\" (She dropped a hint that she would move). Do not mix it up with \"en anelse\" (a slight idea), which is what you have yourself: \"Jeg har en anelse om svaret\" (I have a slight idea of the answer).",
+  "explanation": "\"En antydning\" means \"a hint\". To say someone hinted at something, use \"give en antydning af\" (give a hint of): \"Hun gav en antydning af, at hun ville flytte\" (She dropped a hint that she would move). Do not mix it up with \"en anelse\" (a slight idea). \"En anelse\" is what you have yourself: \"Jeg har en anelse om svaret\" (I have a slight idea of the answer).",
   "forms": [
    {
     "da": "en antydning",
@@ -10878,7 +10838,7 @@
   }
  },
  "en apoteker": {
-  "explanation": "\"En apoteker\" means \"a pharmacist\", a person with a university degree in medicines, often the one in charge of \"et apotek\" (a pharmacy).",
+  "explanation": "\"En apoteker\" means \"a pharmacist\". It is built from \"apotek\" (pharmacy). To say you are going to the pharmacy, use \"på apoteket\": \"Jeg skal på apoteket\" (I am going to the pharmacy).",
   "forms": [
    {
     "da": "en apoteker",
@@ -10917,7 +10877,7 @@
   }
  },
  "en app": {
-  "explanation": "\"En app\" means \"an app\", a small piece of software on your phone or tablet. To download one, Danes say \"at hente en app\" (literally, to fetch an app), and to open it, \"at åbne appen\" (to open the app).",
+  "explanation": "\"En app\" means \"an app\". To tell someone to open one, use \"at åbne\" (to open): \"Åbn appen\" (Open the app).",
   "forms": [
    {
     "da": "en app",
@@ -10956,7 +10916,7 @@
   }
  },
  "en appelsin": {
-  "explanation": "\"En appelsin\" means \"an orange\", the fruit. English uses \"orange\" for both fruit and color, but Danish has two words: \"appelsin\" for the fruit and \"orange\" for the color, as in \"en orange bold\" (an orange ball).",
+  "explanation": "\"En appelsin\" means \"an orange\", as in the fruit. For the color, Danish uses \"orange\": \"en orange bold\" (an orange ball).",
   "forms": [
    {
     "da": "en appelsin",
@@ -10995,7 +10955,7 @@
   }
  },
  "en araber": {
-  "explanation": "\"En araber\" means \"an Arab\", a person from the Arabic-speaking world. It describes people by language and culture, not by religion.",
+  "explanation": "\"En araber\" means \"an Arab\". Danish writes it with a small first letter: \"araber\", not \"Araber\". To name the language, use \"arabisk\" (Arabic): \"Han taler arabisk\" (He speaks Arabic).",
   "forms": [
    {
     "da": "en araber",
@@ -11038,7 +10998,7 @@
   }
  },
  "en arbejdsbyrde": {
-  "explanation": "\"En arbejdsbyrde\" means \"a workload\", the amount of work you have to handle. It is built from arbejde (work) and byrde (burden): \"en tung arbejdsbyrde\" (a heavy workload).",
+  "explanation": "\"En arbejdsbyrde\" means \"a workload\". It is built from \"arbejde\" (work) and \"byrde\" (burden). To say the work is too much, call the workload heavy: \"en tung arbejdsbyrde\" (a heavy workload).",
   "forms": [
    {
     "da": "en arbejdsbyrde",
@@ -11081,7 +11041,7 @@
   }
  },
  "en arbejdsdag": {
-  "explanation": "\"En arbejdsdag\" means \"a working day\", the hours you spend at work in a day. The opposite is \"en fridag\" (a day off).",
+  "explanation": "\"En arbejdsdag\" means \"a working day\". It is built from \"arbejde\" (work) and \"dag\" (day). To say a day at work is long, say \"en lang arbejdsdag\" (a long working day).",
   "forms": [
    {
     "da": "en arbejdsdag",
@@ -11106,16 +11066,16 @@
     "en": "a workplace"
    },
    {
-    "da": "et arbejde",
-    "en": "a job / work"
-   },
-   {
     "da": "en hverdag",
     "en": "a weekday"
    },
    {
     "da": "en arbejdstid",
     "en": "working hours"
+   },
+   {
+    "da": "en fridag",
+    "en": "a day off"
    }
   ],
   "sentence": {
@@ -11124,7 +11084,7 @@
   }
  },
  "en arbejdsgiver": {
-  "explanation": "\"En arbejdsgiver\" means \"an employer\", the person or company you work for. It is built from arbejde (work) and at give (to give): the one who gives you work. The ending \"giver\" works the same in \"en rådgiver\" (an adviser), someone who gives råd (advice).",
+  "explanation": "\"En arbejdsgiver\" means \"an employer\". It is built from \"arbejde\" (work) and \"at give\" (to give). The ending \"giver\" is also in \"en rådgiver\" (an adviser), someone who gives råd (advice): \"Hun er min rådgiver\" (She is my adviser).",
   "forms": [
    {
     "da": "en arbejdsgiver",
@@ -11167,7 +11127,7 @@
   }
  },
  "en arbejdsopgave": {
-  "explanation": "\"En arbejdsopgave\" means \"a work task\", one specific job in your day at work, such as answering emails or writing a report.",
+  "explanation": "\"En arbejdsopgave\" means \"a work task\". It is built from \"arbejde\" (work) and \"opgave\" (task). To say you have been given a new one, use \"at få\" (to get): \"Jeg har fået en ny arbejdsopgave\" (I have a new work task).",
   "forms": [
    {
     "da": "en arbejdsopgave",
@@ -11210,7 +11170,7 @@
   }
  },
  "en arbejdsplads": {
-  "explanation": "\"En arbejdsplads\" means \"a workplace\", the place where you work. It is built from arbejde (work) and plads (place). \"Plads\" also means room or space: \"Der er plads til alle\" (There is room for everyone).",
+  "explanation": "\"En arbejdsplads\" means \"a workplace\". It is built from \"arbejde\" (work) and \"plads\" (place). The part \"plads\" also means room or space: \"Der er plads til alle\" (There is room for everyone).",
   "forms": [
    {
     "da": "en arbejdsplads",
@@ -11249,7 +11209,7 @@
   }
  },
  "en arbejdsskade": {
-  "explanation": "\"En arbejdsskade\" means \"a work injury\", an injury or illness caused by your job. In Denmark it can give you the right to compensation.",
+  "explanation": "\"En arbejdsskade\" means \"a work injury\". It is built from \"arbejde\" (work) and \"skade\" (injury). In Denmark, a work injury can give you the right to compensation.",
   "forms": [
    {
     "da": "en arbejdsskade",
@@ -11292,7 +11252,7 @@
   }
  },
  "en arbejdstager": {
-  "explanation": "\"En arbejdstager\" means \"an employee\", a person who works for someone else. Its partner is \"en arbejdsgiver\" (an employer). You mostly read it in contracts and laws; in daily talk people say \"en medarbejder\" (a staff member).",
+  "explanation": "\"En arbejdstager\" means \"an employee\". It is built from \"arbejde\" (work) and \"at tage\" (to take): the one who takes work. The opposite is \"en arbejdsgiver\" (an employer): \"Arbejdsgiveren betaler arbejdstageren\" (The employer pays the employee).",
   "forms": [
    {
     "da": "en arbejdstager",
@@ -11335,7 +11295,7 @@
   }
  },
  "en arbejdstilladelse": {
-  "explanation": "\"En arbejdstilladelse\" means \"a work permit\", official permission for a person from another country to work. Many people from outside the EU need one.",
+  "explanation": "\"En arbejdstilladelse\" means \"a work permit\". It is built from \"arbejde\" (work) and \"tilladelse\" (permission). To say you are applying for one, use \"at søge om\" (to apply for): \"Jeg søger om en arbejdstilladelse\" (I am applying for a work permit).",
   "forms": [
    {
     "da": "en arbejdstilladelse",
@@ -11378,7 +11338,7 @@
   }
  },
  "en arkitekt": {
-  "explanation": "\"En arkitekt\" means \"an architect\", a person who designs buildings and plans how they will look. It is used for both men and women.",
+  "explanation": "\"En arkitekt\" means \"an architect\". Danish spells it with \"k\", not \"ch\": \"arkitekt\".",
   "forms": [
    {
     "da": "en arkitekt",
@@ -11417,7 +11377,7 @@
   }
  },
  "en arm": {
-  "explanation": "\"En arm\" means \"an arm\". Where English says \"her arm\", Danes often use the \"the\" form: \"Hun har brækket armen\" (She has broken her arm), literally \"She has broken the arm\".",
+  "explanation": "\"En arm\" means \"an arm\". Danish can use \"armen\" (the arm) for your own arm: \"Hun har brækket armen\" (She has broken her arm), literally \"She has broken the arm\".",
   "forms": [
    {
     "da": "en arm",
@@ -11460,7 +11420,7 @@
   }
  },
  "en armbøjning": {
-  "explanation": "\"En armbøjning\" means \"a push-up\", a classic exercise for your arms and chest. A common verb with it is \"at lave\" (to make): \"at lave tyve armbøjninger\" (to do twenty push-ups).",
+  "explanation": "\"En armbøjning\" means \"a push-up\". It is built from \"arm\" (arm) and \"bøjning\" (bending).",
   "forms": [
    {
     "da": "en armbøjning",
@@ -11503,7 +11463,7 @@
   }
  },
  "en arrangør": {
-  "explanation": "\"En arrangør\" means \"an organizer\", a person or group that plans and runs something like a concert or a race.",
+  "explanation": "\"En arrangør\" means \"an organizer\". It comes from the verb \"at arrangere\" (to organize). To say what someone organizes, add \"af\" (of): \"Han er arrangør af koncerten\" (He is the organizer of the concert).",
   "forms": [
    {
     "da": "en arrangør",
@@ -11546,7 +11506,7 @@
   }
  },
  "en art": {
-  "explanation": "\"En art\" means \"a species\", one kind of animal or plant. It also means any kind of thing: \"en speciel art mad\" (a special kind of food).",
+  "explanation": "\"En art\" means \"a species\". To talk about an animal that may die out, use \"truet\" (endangered): \"Bjørnen er en truet art\" (The bear is an endangered species).",
   "forms": [
    {
     "da": "en art",
@@ -11589,7 +11549,7 @@
   }
  },
  "en artikel": {
-  "explanation": "\"En artikel\" means \"an article\", a piece of writing in a paper or on a website. For an item in a shop, use \"en vare\" (a product).",
+  "explanation": "\"En artikel\" means \"an article\", as in a piece of writing. In grammar, the word also names \"en\" and \"et\": \"På dansk er en og et artikler\" (In Danish, en and et are articles).",
   "forms": [
    {
     "da": "en artikel",
@@ -11632,7 +11592,7 @@
   }
  },
  "en arv": {
-  "explanation": "\"En arv\" means \"an inheritance\", money or things you receive when someone dies. It also means something passed down, like a tradition: \"en kulturarv\" (a cultural heritage).",
+  "explanation": "\"En arv\" means \"an inheritance\". When you talk about something passed down, such as traditions, use \"en kulturarv\" (a cultural heritage): \"Eventyr er en del af vores kulturarv\" (Fairy tales are part of our cultural heritage).",
   "forms": [
    {
     "da": "en arv",
@@ -11671,7 +11631,7 @@
   }
  },
  "en arving": {
-  "explanation": "\"En arving\" means \"an heir\", a person who has the right to receive things when someone dies. It belongs to the same family as \"arv\" (inheritance), and is also used for the throne: \"arving til tronen\" (heir to the throne).",
+  "explanation": "\"En arving\" means \"an heir\". It belongs to the same family as \"arv\" (inheritance). To talk about a royal heir, say \"arving til tronen\" (heir to the throne): \"Prinsen er arving til tronen\" (The prince is heir to the throne).",
   "forms": [
    {
     "da": "en arving",
@@ -11714,7 +11674,7 @@
   }
  },
  "en asiat": {
-  "explanation": "\"En asiat\" means \"an Asian\", a person with roots in the continent of Asia. To name the person's country, use the nationality word for that country: \"en thailænder\" (a Thai person).",
+  "explanation": "\"En asiat\" means \"an Asian\". Danish writes it with a small first letter: \"asiat\", not \"Asiat\". To name the person's country, use the nationality word for that country: \"en thailænder\" (a Thai person).",
   "forms": [
    {
     "da": "en asiat",
@@ -11757,7 +11717,7 @@
   }
  },
  "en assistent": {
-  "explanation": "\"En assistent\" means \"an assistant\", a person whose job is to help someone else with their work.",
+  "explanation": "\"En assistent\" means \"an assistant\". Danish ends it with \"-ent\", not \"-ant\": \"assistent\".",
   "forms": [
    {
     "da": "en assistent",
@@ -11800,7 +11760,7 @@
   }
  },
  "en astronaut": {
-  "explanation": "\"En astronaut\" means \"an astronaut\", a person who travels beyond Earth.",
+  "explanation": "\"En astronaut\" means \"an astronaut\". To say what you dream of being, use \"at blive\" (to become): \"Jeg vil gerne blive astronaut\" (I would like to become an astronaut).",
   "forms": [
    {
     "da": "en astronaut",
@@ -11839,7 +11799,7 @@
   }
  },
  "en asylansøger": {
-  "explanation": "\"En asylansøger\" means \"an asylum seeker\", someone who has arrived in a new country and asked to stay there because it is not safe at home. If the request is approved, the person becomes \"en flygtning\" (a refugee).",
+  "explanation": "\"En asylansøger\" means \"an asylum seeker\". It is built from \"asyl\" (asylum) and \"ansøger\" (applicant). To say someone asks for asylum, use \"at søge asyl\" (to seek asylum): \"Hun søger asyl i Danmark\" (She is seeking asylum in Denmark).",
   "forms": [
    {
     "da": "en asylansøger",
@@ -11882,7 +11842,7 @@
   }
  },
  "en atmosfære": {
-  "explanation": "\"En atmosfære\" means \"an atmosphere\", the layer of gases around the Earth. It also means the feeling in a place, like a room or a meeting.",
+  "explanation": "\"En atmosfære\" means \"an atmosphere\", as in the layer of gases around the Earth. When you talk about the feeling in a place, the word fits too: \"Der er en god atmosfære på kontoret\" (There is a good atmosphere in the office).",
   "forms": [
    {
     "da": "en atmosfære",
@@ -11907,16 +11867,12 @@
     "en": "a mood"
    },
    {
-    "da": "et klima",
-    "en": "a climate"
-   },
-   {
-    "da": "et miljø",
-    "en": "an environment"
-   },
-   {
     "da": "en stratosfære",
     "en": "a stratosphere"
+   },
+   {
+    "da": "en sfære",
+    "en": "a sphere"
    }
   ],
   "sentence": {
@@ -11925,7 +11881,7 @@
   }
  },
  "en attitude": {
-  "explanation": "\"En attitude\" means \"an attitude\", but Danes mostly use it in the slang sense of a bold, sometimes cocky way of acting. For an opinion or view, they say \"en holdning\" (a stance): \"en positiv holdning\" (a positive attitude).",
+  "explanation": "\"En attitude\" means \"an attitude\". In Danish, it means a bold, confident way of acting: \"Han har attitude\" (He has attitude). For a view or opinion, use \"en holdning\" (a stance): \"Hun har en positiv holdning\" (She has a positive attitude).",
   "forms": [
    {
     "da": "en attitude",
@@ -11968,7 +11924,7 @@
   }
  },
  "en aubergine": {
-  "explanation": "\"En aubergine\" means \"an eggplant\", the oval vegetable with shiny dark skin.",
+  "explanation": "\"En aubergine\" means \"an eggplant\". Danish uses the French spelling \"aubergine\", the same as British English.",
   "forms": [
    {
     "da": "en aubergine",
@@ -12011,7 +11967,7 @@
   }
  },
  "en auktion": {
-  "explanation": "\"En auktion\" means \"an auction\", a sale where people compete with offers and the highest offer wins.",
+  "explanation": "\"En auktion\" means \"an auction\". The word is also in \"et auktionshus\" (an auction house): \"Vi sælger billedet hos auktionshuset\" (We sell the painting at the auction house).",
   "forms": [
    {
     "da": "en auktion",
@@ -12042,10 +11998,6 @@
    {
     "da": "en auktionarius",
     "en": "an auctioneer"
-   },
-   {
-    "da": "en sælger",
-    "en": "a seller"
    }
   ],
   "sentence": {
@@ -12054,7 +12006,7 @@
   }
  },
  "en autograf": {
-  "explanation": "\"En autograf\" means \"an autograph\", what a famous person writes by hand for a fan. To ask for one, say \"Må jeg få en autograf?\" (May I have an autograph?)",
+  "explanation": "\"En autograf\" means \"an autograph\". Danish spells it with \"f\", not \"ph\": \"autograf\". To ask a famous person for one, say \"Må jeg få en autograf?\" (May I have an autograph?)",
   "forms": [
    {
     "da": "en autograf",
@@ -12093,7 +12045,7 @@
   }
  },
  "en autoritet": {
-  "explanation": "\"En autoritet\" means \"an authority\", someone with the right to decide, or with the trust others give because of what they know: \"en autoritet på området\" (an authority in the field). For government offices, Danes say \"myndighederne\" (the authorities).",
+  "explanation": "\"En autoritet\" means \"an authority\". To say someone is trusted because of what they know, use \"på området\" (in the field): \"Hun er en autoritet på området\" (She is an authority in the field). For government offices, use \"myndighederne\" (the authorities): \"Myndighederne undersøger sagen\" (The authorities are looking into the case).",
   "forms": [
    {
     "da": "en autoritet",
@@ -12136,7 +12088,7 @@
   }
  },
  "en autostol": {
-  "explanation": "\"En autostol\" means \"a car seat\", the seat that keeps a child safe in a car.",
+  "explanation": "\"En autostol\" means \"a car seat\". It is built from \"auto\" (car) and \"stol\" (chair).",
   "forms": [
    {
     "da": "en autostol",
@@ -12175,7 +12127,7 @@
   }
  },
  "en avis": {
-  "explanation": "\"En avis\" means \"a newspaper\", printed pages with the day's news.",
+  "explanation": "\"En avis\" means \"a newspaper\". To say you have a regular delivery that you pay for, use \"abonnere på\" (to subscribe to): \"Vi abonnerer på en avis\" (We subscribe to a newspaper).",
   "forms": [
    {
     "da": "en avis",
@@ -12200,12 +12152,16 @@
     "en": "a daily paper"
    },
    {
-    "da": "en avisartikel",
-    "en": "a newspaper article"
-   },
-   {
     "da": "en overskrift",
     "en": "a headline"
+   },
+   {
+    "da": "en journalist",
+    "en": "a journalist"
+   },
+   {
+    "da": "et ugeblad",
+    "en": "a weekly magazine"
    }
   ],
   "sentence": {
@@ -12214,7 +12170,7 @@
   }
  },
  "en avocado": {
-  "explanation": "\"En avocado\" means \"an avocado\", a green fruit with a large pit and soft flesh.",
+  "explanation": "\"En avocado\" means \"an avocado\". To say it is ripe, use \"moden\" (ripe): \"Avocadoen er moden\" (The avocado is ripe).",
   "forms": [
    {
     "da": "en avocado",
@@ -12235,16 +12191,16 @@
   ],
   "related": [
    {
-    "da": "en advokatpære",
-    "en": "an avocado (older word)"
-   },
-   {
     "da": "guacamole",
     "en": "guacamole"
    },
    {
     "da": "en pære",
     "en": "a pear"
+   },
+   {
+    "da": "umoden",
+    "en": "unripe"
    }
   ],
   "sentence": {
@@ -12253,7 +12209,7 @@
   }
  },
  "et abonnement": {
-  "explanation": "\"Et abonnement\" means \"a subscription\", something you pay for again and again to keep getting a service.",
+  "explanation": "\"Et abonnement\" means \"a subscription\". To say you start one, use \"tegne\" (to take out): \"Jeg vil gerne tegne et abonnement\" (I would like to take out a subscription).",
   "forms": [
    {
     "da": "et abonnement",
@@ -12296,7 +12252,7 @@
   }
  },
  "et adgangskrav": {
-  "explanation": "\"Et adgangskrav\" means \"an admission requirement\", something you must meet to be allowed into a program or school, such as passing an exam. It is built from adgang (access) and krav (demand).",
+  "explanation": "\"Et adgangskrav\" means \"an admission requirement\". It is built from \"adgang\" (access) and \"krav\" (demand). To say you meet it, use \"opfylde\" (to fulfil): \"Hun opfylder adgangskravet\" (She meets the admission requirement).",
   "forms": [
    {
     "da": "et adgangskrav",
@@ -12327,10 +12283,6 @@
    {
     "da": "en kvote",
     "en": "a quota"
-   },
-   {
-    "da": "en ansøger",
-    "en": "an applicant"
    }
   ],
   "sentence": {
@@ -12339,7 +12291,7 @@
   }
  },
  "et afslag": {
-  "explanation": "\"Et afslag\" means \"a refusal\", a no to an application or a request. It also means a price reduction: \"et afslag i prisen\" (a reduction in the price).",
+  "explanation": "\"Et afslag\" means \"a refusal\". When you talk about a lower price, it means \"a price reduction\": \"Vi fik et afslag i prisen\" (We got a reduction in the price).",
   "forms": [
    {
     "da": "et afslag",
@@ -12382,7 +12334,7 @@
   }
  },
  "et afsnit": {
-  "explanation": "\"Et afsnit\" means \"an episode\" of a show: \"Jeg har set tre afsnit\" (I have watched three episodes). It also means a section of a text: \"Læs det første afsnit\" (Read the first section).",
+  "explanation": "\"Et afsnit\" means \"an episode\". When you count what you watched, say: \"Jeg har set tre afsnit\" (I have watched three episodes). When you talk about a text, it means \"a section\": \"Læs det første afsnit\" (Read the first section).",
   "forms": [
    {
     "da": "et afsnit",
@@ -12413,10 +12365,6 @@
    {
     "da": "et kapitel",
     "en": "a chapter"
-   },
-   {
-    "da": "en del",
-    "en": "a part"
    }
   ],
   "sentence": {
@@ -12425,7 +12373,7 @@
   }
  },
  "et agern": {
-  "explanation": "\"Et agern\" means \"an acorn\". It ripens in autumn and has a small cap. Do not mix it up with \"et egern\" (a squirrel): \"Egernet samler agern\" (The squirrel gathers acorns).",
+  "explanation": "\"Et agern\" means \"an acorn\". Do not mix it up with \"et egern\" (a squirrel). To say an acorn lies somewhere: \"Der ligger et agern på jorden\" (There is an acorn on the ground). To say a squirrel is somewhere: \"Der sidder et egern i træet\" (There is a squirrel in the tree).",
   "forms": [
    {
     "da": "et agern",
@@ -12446,16 +12394,16 @@
   ],
   "related": [
    {
-    "da": "en kastanje",
-    "en": "a chestnut"
-   },
-   {
-    "da": "en bøg",
-    "en": "a beech"
+    "da": "et egetræ",
+    "en": "an oak tree"
    },
    {
     "da": "en nød",
     "en": "a nut"
+   },
+   {
+    "da": "en kastanje",
+    "en": "a chestnut"
    }
   ],
   "sentence": {
@@ -12464,7 +12412,7 @@
   }
  },
  "et aktieselskab": {
-  "explanation": "\"Et aktieselskab\" means \"a public limited company\", built from aktie (a share) and selskab (a company). In writing it is shortened to \"A/S\" after the name, as in \"Carlsberg A/S\".",
+  "explanation": "\"Et aktieselskab\" means \"a public limited company\". It is built from \"aktie\" (share) and \"selskab\" (company). In a company name, the short form is \"A/S\": \"Carlsberg A/S\".",
   "forms": [
    {
     "da": "et aktieselskab",
@@ -12507,7 +12455,7 @@
   }
  },
  "et akvarium": {
-  "explanation": "\"Et akvarium\" means \"an aquarium\", a big glass tank with fish and other water animals, or a place with many tanks: \"Vi så hajer i akvariet\" (We saw sharks in the aquarium).",
+  "explanation": "\"Et akvarium\" means \"an aquarium\". When you talk about a place you visit with many large tanks, it also means \"an aquarium\": \"Vi så hajer i akvariet\" (We saw sharks in the aquarium).",
   "forms": [
    {
     "da": "et akvarium",
@@ -12528,16 +12476,16 @@
   ],
   "related": [
    {
-    "da": "en fisk",
-    "en": "a fish"
+    "da": "et terrarium",
+    "en": "a terrarium"
+   },
+   {
+    "da": "et bassin",
+    "en": "a basin"
    },
    {
     "da": "en zoologisk have",
     "en": "a zoo"
-   },
-   {
-    "da": "en skildpadde",
-    "en": "a turtle"
    }
   ],
   "sentence": {
@@ -12546,7 +12494,7 @@
   }
  },
  "et alarmnummer": {
-  "explanation": "\"Et alarmnummer\" means \"an emergency number\", a phone number you call in danger: \"I Danmark er det 112\" (In Denmark it is 112).",
+  "explanation": "\"Et alarmnummer\" means \"an emergency number\". It is built from \"alarm\" (alarm) and \"nummer\" (number).",
   "forms": [
    {
     "da": "et alarmnummer",
@@ -12589,7 +12537,7 @@
   }
  },
  "et album": {
-  "explanation": "\"Et album\" means \"an album\", most often for music: \"Hun har et nyt album\" (She has a new album). It is also used for photos: \"et fotoalbum\" (a photo album).",
+  "explanation": "\"Et album\" means \"an album\". To talk about photos, put \"foto\" (photo) in front: \"et fotoalbum\" (a photo album).",
   "forms": [
    {
     "da": "et album",
@@ -12628,7 +12576,7 @@
   }
  },
  "et alfabet": {
-  "explanation": "\"Et alfabet\" means \"an alphabet\", the set of letters a language is written with. The Danish alphabet has 29 letters.",
+  "explanation": "\"Et alfabet\" means \"an alphabet\". A fact about Denmark: the Danish alphabet has 29 letters. To say things are in alphabetical order, use \"alfabetisk\" (alphabetical): \"Ordene står i alfabetisk rækkefølge\" (The words are in alphabetical order).",
   "forms": [
    {
     "da": "et alfabet",
@@ -12667,7 +12615,7 @@
   }
  },
  "et alibi": {
-  "explanation": "\"Et alibi\" means \"an alibi\", a fact that shows you were somewhere else when a crime happened. It can also mean an excuse: \"Hun brugte travlheden som alibi\" (She used being busy as an excuse).",
+  "explanation": "\"Et alibi\" means \"an alibi\". When you talk about an excuse, it also means \"an excuse\": \"Hun brugte travlheden som alibi\" (She used being busy as an excuse).",
   "forms": [
    {
     "da": "et alibi",
@@ -12710,7 +12658,7 @@
   }
  },
  "et alternativ": {
-  "explanation": "\"Et alternativ\" means \"an alternative\", another option you can pick instead of the first one. It is often followed by \"til\" (to): \"et alternativ til sukker\" (an alternative to sugar).",
+  "explanation": "\"Et alternativ\" means \"an alternative\". To say there is no other choice, say: \"Der er intet alternativ\" (There is no alternative). When you describe something as different from the normal kind, it works as an adjective: \"alternativ medicin\" (alternative medicine).",
   "forms": [
    {
     "da": "et alternativ",
@@ -12741,10 +12689,6 @@
    {
     "da": "en løsning",
     "en": "a solution"
-   },
-   {
-    "da": "et tilvalg",
-    "en": "an optional extra"
    }
   ],
   "sentence": {
@@ -12753,7 +12697,7 @@
   }
  },
  "et anførselstegn": {
-  "explanation": "\"Et anførselstegn\" means \"a quotation mark\", the sign placed around words someone said or around a title. Everyday Danish also says \"gåseøjne\" (goose eyes) for the same signs.",
+  "explanation": "\"Et anførselstegn\" means \"a quotation mark\". It is also called \"gåseøjne\" (literally, goose eyes). To say you put a word between quotation marks, say: \"Skriv ordet i anførselstegn\" (Write the word in quotation marks).",
   "forms": [
    {
     "da": "et anførselstegn",
@@ -12796,7 +12740,7 @@
   }
  },
  "et angreb": {
-  "explanation": "\"Et angreb\" means \"an attack\", both a physical one in a war or a fight and a spoken one in an argument. In sports it is the team's push toward the other goal: \"Holdet gik i angreb\" (The team went on the attack). The matching verb is \"at angribe\" (to attack).",
+  "explanation": "\"Et angreb\" means \"an attack\". It comes from the verb \"at angribe\" (to attack). To say someone starts attacking, use \"gå til angreb\" (to go on the attack): \"Soldaterne gik til angreb\" (The soldiers went on the attack).",
   "forms": [
    {
     "da": "et angreb",
@@ -12827,10 +12771,6 @@
    {
     "da": "en modstander",
     "en": "an opponent"
-   },
-   {
-    "da": "en offensiv",
-    "en": "an offensive"
    }
   ],
   "sentence": {
@@ -12839,7 +12779,7 @@
   }
  },
  "et anker": {
-  "explanation": "\"Et anker\" means \"an anchor\", the heavy metal weight that keeps a boat in place.",
+  "explanation": "\"Et anker\" means \"an anchor\". To say a ship pulls up its anchor and leaves, use \"lette anker\" (to weigh anchor): \"Skibet letter anker\" (The ship weighs anchor).",
   "forms": [
    {
     "da": "et anker",
@@ -12882,7 +12822,7 @@
   }
  },
  "et anlæg": {
-  "explanation": "\"Et anlæg\" means \"a facility\" or \"plant\", something built for a clear purpose. It is usually the second half of a longer word: \"et solcelleanlæg\" (a solar power system), \"et idrætsanlæg\" (a sports facility).",
+  "explanation": "\"Et anlæg\" means \"a facility or plant\". To name a specific kind of facility, put a word in front: \"et idrætsanlæg\" (a sports facility).",
   "forms": [
    {
     "da": "et anlæg",
@@ -12925,7 +12865,7 @@
   }
  },
  "et anpartsselskab": {
-  "explanation": "\"Et anpartsselskab\" means \"a private limited company\", a small company in Denmark. In names it is usually written \"ApS\", as in \"Café Sol ApS\". It is built from anpart (a share) and selskab (a company).",
+  "explanation": "\"Et anpartsselskab\" means \"a private limited company\". It is built from \"anpart\" (share) and \"selskab\" (company). In a company name, the short form is \"ApS\": \"Café Sol ApS\".",
   "forms": [
    {
     "da": "et anpartsselskab",
@@ -12968,7 +12908,7 @@
   }
  },
  "et ansigt": {
-  "explanation": "\"Et ansigt\" means \"a face\", the front of your head, where you smile and show how you feel.",
+  "explanation": "\"Et ansigt\" means \"a face\". To say people meet in person, use \"ansigt til ansigt\" (face to face): \"Vi mødtes ansigt til ansigt\" (We met face to face).",
   "forms": [
    {
     "da": "et ansigt",
@@ -12989,20 +12929,16 @@
   ],
   "related": [
    {
-    "da": "et hoved",
-    "en": "a head"
+    "da": "et ansigtstræk",
+    "en": "a facial feature"
    },
    {
-    "da": "et øje",
-    "en": "an eye"
+    "da": "et ansigtsudtryk",
+    "en": "a facial expression"
    },
    {
-    "da": "en næse",
-    "en": "a nose"
-   },
-   {
-    "da": "en mund",
-    "en": "a mouth"
+    "da": "en ansigtsmaske",
+    "en": "a face mask"
    }
   ],
   "sentence": {
@@ -13011,7 +12947,7 @@
   }
  },
  "et ansigtstræk": {
-  "explanation": "\"Et ansigtstræk\" means \"a facial feature\", a lasting part of how a face looks, such as the nose or chin. It is not the same as \"et ansigtsudtryk\" (a facial expression), which changes with your mood.",
+  "explanation": "\"Et ansigtstræk\" means \"a facial feature\". Do not mix it up with \"et ansigtsudtryk\" (a facial expression). To talk about a part of the face, use \"ansigtstræk\": \"Hans næse er et tydeligt ansigtstræk\" (His nose is a clear facial feature). To talk about the look on a face, use \"ansigtsudtryk\": \"Hun fik et vredt ansigtsudtryk\" (She got an angry facial expression).",
   "forms": [
    {
     "da": "et ansigtstræk",
@@ -13054,7 +12990,7 @@
   }
  },
  "et ansigtsudtryk": {
-  "explanation": "\"Et ansigtsudtryk\" means \"a facial expression\", the look on a face at one moment. Put a word like \"glad\" (happy) before it: \"Hun havde et glad ansigtsudtryk\" (She had a happy facial expression).",
+  "explanation": "\"Et ansigtsudtryk\" means \"a facial expression\". To say what the expression is like, put a describing word in front: \"et glad ansigtsudtryk\" (a happy facial expression).",
   "forms": [
    {
     "da": "et ansigtsudtryk",
@@ -13088,7 +13024,7 @@
    },
    {
     "da": "et blik",
-    "en": "a glance"
+    "en": "a look"
    }
   ],
   "sentence": {
@@ -13097,7 +13033,7 @@
   }
  },
  "et ansvar": {
-  "explanation": "\"Et ansvar\" means \"a responsibility\", something you must take care of. To take on a responsibility, say \"at tage ansvar\" (to take responsibility).",
+  "explanation": "\"Et ansvar\" means \"a responsibility\". To say someone accepts it, use \"tage\" (to take): \"Han tager ansvar for fejlen\" (He takes responsibility for the mistake).",
   "forms": [
    {
     "da": "et ansvar",
@@ -13128,10 +13064,6 @@
    {
     "da": "en forpligtelse",
     "en": "an obligation"
-   },
-   {
-    "da": "en skyld",
-    "en": "blame"
    }
   ],
   "sentence": {
@@ -13140,7 +13072,7 @@
   }
  },
  "et antal": {
-  "explanation": "\"Et antal\" means \"a number\" in the sense of how many. For the number 5 itself, use \"et tal\" (a number).",
+  "explanation": "\"Et antal\" means \"a number (amount)\", as in how many. When you talk about how many guests came, say: \"Antallet af gæster var lille\" (The number of guests was small). Do not mix it up with \"et tal\" (a number). When you talk about the number 5 itself, use \"et tal\": \"Fem er et tal\" (Five is a number).",
   "forms": [
    {
     "da": "et antal",
@@ -13183,7 +13115,7 @@
   }
  },
  "et apotek": {
-  "explanation": "\"Et apotek\" means \"a pharmacy\", the shop where you buy medicine. The person working there is \"en farmaceut\" (a pharmacist). Say \"på apoteket\" (at the pharmacy).",
+  "explanation": "\"Et apotek\" means \"a pharmacy\". To say where you are going, use \"på\" (at): \"Jeg skal på apoteket\" (I have to go to the pharmacy).",
   "forms": [
    {
     "da": "et apotek",
@@ -13204,16 +13136,16 @@
   ],
   "related": [
    {
-    "da": "en tablet",
-    "en": "a tablet"
+    "da": "en farmaceut",
+    "en": "a pharmacist"
    },
    {
     "da": "en recept",
     "en": "a prescription"
    },
    {
-    "da": "en læge",
-    "en": "a doctor"
+    "da": "en tablet",
+    "en": "a tablet"
    }
   ],
   "sentence": {
@@ -13222,7 +13154,7 @@
   }
  },
  "et apparat": {
-  "explanation": "\"Et apparat\" means \"a device\" or \"an appliance\", a piece of equipment made for one particular job.",
+  "explanation": "\"Et apparat\" means \"a device\". To name a specific kind of device, put a word in front: \"et høreapparat\" (a hearing aid).",
   "forms": [
    {
     "da": "et apparat",
@@ -13265,7 +13197,7 @@
   }
  },
  "et ar": {
-  "explanation": "\"Et ar\" means \"a scar\", a mark that stays on the skin after an injury has healed. Do not mix it up with \"et år\" (a year): the only difference is the little ring over the \"å\".",
+  "explanation": "\"Et ar\" means \"a scar\". Do not mix it up with \"et år\" (a year), which has a little ring over the \"å\". To talk about a scar: \"Såret blev til et ar\" (The wound became a scar). To talk about a year: \"Et år har tolv måneder\" (A year has twelve months).",
   "forms": [
    {
     "da": "et ar",
@@ -13308,7 +13240,7 @@
   }
  },
  "et arbejde": {
-  "explanation": "\"Et arbejde\" means \"a job\" or \"work\". Danes say \"på arbejde\" (at work): \"Jeg er på arbejde\" (I am at work) and \"at gå på arbejde\" (to go to work).",
+  "explanation": "\"Et arbejde\" means \"a job or work\". To say you are at your workplace, use \"på arbejde\" (at work): \"Jeg er på arbejde\" (I am at work).",
   "forms": [
    {
     "da": "et arbejde",
@@ -13329,10 +13261,6 @@
     "en": "a worker"
    },
    {
-    "da": "en arbejdsdag",
-    "en": "a working day"
-   },
-   {
     "da": "arbejdsløs",
     "en": "unemployed"
    }
@@ -13343,7 +13271,7 @@
   }
  },
  "et arbejdsmiljø": {
-  "explanation": "\"Et arbejdsmiljø\" means \"a work environment\", everything at work that affects your health and mood, such as noise, light, stress and how colleagues treat each other. The authority that checks it is \"Arbejdstilsynet\" (the Danish Working Environment Authority).",
+  "explanation": "\"Et arbejdsmiljø\" means \"a work environment\". It is built from \"arbejde\" (work) and \"miljø\" (environment). In Denmark, \"Arbejdstilsynet\" (the Danish Working Environment Authority) is the authority that checks the work environment.",
   "forms": [
    {
     "da": "et arbejdsmiljø",
@@ -13386,7 +13314,7 @@
   }
  },
  "et areal": {
-  "explanation": "\"Et areal\" means \"an area\" as a measurement: how much surface something covers, such as a floor or a field. For an area in the sense of a region or district, use \"et område\" (an area, a region) instead.",
+  "explanation": "\"Et areal\" means \"an area\", as in the size of a surface. To ask how big a room is, say: \"Hvad er rummets areal?\" (What is the area of the room?) Do not mix it up with \"et område\" (an area as a region). To talk about a region, say: \"Der er mange parker i området\" (There are many parks in the area).",
   "forms": [
    {
     "da": "et areal",
@@ -13429,7 +13357,7 @@
   }
  },
  "et argument": {
-  "explanation": "\"Et argument\" means \"an argument\", a reason you give for your view. For an angry fight with words, use \"et skænderi\" (a quarrel).",
+  "explanation": "\"Et argument\" means \"an argument\", as in a reason for your view. To ask for someone's reason, say: \"Hvad er dit argument?\" (What is your argument?) Do not mix it up with \"et skænderi\" (a quarrel). To say two people had a quarrel: \"De havde et skænderi i går\" (They had a quarrel yesterday).",
   "forms": [
    {
     "da": "et argument",
@@ -13472,7 +13400,7 @@
   }
  },
  "et arkiv": {
-  "explanation": "\"Et arkiv\" means \"an archive\", a place or collection where old documents, photos and records are kept in order so they can be found later. It is also used for stored files on a computer, as in \"et mailarkiv\" (an email archive).",
+  "explanation": "\"Et arkiv\" means \"an archive\". To name what is stored, put a word in front: \"et fotoarkiv\" (a photo archive).",
   "forms": [
    {
     "da": "et arkiv",
@@ -13499,10 +13427,6 @@
    {
     "da": "et register",
     "en": "a register"
-   },
-   {
-    "da": "en mappe",
-    "en": "a folder"
    },
    {
     "da": "at arkivere",
@@ -13536,8 +13460,8 @@
   ],
   "related": [
    {
-    "da": "et urbånd",
-    "en": "a watch strap"
+    "da": "et armbåndsur",
+    "en": "a wristwatch"
    },
    {
     "da": "et smykke",
@@ -13558,7 +13482,7 @@
   }
  },
  "et armbåndsur": {
-  "explanation": "\"Et armbåndsur\" means \"a wristwatch\", a watch you wear on your wrist. It is built from armbånd (a wristband) and ur (a watch or clock). \"Ur\" can mean either one, so \"armbånds-\" tells you it is the kind on a band.",
+  "explanation": "\"Et armbåndsur\" means \"a wristwatch\". It is built from \"armbånd\" (bracelet) and \"ur\" (watch or clock).",
   "forms": [
    {
     "da": "et armbåndsur",
@@ -13589,10 +13513,6 @@
    {
     "da": "et stopur",
     "en": "a stopwatch"
-   },
-   {
-    "da": "et smartwatch",
-    "en": "a smartwatch"
    }
   ],
   "sentence": {
@@ -13601,7 +13521,7 @@
   }
  },
  "et askebæger": {
-  "explanation": "\"Et askebæger\" means \"an ashtray\". It is built from aske (ash) and bæger (cup), the same bæger as in \"et æggebæger\" (an egg cup).",
+  "explanation": "\"Et askebæger\" means \"an ashtray\". It ends in \"bæger\" (cup), as in \"et æggebæger\" (an egg cup).",
   "forms": [
    {
     "da": "et askebæger",
@@ -13622,16 +13542,16 @@
   ],
   "related": [
    {
-    "da": "en cigar",
-    "en": "a cigar"
+    "da": "aske",
+    "en": "ash"
    },
    {
-    "da": "en pibe",
-    "en": "a pipe"
+    "da": "at ryge",
+    "en": "to smoke"
    },
    {
-    "da": "en lighter",
-    "en": "a lighter"
+    "da": "en cigaret",
+    "en": "a cigarette"
    }
   ],
   "sentence": {
@@ -13640,7 +13560,7 @@
   }
  },
  "et aspekt": {
-  "explanation": "\"Et aspekt\" means \"an aspect\", one part of a bigger question or problem: \"Det er kun ét aspekt af sagen\" (That is only one aspect of the matter). It sounds formal; in everyday talk Danes often say \"en side af sagen\" (one side of the matter).",
+  "explanation": "\"Et aspekt\" means \"an aspect\". To say which part matters most, say: \"Det vigtigste aspekt er prisen\" (The most important aspect is the price).",
   "forms": [
    {
     "da": "et aspekt",
@@ -13683,7 +13603,7 @@
   }
  },
  "et atom": {
-  "explanation": "\"Et atom\" means \"an atom\", the tiny building block that all things are made of. Words like \"atomkraft\" (nuclear power) and \"atombombe\" (atomic bomb) start with it.",
+  "explanation": "\"Et atom\" means \"an atom\". It is the first part of \"atomkraft\" (nuclear power) and \"atombombe\" (atomic bomb).",
   "forms": [
    {
     "da": "et atom",
@@ -13726,7 +13646,7 @@
   }
  },
  "et auditorium": {
-  "explanation": "\"Et auditorium\" means \"an auditorium\" or \"lecture hall\", a big room with rows of rising seats, built so many students can see and hear one speaker.",
+  "explanation": "\"Et auditorium\" means \"an auditorium or lecture hall\". To say where you meet for a lecture: \"Vi mødes i auditoriet\" (We meet in the lecture hall).",
   "forms": [
    {
     "da": "et auditorium",
@@ -13769,7 +13689,7 @@
   }
  },
  "et autoværksted": {
-  "explanation": "\"Et autoværksted\" means \"a car repair shop\", where mechanics fix cars. It is built from auto (car) and værksted (workshop), which also appears in \"et cykelværksted\" (a bike repair shop).",
+  "explanation": "\"Et autoværksted\" means \"a car repair shop\". It is built from \"auto\" (car) and \"værksted\" (workshop), which also appears in \"et cykelværksted\" (a bike repair shop).",
   "forms": [
    {
     "da": "et autoværksted",
@@ -13796,10 +13716,6 @@
    {
     "da": "en bilforhandler",
     "en": "a car dealer"
-   },
-   {
-    "da": "et dæk",
-    "en": "a tire"
    },
    {
     "da": "en reparation",

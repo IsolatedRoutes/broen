@@ -1,6 +1,6 @@
 {
  "at jage": {
-  "explanation": "\"At jage\" means \"to chase\" and \"to hunt\": \"Politiet jager tyven\" (The police chase the thief). For animals, it means hunting: \"Han jager hjorte\" (He hunts deer).",
+  "explanation": "\"At jage\" means \"to hunt or chase\". To say someone runs after a person to catch them, use it for the chase: \"Politiet jager tyven\" (The police chase the thief). To say someone hunts wild animals, use it for the hunt: \"Han jager hjorte\" (He hunts deer).",
   "forms": [
    {
     "da": "at jage",
@@ -43,7 +43,7 @@
   }
  },
  "at jamre": {
-  "explanation": "\"At jamre\" means \"to wail\" or \"to whine\": to grumble in a sad, drawn-out way, often about small things and as if you feel sorry for yourself: \"Han jamrer over vejret\" (He whines about the weather).",
+  "explanation": "\"At jamre\" means \"to wail or whine\". To say what someone complains about, put \"over\" (about) after it: \"Han jamrer over vejret\" (He whines about the weather).",
   "forms": [
    {
     "da": "at jamre",
@@ -82,7 +82,7 @@
   }
  },
  "at juble": {
-  "explanation": "\"At juble\" means \"to cheer\", to shout with joy, often together with others: \"Folk jubler, når holdet scorer\" (People cheer when the team scores).",
+  "explanation": "\"At juble\" means \"to cheer\". It is the verb for the noun \"en jubel\" (jubilation). To say when people cheer, add a sentence with \"når\" (when): \"Folk jubler, når holdet scorer\" (People cheer when the team scores).",
   "forms": [
    {
     "da": "at juble",
@@ -103,16 +103,16 @@
   ],
   "related": [
    {
-    "da": "en jubel",
-    "en": "jubilation"
-   },
-   {
     "da": "at klappe",
     "en": "to clap"
    },
    {
     "da": "at fejre",
     "en": "to celebrate"
+   },
+   {
+    "da": "at heppe",
+    "en": "to cheer on"
    }
   ],
   "sentence": {
@@ -121,7 +121,7 @@
   }
  },
  "at justere": {
-  "explanation": "\"At justere\" means \"to adjust\", to make a small change so that something becomes exactly right. It is used for prices, plans, numbers and machines: \"Vi justerer planen\" (We are adjusting the plan).",
+  "explanation": "\"At justere\" means \"to adjust\". Do not copy the \"ad\" of \"adjust\": the Danish word starts with \"ju\". To say you change a plan a little, put the plan after it: \"Vi justerer planen\" (We are adjusting the plan).",
   "forms": [
    {
     "da": "at justere",
@@ -164,7 +164,7 @@
   }
  },
  "en jagt": {
-  "explanation": "\"En jagt\" means \"a hunt\", chasing wild animals to catch or shoot them. It is also used for any eager search: \"jagten på en bolig\" (the hunt for a home). The verb is \"at jage\" (to chase).",
+  "explanation": "\"En jagt\" means \"a hunt\". It is the noun for the verb \"at jage\" (to chase). To talk about looking hard for something, use \"jagten på\" (the hunt for): \"jagten på en bolig\" (the hunt for a home).",
   "forms": [
    {
     "da": "en jagt",
@@ -207,7 +207,7 @@
   }
  },
  "en jakke": {
-  "explanation": "\"En jakke\" means \"a jacket\". A thicker, longer one is \"en frakke\" (a coat).",
+  "explanation": "\"En jakke\" means \"a jacket\". To talk about a long, warm coat instead, use \"en frakke\" (a coat): \"Jeg tager frakken på\" (I put my coat on).",
   "forms": [
    {
     "da": "en jakke",
@@ -246,7 +246,7 @@
   }
  },
  "en japaner": {
-  "explanation": "\"En japaner\" means \"a Japanese person\". For things from Japan, use \"japansk\": \"japansk te\" (Japanese tea).",
+  "explanation": "\"En japaner\" means \"a Japanese person\". To describe things from Japan, use \"japansk\" (Japanese) instead: \"japansk te\" (Japanese tea).",
   "forms": [
    {
     "da": "en japaner",
@@ -289,7 +289,7 @@
   }
  },
  "en jobannonce": {
-  "explanation": "\"En jobannonce\" means \"a job ad\", a notice that a company is looking for a new employee. It lists the tasks and what the company wants from you.",
+  "explanation": "\"En jobannonce\" means \"a job ad\". It is built from \"job\" (job) and \"en annonce\" (an ad).",
   "forms": [
    {
     "da": "en jobannonce",
@@ -332,7 +332,7 @@
   }
  },
  "en jobsamtale": {
-  "explanation": "\"En jobsamtale\" means \"a job interview\", a meeting where an employer talks with someone who wants a job.",
+  "explanation": "\"En jobsamtale\" means \"a job interview\". It is built from \"job\" (job) and \"en samtale\" (a conversation). To say you are going to one, use \"til\" (to): \"Jeg skal til jobsamtale\" (I am going to a job interview).",
   "forms": [
    {
     "da": "en jobsamtale",
@@ -353,10 +353,6 @@
   ],
   "related": [
    {
-    "da": "en samtale",
-    "en": "a conversation"
-   },
-   {
     "da": "en ansøgning",
     "en": "an application"
    },
@@ -367,6 +363,10 @@
    {
     "da": "et CV",
     "en": "a résumé"
+   },
+   {
+    "da": "en ansættelse",
+    "en": "an employment"
    }
   ],
   "sentence": {
@@ -375,7 +375,7 @@
   }
  },
  "en joke": {
-  "explanation": "\"En joke\" means \"a joke\" you tell to make people laugh. To say you are joking, use \"at lave sjov\" (to kid around): \"Jeg laver bare sjov\" (I am just joking).",
+  "explanation": "\"En joke\" means \"a joke\". To say you tell one, use \"at fortælle\" (to tell): \"Han fortæller en joke\" (He tells a joke). To say you are not serious, use \"at lave sjov\" (to kid around): \"Jeg laver bare sjov\" (I am just joking).",
   "forms": [
    {
     "da": "en joke",
@@ -418,7 +418,7 @@
   }
  },
  "en jomfru": {
-  "explanation": "\"En jomfru\" means \"a virgin\" or \"a maiden\", a young woman, mostly in old stories and fairy tales. It is also in fixed names: \"Jomfru Maria\" (the Virgin Mary), and \"Jomfruen\" is the star sign Virgo. Today the word is rare for a living person.",
+  "explanation": "\"En jomfru\" means \"a virgin or maiden\". To name the mother of Jesus, use it in \"Jomfru Maria\" (the Virgin Mary). To name the star sign, use \"Jomfruen\" (Virgo).",
   "forms": [
    {
     "da": "en jomfru",
@@ -449,10 +449,6 @@
    {
     "da": "en jomfrurejse",
     "en": "a maiden voyage"
-   },
-   {
-    "da": "en prinsesse",
-    "en": "a princess"
    }
   ],
   "sentence": {
@@ -461,7 +457,7 @@
   }
  },
  "en jordemoder": {
-  "explanation": "\"En jordemoder\" means \"a midwife\", a trained health worker who helps women while they are expecting and when a baby is born. In Denmark most births are led by a \"jordemoder\", and a doctor comes only if there are problems.",
+  "explanation": "\"En jordemoder\" means \"a midwife\". It is built from \"jord\" (earth) and \"moder\" (mother). In Denmark, a \"jordemoder\" leads a normal birth, and a doctor joins only if there are problems.",
   "forms": [
    {
     "da": "en jordemoder",
@@ -486,8 +482,8 @@
     "en": "a birth"
    },
    {
-    "da": "en sygeplejerske",
-    "en": "a nurse"
+    "da": "en fødestue",
+    "en": "a delivery room"
    },
    {
     "da": "en fødselslæge",
@@ -504,7 +500,7 @@
   }
  },
  "en jordnød": {
-  "explanation": "\"En jordnød\" means \"a peanut\", built from jord (ground) and nød (nut).",
+  "explanation": "\"En jordnød\" means \"a peanut\". It is built from \"jord\" (ground) and \"en nød\" (a nut).",
   "forms": [
    {
     "da": "en jordnød",
@@ -547,7 +543,7 @@
   }
  },
  "en journal": {
-  "explanation": "\"En journal\" means \"a medical record\", the file where a doctor or a hospital writes down your health history. It is also used for a case file at other offices. Do not use it for a diary: that is \"en dagbog\" (a diary).",
+  "explanation": "\"En journal\" means \"a medical record\". To say a diary instead, use \"en dagbog\" (a diary): \"Jeg skriver i min dagbog\" (I write in my diary).",
   "forms": [
    {
     "da": "en journal",
@@ -590,7 +586,7 @@
   }
  },
  "en journalist": {
-  "explanation": "\"En journalist\" means \"a journalist\", someone who reports news for papers, radio or TV.",
+  "explanation": "\"En journalist\" means \"a journalist\". To name the job, put \"som\" (as) before it: \"Hun arbejder som journalist\" (She works as a journalist).",
   "forms": [
    {
     "da": "en journalist",
@@ -621,6 +617,10 @@
    {
     "da": "en forfatter",
     "en": "an author"
+   },
+   {
+    "da": "en reporter",
+    "en": "a reporter"
    }
   ],
   "sentence": {
@@ -629,7 +629,7 @@
   }
  },
  "en juleferie": {
-  "explanation": "\"En juleferie\" means \"a Christmas vacation\", the time off from school or work around Christmas. It is built from jul (Christmas) and ferie (vacation). \"Ferie\" is also used as a separate word: \"Jeg har ferie\" (I am on vacation).",
+  "explanation": "\"En juleferie\" means \"a Christmas vacation\". It is built from \"jul\" (Christmas) and \"ferie\" (vacation). To say you are on vacation, use \"ferie\" as its own word: \"Jeg har ferie\" (I am on vacation).",
   "forms": [
    {
     "da": "en juleferie",
@@ -668,7 +668,7 @@
   }
  },
  "en julefrokost": {
-  "explanation": "\"En julefrokost\" means \"a Christmas lunch\", a big get-together before Christmas with food and drinks. Despite the name, it often starts at noon and runs late into the evening.",
+  "explanation": "\"En julefrokost\" means \"a Christmas lunch\". It is built from \"jul\" (Christmas) and \"frokost\" (lunch). In Denmark, a \"julefrokost\" is a big get-together in December with food and drinks.",
   "forms": [
    {
     "da": "en julefrokost",
@@ -711,7 +711,7 @@
   }
  },
  "en julegave": {
-  "explanation": "\"En julegave\" means \"a Christmas present\", a gift you give or get at Christmas. It is built from jul (Christmas) and en gave (a gift). \"Gave\" is also used as a separate word: \"Tak for gaven!\" (Thanks for the gift!)",
+  "explanation": "\"En julegave\" means \"a Christmas present\". It is built from \"jul\" (Christmas) and \"en gave\" (a gift). To thank someone for any gift, use \"gave\" as its own word: \"Tak for gaven!\" (Thanks for the gift!)",
   "forms": [
    {
     "da": "en julegave",
@@ -754,7 +754,7 @@
   }
  },
  "en julemand": {
-  "explanation": "\"En julemand\" means \"a Santa Claus\", the man in a red suit who brings gifts at Christmas. It is built from jul (Christmas) and mand (man). The part \"jul\" starts many words, such as \"et julekort\" (a Christmas card) and \"en julesang\" (a Christmas carol).",
+  "explanation": "\"En julemand\" means \"a Santa Claus\". It is built from \"jul\" (Christmas) and \"mand\" (man). To make other Christmas words, put \"jul\" in front: \"et julekort\" (a Christmas card).",
   "forms": [
    {
     "da": "en julemand",
@@ -797,7 +797,7 @@
   }
  },
  "en julemiddag": {
-  "explanation": "\"En julemiddag\" means \"a Christmas dinner\", the big meal at Christmas. It is built from jul (Christmas) and middag (dinner). \"Middag\" is the main hot meal of the day, eaten in the evening.",
+  "explanation": "\"En julemiddag\" means \"a Christmas dinner\". It is built from \"jul\" (Christmas) and \"middag\" (dinner). To talk about a Christmas lunch party instead, use \"en julefrokost\" (a Christmas lunch): \"Vi har julefrokost på arbejdet\" (We have a Christmas lunch at work).",
   "forms": [
    {
     "da": "en julemiddag",
@@ -818,10 +818,6 @@
   ],
   "related": [
    {
-    "da": "en julefrokost",
-    "en": "a Christmas lunch party"
-   },
-   {
     "da": "juleaften",
     "en": "Christmas Eve"
    },
@@ -832,6 +828,10 @@
    {
     "da": "et juletræ",
     "en": "a Christmas tree"
+   },
+   {
+    "da": "en julesang",
+    "en": "a Christmas carol"
    }
   ],
   "sentence": {
@@ -840,7 +840,7 @@
   }
  },
  "en julesang": {
-  "explanation": "\"En julesang\" means \"a Christmas carol\", a song that belongs to Christmas. It is built from jul (Christmas) and sang (song).",
+  "explanation": "\"En julesang\" means \"a Christmas carol\". It is built from \"jul\" (Christmas) and \"sang\" (song). The part \"sang\" also appears in \"en børnesang\" (a children's song).",
   "forms": [
    {
     "da": "en julesang",
@@ -879,7 +879,7 @@
   }
  },
  "en julestjerne": {
-  "explanation": "\"En julestjerne\" means \"a poinsettia\", the plant with red leaves that many Danes put in the window before Christmas. The word can also mean a star decoration for the tree or the window. You can tell which one it is from the context of the sentence.",
+  "explanation": "\"En julestjerne\" means \"a poinsettia\". It is built from \"jul\" (Christmas) and \"en stjerne\" (a star). To talk about a star decoration, it also means \"a Christmas star\": \"Vi hænger en julestjerne op i vinduet\" (We hang a Christmas star in the window).",
   "forms": [
    {
     "da": "en julestjerne",
@@ -910,10 +910,6 @@
    {
     "da": "en adventskrans",
     "en": "an Advent wreath"
-   },
-   {
-    "da": "en julepynt",
-    "en": "Christmas decoration"
    }
   ],
   "sentence": {
@@ -922,7 +918,7 @@
   }
  },
  "en jungle": {
-  "explanation": "\"En jungle\" means \"a jungle\", the thick, hot tropical land full of plants and trees. It also means a confusing mess: \"en jungle af regler\" (a jungle of rules).",
+  "explanation": "\"En jungle\" means \"a jungle\". To talk about a confusing mess of things, use it as a picture: \"en jungle af regler\" (a jungle of rules).",
   "forms": [
    {
     "da": "en jungle",
@@ -953,6 +949,10 @@
    {
     "da": "en savanne",
     "en": "a savanna"
+   },
+   {
+    "da": "en urskov",
+    "en": "a primeval forest"
    }
   ],
   "sentence": {
@@ -961,7 +961,7 @@
   }
  },
  "en jurist": {
-  "explanation": "\"En jurist\" means \"a legal professional\", someone with a university degree in law. A \"jurist\" may work for the state, a company or a union. The word is wider than the English \"lawyer\": a \"jurist\" may never argue a case in court. For that job, use \"en advokat\" (a lawyer).",
+  "explanation": "\"En jurist\" means \"a legal professional\". It comes from \"jura\" (law as a subject). To name the person who argues a case in court, use \"en advokat\" (a lawyer): \"Jeg ringer til en advokat\" (I am calling a lawyer).",
   "forms": [
    {
     "da": "en jurist",
@@ -1000,7 +1000,7 @@
   }
  },
  "en jury": {
-  "explanation": "\"En jury\" means \"a jury\", a group of people who judge something, such as a talent show or a prize contest. They give points or pick the winner.",
+  "explanation": "\"En jury\" means \"a jury\". To say a person is a member, use \"sidde i\" (to sit in): \"Hun sidder i juryen\" (She is on the jury).",
   "forms": [
    {
     "da": "en jury",
@@ -1043,7 +1043,7 @@
   }
  },
  "en jyde": {
-  "explanation": "\"En jyde\" means \"a Jutlander\", a person from the large part of Denmark that is connected to Germany. Their way of speaking is called \"jysk\" (Jutlandic), a dialect that can be hard to understand for other Danes.",
+  "explanation": "\"En jyde\" means \"a Jutlander\". It comes from \"Jylland\" (Jutland), the part of Denmark that is connected to Germany. The dialect of Jutland is called \"jysk\" (Jutlandic).",
   "forms": [
    {
     "da": "en jyde",
@@ -1086,7 +1086,7 @@
   }
  },
  "en jæger": {
-  "explanation": "\"En jæger\" means \"a hunter\", a person who shoots wild animals, usually in forests and fields. In Denmark, a hunter needs a license called \"et jagttegn\" (a hunting license).",
+  "explanation": "\"En jæger\" means \"a hunter\". In Denmark, a hunter must have \"et jagttegn\" (a hunting license).",
   "forms": [
    {
     "da": "en jæger",
@@ -1129,7 +1129,7 @@
   }
  },
  "en jætte": {
-  "explanation": "\"En jætte\" means \"a giant\". In old Norse stories, \"jætter\" (giants) are huge beings who live in the wild and are often enemies of the gods. Ancient stone burial chambers are called \"jættestuer\" (giants' chambers), because people once believed giants built them.",
+  "explanation": "\"En jætte\" means \"a giant\".",
   "forms": [
    {
     "da": "en jætte",
@@ -1172,7 +1172,7 @@
   }
  },
  "en jøde": {
-  "explanation": "\"En jøde\" means \"a Jew\", a person who belongs to the Jewish people or religion. Danish writes \"jøde\" with a lowercase j. The word for Jewish is \"jødisk\".",
+  "explanation": "\"En jøde\" means \"a Jew\". To say Jewish, use \"jødisk\" (Jewish) instead: \"jødisk mad\" (Jewish food).",
   "forms": [
    {
     "da": "en jøde",
@@ -1215,7 +1215,7 @@
   }
  },
  "et jakkesæt": {
-  "explanation": "\"Et jakkesæt\" means \"a suit\", a jacket with matching pants. It is built from jakke (jacket) and sæt (set). \"Et sæt\" also means a set of things that belong together: \"et sæt bestik\" (a set of silverware).",
+  "explanation": "\"Et jakkesæt\" means \"a suit\". It is built from \"jakke\" (jacket) and \"sæt\" (set). To talk about things that belong together, use \"et sæt\" (a set): \"et sæt bestik\" (a set of silverware).",
   "forms": [
    {
     "da": "et jakkesæt",
@@ -1246,10 +1246,6 @@
    {
     "da": "en vest",
     "en": "a vest"
-   },
-   {
-    "da": "en butterfly",
-    "en": "a bow tie"
    }
   ],
   "sentence": {
@@ -1258,7 +1254,7 @@
   }
  },
  "et job": {
-  "explanation": "\"Et job\" means \"a job\", the paid position you hold: \"Jeg har et nyt job\" (I have a new job). For the activity or the place where you work, Danes say \"arbejde\" (work): \"Jeg skal på arbejde\" (I am going to work).",
+  "explanation": "\"Et job\" means \"a job\". To say you got a new position, say: \"Jeg har et nyt job\" (I have a new job). To say you are going to the place where you work, use \"arbejde\" (work) instead: \"Jeg skal på arbejde\" (I am going to work).",
   "forms": [
    {
     "da": "et job",
@@ -1297,7 +1293,7 @@
   }
  },
  "et jobcenter": {
-  "explanation": "\"Et jobcenter\" means \"a job center\", the public office run by the local council where people without work get help finding a new job and applying for financial support.",
+  "explanation": "\"Et jobcenter\" means \"a job center\". In Denmark, a \"jobcenter\" is run by the local council and helps people without work find a job and get financial support.",
   "forms": [
    {
     "da": "et jobcenter",
@@ -1340,7 +1336,7 @@
   }
  },
  "et jordbær": {
-  "explanation": "\"Et jordbær\" means \"a strawberry\". It is made of jord (earth, ground) and et bær (a berry). \"Jord\" also means soil: \"Planten står i jord\" (The plant is in the soil).",
+  "explanation": "\"Et jordbær\" means \"a strawberry\". It is built from \"jord\" (earth, ground) and \"et bær\" (a berry). To talk about soil, use \"jord\" as its own word: \"Planten står i jord\" (The plant is in the soil).",
   "forms": [
    {
     "da": "et jordbær",
@@ -1379,7 +1375,7 @@
   }
  },
  "et jordskælv": {
-  "explanation": "\"Et jordskælv\" means \"an earthquake\". It is built from jord (earth) and skælv (a tremble). \"At skælve\" (to tremble) also describes a person: \"Han skælver af kulde\" (He trembles from cold).",
+  "explanation": "\"Et jordskælv\" means \"an earthquake\". It is built from \"jord\" (earth) and \"skælv\" (a tremble). To say a person trembles, use the verb \"at skælve\" (to tremble): \"Han skælver af kulde\" (He trembles from cold).",
   "forms": [
    {
     "da": "et jordskælv",
@@ -1422,7 +1418,7 @@
   }
  },
  "et jubilæum": {
-  "explanation": "\"Et jubilæum\" means \"an anniversary\" of a round number of years, such as 25 or 50, for a company, a club or someone's job. A couple's anniversary uses a different word, \"en bryllupsdag\" (a wedding anniversary).",
+  "explanation": "\"Et jubilæum\" means \"an anniversary\". To name a round number of years for a club, use it with the number: \"Klubben har 50-års jubilæum\" (The club has its 50-year anniversary). To name a couple's wedding anniversary, use \"en bryllupsdag\" (a wedding anniversary) instead: \"I dag er det vores bryllupsdag\" (Today is our wedding anniversary).",
   "forms": [
    {
     "da": "et jubilæum",
@@ -1461,7 +1457,7 @@
   }
  },
  "et julesalg": {
-  "explanation": "\"Et julesalg\" means \"a Christmas sale\", special offers in shops around Christmas.",
+  "explanation": "\"Et julesalg\" means \"a Christmas sale\". It is built from \"jul\" (Christmas) and \"salg\" (sale).",
   "forms": [
    {
     "da": "et julesalg",
@@ -1482,10 +1478,6 @@
   ],
   "related": [
    {
-    "da": "et salg",
-    "en": "a sale"
-   },
-   {
     "da": "et udsalg",
     "en": "a clearance sale"
    },
@@ -1504,7 +1496,7 @@
   }
  },
  "et juletræ": {
-  "explanation": "\"Et juletræ\" means \"a Christmas tree\". It is made of jul (Christmas) and et træ (a tree). \"Jul\" also begins other words, such as \"et julekort\" (a Christmas card).",
+  "explanation": "\"Et juletræ\" means \"a Christmas tree\". It is built from \"jul\" (Christmas) and \"et træ\" (a tree). To make other Christmas words, put \"jul\" in front: \"et julekort\" (a Christmas card).",
   "forms": [
    {
     "da": "et juletræ",
@@ -1547,7 +1539,7 @@
   }
  },
  "ja": {
-  "explanation": "\"Ja\" means \"yes\". \"Ja, tak\" means \"yes, please\" and is the polite way to accept an offer. If a question has \"ikke\" (not) in it, like \"Kommer du ikke?\" (Aren't you coming?), Danes answer \"jo\" (yes) instead of \"ja\".",
+  "explanation": "\"Ja\" means \"yes\". To accept an offer politely, add \"tak\" (thanks): \"Ja, tak\" (Yes, please). To answer yes to a question that has \"ikke\" (not) in it, say \"jo\" (yes) instead: \"Kommer du ikke?\" \"Jo.\" (Aren't you coming? Yes, I am.)",
   "forms": [
    {
     "da": "Ja, tak.",
@@ -1582,7 +1574,7 @@
   }
  },
  "jalousi": {
-  "explanation": "\"Jalousi\" means \"jealousy\", the painful feeling when you fear losing someone or want what another person has. Someone who feels it is \"jaloux\" (jealous).",
+  "explanation": "\"Jalousi\" means \"jealousy\". English speakers should note the spelling: it has no \"e\" and ends in \"i\". The describing word is \"jaloux\" (jealous): \"Han er jaloux\" (He is jealous).",
   "forms": [
    {
     "da": "en jalousi",
@@ -1625,7 +1617,7 @@
   }
  },
  "jaloux": {
-  "explanation": "\"Jaloux\" means \"jealous\", fearing that someone may take what you love or want. To name the person you are jealous of, add \"på\" (of) after \"jaloux\": \"jaloux på mig\" (jealous of me).",
+  "explanation": "\"Jaloux\" means \"jealous\". To name the person you are jealous of, put \"på\" (of) after it: \"Hun er jaloux på sin kollega\" (She is jealous of her coworker).",
   "forms": [
    {
     "da": "Jeg er jaloux",
@@ -1660,7 +1652,7 @@
   }
  },
  "jaloux på": {
-  "explanation": "\"Jaloux på\" means \"jealous of\". It can be about wanting what someone has: \"Jeg er jaloux på din nye bil\" (I am jealous of your new car). It can also be about love: \"Han er jaloux på hendes ven\" (He is jealous of her friend).",
+  "explanation": "\"Jaloux på\" means \"jealous of\". To say you want what someone has, say: \"Jeg er jaloux på din nye bil\" (I am jealous of your new car). To say you fear someone will take a person you love, say: \"Han er jaloux på hendes ven\" (He is jealous of her friend).",
   "forms": [
    {
     "da": "Er du jaloux på ham?",
@@ -1699,7 +1691,7 @@
   }
  },
  "jamen": {
-  "explanation": "\"Jamen\" means \"but\" or \"well\" and starts a reply when you disagree or object: \"Jamen, det passer ikke!\" (But that is not true!).",
+  "explanation": "\"Jamen\" means \"but\". To object to what someone said, start your reply with it: \"Jamen, det passer ikke!\" (But that is not true!) To ask why something is not so, it means \"well\": \"Jamen, hvorfor ikke?\" (Well, why not?)",
   "forms": [
    {
     "da": "Jamen, det er sandt!",
@@ -1716,8 +1708,8 @@
   ],
   "related": [
    {
-    "da": "men",
-    "en": "but"
+    "da": "dog",
+    "en": "however"
    },
    {
     "da": "altså",
@@ -1734,7 +1726,7 @@
   }
  },
  "januar": {
-  "explanation": "\"Januar\" means \"January\". Month names are written with a lowercase letter: \"midt i januar\" (in the middle of January).",
+  "explanation": "\"Januar\" means \"January\". To say in which month something happens, use \"i\" (in): \"Jeg har fødselsdag i januar\" (My birthday is in January). English speakers should spell it with no \"y\" at the end.",
   "forms": [
    {
     "da": "januar",
@@ -1769,7 +1761,7 @@
   }
  },
  "japan": {
-  "explanation": "\"Japan\" means \"Japan\". The J is pronounced like an English Y, so it sounds like YAH-pan.",
+  "explanation": "\"Japan\" means \"Japan\". To describe things from Japan, use \"japansk\" (Japanese) instead: \"japansk te\" (Japanese tea).",
   "forms": [
    {
     "da": "Japan",
@@ -1790,12 +1782,12 @@
     "en": "a Japanese person"
    },
    {
-    "da": "japansk",
-    "en": "Japanese"
-   },
-   {
     "da": "Kina",
     "en": "China"
+   },
+   {
+    "da": "Sydkorea",
+    "en": "South Korea"
    }
   ],
   "sentence": {
@@ -1804,7 +1796,7 @@
   }
  },
  "japansk": {
-  "explanation": "\"Japansk\" means \"Japanese\". It is written with a lowercase letter (\"japansk\"), while the English word \"Japanese\" has an uppercase letter. It is also the name of the language: \"Jeg taler japansk\" (I speak Japanese).",
+  "explanation": "\"Japansk\" means \"Japanese\". It comes from \"Japan\" (Japan). To name the language, use it as the language: \"Jeg taler japansk\" (I speak Japanese).",
   "forms": [
    {
     "da": "en japansk bil",
@@ -1821,16 +1813,16 @@
   ],
   "related": [
    {
-    "da": "Japan",
-    "en": "Japan"
-   },
-   {
     "da": "en japaner",
     "en": "a Japanese person"
    },
    {
     "da": "kinesisk",
     "en": "Chinese"
+   },
+   {
+    "da": "koreansk",
+    "en": "Korean"
    }
   ],
   "sentence": {
@@ -1839,7 +1831,7 @@
   }
  },
  "jaså": {
-  "explanation": "\"Jaså\" means \"is that so\" and answers news that you find surprising: \"Jeg har købt en hund. Jaså!\" (I have bought a dog. Is that so!).",
+  "explanation": "\"Jaså\" means \"is that so\". To answer news that surprises you, say it as your reply: \"Jeg har købt en hund.\" \"Jaså!\" (I have bought a dog. Is that so!)",
   "forms": [
    {
     "da": "Jaså?",
@@ -1878,7 +1870,7 @@
   }
  },
  "javel": {
-  "explanation": "\"Javel\" means \"I see\" and shows you have heard something, often with a hint of surprise: \"Jeg er flyttet. Javel\" (I have moved. I see). A formal, old-fashioned reply is \"Javel, hr. Hansen\" (Very well, Mr. Hansen).",
+  "explanation": "\"Javel\" means \"I see\". To show you have heard what someone said, say it as your reply: \"Jeg er flyttet.\" \"Javel.\" (I have moved. I see.)",
   "forms": [
    {
     "da": "Javel.",
@@ -1917,7 +1909,7 @@
   }
  },
  "jazz": {
-  "explanation": "\"Jazz\" means \"jazz\", a style of music. Use it with no \"en\" or \"et\": \"Jeg kan godt lide jazz\" (I like jazz).",
+  "explanation": "\"Jazz\" means \"jazz music\". To say you like it, use it without an article: \"Jeg kan godt lide jazz\" (I like jazz).",
   "forms": [
    {
     "da": "jazzmusik",
@@ -1952,7 +1944,7 @@
   }
  },
  "jeg": {
-  "explanation": "\"Jeg\" means \"I\", and it only has an uppercase letter at the start of a sentence: \"du og jeg\" (you and I). \"Jeg\" is for the one who does something: \"Jeg ser ham\" (I see him). \"Mig\" (me) is for the one it happens to: \"Han ser mig\" (He sees me).",
+  "explanation": "\"Jeg\" means \"I\". To say who does something, use \"jeg\": \"Jeg ser ham\" (I see him). To say who it happens to, use \"mig\" (me): \"Han ser mig\" (He sees me).",
   "forms": [
    {
     "da": "Jeg hedder Anna.",
@@ -1991,7 +1983,7 @@
   }
  },
  "jeg beklager": {
-  "explanation": "\"Jeg beklager\" means \"I'm sorry\" in a formal way, used when you apologize for a mistake or a problem, like a delay at work. Among friends, \"undskyld\" (sorry) is more common.",
+  "explanation": "\"Jeg beklager\" means \"sorry\". It is the formal way to apologize, as in \"Jeg beklager forsinkelsen\" (I am sorry for the delay). For a quick sorry, like bumping into someone, say \"undskyld\" (sorry): \"Undskyld, jeg ramte dig\" (Sorry, I bumped into you).",
   "forms": [
    {
     "da": "Jeg beklager meget.",
@@ -2020,8 +2012,8 @@
     "en": "sad / sorry"
    },
    {
-    "da": "en undskyldning",
-    "en": "an apology"
+    "da": "en fejl",
+    "en": "a mistake"
    }
   ],
   "sentence": {
@@ -2065,7 +2057,7 @@
   }
  },
  "jeg er ked af det": {
-  "explanation": "\"Jeg er ked af det\" means \"I'm sad\", and also \"I'm sorry\" when you regret something. For a quick apology like bumping into someone, \"undskyld\" (sorry, excuse me) is more common. \"Jeg er ked af det\" sounds more heartfelt.",
+  "explanation": "\"Jeg er ked af det\" means \"I'm sad\". When you regret something you did, it also means \"I'm sorry\": \"Jeg er ked af det, jeg glemte din fødselsdag\" (I'm sorry, I forgot your birthday). For a quick apology, like bumping into someone, say \"undskyld\" (sorry): \"Undskyld, jeg ramte dig\" (Sorry, I bumped into you).",
   "forms": [
    {
     "da": "Jeg er ked af det.",
@@ -2100,7 +2092,7 @@
   }
  },
  "jeg er uenig": {
-  "explanation": "\"Jeg er uenig\" means \"I disagree\": \"Jeg er uenig med dig\" (I disagree with you). Use \"med\" (with) for the person and \"i\" (in) for the topic: \"Vi er uenige i det\" (We disagree about that).",
+  "explanation": "\"Jeg er uenig\" means \"I disagree\". To say who you disagree with, add \"med\" (with): \"Jeg er uenig med dig\" (I disagree with you). To name the topic, add \"i\" (in): \"Vi er uenige i det\" (We disagree about that).",
   "forms": [
    {
     "da": "Jeg er uenig",
@@ -2139,7 +2131,7 @@
   }
  },
  "jeg forstår ikke": {
-  "explanation": "\"Jeg forstår ikke\" means \"I don't understand\". \"Forstår\" means \"understand\" and \"ikke\" means \"not\". To say \"I don't understand it\", put \"det\" (it) before \"ikke\": \"Jeg forstår det ikke\". To ask for help, add \"Kan du gentage det?\" (Can you repeat that?).",
+  "explanation": "\"Jeg forstår ikke\" means \"I don't understand\". It is built from \"forstår\" (understand) and \"ikke\" (not). To say \"I don't understand it\", put \"det\" (it) before \"ikke\": \"Jeg forstår det ikke\". To ask someone to say it again, add: \"Kan du gentage det?\" (Can you repeat that?).",
   "forms": [
    {
     "da": "Jeg forstår ikke.",
@@ -2178,7 +2170,7 @@
   }
  },
  "jeg glæder mig": {
-  "explanation": "\"Jeg glæder mig\" means \"I'm looking forward to it\" and is for something good that is coming. Add \"til\" (to) to name it: \"Jeg glæder mig til ferien\" (I'm looking forward to the vacation).",
+  "explanation": "\"Jeg glæder mig\" means \"I'm looking forward to it\". It literally says \"I gladden myself\", with \"mig\" (myself). To name what you look forward to, add \"til\" (to): \"Jeg glæder mig til ferien\" (I'm looking forward to the vacation).",
   "forms": [
    {
     "da": "Jeg glæder mig!",
@@ -2203,8 +2195,8 @@
     "en": "to look forward to"
    },
    {
-    "da": "glad",
-    "en": "happy"
+    "da": "en forventning",
+    "en": "an expectation"
    },
    {
     "da": "begejstret",
@@ -2217,7 +2209,7 @@
   }
  },
  "jeg har det godt": {
-  "explanation": "\"Jeg har det godt\" means \"I'm doing well\" and is a common answer to \"Hvordan har du det?\" (How are you?). Danish literally says \"I have it good\", so you need \"det\" (it): \"Jeg er godt\" (I am good) would sound wrong.",
+  "explanation": "\"Jeg har det godt\" means \"I'm doing well\". It literally says \"I have it good\", with \"det\" (it) after \"har\". To answer \"Hvordan har du det?\" (How are you?), say: \"Jeg har det godt\" (I'm doing well).",
   "forms": [
    {
     "da": "Jeg har det godt.",
@@ -2256,7 +2248,7 @@
   }
  },
  "jeg har det skidt": {
-  "explanation": "\"Jeg har det skidt\" means \"I'm not doing well\" and works for feeling ill as well as feeling down. \"Skidt\" means \"badly\". A milder way to say it is \"Jeg har det ikke så godt\" (I'm not doing so well).",
+  "explanation": "\"Jeg har det skidt\" means \"I'm not doing well\". It literally says \"I have it badly\", with \"skidt\" (badly). To say it more gently, say: \"Jeg har det ikke så godt\" (I'm not doing so well).",
   "forms": [
    {
     "da": "Jeg har det skidt.",
@@ -2283,6 +2275,10 @@
    {
     "da": "jeg har ondt",
     "en": "I'm in pain / it hurts"
+   },
+   {
+    "da": "syg",
+    "en": "sick"
    }
   ],
   "sentence": {
@@ -2291,7 +2287,7 @@
   }
  },
  "jeg hedder…": {
-  "explanation": "\"Jeg hedder…\" means \"my name is…\" and you add your name after it. It literally says \"I am called…\", from \"at hedde\" (to be called). The other person can answer \"Dejligt at møde dig\" (Nice to meet you).",
+  "explanation": "\"Jeg hedder…\" means \"my name is…\" and you add your name after it. It literally says \"I am called…\", from \"at hedde\" (to be called). To answer, the other person can say \"Dejligt at møde dig\" (Nice to meet you).",
   "forms": [
    {
     "da": "Jeg hedder Anna.",
@@ -2318,6 +2314,10 @@
    {
     "da": "et efternavn",
     "en": "a surname"
+   },
+   {
+    "da": "et navn",
+    "en": "a name"
    }
   ],
   "sentence": {
@@ -2326,7 +2326,7 @@
   }
  },
  "jeg kommer fra…": {
-  "explanation": "\"Jeg kommer fra…\" means \"I'm from…\" and you add a country or town after it. It literally means \"I come from…\". It answers \"Hvor kommer du fra?\" (Where are you from?). For where you live now, say \"jeg bor i…\" (I live in…).",
+  "explanation": "\"Jeg kommer fra…\" means \"I'm from…\" and you add a country or town after it. It literally says \"I come from…\". To answer \"Hvor kommer du fra?\" (Where are you from?), say: \"Jeg kommer fra Danmark\" (I'm from Denmark).",
   "forms": [
    {
     "da": "Jeg kommer fra USA.",
@@ -2343,16 +2343,20 @@
   ],
   "related": [
    {
+    "da": "at komme",
+    "en": "to come"
+   },
+   {
+    "da": "at bo",
+    "en": "to live"
+   },
+   {
+    "da": "et hjemland",
+    "en": "a home country"
+   },
+   {
     "da": "et land",
     "en": "a country"
-   },
-   {
-    "da": "en by",
-    "en": "a town"
-   },
-   {
-    "da": "en nationalitet",
-    "en": "a nationality"
    }
   ],
   "sentence": {
@@ -2361,7 +2365,7 @@
   }
  },
  "jeg vil gerne have": {
-  "explanation": "\"Jeg vil gerne have\" means \"I would like\" and is the polite way to order or ask for something. Name the item you want after \"have\": \"Jeg vil gerne have en kaffe\" (I would like a coffee). \"Gerne\" (gladly) makes it sound friendly. \"Jeg vil have\", without \"gerne\", is blunt, like saying \"I want\".",
+  "explanation": "\"Jeg vil gerne have\" means \"I would like\". To order or ask for something politely, name the item after \"have\": \"Jeg vil gerne have en kaffe\" (I would like a coffee). Without \"gerne\" (gladly), \"Jeg vil have en kaffe\" (I want a coffee) is blunt.",
   "forms": [
    {
     "da": "Jeg vil gerne have en kaffe.",
@@ -2474,7 +2478,7 @@
   }
  },
  "jern": {
-  "explanation": "\"Jern\" means \"iron\", the hard metal. It is also a mineral in the body and in food: \"Spinat indeholder jern\" (Spinach contains iron). A railway is \"en jernbane\" (a railway, literally \"an iron track\"), built from jern and bane (track).",
+  "explanation": "\"Jern\" means \"iron\", as in the metal. To talk about the mineral in food, use the same word: \"Spinat indeholder jern\" (Spinach contains iron). \"En jernbane\" (a railway) is built from \"jern\" and \"bane\" (track).",
   "forms": [
    {
     "da": "jern",
@@ -2517,7 +2521,7 @@
   }
  },
  "jetlag": {
-  "explanation": "\"Jetlag\" means \"jet lag\", the tired, out-of-step feeling after a long flight to a place where the time is very different.",
+  "explanation": "\"Jetlag\" means \"jet lag\". Danish writes it as one word, \"jetlag\", where English writes two words.",
   "forms": [
    {
     "da": "Jeg har jetlag",
@@ -2552,7 +2556,7 @@
   }
  },
  "jo": {
-  "explanation": "\"Jo\" has two uses. First, it means \"yes\" when you answer a question that has \"ikke\" (not) in it: \"Kommer du ikke?\" (Aren't you coming?) \"Jo!\" (Yes, I am!). Second, in the middle of a sentence it means \"you know\", for something the other person already knows: \"Det er jo min bil\" (It is my car, you know). For other yes answers, use \"ja\" (yes).",
+  "explanation": "\"Jo\" means \"yes\" when you answer a question that has \"ikke\" (not) in it, and \"you know\" in the middle of a sentence. When someone asks \"Har du ikke spist?\" (Haven't you eaten?), you answer \"Jo, det har jeg\" (Yes, I have). When you mention something the other person already knows, put \"jo\" inside the sentence: \"Det er jo min bil\" (It is my car, you know). For a yes to a question without \"ikke\", use \"ja\" (yes): \"Kommer du?\" \"Ja!\" (Are you coming? Yes!)",
   "forms": [
    {
     "da": "Jo, det gør jeg.",
@@ -2626,7 +2630,7 @@
   }
  },
  "jord": {
-  "explanation": "\"Jord\" means \"earth\" or \"soil\": the soil that plants grow in, and also the ground you stand on. With an uppercase letter, \"Jorden\" means the planet Earth. For the floor inside a house, Danes say \"gulv\" (floor), not \"jord\".",
+  "explanation": "\"Jord\" means \"earth or soil\". To talk about a piece of land, use it with \"et stykke\" (a piece): \"et stykke jord\" (a plot of land).",
   "forms": [
    {
     "da": "jord",
@@ -2647,12 +2651,16 @@
     "en": "an earthquake"
    },
    {
-    "da": "et jordbær",
-    "en": "a strawberry"
+    "da": "en jordbund",
+    "en": "soil"
    },
    {
     "da": "sand",
     "en": "sand"
+   },
+   {
+    "da": "ler",
+    "en": "clay"
    }
   ],
   "sentence": {
@@ -2661,7 +2669,7 @@
   }
  },
  "jubel": {
-  "explanation": "\"Jubel\" means \"cheering\" or \"jubilation\", the loud joy of many people at once, like a crowd at a concert. It is mostly used with no \"en\" (a) in front.",
+  "explanation": "\"Jubel\" means \"cheering\". It is the noun for the verb \"at juble\" (to cheer).",
   "forms": [
    {
     "da": "jubel",
@@ -2690,8 +2698,8 @@
     "en": "enthusiasm"
    },
    {
-    "da": "et hurra",
-    "en": "a hooray"
+    "da": "en glæde",
+    "en": "a joy"
    }
   ],
   "sentence": {
@@ -2721,12 +2729,12 @@
     "en": "fruit cordial (a sweet syrup mixed with water)"
    },
    {
-    "da": "frugt",
-    "en": "fruit"
-   },
-   {
     "da": "sodavand",
     "en": "soda"
+   },
+   {
+    "da": "en smoothie",
+    "en": "a smoothie"
    }
   ],
   "sentence": {
@@ -2735,7 +2743,7 @@
   }
  },
  "jul": {
-  "explanation": "\"Jul\" means \"Christmas\". Use \"til jul\" (at Christmas) for the holiday itself, and \"i julen\" (during the Christmas season) for the weeks around it. The greeting is \"Glædelig jul!\" (Merry Christmas!).",
+  "explanation": "\"Jul\" means \"Christmas\". To say when something happens, use \"til jul\" (at Christmas): \"Vi ses til jul\" (See you at Christmas). To talk about the whole season, use \"i julen\" (during the Christmas season): \"Jeg læser meget i julen\" (I read a lot during the Christmas season).",
   "forms": [
    {
     "da": "jul",
@@ -2756,7 +2764,7 @@
   ],
   "related": [
    {
-    "da": "juleaften",
+    "da": "en juleaften",
     "en": "Christmas Eve"
    },
    {
@@ -2766,6 +2774,10 @@
    {
     "da": "et juletræ",
     "en": "a Christmas tree"
+   },
+   {
+    "da": "et nytår",
+    "en": "a new year"
    }
   ],
   "sentence": {
@@ -2774,7 +2786,7 @@
   }
  },
  "juleaften": {
-  "explanation": "\"Juleaften\" means \"Christmas Eve\". It is built from jul (Christmas) and aften (evening). Use it without \"en\" (a) in front: \"på juleaften\" (on Christmas Eve).",
+  "explanation": "\"Juleaften\" means \"Christmas Eve\". It is built from \"jul\" (Christmas) and \"aften\" (evening). To say today is that evening, use it without an article: \"Det er juleaften i dag\" (It is Christmas Eve today).",
   "forms": [
    {
     "da": "juleaften",
@@ -2791,7 +2803,7 @@
   ],
   "related": [
    {
-    "da": "juledag",
+    "da": "første juledag",
     "en": "Christmas Day"
    },
    {
@@ -2813,7 +2825,7 @@
   }
  },
  "julepynt": {
-  "explanation": "\"Julepynt\" means \"Christmas decorations\". It is built from jul (Christmas) and pynt (decoration). Use it with no \"en\" or \"et\": \"Vi hænger julepynt op\" (We hang up Christmas decorations).",
+  "explanation": "\"Julepynt\" means \"Christmas decorations\". It is built from \"jul\" (Christmas) and \"pynt\" (decoration). To say you put them up, use it without an article: \"Vi hænger julepynt op\" (We hang up Christmas decorations).",
   "forms": [
    {
     "da": "julepynt",
@@ -2842,12 +2854,8 @@
     "en": "a Christmas ball"
    },
    {
-    "da": "en julestjerne",
-    "en": "a poinsettia"
-   },
-   {
-    "da": "at pynte",
-    "en": "to decorate"
+    "da": "en lyskæde",
+    "en": "a string of lights"
    }
   ],
   "sentence": {
@@ -2856,7 +2864,7 @@
   }
  },
  "juli": {
-  "explanation": "\"Juli\" means \"July\". Month names start with a lowercase letter in Danish, so you write \"i juli\" (in July), not \"i Juli\".",
+  "explanation": "\"Juli\" means \"July\". Unlike English, Danish spells month names like ordinary words, so you write \"i juli\" (in July), not \"i Juli\".",
   "forms": [
    {
     "da": "juli",
@@ -2872,6 +2880,10 @@
    }
   ],
   "related": [
+   {
+    "da": "juni",
+    "en": "June"
+   },
    {
     "da": "august",
     "en": "August"
@@ -2891,7 +2903,7 @@
   }
  },
  "juni": {
-  "explanation": "\"Juni\" means \"June\". Month names start with a lowercase letter in Danish, so you write \"i juni\" (in June), not \"i Juni\".",
+  "explanation": "\"Juni\" means \"June\". Unlike English, Danish spells month names like ordinary words, so you write \"i juni\" (in June), not \"i Juni\".",
   "forms": [
    {
     "da": "juni",
@@ -2907,6 +2919,10 @@
    }
   ],
   "related": [
+   {
+    "da": "juli",
+    "en": "July"
+   },
    {
     "da": "maj",
     "en": "May"
@@ -2926,7 +2942,7 @@
   }
  },
  "jura": {
-  "explanation": "\"Jura\" means \"law\" as a field of study and a profession, not one single law: \"Hun læser jura på universitetet\" (She studies law at the university).",
+  "explanation": "\"Jura\" means \"law\", as the subject you study at university: \"Hun læser jura på universitetet\" (She studies law at the university). To talk about one rule made by the state, use \"en lov\" (a law): \"Det er en ny lov\" (It is a new law).",
   "forms": [
    {
     "da": "at læse jura",
@@ -2951,8 +2967,8 @@
     "en": "a judge"
    },
    {
-    "da": "en ret",
-    "en": "a court"
+    "da": "en advokat",
+    "en": "a lawyer"
    },
    {
     "da": "juridisk",
@@ -2965,7 +2981,7 @@
   }
  },
  "juridisk": {
-  "explanation": "\"Juridisk\" means \"legal\" in the sense of law and courts: \"Det er et juridisk problem, ikke et politisk\" (It is a legal problem, not a political one). Do not mix it up with \"lovlig\" (legal), which means allowed by law: \"Det er lovligt at parkere her\" (It is legal to park here).",
+  "explanation": "\"Juridisk\" means \"legal\", in the sense of law and courts. To call something a legal matter, say: \"Det er et juridisk problem, ikke et politisk\" (It is a legal problem, not a political one). Do not mix it up with \"lovlig\" (allowed by law): \"Det er lovligt at parkere her\" (It is legal to park here).",
   "forms": [
    {
     "da": "en juridisk rådgiver",
@@ -3000,7 +3016,7 @@
   }
  },
  "jysk": {
-  "explanation": "\"Jysk\" means \"Jutlandic\", from or about \"Jylland\" (Jutland), the part of Denmark that is joined to the rest of Europe. It is also the name of the dialect spoken there.",
+  "explanation": "\"Jysk\" means \"Jutlandic\", from or about \"Jylland\" (Jutland), the part of Denmark that is joined to the rest of Europe. To talk about the way people speak there, use it as the name of the dialect: \"Jeg forstår ikke jysk\" (I do not understand Jutlandic).",
   "forms": [
    {
     "da": "en jysk by",
@@ -3039,7 +3055,7 @@
   }
  },
  "jævnligt": {
-  "explanation": "\"Jævnligt\" means \"regularly\", again and again with similar gaps, but not on fixed days: \"Jeg ringer til min mor jævnligt\" (I call my mother regularly). It comes from \"jævn\" (even).",
+  "explanation": "\"Jævnligt\" means \"regularly\". It comes from \"jævn\" (even). Its opposite is \"sjældent\" (rarely): \"Jeg ser ham sjældent\" (I rarely see him).",
   "forms": [
    {
     "da": "Jeg løber jævnligt",
@@ -3057,19 +3073,19 @@
   "related": [
    {
     "da": "regelmæssigt",
-    "en": "at set intervals"
+    "en": "regularly"
+   },
+   {
+    "da": "ofte",
+    "en": "often"
    },
    {
     "da": "tit",
     "en": "often"
    },
    {
-    "da": "ofte",
-    "en": "frequently"
-   },
-   {
-    "da": "sjældent",
-    "en": "rarely"
+    "da": "af og til",
+    "en": "now and then"
    }
   ],
   "sentence": {
@@ -3078,7 +3094,7 @@
   }
  },
  "jødedom": {
-  "explanation": "\"Jødedom\" means \"Judaism\", the religion of the Jewish people. Danish writes the names of religions with a lowercase letter, so \"jødedom\" starts with a lowercase j.",
+  "explanation": "\"Jødedom\" means \"Judaism\". It is built from \"jøde\" (Jew) and \"-dom\". The ending \"-dom\" is also in \"barndom\" (childhood) and \"kristendom\" (Christianity).",
   "forms": [
    {
     "da": "jødedom",
@@ -3103,12 +3119,12 @@
     "en": "a rabbi"
    },
    {
-    "da": "kristendom",
-    "en": "Christianity"
-   },
-   {
     "da": "islam",
     "en": "Islam"
+   },
+   {
+    "da": "buddhisme",
+    "en": "Buddhism"
    }
   ],
   "sentence": {
@@ -3117,7 +3133,7 @@
   }
  },
  "jødisk": {
-  "explanation": "\"Jødisk\" means \"Jewish\" and describes people, religion and traditions: \"jødisk mad\" (Jewish food). A person is \"en jøde\" (a Jew), and the religion is \"jødedom\" (Judaism).",
+  "explanation": "\"Jødisk\" means \"Jewish\". It comes from \"en jøde\" (a Jew). To name the religion, use \"jødedom\" (Judaism): \"Han studerer jødedom\" (He studies Judaism).",
   "forms": [
    {
     "da": "en jødisk ven",
@@ -3156,7 +3172,7 @@
   }
  },
  "jøsses": {
-  "explanation": "\"Jøsses\" means \"gosh\", a mild exclamation when something surprises you, sometimes with worry or amusement mixed in. It can stand alone or start a sentence.",
+  "explanation": "\"Jøsses\" means \"gosh\". It is a mild exclamation, so it is not rude. To react to surprising news: \"Jeg har vundet i lotteriet!\" \"Jøsses!\" (I won the lottery! Gosh!)",
   "forms": [
    {
     "da": "Jøsses!",

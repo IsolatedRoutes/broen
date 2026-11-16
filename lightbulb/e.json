@@ -1,6 +1,6 @@
 {
  "at efterkomme": {
-  "explanation": "\"At efterkomme\" means \"to comply with\", to do what a request, a rule or an order asks: \"Han efterkom anmodningen\" (He complied with the request).",
+  "explanation": "\"At efterkomme\" means \"to comply with\". To say someone did what a request asked, put the request after it: \"Han efterkom anmodningen\" (He complied with the request).",
   "forms": [
    {
     "da": "at efterkomme",
@@ -43,7 +43,7 @@
   }
  },
  "at efterlade": {
-  "explanation": "\"At efterlade\" means \"to leave behind\": something stays when you go. \"Jeg efterlod en besked\" (I left a message behind). Do not mix it up with \"at forlade\" (to leave a place or a person for good): \"Hun forlod byen\" (She left the city).",
+  "explanation": "\"At efterlade\" means \"to leave behind\". To say you left a message, use it with the message: \"Jeg efterlod en besked\" (I left a message). Do not mix it up with \"at forlade\" (to leave a place): \"Hun forlod byen\" (She left the city).",
   "forms": [
    {
     "da": "at efterlade",
@@ -86,7 +86,7 @@
   }
  },
  "at efterligne": {
-  "explanation": "\"At efterligne\" means \"to imitate\", to do what someone does or to sound like them. The noun \"en efterligning\" (an imitation) is also used for fakes: \"Tasken er en efterligning af en dyr taske\" (The bag is a copy of an expensive bag).",
+  "explanation": "\"At efterligne\" means \"to imitate\". The noun is \"en efterligning\" (an imitation). To say a thing is a fake copy, use it: \"Tasken er en efterligning af en dyr taske\" (The bag is an imitation of an expensive bag).",
   "forms": [
    {
     "da": "at efterligne",
@@ -129,7 +129,7 @@
   }
  },
  "at efterlyse": {
-  "explanation": "\"At efterlyse\" means \"to appeal for\", to ask the public for help finding a missing person, a car or witnesses: \"Politiet efterlyser vidner\" (The police are appealing for witnesses).",
+  "explanation": "\"At efterlyse\" means \"to call for or search for\". To say the police ask the public for help, put what they look for after it: \"Politiet efterlyser vidner\" (The police are appealing for witnesses).",
   "forms": [
    {
     "da": "at efterlyse",
@@ -172,7 +172,7 @@
   }
  },
  "at efterspørge": {
-  "explanation": "\"At efterspørge\" means \"to demand\" or \"to ask for\", when customers or people want something there is too little of: \"Folk efterspørger flere cykelstier\" (People are asking for more bike lanes). Do not mix it up with \"at kræve\" (to insist on getting): \"Jeg kræver mine penge tilbage\" (I demand my money back).",
+  "explanation": "\"At efterspørge\" means \"to demand or ask for\": \"Folk efterspørger flere cykelstier\" (People are asking for more bike lanes). The noun is \"efterspørgsel\" (demand): \"Der er stor efterspørgsel på billige boliger\" (There is high demand for cheap homes). Do not mix it up with \"at kræve\" (to insist on getting): \"Jeg kræver mine penge tilbage\" (I demand my money back).",
   "forms": [
    {
     "da": "at efterspørge",
@@ -215,7 +215,7 @@
   }
  },
  "at eje": {
-  "explanation": "\"At eje\" means \"to own\". In everyday speech, Danes often just say \"at have\" (to have): \"Jeg har en bil\" (I have a car).",
+  "explanation": "\"At eje\" means \"to own\". To say you simply have something with you, use \"at have\" (to have) instead: \"Jeg har penge på mig\" (I have money on me).",
   "forms": [
    {
     "da": "at eje",
@@ -258,7 +258,7 @@
   }
  },
  "at eksistere": {
-  "explanation": "\"At eksistere\" means \"to exist\". Danes often say \"findes\" (exists) instead: \"Findes der en bus?\" (Is there a bus?)",
+  "explanation": "\"At eksistere\" means \"to exist\". To ask whether something is there, Danish uses \"at findes\" (to exist, to be there): \"Findes der en bus?\" (Is there a bus?)",
   "forms": [
    {
     "da": "at eksistere",
@@ -297,7 +297,7 @@
   }
  },
  "at eksperimentere": {
-  "explanation": "\"At eksperimentere\" means \"to experiment\", to try something new to see what happens, in science and in daily life. To name the items or methods you try out, add \"med\" (with): \"Vi eksperimenterer med nye opskrifter\" (We are experimenting with new recipes).",
+  "explanation": "\"At eksperimentere\" means \"to experiment\". To name what you try out, add \"med\" (with): \"Vi eksperimenterer med nye opskrifter\" (We are experimenting with new recipes).",
   "forms": [
    {
     "da": "at eksperimentere",
@@ -340,7 +340,7 @@
   }
  },
  "at eksplodere": {
-  "explanation": "\"At eksplodere\" means \"to explode\". It is also used for feelings: \"Han eksploderede af vrede\" (He exploded with anger).",
+  "explanation": "\"At eksplodere\" means \"to explode\". To say someone loses control of their feelings, use it for anger: \"Han eksploderede af vrede\" (He exploded with anger).",
   "forms": [
    {
     "da": "at eksplodere",
@@ -383,7 +383,7 @@
   }
  },
  "at eksportere": {
-  "explanation": "\"At eksportere\" means \"to export\", to sell goods to other countries. It is also used on a computer: \"at eksportere en fil\" (to export a file).",
+  "explanation": "\"At eksportere\" means \"to export\". To say you send a file out of a program, use it with the file: \"at eksportere en fil\" (to export a file).",
   "forms": [
    {
     "da": "at eksportere",
@@ -422,7 +422,7 @@
   }
  },
  "at elske": {
-  "explanation": "\"At elske\" means \"to love\". It is a strong word, kept mostly for people you truly care about: \"Jeg elsker dig\" (I love you). For food and things, it is a playful exaggeration: \"Jeg elsker pizza\" (I love pizza).",
+  "explanation": "\"At elske\" means \"to love\". To tell a person you love them, say: \"Jeg elsker dig\" (I love you). To say you love a food, use the same verb: \"Jeg elsker pizza\" (I love pizza).",
   "forms": [
    {
     "da": "at elske",
@@ -453,6 +453,10 @@
    {
     "da": "kærlighed",
     "en": "love"
+   },
+   {
+    "da": "at hade",
+    "en": "to hate"
    }
   ],
   "sentence": {
@@ -461,7 +465,7 @@
   }
  },
  "at ende": {
-  "explanation": "\"At ende\" means \"to end\" and also \"to end up\". For a story or an event: \"Historien endte godt\" (The story ended well). For where you finally arrive: \"Vi endte i Aarhus\" (We ended up in Aarhus).",
+  "explanation": "\"At ende\" means \"to end\". To say a story or event finishes a certain way, say: \"Historien endte godt\" (The story ended well). To say where you finally arrive, it also means \"to end up\": \"Vi endte i Aarhus\" (We ended up in Aarhus).",
   "forms": [
    {
     "da": "at ende",
@@ -504,7 +508,7 @@
   }
  },
  "at ende med": {
-  "explanation": "\"At ende med\" means \"to end up with\" or \"to end up doing\". To name the result you end up with: \"Jeg endte med en forkølelse\" (I ended up with a cold). To name the activity you finally did, add \"at\" (to) before the verb: \"Han endte med at købe en cykel\" (He ended up buying a bike).",
+  "explanation": "\"At ende med\" means \"to end up with\". To name what you are left with, put a noun after it: \"Jeg endte med en forkølelse\" (I ended up with a cold). To say what you finally did, add \"at\" (to) and a verb: \"Han endte med at købe en cykel\" (He ended up buying a bike).",
   "forms": [
    {
     "da": "at ende med",
@@ -547,7 +551,7 @@
   }
  },
  "at enes": {
-  "explanation": "\"At enes\" means \"to agree\", to reach the same view together, and also \"to get along\". It needs two or more people, so it goes with \"vi\" (we) or \"de\" (they): \"Vi enedes om prisen\" (We agreed on the price). With \"ikke\" (not) it often means not getting along: \"De kan ikke enes\" (They cannot get along).",
+  "explanation": "\"At enes\" means \"to agree or get along\". To say what people agree on, use \"om\" (about) after it: \"Vi enedes om prisen\" (We agreed on the price). To say people do not get along, add \"ikke\" (not): \"De kan ikke enes\" (They cannot get along).",
   "forms": [
    {
     "da": "at enes",
@@ -590,7 +594,7 @@
   }
  },
  "at engagere sig": {
-  "explanation": "\"At engagere sig\" means \"to get involved\", to join in actively in something you care about. Add \"i\" (in) before what you join: \"Hun engagerer sig i den lokale idrætsklub\" (She gets involved in the local sports club).",
+  "explanation": "\"At engagere sig\" means \"to get involved\". To name what you get involved in, put \"i\" (in) before it: \"Hun engagerer sig i den lokale idrætsklub\" (She gets involved in the local sports club).",
   "forms": [
    {
     "da": "at engagere sig",
@@ -633,7 +637,7 @@
   }
  },
  "at erfare": {
-  "explanation": "\"At erfare\" means \"to find out\" and \"to experience\", to learn something from your own experience. To name the fact you learned, add \"at\" (that) and a full sentence: \"Jeg har erfaret, at toget ofte er forsinket\" (I have found out that the train is often late).",
+  "explanation": "\"At erfare\" means \"to find out or experience\". To name the fact you learned, add \"at\" (that) and a full sentence: \"Jeg har erfaret, at toget er forsinket\" (I have found out that the train is late).",
   "forms": [
    {
     "da": "at erfare",
@@ -676,7 +680,7 @@
   }
  },
  "at erklære": {
-  "explanation": "\"At erklære\" means \"to declare\", to say something publicly and officially: \"Landet erklærer krig\" (The country declares war). It is also used for feelings and opinions: \"at erklære sin kærlighed\" (to declare your love).",
+  "explanation": "\"At erklære\" means \"to declare\". To say a country starts a war, say: \"Landet erklærer krig\" (The country declares war). To say you tell someone how you feel, use it with the feeling: \"at erklære sin kærlighed\" (to declare your love).",
   "forms": [
    {
     "da": "at erklære",
@@ -719,7 +723,7 @@
   }
  },
  "at erobre": {
-  "explanation": "\"At erobre\" means \"to conquer\", to take a country or a city by force. It is also used for winning people or a market: \"at erobre markedet\" (to conquer the market).",
+  "explanation": "\"At erobre\" means \"to conquer\". To say a company wins over customers, use it with the market: \"at erobre markedet\" (to conquer the market).",
   "forms": [
    {
     "da": "at erobre",
@@ -762,7 +766,7 @@
   }
  },
  "at erstatte": {
-  "explanation": "\"At erstatte\" means \"to replace\", to put one thing in the place of another. It also means paying someone back for a loss: \"at erstatte en skade\" (to compensate for damage).",
+  "explanation": "\"At erstatte\" means \"to replace\". To say you pay someone back for a loss, use it with the damage: \"at erstatte en skade\" (to compensate for damage).",
   "forms": [
    {
     "da": "at erstatte",
@@ -805,7 +809,7 @@
   }
  },
  "at etablere": {
-  "explanation": "\"At etablere\" means \"to establish\", to set something up so that it lasts: a company, a system or a contact. With \"sig\" (oneself) it means to get settled somewhere: \"Hun har etableret sig som tandlæge\" (She has set herself up as a dentist).",
+  "explanation": "\"At etablere\" means \"to establish\". To say you set up your own place in a job or town, add \"sig\" (oneself): \"Hun har etableret sig som tandlæge\" (She has set herself up as a dentist).",
   "forms": [
    {
     "da": "at etablere",
@@ -848,7 +852,7 @@
   }
  },
  "at evakuere": {
-  "explanation": "\"At evakuere\" means \"to evacuate\", to get people out of a dangerous place such as a burning building or a flooded area: \"at evakuere skolen\" (to evacuate the school).",
+  "explanation": "\"At evakuere\" means \"to evacuate\". To name the place that is emptied, put it right after the verb: \"at evakuere skolen\" (to evacuate the school).",
   "forms": [
    {
     "da": "at evakuere",
@@ -891,7 +895,7 @@
   }
  },
  "at evaluere": {
-  "explanation": "\"At evaluere\" means \"to evaluate\", to look back at how something went and judge it, for example a project, a course or a school year.",
+  "explanation": "\"At evaluere\" means \"to evaluate\". To name what you judge, put it right after the verb: \"Vi skal evaluere kurset\" (We must evaluate the course).",
   "forms": [
    {
     "da": "at evaluere",
@@ -934,7 +938,7 @@
   }
  },
  "e-boks": {
-  "explanation": "\"En e-Boks\" means \"an e-Boks\", the digital mailbox where public offices, banks and companies send you letters.",
+  "explanation": "\"En e-Boks\" means \"an e-Boks\". It is the digital mailbox in Denmark where public offices, banks and companies send you letters. To tell someone to look for a letter, say: \"Tjek din e-Boks\" (Check your e-Boks).",
   "forms": [
    {
     "da": "en e-Boks",
@@ -969,7 +973,7 @@
   }
  },
  "eddike": {
-  "explanation": "\"Eddike\" means \"vinegar\", the liquid with a sharp taste used in salad dressing and for pickling vegetables.",
+  "explanation": "\"Eddike\" means \"vinegar\". To say how much you add to a dish, use it with an amount: \"en teskefuld eddike\" (a teaspoon of vinegar).",
   "forms": [
    {
     "da": "eddike",
@@ -998,8 +1002,8 @@
     "en": "balsamic vinegar"
    },
    {
-    "da": "sur",
-    "en": "sour"
+    "da": "vineddike",
+    "en": "wine vinegar"
    }
   ],
   "sentence": {
@@ -1008,7 +1012,7 @@
   }
  },
  "effektiv": {
-  "explanation": "\"Effektiv\" means \"efficient\" for a person or method that gets things done without wasting time, and \"effective\" for something that works well.",
+  "explanation": "\"Effektiv\" means \"efficient\". When a remedy or tool works well, it also means \"effective\": \"et effektivt middel\" (an effective remedy).",
   "forms": [
    {
     "da": "en effektiv metode",
@@ -1047,7 +1051,7 @@
   }
  },
  "efter": {
-  "explanation": "\"Efter\" means \"after\". With some verbs it means \"for\": \"at lede efter nøglerne\" (to look for the keys). To say \"after\" with a full sentence, use \"efter at\" (after): \"efter at jeg kom hjem\" (after I came home).",
+  "explanation": "\"Efter\" means \"after\". When you search for something, it means \"for\": \"at lede efter nøglerne\" (to look for the keys). To put a whole sentence after \"after\", add \"at\" (that): \"efter at jeg kom hjem\" (after I came home).",
   "forms": [
    {
     "da": "efter arbejde",
@@ -1074,6 +1078,10 @@
    {
     "da": "derefter",
     "en": "after that"
+   },
+   {
+    "da": "inden",
+    "en": "before (a sentence)"
    }
   ],
   "sentence": {
@@ -1082,7 +1090,7 @@
   }
  },
  "efter min mening": {
-  "explanation": "\"Efter min mening\" means \"in my opinion\" and introduces what you think. The verb comes right after it: \"Efter min mening er filmen for lang\" (In my opinion the movie is too long).",
+  "explanation": "\"Efter min mening\" means \"in my opinion\". It is built from \"efter\" (according to), \"min\" (my) and \"en mening\" (an opinion).",
   "forms": [
    {
     "da": "efter min mening",
@@ -1117,7 +1125,7 @@
   }
  },
  "efterfølgende": {
-  "explanation": "\"Efterfølgende\" means \"subsequently\", for something that happens after what you just mentioned. With a day or event it means \"following\": \"den efterfølgende dag\" (the following day).",
+  "explanation": "\"Efterfølgende\" means \"afterwards\". It is built from \"efter\" (after) and \"at følge\" (to follow). When you name a day that comes next, put it before the noun, where it means \"following\": \"den efterfølgende dag\" (the following day).",
   "forms": [
    {
     "da": "Han ringede efterfølgende",
@@ -1156,7 +1164,7 @@
   }
  },
  "efterhånden": {
-  "explanation": "\"Efterhånden\" means \"gradually\", a bit at a time as time passes. It also means \"by now\", when something has been building up: \"Jeg er efterhånden træt af det\" (I am getting tired of it by now).",
+  "explanation": "\"Efterhånden\" means \"gradually\". When you say a feeling has built up over time, it means \"by now\": \"Jeg er efterhånden træt af det\" (I am getting tired of it by now).",
   "forms": [
    {
     "da": "Det bliver efterhånden lysere",
@@ -1185,8 +1193,8 @@
     "en": "suddenly"
    },
    {
-    "da": "efterhånden som",
-    "en": "as time goes on"
+    "da": "gradvist",
+    "en": "gradually, step by step"
    }
   ],
   "sentence": {
@@ -1195,7 +1203,7 @@
   }
  },
  "efterhånden som": {
-  "explanation": "\"Efterhånden som\" means \"as\", for a change that builds up step by step while something else goes on: \"Jeg bliver bedre, efterhånden som jeg øver\" (I get better as I practice). \"Mens\" (while) says only that two things happen at the same time: \"Mens jeg øver, drikker jeg te\" (While I practice, I drink tea).",
+  "explanation": "\"Efterhånden som\" means \"as\". To say one thing changes step by step while another goes on, use it before the clause: \"Jeg bliver bedre, efterhånden som jeg øver\" (I get better as I practice). To say two things only happen at the same time, use \"mens\" (while) instead: \"Mens jeg øver, drikker jeg te\" (While I practice, I drink tea).",
   "forms": [
    {
     "da": "efterhånden som tiden går",
@@ -1230,7 +1238,7 @@
   }
  },
  "efterlyst": {
-  "explanation": "\"Efterlyst\" means \"wanted\", for a person or thing that the police publicly ask people to help find: \"en efterlyst bil\" (a wanted car). When someone is only being looked for, with no public appeal, say \"eftersøgt\" (sought): \"Hunden er eftersøgt\" (The dog is being searched for).",
+  "explanation": "\"Efterlyst\" means \"wanted\", as in a person the police are searching for. It comes from the verb \"at efterlyse\" (to put out a call for): \"Politiet efterlyser vidner\" (The police are asking for witnesses).",
   "forms": [
    {
     "da": "en efterlyst mand",
@@ -1247,10 +1255,6 @@
   ],
   "related": [
    {
-    "da": "at efterlyse",
-    "en": "to put out a call for"
-   },
-   {
     "da": "en efterlysning",
     "en": "a public notice"
    },
@@ -1261,6 +1265,10 @@
    {
     "da": "på flugt",
     "en": "on the run"
+   },
+   {
+    "da": "eftersøgt",
+    "en": "searched for"
    }
   ],
   "sentence": {
@@ -1269,7 +1277,7 @@
   }
  },
  "eftersom": {
-  "explanation": "\"Eftersom\" means \"since\" or \"because\", and gives a reason that the listener already knows or can see: \"Eftersom det regner, bliver vi hjemme\" (Since it is raining, we are staying home). For a new reason that answers \"Hvorfor?\" (Why?), use \"fordi\" (because): \"Jeg er træt, fordi jeg sov dårligt\" (I am tired because I slept badly).",
+  "explanation": "\"Eftersom\" means \"since\", as in giving a reason. It is built from \"efter\" (after) and \"som\" (as).",
   "forms": [
    {
     "da": "Eftersom du er her, kan vi begynde.",
@@ -1296,6 +1304,10 @@
    {
     "da": "siden",
     "en": "since"
+   },
+   {
+    "da": "fordi",
+    "en": "because"
    }
   ],
   "sentence": {
@@ -1304,7 +1316,7 @@
   }
  },
  "efterspørgsel": {
-  "explanation": "\"En efterspørgsel\" means \"demand\", how much people want to buy a product or service. To name the product or service people want, add \"på\" (on): \"efterspørgsel på billige boliger\" (demand for cheap homes).",
+  "explanation": "\"En efterspørgsel\" means \"a demand\". To name what people want, add \"på\" after it: \"efterspørgsel på billige boliger\" (demand for cheap homes).",
   "forms": [
    {
     "da": "en efterspørgsel",
@@ -1347,7 +1359,7 @@
   }
  },
  "eftersøgt": {
-  "explanation": "\"Eftersøgt\" means \"wanted\" or \"sought\", for someone or something that people are looking for. It can also mean that many people want it: \"en eftersøgt ekspert\" (an expert many people want to hire). When the police ask the public for help finding someone, say \"efterlyst\" (wanted): \"en efterlyst mand\" (a wanted man).",
+  "explanation": "\"Eftersøgt\" means \"wanted\", as in a person or thing that people are looking for. It comes from the verb \"at eftersøge\" (to search for): \"Politiet eftersøger tyven\" (The police are searching for the thief). When many people want to hire someone, it also means \"in demand\": \"en eftersøgt ekspert\" (an expert in demand).",
   "forms": [
    {
     "da": "en eftersøgt tyv",
@@ -1386,7 +1398,7 @@
   }
  },
  "eftertragtet": {
-  "explanation": "\"Eftertragtet\" means \"sought-after\", something many people want and compete for: \"en eftertragtet uddannelse\" (a sought-after education).",
+  "explanation": "\"Eftertragtet\" means \"sought-after\". It comes from the verb \"at tragte efter\" (to strive for): \"Han tragter efter magt\" (He strives for power).",
   "forms": [
    {
     "da": "en eftertragtet bolig",
@@ -1415,8 +1427,8 @@
     "en": "popular"
    },
    {
-    "da": "at tragte efter",
-    "en": "to strive for"
+    "da": "uattraktiv",
+    "en": "unattractive"
    }
   ],
   "sentence": {
@@ -1425,7 +1437,7 @@
   }
  },
  "egen": {
-  "explanation": "\"Egen\" means \"own\", and it goes with words like \"min\" (my) or \"din\" (your): \"mit eget værelse\" (my own room), \"mine egne ting\" (my own things).",
+  "explanation": "\"Egen\" means \"own\". To say you did something without help, use the phrase \"på egen hånd\" (by yourself): \"Jeg gjorde det på egen hånd\" (I did it by myself).",
   "forms": [
    {
     "da": "min egen bil",
@@ -1460,7 +1472,7 @@
   }
  },
  "egentlig": {
-  "explanation": "\"Egentlig\" means \"actually\" or \"really\". Use it when reality is different from the plan: \"Jeg skulle egentlig arbejde, men jeg er syg\" (I was supposed to be working, but I am sick). In a question it adds \"by the way\": \"Hvad hedder du egentlig?\" (What is your name, actually?)",
+  "explanation": "\"Egentlig\" means \"actually\". To say the plan was different from what happened, say: \"Jeg skulle egentlig arbejde, men jeg er syg\" (I was supposed to be working, but I am sick). To ask something you have been wondering about, put it at the end: \"Hvad hedder du egentlig?\" (What is your name, actually?)",
   "forms": [
    {
     "da": "Jeg er egentlig træt.",
@@ -1495,7 +1507,7 @@
   }
  },
  "egnet": {
-  "explanation": "\"Egnet\" means \"suitable\", right for a certain purpose or person. To name the person or purpose that the thing suits, add \"til\" (for): \"Filmen er egnet til børn\" (The film is suitable for children).",
+  "explanation": "\"Egnet\" means \"suitable\". To name the person or purpose, add \"til\" (for): \"Filmen er egnet til børn\" (The film is suitable for children).",
   "forms": [
    {
     "da": "en egnet kandidat",
@@ -1534,7 +1546,7 @@
   }
  },
  "egoistisk": {
-  "explanation": "\"Egoistisk\" means \"selfish\" and describes someone who thinks only of themselves. The opposite is \"uselvisk\" (unselfish).",
+  "explanation": "\"Egoistisk\" means \"selfish\". To say the opposite, use \"uselvisk\" (unselfish): \"en uselvisk hjælper\" (an unselfish helper).",
   "forms": [
    {
     "da": "en egoistisk mand",
@@ -1573,7 +1585,7 @@
   }
  },
  "ejendele": {
-  "explanation": "\"Ejendele\" means \"belongings\", the things that belong to a person: \"Tag dine ejendele med\" (Take your belongings with you). For one item, say \"en ejendel\" (a belonging). Do not mix it up with \"en ejendom\" (a property), which is land or a building.",
+  "explanation": "\"Ejendele\" means \"belongings\". To tell someone to bring their things, say: \"Tag dine ejendele med\" (Take your belongings with you). Do not mix it up with \"en ejendom\" (a property): \"Ejendommen er til salg\" (The property is for sale).",
   "forms": [
    {
     "da": "mine ejendele",
@@ -1612,7 +1624,7 @@
   }
  },
  "ejendommelig": {
-  "explanation": "\"Ejendommelig\" means \"peculiar\", odd or unusual in a way that you notice. It can also mean typical of something: \"Dialekten er ejendommelig for egnen\" (The dialect is characteristic of the area).",
+  "explanation": "\"Ejendommelig\" means \"peculiar\". When you say a feature belongs to a place, add \"for\" (for): \"Dialekten er ejendommelig for egnen\" (The dialect is characteristic of the area). Here it means \"characteristic\".",
   "forms": [
    {
     "da": "en ejendommelig lugt",
@@ -1651,7 +1663,7 @@
   }
  },
  "eksisterende": {
-  "explanation": "\"Eksisterende\" means \"existing\", already there, as opposed to something new. It comes from \"at eksistere\" (to exist) and is often paired with \"ny\" (new): \"nye og eksisterende kunder\" (new and existing customers).",
+  "explanation": "\"Eksisterende\" means \"existing\". It comes from the verb \"at eksistere\" (to exist). To set it against \"ny\" (new), say: \"nye og eksisterende kunder\" (new and existing customers).",
   "forms": [
    {
     "da": "en eksisterende regel",
@@ -1690,7 +1702,7 @@
   }
  },
  "eksklusiv": {
-  "explanation": "\"Eksklusiv\" means \"exclusive\", special and meant for few people, often with a high price. In prices it means \"not included\": \"100 kr. eksklusiv moms\" (100 kr. not including VAT, the sales tax).",
+  "explanation": "\"Eksklusiv\" means \"exclusive\". When you give a price without tax, it means \"excluding\": \"100 kr. eksklusiv moms\" (100 kr. excluding VAT). \"Moms\" (VAT) is the Danish sales tax.",
   "forms": [
    {
     "da": "en eksklusiv restaurant",
@@ -1729,7 +1741,7 @@
   }
  },
  "eksport": {
-  "explanation": "\"En eksport\" means \"an export\", goods that go to buyers in other countries, and also the act of sending them. To name the goods you export, add \"af\" (of): \"eksport af maskiner\" (export of machines).",
+  "explanation": "\"En eksport\" means \"an export\". To name the goods you export, add \"af\" (of): \"eksport af maskiner\" (export of machines).",
   "forms": [
    {
     "da": "en eksport",
@@ -1772,7 +1784,7 @@
   }
  },
  "ekstra": {
-  "explanation": "\"Ekstra\" means \"extra\", more than you already have. Before another word, it makes that word stronger: \"ekstra god\" (extra good), \"ekstra vigtig\" (extra important).",
+  "explanation": "\"Ekstra\" means \"extra\". To make a word stronger, put \"ekstra\" before it: \"ekstra god\" (extra good).",
   "forms": [
    {
     "da": "ekstra stor",
@@ -1807,7 +1819,7 @@
   }
  },
  "ekstraordinær": {
-  "explanation": "\"Ekstraordinær\" means \"extraordinary\", in two ways. For something very impressive: \"en ekstraordinær præstation\" (an extraordinary achievement). For something outside the normal routine: \"et ekstraordinært møde\" (a special meeting).",
+  "explanation": "\"Ekstraordinær\" means \"extraordinary\". To praise something far better than normal, say: \"en ekstraordinær præstation\" (an extraordinary achievement). To say something is outside the normal schedule, say: \"et ekstraordinært møde\" (an extraordinary meeting).",
   "forms": [
    {
     "da": "en ekstraordinær begivenhed",
@@ -1846,7 +1858,7 @@
   }
  },
  "ekstrem": {
-  "explanation": "\"Ekstrem\" means \"extreme\", at the very edge of what is normal, such as weather, temperatures, sports and opinions: \"ekstreme holdninger\" (extreme opinions).",
+  "explanation": "\"Ekstrem\" means \"extreme\". To say \"extremely\", use the form \"ekstremt\": \"Det er ekstremt koldt\" (It is extremely cold).",
   "forms": [
    {
     "da": "en ekstrem situation",
@@ -1885,7 +1897,7 @@
   }
  },
  "ekstremt": {
-  "explanation": "\"Ekstremt\" means \"extremely\", a stronger word than \"meget\" (very). It goes before another word: \"ekstremt dyrt\" (extremely expensive).",
+  "explanation": "\"Ekstremt\" means \"extremely\". To say something is more than \"meget\" (very), put it before the word: \"Det var ekstremt svært\" (It was extremely hard).",
   "forms": [
    {
     "da": "ekstremt varmt",
@@ -1924,7 +1936,7 @@
   }
  },
  "elegant": {
-  "explanation": "\"Elegant\" means \"elegant\", nice to look at in a simple, well-made way. You can say it about a movement: \"Hun danser meget elegant\" (She dances very elegantly). You also say it about a clever solution: \"en elegant løsning\" (an elegant solution).",
+  "explanation": "\"Elegant\" means \"elegant\". To say someone moves gracefully, add it to the verb: \"Hun danser meget elegant\" (She dances very elegantly). To praise a clever answer, say: \"en elegant løsning\" (an elegant solution).",
   "forms": [
    {
     "da": "en elegant dame",
@@ -1963,7 +1975,7 @@
   }
  },
  "elektricitet": {
-  "explanation": "\"Elektricitet\" means \"electricity\". In daily life, Danes often say \"strøm\" (power): \"Strømmen er gået\" (The power is out).",
+  "explanation": "\"Elektricitet\" means \"electricity\". To say the power is out, use \"strøm\" (power): \"Strømmen er gået\" (The power is out).",
   "forms": [
    {
     "da": "elektricitet",
@@ -1980,20 +1992,20 @@
   ],
   "related": [
    {
+    "da": "elektrisk",
+    "en": "electric"
+   },
+   {
     "da": "en elektriker",
     "en": "an electrician"
    },
    {
-    "da": "en stikkontakt",
-    "en": "a socket"
+    "da": "elektronik",
+    "en": "electronics"
    },
    {
-    "da": "en ledning",
-    "en": "a wire"
-   },
-   {
-    "da": "et batteri",
-    "en": "a battery"
+    "da": "elektronisk",
+    "en": "electronic"
    }
   ],
   "sentence": {
@@ -2002,7 +2014,7 @@
   }
  },
  "elektrisk": {
-  "explanation": "\"Elektrisk\" means \"electric\", for things that run on power instead of fuel or muscle. For the power itself, Danes say \"strøm\" (power): \"Der er ingen strøm\" (There is no power).",
+  "explanation": "\"Elektrisk\" means \"electric\". To say there is no power, use \"strøm\" (power): \"Der er ingen strøm\" (There is no power).",
   "forms": [
    {
     "da": "en elektrisk bil",
@@ -2027,12 +2039,12 @@
     "en": "an electrician"
    },
    {
-    "da": "et batteri",
-    "en": "a battery"
+    "da": "elektronik",
+    "en": "electronics"
    },
    {
-    "da": "en stikkontakt",
-    "en": "a socket"
+    "da": "elektronisk",
+    "en": "electronic"
    }
   ],
   "sentence": {
@@ -2041,7 +2053,7 @@
   }
  },
  "elektronik": {
-  "explanation": "\"Elektronik\" means \"electronics\", the devices and parts that work with small chips and screens. Use it without \"en\" or \"et\": \"Jeg sparer op til ny elektronik\" (I am saving up for new electronics).",
+  "explanation": "\"Elektronik\" means \"electronics\". It is used without an article: \"Jeg sparer op til ny elektronik\" (I am saving up for new electronics).",
   "forms": [
    {
     "da": "ny elektronik",
@@ -2076,7 +2088,7 @@
   }
  },
  "elendig": {
-  "explanation": "\"Elendig\" means \"miserable\" or \"terrible\": \"Jeg har det elendigt\" (I feel terrible). It also describes very poor quality: \"Han er en elendig sanger\" (He is a terrible singer).",
+  "explanation": "\"Elendig\" means \"terrible\". To say you feel terrible, say: \"Jeg har det elendigt\" (I feel terrible). To say a person is very bad at something, say: \"Han er en elendig sanger\" (He is a terrible singer).",
   "forms": [
    {
     "da": "en elendig dag",
@@ -2115,7 +2127,7 @@
   }
  },
  "eller": {
-  "explanation": "\"Eller\" means \"or\". Added at the end of a question, it asks for agreement, like \"right?\": \"Du kommer, eller?\" (You are coming, right?). Do not mix it up with \"ellers\" (otherwise): \"Skynd dig, ellers kommer vi for sent\" (Hurry up, or we will be late).",
+  "explanation": "\"Eller\" means \"or\". To check that someone agrees, add it at the end of a question: \"Du kommer, eller?\" (You are coming, right?). Do not mix it up with \"ellers\" (otherwise): \"Skynd dig, ellers kommer vi for sent\" (Hurry up, or we will be late).",
   "forms": [
    {
     "da": "te eller kaffe?",
@@ -2154,7 +2166,7 @@
   }
  },
  "ellers": {
-  "explanation": "\"Ellers\" means \"otherwise\" or \"or else\", and names what happens if something is not done: \"Tag en jakke på, ellers fryser du\" (Put a jacket on, or else you will be cold). In a question it means \"else\": \"Hvem ellers?\" (Who else?) Do not mix it up with \"eller\" (or), which joins two choices: \"te eller kaffe\" (tea or coffee).",
+  "explanation": "\"Ellers\" means \"or else\". When you ask for more, it means \"else\": \"Hvem ellers?\" (Who else?). Do not mix it up with \"eller\" (or), which joins two choices: \"te eller kaffe\" (tea or coffee).",
   "forms": [
    {
     "da": "Tag en jakke, ellers fryser du",
@@ -2189,7 +2201,7 @@
   }
  },
  "elleve": {
-  "explanation": "\"Elleve\" means \"eleven\", the number 11. To say \"eleventh\", use \"ellevte\" (eleventh).",
+  "explanation": "\"Elleve\" means \"eleven\". To say \"eleventh\", use \"elvte\": \"den elvte maj\" (May eleventh).",
   "forms": [
    {
     "da": "elleve børn",
@@ -2224,7 +2236,7 @@
   }
  },
  "elvte": {
-  "explanation": "\"Elvte\" means \"eleventh\" and gives a place in order, often in dates. The number itself is \"elleve\" (eleven). It is also spelled \"ellevte\".",
+  "explanation": "\"Elvte\" means \"eleventh\". It comes from the number \"elleve\" (eleven). To use the other spelling, write \"ellevte\": \"den ellevte maj\" (May eleventh).",
   "forms": [
    {
     "da": "den elvte dag",
@@ -2263,7 +2275,7 @@
   }
  },
  "empati": {
-  "explanation": "\"En empati\" means \"empathy\", the ability to feel and understand what someone else is going through. It is not the same as \"medlidenhed\" (pity): \"empati\" is about understanding the feeling, while \"medlidenhed\" is about feeling sorry for the person.",
+  "explanation": "\"Empati\" means \"empathy\". Do not mix it up with \"medlidenhed\" (pity), which is feeling sorry for someone: \"Jeg har medlidenhed med hende\" (I feel pity for her).",
   "forms": [
    {
     "da": "Hun har empati",
@@ -2302,7 +2314,7 @@
   }
  },
  "en e-mail": {
-  "explanation": "\"En e-mail\" means \"an email\". In daily speech, people shorten it to \"en mail\" (an email).",
+  "explanation": "\"En e-mail\" means \"an email\". To say it the short way, drop the \"e-\": \"Jeg sender dig en mail\" (I will send you an email).",
   "forms": [
    {
     "da": "en e-mail",
@@ -2337,7 +2349,7 @@
   }
  },
  "en edderkop": {
-  "explanation": "\"En edderkop\" means \"a spider\", a small animal with eight legs that often makes a web.",
+  "explanation": "\"En edderkop\" means \"a spider\". To say you fear spiders, use the plural: \"Jeg er bange for edderkopper\" (I am afraid of spiders).",
   "forms": [
    {
     "da": "en edderkop",
@@ -2376,7 +2388,7 @@
   }
  },
  "en effekt": {
-  "explanation": "\"En effekt\" means \"an effect\", the result of something. \"Det har ingen effekt\" (It has no effect) is what you say when something does not work.",
+  "explanation": "\"En effekt\" means \"an effect\". To say something does not work, say: \"Det har ingen effekt\" (It has no effect).",
   "forms": [
    {
     "da": "en effekt",
@@ -2419,7 +2431,7 @@
   }
  },
  "en efterforsker": {
-  "explanation": "\"En efterforsker\" means \"an investigator\", a person whose job is to find out what happened in a crime or a case. The matching action is \"at efterforske\" (to investigate).",
+  "explanation": "\"En efterforsker\" means \"an investigator\". It comes from the verb \"at efterforske\" (to investigate): \"Politiet efterforsker sagen\" (The police are investigating the case).",
   "forms": [
    {
     "da": "en efterforsker",
@@ -2458,7 +2470,7 @@
   }
  },
  "en efterforskning": {
-  "explanation": "\"En efterforskning\" means \"an investigation\", the work of finding out the facts about a crime or an accident. The verb is \"at efterforske\" (to investigate).",
+  "explanation": "\"En efterforskning\" means \"an investigation\". It comes from the verb \"at efterforske\" (to investigate). To say it has begun, say: \"Politiet har indledt en efterforskning\" (The police have started an investigation).",
   "forms": [
    {
     "da": "en efterforskning",
@@ -2479,20 +2491,20 @@
   ],
   "related": [
    {
+    "da": "en efterforsker",
+    "en": "an investigator"
+   },
+   {
     "da": "en undersøgelse",
     "en": "a study"
    },
    {
+    "da": "at undersøge",
+    "en": "to examine"
+   },
+   {
     "da": "en afhøring",
     "en": "an interrogation"
-   },
-   {
-    "da": "et spor",
-    "en": "a clue"
-   },
-   {
-    "da": "et vidne",
-    "en": "a witness"
    }
   ],
   "sentence": {
@@ -2501,7 +2513,7 @@
   }
  },
  "en efterfølger": {
-  "explanation": "\"En efterfølger\" means \"a successor\", the person who takes over a job or position after someone. It is also used for a sequel: \"Filmen fik en efterfølger\" (The film got a sequel).",
+  "explanation": "\"En efterfølger\" means \"a successor\". To say a film has a follow-up, use it for a sequel: \"Filmen fik en efterfølger\" (The film got a sequel).",
   "forms": [
    {
     "da": "en efterfølger",
@@ -2544,7 +2556,7 @@
   }
  },
  "en efterløn": {
-  "explanation": "\"En efterløn\" means \"an early-retirement pension\", money that some Danes can get if they stop working a few years before the normal retirement age. People pay into a special fund to qualify.",
+  "explanation": "\"En efterløn\" means \"an early-retirement pension\". It is a Danish scheme that people can pay into through an unemployment fund. It is built from \"efter\" (after) and \"en løn\" (a wage).",
   "forms": [
    {
     "da": "en efterløn",
@@ -2587,7 +2599,7 @@
   }
  },
  "en eftermiddag": {
-  "explanation": "\"En eftermiddag\" means \"an afternoon\", the part of the day from lunch until evening. \"Om eftermiddagen\" means \"in the afternoon\", and \"i eftermiddag\" means \"this afternoon\". The word is built from efter (after) and middag (midday).",
+  "explanation": "\"En eftermiddag\" means \"an afternoon\". To say something happens in the afternoon, use \"om eftermiddagen\" (in the afternoon): \"Jeg træner om eftermiddagen\" (I work out in the afternoon). To say \"this afternoon\", use \"i eftermiddag\": \"Vi ses i eftermiddag\" (See you this afternoon).",
   "forms": [
    {
     "da": "en eftermiddag",
@@ -2630,7 +2642,7 @@
   }
  },
  "en eftermiddagskaffe": {
-  "explanation": "\"En eftermiddagskaffe\" means \"an afternoon coffee\", a cup of coffee in the afternoon, often with something sweet.",
+  "explanation": "\"En eftermiddagskaffe\" means \"an afternoon coffee\". It is built from \"eftermiddag\" (afternoon) and \"en kaffe\" (a coffee). To invite someone over, say: \"Kom forbi til eftermiddagskaffe\" (Come by for afternoon coffee).",
   "forms": [
    {
     "da": "en eftermiddagskaffe",
@@ -2673,7 +2685,7 @@
   }
  },
  "en efterskole": {
-  "explanation": "\"En efterskole\" means \"a boarding school\" for ages 14 to 18, a Danish kind of school that students choose instead of the last years of regular school. Many have a focus such as music, sport or art.",
+  "explanation": "\"En efterskole\" means \"a boarding school\". It is a Danish school for students aged 14 to 18 that they choose to attend instead of the last years at a regular school. To say you go to one, use \"på\" (at): \"Hun går på efterskole\" (She goes to boarding school).",
   "forms": [
    {
     "da": "en efterskole",
@@ -2712,7 +2724,7 @@
   }
  },
  "en efterårsdag": {
-  "explanation": "\"En efterårsdag\" means \"a fall day\". It is built from efterår (fall) and dag (day). \"I efteråret\" means \"in the fall\".",
+  "explanation": "\"En efterårsdag\" means \"a fall day\". It is built from \"efterår\" (fall) and \"en dag\" (a day). To say something happens in the fall, use \"i efteråret\" (in the fall): \"Bladene falder af træerne i efteråret\" (The leaves fall from the trees in the fall).",
   "forms": [
    {
     "da": "en efterårsdag",
@@ -2751,7 +2763,7 @@
   }
  },
  "en efterårsferie": {
-  "explanation": "\"En efterårsferie\" means \"a fall break\", a week off from school, usually in October.",
+  "explanation": "\"En efterårsferie\" means \"a fall break\". In Denmark, schools have it as a week off in October. It is built from \"efterår\" (fall) and \"ferie\" (vacation).",
   "forms": [
    {
     "da": "en efterårsferie",
@@ -2784,8 +2796,8 @@
     "en": "an Easter vacation"
    },
    {
-    "da": "en ferie",
-    "en": "a vacation"
+    "da": "en juleferie",
+    "en": "a Christmas vacation"
    }
   ],
   "sentence": {
@@ -2794,7 +2806,7 @@
   }
  },
  "en eg": {
-  "explanation": "\"En eg\" means \"an oak\", a big tree with very hard wood that is used for furniture and floors.",
+  "explanation": "\"En eg\" means \"an oak\". The \"the\" form \"egen\" is spelled like the word \"egen\" (own). To say \"the oak\", use it as a noun: \"Egen står i haven\" (The oak stands in the garden). To say \"own\", use it before a noun: \"min egen bil\" (my own car).",
   "forms": [
    {
     "da": "en eg",
@@ -2837,7 +2849,7 @@
   }
  },
  "en egenskab": {
-  "explanation": "\"En egenskab\" means \"a quality\" or \"a trait\", something that is true of a person or a thing, like being kind or strong. It can be good or bad: \"en god egenskab\" (a good trait), \"en dårlig egenskab\" (a bad trait).",
+  "explanation": "\"En egenskab\" means \"a quality\". It is built from \"egen\" (own) and the ending \"-skab\", as in \"venskab\" (friendship). To name a good quality, say: \"en god egenskab\" (a good quality).",
   "forms": [
    {
     "da": "en egenskab",
@@ -2880,7 +2892,7 @@
   }
  },
  "en ejendom": {
-  "explanation": "\"En ejendom\" means \"a property\", a building with its land, or the land alone. It also means anything a person owns: \"privat ejendom\" (private property).",
+  "explanation": "\"En ejendom\" means \"a property\", as in a building with its land. To mark a place as owned by a private person, say: \"Privat ejendom\" (Private property).",
   "forms": [
    {
     "da": "en ejendom",
@@ -2923,7 +2935,7 @@
   }
  },
  "en ejendomsmægler": {
-  "explanation": "\"En ejendomsmægler\" means \"a real estate agent\", a person who helps owners sell their house or apartment, shows it to buyers and arranges the price. The ending \"-mægler\" means a go-between, as in \"en børsmægler\" (a stockbroker).",
+  "explanation": "\"En ejendomsmægler\" means \"a real estate agent\". The part \"ejendom\" means \"property\". The part \"mægler\" means \"broker\", as in \"en børsmægler\" (a stockbroker).",
   "forms": [
    {
     "da": "en ejendomsmægler",
@@ -2966,7 +2978,7 @@
   }
  },
  "en ejer": {
-  "explanation": "\"En ejer\" means \"an owner\", the person something belongs to. It comes from \"at eje\" (to own).",
+  "explanation": "\"En ejer\" means \"an owner\". It comes from \"at eje\" (to own). To name what someone owns, add \"af\" (of): \"ejeren af huset\" (the owner of the house).",
   "forms": [
    {
     "da": "en ejer",
@@ -3009,7 +3021,7 @@
   }
  },
  "en ejerbolig": {
-  "explanation": "\"En ejerbolig\" means \"an owner-occupied home\", a home that you own yourself, whether it is a house or an apartment, unlike a rented one.",
+  "explanation": "\"En ejerbolig\" means \"an owner-occupied home\". It is built from \"ejer\" (owner) and \"en bolig\" (a home).",
   "forms": [
    {
     "da": "en ejerbolig",
@@ -3048,7 +3060,7 @@
   }
  },
  "en ejerlejlighed": {
-  "explanation": "\"En ejerlejlighed\" means \"a condominium\", an apartment that you own yourself, together with a share of the parts that everyone uses, such as the stairs and the roof.",
+  "explanation": "\"En ejerlejlighed\" means \"a condominium\". It is built from \"ejer\" (owner) and \"en lejlighed\" (an apartment).",
   "forms": [
    {
     "da": "en ejerlejlighed",
@@ -3087,7 +3099,7 @@
   }
  },
  "en eks": {
-  "explanation": "\"En eks\" means \"an ex\", a former boyfriend, girlfriend or partner. The longer form is \"en ekskæreste\" (an ex-boyfriend / ex-girlfriend).",
+  "explanation": "\"En eks\" means \"an ex\". To say it in full, use \"en ekskæreste\" (an ex-boyfriend / ex-girlfriend): \"Min ekskæreste bor i Odense\" (My ex lives in Odense).",
   "forms": [
    {
     "da": "en eks",
@@ -3126,7 +3138,7 @@
   }
  },
  "en eksamen": {
-  "explanation": "\"En eksamen\" means \"an exam\", the big test at the end of a course. It is a formal, graded test, not a quick quiz in class.",
+  "explanation": "\"En eksamen\" means \"an exam\". To say you sit one, use \"at tage eksamen\" (to take an exam): \"Hun tager eksamen i juni\" (She takes her exam in June).",
   "forms": [
    {
     "da": "en eksamen",
@@ -3169,7 +3181,7 @@
   }
  },
  "en eksaminator": {
-  "explanation": "\"En eksaminator\" means \"an examiner\", the teacher who asks the questions at an oral exam. The outside person who listens and helps decide the grade is \"en censor\" (an external examiner).",
+  "explanation": "\"En eksaminator\" means \"an examiner\". In a Danish oral exam, it is the teacher who asks the questions. Do not mix it up with \"en censor\" (an external examiner), who helps set the grade: \"Censoren giver karakteren sammen med læreren\" (The external examiner gives the grade together with the teacher).",
   "forms": [
    {
     "da": "en eksaminator",
@@ -3208,7 +3220,7 @@
   }
  },
  "en eksistens": {
-  "explanation": "\"En eksistens\" means \"an existence\", the fact that something is real and is there. It can also mean a person: \"en tvivlsom eksistens\" (a shady character).",
+  "explanation": "\"En eksistens\" means \"an existence\". To call someone a shady person, use it for a person: \"en tvivlsom eksistens\" (a shady character).",
   "forms": [
    {
     "da": "en eksistens",
@@ -3247,7 +3259,7 @@
   }
  },
  "en ekskursion": {
-  "explanation": "\"En ekskursion\" means \"a field trip\", a planned trip with a purpose, usually organized by a school or a club to see or study something, such as a factory or a forest. An ordinary day out is \"en udflugt\" (an outing).",
+  "explanation": "\"En ekskursion\" means \"a field trip\". Do not mix it up with \"en udflugt\" (a day out for fun): \"Vi tog på udflugt til stranden\" (We went on an outing to the beach).",
   "forms": [
    {
     "da": "en ekskursion",
@@ -3290,7 +3302,7 @@
   }
  },
  "en ekskæreste": {
-  "explanation": "\"En ekskæreste\" means \"an ex\", a former boyfriend or girlfriend. It is built from eks- (former) and kæreste (a boyfriend or girlfriend). \"Kæreste\" can be a man or a woman: \"min kæreste\" (my boyfriend or girlfriend).",
+  "explanation": "\"En ekskæreste\" means \"an ex\". It is built from \"eks\" (former) and \"en kæreste\" (a boyfriend or girlfriend). The word \"kæreste\" is the same for men and women: \"Hun er min kæreste\" (She is my girlfriend).",
   "forms": [
    {
     "da": "en ekskæreste",
@@ -3329,7 +3341,7 @@
   }
  },
  "en eksmand": {
-  "explanation": "\"En eksmand\" means \"an ex-husband\". It is built from eks- (former) and mand (a man or husband). After \"min\" (my), \"mand\" means husband: \"min mand\" (my husband).",
+  "explanation": "\"En eksmand\" means \"an ex-husband\". It is built from \"eks\" (former) and \"en mand\" (a man or husband). To say \"my husband\", use \"min mand\": \"Min mand er hjemme\" (My husband is home).",
   "forms": [
    {
     "da": "en eksmand",
@@ -3372,7 +3384,7 @@
   }
  },
  "en ekspedient": {
-  "explanation": "\"En ekspedient\" means \"a store clerk\", the person who helps customers in a store. After \"er\" (is), Danes leave out \"en\": \"Hun er ekspedient\" (She is a store clerk).",
+  "explanation": "\"En ekspedient\" means \"a store clerk\". To say what someone does for a living, leave out \"en\": \"Hun er ekspedient\" (She is a store clerk).",
   "forms": [
    {
     "da": "en ekspedient",
@@ -3411,7 +3423,7 @@
   }
  },
  "en ekspedition": {
-  "explanation": "\"En ekspedition\" means \"a service\" or \"a transaction\", the handling of one person or one case, for example at a counter in a shop or at a public office. It also means \"an expedition\", a long trip to explore a place: \"en ekspedition til Grønland\" (an expedition to Greenland).",
+  "explanation": "\"En ekspedition\" means \"a service or transaction\". When you mean a long trip to explore a place, it means \"an expedition\": \"en ekspedition til Grønland\" (an expedition to Greenland).",
   "forms": [
    {
     "da": "en ekspedition",
@@ -3454,7 +3466,7 @@
   }
  },
  "en ekspert": {
-  "explanation": "\"En ekspert\" means \"an expert\", someone who knows a lot about one subject. After \"er\" (is), \"en\" is often left out: \"Hun er ekspert i vin\" (She is an expert in wine).",
+  "explanation": "\"En ekspert\" means \"an expert\". To name the subject, add \"i\" (in): \"Hun er ekspert i vin\" (She is an expert in wine).",
   "forms": [
    {
     "da": "en ekspert",
@@ -3497,7 +3509,7 @@
   }
  },
  "en eksplosion": {
-  "explanation": "\"En eksplosion\" means \"an explosion\", a sudden, very loud noise from something bursting. It can also describe a sudden jump: \"en eksplosion i priserne\" (a sudden jump in prices).",
+  "explanation": "\"En eksplosion\" means \"an explosion\". To say prices jump suddenly, say: \"en eksplosion i priserne\" (a sudden jump in prices).",
   "forms": [
    {
     "da": "en eksplosion",
@@ -3540,7 +3552,7 @@
   }
  },
  "en elastik": {
-  "explanation": "\"En elastik\" means \"a rubber band\", the stretchy loop that holds things together. It also means the elastic in clothes: \"Der er elastik i bukserne\" (There is elastic in the pants).",
+  "explanation": "\"En elastik\" means \"a rubber band\". To say clothes have a stretchy band in them, it means \"elastic\": \"Der er elastik i bukserne\" (There is elastic in the pants).",
   "forms": [
    {
     "da": "en elastik",
@@ -3579,7 +3591,7 @@
   }
  },
  "en elbil": {
-  "explanation": "\"En elbil\" means \"an electric car\". It is built from el (electricity) and bil (car), and \"el\" also starts \"en elcykel\" (an electric bike).",
+  "explanation": "\"En elbil\" means \"an electric car\". It is built from \"el\" (electricity) and \"en bil\" (a car). The same \"el\" starts \"en elcykel\" (an electric bike).",
   "forms": [
    {
     "da": "en elbil",
@@ -3622,7 +3634,7 @@
   }
  },
  "en elefant": {
-  "explanation": "\"En elefant\" means \"an elephant\", the biggest land animal, gray and found in Africa and Asia.",
+  "explanation": "\"En elefant\" means \"an elephant\". To say someone is clumsy, use the saying \"som en elefant i en porcelænsbutik\" (like an elephant in a china shop).",
   "forms": [
    {
     "da": "en elefant",
@@ -3651,8 +3663,8 @@
     "en": "a tusk"
    },
    {
-    "da": "et dyr",
-    "en": "an animal"
+    "da": "en mammut",
+    "en": "a mammoth"
    }
   ],
   "sentence": {
@@ -3661,7 +3673,7 @@
   }
  },
  "en elektriker": {
-  "explanation": "\"En elektriker\" means \"an electrician\", the person you call for wiring and lights.",
+  "explanation": "\"En elektriker\" means \"an electrician\". To say what someone does for a living, leave out \"en\": \"Min bror er elektriker\" (My brother is an electrician).",
   "forms": [
    {
     "da": "en elektriker",
@@ -3700,7 +3712,7 @@
   }
  },
  "en elektronikbutik": {
-  "explanation": "\"En elektronikbutik\" means \"an electronics store\", a place that sells computers, headphones and other devices. Big household machines like a washer are called \"hvidevarer\" (white goods).",
+  "explanation": "\"En elektronikbutik\" means \"an electronics store\". It is built from \"elektronik\" (electronics) and \"en butik\" (a store).",
   "forms": [
    {
     "da": "en elektronikbutik",
@@ -3721,8 +3733,8 @@
   ],
   "related": [
    {
-    "da": "en mobilbutik",
-    "en": "a phone shop"
+    "da": "en computer",
+    "en": "a computer"
    },
    {
     "da": "en forretning",
@@ -3743,7 +3755,7 @@
   }
  },
  "en elev": {
-  "explanation": "\"En elev\" means \"a pupil\", a child or young person who goes to school. It can also mean a trainee at a workplace: \"Hun er elev hos en elektriker\" (She is a trainee with an electrician). Adults who study at university are usually called \"en studerende\" (a student) rather than \"elev\".",
+  "explanation": "\"En elev\" means \"a pupil\". When you talk about someone learning a trade at a workplace, it means \"a trainee\": \"Hun er elev hos en elektriker\" (She is a trainee with an electrician). For university, use \"en studerende\" (a student): \"Han er studerende\" (He is a student).",
   "forms": [
    {
     "da": "en elev",
@@ -3782,7 +3794,7 @@
   }
  },
  "en elevator": {
-  "explanation": "\"En elevator\" means \"an elevator\". Danes also say \"en lift\" (a lift), which means the same thing. You go up or down \"med elevatoren\" (by the elevator).",
+  "explanation": "\"En elevator\" means \"an elevator\". The word \"en lift\" (a lift) means the same: \"Liften er i stykker\" (The lift is broken). To say you travel by it, use \"med\" (by): \"Vi kører med elevatoren\" (We go by the elevator).",
   "forms": [
    {
     "da": "en elevator",
@@ -3821,7 +3833,7 @@
   }
  },
  "en elg": {
-  "explanation": "\"En elg\" means \"a moose\" or \"an elk\", the same large animal with wide flat antlers. Americans say moose. The American elk is a different animal, called \"en wapiti\" in Danish.",
+  "explanation": "\"En elg\" means \"a moose or elk\". Do not mix it up with \"et rensdyr\" (a reindeer): \"Rensdyret lever i Lapland\" (The reindeer lives in Lapland).",
   "forms": [
    {
     "da": "en elg",
@@ -3850,10 +3862,6 @@
     "en": "a roe deer"
    },
    {
-    "da": "et rensdyr",
-    "en": "a reindeer"
-   },
-   {
     "da": "en kronhjort",
     "en": "a red deer"
    }
@@ -3864,7 +3872,7 @@
   }
  },
  "en elkedel": {
-  "explanation": "\"En elkedel\" means \"an electric kettle\", used to heat water fast. It is built from el (electricity) and kedel (kettle), and \"el\" also starts \"en elbil\" (an electric car).",
+  "explanation": "\"En elkedel\" means \"an electric kettle\". It is built from \"el\" (electricity) and \"en kedel\" (a kettle). The same \"el\" starts \"en elbil\" (an electric car).",
   "forms": [
    {
     "da": "en elkedel",
@@ -3903,7 +3911,7 @@
   }
  },
  "en elpære": {
-  "explanation": "\"En elpære\" means \"a light bulb\". It is built from el (electricity) and pære (pear), because the bulb is shaped like one. \"Pære\" also means the fruit: \"en pære\" (a pear).",
+  "explanation": "\"En elpære\" means \"a light bulb\". It is built from \"el\" (electricity) and \"en pære\" (a pear), because the bulb is shaped like one. The same \"pære\" is the fruit: \"Jeg spiser en pære\" (I eat a pear).",
   "forms": [
    {
     "da": "en elpære",
@@ -3928,8 +3936,8 @@
     "en": "a light source"
    },
    {
-    "da": "en LED-pære",
-    "en": "an LED bulb"
+    "da": "en lampe",
+    "en": "a lamp"
    },
    {
     "da": "en glødelampe",
@@ -3946,7 +3954,7 @@
   }
  },
  "en elregning": {
-  "explanation": "\"En elregning\" means \"an electricity bill\", the bill from the power company for what you use at home. It is built from el (electricity) and regning (bill). In a restaurant, you ask for the check with \"Regningen, tak\" (The check, please).",
+  "explanation": "\"En elregning\" means \"an electricity bill\". It is built from \"el\" (electricity) and \"en regning\" (a bill). The same \"regning\" is in the phrase for asking for the check: \"Regningen, tak\" (The check, please).",
   "forms": [
    {
     "da": "en elregning",
@@ -3989,7 +3997,7 @@
   }
  },
  "en elskerinde": {
-  "explanation": "\"En elskerinde\" means \"a mistress\", a woman who has a secret love relationship with someone who is already with another person. It comes from \"at elske\" (to love).",
+  "explanation": "\"En elskerinde\" means \"a mistress\". It comes from \"at elske\" (to love). The ending \"-inde\" marks a woman, as in \"en sangerinde\" (a female singer).",
   "forms": [
    {
     "da": "en elskerinde",
@@ -4032,7 +4040,7 @@
   }
  },
  "en embedsmand": {
-  "explanation": "\"En embedsmand\" means \"a civil servant\", a person who works for the state, for example in a government office. \"Embedsmænd\" (civil servants) usually keep their jobs when a new government comes in, unlike ministers.",
+  "explanation": "\"En embedsmand\" means \"a civil servant\". It is built from \"et embede\" (a public post) and \"en mand\" (a man).",
   "forms": [
    {
     "da": "en embedsmand",
@@ -4075,7 +4083,7 @@
   }
  },
  "en emhætte": {
-  "explanation": "\"En emhætte\" means \"a range hood\", the hood above a stove that pulls steam and smells out of the kitchen.",
+  "explanation": "\"En emhætte\" means \"a range hood\". To tell someone to switch it on, say: \"Tænd for emhætten\" (Turn on the range hood).",
   "forms": [
    {
     "da": "en emhætte",
@@ -4114,7 +4122,7 @@
   }
  },
  "en emission": {
-  "explanation": "\"En emission\" means \"an emission\", gas or particles sent out into the air, especially in talk about pollution and the environment. In finance it has another meaning: \"en emission af aktier\" (an issue of shares).",
+  "explanation": "\"En emission\" means \"an emission\". In finance it has another meaning, a company selling new shares: \"en emission af aktier\" (an issue of shares).",
   "forms": [
    {
     "da": "en emission",
@@ -4153,7 +4161,7 @@
   }
  },
  "en emoji": {
-  "explanation": "\"En emoji\" means \"an emoji\", the same word as in English.",
+  "explanation": "\"En emoji\" means \"an emoji\". To say you sent one in a message, say: \"Jeg sendte en glad emoji\" (I sent a happy emoji).",
   "forms": [
    {
     "da": "en emoji",
@@ -4192,7 +4200,7 @@
   }
  },
  "en encyklopædi": {
-  "explanation": "\"En encyklopædi\" means \"an encyclopedia\", a big work with entries on many subjects in alphabetical order. Danes often use \"et leksikon\" (an encyclopedia) for the same thing.",
+  "explanation": "\"En encyklopædi\" means \"an encyclopedia\". Spell it with \"k\" and \"æ\", not \"c\" and \"ae\". The word \"et leksikon\" (an encyclopedia) means the same: \"Jeg slog det op i et leksikon\" (I looked it up in an encyclopedia).",
   "forms": [
    {
     "da": "en encyklopædi",
@@ -4235,7 +4243,7 @@
   }
  },
  "en ende": {
-  "explanation": "\"En ende\" means \"an end\", the last part of something long, like a rope or a road. For the end of a story or an event, use \"en slutning\" (an ending).",
+  "explanation": "\"En ende\" means \"an end\". To say where something lies, use \"i enden af\" (at the end of): \"Huset ligger i enden af korridoren\" (The house lies at the end of the hallway). For the end of a story, use \"en slutning\" (an ending) instead: \"Filmen har en god slutning\" (The film has a good ending).",
   "forms": [
    {
     "da": "en ende",
@@ -4264,10 +4272,6 @@
     "en": "a tip"
    },
    {
-    "da": "en side",
-    "en": "a side"
-   },
-   {
     "da": "en kant",
     "en": "an edge"
    }
@@ -4278,7 +4282,7 @@
   }
  },
  "en endelse": {
-  "explanation": "\"En endelse\" means \"an ending\", the letters at the end of a word that change its form. In \"talede\" (spoke), the ending is \"-ede\". For the end of a story, use \"en slutning\" (a conclusion).",
+  "explanation": "\"En endelse\" means \"an ending (of a word)\". To see one, take \"talede\" (spoke): the ending is \"-ede\". For the end of a story, use \"en slutning\" (a conclusion): \"Bogen har en trist slutning\" (The book has a sad ending).",
   "forms": [
    {
     "da": "en endelse",
@@ -4317,7 +4321,7 @@
   }
  },
  "en endestation": {
-  "explanation": "\"En endestation\" means \"a terminus\", the last stop of a train or bus line. It is built from ende (end) and station (station). \"Ende\" also appears in \"i enden af gaden\" (at the end of the street).",
+  "explanation": "\"En endestation\" means \"a terminus or last stop\". It is built from \"ende\" (end) and \"en station\" (a station). The part \"ende\" is also in \"i enden af gaden\" (at the end of the street).",
   "forms": [
    {
     "da": "en endestation",
@@ -4356,7 +4360,7 @@
   }
  },
  "en energikilde": {
-  "explanation": "\"En energikilde\" means \"an energy source\", something that gives us power for heat, light and machines. It is built from energi (energy) and kilde (source). \"Kilde\" also means a water spring: \"en kilde i skoven\" (a spring in the forest).",
+  "explanation": "\"En energikilde\" means \"an energy source\". It is built from \"energi\" (energy) and \"kilde\" (source). To talk about water coming out of the ground, \"kilde\" also means a spring: \"en kilde i skoven\" (a spring in the forest).",
   "forms": [
    {
     "da": "en energikilde",
@@ -4387,6 +4391,10 @@
    {
     "da": "en solcelle",
     "en": "a solar cell"
+   },
+   {
+    "da": "en vindmølle",
+    "en": "a wind turbine"
    }
   ],
   "sentence": {
@@ -4395,7 +4403,7 @@
   }
  },
  "en eng": {
-  "explanation": "\"En eng\" means \"a meadow\", an open grassy place where wild flowers grow. Do not mix it up with \"en mark\" (a field), where farmers grow crops.",
+  "explanation": "\"En eng\" means \"a meadow\". To talk about a meadow with wild flowers, say: \"Der er blomster på engen\" (There are flowers in the meadow). To talk about a field where a farmer grows crops, use \"en mark\" (a field): \"Bonden pløjer marken\" (The farmer ploughs the field).",
   "forms": [
    {
     "da": "en eng",
@@ -4434,7 +4442,7 @@
   }
  },
  "en engel": {
-  "explanation": "\"En engel\" means \"an angel\", a helper from heaven in stories. It is also used for a very kind person: \"Du er en engel!\" (You are an angel!).",
+  "explanation": "\"En engel\" means \"an angel\". To say someone is very kind, call them an angel, as in English: \"Du er en engel!\" (You are an angel!).",
   "forms": [
    {
     "da": "en engel",
@@ -4477,7 +4485,7 @@
   }
  },
  "en englænder": {
-  "explanation": "\"En englænder\" means \"an Englishman\" or \"an English person\". The country is \"England\", and the language is \"engelsk\" (English).",
+  "explanation": "\"En englænder\" means \"an Englishman\". It comes from the country name \"England\". To say what language he speaks, use \"engelsk\" (English): \"Han taler engelsk\" (He speaks English).",
   "forms": [
    {
     "da": "en englænder",
@@ -4520,7 +4528,7 @@
   }
  },
  "en enhed": {
-  "explanation": "\"En enhed\" means \"a device\", a piece of equipment such as a laptop or a printer that connects to a network. It also means \"a unit\", for example a measure: \"En meter er en enhed for længde\" (A meter is a unit of length).",
+  "explanation": "\"En enhed\" means \"a device\". To talk about a unit of measurement, \"enhed\" also means \"a unit\": \"En meter er en enhed for længde\" (A meter is a unit of length).",
   "forms": [
    {
     "da": "en enhed",
@@ -4549,12 +4557,8 @@
     "en": "a machine"
    },
    {
-    "da": "en computer",
-    "en": "a computer"
-   },
-   {
-    "da": "et værktøj",
-    "en": "a tool"
+    "da": "en måleenhed",
+    "en": "a unit of measurement"
    }
   ],
   "sentence": {
@@ -4563,7 +4567,7 @@
   }
  },
  "en enke": {
-  "explanation": "\"En enke\" means \"a widow\", a woman whose husband has died.",
+  "explanation": "\"En enke\" means \"a widow\". To say a woman's husband died and she is now a widow, use \"blive enke\" (become a widow): \"Hun blev enke sidste år\" (She became a widow last year).",
   "forms": [
    {
     "da": "en enke",
@@ -4606,7 +4610,7 @@
   }
  },
  "en enkeltbillet": {
-  "explanation": "\"En enkeltbillet\" means \"a one-way ticket\". It is built from enkelt (single) and billet (ticket). The ticket for the trip back is \"en returbillet\" (a round-trip ticket).",
+  "explanation": "\"En enkeltbillet\" means \"a one-way ticket\". It is built from \"enkelt\" (single) and \"billet\" (ticket). To ask for a ticket for the trip there and back, say \"en returbillet\" (a round-trip ticket): \"Jeg vil gerne have en returbillet\" (I would like a round-trip ticket).",
   "forms": [
    {
     "da": "en enkeltbillet",
@@ -4635,8 +4639,8 @@
     "en": "a train ticket"
    },
    {
-    "da": "en dagbillet",
-    "en": "a day ticket"
+    "da": "et klippekort",
+    "en": "a multi-ride card"
    }
   ],
   "sentence": {
@@ -4645,7 +4649,7 @@
   }
  },
  "en enlig forsørger": {
-  "explanation": "\"En enlig forsørger\" means \"a single parent\", an adult who raises and pays for a child alone. \"En forsørger\" (a provider) is anyone who pays for a family: \"Han er forsørger for tre børn\" (He provides for three children).",
+  "explanation": "\"En enlig forsørger\" means \"a single parent\". It is built from \"enlig\" (single, alone) and \"en forsørger\" (a provider). To say someone pays for a family, use \"forsørger\": \"Han er forsørger for tre børn\" (He is the provider for three children).",
   "forms": [
    {
     "da": "en enlig forsørger",
@@ -4688,7 +4692,7 @@
   }
  },
  "en entré": {
-  "explanation": "\"En entré\" means \"a hallway\", the area just inside the front door. \"Entré\" also means \"admission fee\": \"Der er gratis entré\" (Admission is free).",
+  "explanation": "\"En entré\" means \"a hallway\". Write it with the accent on the last letter, \"entré\", not \"entre\". To say it costs nothing to get in, use \"entré\" for the admission fee: \"Der er gratis entré\" (Admission is free).",
   "forms": [
    {
     "da": "en entré",
@@ -4713,12 +4717,12 @@
     "en": "a hallway / corridor"
    },
    {
-    "da": "en hoveddør",
-    "en": "a front door"
+    "da": "en korridor",
+    "en": "a corridor"
    },
    {
-    "da": "en knagerække",
-    "en": "a coat rack"
+    "da": "et vindfang",
+    "en": "a porch"
    }
   ],
   "sentence": {
@@ -4727,7 +4731,7 @@
   }
  },
  "en epidemi": {
-  "explanation": "\"En epidemi\" means \"an epidemic\", a sudden outbreak of an illness in one area. A worldwide outbreak is \"en pandemi\" (a pandemic).",
+  "explanation": "\"En epidemi\" means \"an epidemic\". To talk about an outbreak that spreads across the whole world, use \"en pandemi\" (a pandemic): \"Pandemien ramte hele verden\" (The pandemic hit the whole world).",
   "forms": [
    {
     "da": "en epidemi",
@@ -4758,10 +4762,6 @@
    {
     "da": "en smitte",
     "en": "an infection"
-   },
-   {
-    "da": "en influenza",
-    "en": "the flu"
    }
   ],
   "sentence": {
@@ -4770,7 +4770,7 @@
   }
  },
  "en episode": {
-  "explanation": "\"En episode\" means \"an episode\", one part of a TV show or podcast. \"Et afsnit\" (an episode) means the same.",
+  "explanation": "\"En episode\" means \"an episode\". To say you watch an episode, use \"at se\" (to watch): \"Vi ser en episode i aften\" (We are watching an episode tonight).",
   "forms": [
    {
     "da": "en episode",
@@ -4791,16 +4791,16 @@
   ],
   "related": [
    {
+    "da": "et afsnit",
+    "en": "an episode"
+   },
+   {
     "da": "en serie",
     "en": "a series"
    },
    {
     "da": "en sæson",
     "en": "a season"
-   },
-   {
-    "da": "en scene",
-    "en": "a scene"
    },
    {
     "da": "et program",
@@ -4813,7 +4813,7 @@
   }
  },
  "en erfaring": {
-  "explanation": "\"En erfaring\" means \"experience\" you have gained from doing something. For something that happens to you, use \"en oplevelse\" (an experience).",
+  "explanation": "\"En erfaring\" means \"experience\", as in skill you gain from doing a job. To talk about one event you lived through, use \"en oplevelse\" (an experience): \"Turen var en stor oplevelse\" (The trip was a great experience).",
   "forms": [
    {
     "da": "en erfaring",
@@ -4842,8 +4842,8 @@
     "en": "a qualification"
    },
    {
-    "da": "at lære",
-    "en": "to learn"
+    "da": "erfaren",
+    "en": "experienced"
    }
   ],
   "sentence": {
@@ -4852,7 +4852,7 @@
   }
  },
  "en ergoterapeut": {
-  "explanation": "\"En ergoterapeut\" means \"an occupational therapist\", a health worker who helps people manage tasks like dressing and cooking after an injury or illness. \"En fysioterapeut\" (a physical therapist) is the one who trains muscles and joints.",
+  "explanation": "\"En ergoterapeut\" means \"an occupational therapist\". To say who helps you cook and dress after an injury, say: \"Ergoterapeuten hjælper mig med at lave mad\" (The occupational therapist helps me cook). To talk about the therapist who trains your muscles, use \"en fysioterapeut\" (a physical therapist): \"Fysioterapeuten træner min skulder\" (The physical therapist trains my shoulder).",
   "forms": [
    {
     "da": "en ergoterapeut",
@@ -4891,7 +4891,7 @@
   }
  },
  "en erhvervsuddannelse": {
-  "explanation": "\"En erhvervsuddannelse\" means \"a vocational education\", training for a particular trade such as electrician, carpenter or chef. It is often shortened to EUD.",
+  "explanation": "\"En erhvervsuddannelse\" means \"a vocational education\". It is built from \"erhverv\" (trade) and \"uddannelse\" (education). To say you study for a trade, use \"at tage\" (to take): \"Han tager en erhvervsuddannelse som tømrer\" (He is taking a vocational education as a carpenter).",
   "forms": [
    {
     "da": "en erhvervsuddannelse",
@@ -4922,10 +4922,6 @@
    {
     "da": "en lærling",
     "en": "an apprentice"
-   },
-   {
-    "da": "en håndværker",
-    "en": "a craftsman"
    }
   ],
   "sentence": {
@@ -4934,7 +4930,7 @@
   }
  },
  "en erindring": {
-  "explanation": "\"En erindring\" means \"a memory\" of something in the past. The plural \"erindringer\" means \"memoirs\", the book a person writes about their own life: \"Han har skrevet sine erindringer\" (He has written his memoirs).",
+  "explanation": "\"En erindring\" means \"a memory\". To talk about a book a person writes about their own life, use the plural \"erindringer\" (memoirs): \"Han har skrevet sine erindringer\" (He has written his memoirs).",
   "forms": [
    {
     "da": "en erindring",
@@ -4956,7 +4952,7 @@
   "related": [
    {
     "da": "et minde",
-    "en": "a memory (the everyday word)"
+    "en": "a memory"
    },
    {
     "da": "en hukommelse",
@@ -4977,7 +4973,7 @@
   }
  },
  "en erkendelse": {
-  "explanation": "\"En erkendelse\" means \"a realization\", something you suddenly see clearly, often about yourself or life. It can also mean owning up to something: \"erkendelse af skyld\" (owning up to guilt).",
+  "explanation": "\"En erkendelse\" means \"a realization\". It comes from the verb \"at erkende\" (to acknowledge). To talk about admitting you did wrong, use \"erkendelse af skyld\" (admission of guilt).",
   "forms": [
    {
     "da": "en erkendelse",
@@ -4998,10 +4994,6 @@
   ],
   "related": [
    {
-    "da": "at erkende",
-    "en": "to acknowledge"
-   },
-   {
     "da": "en forståelse",
     "en": "an understanding"
    },
@@ -5020,7 +5012,7 @@
   }
  },
  "en erklæring": {
-  "explanation": "\"En erklæring\" means \"a declaration\" or \"a statement\", something said or signed officially to make a position or a fact clear. It also means a signed paper, such as \"en erklæring om samtykke\" (a declaration of consent).",
+  "explanation": "\"En erklæring\" means \"a declaration or statement\". It comes from the verb \"at erklære\" (to declare). To say what a declaration is about, add \"om\" (about): \"en erklæring om samtykke\" (a declaration of consent).",
   "forms": [
    {
     "da": "en erklæring",
@@ -5041,12 +5033,8 @@
   ],
   "related": [
    {
-    "da": "at erklære",
-    "en": "to declare"
-   },
-   {
     "da": "en udtalelse",
-    "en": "a comment"
+    "en": "a statement"
    },
    {
     "da": "en meddelelse",
@@ -5063,7 +5051,7 @@
   }
  },
  "en erstatning": {
-  "explanation": "\"En erstatning\" means \"compensation\", money paid for damage or loss, and also \"a replacement\", a thing or person that takes the place of another.",
+  "explanation": "\"En erstatning\" means \"compensation or a replacement\". To talk about money you get for damage, use it for \"compensation\": \"Jeg fik erstatning for skaden\" (I received compensation for the damage). To talk about someone or something that takes another's place, use it for \"a replacement\": \"Vi leder efter en erstatning for ham\" (We are looking for a replacement for him).",
   "forms": [
    {
     "da": "en erstatning",
@@ -5096,8 +5084,8 @@
     "en": "an insurance policy"
    },
    {
-    "da": "en skadeserstatning",
-    "en": "a damages payment"
+    "da": "en kompensation",
+    "en": "a compensation"
    }
   ],
   "sentence": {
@@ -5106,7 +5094,7 @@
   }
  },
  "en etage": {
-  "explanation": "\"En etage\" means \"a floor\", as a level of a building. The floor you walk on is \"et gulv\" (a floor).",
+  "explanation": "\"En etage\" means \"a floor (story)\", as in a level of a building. To talk about the surface you walk on, use \"et gulv\" (a floor): \"Gulvet er koldt\" (The floor is cold).",
   "forms": [
    {
     "da": "en etage",
@@ -5137,6 +5125,10 @@
    {
     "da": "et loft",
     "en": "an attic"
+   },
+   {
+    "da": "en stueetage",
+    "en": "a ground floor"
    }
   ],
   "sentence": {
@@ -5145,7 +5137,7 @@
   }
  },
  "en etagebolig": {
-  "explanation": "\"En etagebolig\" means \"an apartment in a multi-story building\". It is built from etage (floor) and bolig (home). \"Bolig\" means any place where you live, and it is linked to \"at bo\" (to live).",
+  "explanation": "\"En etagebolig\" means \"an apartment in a multi-story building\". It is built from \"etage\" (floor) and \"bolig\" (home). To talk about any place where you live, use \"en bolig\" (a home): \"Vi søger en ny bolig\" (We are looking for a new home).",
   "forms": [
    {
     "da": "en etagebolig",
@@ -5188,7 +5180,7 @@
   }
  },
  "en euro": {
-  "explanation": "\"En euro\" means \"a euro\", the money used in many European countries, such as France and Italy. Denmark has its own money, so Danish prices are not in euros.",
+  "explanation": "\"En euro\" means \"a euro\". After a number, \"euro\" does not change: \"Det koster fem euro\" (It costs five euros). Denmark does not use the euro. Danish money is \"en krone\" (a krone): \"Det koster tyve kroner\" (It costs twenty kroner).",
   "forms": [
    {
     "da": "en euro",
@@ -5209,12 +5201,12 @@
     "en": "a dollar"
    },
    {
-    "da": "en krone",
-    "en": "a krone"
-   },
-   {
     "da": "en valuta",
     "en": "a currency"
+   },
+   {
+    "da": "en cent",
+    "en": "a cent"
    }
   ],
   "sentence": {
@@ -5223,7 +5215,7 @@
   }
  },
  "en europæer": {
-  "explanation": "\"En europæer\" means \"a European\", a person from Europe. For things from Europe, use \"europæisk\" (European): \"europæisk historie\" (European history).",
+  "explanation": "\"En europæer\" means \"a European\". It comes from the continent's name \"Europa\" (Europe). To describe things from Europe, use \"europæisk\" (European): \"europæisk historie\" (European history).",
   "forms": [
    {
     "da": "en europæer",
@@ -5244,16 +5236,16 @@
   ],
   "related": [
    {
-    "da": "Europa",
-    "en": "Europe"
-   },
-   {
     "da": "en afrikaner",
     "en": "an African"
    },
    {
     "da": "en asiat",
     "en": "an Asian person"
+   },
+   {
+    "da": "en amerikaner",
+    "en": "an American"
    }
   ],
   "sentence": {
@@ -5262,7 +5254,7 @@
   }
  },
  "en evakuering": {
-  "explanation": "\"En evakuering\" means \"an evacuation\", moving people quickly out of a dangerous place, for example in a flood or a gas leak. The verb is \"at evakuere\" (to evacuate).",
+  "explanation": "\"En evakuering\" means \"an evacuation\". It comes from the verb \"at evakuere\" (to evacuate). To say people must leave a place, say: \"Vi skal evakuere bygningen\" (We must evacuate the building).",
   "forms": [
    {
     "da": "en evakuering",
@@ -5287,12 +5279,8 @@
     "en": "a fire drill"
    },
    {
-    "da": "en samlingsplads",
-    "en": "an assembly point"
-   },
-   {
-    "da": "en redning",
-    "en": "a rescue"
+    "da": "en brand",
+    "en": "a fire"
    },
    {
     "da": "en nødudgang",
@@ -5305,7 +5293,7 @@
   }
  },
  "en evighed": {
-  "explanation": "\"En evighed\" means \"an eternity\", time that never ends. In everyday speech it is also a very long time: \"Det varede en evighed\" (It took forever).",
+  "explanation": "\"En evighed\" means \"an eternity\". To say something took a very long time, use it as in English: \"Det varede en evighed\" (It took forever).",
   "forms": [
    {
     "da": "en evighed",
@@ -5348,7 +5336,7 @@
   }
  },
  "en evne": {
-  "explanation": "\"En evne\" means \"an ability\", what someone is able to do or learn, often something you are born with. After it, use \"til\" (to): \"en evne til at lære\" (an ability to learn).",
+  "explanation": "\"En evne\" means \"an ability\". To talk about a skill you learn by practising, use \"en færdighed\" (a skill): \"Hun har lært en ny færdighed\" (She has learned a new skill).",
   "forms": [
    {
     "da": "en evne",
@@ -5369,10 +5357,6 @@
   ],
   "related": [
    {
-    "da": "en færdighed",
-    "en": "a skill"
-   },
-   {
     "da": "et talent",
     "en": "a talent"
    },
@@ -5391,7 +5375,7 @@
   }
  },
  "end": {
-  "explanation": "\"End\" means \"than\": \"Hun er højere end mig\" (She is taller than me). It comes after words like \"større\" (bigger) or \"bedre\" (better). Do not use \"som\" (as) for \"than\". \"Som\" is for saying two things are equal: \"Han er lige så høj som mig\" (He is as tall as me).",
+  "explanation": "\"End\" means \"than\". To compare two things, put it after a word like \"større\" (bigger): \"Hun er højere end mig\" (She is taller than me). To say two things are equal, use \"som\" (as) instead: \"Han er lige så høj som mig\" (He is as tall as me).",
   "forms": [
    {
     "da": "større end mig",
@@ -5417,7 +5401,7 @@
    },
    {
     "da": "en ende",
-    "en": "an end (a look-alike)"
+    "en": "an end"
    }
   ],
   "sentence": {
@@ -5426,7 +5410,7 @@
   }
  },
  "endda": {
-  "explanation": "\"Endda\" means \"even\" and adds something more surprising to what you just said.",
+  "explanation": "\"Endda\" means \"even\". To add a stronger word to what you just said, say \"ja endda\" (indeed even): \"Maden er god, ja endda fremragende\" (The food is good, indeed even excellent).",
   "forms": [
    {
     "da": "Det regnede endda.",
@@ -5465,7 +5449,7 @@
   }
  },
  "endelig": {
-  "explanation": "\"Endelig\" means \"finally\" or \"at last\": \"Endelig!\" (At last!). It also makes an invitation warmer: \"Tag endelig en kage\" (Please do take a cake).",
+  "explanation": "\"Endelig\" means \"finally\". When something you have waited for happens, say: \"Endelig!\" (At last!). Do not mix it up with \"endeligt\" (for good), which has a t: \"Datoen er endeligt fastsat\" (The date is set for good).",
   "forms": [
    {
     "da": "Endelig fik vi svar.",
@@ -5500,7 +5484,7 @@
   }
  },
  "endeligt": {
-  "explanation": "\"Endeligt\" means \"definitively\", for good, with no more changes. Do not mix it up with \"endelig\" (finally), as in \"Endelig!\" (At last!).",
+  "explanation": "\"Endeligt\" means \"for good\". Do not mix it up with \"endelig\" (finally), which has no t: \"Endelig kom toget\" (The train finally came).",
   "forms": [
    {
     "da": "Det er endeligt afgjort",
@@ -5539,7 +5523,7 @@
   }
  },
  "endnu": {
-  "explanation": "\"Endnu\" means \"yet\" or \"still\". \"Ikke endnu\" (not yet) is the answer to a question: \"Har du spist?\" \"Nej, ikke endnu\" (Have you eaten? No, not yet). Before \"en\" (a), it means \"another\": \"endnu en kop kaffe\" (another cup of coffee). Before a word like \"bedre\" (better), it means \"even\": \"endnu bedre\" (even better).",
+  "explanation": "\"Endnu\" means \"yet or still\". To answer that you have not done something yet, say: \"Har du spist?\" \"Nej, ikke endnu\" (Have you eaten? No, not yet). Before a word like \"bedre\" (better), it means \"even\": \"Det bliver endnu bedre\" (It gets even better).",
   "forms": [
    {
     "da": "endnu",
@@ -5574,7 +5558,7 @@
   }
  },
  "endskønt": {
-  "explanation": "\"Endskønt\" means \"although\": \"Endskønt det regnede, gik vi en tur\" (Although it rained, we went for a walk). It sounds formal, so you meet it mostly in books and speeches, while people use \"selvom\" (even though) when they talk.",
+  "explanation": "\"Endskønt\" means \"although\": \"Endskønt det regnede, gik vi en tur\" (Although it rained, we went for a walk). It sounds formal. In everyday talk, use \"selvom\" (even though): \"Selvom det regnede, gik vi en tur\" (Even though it rained, we went for a walk).",
   "forms": [
    {
     "da": "endskønt hun var syg",
@@ -5613,7 +5597,7 @@
   }
  },
  "endvidere": {
-  "explanation": "\"Endvidere\" means \"furthermore\" and adds one more point to what you just said: \"Bilen er sikker. Endvidere er den billig\" (The car is safe. Furthermore, it is cheap). It sounds formal, so you find it mostly in letters, reports and speeches; in everyday talk Danes more often say \"også\" (also).",
+  "explanation": "\"Endvidere\" means \"furthermore\". To add one more point to what you just said, say: \"Bilen er sikker. Endvidere er den billig\" (The car is safe. Furthermore, it is cheap). It sounds formal.",
   "forms": [
    {
     "da": "Endvidere er prisen lav",
@@ -5640,10 +5624,6 @@
    {
     "da": "ydermere",
     "en": "moreover"
-   },
-   {
-    "da": "samtidig",
-    "en": "at the same time"
    }
   ],
   "sentence": {
@@ -5652,7 +5632,7 @@
   }
  },
  "energi": {
-  "explanation": "\"Energi\" means \"energy\", both power that makes things run and the strength you feel. Power from the wall is called \"strøm\" (electricity).",
+  "explanation": "\"Energi\" means \"energy\". To say you feel full of strength, use it too: \"Jeg har ikke meget energi i dag\" (I do not have much energy today). To talk about electricity from the wall, use \"strøm\" (electricity): \"Der er ingen strøm\" (There is no electricity).",
   "forms": [
    {
     "da": "energi",
@@ -5677,10 +5657,6 @@
     "en": "a force"
    },
    {
-    "da": "solenergi",
-    "en": "solar energy"
-   },
-   {
     "da": "et batteri",
     "en": "a battery"
    },
@@ -5695,7 +5671,7 @@
   }
  },
  "energisk": {
-  "explanation": "\"Energisk\" means \"energetic\" and describes someone full of energy. The opposite is \"sløv\" (sluggish).",
+  "explanation": "\"Energisk\" means \"energetic\". It comes from \"energi\" (energy). To say someone has little energy, use the opposite \"sløv\" (sluggish): \"Jeg er sløv i dag\" (I am sluggish today).",
   "forms": [
    {
     "da": "en energisk pige",
@@ -5711,10 +5687,6 @@
    }
   ],
   "related": [
-   {
-    "da": "energi",
-    "en": "energy"
-   },
    {
     "da": "aktiv",
     "en": "active"
@@ -5734,7 +5706,7 @@
   }
  },
  "eneste": {
-  "explanation": "\"Eneste\" means \"only\" or \"single\". It normally comes after \"den\", \"det\" or \"de\" (the): \"den eneste\" for en-words, \"det eneste\" for et-words. Do not mix it up with \"kun\" (just, only): \"Jeg har kun én bil\" (I have only one car).",
+  "explanation": "\"Eneste\" means \"only\". To say \"only\" with a number or an amount, use \"kun\" (just, only) instead: \"Jeg har kun én bil\" (I have only one car). To say \"not a single\", put \"ikke en\" before it: \"Der er ikke en eneste sky\" (There is not a single cloud).",
   "forms": [
    {
     "da": "den eneste bil",
@@ -5769,7 +5741,7 @@
   }
  },
  "enestående": {
-  "explanation": "\"Enestående\" means \"unique\" or \"outstanding\". It is built from ene (alone) and stående (standing), so it describes something that stands by itself with nothing like it. It is a compliment: \"Hun har en enestående stemme\" (She has an outstanding voice).",
+  "explanation": "\"Enestående\" means \"unique\". It is built from \"ene\" (alone) and \"stående\" (standing). To praise someone, say: \"Hun har en enestående stemme\" (She has an outstanding voice).",
   "forms": [
    {
     "da": "en enestående chance",
@@ -5808,7 +5780,7 @@
   }
  },
  "engang": {
-  "explanation": "\"Engang\" (without a space) means \"once\" or \"some day\", for a time you do not name exactly: \"Der var engang...\" (Once upon a time...), \"Kom og besøg mig engang\" (Come and visit me sometime). \"En gang\" (with a space) means \"one time\": \"en gang om dagen\" (once a day).",
+  "explanation": "\"Engang\" means \"once\". To start a story, say: \"Der var engang...\" (Once upon a time...). To invite someone for a time you do not name, say: \"Kom og besøg mig engang\" (Come and visit me sometime). Written as two words, \"en gang\" means \"one time\": \"en gang om dagen\" (once a day).",
   "forms": [
    {
     "da": "Der var engang...",
@@ -5843,7 +5815,7 @@
   }
  },
  "engelsk": {
-  "explanation": "\"Engelsk\" means \"English\", for the language and for things from England. As a school subject, say \"Jeg har engelsk\" (I have English, meaning an English lesson). Words for languages start with a lowercase letter in Danish.",
+  "explanation": "\"Engelsk\" means \"English\". To say you have an English lesson at school, say: \"Jeg har engelsk\" (I have English). Danish writes words for languages with a lowercase letter: \"engelsk\", not \"Engelsk\".",
   "forms": [
    {
     "da": "en engelsk bog",
@@ -5861,7 +5833,7 @@
   "related": [
    {
     "da": "en englænder",
-    "en": "an English person"
+    "en": "an Englishman"
    },
    {
     "da": "dansk",
@@ -5878,7 +5850,7 @@
   }
  },
  "england": {
-  "explanation": "\"England\" means \"England\". It is only one part of the United Kingdom. To talk about England, Scotland and Wales together, say \"Storbritannien\" (Great Britain).",
+  "explanation": "\"England\" means \"England\". The country is written with a capital E, but \"engelsk\" (English) is written with a small e. To talk about England, Scotland and Wales together, use \"Storbritannien\" (Great Britain): \"Jeg rejser til Storbritannien\" (I am travelling to Great Britain).",
   "forms": [
    {
     "da": "England",
@@ -5899,12 +5871,12 @@
     "en": "an Englishman"
    },
    {
-    "da": "engelsk",
-    "en": "English"
-   },
-   {
     "da": "Skotland",
     "en": "Scotland"
+   },
+   {
+    "da": "britisk",
+    "en": "British"
    }
   ],
   "sentence": {
@@ -5913,7 +5885,7 @@
   }
  },
  "enhver": {
-  "explanation": "\"Enhver\" means \"anyone\" or \"every\". With an et-word it becomes \"ethvert\": \"ethvert barn\" (every child).",
+  "explanation": "\"Enhver\" means \"every\". To say \"every day\", use \"hver\" (every) instead: \"hver dag\" (every day). In front of \"barn\" (child), it becomes \"ethvert\": \"Ethvert barn kan lære det\" (Every child can learn it).",
   "forms": [
    {
     "da": "enhver elev",
@@ -5929,10 +5901,6 @@
    }
   ],
   "related": [
-   {
-    "da": "hver",
-    "en": "each / every"
-   },
    {
     "da": "alle",
     "en": "everyone"
@@ -5952,7 +5920,7 @@
   }
  },
  "enig": {
-  "explanation": "\"Enig\" means \"in agreement\". Danes say \"Det er jeg enig i\" (I agree with that), literally \"I am in agreement with that\", using \"er\" (am) where English uses the verb \"agree\".",
+  "explanation": "\"Enig\" means \"agree\". Danish uses \"er\" (am) with it, not a verb: \"Jeg er enig\" is literally \"I am in agreement\". To say what you agree with, add \"i\" (in): \"Det er jeg enig i\" (I agree with that).",
   "forms": [
    {
     "da": "Jeg er enig.",
@@ -5978,11 +5946,7 @@
    },
    {
     "da": "en aftale",
-    "en": "a deal, an agreement"
-   },
-   {
-    "da": "at diskutere",
-    "en": "to discuss"
+    "en": "an agreement"
    }
   ],
   "sentence": {
@@ -5991,7 +5955,7 @@
   }
  },
  "enig med": {
-  "explanation": "\"Enig med\" means \"in agreement with\" a person: \"Jeg er enig med min mor\" (I agree with my mom). For an idea or opinion, use \"enig i\" (agree with): \"Jeg er enig i det\" (I agree with that).",
+  "explanation": "\"Enig med\" means \"agree with\". To say you agree with a person, use \"med\" (with): \"Jeg er enig med min mor\" (I agree with my mom). To say you agree with an idea or opinion, use \"enig i\" instead: \"Jeg er enig i det\" (I agree with that).",
   "forms": [
    {
     "da": "Jeg er enig med dig.",
@@ -6030,7 +5994,7 @@
   }
  },
  "enkel": {
-  "explanation": "\"Enkel\" means \"simple\" in the sense of plain and not complicated. For easy to do, use \"let\" (easy).",
+  "explanation": "\"Enkel\" means \"simple\", as in plain and not complicated. To say something is easy to do, use \"let\" (easy): \"Opgaven er let\" (The task is easy).",
   "forms": [
    {
     "da": "en enkel regel",
@@ -6069,7 +6033,7 @@
   }
  },
  "enkelt": {
-  "explanation": "\"Enkelt\" means \"single\" or \"simple\". \"En enkelt person\" (a single person) is just one, and \"Det er enkelt\" (It is simple) means it is easy.",
+  "explanation": "\"Enkelt\" means \"single\". When you say something is not complicated, it means \"simple\": \"Det er enkelt\" (It is simple).",
   "forms": [
    {
     "da": "en enkelt dag",
@@ -6108,7 +6072,7 @@
   }
  },
  "enkeltvis": {
-  "explanation": "\"Enkeltvis\" means \"one by one\", dealing with things separately rather than together. It is built from enkelt (single) and -vis (in the way of), the same ending as in \"parvis\" (in pairs).",
+  "explanation": "\"Enkeltvis\" means \"one by one\". It is built from \"enkelt\" (single) and \"-vis\" (in the way of). The same ending is in \"parvis\" (in pairs): \"De gik parvis ind\" (They went in in pairs).",
   "forms": [
    {
     "da": "Kom ind enkeltvis",
@@ -6122,7 +6086,7 @@
   "related": [
    {
     "da": "hver for sig",
-    "en": "each on its own"
+    "en": "each separately"
    },
    {
     "da": "samlet",
@@ -6143,7 +6107,7 @@
   }
  },
  "enlig": {
-  "explanation": "\"Enlig\" means \"single\" or \"solitary\". It describes someone without a partner, as in \"en enlig mor\" (a single mother), or a lone thing, as in \"et enligt hus\" (a lone house). To say you are not in a relationship, Danes usually say \"Jeg er single\" (I am single).",
+  "explanation": "\"Enlig\" means \"single\", as in living without a partner. To talk about a mother raising children alone, say: \"en enlig mor\" (a single mother). Do not mix it up with \"ensom\" (lonely): \"Hun føler sig ensom\" (She feels lonely).",
   "forms": [
    {
     "da": "en enlig far",
@@ -6164,10 +6128,6 @@
     "en": "alone"
    },
    {
-    "da": "ensom",
-    "en": "lonely"
-   },
-   {
     "da": "enkelt",
     "en": "single / individual"
    },
@@ -6182,7 +6142,7 @@
   }
  },
  "enogtyve": {
-  "explanation": "\"Enogtyve\" means \"twenty-one\". Danish says the one first, so it is literally \"one-and-twenty\". The same goes for 22, \"toogtyve\" (two-and-twenty), and 31, \"enogtredive\" (one-and-thirty).",
+  "explanation": "\"Enogtyve\" means \"twenty-one\". It is built from \"en\" (one), \"og\" (and) and \"tyve\" (twenty), so it is literally \"one-and-twenty\". Larger numbers follow the same pattern: \"toogtyve\" (22) and \"enogtredive\" (31).",
   "forms": [
    {
     "da": "enogtyve",
@@ -6221,7 +6181,7 @@
   }
  },
  "enorm": {
-  "explanation": "\"Enorm\" means \"enormous\", far bigger than normal. It is stronger than \"stor\" (big).",
+  "explanation": "\"Enorm\" means \"enormous\". To say something is only big, use \"stor\" (big): \"Huset er stort\" (The house is big).",
   "forms": [
    {
     "da": "en enorm bygning",
@@ -6260,7 +6220,7 @@
   }
  },
  "enormt": {
-  "explanation": "\"Enormt\" means \"enormously\" and makes a word like \"dyrt\" (expensive) much stronger.",
+  "explanation": "\"Enormt\" means \"enormously\". It comes from \"enorm\" (enormous). To make a describing word much stronger, put it before that word: \"Det er enormt dyrt\" (It is enormously expensive).",
   "forms": [
    {
     "da": "enormt stor",
@@ -6276,10 +6236,6 @@
    }
   ],
   "related": [
-   {
-    "da": "enorm",
-    "en": "enormous"
-   },
    {
     "da": "kæmpe",
     "en": "huge"
@@ -6299,7 +6255,7 @@
   }
  },
  "ens": {
-  "explanation": "\"Ens\" means \"identical\" or \"alike\".",
+  "explanation": "\"Ens\" means \"identical\". To say two people have the same teacher, use \"samme\" (same) before the noun: \"Vi har samme lærer\" (We have the same teacher).",
   "forms": [
    {
     "da": "to ens trøjer",
@@ -6320,12 +6276,12 @@
     "en": "different"
    },
    {
-    "da": "samme",
-    "en": "same"
+    "da": "uens",
+    "en": "unlike"
    },
    {
-    "da": "lige",
-    "en": "equal / alike"
+    "da": "identisk",
+    "en": "identical"
    },
    {
     "da": "at ligne",
@@ -6338,7 +6294,7 @@
   }
  },
  "ensfarvet": {
-  "explanation": "\"Ensfarvet\" means \"solid-colored\", all in one color with no pattern. It is built from ens (the same) and farvet (colored), and you use it for clothes, fabric and walls.",
+  "explanation": "\"Ensfarvet\" means \"solid-colored\". It is built from \"ens\" (identical) and \"farvet\" (colored). The opposite is \"stribet\" (striped): \"en stribet trøje\" (a striped sweater).",
   "forms": [
    {
     "da": "en ensfarvet trøje",
@@ -6354,10 +6310,6 @@
    }
   ],
   "related": [
-   {
-    "da": "stribet",
-    "en": "striped"
-   },
    {
     "da": "plettet",
     "en": "spotted"
@@ -6377,7 +6329,7 @@
   }
  },
  "ensomhed": {
-  "explanation": "\"Ensomhed\" means \"loneliness\", the feeling of being alone even when people are around. Someone who feels it is \"ensom\" (lonely): \"Jeg føler mig ensom\" (I feel lonely).",
+  "explanation": "\"Ensomhed\" means \"loneliness\". It is built from \"ensom\" (lonely) and the ending \"-hed\" (-ness). To say a person feels lonely, use \"ensom\": \"Jeg føler mig ensom\" (I feel lonely).",
   "forms": [
    {
     "da": "en ensomhed",
@@ -6406,10 +6358,6 @@
     "en": "a community"
    },
    {
-    "da": "et venskab",
-    "en": "a friendship"
-   },
-   {
     "da": "isolation",
     "en": "isolation"
    }
@@ -6420,7 +6368,7 @@
   }
  },
  "ental": {
-  "explanation": "\"Et ental\" means \"singular\", the word form for just one thing: \"en bog\" (a book) is ental, but \"bøger\" (books) is not. You hear it in grammar class, when you are asked to put a word \"i ental\" (in the singular).",
+  "explanation": "\"Et ental\" means \"a singular\". It is built from \"en\" (one) and \"tal\" (number). The opposite is \"et flertal\" (a plural): \"Ordet bøger er i flertal\" (The word bøger is in the plural).",
   "forms": [
    {
     "da": "et ental",
@@ -6441,16 +6389,16 @@
   ],
   "related": [
    {
-    "da": "et flertal",
-    "en": "a plural"
-   },
-   {
-    "da": "et tal",
-    "en": "a number"
-   },
-   {
     "da": "en endelse",
     "en": "an ending"
+   },
+   {
+    "da": "et navneord",
+    "en": "a noun"
+   },
+   {
+    "da": "et ord",
+    "en": "a word"
    }
   ],
   "sentence": {
@@ -6459,7 +6407,7 @@
   }
  },
  "enten": {
-  "explanation": "\"Enten\" means \"either\" and works with \"eller\" (or) to give two choices: \"Vi tager enten bussen eller toget\" (We take either the bus or the train).",
+  "explanation": "\"Enten\" means \"either\". It works with \"eller\" (or) to give two choices. To say you take one of two things, say: \"Vi tager enten bussen eller toget\" (We take either the bus or the train).",
   "forms": [
    {
     "da": "enten kaffe eller te",
@@ -6494,7 +6442,7 @@
   }
  },
  "enten…eller": {
-  "explanation": "\"Enten … eller\" means \"either … or\" and gives two choices. \"Enten\" goes before the first choice and \"eller\" (or) before the second. For \"neither … nor\", say \"hverken … eller\": \"Jeg vil hverken have kaffe eller te\" (I want neither coffee nor tea).",
+  "explanation": "\"Enten … eller\" means \"either … or\". To say neither of two things, use \"hverken … eller\" (neither … nor) instead: \"Jeg vil hverken have kaffe eller te\" (I want neither coffee nor tea).",
   "forms": [
    {
     "da": "enten kaffe eller te",
@@ -6529,7 +6477,7 @@
   }
  },
  "entusiastisk": {
-  "explanation": "\"Entusiastisk\" means \"enthusiastic\", showing strong, happy interest in something. It describes both people and their reactions, as in \"en entusiastisk modtagelse\" (an enthusiastic reception). The person who feels it is \"en entusiast\" (an enthusiast).",
+  "explanation": "\"Entusiastisk\" means \"enthusiastic\". It comes from \"en entusiast\" (an enthusiast). To describe a warm welcome, say: \"en entusiastisk modtagelse\" (an enthusiastic reception).",
   "forms": [
    {
     "da": "en entusiastisk elev",
@@ -6568,7 +6516,7 @@
   }
  },
  "er det ...?": {
-  "explanation": "\"Er det ...?\" means \"is it ...?\". Danish asks a question by putting \"er\" (is) first, with no extra word like \"do\": \"Er det rigtigt?\" (Is that right?) and \"Er det din bil?\" (Is it your car?).",
+  "explanation": "\"Er det ...?\" means \"is it ...?\". To ask a question, put \"er\" (is) first, with no extra word like \"do\": \"Er det rigtigt?\" (Is that right?).",
   "forms": [
    {
     "da": "Er det dig?",
@@ -6585,16 +6533,16 @@
   ],
   "related": [
    {
-    "da": "hvad er det?",
-    "en": "what is it?"
-   },
-   {
     "da": "er der ...?",
     "en": "is there ...?"
    },
    {
-    "da": "hvem er det?",
-    "en": "who is it?"
+    "da": "var det ...?",
+    "en": "was it ...?"
+   },
+   {
+    "da": "bliver det ...?",
+    "en": "will it be ...?"
    }
   ],
   "sentence": {
@@ -6603,7 +6551,7 @@
   }
  },
  "er du sikker?": {
-  "explanation": "\"Er du sikker?\" means \"are you sure?\". \"Sikker\" means \"sure\", and also \"safe\": \"en sikker bil\" (a safe car). To ask more than one person, say \"Er I sikre?\" (Are you all sure?).",
+  "explanation": "\"Er du sikker?\" means \"are you sure?\". To talk about something that cannot hurt you, \"sikker\" also means \"safe\": \"en sikker bil\" (a safe car). To ask more than one person, say: \"Er I sikre?\" (Are you all sure?).",
   "forms": [
    {
     "da": "Er du sikker?",
@@ -6638,7 +6586,7 @@
   }
  },
  "erfaren": {
-  "explanation": "\"Erfaren\" means \"experienced\", about a person who knows a job well after doing it for a long time. It comes from \"en erfaring\" (experience gained by doing), not \"en oplevelse\" (something you go through, like a trip).",
+  "explanation": "\"Erfaren\" means \"experienced\". It comes from \"en erfaring\" (experience gained from doing a job). To say in what job, add \"som\" (as): \"Hun er erfaren som kok\" (She is experienced as a cook).",
   "forms": [
    {
     "da": "en erfaren lærer",
@@ -6677,7 +6625,7 @@
   }
  },
  "et efternavn": {
-  "explanation": "\"Et efternavn\" means \"a last name\", the family name you share with your family. It is made of efter (after) and et navn (a name).",
+  "explanation": "\"Et efternavn\" means \"a last name\". It is made of \"efter\" (after) and \"et navn\" (a name). To ask for someone's last name, say: \"Hvad er dit efternavn?\" (What is your last name?).",
   "forms": [
    {
     "da": "et efternavn",
@@ -6716,7 +6664,7 @@
   }
  },
  "et efterår": {
-  "explanation": "\"Et efterår\" means \"an autumn\" (or \"a fall\" in American English), the season between summer and winter. It is made of efter (after) and et år (a year).",
+  "explanation": "\"Et efterår\" means \"an autumn\". It is made of \"efter\" (after) and \"et år\" (a year).",
   "forms": [
    {
     "da": "et efterår",
@@ -6751,7 +6699,7 @@
   }
  },
  "et egern": {
-  "explanation": "\"Et egern\" means \"a squirrel\", a small animal with a long bushy tail.",
+  "explanation": "\"Et egern\" means \"a squirrel\". The plural has the same form as the singular: \"to egern\" (two squirrels).",
   "forms": [
    {
     "da": "et egern",
@@ -6772,10 +6720,6 @@
   ],
   "related": [
    {
-    "da": "en nød",
-    "en": "a nut"
-   },
-   {
     "da": "en gnaver",
     "en": "a rodent"
    },
@@ -6794,7 +6738,7 @@
   }
  },
  "et ego": {
-  "explanation": "\"Et ego\" means \"an ego\", your sense of who you are and how important you feel. When someone is full of themselves, Danes say \"Han har et stort ego\" (He has a big ego).",
+  "explanation": "\"Et ego\" means \"an ego\". To say someone thinks too much of himself, say: \"Han har et stort ego\" (He has a big ego).",
   "forms": [
    {
     "da": "et ego",
@@ -6837,7 +6781,7 @@
   }
  },
  "et ekko": {
-  "explanation": "\"Et ekko\" means \"an echo\", a sound that comes back.",
+  "explanation": "\"Et ekko\" means \"an echo\". Danish spells it with two k's, \"ekko\", not \"echo\".",
   "forms": [
    {
     "da": "et ekko",
@@ -6858,20 +6802,16 @@
   ],
   "related": [
    {
-    "da": "en lyd",
-    "en": "a sound"
+    "da": "ekkolod",
+    "en": "an echo sounder"
    },
    {
-    "da": "at råbe",
-    "en": "to shout"
+    "da": "en genklang",
+    "en": "a resonance"
    },
    {
-    "da": "en stemme",
-    "en": "a voice"
-   },
-   {
-    "da": "stilhed",
-    "en": "silence"
+    "da": "at gentage",
+    "en": "to repeat"
    }
   ],
   "sentence": {
@@ -6880,7 +6820,7 @@
   }
  },
  "et eksamensbevis": {
-  "explanation": "\"Et eksamensbevis\" means \"a diploma\", an official paper given by a school or university to show you passed your final tests.",
+  "explanation": "\"Et eksamensbevis\" means \"a diploma\". It is built from \"eksamen\" (exam) and \"et bevis\" (proof).",
   "forms": [
    {
     "da": "et eksamensbevis",
@@ -6901,16 +6841,16 @@
   ],
   "related": [
    {
-    "da": "et karakterblad",
-    "en": "a grade report"
+    "da": "en ansøgning",
+    "en": "an application"
    },
    {
     "da": "et certifikat",
     "en": "a certificate"
    },
    {
-    "da": "et kursusbevis",
-    "en": "a course certificate"
+    "da": "et diplom",
+    "en": "a diploma"
    },
    {
     "da": "en uddannelse",
@@ -6923,7 +6863,7 @@
   }
  },
  "et eksempel": {
-  "explanation": "\"Et eksempel\" means \"an example\". To say \"for example\", write \"for eksempel\" (short: \"f.eks.\") or \"til eksempel\" (short: \"t.eks.\"); both mean the same.",
+  "explanation": "\"Et eksempel\" means \"an example\". To say \"for example\", use \"for eksempel\" (short: \"f.eks.\"): \"Jeg kan lide frugt, for eksempel æbler\" (I like fruit, for example apples).",
   "forms": [
    {
     "da": "et eksempel",
@@ -6952,10 +6892,6 @@
     "en": "a sample"
    },
    {
-    "da": "en model",
-    "en": "a model"
-   },
-   {
     "da": "en forklaring",
     "en": "an explanation"
    }
@@ -6966,7 +6902,7 @@
   }
  },
  "et eksperiment": {
-  "explanation": "\"Et eksperiment\" means \"an experiment\", a test to find something out. The matching verb is \"at eksperimentere\" (to experiment).",
+  "explanation": "\"Et eksperiment\" means \"an experiment\". It goes with the verb \"at eksperimentere\" (to experiment). To say someone carries out one, use \"udføre\" (carry out): \"Læreren udfører et eksperiment\" (The teacher carries out an experiment).",
   "forms": [
    {
     "da": "et eksperiment",
@@ -7009,7 +6945,7 @@
   }
  },
  "et emne": {
-  "explanation": "\"Et emne\" means \"a subject\" or \"a topic\" to talk or write about. For a school subject like math or history, use \"et fag\" (a school subject) instead.",
+  "explanation": "\"Et emne\" means \"a subject or topic\". To talk about a school subject like math, use \"et fag\" (a school subject) instead: \"Matematik er mit yndlingsfag\" (Math is my favorite subject).",
   "forms": [
    {
     "da": "et emne",
@@ -7048,7 +6984,7 @@
   }
  },
  "et enkeltværelse": {
-  "explanation": "\"Et enkeltværelse\" means \"a single room\", a hotel room for one person. It is made of enkelt (single) and et værelse (a room).",
+  "explanation": "\"Et enkeltværelse\" means \"a single room\". It is made of \"enkelt\" (single) and \"et værelse\" (a room). For two people, use \"et dobbeltværelse\" (a double room): \"Vi vil gerne have et dobbeltværelse\" (We would like a double room).",
   "forms": [
    {
     "da": "et enkeltværelse",
@@ -7069,16 +7005,16 @@
   ],
   "related": [
    {
-    "da": "et dobbeltværelse",
-    "en": "a double room"
-   },
-   {
     "da": "et hotelværelse",
     "en": "a hotel room"
    },
    {
     "da": "en enkeltseng",
     "en": "a single bed"
+   },
+   {
+    "da": "en dobbeltseng",
+    "en": "a double bed"
    }
   ],
   "sentence": {
@@ -7087,7 +7023,7 @@
   }
  },
  "et erhverv": {
-  "explanation": "\"Et erhverv\" means \"a profession\", the work a person does to earn a living: \"Hvad er dit erhverv?\" (What is your profession?). It also appears in \"erhvervslivet\" (the business world).",
+  "explanation": "\"Et erhverv\" means \"a profession\". To ask what someone does for a living, say: \"Hvad er dit erhverv?\" (What is your profession?). The word is also part of \"erhvervslivet\" (the business world): \"Hun arbejder i erhvervslivet\" (She works in the business world).",
   "forms": [
    {
     "da": "et erhverv",
@@ -7118,10 +7054,6 @@
    {
     "da": "en uddannelse",
     "en": "an education"
-   },
-   {
-    "da": "en virksomhed",
-    "en": "a company"
    }
   ],
   "sentence": {
@@ -7130,7 +7062,7 @@
   }
  },
  "et escape room": {
-  "explanation": "\"Et escape room\" means \"an escape room\", a game where a group is locked in a room and solves puzzles to get out. Danes use the English words.",
+  "explanation": "\"Et escape room\" means \"an escape room\". Danish uses the English words, so it is written the same. To say you have tried one, say: \"Vi har været i et escape room\" (We have been in an escape room).",
   "forms": [
    {
     "da": "et escape room",
@@ -7173,7 +7105,7 @@
   }
  },
  "et essay": {
-  "explanation": "\"Et essay\" means \"an essay\", a piece of writing where the author explores a subject and gives personal views. It is freer and more personal than a school composition, \"en stil\".",
+  "explanation": "\"Et essay\" means \"an essay\". To talk about a writing task at school, use \"en stil\" (a composition) instead: \"Vi skal skrive en stil\" (We have to write a composition).",
   "forms": [
    {
     "da": "et essay",
@@ -7216,7 +7148,7 @@
   }
  },
  "et eventyr": {
-  "explanation": "\"Et eventyr\" means both \"a fairy tale\" and \"an adventure\". A fairy tale is an old made-up story, and an adventure is an exciting trip or experience: \"Rejsen var et eventyr\" (The trip was an adventure).",
+  "explanation": "\"Et eventyr\" means \"a fairy tale or adventure\". To talk about an old story with witches and princes, use it for \"a fairy tale\": \"Hun læser et eventyr for børnene\" (She reads a fairy tale to the children). To say a trip was exciting, use it for \"an adventure\": \"Rejsen var et eventyr\" (The trip was an adventure).",
   "forms": [
    {
     "da": "et eventyr",
@@ -7259,7 +7191,7 @@
   }
  },
  "ethvert": {
-  "explanation": "\"Ethvert\" means \"every\" or \"any\" and goes only before an et-word. With an en-word, use \"enhver\" (every, any): \"enhver mand\" (every man).",
+  "explanation": "\"Ethvert\" means \"every\". Use it before words like \"barn\" (child) or \"sted\" (place). Before words like \"mand\" (man), use \"enhver\" (every) instead: \"enhver mand\" (every man).",
   "forms": [
    {
     "da": "ethvert barn",
@@ -7281,11 +7213,11 @@
    },
    {
     "da": "hvert",
-    "en": "each (with et-words)"
+    "en": "each"
    },
    {
     "da": "hver",
-    "en": "each (with en-words)"
+    "en": "each"
    },
    {
     "da": "hvilken som helst",
@@ -7298,7 +7230,7 @@
   }
  },
  "etik": {
-  "explanation": "\"Etik\" means \"ethics\", thinking about what is right and wrong. For \"ethical\", Danish says \"etisk\": \"Det er ikke etisk\" (That is not ethical).",
+  "explanation": "\"Etik\" means \"ethics\". To say something is ethical, use \"etisk\" (ethical): \"Det er ikke etisk\" (That is not ethical).",
   "forms": [
    {
     "da": "etik",
@@ -7341,7 +7273,7 @@
   }
  },
  "eu": {
-  "explanation": "\"EU\" means \"the EU\", the group of European countries that work together. Danish says \"i EU\" (in the EU) with no word for \"the\".",
+  "explanation": "\"EU\" means \"the EU\". Danish uses no word for \"the\" with it: \"Danmark er medlem af EU\" (Denmark is a member of the EU).",
   "forms": [
    {
     "da": "EU's regler",
@@ -7376,7 +7308,7 @@
   }
  },
  "europa": {
-  "explanation": "\"Europa\" means \"Europe\", the continent that includes Denmark, Germany and France.",
+  "explanation": "\"Europa\" means \"Europe\". The Danish name ends in \"a\", not \"e\". To say something belongs to Europe, use \"europæisk\" (European): \"europæisk mad\" (European food).",
   "forms": [
    {
     "da": "Europa",
@@ -7397,12 +7329,12 @@
     "en": "a European"
    },
    {
-    "da": "europæisk",
-    "en": "European"
-   },
-   {
     "da": "EU",
     "en": "the EU"
+   },
+   {
+    "da": "Asien",
+    "en": "Asia"
    }
   ],
   "sentence": {
@@ -7411,7 +7343,7 @@
   }
  },
  "europæisk": {
-  "explanation": "\"Europæisk\" means \"European\", for things that belong to Europe. Unlike English, it is written with a lowercase letter: \"europæisk mad\" (European food).",
+  "explanation": "\"Europæisk\" means \"European\". It comes from \"Europa\" (Europe). Unlike English, it is written with a lowercase letter: \"europæisk mad\" (European food).",
   "forms": [
    {
     "da": "en europæisk by",
@@ -7428,16 +7360,16 @@
   ],
   "related": [
    {
-    "da": "Europa",
-    "en": "Europe"
-   },
-   {
     "da": "en europæer",
     "en": "a European person"
    },
    {
     "da": "EU",
     "en": "the EU"
+   },
+   {
+    "da": "asiatisk",
+    "en": "Asian"
    }
   ],
   "sentence": {
@@ -7446,7 +7378,7 @@
   }
  },
  "eventuel": {
-  "explanation": "\"Eventuel\" means \"possible\" and \"any\", for something that may or may not happen: \"Ring, hvis der er eventuelle problemer\" (Call if there are any problems). It does not mean what English \"eventual\" means (happening in the end). For that, use \"til sidst\" (in the end).",
+  "explanation": "\"Eventuel\" means \"possible\". To say \"any\" problems that may or may not come, use it: \"Ring, hvis der er eventuelle problemer\" (Call if there are any problems). Do not mix it up with English \"eventual\" (happening in the end). For that, use \"til sidst\" (in the end): \"Til sidst vandt vi\" (In the end we won).",
   "forms": [
    {
     "da": "en eventuel fejl",
@@ -7464,7 +7396,7 @@
   "related": [
    {
     "da": "eventuelt",
-    "en": "if need be"
+    "en": "possibly"
    },
    {
     "da": "måske",
@@ -7485,7 +7417,7 @@
   }
  },
  "evig": {
-  "explanation": "\"Evig\" means \"eternal\", lasting forever. It is also used for things that seem never to end: \"en evig diskussion\" (a never-ending discussion).",
+  "explanation": "\"Evig\" means \"eternal\". To say something seems never to end, use it too: \"en evig diskussion\" (a never-ending discussion). The noun is \"en evighed\" (an eternity).",
   "forms": [
    {
     "da": "en evig kamp",
@@ -7502,8 +7434,8 @@
   ],
   "related": [
    {
-    "da": "en evighed",
-    "en": "an eternity"
+    "da": "evigt",
+    "en": "forever"
    },
    {
     "da": "uendelig",
@@ -7524,7 +7456,7 @@
   }
  },
  "evigt": {
-  "explanation": "\"Evigt\" means \"forever\". Use it after a verb: \"Jeg husker det evigt\" (I will remember it forever). Before a noun, use \"evig\": \"evig kærlighed\" (eternal love).",
+  "explanation": "\"Evigt\" means \"forever\". To say \"forever\" before a noun, use \"evig\" (eternal) instead: \"evig kærlighed\" (eternal love).",
   "forms": [
    {
     "da": "Det varer evigt",

@@ -19,8 +19,15 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
     if (!Array.isArray(e.forms) || !e.forms.length || e.forms.some((x) => !x.da || !x.en)) fail(k + ": forms");
     if (!e.explanation || e.explanation.length < 15) fail(k + ": explanation too short");
     if (!/^"[^"]+"/.test(e.explanation)) fail(k + ": explanation must open with the quoted word'");
-    const banned = /learn (it|them) as|fixed phrase|written as one word|usual pattern|participle|infinitive|conjugat|declen|definite|indefinite|neuter|\bis the (head|doll)\b|useful for text|\bit is an? (en|et)-word/i;
-    if (banned.test(e.explanation)) fail(k + ": explanation has banned wording");
+    const banned = /learn (it|them) as|fixed phrase|written as one word|usual pattern|participle|infinitive|conjugat|declen|\bdefinite\b|indefinite|neuter|\bis the (head|doll)\b|useful for text|\bit is an? (en|et)-word/i;
+    if (!/bestemt form|køn$|navnemåde/.test(k) && banned.test(e.explanation)) fail(k + ": explanation has banned wording");
+    // Final card rules (Nov 14): a word with no article still has a gender; name only the matching article.
+    if (/leave out "en" and "et"|no "en" or "et"|without "en" or "et"/i.test(e.explanation)) fail(k + ": name only the article that matches the word, not 'en and et'");
+    {
+      const named = e.explanation.match(/leave out "(en|et)"/);
+      const the = e.forms.map((x) => x.da).find((d) => d.startsWith(k.slice(0, 4)) && d.length - k.length <= 3 && d.length > k.length && /(en|et)$/.test(d));
+      if (named && the && the.slice(-2) !== named[1]) fail(k + ": says leave out \"" + named[1] + "\" but its the-form " + the + " shows " + the.slice(-2));
+    }
     // Owner's wording rules: vague phrases a beginner cannot picture.
     const vague = /\bon its own\b|even for a single pair/i;
     if (vague.test(e.explanation)) fail(k + ": explanation has a vague phrase");

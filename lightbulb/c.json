@@ -1,6 +1,6 @@
 {
  "at censurere": {
-  "explanation": "\"At censurere\" means \"to censor\", to cut or forbid parts of a text or a film so that people cannot see them. Do not mix it up with \"en censor\" (an examiner), the outside person who helps grade a school exam.",
+  "explanation": "\"At censurere\" means \"to censor\". Do not mix it up with \"en censor\" (an examiner), who helps grade an exam: \"Censoren giver karakteren\" (The examiner gives the grade).",
   "forms": [
    {
     "da": "at censurere",
@@ -21,16 +21,16 @@
   ],
   "related": [
    {
-    "da": "en censur",
-    "en": "censorship"
-   },
-   {
     "da": "at forbyde",
     "en": "to ban"
    },
    {
     "da": "at udelade",
     "en": "to leave out"
+   },
+   {
+    "da": "at skjule",
+    "en": "to hide"
    },
    {
     "da": "ytringsfrihed",
@@ -43,7 +43,7 @@
   }
  },
  "at checke ind": {
-  "explanation": "\"At checke ind\" means \"to check in\", whether at a hotel or at an airport. The check-in itself is called \"et check-in\" (a check-in).",
+  "explanation": "\"At checke ind\" means \"to check in\". To ask where to check in at the airport, say: \"Hvor kan jeg checke ind?\" (Where can I check in?).",
   "forms": [
    {
     "da": "at checke ind",
@@ -82,7 +82,7 @@
   }
  },
  "at checke ud": {
-  "explanation": "\"At checke ud\" means \"to check out\", to leave a hotel at the end of your stay. The opposite is \"at checke ind\" (to check in).",
+  "explanation": "\"At checke ud\" means \"to check out\", as in leaving a hotel. To ask when you must leave the room, say: \"Hvornår skal vi checke ud?\" (When do we have to check out?).",
   "forms": [
    {
     "da": "at checke ud",
@@ -103,6 +103,10 @@
   ],
   "related": [
    {
+    "da": "at checke ind",
+    "en": "to check in"
+   },
+   {
     "da": "at tjekke ud",
     "en": "to check out (other spelling)"
    },
@@ -111,8 +115,8 @@
     "en": "to leave"
    },
    {
-    "da": "en udtjekning",
-    "en": "a check-out"
+    "da": "en reception",
+    "en": "a front desk"
    }
   ],
   "sentence": {
@@ -121,7 +125,7 @@
   }
  },
  "at cirkulere": {
-  "explanation": "\"At cirkulere\" means \"to circulate\", to move around in a loop or from person to person. Use it for something that keeps going around: \"Blodet cirkulerer rundt i kroppen\" (Blood circulates around the body), \"Pengene cirkulerer i byen\" (The money circulates in the town).",
+  "explanation": "\"At cirkulere\" means \"to circulate\". To say blood moves around the body, use it for blood: \"Blodet cirkulerer rundt i kroppen\" (Blood circulates around the body). The start \"cirk-\" is also in \"en cirkel\" (a circle).",
   "forms": [
    {
     "da": "at cirkulere",
@@ -142,10 +146,6 @@
   ],
   "related": [
    {
-    "da": "en cirkel",
-    "en": "a circle"
-   },
-   {
     "da": "et kredsløb",
     "en": "a circuit"
    },
@@ -156,6 +156,10 @@
    {
     "da": "at rotere",
     "en": "to rotate"
+   },
+   {
+    "da": "en cirkulation",
+    "en": "a circulation"
    }
   ],
   "sentence": {
@@ -164,7 +168,7 @@
   }
  },
  "at citere": {
-  "explanation": "\"At citere\" means \"to quote\", to repeat the exact words of a person or a text. To name the speech or text the words come from, add \"fra\" (from): \"Han citerer fra en tale\" (He quotes from a speech).",
+  "explanation": "\"At citere\" means \"to quote\". To say where the words come from, add \"fra\" (from): \"Han citerer fra en tale\" (He quotes from a speech).",
   "forms": [
    {
     "da": "at citere",
@@ -207,7 +211,7 @@
   }
  },
  "at cykle": {
-  "explanation": "\"At cykle\" means \"to cycle\" or \"to ride a bike\". It comes from \"en cykel\" (a bicycle). To say where you are cycling to, add \"til\" (to): \"Jeg cykler til skole\" (I cycle to school).",
+  "explanation": "\"At cykle\" means \"to cycle\". It comes from the noun \"en cykel\" (a bicycle). To say where you cycle to, add \"til\" (to): \"Jeg cykler til skole\" (I cycle to school).",
   "forms": [
    {
     "da": "at cykle",
@@ -238,6 +242,10 @@
    {
     "da": "en cykelsti",
     "en": "a bike path"
+   },
+   {
+    "da": "en cyklist",
+    "en": "a cyclist"
    }
   ],
   "sentence": {
@@ -246,7 +254,7 @@
   }
  },
  "central": {
-  "explanation": "\"Central\" means \"central\", in the middle of a place. It is also used for the most important part of something: \"den centrale idé\" (the main idea).",
+  "explanation": "\"Central\" means \"central\", as in a place in the middle of a town. When you talk about the most important idea, it means \"main\": \"den centrale idé\" (the main idea).",
   "forms": [
    {
     "da": "en central placering",
@@ -285,7 +293,7 @@
   }
  },
  "champagne": {
-  "explanation": "\"Champagne\" means \"champagne\", a bubbly wine for celebrations. Only bubbly wine from the Champagne region of France carries this name.",
+  "explanation": "\"Champagne\" means \"champagne\". To suggest celebrating, say: \"Skal vi åbne en flaske champagne?\" (Shall we open a bottle of champagne?).",
   "forms": [
    {
     "da": "champagne",
@@ -324,7 +332,7 @@
   }
  },
  "charme": {
-  "explanation": "\"Charme\" means \"charm\", the pleasant quality that makes people like someone. It can also describe a place: \"en hytte med charme\" (a cottage with charm).",
+  "explanation": "\"Charme\" means \"charm\". When you describe a place, not a person, it works too: \"en hytte med charme\" (a cottage with charm).",
   "forms": [
    {
     "da": "charme",
@@ -367,7 +375,7 @@
   }
  },
  "charmerende": {
-  "explanation": "\"Charmerende\" means \"charming\" and describes someone who wins people over easily. It is also used for places: \"en charmerende by\" (a charming town).",
+  "explanation": "\"Charmerende\" means \"charming\". It comes from the verb \"at charmere\" (to charm). When you describe a place, use it too: \"en charmerende by\" (a charming town).",
   "forms": [
    {
     "da": "en charmerende mand",
@@ -384,20 +392,20 @@
   ],
   "related": [
    {
-    "da": "en charme",
-    "en": "charm"
-   },
-   {
-    "da": "at charmere",
-    "en": "to charm"
-   },
-   {
     "da": "indtagende",
     "en": "engaging"
    },
    {
     "da": "sød",
     "en": "sweet"
+   },
+   {
+    "da": "bedårende",
+    "en": "adorable"
+   },
+   {
+    "da": "elskværdig",
+    "en": "gracious"
    }
   ],
   "sentence": {
@@ -406,7 +414,7 @@
   }
  },
  "chili": {
-  "explanation": "\"En chili\" means \"a chili\", the small fruit that burns in your mouth and adds heat to food.",
+  "explanation": "\"Chili\" means \"a chili\". To say a dish has chili in it, add \"med\" (with): \"kylling med chili\" (chicken with chili).",
   "forms": [
    {
     "da": "en chili",
@@ -431,12 +439,16 @@
     "en": "pepper"
    },
    {
-    "da": "stærk",
-    "en": "hot / spicy"
-   },
-   {
     "da": "chilipulver",
     "en": "chili powder"
+   },
+   {
+    "da": "en peberfrugt",
+    "en": "a bell pepper"
+   },
+   {
+    "da": "et krydderi",
+    "en": "a spice"
    }
   ],
   "sentence": {
@@ -445,7 +457,7 @@
   }
  },
  "chips": {
-  "explanation": "\"Chips\" means \"potato chips\" (called crisps in British English). To name a portion, use \"en pose chips\" (a bag of chips). Do not mix it up with \"pommes frites\" (French fries).",
+  "explanation": "\"Chips\" means \"chips or crisps\". Do not mix it up with \"pommes frites\" (French fries), the long fried sticks of potato: \"Jeg bestiller pommes frites\" (I order French fries).",
   "forms": [
    {
     "da": "chips",
@@ -480,7 +492,7 @@
   }
  },
  "chokerende": {
-  "explanation": "\"Chokerende\" means \"shocking\", so upsetting or unexpected that it hits you hard. Do not mix it up with \"chokeret\" (shocked): \"chokerende\" names what causes the feeling (\"en chokerende nyhed\", a shocking piece of news), while \"chokeret\" says how you feel (\"Jeg er chokeret\", I am shocked).",
+  "explanation": "\"Chokerende\" means \"shocking\". Do not mix it up with \"chokeret\" (shocked). To describe what causes the feeling, use \"chokerende\": \"en chokerende nyhed\" (a shocking piece of news). To describe how you feel, use \"chokeret\": \"Jeg er chokeret\" (I am shocked).",
   "forms": [
    {
     "da": "chokerende nyheder",
@@ -519,7 +531,7 @@
   }
  },
  "chokeret": {
-  "explanation": "\"Chokeret\" means \"shocked\", how you feel when something bad surprises you. What causes the feeling is \"chokerende\" (shocking).",
+  "explanation": "\"Chokeret\" means \"shocked\". To say how you feel, use \"chokeret\": \"Jeg er chokeret\" (I am shocked). Do not mix it up with \"chokerende\" (shocking), which describes what causes the feeling: \"Det er chokerende\" (That is shocking).",
   "forms": [
    {
     "da": "en chokeret mand",
@@ -536,20 +548,20 @@
   ],
   "related": [
    {
-    "da": "et chok",
-    "en": "a shock"
-   },
-   {
-    "da": "at chokere",
-    "en": "to shock"
-   },
-   {
     "da": "forskrækket",
     "en": "startled"
    },
    {
     "da": "overrasket",
     "en": "surprised"
+   },
+   {
+    "da": "rystet",
+    "en": "shaken"
+   },
+   {
+    "da": "målløs",
+    "en": "speechless"
    }
   ],
   "sentence": {
@@ -558,7 +570,7 @@
   }
  },
  "chokolade": {
-  "explanation": "\"Chokolade\" means \"chocolate\". It is also the drink, as in \"en varm chokolade\" (a hot chocolate). The \"ch\" at the start is said like \"sh\".",
+  "explanation": "\"Chokolade\" means \"a chocolate\". When you order the drink, use \"en varm chokolade\" (a hot chocolate). The \"ch\" at the start is spelled like English \"ch\" but said like \"sh\".",
   "forms": [
    {
     "da": "en chokolade",
@@ -579,12 +591,12 @@
     "en": "cocoa"
    },
    {
-    "da": "en chokoladekage",
-    "en": "a chocolate cake"
-   },
-   {
     "da": "slik",
     "en": "sweets / candy"
+   },
+   {
+    "da": "en bonbon",
+    "en": "a chocolate candy"
    }
   ],
   "sentence": {
@@ -593,7 +605,7 @@
   }
  },
  "cirka": {
-  "explanation": "\"Cirka\" means \"approximately\" or \"about\", used before a number, time or amount that is not exact. In writing, it is shortened to \"ca.\"",
+  "explanation": "\"Cirka\" means \"about\". In writing, it is shortened to \"ca.\" before a number: \"ca. tre timer\" (about three hours).",
   "forms": [
    {
     "da": "cirka tre timer",
@@ -614,8 +626,8 @@
     "en": "around"
    },
    {
-    "da": "ungefær",
-    "en": "roughly"
+    "da": "omtrent",
+    "en": "approximately"
    },
    {
     "da": "præcis",
@@ -628,7 +640,7 @@
   }
  },
  "civil": {
-  "explanation": "\"Civil\" means \"civilian\" and \"civil\", for people and things that are not part of the army. It is also the word in \"civil ulydighed\" (civil disobedience), where people break a rule on purpose to protest, without violence.",
+  "explanation": "\"Civil\" means \"a civilian\". When you say someone wears no uniform, use \"i civil\" (in plain clothes): \"Politimanden var i civil\" (The policeman was in plain clothes). It is also in \"civil ulydighed\" (civil disobedience).",
   "forms": [
    {
     "da": "en civil person",
@@ -667,7 +679,7 @@
   }
  },
  "co2": {
-  "explanation": "\"CO2\" means \"carbon dioxide\", the gas released when we burn fuel such as coal, oil and gas, and when we breathe out. Too much of it in the air makes the planet warmer. The full Danish word is \"kuldioxid\" (carbon dioxide).",
+  "explanation": "\"CO2\" means \"carbon dioxide\". The word is also the start of \"CO2-neutral\" (carbon neutral): \"Virksomheden vil være CO2-neutral\" (The company wants to be carbon neutral).",
   "forms": [
    {
     "da": "CO2",
@@ -710,7 +722,7 @@
   }
  },
  "cornflakes": {
-  "explanation": "\"Cornflakes\" means \"cornflakes\", the breakfast cereal. To name a portion, use \"en skål cornflakes\" (a bowl of cornflakes).",
+  "explanation": "\"Cornflakes\" means \"cornflakes\". This word has no article, so say \"Vi har cornflakes\" (We have cornflakes) for the cereal in general. To say you bought one box, use \"en pakke cornflakes\" (a box of cornflakes).",
   "forms": [
    {
     "da": "cornflakes og mælk",
@@ -745,7 +757,7 @@
   }
  },
  "couscous": {
-  "explanation": "\"Couscous\" means \"couscous\", tiny round grains made from wheat and served as a side dish.",
+  "explanation": "\"Couscous\" means \"couscous\". It is spelled the same as in English. To say how much you have, name the amount first: \"en pose couscous\" (a bag of couscous).",
   "forms": [
    {
     "da": "couscous",
@@ -780,7 +792,7 @@
   }
  },
  "creme": {
-  "explanation": "\"En creme\" means \"cream\" for your skin, for example for dry skin or after the sun. For cream in coffee or cooking, say \"fløde\" (cream) instead.",
+  "explanation": "\"Creme\" means \"a cream (lotion)\". To say what you use for dry skin, say: \"Jeg bruger creme mod tør hud\" (I use cream for dry skin). Do not mix it up with \"fløde\" (cream for coffee or cooking): \"Jeg vil have fløde i kaffen\" (I want cream in my coffee).",
   "forms": [
    {
     "da": "en creme",
@@ -823,7 +835,7 @@
   }
  },
  "creme fraiche": {
-  "explanation": "\"Creme fraiche\" means \"crème fraîche\", a thick, slightly sour cream. You stir it into sauces and soups: \"Jeg putter creme fraiche i suppen\" (I put crème fraîche in the soup).",
+  "explanation": "\"Creme fraiche\" means \"crème fraîche\". Danish spells it without accents: \"creme fraiche\", not \"crème fraîche\".",
   "forms": [
    {
     "da": "en bøtte creme fraiche",
@@ -858,7 +870,7 @@
   }
  },
  "cykling": {
-  "explanation": "\"Cykling\" means \"cycling\" as an activity or sport: \"Cykling er sundt\" (Cycling is healthy). To state that you are riding a bike right now, use \"at cykle\" (to cycle): \"Jeg cykler\" (I am cycling).",
+  "explanation": "\"Cykling\" means \"cycling\". When you talk about cycling as an activity or sport, use \"cykling\": \"Cykling er sundt\" (Cycling is healthy). When you say you are riding a bike, use the verb \"at cykle\" (to cycle): \"Jeg cykler\" (I am cycling).",
   "forms": [
    {
     "da": "cykling",
@@ -893,7 +905,7 @@
   }
  },
  "en café": {
-  "explanation": "\"En café\" means \"a café\", a place for coffee, cake or a light meal. For a sit-down dinner with a full menu, Danes usually say \"en restaurant\" (a restaurant).",
+  "explanation": "\"En café\" means \"a café\". To suggest meeting at one, use \"gå på café\" (go to a café): \"Skal vi gå på café?\" (Shall we go to a café?).",
   "forms": [
    {
     "da": "en café",
@@ -932,7 +944,7 @@
   }
  },
  "en campingplads": {
-  "explanation": "\"En campingplads\" means \"a campsite\". It is built from camping (camping) and plads (place), and \"plads\" also means \"room\": \"Der er ikke plads her\" (There is no room here).",
+  "explanation": "\"En campingplads\" means \"a campsite\". It is built from \"camping\" (camping) and \"en plads\" (a place). When you say there is no room, use \"plads\" for \"room\": \"Der er ikke plads her\" (There is no room here).",
   "forms": [
    {
     "da": "en campingplads",
@@ -971,7 +983,7 @@
   }
  },
  "en campus": {
-  "explanation": "\"En campus\" means \"a campus\", the area where the buildings of a school of higher education stand together, with a library and places to eat and study.",
+  "explanation": "\"En campus\" means \"a campus\". To say you are at the university grounds, use \"på\" (on): \"Jeg er på campus i dag\" (I am on campus today).",
   "forms": [
    {
     "da": "en campus",
@@ -1010,7 +1022,7 @@
   }
  },
  "en cardigan": {
-  "explanation": "\"En cardigan\" means \"a cardigan\", a knitted top that opens down the front.",
+  "explanation": "\"En cardigan\" means \"a cardigan\". To say what someone is wearing, use \"have ... på\" (have on): \"Hun har en blå cardigan på\" (She is wearing a blue cardigan).",
   "forms": [
    {
     "da": "en cardigan",
@@ -1035,12 +1047,12 @@
     "en": "a sweater"
    },
    {
-    "da": "en jakke",
-    "en": "a jacket"
+    "da": "en striktrøje",
+    "en": "a knitted sweater"
    },
    {
-    "da": "en bluse",
-    "en": "a blouse"
+    "da": "en jakke",
+    "en": "a jacket"
    },
    {
     "da": "en vest",
@@ -1053,7 +1065,7 @@
   }
  },
  "en carport": {
-  "explanation": "\"En carport\" means \"a carport\", a roof on posts where you park the car, with no walls: \"Bilen holder i carporten\" (The car is parked in the carport). A closed garage is \"en garage\" (a garage).",
+  "explanation": "\"En carport\" means \"a carport\". To say the car is parked in it, use \"holde\" (stand): \"Bilen holder i carporten\" (The car is parked in the carport). Do not mix it up with \"en garage\" (a garage with walls): \"Bilen står i garagen\" (The car is in the garage).",
   "forms": [
    {
     "da": "en carport",
@@ -1092,7 +1104,7 @@
   }
  },
  "en celle": {
-  "explanation": "\"En celle\" means \"a cell\" in three ways. In biology it is the smallest living part of a body. In a prison it is a small room for one prisoner. In a spreadsheet it is one box.",
+  "explanation": "\"En celle\" means \"a cell\", as in biology. It has two more meanings. When you talk about a prison, it means the small room for one prisoner: \"Fangen sidder i en celle\" (The prisoner sits in a cell). When you talk about a spreadsheet, it means one box: \"Skriv tallet i en celle\" (Write the number in a cell).",
   "forms": [
    {
     "da": "en celle",
@@ -1131,7 +1143,7 @@
   }
  },
  "en censor": {
-  "explanation": "\"En censor\" means \"an external examiner\", a person from outside the school who joins an oral or written test and helps the school's own teacher decide the mark.",
+  "explanation": "\"En censor\" means \"an external examiner\". In Denmark, an outside person sits with the teacher at an oral exam and helps decide the grade. Do not mix it up with \"at censurere\" (to censor): \"De vil censurere nyhederne\" (They want to censor the news).",
   "forms": [
    {
     "da": "en censor",
@@ -1170,7 +1182,7 @@
   }
  },
  "en cent": {
-  "explanation": "\"En cent\" means \"a cent\", one hundredth of a euro or a dollar. Danish money is counted in \"kroner\" (the Danish currency) and \"øre\" (a hundredth of a krone) instead.",
+  "explanation": "\"En cent\" means \"a cent\". Denmark does not use cents. Instead, \"en krone\" (a krone) is divided into 100 \"øre\": \"Det koster fem kroner og femti øre\" (It costs five kroner and fifty øre).",
   "forms": [
    {
     "da": "en cent",
@@ -1209,7 +1221,7 @@
   }
  },
  "en centimeter": {
-  "explanation": "\"En centimeter\" means \"a centimeter\". Do not add an ending after a number: \"ti centimeter\" (ten centimeters).",
+  "explanation": "\"En centimeter\" means \"a centimeter\". When you give a number, the word does not change: \"ti centimeter\" (ten centimeters). The start \"centi-\" means one hundredth, as in \"en centiliter\" (a centiliter).",
   "forms": [
    {
     "da": "en centimeter",
@@ -1230,16 +1242,16 @@
   ],
   "related": [
    {
-    "da": "en meter",
-    "en": "a meter"
-   },
-   {
     "da": "en kilometer",
     "en": "a kilometer"
    },
    {
     "da": "en millimeter",
     "en": "a millimeter"
+   },
+   {
+    "da": "en tomme",
+    "en": "an inch"
    }
   ],
   "sentence": {
@@ -1248,7 +1260,7 @@
   }
  },
  "en ceremoni": {
-  "explanation": "\"En ceremoni\" means \"a ceremony\", a formal event that follows fixed steps, for example when people get married, graduate or receive a prize.",
+  "explanation": "\"En ceremoni\" means \"a ceremony\". To say a ceremony takes place, use \"holde\" (hold): \"De holder en ceremoni for vinderne\" (They hold a ceremony for the winners).",
   "forms": [
    {
     "da": "en ceremoni",
@@ -1287,7 +1299,7 @@
   }
  },
  "en champignon": {
-  "explanation": "\"En champignon\" means \"a mushroom\", the white kind you buy in a store.",
+  "explanation": "\"En champignon\" means \"a mushroom\". Do not mix it up with \"en svamp\" (a mushroom of any kind, and also a sponge): \"Jeg plukker svampe i skoven\" (I pick mushrooms in the forest).",
   "forms": [
    {
     "da": "en champignon",
@@ -1308,10 +1320,6 @@
   ],
   "related": [
    {
-    "da": "en svamp",
-    "en": "a mushroom (any kind)"
-   },
-   {
     "da": "en kantarel",
     "en": "a chanterelle"
    },
@@ -1330,7 +1338,7 @@
   }
  },
  "en chance": {
-  "explanation": "\"En chance\" means \"a chance\" in two ways. It can be an opportunity: \"Jeg fik en chance\" (I got a chance). It can also be how likely something is: \"Hun har en god chance\" (She has a good chance).",
+  "explanation": "\"En chance\" means \"a chance\". When you talk about an opportunity, say: \"Giv ham en chance\" (Give him a chance). When you talk about how likely something is, say: \"Der er en chance for regn\" (There is a chance of rain).",
   "forms": [
    {
     "da": "en chance",
@@ -1373,7 +1381,7 @@
   }
  },
  "en chauffør": {
-  "explanation": "\"En chauffør\" means \"a driver\", someone who drives as a job. For anyone driving their own car, use \"en bilist\" (a car driver).",
+  "explanation": "\"En chauffør\" means \"a driver\". Use it for a person who drives as a job: \"Chaufføren kører bussen\" (The driver drives the bus). Do not mix it up with \"en bilist\" (a person driving their own car): \"Mange bilister holder i kø\" (Many drivers are standing in a queue).",
   "forms": [
    {
     "da": "en chauffør",
@@ -1412,7 +1420,7 @@
   }
  },
  "en cheesecake": {
-  "explanation": "\"En cheesecake\" means \"a cheesecake\", a creamy cake made with soft cheese on a crumbly base.",
+  "explanation": "\"En cheesecake\" means \"a cheesecake\". To ask for a slice, say: \"Jeg vil gerne have et stykke cheesecake\" (I would like a piece of cheesecake).",
   "forms": [
    {
     "da": "en cheesecake",
@@ -1455,7 +1463,7 @@
   }
  },
  "en chef": {
-  "explanation": "\"En chef\" means \"a boss\" or \"a manager\". The ch sounds like English sh. For the head of a kitchen, Danish says \"en køkkenchef\" (a head chef).",
+  "explanation": "\"En chef\" means \"a boss\". The \"ch\" is said like English \"sh\". When you talk about the head of a kitchen, use \"en køkkenchef\" (a head chef): \"Køkkenchefen laver menuen\" (The head chef makes the menu).",
   "forms": [
    {
     "da": "en chef",
@@ -1486,6 +1494,10 @@
    {
     "da": "en kollega",
     "en": "a colleague"
+   },
+   {
+    "da": "en direktør",
+    "en": "a director"
    }
   ],
   "sentence": {
@@ -1494,7 +1506,7 @@
   }
  },
  "en chokoladekage": {
-  "explanation": "\"En chokoladekage\" means \"a chocolate cake\". It is built from chokolade (chocolate) and kage (cake), and \"kage\" is also in \"en gulerodskage\" (a carrot cake) and \"en ostekage\" (a cheesecake).",
+  "explanation": "\"En chokoladekage\" means \"a chocolate cake\". It is built from \"chokolade\" (chocolate) and \"en kage\" (a cake). The end \"kage\" is also in \"en gulerodskage\" (a carrot cake).",
   "forms": [
    {
     "da": "en chokoladekage",
@@ -1537,7 +1549,7 @@
   }
  },
  "en cigaret": {
-  "explanation": "\"En cigaret\" means \"a cigarette\". You smoke it with \"at ryge\" (to smoke): \"Han ryger en cigaret\" (He smokes a cigarette).",
+  "explanation": "\"En cigaret\" means \"a cigarette\". To say someone smokes one, use \"at ryge\" (to smoke): \"Han ryger en cigaret\" (He smokes a cigarette).",
   "forms": [
    {
     "da": "en cigaret",
@@ -1558,16 +1570,20 @@
   ],
   "related": [
    {
-    "da": "en cigar",
-    "en": "a cigar"
-   },
-   {
     "da": "en pibe",
     "en": "a pipe"
    },
    {
     "da": "tobak",
     "en": "tobacco"
+   },
+   {
+    "da": "en lighter",
+    "en": "a lighter"
+   },
+   {
+    "da": "et askebæger",
+    "en": "an ashtray"
    }
   ],
   "sentence": {
@@ -1576,7 +1592,7 @@
   }
  },
  "en cirkel": {
-  "explanation": "\"En cirkel\" means \"a circle\", a perfectly round flat shape. People also sit in one: \"Vi sidder i en cirkel\" (We sit in a circle). For a round 3D shape, use \"en kugle\" (a ball).",
+  "explanation": "\"En cirkel\" means \"a circle\". To say people sit facing each other in a round shape, use \"i en cirkel\" (in a circle): \"Vi sidder i en cirkel\" (We sit in a circle).",
   "forms": [
    {
     "da": "en cirkel",
@@ -1619,7 +1635,7 @@
   }
  },
  "en citron": {
-  "explanation": "\"En citron\" means \"a lemon\", a sour yellow fruit. The stress is on the last part: ci-TRON.",
+  "explanation": "\"En citron\" means \"a lemon\". To say you squeeze one, use \"presse\" (squeeze): \"Jeg presser en citron i vandet\" (I squeeze a lemon into the water).",
   "forms": [
    {
     "da": "en citron",
@@ -1650,6 +1666,10 @@
    {
     "da": "en lime",
     "en": "a lime"
+   },
+   {
+    "da": "en grapefrugt",
+    "en": "a grapefruit"
    }
   ],
   "sentence": {
@@ -1658,7 +1678,7 @@
   }
  },
  "en coach": {
-  "explanation": "\"En coach\" means \"a coach\", someone who trains or guides a person or team. In sports, Danes also say \"en træner\" (a coach).",
+  "explanation": "\"En coach\" means \"a coach\". For a person who trains a sports team, use \"en træner\" (a coach): \"Træneren råber fra sidelinjen\" (The coach shouts from the sideline).",
   "forms": [
    {
     "da": "en coach",
@@ -1701,7 +1721,7 @@
   }
  },
  "en computer": {
-  "explanation": "\"En computer\" means \"a computer\", spelled just like the English word. A laptop is \"en bærbar computer\" (a portable computer), often shortened to \"en bærbar\" (a portable one).",
+  "explanation": "\"En computer\" means \"a computer\". To say a laptop, add \"bærbar\" (portable): \"en bærbar computer\" (a laptop).",
   "forms": [
    {
     "da": "en computer",
@@ -1740,7 +1760,7 @@
   }
  },
  "en computermus": {
-  "explanation": "\"En computermus\" means \"a computer mouse\", the device you click with. It is built from computer (computer) and mus (mouse), the same word as the animal.",
+  "explanation": "\"En computermus\" means \"a computer mouse\". It is built from \"en computer\" (a computer) and \"en mus\" (a mouse), the same word as for the animal.",
   "forms": [
    {
     "da": "en computermus",
@@ -1769,8 +1789,8 @@
     "en": "a mouse pad"
    },
    {
-    "da": "en trådløs mus",
-    "en": "a wireless mouse"
+    "da": "en skærm",
+    "en": "a screen"
    },
    {
     "da": "en bærbar computer",
@@ -1783,7 +1803,7 @@
   }
  },
  "en container": {
-  "explanation": "\"En container\" means \"a container\", usually a big metal box for waste or for shipping goods. For a small one for food, say \"en beholder\" (a food container).",
+  "explanation": "\"En container\" means \"a container\", as in a big metal box for waste or goods. For a small container for food, use \"en beholder\" (a food container): \"Jeg putter resterne i en beholder\" (I put the leftovers in a container).",
   "forms": [
    {
     "da": "en container",
@@ -1812,8 +1832,8 @@
     "en": "a garbage can"
    },
    {
-    "da": "en skraldecontainer",
-    "en": "a garbage container"
+    "da": "en lastbil",
+    "en": "a truck"
    }
   ],
   "sentence": {
@@ -1822,7 +1842,7 @@
   }
  },
  "en croissant": {
-  "explanation": "\"En croissant\" means \"a croissant\", a flaky, buttery pastry in a curved shape.",
+  "explanation": "\"En croissant\" means \"a croissant\". The pastry that English speakers call a Danish pastry is \"et wienerbrød\" in Denmark: \"Jeg tager et wienerbrød til kaffen\" (I take a Danish pastry with my coffee).",
   "forms": [
    {
     "da": "en croissant",
@@ -1843,16 +1863,16 @@
   ],
   "related": [
    {
-    "da": "et wienerbrød",
-    "en": "a Danish pastry"
-   },
-   {
     "da": "et rundstykke",
     "en": "a bread roll"
    },
    {
     "da": "en baguette",
     "en": "a baguette"
+   },
+   {
+    "da": "et brød",
+    "en": "a loaf of bread"
    }
   ],
   "sentence": {
@@ -1861,7 +1881,7 @@
   }
  },
  "en cykel": {
-  "explanation": "\"En cykel\" means \"a bicycle\". Notice the spelling with y, not i. To say you go by bike, use \"på cykel\" (by bike) or \"at tage cyklen\" (to take the bike).",
+  "explanation": "\"En cykel\" means \"a bicycle\". It is spelled with y, not i. To say you come by bike, use \"på cykel\" (by bike): \"Jeg kommer på cykel\" (I come by bike).",
   "forms": [
    {
     "da": "en cykel",
@@ -1900,7 +1920,7 @@
   }
  },
  "en cykelhandler": {
-  "explanation": "\"En cykelhandler\" means \"a bike dealer\", a shop that sells and repairs bikes.",
+  "explanation": "\"En cykelhandler\" means \"a bike dealer\". It is built from \"en cykel\" (a bike) and \"en handler\" (a dealer).",
   "forms": [
    {
     "da": "en cykelhandler",
@@ -1921,8 +1941,8 @@
   ],
   "related": [
    {
-    "da": "en cykelbutik",
-    "en": "a bike shop"
+    "da": "et værksted",
+    "en": "a workshop"
    },
    {
     "da": "en cykelsmed",
@@ -1939,7 +1959,7 @@
   }
  },
  "en cykelhjelm": {
-  "explanation": "\"En cykelhjelm\" means \"a bike helmet\", a hard cap you wear while riding. To say you are wearing one, use \"have på\" (have on): \"Hun har cykelhjelm på\" (She is wearing a bike helmet). To put it on, use \"tage på\" (put on): \"Tag din cykelhjelm på\" (Put on your bike helmet).",
+  "explanation": "\"En cykelhjelm\" means \"a bike helmet\". To say you are wearing one, use \"have ... på\" (have on): \"Hun har cykelhjelm på\" (She is wearing a bike helmet). To tell someone to put it on, use \"tage på\" (put on): \"Tag din cykelhjelm på\" (Put on your bike helmet).",
   "forms": [
    {
     "da": "en cykelhjelm",
@@ -1960,16 +1980,20 @@
   ],
   "related": [
    {
-    "da": "en hjelm",
-    "en": "a helmet"
-   },
-   {
-    "da": "en cykel",
-    "en": "a bike"
+    "da": "en cykelsti",
+    "en": "a bike path"
    },
    {
     "da": "en cyklist",
     "en": "a cyclist"
+   },
+   {
+    "da": "en cykellygte",
+    "en": "a bike light"
+   },
+   {
+    "da": "en refleks",
+    "en": "a reflector"
    }
   ],
   "sentence": {
@@ -1978,7 +2002,7 @@
   }
  },
  "en cykellås": {
-  "explanation": "\"En cykellås\" means \"a bike lock\". It is built from cykel (bike) and lås (lock). The same \"lås\" is in \"en dørlås\" (a door lock), and the verb is \"at låse\" (to lock).",
+  "explanation": "\"En cykellås\" means \"a bike lock\". It is built from \"en cykel\" (a bike) and \"en lås\" (a lock). The end \"lås\" is also in \"en dørlås\" (a door lock).",
   "forms": [
    {
     "da": "en cykellås",
@@ -2017,7 +2041,7 @@
   }
  },
  "en cykelparkering": {
-  "explanation": "\"En cykelparkering\" means \"a bike parking area\", a place to leave your bike, often with racks.",
+  "explanation": "\"En cykelparkering\" means \"a bike parking area\". It is built from \"en cykel\" (a bike) and \"en parkering\" (a parking space). To say where you leave your bike, use \"parkere\" (park): \"Du kan parkere din cykel på cykelparkeringen\" (You can park your bike at the bike parking area).",
   "forms": [
    {
     "da": "en cykelparkering",
@@ -2056,7 +2080,7 @@
   }
  },
  "en cykelpumpe": {
-  "explanation": "\"En cykelpumpe\" means \"a bike pump\", used to fill a bike wheel with air. It is built from cykel (bike) and pumpe (pump).",
+  "explanation": "\"En cykelpumpe\" means \"a bike pump\". It is built from \"en cykel\" (a bike) and \"en pumpe\" (a pump). The end \"pumpe\" is also in \"en håndpumpe\" (a hand pump).",
   "forms": [
    {
     "da": "en cykelpumpe",
@@ -2095,7 +2119,7 @@
   }
  },
  "en cykelsti": {
-  "explanation": "\"En cykelsti\" means \"a bike lane\", a path next to the road only for bikes. People on foot use \"et fortov\" (a sidewalk).",
+  "explanation": "\"En cykelsti\" means \"a bike lane\". It is built from \"en cykel\" (a bike) and \"en sti\" (a path). Do not mix it up with \"et fortov\" (a sidewalk), where people walk: \"Gå på fortovet\" (Walk on the sidewalk).",
   "forms": [
    {
     "da": "en cykelsti",
@@ -2120,12 +2144,12 @@
     "en": "a footpath"
    },
    {
-    "da": "en cykel",
-    "en": "a bike"
-   },
-   {
     "da": "en cyklist",
     "en": "a cyclist"
+   },
+   {
+    "da": "en vej",
+    "en": "a road"
    }
   ],
   "sentence": {
@@ -2177,7 +2201,7 @@
   }
  },
  "en cyklist": {
-  "explanation": "\"En cyklist\" means \"a cyclist\", someone who rides a bike. It comes from \"at cykle\" (to bike).",
+  "explanation": "\"En cyklist\" means \"a cyclist\". It comes from the verb \"at cykle\" (to cycle). The ending \"-ist\" is also in \"en turist\" (a tourist).",
   "forms": [
    {
     "da": "en cyklist",
@@ -2220,7 +2244,7 @@
   }
  },
  "et center": {
-  "explanation": "\"Et center\" means \"a center\" as a place or building: \"et sundhedscenter\" (a health center). For the middle of a city, Danes say \"centrum\" (downtown).",
+  "explanation": "\"Et center\" means \"a center\". It is the last part of other words, such as \"et sundhedscenter\" (a health center). Do not mix it up with \"et centrum\" (the middle of a town): \"Jeg bor i centrum\" (I live in the town center).",
   "forms": [
    {
     "da": "et center",
@@ -2259,7 +2283,7 @@
   }
  },
  "et centrum": {
-  "explanation": "\"Et centrum\" means \"a center\", mostly the middle of a town where the shops are. For a building like a mall, use \"et center\" (a shopping center).",
+  "explanation": "\"Et centrum\" means \"a center\", as in the middle of a town. Do not mix it up with \"et center\" (a building for an activity, such as shopping): \"Vi handler i indkøbscentret\" (We shop at the shopping center).",
   "forms": [
    {
     "da": "et centrum",
@@ -2301,15 +2325,15 @@
    "en": "I live close to the center and bike to work."
   }
  },
- "et check-in": {
-  "explanation": "\"Et check-in\" means \"a check-in\", the desk or moment where you register when you arrive at a hotel or an airport.",
+ "en check-in": {
+  "explanation": "\"En check-in\" means \"a check-in\". It comes from the verb \"at checke ind\" (to check in). To say when it opens, say: \"Check-in åbner klokken tolv\" (Check-in opens at twelve).",
   "forms": [
    {
-    "da": "et check-in",
+    "da": "en check-in",
     "en": "a check-in"
    },
    {
-    "da": "check-in'et",
+    "da": "check-in'en",
     "en": "the check-in"
    },
    {
@@ -2329,6 +2353,10 @@
    {
     "da": "et check-out",
     "en": "a check-out"
+   },
+   {
+    "da": "en reception",
+    "en": "a front desk"
    }
   ],
   "sentence": {
@@ -2337,7 +2365,7 @@
   }
  },
  "et chok": {
-  "explanation": "\"Et chok\" means \"a shock\", like sudden bad news. To be in shock is \"at være i chok\": \"Han er stadig i chok\" (He is still in shock).",
+  "explanation": "\"Et chok\" means \"a shock\". To say someone is in shock, use \"i chok\" (in shock): \"Han er stadig i chok\" (He is still in shock).",
   "forms": [
    {
     "da": "et chok",
@@ -2380,7 +2408,7 @@
   }
  },
  "et ciffer": {
-  "explanation": "\"Et ciffer\" means \"a digit\", one single symbol from 0 to 9: \"25 har to cifre\" (25 has two digits). A number like 100 has three.",
+  "explanation": "\"Et ciffer\" means \"a digit\". Do not mix it up with \"et tal\" (a number). To say how many digits a number has, say: \"Tallet 25 har to cifre\" (The number 25 has two digits).",
   "forms": [
    {
     "da": "et ciffer",
@@ -2401,16 +2429,16 @@
   ],
   "related": [
    {
-    "da": "et tal",
-    "en": "a number (the quantity)"
-   },
-   {
     "da": "et nummer",
     "en": "a number (in a list)"
    },
    {
     "da": "et bogstav",
     "en": "a letter"
+   },
+   {
+    "da": "en kode",
+    "en": "a code"
    }
   ],
   "sentence": {
@@ -2419,7 +2447,7 @@
   }
  },
  "et cirkus": {
-  "explanation": "\"Et cirkus\" means \"a circus\", a show in a big tent with animals and performers. It can also mean a chaotic mess: \"Det er et cirkus herhjemme\" (It is a circus at home).",
+  "explanation": "\"Et cirkus\" means \"a circus\". When you talk about a chaotic situation, it also means \"a mess\": \"Det er et cirkus herhjemme\" (It is a circus at home).",
   "forms": [
    {
     "da": "et cirkus",
@@ -2462,7 +2490,7 @@
   }
  },
  "et citat": {
-  "explanation": "\"Et citat\" means \"a quote\", words taken exactly from what someone else said or wrote, and used again in a new place.",
+  "explanation": "\"Et citat\" means \"a quote\". It comes from the verb \"at citere\" (to quote). To talk about a well-known one, say: \"Det er et berømt citat fra Shakespeare\" (It is a famous quote from Shakespeare).",
   "forms": [
    {
     "da": "et citat",
@@ -2483,10 +2511,6 @@
   ],
   "related": [
    {
-    "da": "at citere",
-    "en": "to cite"
-   },
-   {
     "da": "et ordsprog",
     "en": "a proverb"
    },
@@ -2497,6 +2521,10 @@
    {
     "da": "en tekst",
     "en": "a text"
+   },
+   {
+    "da": "et citationstegn",
+    "en": "a quotation mark"
    }
   ],
   "sentence": {
@@ -2505,7 +2533,7 @@
   }
  },
  "et computerspil": {
-  "explanation": "\"Et computerspil\" means \"a computer game\". It is built from computer and spil (game), and it also means games on a phone.",
+  "explanation": "\"Et computerspil\" means \"a computer game\". It is built from \"en computer\" (a computer) and \"et spil\" (a game). To say you play one, use \"spille\" (play): \"Han spiller computerspil\" (He plays computer games).",
   "forms": [
    {
     "da": "et computerspil",
@@ -2544,7 +2572,7 @@
   }
  },
  "et cpr-nummer": {
-  "explanation": "\"Et CPR-nummer\" means \"a CPR number\", the personal ID number every person living in Denmark has.",
+  "explanation": "\"Et CPR-nummer\" means \"a CPR number\". CPR stands for \"Det Centrale Personregister\" (the Central Person Register). In Denmark, it is the personal ID number that residents are given.",
   "forms": [
    {
     "da": "et CPR-nummer",
@@ -2583,7 +2611,7 @@
   }
  },
  "et crush": {
-  "explanation": "\"Et crush\" means \"a crush\", a person you are romantically attracted to. Danes borrowed the English word, and use \"på\" (on) with it: \"et crush på en kollega\" (a crush on a coworker).",
+  "explanation": "\"Et crush\" means \"a crush\". The word is borrowed from English. To say who the crush is on, use \"på\" (on): \"Jeg har et crush på en kollega\" (I have a crush on a coworker).",
   "forms": [
    {
     "da": "et crush",
@@ -2626,7 +2654,7 @@
   }
  },
  "et cv": {
-  "explanation": "\"Et cv\" means \"a CV\", the paper listing your work and education, which you send with an application.",
+  "explanation": "\"Et cv\" means \"a CV\". It is written in lowercase, and the endings come after an apostrophe: \"cv'et\" (the CV). To say you send one, use \"sende\" (send): \"Jeg sender mit cv til firmaet\" (I send my CV to the company).",
   "forms": [
    {
     "da": "et cv",
@@ -2657,6 +2685,10 @@
    {
     "da": "en karriere",
     "en": "a career"
+   },
+   {
+    "da": "en ansøgning",
+    "en": "an application"
    }
   ],
   "sentence": {
@@ -2665,7 +2697,7 @@
   }
  },
  "et cykelbud": {
-  "explanation": "\"Et cykelbud\" means \"a bike courier\", someone who brings food or parcels by bike. It is built from en cykel (a bike) and et bud (a messenger).",
+  "explanation": "\"Et cykelbud\" means \"a bike courier\". It is built from \"en cykel\" (a bike) and \"et bud\" (a messenger).",
   "forms": [
    {
     "da": "et cykelbud",
@@ -2708,7 +2740,7 @@
   }
  },
  "et cykelløb": {
-  "explanation": "\"Et cykelløb\" means \"a bike race\", a competition where riders follow a set route and the fastest wins.",
+  "explanation": "\"Et cykelløb\" means \"a bike race\". It is built from \"en cykel\" (a bike) and \"et løb\" (a race). The end \"løb\" is also in \"et maratonløb\" (a marathon).",
   "forms": [
    {
     "da": "et cykelløb",
@@ -2729,10 +2761,6 @@
   ],
   "related": [
    {
-    "da": "et maratonløb",
-    "en": "a marathon"
-   },
-   {
     "da": "en cykelrytter",
     "en": "a cyclist"
    },
@@ -2743,6 +2771,10 @@
    {
     "da": "en sprinter",
     "en": "a sprinter"
+   },
+   {
+    "da": "en målstreg",
+    "en": "a finish line"
    }
   ],
   "sentence": {
@@ -2751,7 +2783,7 @@
   }
  },
  "et cykelstativ": {
-  "explanation": "\"Et cykelstativ\" means \"a bike rack\", a metal stand where you park your bike. It is built from cykel (bike) and stativ (stand).",
+  "explanation": "\"Et cykelstativ\" means \"a bike rack\". It is built from \"en cykel\" (a bike) and \"et stativ\" (a stand).",
   "forms": [
    {
     "da": "et cykelstativ",

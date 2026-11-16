@@ -1,6 +1,6 @@
 {
  "at æde": {
-  "explanation": "\"At æde\" means \"to eat\", used for animals: \"Løven æder kød\" (The lion eats meat). For people, use \"at spise\" (to eat): \"Jeg spiser frokost\" (I eat lunch). Said about a person, \"æde\" sounds coarse, as if the person eats like an animal.",
+  "explanation": "\"At æde\" means \"to eat (of animals)\". To say an animal eats, say: \"Løven æder kød\" (The lion eats meat). For people, use \"at spise\" (to eat): \"Jeg spiser frokost\" (I eat lunch). Said about a person, \"æde\" sounds coarse.",
   "forms": [
    {
     "da": "at æde",
@@ -43,7 +43,7 @@
   }
  },
  "at ændre": {
-  "explanation": "\"At ændre\" means \"to change\" or \"to alter\": you make something different: \"Jeg ændrer planen\" (I am changing the plan). To swap one thing for another, use \"at skifte\" (to change, to swap): \"Jeg skifter dæk\" (I change tires).",
+  "explanation": "\"At ændre\" means \"to change or alter\". To say someone has a new opinion, say: \"Hun har ændret mening\" (She has changed her mind). To swap one thing for another, use \"at skifte\" (to change, to swap): \"Jeg skifter dæk\" (I change tires).",
   "forms": [
    {
     "da": "at ændre",
@@ -82,7 +82,7 @@
   }
  },
  "at ændre på": {
-  "explanation": "\"At ændre på\" means \"to change something\": you make part of it different: \"Vi ændrer på planen\" (We are changing the plan). To become different by itself, use \"at ændre sig\" (to change): \"Vejret ændrer sig\" (The weather is changing).",
+  "explanation": "\"At ændre på\" means \"to change something\". To ask for permission to change a part, say: \"Må jeg ændre på teksten?\" (May I change the text?) To become different by itself, use \"at ændre sig\" (to change): \"Vejret ændrer sig\" (The weather is changing).",
   "forms": [
    {
     "da": "at ændre på",
@@ -125,7 +125,7 @@
   }
  },
  "at ændre sig": {
-  "explanation": "\"At ændre sig\" means \"to change\": something or someone becomes different by itself. To change something yourself, drop \"sig\": \"Jeg ændrer planen\" (I change the plan).",
+  "explanation": "\"At ændre sig\" means \"to change\". To say a person is different now, say: \"Hun har ændret sig meget\" (She has changed a lot). To change something else, leave out \"sig\": \"Jeg ændrer planen\" (I change the plan).",
   "forms": [
    {
     "da": "at ændre sig",
@@ -168,7 +168,7 @@
   }
  },
  "at ærgre sig": {
-  "explanation": "\"At ærgre sig\" means \"to be annoyed\" about something that went wrong, with some disappointment. Add \"over\" (about) for the cause: \"Jeg ærgrer mig over, at jeg kom for sent\" (I am annoyed that I was late).",
+  "explanation": "\"At ærgre sig\" means \"to be annoyed\". To say what annoys you, add \"over\" (about): \"Jeg ærgrer mig over, at jeg kom for sent\" (I am annoyed that I was late).",
   "forms": [
    {
     "da": "at ærgre sig",
@@ -211,7 +211,7 @@
   }
  },
  "en æblekage": {
-  "explanation": "\"En æblekage\" means \"an apple dessert\", a classic Danish dessert of stewed apple, crumbs and whipped cream layered in a glass. Despite the word \"kage\" (cake), it is not baked as a cake.",
+  "explanation": "\"En æblekage\" means \"an apple dessert\". A fact about Denmark: it is made of stewed apple, crumbs and whipped cream layered in a glass. It is built from \"æble\" (apple) and \"kage\" (cake), but it is not baked as a cake.",
   "forms": [
    {
     "da": "en æblekage",
@@ -293,7 +293,7 @@
   }
  },
  "en æggejagt": {
-  "explanation": "\"En æggejagt\" means \"an egg hunt\", a game where children search for eggs or sweets that adults have hidden, usually at Easter (\"påske\"), in the garden or park.",
+  "explanation": "\"En æggejagt\" means \"an egg hunt\". It is built from \"æg\" (egg) and \"jagt\" (hunt).",
   "forms": [
    {
     "da": "en æggejagt",
@@ -332,7 +332,7 @@
   }
  },
  "en æggemad": {
-  "explanation": "\"En æggemad\" means \"an egg open sandwich\", a slice of bread, usually rye, with sliced boiled egg on top.",
+  "explanation": "\"En æggemad\" means \"an egg open sandwich\". A fact about Denmark: it is a slice of bread with sliced boiled egg on top. The word \"mad\" also ends \"en ostemad\" (a cheese sandwich).",
   "forms": [
    {
     "da": "en æggemad",
@@ -353,16 +353,16 @@
   ],
   "related": [
    {
-    "da": "en ostemad",
-    "en": "a cheese sandwich"
-   },
-   {
     "da": "en leverpostejmad",
     "en": "a liver pâté sandwich"
    },
    {
-    "da": "en frikadellemad",
-    "en": "a meatball sandwich"
+    "da": "et rugbrød",
+    "en": "a rye bread"
+   },
+   {
+    "da": "et smørrebrød",
+    "en": "an open sandwich"
    }
   ],
   "sentence": {
@@ -371,7 +371,7 @@
   }
  },
  "en ægtefælle": {
-  "explanation": "\"En ægtefælle\" means \"a spouse\", a husband or wife. Forms often ask for \"ægtefællens navn\" (your spouse's name), because the word means either a husband or a wife.",
+  "explanation": "\"En ægtefælle\" means \"a spouse\". It is built from \"ægte\" (genuine) and \"fælle\" (companion). To ask for a spouse's name, say: \"Hvad er din ægtefælles navn?\" (What is your spouse's name?)",
   "forms": [
    {
     "da": "en ægtefælle",
@@ -401,7 +401,7 @@
    },
    {
     "da": "en forlovede",
-    "en": "a fiancé"
+    "en": "an engaged person"
    },
    {
     "da": "et ægteskab",
@@ -414,7 +414,7 @@
   }
  },
  "en ægtemand": {
-  "explanation": "\"En ægtemand\" means \"a husband\", a man in a marriage. In everyday speech, Danes often just say \"min mand\" (my husband).",
+  "explanation": "\"En ægtemand\" means \"a husband\". It is built from \"ægte\" (genuine) and \"mand\" (man). To say \"my husband\" in a shorter way, say \"min mand\": \"Min mand er hjemme\" (My husband is home).",
   "forms": [
    {
     "da": "en ægtemand",
@@ -457,7 +457,7 @@
   }
  },
  "en ælling": {
-  "explanation": "\"En ælling\" means \"a duckling\", a young duck. The grown-up bird is \"en and\" (a duck).",
+  "explanation": "\"En ælling\" means \"a duckling\".",
   "forms": [
    {
     "da": "en ælling",
@@ -496,7 +496,7 @@
   }
  },
  "en ændring": {
-  "explanation": "\"En ændring\" means \"a change\", when something becomes different. To swap one thing for another, say \"at skifte\" (to switch): \"at skifte sko\" (to change shoes).",
+  "explanation": "\"En ændring\" means \"a change\". To say you make a change, use \"lave\" (to make): \"Jeg laver en ændring i planen\" (I am making a change in the plan). To swap one thing for another, say \"at skifte\" (to switch): \"at skifte sko\" (to change shoes).",
   "forms": [
    {
     "da": "en ændring",
@@ -539,7 +539,7 @@
   }
  },
  "en æske": {
-  "explanation": "\"En æske\" means \"a box\", usually a smaller one made of cardboard. A big box for packing is \"en kasse\" (a crate / large box).",
+  "explanation": "\"En æske\" means \"a box\". To name what is inside, put it after \"æske\": \"en æske tændstikker\" (a box of matches). Do not mix it up with \"en kasse\" (a crate / large box): \"en kasse øl\" (a crate of beer).",
   "forms": [
    {
     "da": "en æske",
@@ -582,7 +582,7 @@
   }
  },
  "et æble": {
-  "explanation": "\"Et æble\" means \"an apple\", the round fruit that grows on trees. Danish joins words together: \"æblekage\" (apple dessert) is æble (apple) plus kage (cake).",
+  "explanation": "\"Et æble\" means \"an apple\". To name a food made from apples, join \"æble\" with another word: \"æblekage\" (apple dessert).",
   "forms": [
    {
     "da": "et æble",
@@ -607,12 +607,12 @@
     "en": "an apple tree"
    },
    {
-    "da": "en pære",
-    "en": "a pear"
+    "da": "æblemos",
+    "en": "applesauce"
    },
    {
-    "da": "en banan",
-    "en": "a banana"
+    "da": "en pære",
+    "en": "a pear"
    }
   ],
   "sentence": {
@@ -621,7 +621,7 @@
   }
  },
  "et æg": {
-  "explanation": "\"Et æg\" means \"an egg\". Two common ways to cook it are \"kogt æg\" (boiled egg) and \"spejlæg\" (fried egg).",
+  "explanation": "\"Et æg\" means \"an egg\". To say how an egg is cooked, add \"kogt\" (boiled): \"et kogt æg\" (a boiled egg). A fried egg has its own word, \"et spejlæg\" (literally, a mirror egg).",
   "forms": [
    {
     "da": "et æg",
@@ -652,6 +652,10 @@
    {
     "da": "en æggehvide",
     "en": "an egg white"
+   },
+   {
+    "da": "et æggebæger",
+    "en": "an egg cup"
    }
   ],
   "sentence": {
@@ -660,7 +664,7 @@
   }
  },
  "et æggebæger": {
-  "explanation": "\"Et æggebæger\" means \"an egg cup\", the little cup that holds a boiled egg upright so you can eat it with a spoon. It is built from æg (egg) and bæger (cup). A \"bæger\" is a small cup without a handle, also in \"et yoghurtbæger\" (a yogurt cup).",
+  "explanation": "\"Et æggebæger\" means \"an egg cup\". It is built from \"æg\" (egg) and \"bæger\" (cup). The word \"bæger\" is also in \"et yoghurtbæger\" (a yogurt cup).",
   "forms": [
    {
     "da": "et æggebæger",
@@ -685,8 +689,8 @@
     "en": "an egg timer"
    },
    {
-    "da": "en æggeskærer",
-    "en": "an egg slicer"
+    "da": "en morgenmad",
+    "en": "a breakfast"
    },
    {
     "da": "en æggebakke",
@@ -699,7 +703,7 @@
   }
  },
  "et ægtepar": {
-  "explanation": "\"Et ægtepar\" means \"a married couple\". For two people who are together but not married, use \"et kærestepar\" (a couple).",
+  "explanation": "\"Et ægtepar\" means \"a married couple\". To say two people are married: \"De er et ægtepar\" (They are a married couple). Two people who are together but not married are \"et kærestepar\" (a couple): \"De er et kærestepar\" (They are a couple).",
   "forms": [
    {
     "da": "et ægtepar",
@@ -738,7 +742,7 @@
   }
  },
  "et ægteskab": {
-  "explanation": "\"Et ægteskab\" means \"a marriage\", the lasting bond between two people who have said their vows. The ceremony itself is \"et bryllup\" (a wedding).",
+  "explanation": "\"Et ægteskab\" means \"a marriage\". Do not mix it up with \"et bryllup\" (a wedding). To talk about the marriage: \"Deres ægteskab er lykkeligt\" (Their marriage is happy). To talk about the ceremony: \"Deres bryllup er i dag\" (Their wedding is today).",
   "forms": [
    {
     "da": "et ægteskab",
@@ -781,7 +785,7 @@
   }
  },
  "et ærinde": {
-  "explanation": "\"Et ærinde\" means \"an errand\", a short trip to do one small job, such as picking up food or mailing a letter. At a door or a desk, it also means your reason for being there: \"Hvad er dit ærinde?\" (What is your business here?)",
+  "explanation": "\"Et ærinde\" means \"an errand\". To say you go out to do one, use \"løbe\" (to run): \"Jeg løber lige et ærinde\" (I am just running an errand). To ask why someone has come to a door or desk, it also means \"business\": \"Hvad er dit ærinde?\" (What is your business here?)",
   "forms": [
    {
     "da": "et ærinde",
@@ -820,7 +824,7 @@
   }
  },
  "et ærme": {
-  "explanation": "\"Et ærme\" means \"a sleeve\", the part of a shirt or jacket that covers your arm.",
+  "explanation": "\"Et ærme\" means \"a sleeve\". To say you start working hard, use \"smøge\" (to roll up): \"Vi smøger ærmerne op\" (We roll up our sleeves).",
   "forms": [
    {
     "da": "et ærme",
@@ -859,7 +863,7 @@
   }
  },
  "et æsel": {
-  "explanation": "\"Et æsel\" means \"a donkey\", a strong gray animal that carries loads. It is known for being stubborn: \"stædig som et æsel\" (stubborn as a donkey).",
+  "explanation": "\"Et æsel\" means \"a donkey\". To say someone is very stubborn: \"Han er stædig som et æsel\" (He is as stubborn as a donkey).",
   "forms": [
    {
     "da": "et æsel",
@@ -888,8 +892,8 @@
     "en": "a mule"
    },
    {
-    "da": "en zebra",
-    "en": "a zebra"
+    "da": "en pony",
+    "en": "a pony"
    }
   ],
   "sentence": {
@@ -898,7 +902,7 @@
   }
  },
  "ædel": {
-  "explanation": "\"Ædel\" means \"noble\", for a good, generous character and for acts that show it. It also appears in words for valuable materials: \"ædelsten\" (gem) and \"ædelmetal\" (precious metal).",
+  "explanation": "\"Ædel\" means \"noble\". In names of valuable materials, it means \"precious\": \"ædelmetal\" (precious metal).",
   "forms": [
    {
     "da": "en ædel ridder",
@@ -937,7 +941,7 @@
   }
  },
  "ædru": {
-  "explanation": "\"Ædru\" means \"sober\", not having had alcohol. It can also mean calm and sensible: \"en ædru vurdering\" (a sober assessment).",
+  "explanation": "\"Ædru\" means \"sober\". To warn someone about driving, say: \"Kør ikke, hvis du ikke er ædru\" (Do not drive if you are not sober).",
   "forms": [
    {
     "da": "en ædru chauffør",
@@ -972,7 +976,7 @@
   }
  },
  "ægte": {
-  "explanation": "\"Ægte\" means \"genuine\" or \"real\", for things and people that are what they claim to be: \"ægte læder\" (genuine leather).",
+  "explanation": "\"Ægte\" means \"genuine\". It is also the first part of \"ægtefælle\" (spouse) and \"ægteskab\" (marriage).",
   "forms": [
    {
     "da": "en ægte ven",
@@ -1011,7 +1015,7 @@
   }
  },
  "ældgammel": {
-  "explanation": "\"Ældgammel\" means \"ancient\", much stronger than \"gammel\" (old). Use it for things that go very far back in time: \"en ældgammel skik\" (an ancient custom).",
+  "explanation": "\"Ældgammel\" means \"ancient\". It ends in \"gammel\" (old). To say a custom goes far back in time: \"en ældgammel skik\" (an ancient custom).",
   "forms": [
    {
     "da": "et ældgammelt hus",
@@ -1046,7 +1050,7 @@
   }
  },
  "ældre": {
-  "explanation": "\"Ældre\" means \"older\" or \"elderly\". It is the step up from \"gammel\" (old). \"De ældre\" (the elderly) is a polite way to name elderly people, softer than saying \"gamle\" (old people).",
+  "explanation": "\"Ældre\" means \"elderly\". It is also the form of \"gammel\" (old) that means \"older\". To talk about elderly people as a group, say \"de ældre\" (the elderly): \"Vi besøger de ældre\" (We visit the elderly).",
   "forms": [
    {
     "da": "en ældre dame",
@@ -1085,7 +1089,7 @@
   }
  },
  "ældst": {
-  "explanation": "\"Ældst\" means \"oldest\", the one in a group with the most years. It goes one step beyond \"ældre\" (older).",
+  "explanation": "\"Ældst\" means \"oldest\". It follows the pattern \"gammel\" (old), \"ældre\" (older), \"ældst\" (oldest). To point to one person, say: \"Hun er den ældste\" (She is the oldest).",
   "forms": [
    {
     "da": "min ældste bror",
@@ -1102,16 +1106,16 @@
   ],
   "related": [
    {
-    "da": "gammel",
-    "en": "old"
-   },
-   {
     "da": "yngst",
     "en": "youngest"
    },
    {
     "da": "ung",
     "en": "young"
+   },
+   {
+    "da": "en alder",
+    "en": "an age"
    }
   ],
   "sentence": {
@@ -1120,7 +1124,7 @@
   }
  },
  "ære": {
-  "explanation": "\"En ære\" means \"an honor\", either a privilege you are given or the good name and pride that come from doing something worthy. To honor someone, Danes say \"til ære for\" (in honor of): \"en fest til ære for hende\" (a party in honor of her).",
+  "explanation": "\"En ære\" means \"an honor\". To say something is done to honor someone, use \"til ære for\" (in honor of): \"en fest til ære for hende\" (a party in honor of her).",
   "forms": [
    {
     "da": "en ære",
@@ -1159,7 +1163,7 @@
   }
  },
  "ærefuld": {
-  "explanation": "\"Ærefuld\" means \"honorable\" and describes a person or an action that deserves respect and has nothing to be ashamed of. It is built from ære (honor) and -fuld (full of), so it is \"full of honor\".",
+  "explanation": "\"Ærefuld\" means \"honorable\". It is built from \"ære\" (honor) and \"-fuld\" (full of).",
   "forms": [
    {
     "da": "en ærefuld kamp",
@@ -1198,7 +1202,7 @@
   }
  },
  "æret": {
-  "explanation": "\"Æret\" means \"honored\" and is used for someone you want to show special respect. You mostly meet \"ærede\" in speeches, where it opens the greeting: \"Ærede gæster!\" (Honored guests!)",
+  "explanation": "\"Æret\" means \"honored\". To open a speech politely, use the plural \"ærede\": \"Ærede gæster!\" (Honored guests!)",
   "forms": [
    {
     "da": "en æret gæst",
@@ -1233,7 +1237,7 @@
   }
  },
  "ærgerlig": {
-  "explanation": "\"Ærgerlig\" means \"unfortunate\" or \"a shame\", for a situation that goes wrong: \"Det er ærgerligt, at du ikke kan komme\" (It is a shame you cannot come).",
+  "explanation": "\"Ærgerlig\" means \"unfortunate\". To say you are sorry that something did not work out: \"Det er ærgerligt, at du ikke kan komme\" (It is a shame you cannot come).",
   "forms": [
    {
     "da": "en ærgerlig fejl",
@@ -1272,7 +1276,7 @@
   }
  },
  "ærgerrig": {
-  "explanation": "\"Ærgerrig\" means \"ambitious\", wanting to achieve a lot and working hard for it. Do not mix it up with \"ærgerlig\" (a pity): \"Det er ærgerligt\" (That is a pity).",
+  "explanation": "\"Ærgerrig\" means \"ambitious\". To say a person is ambitious: \"Hun er meget ærgerrig\" (She is very ambitious). Do not mix it up with \"ærgerlig\" (a pity). To say something is a pity: \"Det er ærgerligt\" (That is a pity).",
   "forms": [
    {
     "da": "en ærgerrig elev",
@@ -1311,7 +1315,7 @@
   }
  },
  "ærlig": {
-  "explanation": "\"Ærlig\" means \"honest\", saying what is true: \"Vær ærlig!\" (Be honest!). \"Ærligt talt\" (honestly) often starts a frank remark: \"Ærligt talt, jeg kan ikke lide det\" (Honestly, I do not like it).",
+  "explanation": "\"Ærlig\" means \"honest\". To ask someone to tell the truth, say: \"Vær ærlig!\" (Be honest!) To start a frank remark, say \"ærligt talt\" (honestly): \"Ærligt talt, jeg kan ikke lide det\" (Honestly, I do not like it).",
   "forms": [
    {
     "da": "en ærlig mand",
@@ -1350,7 +1354,7 @@
   }
  },
  "ærlighed": {
-  "explanation": "\"Ærlighed\" means \"honesty\", telling the truth and not cheating.",
+  "explanation": "\"Ærlighed\" means \"honesty\". It is the noun for the adjective \"ærlig\" (honest): \"Han er ærlig\" (He is honest).",
   "forms": [
    {
     "da": "ærlighed",
@@ -1371,10 +1375,6 @@
   ],
   "related": [
    {
-    "da": "ærlig",
-    "en": "honest"
-   },
-   {
     "da": "en sandhed",
     "en": "a truth"
    },
@@ -1385,6 +1385,10 @@
    {
     "da": "uærlig",
     "en": "dishonest"
+   },
+   {
+    "da": "at snyde",
+    "en": "to cheat"
    }
   ],
   "sentence": {
@@ -1393,7 +1397,7 @@
   }
  },
  "ærter": {
-  "explanation": "\"Ærter\" means \"peas\", the small round green vegetables that grow in a pod.",
+  "explanation": "\"Ærter\" means \"peas\" (one is \"en ært\"). In Denmark, \"gule ærter\" (yellow peas) is also the name of a traditional soup. To say you are having that soup, say \"Vi skal have gule ærter i aften\" (We are having pea soup tonight).",
   "forms": [
    {
     "da": "en ært",

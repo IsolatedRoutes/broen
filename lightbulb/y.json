@@ -1,6 +1,6 @@
 {
  "at yde": {
-  "explanation": "\"At yde\" means \"to provide\" or \"to perform\", for help, support or effort that you offer: \"yde støtte\" (provide support), \"yde en indsats\" (make an effort).",
+  "explanation": "\"At yde\" means \"to provide\". To say you give support: \"yde støtte\" (provide support). To say you try hard: \"yde en indsats\" (make an effort).",
   "forms": [
    {
     "da": "at yde",
@@ -21,16 +21,12 @@
   ],
   "related": [
    {
-    "da": "at give",
-    "en": "to give"
-   },
-   {
     "da": "at levere",
     "en": "to deliver"
    },
    {
     "da": "at præstere",
-    "en": "to perform well"
+    "en": "to perform"
    },
    {
     "da": "at modtage",
@@ -43,7 +39,7 @@
   }
  },
  "at ytre": {
-  "explanation": "\"At ytre\" means \"to express\" or \"to utter\": you say an opinion or a wish out loud: \"Hun ytrer sin mening\" (She voices her opinion).",
+  "explanation": "\"At ytre\" means \"to express\". To say someone says what they think: \"Hun ytrer sin mening\" (She voices her opinion). The noun is \"en ytring\" (a statement).",
   "forms": [
    {
     "da": "at ytre",
@@ -65,15 +61,11 @@
   "related": [
    {
     "da": "at udtrykke",
-    "en": "to voice"
+    "en": "to express"
    },
    {
     "da": "at fremsætte",
     "en": "to put forward"
-   },
-   {
-    "da": "en ytring",
-    "en": "a statement"
    },
    {
     "da": "at tie",
@@ -86,7 +78,7 @@
   }
  },
  "en yderside": {
-  "explanation": "\"En yderside\" means \"an outside\", the outer surface of something. The opposite is \"en inderside\" (an inside).",
+  "explanation": "\"En yderside\" means \"an outside\". To say how the outside of an object looks: \"Kassens yderside er blå\" (The outside of the box is blue). For the other side, use \"en inderside\" (an inside): \"Kopens inderside er hvid\" (The inside of the cup is white).",
   "forms": [
    {
     "da": "en yderside",
@@ -116,7 +108,7 @@
    },
    {
     "da": "udvendig",
-    "en": "on the outside"
+    "en": "outer"
    },
    {
     "da": "en overflade",
@@ -129,7 +121,7 @@
   }
  },
  "en yndlingsbog": {
-  "explanation": "\"En yndlingsbog\" means \"a favorite book\". The start \"yndlings-\" means \"favorite\" and works in many words: \"min yndlingsmad\" (my favorite food).",
+  "explanation": "\"En yndlingsbog\" means \"a favorite book\". The start \"yndlings-\" means \"favorite\" in other words too, such as \"min yndlingsmad\" (my favorite food).",
   "forms": [
    {
     "da": "en yndlingsbog",
@@ -172,7 +164,7 @@
   }
  },
  "en yndlingsfarve": {
-  "explanation": "\"En yndlingsfarve\" means \"a favorite color\". It is built from yndling (favorite) and farve (color). The same works for food: \"min yndlingsmad\" (my favorite food).",
+  "explanation": "\"En yndlingsfarve\" means \"a favorite color\". It is built from \"yndling\" (favorite) and \"farve\" (color). The same start is in \"mit yndlingsdyr\" (my favorite animal).",
   "forms": [
    {
     "da": "en yndlingsfarve",
@@ -215,7 +207,7 @@
   }
  },
  "en yndlingsfilm": {
-  "explanation": "\"En yndlingsfilm\" means \"a favorite movie\". The start \"yndlings-\" means \"favorite\" and works in many words: \"min yndlingsmad\" (my favorite food).",
+  "explanation": "\"En yndlingsfilm\" means \"a favorite movie\". The start \"yndlings-\" means \"favorite\" in other words too, such as \"min yndlingsskuespiller\" (my favorite actor).",
   "forms": [
    {
     "da": "en yndlingsfilm",
@@ -258,7 +250,7 @@
   }
  },
  "en yndlingsret": {
-  "explanation": "\"En yndlingsret\" means \"a favorite dish\". It is built from yndling (favorite) and ret (dish). The word \"ret\" can also mean a court of law: \"Han skal for retten\" (He has to go to court).",
+  "explanation": "\"En yndlingsret\" means \"a favorite dish\". It is built from \"yndling\" (favorite) and \"ret\" (dish). A different meaning of \"ret\" is a court of law: \"Han skal for retten\" (He has to go to court).",
   "forms": [
    {
     "da": "en yndlingsret",
@@ -289,6 +281,10 @@
    {
     "da": "en hovedret",
     "en": "a main course"
+   },
+   {
+    "da": "en forret",
+    "en": "a starter"
    }
   ],
   "sentence": {
@@ -297,7 +293,7 @@
   }
  },
  "en yndlingssang": {
-  "explanation": "\"En yndlingssang\" means \"a favorite song\". The start \"yndlings-\" means \"favorite\" and works in many words: \"min yndlingsmad\" (my favorite food).",
+  "explanation": "\"En yndlingssang\" means \"a favorite song\". The start \"yndlings-\" means \"favorite\" in other words too, such as \"mit yndlingssted\" (my favorite place).",
   "forms": [
    {
     "da": "en yndlingssang",
@@ -318,12 +314,12 @@
   ],
   "related": [
    {
-    "da": "en sanger",
-    "en": "a singer"
+    "da": "en sang",
+    "en": "a song"
    },
    {
-    "da": "musik",
-    "en": "music"
+    "da": "en sanger",
+    "en": "a singer"
    },
    {
     "da": "en yndlingsfilm",
@@ -340,7 +336,7 @@
   }
  },
  "en yogamåtte": {
-  "explanation": "\"En yogamåtte\" means \"a yoga mat\", the soft mat you stand or sit on to do yoga. It is built from yoga and måtte (mat).",
+  "explanation": "\"En yogamåtte\" means \"a yoga mat\". It is built from \"yoga\" (yoga) and \"måtte\" (mat). The same \"måtte\" is in \"en dørmåtte\" (a doormat). To say you forgot it: \"Jeg har glemt min yogamåtte\" (I forgot my yoga mat).",
   "forms": [
    {
     "da": "en yogamåtte",
@@ -362,19 +358,15 @@
   "related": [
    {
     "da": "pilates",
-    "en": "Pilates"
+    "en": "pilates"
    },
    {
     "da": "en træningsmåtte",
     "en": "an exercise mat"
    },
    {
-    "da": "en dørmåtte",
-    "en": "a doormat"
-   },
-   {
     "da": "en træning",
-    "en": "a workout"
+    "en": "training"
    }
   ],
   "sentence": {
@@ -383,7 +375,7 @@
   }
  },
  "yderligere": {
-  "explanation": "\"Yderligere\" means \"further\" and \"additional\", on top of what is already there. You can also put it after a verb: \"Priserne steg yderligere\" (Prices rose even more).",
+  "explanation": "\"Yderligere\" means \"further\". To ask for more details: \"Har du yderligere spørgsmål?\" (Do you have further questions?) A different use: after a verb it means \"even more\": \"Priserne steg yderligere\" (Prices rose even more).",
   "forms": [
    {
     "da": "yderligere oplysninger",
@@ -418,7 +410,7 @@
   }
  },
  "yderst": {
-  "explanation": "\"Yderst\" means \"extremely\" and also \"outermost\", the part farthest out: \"yderst til venstre\" (on the far left).",
+  "explanation": "\"Yderst\" means \"extremely\". To make a word stronger: \"yderst vigtigt\" (extremely important). A different meaning is \"outermost\": \"yderst til venstre\" (on the far left).",
   "forms": [
    {
     "da": "yderst sjælden",
@@ -453,7 +445,7 @@
   }
  },
  "ydmyg": {
-  "explanation": "\"Ydmyg\" means \"humble\", not acting as if you are better than others, and ready to admit when you do not know something. It can also describe simple things: \"en ydmyg bolig\" (a humble home).",
+  "explanation": "\"Ydmyg\" means \"humble\". A different use is for simple things: \"en ydmyg bolig\" (a humble home).",
   "forms": [
    {
     "da": "en ydmyg mand",
@@ -475,7 +467,7 @@
    },
    {
     "da": "en ydmyghed",
-    "en": "humility"
+    "en": "a humility"
    },
    {
     "da": "indbildsk",
@@ -492,7 +484,7 @@
   }
  },
  "ydre": {
-  "explanation": "\"Ydre\" means \"outer\", for the part of something that is farthest out.",
+  "explanation": "\"Ydre\" means \"outer\". It stays the same before both kinds of words: \"en ydre side\" (an outer side) and \"et ydre lag\" (an outer layer). As a noun, it means \"looks\": \"Hun har et pænt ydre\" (She has nice looks).",
   "forms": [
    {
     "da": "en ydre side",
@@ -513,12 +505,8 @@
     "en": "inner"
    },
    {
-    "da": "udenfor",
-    "en": "outside"
-   },
-   {
     "da": "udvendig",
-    "en": "external"
+    "en": "outer"
    },
    {
     "da": "yderst",
@@ -531,7 +519,7 @@
   }
  },
  "ymer": {
-  "explanation": "\"Ymer\" means \"a Danish soured milk\", thick and sour and usually eaten at breakfast. It is traditionally topped with \"ymerdrys\", a crunchy mix of dried rye bread crumbs and sugar.",
+  "explanation": "\"Ymer\" means \"a Danish soured milk\". To say you have a serving of it: \"en skål ymer\" (a bowl of ymer). It is traditionally topped with \"ymerdrys\", a crunchy mix of dried rye bread crumbs and sugar.",
   "forms": [
    {
     "da": "ymer",
@@ -557,7 +545,7 @@
    },
    {
     "da": "tykmælk",
-    "en": "thick sour milk"
+    "en": "thick soured milk"
    }
   ],
   "sentence": {
@@ -566,7 +554,7 @@
   }
  },
  "yndlings-": {
-  "explanation": "\"Yndlings-\" means \"favorite\". To make a \"favorite\" word, write it together with the word: \"yndlingsmad\" (favorite food), \"yndlingsfarve\" (favorite color).",
+  "explanation": "\"Yndlings-\" means \"favorite\". It comes from \"en yndling\" (a favorite). Put it in front of a word to make a new word: \"yndlingsmad\" (favorite food) and \"yndlingsdyr\" (favorite animal).",
   "forms": [
    {
     "da": "min yndlingsfarve",
@@ -605,7 +593,7 @@
   }
  },
  "yngre": {
-  "explanation": "\"Yngre\" means \"younger\". It is the step up from \"ung\" (young): \"Jeg er yngre end min bror\" (I am younger than my brother).",
+  "explanation": "\"Yngre\" means \"younger\". It is the form of \"ung\" (young) for comparing two people: \"Jeg er yngre end min bror\" (I am younger than my brother).",
   "forms": [
    {
     "da": "en yngre mand",
@@ -640,7 +628,7 @@
   }
  },
  "yngst": {
-  "explanation": "\"Yngst\" means \"youngest\", the one with the lowest age in a group. For two people, use \"yngre\" (younger): \"Jeg er yngre end min bror\" (I am younger than my brother).",
+  "explanation": "\"Yngst\" means \"youngest\". With \"the\" in front, it ends in \"e\": \"den yngste\" (the youngest). For only two people, use \"yngre\" (younger): \"Jeg er yngre end min bror\" (I am younger than my brother).",
   "forms": [
    {
     "da": "min yngste søster",
@@ -675,7 +663,7 @@
   }
  },
  "ynkelig": {
-  "explanation": "\"Ynkelig\" means \"pathetic\", so weak or poor that people feel pity or scorn.",
+  "explanation": "\"Ynkelig\" means \"pathetic\". In front of a word that takes \"et\", add \"t\": \"et ynkeligt syn\" (a pathetic sight).",
   "forms": [
    {
     "da": "en ynkelig undskyldning",
@@ -714,7 +702,7 @@
   }
  },
  "yoga": {
-  "explanation": "\"Yoga\" means \"yoga\", exercise with slow movements and calm breathing. To say you do it, use \"at lave\" (to do) or \"at dyrke\" (to practice).",
+  "explanation": "\"Yoga\" means \"yoga\". To say you do it, use \"at dyrke\" (to practice): \"Hun dyrker yoga hver morgen\" (She does yoga every morning). You can also say \"Jeg laver yoga\" (I do yoga).",
   "forms": [
    {
     "da": "Jeg laver yoga.",
@@ -736,11 +724,7 @@
    },
    {
     "da": "pilates",
-    "en": "Pilates"
-   },
-   {
-    "da": "at strække sig",
-    "en": "to stretch"
+    "en": "pilates"
    },
    {
     "da": "afslapning",
@@ -753,7 +737,7 @@
   }
  },
  "yoghurt": {
-  "explanation": "\"En yoghurt\" means \"a yogurt\", one pot of it. For yogurt as a food, say \"noget yoghurt\" (some yogurt).",
+  "explanation": "\"En yoghurt\" means \"a yogurt\". To talk about yogurt as a food, use \"noget yoghurt\" (some yogurt): \"Vil du have noget yoghurt?\" (Would you like some yogurt?)",
   "forms": [
    {
     "da": "en yoghurt",
@@ -770,16 +754,16 @@
   ],
   "related": [
    {
-    "da": "mælk",
-    "en": "milk"
+    "da": "ymer",
+    "en": "a Danish soured milk"
    },
    {
-    "da": "ost",
-    "en": "cheese"
+    "da": "tykmælk",
+    "en": "thick soured milk"
    },
    {
-    "da": "smør",
-    "en": "butter"
+    "da": "kærnemælk",
+    "en": "buttermilk"
    }
   ],
   "sentence": {
@@ -788,7 +772,7 @@
   }
  },
  "ytringsfrihed": {
-  "explanation": "\"Ytringsfrihed\" means \"freedom of speech\", the right to share your opinion without being punished for it. It is built from en ytring (a statement) and frihed (freedom), and it covers writing and publishing too, not only speaking.",
+  "explanation": "\"Ytringsfrihed\" means \"freedom of speech\". It is built from \"en ytring\" (a statement) and \"frihed\" (freedom). In Denmark, it is protected in \"Grundloven\" (the Constitution Act).",
   "forms": [
    {
     "da": "ytringsfrihed",

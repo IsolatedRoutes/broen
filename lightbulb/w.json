@@ -1,6 +1,6 @@
 {
  "en webshop": {
-  "explanation": "\"En webshop\" means \"an online store\", a store you use on the internet instead of walking into a building. The word comes straight from English.",
+  "explanation": "\"En webshop\" means \"an online store\". It is built from \"web\" (the internet) and \"shop\" (store). To say where you bought something: \"Jeg har købt det i en webshop\" (I bought it in an online store).",
   "forms": [
    {
     "da": "en webshop",
@@ -39,7 +39,7 @@
   }
  },
  "en webside": {
-  "explanation": "\"En webside\" means \"a web page\", one page on the internet. A whole site is often \"en hjemmeside\" (a website): \"Firmaets hjemmeside er ny\" (The company's website is new).",
+  "explanation": "\"En webside\" means \"a web page\". It is built from \"web\" (the internet) and \"side\" (page). For a whole site, use \"en hjemmeside\" (a website): \"Firmaets hjemmeside er ny\" (The company's website is new).",
   "forms": [
    {
     "da": "en webside",
@@ -78,7 +78,7 @@
   }
  },
  "en weekend": {
-  "explanation": "\"En weekend\" means \"a weekend\". Say \"i weekenden\" (on the weekend). On Fridays, Danes say \"God weekend!\" (Have a good weekend!).",
+  "explanation": "\"En weekend\" means \"a weekend\". To say on the weekend, use \"i weekenden\": \"Vi ses i weekenden\" (See you on the weekend). To wish someone well on a Friday: \"God weekend!\" (Have a good weekend!)",
   "forms": [
    {
     "da": "en weekend",
@@ -99,6 +99,10 @@
   ],
   "related": [
    {
+    "da": "en weekendtur",
+    "en": "a weekend trip"
+   },
+   {
     "da": "en lørdag",
     "en": "a Saturday"
    },
@@ -107,12 +111,8 @@
     "en": "a Sunday"
    },
    {
-    "da": "en uge",
-    "en": "a week"
-   },
-   {
-    "da": "en ferie",
-    "en": "a vacation"
+    "da": "en hverdag",
+    "en": "a weekday"
    }
   ],
   "sentence": {
@@ -121,7 +121,7 @@
   }
  },
  "en weekendtur": {
-  "explanation": "\"En weekendtur\" means \"a weekend trip\". It is built from weekend and tur (trip), the same tur as in \"en biltur\" (a car trip).",
+  "explanation": "\"En weekendtur\" means \"a weekend trip\". It is built from \"weekend\" (weekend) and \"tur\" (trip). The same \"tur\" is in \"en biltur\" (a car trip). To suggest one: \"Skal vi tage på weekendtur?\" (Shall we go on a weekend trip?)",
   "forms": [
    {
     "da": "en weekendtur",
@@ -143,7 +143,7 @@
   "related": [
    {
     "da": "en udflugt",
-    "en": "an excursion"
+    "en": "an outing"
    },
    {
     "da": "en dagstur",
@@ -164,7 +164,7 @@
   }
  },
  "en whisky": {
-  "explanation": "\"En whisky\" means \"a whiskey\", and also one serving of it: \"Vil du have en whisky?\" (Would you like a whiskey?) Without \"en\" it is the drink itself, not one serving: \"Jeg kan godt lide whisky\" (I like whiskey).",
+  "explanation": "\"En whisky\" means \"a whiskey\". To offer a glass: \"Vil du have en whisky?\" (Would you like a whiskey?) To talk about the drink in general, leave out \"en\": \"Jeg kan godt lide whisky\" (I like whiskey).",
   "forms": [
    {
     "da": "en whisky",
@@ -186,11 +186,11 @@
   "related": [
    {
     "da": "en snaps",
-    "en": "a schnapps"
+    "en": "a shot of schnapps"
    },
    {
-    "da": "en rom",
-    "en": "a rum"
+    "da": "en øl",
+    "en": "a beer"
    },
    {
     "da": "en vodka",
@@ -203,7 +203,7 @@
   }
  },
  "en wrap": {
-  "explanation": "\"En wrap\" means \"a wrap\", a soft flatbread rolled around a filling. For the bread alone, use \"en tortilla\" (a tortilla).",
+  "explanation": "\"En wrap\" means \"a wrap\". To say what is inside: \"en wrap med falafel\" (a wrap with falafel).",
   "forms": [
    {
     "da": "en wrap",
@@ -228,12 +228,16 @@
     "en": "a pita"
    },
    {
-    "da": "en dürüm",
-    "en": "a kebab wrap"
-   },
-   {
     "da": "en sandwich",
     "en": "a sandwich"
+   },
+   {
+    "da": "en burrito",
+    "en": "a burrito"
+   },
+   {
+    "da": "en tortilla",
+    "en": "a tortilla"
    }
   ],
   "sentence": {
@@ -242,7 +246,7 @@
   }
  },
  "et whiteboard": {
-  "explanation": "\"Et whiteboard\" means \"a whiteboard\", a board you write on with markers and wipe clean. The older kind you write on with chalk is \"en tavle\" (a blackboard).",
+  "explanation": "\"Et whiteboard\" means \"a whiteboard\". It is built from the English words \"white\" and \"board\". For a board you write on with chalk, use \"en tavle\" (a blackboard): \"Læreren skriver med kridt på tavlen\" (The teacher writes with chalk on the board).",
   "forms": [
    {
     "da": "et whiteboard",
@@ -273,10 +277,6 @@
    {
     "da": "en projektor",
     "en": "a projector"
-   },
-   {
-    "da": "en skærm",
-    "en": "a screen"
    }
   ],
   "sentence": {
@@ -285,7 +285,7 @@
   }
  },
  "et wienerbrød": {
-  "explanation": "\"Et wienerbrød\" means \"a Danish pastry\", a flaky sweet pastry from the bakery. The plural looks the same: \"to wienerbrød\" (two Danish pastries).",
+  "explanation": "\"Et wienerbrød\" means \"a Danish pastry\". Literally, it is \"Vienna bread\". For more than one, the word stays the same: \"to wienerbrød\" (two Danish pastries).",
   "forms": [
    {
     "da": "et wienerbrød",
@@ -324,7 +324,7 @@
   }
  },
  "wifi": {
-  "explanation": "\"Wifi\" means \"wifi\", the wireless connection you find in cafés, hotels and homes.",
+  "explanation": "\"Wifi\" means \"wifi\". It takes \"et\", and the word for \"the wifi\" is written with an apostrophe: \"wifi'et\". To say it is not working: \"Wifi'et virker ikke\" (The wifi does not work).",
   "forms": [
    {
     "da": "wifi'et",
@@ -359,7 +359,7 @@
   }
  },
  "wow": {
-  "explanation": "\"Wow\" means \"wow\", a word for being impressed. To describe how impressive a person is, put \"hvor\" (how) after it: \"Wow, hvor er han hurtig!\" (Wow, how fast he is!)",
+  "explanation": "\"Wow\" means \"wow\". To say how impressive something is, add \"hvor\" (how) after it: \"Wow, hvor er han hurtig!\" (Wow, how fast he is!)",
   "forms": [
    {
     "da": "Wow!",

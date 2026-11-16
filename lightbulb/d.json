@@ -1,6 +1,6 @@
 {
  "at dampe": {
-  "explanation": "\"At dampe\" means \"to steam\", to send up steam, as hot things do. It is also used for cooking in steam: \"at dampe grøntsager\" (to steam vegetables).",
+  "explanation": "\"At dampe\" means \"to steam\". It comes from \"damp\" (steam). When you talk about cooking, it also means to cook in steam: \"Jeg damper grøntsager\" (I steam vegetables).",
   "forms": [
    {
     "da": "at dampe",
@@ -39,7 +39,7 @@
   }
  },
  "at danne": {
-  "explanation": "\"At danne\" means \"to form\", to make something come into being: \"at danne en regering\" (to form a government). For shaping clay or dough with your hands, use \"at forme\" (to shape).",
+  "explanation": "\"At danne\" means \"to form\". To say people start a government, say: \"De danner en regering\" (They form a government). Do not mix it up with \"at forme\" (to shape with your hands): \"Jeg former dejen\" (I shape the dough).",
   "forms": [
    {
     "da": "at danne",
@@ -82,7 +82,7 @@
   }
  },
  "at danse": {
-  "explanation": "\"At danse\" means \"to dance\", to move to music alone or with a partner. To name your dance partner, use \"med\" (with): \"Jeg danser med Anna\" (I dance with Anna).",
+  "explanation": "\"At danse\" means \"to dance\". To say who you dance with, use \"med\" (with): \"Jeg danser med Anna\" (I dance with Anna).",
   "forms": [
    {
     "da": "at danse",
@@ -103,16 +103,16 @@
   ],
   "related": [
    {
-    "da": "en dans",
-    "en": "a dance"
-   },
-   {
     "da": "et dansegulv",
     "en": "a dance floor"
    },
    {
-    "da": "en dansefest",
-    "en": "a dance party"
+    "da": "et bal",
+    "en": "a ball"
+   },
+   {
+    "da": "en danselærer",
+    "en": "a dance teacher"
    }
   ],
   "sentence": {
@@ -121,7 +121,7 @@
   }
  },
  "at date": {
-  "explanation": "\"At date\" means \"to date\", to see someone romantically, to get to know them better. For the day on a calendar, use \"en dato\" (a date on the calendar).",
+  "explanation": "\"At date\" means \"to date\", as in seeing someone romantically. Do not mix it up with \"en dato\" (a date on the calendar): \"Hvad er datoen i dag?\" (What is the date today?).",
   "forms": [
    {
     "da": "at date",
@@ -164,7 +164,7 @@
   }
  },
  "at debattere": {
-  "explanation": "\"At debattere\" means \"to debate\", to talk openly about a question where people have different opinions, often in public or in the media: \"Vi debatterer skolereformen\" (We are debating the school reform). Among friends, people more often say \"at diskutere\" (to discuss).",
+  "explanation": "\"At debattere\" means \"to debate\". To say what people debate, say: \"Vi debatterer skolereformen\" (We are debating the school reform). Do not mix it up with \"at diskutere\" (to discuss): \"Vi diskuterer, hvad vi skal spise\" (We are discussing what to eat).",
   "forms": [
    {
     "da": "at debattere",
@@ -185,8 +185,8 @@
   ],
   "related": [
    {
-    "da": "en debat",
-    "en": "a debate"
+    "da": "en meningsudveksling",
+    "en": "an exchange of opinions"
    },
    {
     "da": "en debattør",
@@ -207,7 +207,7 @@
   }
  },
  "at definere": {
-  "explanation": "\"At definere\" means \"to define\", to say exactly what a word or an idea means. It is also used for goals: \"at definere et mål\" (to define a goal).",
+  "explanation": "\"At definere\" means \"to define\". To say you set a clear goal, use it with \"et mål\" (a goal): \"Vi definerer et mål for året\" (We define a goal for the year).",
   "forms": [
    {
     "da": "at definere",
@@ -250,7 +250,7 @@
   }
  },
  "at dele": {
-  "explanation": "\"At dele\" means \"to share\", and \"med\" (with) names who you share with: \"Jeg deler min mad med dig\" (I share my food with you). It also means \"to divide\", as in math: \"ti delt med to\" (ten divided by two).",
+  "explanation": "\"At dele\" means \"to share or divide\". When you share something with a person, add \"med\" (with): \"Jeg deler min mad med dig\" (I share my food with you). When you divide numbers, use \"delt med\" (divided by): \"Ti delt med to er fem\" (Ten divided by two is five).",
   "forms": [
    {
     "da": "at dele",
@@ -271,8 +271,8 @@
   ],
   "related": [
    {
-    "da": "en del",
-    "en": "a part"
+    "da": "en andel",
+    "en": "a share"
    },
    {
     "da": "at fordele",
@@ -281,6 +281,10 @@
    {
     "da": "en halvdel",
     "en": "a half"
+   },
+   {
+    "da": "at dividere",
+    "en": "to divide"
    }
   ],
   "sentence": {
@@ -289,7 +293,7 @@
   }
  },
  "at dele ud": {
-  "explanation": "\"At dele ud\" means \"to hand out\", to give something to each person in a group: \"Læreren deler opgaverne ud\" (The teacher hands out the assignments). It is built from dele (to share) and ud (out). Do not mix it up with \"at dele\" (to share), where people use the same thing together: \"Vi deler en pizza\" (We share a pizza).",
+  "explanation": "\"At dele ud\" means \"to hand out\". It is built from \"at dele\" (to share) and \"ud\" (out). To say what is handed out, say: \"Læreren deler opgaverne ud\" (The teacher hands out the assignments). Do not mix it up with \"at dele\" (to share), where people use the same thing together: \"Vi deler en pizza\" (We share a pizza).",
   "forms": [
    {
     "da": "at dele ud",
@@ -332,7 +336,7 @@
   }
  },
  "at delegere": {
-  "explanation": "\"At delegere\" means \"to delegate\", to hand a task or some power to someone else to handle. To name the person who receives the task, add \"til\" (to): \"Hun delegerer opgaven til Lars\" (She delegates the task to Lars).",
+  "explanation": "\"At delegere\" means \"to delegate\". To name the person you pass the task to, add \"til\" (to): \"Hun delegerer opgaven til Lars\" (She delegates the task to Lars).",
   "forms": [
    {
     "da": "at delegere",
@@ -375,7 +379,7 @@
   }
  },
  "at deltage": {
-  "explanation": "\"At deltage\" means \"to participate\" or \"to take part\", and you add \"i\" (in) before the event: \"Jeg deltager i mødet\" (I am taking part in the meeting).",
+  "explanation": "\"At deltage\" means \"to participate\". To say what you take part in, add \"i\" (in): \"Jeg deltager i mødet\" (I am taking part in the meeting).",
   "forms": [
    {
     "da": "at deltage",
@@ -408,8 +412,8 @@
     "en": "a registration"
    },
    {
-    "da": "at tage del i",
-    "en": "to take part in"
+    "da": "en deltagelse",
+    "en": "participation"
    }
   ],
   "sentence": {
@@ -418,7 +422,7 @@
   }
  },
  "at demonstrere": {
-  "explanation": "\"At demonstrere\" means \"to demonstrate\", to show how something works. It also means to take part in a protest: \"Folk demonstrerer foran Christiansborg\" (People are demonstrating in front of Christiansborg, the parliament building).",
+  "explanation": "\"At demonstrere\" means \"to demonstrate\". When you show how something works, say: \"Læreren demonstrerer forsøget\" (The teacher demonstrates the experiment). When you talk about a protest, it also means \"to protest\": \"Folk demonstrerer foran Christiansborg\" (People are demonstrating in front of Christiansborg, the parliament building).",
   "forms": [
    {
     "da": "at demonstrere",
@@ -461,7 +465,7 @@
   }
  },
  "at designe": {
-  "explanation": "\"At designe\" means \"to design\", to plan how something will look and work before it is made: \"Hun designer hjemmesider\" (She designs websites).",
+  "explanation": "\"At designe\" means \"to design\". The person who designs is \"en designer\" (a designer).",
   "forms": [
    {
     "da": "at designe",
@@ -504,7 +508,7 @@
   }
  },
  "at dirigere": {
-  "explanation": "\"At dirigere\" means \"to conduct\" an orchestra, and also \"to direct\" people or traffic: \"Politiet dirigerer trafikken\" (The police are directing traffic). For a film, use \"at instruere\" (to direct a film) instead.",
+  "explanation": "\"At dirigere\" means \"to conduct or direct\". When you lead an orchestra, say: \"Han dirigerer orkestret\" (He conducts the orchestra). When you point the way for cars, say: \"Politiet dirigerer trafikken\" (The police are directing traffic). For a film, use \"at instruere\" (to direct a film) instead: \"Hun instruerer en film\" (She directs a film).",
   "forms": [
    {
     "da": "at dirigere",
@@ -547,7 +551,7 @@
   }
  },
  "at diskutere": {
-  "explanation": "\"At diskutere\" means \"to discuss\". For an angry fight, use \"at skændes\" (to quarrel): \"De skændes hele tiden\" (They quarrel all the time).",
+  "explanation": "\"At diskutere\" means \"to discuss\". To say people argue angrily, use \"at skændes\" (to quarrel): \"De skændes hele tiden\" (They quarrel all the time).",
   "forms": [
    {
     "da": "at diskutere",
@@ -590,7 +594,7 @@
   }
  },
  "at distrahere": {
-  "explanation": "\"At distrahere\" means \"to distract\", to take someone's attention away from what they are doing. Someone can do it on purpose: \"Tyven distraherede vagten\" (The thief distracted the guard).",
+  "explanation": "\"At distrahere\" means \"to distract\". To say someone does it on purpose, say: \"Tyven distraherede vagten\" (The thief distracted the guard).",
   "forms": [
    {
     "da": "at distrahere",
@@ -633,7 +637,7 @@
   }
  },
  "at dividere": {
-  "explanation": "\"At dividere\" means \"to divide\" in math. To share something between people, say \"at dele\" (to share).",
+  "explanation": "\"At dividere\" means \"to divide\". To say what you divide by, use \"med\" (by): \"Vi dividerer tallet med to\" (We divide the number by two).",
   "forms": [
    {
     "da": "at dividere",
@@ -658,16 +662,12 @@
     "en": "to multiply"
    },
    {
-    "da": "at trække fra",
-    "en": "to subtract"
+    "da": "at dele",
+    "en": "to share"
    },
    {
     "da": "en division",
     "en": "a division"
-   },
-   {
-    "da": "en brøk",
-    "en": "a fraction"
    }
   ],
   "sentence": {
@@ -676,7 +676,7 @@
   }
  },
  "at dokumentere": {
-  "explanation": "\"At dokumentere\" means \"to document\", to show with papers, photos or numbers that something is true or has happened.",
+  "explanation": "\"At dokumentere\" means \"to document\". It comes from the noun \"et dokument\" (a document). To say what you prove something with, use \"med\" (with): \"Vi dokumenterer resultaterne med billeder\" (We document the results with photos).",
   "forms": [
    {
     "da": "at dokumentere",
@@ -697,16 +697,16 @@
   ],
   "related": [
    {
-    "da": "et dokument",
-    "en": "a document"
-   },
-   {
     "da": "en dokumentation",
     "en": "documentation"
    },
    {
     "da": "et bevis",
     "en": "proof"
+   },
+   {
+    "da": "at bevise",
+    "en": "to prove"
    },
    {
     "da": "at registrere",
@@ -719,7 +719,7 @@
   }
  },
  "at dominere": {
-  "explanation": "\"At dominere\" means \"to dominate\", to be the strongest or most noticeable part of something. A person can do it in a conversation: \"Han dominerer samtalen\" (He dominates the conversation). A color can do it too: \"Blå dominerer billedet\" (Blue dominates the picture).",
+  "explanation": "\"At dominere\" means \"to dominate\". To say a person talks the most in a conversation: \"Han dominerer samtalen\" (He dominates the conversation). To say a color stands out most in a picture: \"Blå dominerer billedet\" (Blue dominates the picture).",
   "forms": [
    {
     "da": "at dominere",
@@ -762,7 +762,7 @@
   }
  },
  "at donere": {
-  "explanation": "\"At donere\" means \"to donate\", to give money, things, blood or organs without getting anything in return. To name the person or group that receives the gift, add \"til\" (to): \"Jeg donerer penge til Røde Kors\" (I donate money to the Red Cross).",
+  "explanation": "\"At donere\" means \"to donate\". To name who receives the gift, add \"til\" (to): \"Jeg donerer penge til Røde Kors\" (I donate money to the Red Cross).",
   "forms": [
    {
     "da": "at donere",
@@ -805,7 +805,7 @@
   }
  },
  "at downloade": {
-  "explanation": "\"At downloade\" means \"to download\", to copy something from the internet onto your own device.",
+  "explanation": "\"At downloade\" means \"to download\". The Danish verb ends in \"e\", unlike the English \"to download\". To say you get an app onto your phone: \"Jeg downloader en app\" (I download an app).",
   "forms": [
    {
     "da": "at downloade",
@@ -834,8 +834,8 @@
     "en": "to fetch"
    },
    {
-    "da": "en fil",
-    "en": "a file"
+    "da": "at installere",
+    "en": "to install"
    }
   ],
   "sentence": {
@@ -844,7 +844,7 @@
   }
  },
  "at drage": {
-  "explanation": "\"At drage\" means \"to draw\" in set phrases such as \"at drage en konklusion\" (to draw a conclusion). It also means \"to go\" when someone sets out on a journey, but in an old-fashioned, storybook way: \"Han drog ud i verden\" (He set out into the world). For an ordinary trip, people say \"at tage af sted\" (to leave).",
+  "explanation": "\"At drage\" means \"to draw (a conclusion) or go\". To say you benefit from something, use \"at drage fordel af\" (to benefit from): \"Vi drager fordel af den nye metro\" (We benefit from the new metro). To say people set off for a place, use \"at drage til\" (to go to): \"De drog til Paris\" (They went to Paris).",
   "forms": [
    {
     "da": "at drage",
@@ -873,12 +873,8 @@
     "en": "to travel"
    },
    {
-    "da": "at drage til",
-    "en": "to travel to"
-   },
-   {
-    "da": "at drage fordel af",
-    "en": "to benefit from"
+    "da": "at tage af sted",
+    "en": "to leave"
    }
   ],
   "sentence": {
@@ -930,7 +926,7 @@
   }
  },
  "at drikke": {
-  "explanation": "\"At drikke\" means \"to drink\", for any liquid such as water, coffee and beer. \"Jeg drikker ikke\" (I do not drink) usually means you do not drink alcohol.",
+  "explanation": "\"At drikke\" means \"to drink\". To offer someone a drink, ask: \"Vil du have noget at drikke?\" (Would you like something to drink?).",
   "forms": [
    {
     "da": "at drikke",
@@ -951,16 +947,16 @@
   ],
   "related": [
    {
-    "da": "at spise",
-    "en": "to eat"
-   },
-   {
     "da": "en drik",
     "en": "a drink"
    },
    {
     "da": "tørstig",
     "en": "thirsty"
+   },
+   {
+    "da": "at nippe til",
+    "en": "to sip"
    }
   ],
   "sentence": {
@@ -969,7 +965,7 @@
   }
  },
  "at drille": {
-  "explanation": "\"At drille\" means \"to tease\", usually in a playful way. Teasing that hurts is closer to \"at mobbe\" (to bully).",
+  "explanation": "\"At drille\" means \"to tease\". To say someone is teased in a playful way: \"Han driller sine venner\" (He teases his friends). Teasing that hurts is \"at mobbe\" (to bully): \"Hun bliver mobbet i skolen\" (She is bullied at school).",
   "forms": [
    {
     "da": "at drille",
@@ -1008,7 +1004,7 @@
   }
  },
  "at drive": {
-  "explanation": "\"At drive\" means \"to run\" a business: \"at drive en butik\" (to run a shop). It also means \"to drift\", to be carried along by wind or water: \"Skyerne driver hen over himlen\" (The clouds drift across the sky).",
+  "explanation": "\"At drive\" means \"to run (a business) or drift\". To say you run a shop: \"Hun driver en butik\" (She runs a shop). To say something is carried along by wind or water: \"Skyerne driver hen over himlen\" (The clouds drift across the sky).",
   "forms": [
    {
     "da": "at drive",
@@ -1029,20 +1025,16 @@
   ],
   "related": [
    {
-    "da": "at styre",
-    "en": "to steer"
-   },
-   {
     "da": "at lede",
     "en": "to manage"
    },
    {
-    "da": "at sejle",
-    "en": "to sail"
+    "da": "at styre",
+    "en": "to control"
    },
    {
-    "da": "at flyde",
-    "en": "to float"
+    "da": "en drivkraft",
+    "en": "a driving force"
    }
   ],
   "sentence": {
@@ -1051,7 +1043,7 @@
   }
  },
  "at droppe": {
-  "explanation": "\"At droppe\" means \"to drop\" a plan or \"to skip\" something: \"Vi dropper planen\" (We are dropping the plan), \"Jeg dropper morgenmaden\" (I am skipping breakfast).",
+  "explanation": "\"At droppe\" means \"to drop or skip\". It comes from the English verb \"to drop\". To say you give up a plan: \"Vi dropper planen\" (We are dropping the plan).",
   "forms": [
    {
     "da": "at droppe",
@@ -1094,7 +1086,7 @@
   }
  },
  "at drukne": {
-  "explanation": "\"At drukne\" means \"to drown\", to die by being under water and not being able to breathe.",
+  "explanation": "\"At drukne\" means \"to drown\". In the past, use \"er\" (am/is), not \"har\" (have): \"Manden er druknet\" (The man has drowned).",
   "forms": [
    {
     "da": "at drukne",
@@ -1115,16 +1107,16 @@
   ],
   "related": [
    {
-    "da": "at svømme",
-    "en": "to swim"
-   },
-   {
     "da": "at redde",
     "en": "to rescue"
    },
    {
     "da": "at synke",
     "en": "to sink"
+   },
+   {
+    "da": "en drukning",
+    "en": "a drowning"
    },
    {
     "da": "en drukneulykke",
@@ -1137,7 +1129,7 @@
   }
  },
  "at dryppe": {
-  "explanation": "\"At dryppe\" means \"to drip\", to fall in single drops, like water from a roof after rain. It also means to put drops on something: \"at dryppe citron på fisken\" (to drip lemon on the fish).",
+  "explanation": "\"At dryppe\" means \"to drip\". To say water falls from something in drops: \"Det drypper fra taget\" (It drips from the roof). To say you put drops of something on food: \"at dryppe citronsaft på fisken\" (to drip lemon juice on the fish).",
   "forms": [
    {
     "da": "at dryppe",
@@ -1180,7 +1172,7 @@
   }
  },
  "at drysse": {
-  "explanation": "\"At drysse\" means \"to sprinkle\", to let small pieces fall lightly over something. For light snow or rain, Danes say \"Det drysser\" (It is sprinkling).",
+  "explanation": "\"At drysse\" means \"to sprinkle\". To say what you sprinkle something on, use \"på\" (on): \"Jeg drysser sukker på kagen\" (I sprinkle sugar on the cake).",
   "forms": [
    {
     "da": "at drysse",
@@ -1205,16 +1197,16 @@
     "en": "to scatter"
    },
    {
-    "da": "at hælde",
-    "en": "to pour"
-   },
-   {
     "da": "at sprede",
     "en": "to spread"
    },
    {
-    "da": "at pudre",
-    "en": "to dust"
+    "da": "et drys",
+    "en": "a sprinkle"
+   },
+   {
+    "da": "at hælde",
+    "en": "to pour"
    }
   ],
   "sentence": {
@@ -1266,7 +1258,7 @@
   }
  },
  "at drøfte": {
-  "explanation": "\"At drøfte\" means \"to discuss\", to talk something through carefully, for example in a meeting. It needs no small word before what you discuss: \"Vi drøfter budgettet\" (We are discussing the budget). \"At tale om\" (to talk about) needs \"om\" (about): \"Vi taler om budgettet\" (We are talking about the budget).",
+  "explanation": "\"At drøfte\" means \"to discuss\". To say you discuss a topic, put the topic straight after it: \"Vi drøfter budgettet\" (We are discussing the budget). The verb \"at tale om\" (to talk about) needs \"om\" (about): \"Vi taler om budgettet\" (We are talking about the budget).",
   "forms": [
    {
     "da": "at drøfte",
@@ -1309,7 +1301,7 @@
   }
  },
  "at drømme": {
-  "explanation": "\"At drømme\" means \"to dream\", both asleep and awake, and it takes \"om\" (about): \"Jeg drømte om dig\" (I dreamed about you).",
+  "explanation": "\"At drømme\" means \"to dream\". To say what you dream while asleep, use \"om\" (about): \"Jeg drømte om dig\" (I dreamed about you). To say what you wish for in life: \"Hun drømmer om at rejse\" (She dreams of traveling).",
   "forms": [
    {
     "da": "at drømme",
@@ -1348,7 +1340,7 @@
   }
  },
  "at dufte": {
-  "explanation": "\"At dufte\" means \"to smell nice\". \"At lugte\" (to smell) can also mean a bad smell: \"Det lugter af fisk\" (It smells like fish).",
+  "explanation": "\"At dufte\" means \"to smell (nice)\". To say what a smell is like, use \"af\" (of): \"Det dufter af kaffe\" (It smells of coffee). For a bad smell, use \"at lugte\" (to smell): \"Det lugter af fisk\" (It smells of fish).",
   "forms": [
    {
     "da": "at dufte",
@@ -1391,7 +1383,7 @@
   }
  },
  "at duge": {
-  "explanation": "\"At duge\" means \"to be any good\", to be good enough for a purpose. The verb is mostly used in a negative sentence: \"Det duer ikke\" (That will not do). \"Duer\" is also the plural of \"en due\" (a dove). You can tell which meaning is used from the context of the sentence.",
+  "explanation": "\"At duge\" means \"to be any good or work\". To say something will not do: \"Det duer ikke\" (That will not do). To say a tool is no good for a job, use \"til\" (for): \"Den kniv duer ikke til brød\" (That knife is no good for bread). A mix-up: \"duer\" is also the plural of \"en due\" (a dove): \"Duerne sidder på taget\" (The doves sit on the roof).",
   "forms": [
    {
     "da": "at duge",
@@ -1434,7 +1426,7 @@
   }
  },
  "at dukke op": {
-  "explanation": "\"At dukke op\" means \"to show up\", often when someone arrives or something appears unexpectedly. On a screen it means \"to pop up\": \"En besked dukker op\" (A message pops up).",
+  "explanation": "\"At dukke op\" means \"to show up\". To say someone did not come to an event: \"Han dukkede ikke op til mødet\" (He did not show up for the meeting). To say something appears on a screen, it means \"to pop up\": \"En besked dukker op\" (A message pops up).",
   "forms": [
    {
     "da": "at dukke op",
@@ -1465,6 +1457,10 @@
    {
     "da": "at forsvinde",
     "en": "to disappear"
+   },
+   {
+    "da": "at dukke frem",
+    "en": "to emerge"
    }
   ],
   "sentence": {
@@ -1473,7 +1469,7 @@
   }
  },
  "at dumpe": {
-  "explanation": "\"At dumpe\" means \"to fail (an exam)\": \"Han dumpede til eksamen\" (He failed the exam). The opposite is \"at bestå\" (to pass): \"Hun bestod eksamen\" (She passed the exam).",
+  "explanation": "\"At dumpe\" means \"to fail (an exam)\". To say which exam, use \"til\" (at): \"Han dumpede til eksamen\" (He failed the exam). The opposite is \"at bestå\" (to pass): \"Hun bestod eksamen\" (She passed the exam).",
   "forms": [
    {
     "da": "at dumpe",
@@ -1494,16 +1490,16 @@
   ],
   "related": [
    {
-    "da": "en prøve",
-    "en": "a test"
-   },
-   {
     "da": "at fejle",
     "en": "to fail / make a mistake"
    },
    {
     "da": "at klare",
     "en": "to manage"
+   },
+   {
+    "da": "at stryge",
+    "en": "to flunk"
    }
   ],
   "sentence": {
@@ -1512,7 +1508,7 @@
   }
  },
  "at dykke": {
-  "explanation": "\"At dykke\" means \"to dive\" under water. To dive in headfirst from a board, say \"at stupe\" (to dive in): \"Han stuper fra vippen\" (He dives from the board).",
+  "explanation": "\"At dykke\" means \"to dive\", as in going under water: \"Vi dykker ved koralrevet\" (We dive at the coral reef). To dive in headfirst from a board, say \"at stupe\" (to dive in): \"Han stuper fra vippen\" (He dives from the board).",
   "forms": [
    {
     "da": "at dykke",
@@ -1541,8 +1537,8 @@
     "en": "to snorkel"
    },
    {
-    "da": "at svømme",
-    "en": "to swim"
+    "da": "at dukke",
+    "en": "to duck under"
    }
   ],
   "sentence": {
@@ -1551,7 +1547,7 @@
   }
  },
  "at dyppe": {
-  "explanation": "\"At dyppe\" means \"to dip\", to put something briefly into a liquid or a sauce and take it out again. The dip is short, unlike \"at lægge i blød\" (to soak), where the thing stays in for a long time.",
+  "explanation": "\"At dyppe\" means \"to dip\". To leave something in water for a long time, use \"at lægge i blød\" (to soak): \"Jeg lægger bønnerne i blød\" (I soak the beans).",
   "forms": [
    {
     "da": "at dyppe",
@@ -1590,7 +1586,7 @@
   }
  },
  "at dyrke": {
-  "explanation": "\"At dyrke\" means \"to grow\" plants on purpose: \"Vi dyrker tomater\" (We grow tomatoes). It also means \"to practice\" a sport or hobby: \"Jeg dyrker yoga\" (I do yoga).",
+  "explanation": "\"At dyrke\" means \"to grow or practice (a sport)\". To say you grow plants on purpose: \"Vi dyrker tomater\" (We grow tomatoes). To say you do a hobby or sport: \"Jeg dyrker yoga\" (I do yoga).",
   "forms": [
    {
     "da": "at dyrke",
@@ -1633,7 +1629,7 @@
   }
  },
  "at dyrke sport": {
-  "explanation": "\"At dyrke sport\" means \"to do sports\" as a regular activity. For one named sport, Danes often use \"at spille\" (to play): \"Jeg spiller tennis\" (I play tennis).",
+  "explanation": "\"At dyrke sport\" means \"to do sports\". It is built from \"at dyrke\" (to practice) and \"sport\" (sports). To say you play one named ball sport, use \"at spille\" (to play): \"Jeg spiller tennis\" (I play tennis).",
   "forms": [
    {
     "da": "at dyrke sport",
@@ -1676,7 +1672,7 @@
   }
  },
  "at dække": {
-  "explanation": "\"At dække\" means \"to cover\", to put something over something else. It also means to pay for a cost or a loss: \"Forsikringen dækker skaden\" (The insurance covers the damage).",
+  "explanation": "\"At dække\" means \"to cover\". To say an insurance company pays for a loss: \"Forsikringen dækker skaden\" (The insurance covers the damage).",
   "forms": [
    {
     "da": "at dække",
@@ -1719,7 +1715,7 @@
   }
  },
  "at dække bord": {
-  "explanation": "\"At dække bord\" means \"to set the table\", putting out plates and cutlery before a meal: \"Kan du dække bord til aftensmad?\" (Can you set the table for dinner?)",
+  "explanation": "\"At dække bord\" means \"to set the table\". It is built from \"at dække\" (to cover) and \"bord\" (table). To ask someone to help before dinner: \"Kan du dække bord til aftensmad?\" (Can you set the table for dinner?)",
   "forms": [
    {
     "da": "at dække bord",
@@ -1762,7 +1758,7 @@
   }
  },
  "at dække over": {
-  "explanation": "\"At dække over\" means \"to cover up\", to keep a mistake or a crime from coming out. With a person, it means to protect them by staying quiet about what they did: \"Hun dækkede over sin bror\" (She covered for her brother).",
+  "explanation": "\"At dække over\" means \"to cover up\", as in keeping a mistake hidden. To say you protect someone by staying quiet about what they did: \"Hun dækkede over sin bror\" (She covered for her brother).",
   "forms": [
    {
     "da": "at dække over",
@@ -1805,7 +1801,7 @@
   }
  },
  "at dæmpe": {
-  "explanation": "\"At dæmpe\" means \"to dampen\", to make a sound, a light or a feeling weaker. To tell a person to calm down, say \"Dæmp dig!\" (Tone it down!)",
+  "explanation": "\"At dæmpe\" means \"to dampen or turn down\". To say you make a light softer: \"Vi dæmper lyset\" (We dim the lights). To tell a person to tone it down: \"Dæmp dig!\" (Tone it down!)",
   "forms": [
    {
     "da": "at dæmpe",
@@ -1830,16 +1826,16 @@
     "en": "muted"
    },
    {
-    "da": "en dæmper",
-    "en": "a mute"
-   },
-   {
     "da": "at sænke",
     "en": "to lower"
    },
    {
     "da": "at skrue ned",
     "en": "to turn down"
+   },
+   {
+    "da": "at skrue op",
+    "en": "to turn up"
    }
   ],
   "sentence": {
@@ -1887,7 +1883,7 @@
   }
  },
  "at døbe": {
-  "explanation": "\"At døbe\" means \"to baptize\", to welcome a person into the Christian church with water: \"Hun blev døbt Maria\" (She was baptized Maria). It is also used for giving a name to something: \"Vi døbte hunden Bølle\" (We named the dog Bølle).",
+  "explanation": "\"At døbe\" means \"to baptize\". To say someone was baptized with a name: \"Hun blev døbt Maria\" (She was baptized Maria). To say you gave a name to an animal: \"Vi døbte hunden Bølle\" (We named the dog Bølle).",
   "forms": [
    {
     "da": "at døbe",
@@ -1916,8 +1912,8 @@
     "en": "a godmother"
    },
    {
-    "da": "en præst",
-    "en": "a priest"
+    "da": "en gudfar",
+    "en": "a godfather"
    },
    {
     "da": "at konfirmere",
@@ -1930,7 +1926,7 @@
   }
  },
  "at dømme": {
-  "explanation": "\"At dømme\" means \"to judge\" and \"to sentence\". In a court, it means to find someone guilty and set the punishment. Outside court, it is about forming an opinion of someone: \"Man skal ikke dømme folk på udseendet\" (You should not judge people by their looks).",
+  "explanation": "\"At dømme\" means \"to judge or sentence\". To say a court found someone guilty, use \"for\" (for) with the crime: \"Han blev dømt for tyveri\" (He was convicted of theft). To say you form an opinion of people: \"Man skal ikke dømme folk på udseendet\" (You should not judge people by their looks).",
   "forms": [
    {
     "da": "at dømme",
@@ -2008,7 +2004,7 @@
   }
  },
  "dagen efter": {
-  "explanation": "\"Dagen efter\" means \"the day after\". Name the earlier event after it: \"dagen efter festen\" (the day after the party). Without an event, say \"næste dag\" (next day): \"Næste dag tog vi hjem\" (The next day we went home).",
+  "explanation": "\"Dagen efter\" means \"the day after\". To say which day it was, name the earlier event after it: \"dagen efter eksamen\" (the day after the exam). To say the next day without naming an event, use \"næste dag\" (next day): \"Næste dag tog vi hjem\" (The next day we went home).",
   "forms": [
    {
     "da": "dagen efter festen",
@@ -2043,7 +2039,7 @@
   }
  },
  "dagens ret": {
-  "explanation": "\"Dagens ret\" means \"dish of the day\". Word for word, it is the day's dish: dagens (the day's) and ret (dish).",
+  "explanation": "\"Dagens ret\" means \"dish of the day\". It is built from \"dagens\" (the day's) and \"ret\" (dish). To ask a waiter about it: \"Hvad er dagens ret?\" (What is the dish of the day?)",
   "forms": [
    {
     "da": "en ret",
@@ -2082,7 +2078,7 @@
   }
  },
  "dagevis": {
-  "explanation": "\"Dagevis\" means \"for days\", one after another over a long stretch. The ending \"-vis\" marks a long stretch, as in \"timevis\" (for hours) and \"ugevis\" (for weeks).",
+  "explanation": "\"Dagevis\" means \"for days\". The ending \"-vis\" works the same in other words, such as \"timevis\" (for hours) and \"ugevis\" (for weeks).",
   "forms": [
    {
     "da": "Det regnede dagevis",
@@ -2160,7 +2156,7 @@
   }
  },
  "dagligdags": {
-  "explanation": "\"Dagligdags\" means \"everyday\" and describes ordinary things that happen all the time. It also describes language: \"dagligdags sprog\" (everyday language).",
+  "explanation": "\"Dagligdags\" means \"everyday\". To talk about the language people use in normal conversation, use it with \"sprog\" (language): \"dagligdags sprog\" (everyday language). A mix-up: \"daglig\" (daily) says something happens each day, as in \"en daglig tur\" (a daily walk). \"Dagligdags\" says something is ordinary, as in \"en dagligdags hændelse\" (an everyday event).",
   "forms": [
    {
     "da": "en dagligdags ting",
@@ -2199,7 +2195,7 @@
   }
  },
  "dagligt": {
-  "explanation": "\"Dagligt\" means \"daily\" or \"every day\" and goes after the verb: \"Jeg læser dagligt\" (I read every day). In front of a thing, use \"daglig\" with \"en\" and \"dagligt\" with \"et\": \"en daglig tur\" (a daily walk), \"et dagligt møde\" (a daily meeting).",
+  "explanation": "\"Dagligt\" means \"daily\". To say how often someone does something, put it after the verb: \"Jeg læser dagligt\" (I read every day). In front of a thing, use \"daglig\" with an en-word and \"dagligt\" with an et-word: \"en daglig tur\" (a daily walk), \"et dagligt møde\" (a daily meeting).",
   "forms": [
    {
     "da": "Jeg arbejder dagligt.",
@@ -2238,7 +2234,7 @@
   }
  },
  "dagligvarer": {
-  "explanation": "\"Dagligvarer\" means \"groceries\": everyday goods like food and household things such as soap. A shop that sells them is \"en dagligvarebutik\" (a grocery store).",
+  "explanation": "\"Dagligvarer\" means \"the groceries\". It is built from \"daglig\" (daily) and \"varer\" (goods).",
   "forms": [
    {
     "da": "dagligvarerne",
@@ -2273,7 +2269,7 @@
   }
  },
  "dagpenge": {
-  "explanation": "\"Dagpenge\" means \"unemployment benefits\", money you get each day when you are out of work. You only get them if you are a member of an \"a-kasse\" (an unemployment insurance fund). Literally, the word means \"day money\".",
+  "explanation": "\"Dagpenge\" means \"unemployment benefits\". Literally, the word means \"day money\". In Denmark, you only get them if you are a member of an \"a-kasse\" (an unemployment insurance fund).",
   "forms": [
    {
     "da": "dagpenge",
@@ -2312,7 +2308,7 @@
   }
  },
  "dagslys": {
-  "explanation": "\"Dagslys\" means \"daylight\", the natural light you have while the sun is up, even on a cloudy day. Light from a lamp is not \"dagslys\".",
+  "explanation": "\"Dagslys\" means \"daylight\". It is built from \"dag\" (day) and \"lys\" (light). To say a room is bright enough without lamps: \"Der er rigeligt dagslys i stuen\" (There is plenty of daylight in the living room).",
   "forms": [
    {
     "da": "dagslys",
@@ -2355,7 +2351,7 @@
   }
  },
  "damp": {
-  "explanation": "\"Damp\" means \"steam\", the hot cloud from boiling water. It is also what makes mirrors and windows misty.",
+  "explanation": "\"Damp\" means \"steam\". The part \"damp\" also appears in other words, such as \"en dampbåd\" (a steamboat) and \"en dampmaskine\" (a steam engine).",
   "forms": [
    {
     "da": "damp",
@@ -2376,16 +2372,12 @@
     "en": "to boil"
    },
    {
-    "da": "en dampbåd",
-    "en": "a steamboat"
-   },
-   {
     "da": "en tåge",
     "en": "a fog"
    },
    {
-    "da": "en dampmaskine",
-    "en": "a steam engine"
+    "da": "at fordampe",
+    "en": "to evaporate"
    }
   ],
   "sentence": {
@@ -2394,7 +2386,7 @@
   }
  },
  "dansk": {
-  "explanation": "\"Dansk\" means \"Danish\", the language and also things from Denmark: \"dansk ost\" (Danish cheese). As a school subject, it is used without \"en\" or \"et\": \"Jeg har dansk\" (I have Danish class). Language names start with a lowercase letter: \"dansk\" (Danish), \"engelsk\" (English).",
+  "explanation": "\"Dansk\" means \"Danish\", the language and also things from Denmark: \"dansk ost\" (Danish cheese). As a school subject, it is used without an article: \"Jeg har dansk\" (I have Danish class). Language names start with a lowercase letter: \"dansk\" (Danish), \"engelsk\" (English).",
   "forms": [
    {
     "da": "en dansk bog",
@@ -2433,7 +2425,7 @@
   }
  },
  "data": {
-  "explanation": "\"Data\" means \"data\", facts and numbers collected for a purpose, for example in research or on a computer.",
+  "explanation": "\"Data\" means \"data\". To say you collect data, use \"at indsamle\" (to collect): \"Vi indsamler data\" (We collect data).",
   "forms": [
    {
     "da": "data",
@@ -2458,8 +2450,8 @@
     "en": "a piece of information"
    },
    {
-    "da": "et tal",
-    "en": "a number"
+    "da": "et datasæt",
+    "en": "a data set"
    }
   ],
   "sentence": {
@@ -2468,7 +2460,7 @@
   }
  },
  "datalogi": {
-  "explanation": "\"Datalogi\" means \"computer science\", the science of how data is stored and processed and how programs are made. It is the name of the university subject.",
+  "explanation": "\"Datalogi\" means \"computer science\". It is built from \"data\" (data) and the ending \"-logi\" (study of). The same ending is in \"biologi\" (biology) and \"psykologi\" (psychology).",
   "forms": [
    {
     "da": "datalogi",
@@ -2493,16 +2485,12 @@
     "en": "programming"
    },
    {
-    "da": "en algoritme",
-    "en": "an algorithm"
+    "da": "en datamatiker",
+    "en": "a computer programmer (vocational degree)"
    },
    {
-    "da": "matematik",
-    "en": "mathematics"
-   },
-   {
-    "da": "kunstig intelligens",
-    "en": "artificial intelligence"
+    "da": "informatik",
+    "en": "informatics"
    }
   ],
   "sentence": {
@@ -2511,7 +2499,7 @@
   }
  },
  "datid": {
-  "explanation": "\"En datid\" means \"past tense\", the form of a word that tells you something has already happened. For the past as a period of history, say \"fortid\" (the past).",
+  "explanation": "\"Datid\" means \"a past tense\". To tell someone to use it, say \"i datid\" (in the past tense): \"Skriv sætningen i datid\" (Write the sentence in the past tense). For the past as a period of history, use \"fortid\" (the past): \"Vikingerne boede her i fortiden\" (The Vikings lived here in the past).",
   "forms": [
    {
     "da": "en datid",
@@ -2616,7 +2604,7 @@
   }
  },
  "december": {
-  "explanation": "\"December\" means \"December\". Danish writes month names with a lowercase letter, so you write \"i december\" (in December), not \"i December\".",
+  "explanation": "\"December\" means \"December\". Danish writes month names with a lowercase letter, so you write \"i december\" (in December), not \"i December\". In Denmark, people celebrate Christmas on the evening of 24 December, called \"juleaften\" (Christmas Eve).",
   "forms": [
    {
     "da": "december",
@@ -2651,7 +2639,7 @@
   }
  },
  "dedikeret": {
-  "explanation": "\"Dedikeret\" means \"dedicated\", for a person who gives a lot of time and effort to a job or cause. It can also mean made for one use only: \"en dedikeret server\" (a dedicated server).",
+  "explanation": "\"Dedikeret\" means \"dedicated\". It comes from the verb \"at dedikere\" (to dedicate). To say a thing is made for one task only: \"en dedikeret server\" (a dedicated server).",
   "forms": [
    {
     "da": "en dedikeret læge",
@@ -2678,10 +2666,6 @@
    {
     "da": "flittig",
     "en": "hardworking"
-   },
-   {
-    "da": "at dedikere",
-    "en": "to dedicate"
    }
   ],
   "sentence": {
@@ -2690,7 +2674,7 @@
   }
  },
  "defekt": {
-  "explanation": "\"Defekt\" means \"defective\", for a machine or part that does not work as it should. It sounds technical, as on a repair form. In everyday talk, say \"ødelagt\" (broken): \"Min telefon er ødelagt\" (My phone is broken).",
+  "explanation": "\"Defekt\" means \"defective\". To say you can swap a faulty item in a shop: \"Du kan bytte en defekt vare\" (You can exchange a defective item). A mix-up: \"ødelagt\" (broken) says something was damaged: \"Min telefon er ødelagt\" (My phone is broken).",
   "forms": [
    {
     "da": "en defekt printer",
@@ -2729,7 +2713,7 @@
   }
  },
  "dejlig": {
-  "explanation": "\"Dejlig\" means \"lovely\" or \"nice\", for things you enjoy, such as \"dejligt vejr\" (lovely weather) and \"en dejlig dag\" (a lovely day).",
+  "explanation": "\"Dejlig\" means \"lovely\". To say you are glad to meet someone: \"Dejligt at møde dig\" (Nice to meet you). To say the weather is lovely: \"Det er dejligt vejr\" (It is lovely weather).",
   "forms": [
    {
     "da": "en dejlig dag",
@@ -2803,7 +2787,7 @@
   }
  },
  "deltagelse": {
-  "explanation": "\"Deltagelse\" means \"participation\", being involved in an event, a class or a project. It is followed by \"i\" (in): \"deltagelse i kurset\" (participation in the course).",
+  "explanation": "\"Deltagelse\" means \"participation\". It is the noun for the verb \"at deltage\" (to take part). To thank someone for coming, use \"i\" (in) before the event: \"Tak for din deltagelse i kurset\" (Thank you for your participation in the course).",
   "forms": [
    {
     "da": "deltagelse",
@@ -2824,10 +2808,6 @@
   ],
   "related": [
    {
-    "da": "at deltage",
-    "en": "to take part"
-   },
-   {
     "da": "en deltager",
     "en": "a participant"
    },
@@ -2846,7 +2826,7 @@
   }
  },
  "dem": {
-  "explanation": "\"Dem\" means \"them\". To say something is done to them, use \"dem\": \"Jeg ser dem\" (I see them). To say they do something, use \"de\" (they): \"De ser mig\" (They see me).",
+  "explanation": "\"Dem\" means \"them\". To say something is done to them: \"Jeg hjælper dem\" (I help them). To say they do something, use \"de\" (they): \"De ser mig\" (They see me).",
   "forms": [
    {
     "da": "Jeg ser dem.",
@@ -2881,7 +2861,7 @@
   }
  },
  "demokratisk": {
-  "explanation": "\"Demokratisk\" means \"democratic\", for a country, group or decision where the people decide, usually by voting.",
+  "explanation": "\"Demokratisk\" means \"democratic\". It comes from the noun \"et demokrati\" (a democracy). To say people decide something together: \"en demokratisk proces\" (a democratic process).",
   "forms": [
    {
     "da": "et demokratisk valg",
@@ -2897,10 +2877,6 @@
    }
   ],
   "related": [
-   {
-    "da": "et demokrati",
-    "en": "a democracy"
-   },
    {
     "da": "udemokratisk",
     "en": "undemocratic"
@@ -2955,7 +2931,7 @@
   }
  },
  "den offentlige sektor": {
-  "explanation": "\"Den offentlige sektor\" means \"the public sector\", all the work paid for by taxes: offices, hospitals, schools and local councils. The part run by companies is \"den private sektor\" (the private sector).",
+  "explanation": "\"Den offentlige sektor\" means \"the public sector\". To say someone works somewhere else, use the opposite, \"den private sektor\" (the private sector): \"Min søster arbejder i den private sektor\" (My sister works in the private sector).",
   "forms": [
    {
     "da": "den offentlige sektor",
@@ -2994,7 +2970,7 @@
   }
  },
  "den tid, den sorg": {
-  "explanation": "\"Den tid, den sorg\" means \"cross that bridge when we come to it\": do not stress about a problem before it actually happens. Word for word, it means \"that time, that sorrow\".",
+  "explanation": "\"Den tid, den sorg\" means \"We'll cross that bridge when we come to it\". Word for word, it means \"that time, that sorrow\". To brush off a worry about the future: \"Hvad hvis det regner?\" \"Den tid, den sorg.\" (What if it rains? We will deal with that if it happens.)",
   "forms": [
    {
     "da": "Den tid, den sorg",
@@ -3033,7 +3009,7 @@
   }
  },
  "dengang": {
-  "explanation": "\"Dengang\" means \"back then\" and always points to the past. It is built from den (that) and gang (time), so it literally means \"that time\".",
+  "explanation": "\"Dengang\" means \"back then\". It is built from \"den\" (that) and \"gang\" (time), so it literally means \"that time\". To say back when something was true, start a clause with it: \"dengang jeg var barn\" (back when I was a child).",
   "forms": [
    {
     "da": "Det var billigere dengang.",
@@ -3050,8 +3026,8 @@
   ],
   "related": [
    {
-    "da": "engang",
-    "en": "once / at some point"
+    "da": "tidligere",
+    "en": "earlier"
    },
    {
     "da": "nu",
@@ -3072,7 +3048,7 @@
   }
  },
  "denim": {
-  "explanation": "\"Denim\" means \"denim\", the strong, usually blue cloth that jeans are made of.",
+  "explanation": "\"Denim\" means \"denim\". Another Danish word for jeans is \"cowboybukser\" (literally, cowboy trousers). To say what something is made of: \"Tasken er lavet af denim\" (The bag is made of denim).",
   "forms": [
    {
     "da": "denim",
@@ -3097,10 +3073,6 @@
     "en": "cotton"
    },
    {
-    "da": "et stof",
-    "en": "a fabric"
-   },
-   {
     "da": "læder",
     "en": "leather"
    },
@@ -3115,7 +3087,7 @@
   }
  },
  "denne": {
-  "explanation": "\"Denne\" means \"this\" with words that take \"en\": \"denne bil\" (this car). For words that take \"et\", use \"dette\" (this): \"dette hus\" (this house). \"Denne\" sounds formal; in everyday speech people say \"den her bil\" (this car).",
+  "explanation": "\"Denne\" means \"this\" with words that take \"en\": \"denne bil\" (this car). For words that take \"et\", use \"dette\" (this): \"dette hus\" (this house). Another way to say the same thing with an en-word is \"den her bil\" (this car).",
   "forms": [
    {
     "da": "denne bil",
@@ -3189,7 +3161,7 @@
   }
  },
  "deprimerende": {
-  "explanation": "\"Deprimerende\" means \"depressing\", something that pulls your mood down. It names what causes the feeling: \"en deprimerende film\" (a depressing movie). How you feel is \"deprimeret\" (depressed): \"Jeg er deprimeret\" (I am depressed).",
+  "explanation": "\"Deprimerende\" means \"depressing\". To say what causes the feeling: \"en deprimerende film\" (a depressing movie). To say how a person feels, use \"deprimeret\" (depressed): \"Jeg er deprimeret\" (I am depressed).",
   "forms": [
    {
     "da": "deprimerende vejr",
@@ -3228,7 +3200,7 @@
   }
  },
  "deprimeret": {
-  "explanation": "\"Deprimeret\" means \"depressed\", feeling very low and without energy or hope: \"Hun har været deprimeret i flere måneder\" (She has been depressed for months). What causes the feeling is \"deprimerende\" (depressing): \"en deprimerende film\" (a depressing movie).",
+  "explanation": "\"Deprimeret\" means \"depressed\". To say how long a person has felt this way: \"Hun har været deprimeret i flere måneder\" (She has been depressed for months). To say what causes the feeling, use \"deprimerende\" (depressing): \"en deprimerende film\" (a depressing movie).",
   "forms": [
    {
     "da": "en deprimeret mand",
@@ -3267,7 +3239,7 @@
   }
  },
  "der": {
-  "explanation": "\"Der\" means \"there\": \"Han er der\" (He is there). Use \"her\" (here) for the place you are: \"Han er her\" (He is here). At the start of a sentence, \"der\" says something exists: \"Der er mange børn\" (There are many children). It can also mean \"who\": \"manden, der bor her\" (the man who lives here).",
+  "explanation": "\"Der\" means \"there\". To say where someone is: \"Han er der\" (He is there). For the place where you are, use \"her\" (here): \"Han er her\" (He is here). To say something exists, start the sentence with it: \"Der er mange børn\" (There are many children). In the middle of a sentence it can also mean \"who\": \"manden, der bor her\" (the man who lives here).",
   "forms": [
    {
     "da": "Der er en bog.",
@@ -3302,7 +3274,7 @@
   }
  },
  "der er ingen ko på isen": {
-  "explanation": "\"Der er ingen ko på isen\" means \"there's nothing to worry about\": the danger is over or never existed. Word for word, it says there is no cow on the ice. The opposite is \"Der er ko på isen\" (There is trouble).",
+  "explanation": "\"Der er ingen ko på isen\" means \"There is nothing to worry about\". Word for word, it says there is no cow on the ice. To say there is trouble, take away \"ingen\" (no): \"Der er ko på isen\" (There is trouble).",
   "forms": [
    {
     "da": "Der er ingen ko på isen",
@@ -3415,7 +3387,7 @@
   }
  },
  "derfor": {
-  "explanation": "\"Derfor\" means \"that is why\". The same fact can be said two ways: \"Jeg er syg, derfor bliver jeg hjemme\" (I am sick, that is why I am staying home) and \"Jeg bliver hjemme, fordi jeg er syg\" (I am staying home because I am sick).",
+  "explanation": "\"Derfor\" means \"that is why\". To give the reason first and the result second: \"Jeg er syg, derfor bliver jeg hjemme\" (I am sick, that is why I am staying home). To give the result first, use \"fordi\" (because): \"Jeg bliver hjemme, fordi jeg er syg\" (I am staying home because I am sick).",
   "forms": [
    {
     "da": "derfor er jeg her",
@@ -3450,7 +3422,7 @@
   }
  },
  "derfra": {
-  "explanation": "\"Derfra\" means \"from there\" and tells where something comes from, a place away from you: \"Jeg kommer derfra\" (I come from there). For your own place, use \"herfra\" (from here): \"Jeg kommer herfra\" (I come from here).",
+  "explanation": "\"Derfra\" means \"from there\". It is built from \"der\" (there) and \"fra\" (from). To say you are a stranger to a place, use \"herfra\" (from here): \"Jeg er ikke herfra\" (I am not from here). To say where your family comes from: \"Min familie kommer derfra\" (My family comes from there).",
   "forms": [
    {
     "da": "Jeg kommer derfra",
@@ -3485,7 +3457,7 @@
   }
  },
  "derhen": {
-  "explanation": "\"Derhen\" means \"(to) there\" and is used when you move toward a place. To name the place where a person stays, use \"der\" (there): \"Han er der\" (He is there).",
+  "explanation": "\"Derhen\" means \"there\". To say you go toward a place, use it after the verb: \"Vi cykler derhen\" (We cycle there). To name the place where a person stays, use \"der\" (there): \"Han er der\" (He is there).",
   "forms": [
    {
     "da": "Vi kører derhen i morgen",
@@ -3524,7 +3496,7 @@
   }
  },
  "derhjemme": {
-  "explanation": "\"Derhjemme\" means \"at home\", used when you talk about your own home from somewhere else: \"Hvad spiser I derhjemme?\" (What do you eat at home?). Do not mix it up with \"hjemme\" (at home), which says where you are right now: \"Jeg er hjemme\" (I am at home).",
+  "explanation": "\"Derhjemme\" means \"at home\". To talk about home when you are somewhere else: \"Hvad spiser I derhjemme?\" (What do you eat at home?). To say you are in your house right now, use \"hjemme\" (at home): \"Jeg er hjemme\" (I am at home).",
   "forms": [
    {
     "da": "derhjemme hos os",
@@ -3541,8 +3513,8 @@
   ],
   "related": [
    {
-    "da": "hjem",
-    "en": "home (going)"
+    "da": "at tage hjem",
+    "en": "to go home"
    },
    {
     "da": "herhjemme",
@@ -3559,7 +3531,7 @@
   }
  },
  "derimod": {
-  "explanation": "\"Derimod\" means \"on the other hand\", showing a contrast with what was just said: \"Min bror er høj. Jeg er derimod lav.\" (My brother is tall. I, on the other hand, am short.) Put it right after the verb.",
+  "explanation": "\"Derimod\" means \"on the other hand\". It shows a contrast with what was just said. To put the contrast after the verb: \"Min bror er høj. Jeg er derimod lav.\" (My brother is tall. I, on the other hand, am short.) To put it right after the person: \"Min søster derimod er lav\" (My sister, on the other hand, is short).",
   "forms": [
    {
     "da": "Hun derimod",
@@ -3598,7 +3570,7 @@
   }
  },
  "derinde": {
-  "explanation": "\"Derinde\" means \"in there\" and points to a place inside something, away from you, such as another room: \"Katten er derinde\" (The cat is in there). For your own place, use \"herinde\" (in here): \"Jeg er herinde\" (I am in here).",
+  "explanation": "\"Derinde\" means \"in there\". It is built from \"der\" (there) and \"inde\" (inside). To say where someone is in another room: \"Katten er derinde\" (The cat is in there). For the room you are in, use \"herinde\" (in here): \"Jeg er herinde\" (I am in here).",
   "forms": [
    {
     "da": "derinde i stuen",
@@ -3619,12 +3591,8 @@
     "en": "out there"
    },
    {
-    "da": "inde",
+    "da": "indenfor",
     "en": "inside"
-   },
-   {
-    "da": "ind",
-    "en": "in (movement)"
    },
    {
     "da": "deroppe",
@@ -3637,7 +3605,7 @@
   }
  },
  "dermed": {
-  "explanation": "\"Dermed\" means \"thereby\" and \"with that\". Use it to say what follows from what you just did: \"Han skrev under, og dermed er aftalen indgået\" (He signed, and thereby the deal is made). It is built from der (there) and med (with).",
+  "explanation": "\"Dermed\" means \"with that\". It is built from \"der\" (there) and \"med\" (with). To say what follows from something you just did: \"Han skrev under, og dermed er aftalen indgået\" (He signed, and with that the deal is made).",
   "forms": [
    {
     "da": "og dermed",
@@ -3672,7 +3640,7 @@
   }
  },
  "dernede": {
-  "explanation": "\"Dernede\" means \"down there\" and points to a place lower than you, away from you, such as a basement or the floor below: \"Katten er dernede\" (The cat is down there). For a place higher than you, use \"deroppe\" (up there): \"Katten er deroppe\" (The cat is up there).",
+  "explanation": "\"Dernede\" means \"down there\". To say where something is in a lower place: \"Katten er dernede\" (The cat is down there). For a higher place, use \"deroppe\" (up there): \"Katten er deroppe\" (The cat is up there).",
   "forms": [
    {
     "da": "dernede ved vandet",
@@ -3688,10 +3656,6 @@
    }
   ],
   "related": [
-   {
-    "da": "nede",
-    "en": "down"
-   },
    {
     "da": "hernede",
     "en": "down here"
@@ -3711,7 +3675,7 @@
   }
  },
  "dernæst": {
-  "explanation": "\"Dernæst\" means \"next\" and \"then\", for the next step in a series. In a speech or a list you say it after \"først\" (first): \"Først kommer maden, dernæst kommer kaffen\" (First comes the food, next comes the coffee).",
+  "explanation": "\"Dernæst\" means \"next\". To list steps in order, say it after \"først\" (first): \"Først kommer maden, dernæst kommer kaffen\" (First comes the food, next comes the coffee).",
   "forms": [
    {
     "da": "dernæst kommer prisen",
@@ -3750,7 +3714,7 @@
   }
  },
  "deroppe": {
-  "explanation": "\"Deroppe\" means \"up there\" and tells where something is when it is higher than you and away from you. It is built from der (there) and oppe (up).",
+  "explanation": "\"Deroppe\" means \"up there\". To say where something is in a higher place: \"Vores lejlighed ligger deroppe\" (Our apartment is up there). For the place where you are, use \"heroppe\" (up here): \"Heroppe er der koldt\" (It is cold up here).",
   "forms": [
    {
     "da": "Katten sidder deroppe",
@@ -3777,10 +3741,6 @@
    {
     "da": "dernede",
     "en": "down there"
-   },
-   {
-    "da": "heroppe",
-    "en": "up here"
    }
   ],
   "sentence": {
@@ -3789,7 +3749,7 @@
   }
  },
  "derovre": {
-  "explanation": "\"Derovre\" means \"over there\", for a place at a distance that you can point to: \"Bogen ligger derovre\" (The book is over there). To move there, use \"derover\" (over there, with movement): \"Jeg går derover\" (I am going over there).",
+  "explanation": "\"Derovre\" means \"over there\". To point to a place at a distance: \"Bogen ligger derovre\" (The book is over there). To say you go there, use \"derover\" (over there, with movement): \"Jeg går derover\" (I am going over there).",
   "forms": [
    {
     "da": "Jeg bor derovre.",
@@ -3805,10 +3765,6 @@
    }
   ],
   "related": [
-   {
-    "da": "der",
-    "en": "there"
-   },
    {
     "da": "herovre",
     "en": "over here"
@@ -3828,7 +3784,7 @@
   }
  },
  "derude": {
-  "explanation": "\"Derude\" means \"out there\" and points to a place outside or farther out, away from you: \"Børnene er derude\" (The children are out there). For inside something, use \"derinde\" (in there): \"Børnene er derinde\" (The children are in there).",
+  "explanation": "\"Derude\" means \"out there\". To say where children are outside: \"Børnene er derude\" (The children are out there). For inside something, use \"derinde\" (in there): \"Børnene er derinde\" (The children are in there).",
   "forms": [
    {
     "da": "derude i haven",
@@ -3853,10 +3809,6 @@
     "en": "outside"
    },
    {
-    "da": "ude",
-    "en": "out / outside"
-   },
-   {
     "da": "derovre",
     "en": "over there"
    }
@@ -3867,7 +3819,7 @@
   }
  },
  "derudover": {
-  "explanation": "\"Derudover\" means \"in addition\", adding one more point to what you just said. At the start of a sentence, the verb follows right after it: \"Derudover har vi en have\" (In addition, we have a garden).",
+  "explanation": "\"Derudover\" means \"in addition\". At the start of a sentence, the verb follows right after it: \"Derudover er prisen lav\" (In addition, the price is low).",
   "forms": [
    {
     "da": "Derudover har vi en have",
@@ -3906,7 +3858,7 @@
   }
  },
  "design": {
-  "explanation": "\"Design\" means \"design\", how something is planned to look and work, like a chair, a phone or a website. It is also a job field: \"Hun arbejder med design\" (She works in design).",
+  "explanation": "\"Design\" means \"design\". It takes \"et\" in the singular, and with \"the\" on the end it is \"designet\" (the design). To say what field someone works in: \"Hun arbejder med design\" (She works in design). Danish furniture and lamps are known abroad as \"dansk design\" (Danish design).",
   "forms": [
    {
     "da": "design",
@@ -3949,7 +3901,7 @@
   }
  },
  "desperat": {
-  "explanation": "\"Desperat\" means \"desperate\", for a person who sees no way out or for what the person does. To name what you are desperate to get, use \"efter\" (for): \"Hun er desperat efter et job\" (She is desperate for a job).",
+  "explanation": "\"Desperat\" means \"desperate\". To say what a person is desperate to get, use \"efter\" (for): \"Hun er desperat efter et job\" (She is desperate for a job).",
   "forms": [
    {
     "da": "en desperat mand",
@@ -4023,7 +3975,7 @@
   }
  },
  "desuden": {
-  "explanation": "\"Desuden\" means \"furthermore\" and \"besides\". Use it to add one more point, often a final reason: \"Huset er for dyrt. Desuden ligger det langt væk.\" (The house is too expensive. Besides, it is far away.)",
+  "explanation": "\"Desuden\" means \"besides\". To add one more point after a reason: \"Huset er for dyrt. Desuden ligger det langt væk.\" (The house is too expensive. Besides, it is far away.)",
   "forms": [
    {
     "da": "Desuden er jeg træt",
@@ -4058,7 +4010,7 @@
   }
  },
  "desværre": {
-  "explanation": "\"Desværre\" means \"unfortunately\". Use it before bad news or a no. It sounds softer and more polite than just \"Nej\" (No).",
+  "explanation": "\"Desværre\" means \"unfortunately\". To tell someone bad news: \"Desværre er butikken lukket\" (Unfortunately the shop is closed).",
   "forms": [
    {
     "da": "desværre ikke",
@@ -4093,7 +4045,7 @@
   }
  },
  "det": {
-  "explanation": "\"Det\" means \"it\" or \"that\". Use it for a thing that takes \"et\": \"Jeg har et hus, og det er stort\" (I have a house, and it is big). Things that take \"en\" use \"den\": \"Jeg har en bil, og den er stor\" (I have a car, and it is big). \"Det\" is also used when there is no particular thing, such as weather and comments: \"Det regner\" (It is raining), \"Det er sjovt\" (That is fun).",
+  "explanation": "\"Det\" means \"it\". It stands for a thing that takes \"et\": \"Jeg har et hus, og det er stort\" (I have a house, and it is big). Things that take \"en\" use \"den\": \"Jeg har en bil, og den er stor\" (I have a car, and it is big). When you point to something just said or done, it means \"that\": \"Det er sjovt\" (That is fun). When there is no particular thing, such as weather: \"Det regner\" (It is raining).",
   "forms": [
    {
     "da": "Det er godt.",
@@ -4128,7 +4080,7 @@
   }
  },
  "det er": {
-  "explanation": "\"Det er\" means \"it is\" or \"that is\"; Danish uses the same two words for both. Use it to name things or describe them: \"Det er en bog\" (It is a book).",
+  "explanation": "\"Det er\" means \"it is\". To name or describe a thing: \"Det er en bog\" (It is a book). To point at someone and say who they are, it means \"that is\": \"Det er min bror\" (That is my brother).",
   "forms": [
    {
     "da": "Det er godt.",
@@ -4163,7 +4115,7 @@
   }
  },
  "det er en god idé": {
-  "explanation": "\"Det er en god idé\" means \"that's a good idea\", said to agree with a suggestion. You can shorten it to \"God idé!\" (Good idea!).",
+  "explanation": "\"Det er en god idé\" means \"That's a good idea\". To agree with a suggestion: \"Skal vi gå en tur?\" \"Det er en god idé.\" (Shall we go for a walk? That's a good idea.) The short form is \"God idé!\" (Good idea!).",
   "forms": [
    {
     "da": "Det er en god idé.",
@@ -4233,7 +4185,7 @@
   }
  },
  "det er hip som hap": {
-  "explanation": "\"Det er hip som hap\" means \"it's six of one, half a dozen of the other\": two choices are equally good. Say it when you are asked to choose and you do not mind: \"Kaffe eller te? Det er hip som hap\" (Coffee or tea? Either is fine).",
+  "explanation": "\"Det er hip som hap\" means \"It's all the same\". To say you do not mind which option is chosen: \"Kaffe eller te?\" \"Det er hip som hap.\" (Coffee or tea? Either is fine.)",
   "forms": [
    {
     "da": "Det er hip som hap",
@@ -4272,7 +4224,7 @@
   }
  },
  "det er i orden": {
-  "explanation": "\"Det er i orden\" means \"it's okay\" or \"that's fine\". Danes say it in reply to \"undskyld\" (sorry) and to agree to a plan. \"I orden\" literally means \"in order\".",
+  "explanation": "\"Det er i orden\" means \"It's okay\". To agree to a plan: \"Vi ses klokken otte?\" \"Det er i orden.\" (See you at eight? That's fine.) Literally, \"i orden\" means \"in order\".",
   "forms": [
    {
     "da": "Det er i orden.",
@@ -4307,7 +4259,7 @@
   }
  },
  "det er ikke så svært": {
-  "explanation": "\"Det er ikke så svært\" means \"it's not that hard\", something you say to reassure someone about a task. \"Svært\" means \"difficult\" and \"ikke så\" means \"not so\".",
+  "explanation": "\"Det er ikke så svært\" means \"It's not that hard\". It is built from \"svært\" (difficult) and \"ikke så\" (not so). To reassure someone who is stuck: \"Jeg kan ikke finde ud af det.\" \"Det er ikke så svært.\" (I cannot figure it out. It's not that hard.)",
   "forms": [
    {
     "da": "Det er ikke så svært.",
@@ -4328,12 +4280,12 @@
     "en": "easy"
    },
    {
-    "da": "svær",
-    "en": "difficult"
-   },
-   {
     "da": "let",
     "en": "easy / light"
+   },
+   {
+    "da": "besværlig",
+    "en": "troublesome"
    }
   ],
   "sentence": {
@@ -4342,7 +4294,7 @@
   }
  },
  "det er lige det": {
-  "explanation": "\"Det er lige det\" means \"that's exactly it\" and you say it when someone has hit the right point. Said short, \"lige det\" means \"exactly that\": \"Jeg ville have lige det\" (I wanted exactly that).",
+  "explanation": "\"Det er lige det\" means \"Yes, that's exactly it\". To confirm that someone has understood you: \"Du mener, at vi skal vente?\" \"Det er lige det.\" (You mean we should wait? That's exactly it.) Said short, \"lige det\" means \"exactly that\": \"Jeg ville have lige det\" (I wanted exactly that).",
   "forms": [
    {
     "da": "Ja, det er lige det",
@@ -4381,7 +4333,7 @@
   }
  },
  "det er lige meget": {
-  "explanation": "\"Det er lige meget\" means \"it doesn't matter\". Say it when you do not mind which option is chosen. \"Det er mig lige meget\" (I don't care) can sound rude.",
+  "explanation": "\"Det er lige meget\" means \"It doesn't matter\". To say you do not mind which option is chosen: \"Pizza eller pasta?\" \"Det er lige meget.\" (Pizza or pasta? It doesn't matter.) To say \"I don't care\", add \"mig\" (me): \"Det er mig lige meget\". This can sound rude.",
   "forms": [
    {
     "da": "Det er lige meget.",
@@ -4416,7 +4368,7 @@
   }
  },
  "det er min skyld": {
-  "explanation": "\"Det er min skyld\" means \"it's my fault\" and takes the blame. Change \"min\" (my) to \"hans\" (his) to blame someone else: \"Det er hans skyld\" (It's his fault).",
+  "explanation": "\"Det er min skyld\" means \"It's my fault\". To blame someone else, change \"min\" (my) to \"hans\" (his): \"Det er hans skyld\" (It's his fault).",
   "forms": [
    {
     "da": "Det er min skyld.",
@@ -4451,7 +4403,7 @@
   }
  },
  "det er rigtigt": {
-  "explanation": "\"Det er rigtigt\" means \"that's right\", said to agree that something is correct or true. Do not mix it up with \"rigtig\" used as \"really\" before another word, as in \"rigtig godt\" (really good). A short alternative is \"ja, præcis\" (yes, exactly).",
+  "explanation": "\"Det er rigtigt\" means \"That's right\". To agree that something is correct: \"Er mødet klokken ti?\" \"Ja, det er rigtigt.\" (Is the meeting at ten? Yes, that's right.) A mix-up: \"rigtig\" before another word means \"really\", as in \"rigtig godt\" (really good).",
   "forms": [
    {
     "da": "Det er rigtigt.",
@@ -4478,10 +4430,6 @@
    {
     "da": "korrekt",
     "en": "correct"
-   },
-   {
-    "da": "det er forkert",
-    "en": "that's wrong"
    }
   ],
   "sentence": {
@@ -4490,7 +4438,7 @@
   }
  },
  "det er synd": {
-  "explanation": "\"Det er synd\" means \"that's a shame\" or \"that's too bad\", and you say it when something bad happens to someone. To name the person you feel sorry for, add \"for\" (for): \"Det er synd for dig\" (That's too bad for you).",
+  "explanation": "\"Det er synd\" means \"That's a shame\". To answer bad news: \"Hun er syg i dag.\" \"Åh, det er synd.\" (She is sick today. Oh, that's a shame.) To name the person you feel sorry for, add \"for\" (for): \"Det er synd for dig\" (That's too bad for you).",
   "forms": [
    {
     "da": "Det er synd.",
@@ -4525,7 +4473,7 @@
   }
  },
  "det giver ikke mening": {
-  "explanation": "\"Det giver ikke mening\" means \"that doesn't make sense\". Word for word, it means \"that gives no meaning\". For something you cannot follow, you can also say \"Jeg forstår det ikke\" (I don't understand).",
+  "explanation": "\"Det giver ikke mening\" means \"that doesn't make sense\". Word for word, it means \"that gives no meaning\". To say it makes no sense at all, add \"slet\" (at all): \"Det giver slet ikke mening\" (That makes no sense at all).",
   "forms": [
    {
     "da": "Det giver ikke mening",
@@ -4603,7 +4551,7 @@
   }
  },
  "det går fint": {
-  "explanation": "\"Det går fint\" means \"it's going fine\" and is a common answer to \"Hvordan går det?\" (How is it going?). You can swap \"fint\" (fine) for \"godt\" (well) or \"dårligt\" (badly).",
+  "explanation": "\"Det går fint\" means \"it's going fine\". When someone asks how you are, you can answer: \"Hvordan går det?\" \"Det går fint.\" (How is it going? It's going fine.) To say things are going badly, swap \"fint\" (fine) for \"dårligt\" (badly): \"Det går dårligt\" (It's going badly).",
   "forms": [
    {
     "da": "Det går fint.",
@@ -4624,12 +4572,12 @@
     "en": "it's going well"
    },
    {
-    "da": "det går dårligt",
-    "en": "it's going badly"
-   },
-   {
     "da": "det går så-så",
     "en": "it's going so-so"
+   },
+   {
+    "da": "udmærket",
+    "en": "excellent"
    }
   ],
   "sentence": {
@@ -4638,7 +4586,7 @@
   }
  },
  "det går godt": {
-  "explanation": "\"Det går godt\" means \"it's going well\" and is a standard answer to \"Hvordan går det?\" (How's it going?). After answering, it is polite to ask back: \"Det går godt, og dig?\" (I'm doing well, and you?)",
+  "explanation": "\"Det går godt\" means \"it's going well\". When someone asks \"Hvordan går det?\" (How is it going?), you can answer \"Det går godt.\" To ask the same question back, add \"og dig?\" (and you?): \"Det går godt, og dig?\" (I'm doing well, and you?)",
   "forms": [
    {
     "da": "Det går godt.",
@@ -4673,7 +4621,7 @@
   }
  },
  "det gør ikke noget": {
-  "explanation": "\"Det gør ikke noget\" means \"it's okay\" or \"no problem\", and you say it when someone says \"Undskyld\" (Sorry): \"Undskyld, jeg kom for sent.\" \"Det gør ikke noget.\" (Sorry, I was late. It's okay.) Word for word, it means \"it does not do anything\". Do not mix it up with \"det er lige meget\" (it does not matter), which you say when two options are equally fine to you: \"Te eller kaffe?\" \"Det er lige meget.\" (Tea or coffee? It does not matter.)",
+  "explanation": "\"Det gør ikke noget\" means \"it's okay\". You say it when someone says \"Undskyld\" (Sorry): \"Undskyld, jeg kom for sent.\" \"Det gør ikke noget.\" (Sorry, I was late. It's okay.) Word for word, it means \"it does not do anything\". Do not mix it up with \"det er lige meget\" (it does not matter). You say that one when two options are equally fine to you: \"Te eller kaffe?\" \"Det er lige meget.\" (Tea or coffee? It does not matter.)",
   "forms": [
    {
     "da": "Det gør ikke noget.",
@@ -4712,7 +4660,7 @@
   }
  },
  "det håber jeg": {
-  "explanation": "\"Det håber jeg\" means \"I hope so\", a short reply to a question about something that might happen.",
+  "explanation": "\"Det håber jeg\" means \"I hope so\". To answer a question about something that may happen, say: \"Kommer Anna i morgen?\" \"Det håber jeg.\" (Is Anna coming tomorrow? I hope so.) Word for word, it means \"that hope I\".",
   "forms": [
    {
     "da": "Det håber jeg.",
@@ -4747,7 +4695,7 @@
   }
  },
  "det kan godt være": {
-  "explanation": "\"Det kan godt være\" means \"that may be\". You say it to agree that the other person's statement could be true, often followed by \"men\" (but) and your own opinion.",
+  "explanation": "\"Det kan godt være\" means \"that may be\". To agree that the other person could be right and then give your own view, add \"men\" (but): \"Det er for dyrt.\" \"Det kan godt være, men jeg vil have den.\" (It is too expensive. That may be, but I want it.)",
   "forms": [
    {
     "da": "Det kan godt være.",
@@ -4782,7 +4730,7 @@
   }
  },
  "det kan man ikke vide": {
-  "explanation": "\"Det kan man ikke vide\" means \"you never know\" and is said when the future is uncertain. Literally it says that one cannot know it.",
+  "explanation": "\"Det kan man ikke vide\" means \"you never know\". To answer a question about the future, say: \"Bliver det sol i morgen?\" \"Det kan man ikke vide.\" (Will it be sunny tomorrow? You never know.) Word for word, it means \"that can one not know\".",
   "forms": [
    {
     "da": "Det kan man ikke vide.",
@@ -4930,7 +4878,7 @@
   }
  },
  "det passer ikke": {
-  "explanation": "\"Det passer ikke\" means \"that's not true\" and corrects a false claim. Without \"ikke\" (not), \"det passer\" says the claim is true.",
+  "explanation": "\"Det passer ikke\" means \"that's not true\". To correct a claim, say: \"Du var der i går.\" \"Det passer ikke.\" (You were there yesterday. That's not true.) To say a claim is true, leave out \"ikke\" (not): \"Det passer\" (That's true).",
   "forms": [
    {
     "da": "Det passer ikke.",
@@ -4969,7 +4917,7 @@
   }
  },
  "det tror jeg": {
-  "explanation": "\"Det tror jeg\" means \"I think so\" or \"I believe so\", a polite, slightly unsure reply when you aren't completely certain.",
+  "explanation": "\"Det tror jeg\" means \"I think so\". To answer a question when you believe the answer is yes, say: \"Kommer Anna i dag?\" \"Det tror jeg.\" (Is Anna coming today? I think so.) Word for word, it means \"that believe I\".",
   "forms": [
    {
     "da": "Det tror jeg.",
@@ -5004,7 +4952,7 @@
   }
  },
  "det tror jeg ikke": {
-  "explanation": "\"Det tror jeg ikke\" means \"I don't think so\", a soft way to say no. Word for word, it means \"that think I not\". It sounds gentler than a plain \"nej\" (no).",
+  "explanation": "\"Det tror jeg ikke\" means \"I don't think so\". To answer a question when you believe the answer is no, say: \"Kommer Anna i dag?\" \"Det tror jeg ikke.\" (Is Anna coming today? I don't think so.) Word for word, it means \"that believe I not\".",
   "forms": [
    {
     "da": "Det tror jeg ikke.",
@@ -5039,7 +4987,7 @@
   }
  },
  "det var dog utroligt": {
-  "explanation": "\"Det var dog utroligt\" means \"that's incredible\" and reacts to surprising or impressive news. The word \"dog\" (though) adds surprise; without it, \"Det var utroligt\" (That was incredible) sounds calmer.",
+  "explanation": "\"Det var dog utroligt\" means \"that's incredible\". When someone tells you surprising news, you can react: \"Jeg vandt i lotto!\" \"Det var dog utroligt!\" (I won the lottery! That's incredible!) The word \"utroligt\" is built from \"u-\" (un-) and \"trolig\" (likely).",
   "forms": [
    {
     "da": "Det var dog utroligt!",
@@ -5074,7 +5022,7 @@
   }
  },
  "det var på høje tid": {
-  "explanation": "\"Det var på høje tid\" means \"it was high time\": something should have happened earlier and cannot wait any longer. It often sounds impatient: \"Det var på høje tid, at du kom!\" (It was high time you showed up!)",
+  "explanation": "\"Det var på høje tid\" means \"it was high time\". To tell someone they came late, say: \"Det var på høje tid, at du kom!\" (It was high time you showed up!) Word for word, it means \"it was on high time\".",
   "forms": [
    {
     "da": "Det var på høje tid",
@@ -5113,7 +5061,7 @@
   }
  },
  "det var så lidt": {
-  "explanation": "\"Det var så lidt\" means \"you're welcome\" or \"don't mention it\". Word for word, it means \"it was so little\", as if the favor was nothing. It is a warm answer when someone thanks you.",
+  "explanation": "\"Det var så lidt\" means \"you're welcome\". When someone thanks you, you can answer: \"Tak, fordi du hjalp mig!\" \"Det var så lidt.\" (Thank you for helping me! You're welcome.) Word for word, it means \"it was so little\".",
   "forms": [
    {
     "da": "Det var så lidt.",
@@ -5148,7 +5096,7 @@
   }
  },
  "det ved jeg ikke": {
-  "explanation": "\"Det ved jeg ikke\" means \"I don't know\". \"Det\" (that) comes first, then \"ved jeg\" (know I). \"At vide\" (to know) is for facts. For knowing a person or place use \"at kende\" (to be familiar with): \"Jeg kender Peter\" (I know Peter).",
+  "explanation": "\"Det ved jeg ikke\" means \"I don't know\". Word for word, it means \"that know I not\". \"At vide\" (to know) is for facts. To say you know a person or place, use \"at kende\" (to be familiar with) instead: \"Jeg kender Peter\" (I know Peter).",
   "forms": [
    {
     "da": "Det ved jeg ikke.",
@@ -5183,7 +5131,7 @@
   }
  },
  "det vil sige": {
-  "explanation": "\"Det vil sige\" means \"that is to say\" and is used before you explain or sum up: \"Jeg bor i Jylland, det vil sige i Aarhus\" (I live in Jutland, that is to say in Aarhus). In writing it is often shortened to \"dvs.\" (i.e.)",
+  "explanation": "\"Det vil sige\" means \"that is to say\". To explain or sum up what you just said, put it before the explanation: \"Jeg bor i Jylland, det vil sige i Aarhus\" (I live in Jutland, that is to say in Aarhus). Word for word, it means \"that will say\". The short form in writing is \"dvs.\" (i.e.).",
   "forms": [
    {
     "da": "det vil sige",
@@ -5222,7 +5170,7 @@
   }
  },
  "detaljeret": {
-  "explanation": "\"Detaljeret\" means \"detailed\", giving many small parts, not just the main points. Its opposite is \"overfladisk\" (superficial), which only touches the surface.",
+  "explanation": "\"Detaljeret\" means \"detailed\". It comes from the noun \"en detalje\" (a detail). To describe an explanation that gives every detail, say: \"en detaljeret beskrivelse\" (a detailed description).",
   "forms": [
    {
     "da": "en detaljeret plan",
@@ -5239,10 +5187,6 @@
   ],
   "related": [
    {
-    "da": "en detalje",
-    "en": "a detail"
-   },
-   {
     "da": "grundig",
     "en": "thorough"
    },
@@ -5252,7 +5196,11 @@
    },
    {
     "da": "nøjagtig",
-    "en": "accurate"
+    "en": "exact"
+   },
+   {
+    "da": "overfladisk",
+    "en": "superficial"
    }
   ],
   "sentence": {
@@ -5261,7 +5209,7 @@
   }
  },
  "dets": {
-  "explanation": "\"Dets\" means \"its\", for something you say with \"et\", such as \"et æble\" (an apple). For something you say with \"en\", like \"en bil\" (a car), use \"dens\" (its).",
+  "explanation": "\"Dets\" means \"its\". When the thing belongs to a word that takes \"et\", such as \"et værelse\" (a room), say: \"dets vindue\" (its window). When the thing belongs to a word that takes \"en\", such as \"en bil\" (a car), use \"dens\" (its) instead: \"dens motor\" (its engine).",
   "forms": [
    {
     "da": "dets navn",
@@ -5278,16 +5226,16 @@
   ],
   "related": [
    {
-    "da": "det",
-    "en": "it (et-word)"
-   },
-   {
     "da": "sin",
-    "en": "his / her / its own"
+    "en": "his/her/its own"
    },
    {
     "da": "hendes",
     "en": "her"
+   },
+   {
+    "da": "hans",
+    "en": "his"
    },
    {
     "da": "deres",
@@ -5335,7 +5283,7 @@
   }
  },
  "diabetes": {
-  "explanation": "\"Diabetes\" means \"diabetes\", a long-term illness where the body cannot keep the sugar in the blood at a healthy level. An older word for it is \"sukkersyge\" (sugar sickness).",
+  "explanation": "\"Diabetes\" means \"diabetes\". It also appears in \"svangerskabsdiabetes\" (gestational diabetes), where \"svangerskab\" means \"pregnancy\".",
   "forms": [
    {
     "da": "at have diabetes",
@@ -5370,7 +5318,7 @@
   }
  },
  "diarré": {
-  "explanation": "\"Diarré\" means \"diarrhea\", an upset stomach where the stool is watery and you need the toilet often.",
+  "explanation": "\"Diarré\" means \"diarrhea\". To spell it in Danish, end it with \"é\" with an accent, not with \"a\" as in English.",
   "forms": [
    {
     "da": "diarré",
@@ -5387,20 +5335,16 @@
   ],
   "related": [
    {
-    "da": "at kaste op",
-    "en": "to vomit"
-   },
-   {
-    "da": "kvalme",
-    "en": "nausea"
-   },
-   {
-    "da": "en mavepine",
-    "en": "a stomach ache"
-   },
-   {
     "da": "en forstoppelse",
     "en": "constipation"
+   },
+   {
+    "da": "en mave",
+    "en": "a stomach"
+   },
+   {
+    "da": "løs mave",
+    "en": "loose stool"
    }
   ],
   "sentence": {
@@ -5409,7 +5353,7 @@
   }
  },
  "diesel": {
-  "explanation": "\"Diesel\" means \"diesel\", a fuel used by many vans and trucks. A car takes either diesel or \"benzin\" (gasoline), so at the pump you pick one: \"Jeg skal have diesel\" (I need diesel).",
+  "explanation": "\"Diesel\" means \"diesel\". To say you are filling the car with fuel, use \"at tanke\" (to fill up with fuel): \"Jeg skal tanke diesel\" (I need to fill up with diesel).",
   "forms": [
    {
     "da": "diesel",
@@ -5426,16 +5370,16 @@
   ],
   "related": [
    {
+    "da": "benzin",
+    "en": "gasoline"
+   },
+   {
     "da": "et brændstof",
     "en": "a fuel"
    },
    {
     "da": "en tankstation",
     "en": "a gas station"
-   },
-   {
-    "da": "en tank",
-    "en": "a tank"
    }
   ],
   "sentence": {
@@ -5444,7 +5388,7 @@
   }
  },
  "dig": {
-  "explanation": "\"Dig\" means \"you\" when something is done to you, while \"du\" (you) is the one who does it: \"Jeg elsker dig\" (I love you). \"Dig\" also comes after small words like \"med\" (with): \"Jeg kommer med dig\" (I am coming with you). \"Dig\" is for one person; for several people say \"jer\" (you, many): \"Jeg elsker jer\" (I love you all).",
+  "explanation": "\"Dig\" means \"you\". When you talk to one person who receives the action, use \"dig\": \"Jeg ringer til dig\" (I am calling you). When that person does the action, use \"du\" (you) instead: \"Du ringer til mig\" (You are calling me). To talk to several people, use \"jer\" (you, many): \"Jeg ringer til jer\" (I am calling you all).",
   "forms": [
    {
     "da": "Jeg ser dig.",
@@ -5483,7 +5427,7 @@
   }
  },
  "digital": {
-  "explanation": "\"Digital\" means \"digital\", for things that work electronically and show numbers instead of hands, such as a clock. It looks like the English word, but the stress is on the last part: di-gi-TAL.",
+  "explanation": "\"Digital\" means \"digital\". To describe a word that takes \"et\", add \"t\": \"et digitalt ur\" (a digital watch). Before a plural word, add \"e\": \"digitale ure\" (digital watches).",
   "forms": [
    {
     "da": "en digital klokke",
@@ -5518,7 +5462,7 @@
   }
  },
  "dild": {
-  "explanation": "\"Dild\" means \"dill\", a green herb with thin, feathery leaves, often used with fish and new potatoes.",
+  "explanation": "\"Dild\" means \"dill\". To tell someone to chop the herb, say: \"Hak dilden fint\" (Chop the dill finely).",
   "forms": [
    {
     "da": "dild",
@@ -5557,7 +5501,7 @@
   }
  },
  "din": {
-  "explanation": "\"Din\" means \"your\" or \"yours\" when you talk to one person and the thing takes \"en\". For a thing that takes \"et\", it is \"dit\": \"dit hus\" (your house). For more than one thing, it is \"dine\": \"dine sko\" (your shoes).",
+  "explanation": "\"Din\" means \"your\". It goes with a word that takes \"en\", such as \"en hat\" (a hat): \"din hat\" (your hat). With a word that takes \"et\", say \"dit\": \"dit værelse\" (your room). Before more than one thing, say \"dine\": \"dine nøgler\" (your keys).",
   "forms": [
    {
     "da": "din bil",
@@ -5596,7 +5540,7 @@
   }
  },
  "dine": {
-  "explanation": "\"Dine\" means \"your\" or \"yours\" when there is more than one thing. For one thing, it is \"din\" or \"dit\": \"din sko\" (your shoe), \"dit hus\" (your house).",
+  "explanation": "\"Dine\" means \"your\". Use it before more than one thing: \"dine nøgler\" (your keys). For one thing that takes \"en\", say \"din\": \"din nøgle\" (your key). For one thing that takes \"et\", say \"dit\": \"dit hus\" (your house).",
   "forms": [
    {
     "da": "dine bøger",
@@ -5635,7 +5579,7 @@
   }
  },
  "diplomatisk": {
-  "explanation": "\"Diplomatisk\" means \"diplomatic\", both for relations between countries and for handling a touchy situation with care: \"Vær diplomatisk\" (Be diplomatic).",
+  "explanation": "\"Diplomatisk\" means \"diplomatic\". When you talk about how countries deal with each other, use it: \"en diplomatisk krise\" (a diplomatic crisis). When you want someone to handle a delicate situation with care, say: \"Vær diplomatisk\" (Be diplomatic).",
   "forms": [
    {
     "da": "en diplomatisk løsning",
@@ -5656,16 +5600,16 @@
     "en": "a diplomat"
    },
    {
+    "da": "diplomati",
+    "en": "diplomacy"
+   },
+   {
     "da": "taktfuld",
     "en": "tactful"
    },
    {
     "da": "taktløs",
     "en": "tactless"
-   },
-   {
-    "da": "en ambassade",
-    "en": "an embassy"
    }
   ],
   "sentence": {
@@ -5674,7 +5618,7 @@
   }
  },
  "direkte": {
-  "explanation": "\"Direkte\" means \"direct\" and \"directly\", going straight with nothing in between: \"et direkte fly\" (a direct flight).",
+  "explanation": "\"Direkte\" means \"straight\". When you talk about a flight with no stop on the way, it means \"direct\": \"et direkte fly\" (a direct flight).",
   "forms": [
    {
     "da": "Jeg går direkte hjem",
@@ -5701,10 +5645,6 @@
    {
     "da": "lige",
     "en": "straight"
-   },
-   {
-    "da": "en genvej",
-    "en": "a shortcut"
    }
   ],
   "sentence": {
@@ -5713,7 +5653,7 @@
   }
  },
  "disciplin": {
-  "explanation": "\"En disciplin\" means \"a discipline\". It is self-control, as in \"Hun har stor disciplin\" (She has great discipline), and it is also one single event within a sport.",
+  "explanation": "\"En disciplin\" means \"a discipline\". When you talk about self-control, say: \"Hun har stor disciplin\" (She has great discipline). When you talk about one event in a sport, say: \"Længdespring er en disciplin\" (The long jump is an event).",
   "forms": [
    {
     "da": "en disciplin",
@@ -5746,8 +5686,8 @@
     "en": "an exercise"
    },
    {
-    "da": "undisciplineret",
-    "en": "undisciplined"
+    "da": "en regel",
+    "en": "a rule"
    }
   ],
   "sentence": {
@@ -5756,7 +5696,7 @@
   }
  },
  "diset": {
-  "explanation": "\"Diset\" means \"hazy\", for air that is full of thin mist so that distant things look soft and pale. It is lighter than real fog, where you can barely see anything.",
+  "explanation": "\"Diset\" means \"hazy\". It comes from the noun \"en dis\" (a haze). To say the weather is hazy, say: \"Det er diset i dag\" (It is hazy today).",
   "forms": [
    {
     "da": "en diset morgen",
@@ -5773,16 +5713,16 @@
   ],
   "related": [
    {
-    "da": "en dis",
-    "en": "a haze"
-   },
-   {
     "da": "klar",
     "en": "clear"
    },
    {
     "da": "en tåge",
     "en": "a fog"
+   },
+   {
+    "da": "tåget",
+    "en": "foggy"
    }
   ],
   "sentence": {
@@ -5791,7 +5731,7 @@
   }
  },
  "diskret": {
-  "explanation": "\"Diskret\" means \"discreet\", not drawing attention to itself. For a person it means keeping private things private, and for a thing it means quiet in style: \"en diskret farve\" (a subtle color).",
+  "explanation": "\"Diskret\" means \"discreet\". To ask someone to keep something private, say: \"Vær diskret\" (Be discreet). When you describe a quiet style that does not stand out, it means \"subtle\": \"en diskret farve\" (a subtle color).",
   "forms": [
    {
     "da": "en diskret person",
@@ -5826,7 +5766,7 @@
   }
  },
  "diskrimination": {
-  "explanation": "\"Diskrimination\" means \"discrimination\", treating people worse because of who they are. The reason is often given with \"på grund af\" (because of): \"diskrimination på grund af alder\" (discrimination because of age).",
+  "explanation": "\"Diskrimination\" means \"discrimination\". To say the reason, use \"på grund af\" (because of): \"diskrimination på grund af alder\" (discrimination because of age).",
   "forms": [
    {
     "da": "en diskrimination",
@@ -5869,7 +5809,7 @@
   }
  },
  "disse": {
-  "explanation": "\"Disse\" means \"these\". For one thing, use \"denne\" (this) or \"dette\" (this): \"denne sko\" (this shoe), \"dette hus\" (this house). \"Disse\" sounds formal; in everyday speech, Danes say \"de her\" (these): \"de her sko\" (these shoes).",
+  "explanation": "\"Disse\" means \"these\". When you point to one thing instead of several, use \"denne\" (this) for a word that takes \"en\": \"denne sko\" (this shoe). For a word that takes \"et\", use \"dette\" (this): \"dette hus\" (this house). \"Disse\" is formal. In everyday speech, \"de her\" (these) is the plain way to say it: \"de her sko\" (these shoes).",
   "forms": [
    {
     "da": "disse biler",
@@ -5904,7 +5844,7 @@
   }
  },
  "distraheret": {
-  "explanation": "\"Distraheret\" means \"distracted\", unable to keep your mind on a task because something else takes your attention. To name the thing that distracts you, add \"af\" (by): \"Jeg var distraheret af min telefon\" (I was distracted by my phone).",
+  "explanation": "\"Distraheret\" means \"distracted\". To name what distracts you, add \"af\" (by): \"Jeg var distraheret af min telefon\" (I was distracted by my phone).",
   "forms": [
    {
     "da": "en distraheret elev",
@@ -5943,7 +5883,7 @@
   }
  },
  "dit": {
-  "explanation": "\"Dit\" means \"your\" or \"yours\" when you talk to one person and the thing takes \"et\". For a thing that takes \"en\", it is \"din\": \"din bil\" (your car). For more than one thing, it is \"dine\": \"dine sko\" (your shoes).",
+  "explanation": "\"Dit\" means \"your\". It goes with a word that takes \"et\", such as \"et værelse\" (a room): \"dit værelse\" (your room). With a word that takes \"en\", say \"din\": \"din bil\" (your car). Before more than one thing, say \"dine\": \"dine sko\" (your shoes).",
   "forms": [
    {
     "da": "dit hus",
@@ -5982,7 +5922,7 @@
   }
  },
  "dna": {
-  "explanation": "\"Et DNA\" means \"DNA\", the material inside living things that carries the plan for how they are built. In Danish it is read out letter by letter, as \"de-en-a\".",
+  "explanation": "\"DNA\" means \"DNA\". It takes \"et\", as the form \"DNA'et\" (the DNA) shows. To say the police found it somewhere, say: \"Politiet fandt DNA på stedet\" (The police found DNA at the scene).",
   "forms": [
    {
     "da": "DNA",
@@ -6025,7 +5965,7 @@
   }
  },
  "dobbelt": {
-  "explanation": "\"Dobbelt\" means \"double\" and \"twice as much\". It starts many words, such as \"dobbeltværelse\" (double room).",
+  "explanation": "\"Dobbelt\" means \"double\". To compare two ages, say: \"Han er dobbelt så gammel som mig\" (He is twice as old as me). It is also the first part of other words, such as \"dobbeltværelse\" (double room).",
   "forms": [
    {
     "da": "Det koster dobbelt",
@@ -6064,7 +6004,7 @@
   }
  },
  "dog": {
-  "explanation": "\"Dog\" has two uses. To say \"all the same\": \"Det er dyrt, men jeg køber det dog\" (It is expensive, but I am buying it anyway). To make an invitation or request friendlier: \"Sæt dig dog\" (Do sit down).",
+  "explanation": "\"Dog\" means \"though\". When you want to say \"all the same\", use it: \"Det er dyrt, men jeg køber det dog\" (It is expensive, but I am buying it anyway). When you want to make an invitation or request friendlier, use it: \"Sæt dig dog\" (Do sit down).",
   "forms": [
    {
     "da": "Det er dog sjovt.",
@@ -6099,7 +6039,7 @@
   }
  },
  "dokumentation": {
-  "explanation": "\"En dokumentation\" means \"documentation\", papers or text that show that something is true or explain how something works. Computer programs have it too: \"dokumentationen til programmet\" (the documentation for the program).",
+  "explanation": "\"Dokumentation\" means \"documentation\". To say what the documentation belongs to, add \"til\" (for): \"dokumentationen til programmet\" (the documentation for the program).",
   "forms": [
    {
     "da": "en dokumentation",
@@ -6142,7 +6082,7 @@
   }
  },
  "dommedag": {
-  "explanation": "\"Dommedag\" means \"doomsday\" or \"Judgment Day\", the last day of the world. People also use it for big trouble: \"Det er ikke dommedag\" (It is not the end of the world). It is built from dom (a verdict) and dag (day).",
+  "explanation": "\"Dommedag\" means \"doomsday\". It is built from \"en dom\" (a verdict) and \"en dag\" (a day). To say that something is not a disaster, say: \"Det er ikke dommedag\" (It is not the end of the world).",
   "forms": [
    {
     "da": "dommedag",
@@ -6181,7 +6121,7 @@
   }
  },
  "doven": {
-  "explanation": "\"Doven\" means \"lazy\" and describes someone who avoids work. The opposite is \"flittig\" (diligent).",
+  "explanation": "\"Doven\" means \"lazy\". To say how you feel today, say: \"Jeg er doven i dag\" (I am lazy today). The opposite is \"flittig\" (diligent): \"Hun er flittig\" (She is diligent).",
   "forms": [
    {
     "da": "en doven dreng",
@@ -6198,8 +6138,8 @@
   ],
   "related": [
    {
-    "da": "en dovenpind",
-    "en": "a lazybones"
+    "da": "ambitiøs",
+    "en": "ambitious"
    },
    {
     "da": "at dovne",
@@ -6220,7 +6160,7 @@
   }
  },
  "dramatisk": {
-  "explanation": "\"Dramatisk\" means \"dramatic\", for events that are sudden, big or exciting, such as a rescue or a storm. It can also describe someone who makes too much of things: \"Du er så dramatisk!\" (You are so dramatic!)",
+  "explanation": "\"Dramatisk\" means \"dramatic\". When you say that a person makes too much of things, say: \"Du er så dramatisk!\" (You are so dramatic!)",
   "forms": [
    {
     "da": "en dramatisk forandring",
@@ -6259,7 +6199,7 @@
   }
  },
  "dressing": {
-  "explanation": "\"En dressing\" means \"a dressing\", the cold sauce you put on a salad. A warm sauce with meat is \"en sovs\" (a sauce) instead.",
+  "explanation": "\"En dressing\" means \"a dressing\". To say what is in it, add \"med\" (with): \"en dressing med hvidløg\" (a dressing with garlic).",
   "forms": [
    {
     "da": "en dressing",
@@ -6302,7 +6242,7 @@
   }
  },
  "drikkepenge": {
-  "explanation": "\"Drikkepenge\" means \"a tip\", the extra money you give for good service. It is used without \"en\" or \"et\": \"Tak, behold resten som drikkepenge\" (Thanks, keep the change as a tip).",
+  "explanation": "\"Drikkepenge\" means \"tip\". Literally, it means \"drink money\", from \"at drikke\" (to drink) and \"penge\" (money). The word is used without an article. To tell a waiter to keep the change, say: \"Tak, behold resten som drikkepenge\" (Thanks, keep the change as a tip).",
   "forms": [
    {
     "da": "give drikkepenge",
@@ -6337,7 +6277,7 @@
   }
  },
  "drikkevarer": {
-  "explanation": "\"Drikkevarer\" means \"drinks\" or \"beverages\", the word on a menu or a shop sign above the sodas, juice and water. For one single drink, say \"en drik\" (a drink): \"en kold drik\" (a cold drink).",
+  "explanation": "\"Drikkevarer\" means \"drinks\". It is built from \"at drikke\" (to drink) and \"varer\" (goods). To talk about one single drink, say \"en drik\" (a drink): \"en kold drik\" (a cold drink).",
   "forms": [
    {
     "da": "Vi sælger drikkevarer.",
@@ -6354,10 +6294,6 @@
   ],
   "related": [
    {
-    "da": "at drikke",
-    "en": "to drink"
-   },
-   {
     "da": "fødevarer",
     "en": "food products"
    },
@@ -6367,7 +6303,7 @@
    },
    {
     "da": "en saft",
-    "en": "a fruit cordial"
+    "en": "a cordial"
    }
   ],
   "sentence": {
@@ -6376,7 +6312,7 @@
   }
  },
  "dristig": {
-  "explanation": "\"Dristig\" means \"bold\" or \"daring\", ready to try something that others hold back from. For clothes it means slightly shocking: \"en dristig kjole\" (a daring dress).",
+  "explanation": "\"Dristig\" means \"bold\". When you describe clothes that dare to be different, it means \"daring\": \"en dristig kjole\" (a daring dress).",
   "forms": [
    {
     "da": "en dristig plan",
@@ -6415,7 +6351,7 @@
   }
  },
  "du": {
-  "explanation": "\"Du\" means \"you\" when you talk to one person. Danes use it with almost everyone, even older people and your boss. When something is done to you, use \"dig\": \"Jeg ser dig\" (I see you). When you talk to several people, say \"I\": \"I er søde\" (You are all sweet).",
+  "explanation": "\"Du\" means \"you\". When you talk to one person, say: \"Er du træt?\" (Are you tired?) Danes use \"du\" with older people and with a boss too. When that person receives the action, use \"dig\" (you): \"Jeg ser dig\" (I see you). To talk to several people, say \"I\" (you, many): \"I er søde\" (You are all sweet).",
   "forms": [
    {
     "da": "Du er sød.",
@@ -6450,7 +6386,7 @@
   }
  },
  "dug": {
-  "explanation": "\"En dug\" means \"dew\", the tiny beads of water that form outdoors on cool nights. The same spelling is also a different word, \"en dug\" (a tablecloth): \"en hvid dug\" (a white tablecloth).",
+  "explanation": "\"En dug\" means \"dew\". When you talk about a cloth on a table, \"en dug\" is a different word: \"en hvid dug\" (a white tablecloth).",
   "forms": [
    {
     "da": "en dug",
@@ -6475,16 +6411,12 @@
     "en": "a drop"
    },
    {
-    "da": "tåge",
-    "en": "fog"
+    "da": "dugfrisk",
+    "en": "fresh as dew"
    },
    {
     "da": "rim",
-    "en": "hoarfrost"
-   },
-   {
-    "da": "fugtig",
-    "en": "damp"
+    "en": "frost"
    }
   ],
   "sentence": {
@@ -6493,7 +6425,7 @@
   }
  },
  "dum": {
-  "explanation": "\"Dum\" means \"stupid\" or \"silly\". Said about a person, it can sound rude: \"Du er dum\" (You are stupid). About things, it is milder: \"Det var dumt\" (That was silly).",
+  "explanation": "\"Dum\" means \"stupid\". When you say it about a person, it sounds rude: \"Du er dum\" (You are stupid). To say a thing was stupid, add \"t\": \"Det var dumt\" (That was stupid).",
   "forms": [
    {
     "da": "en dum idé",
@@ -6528,7 +6460,7 @@
   }
  },
  "dyb": {
-  "explanation": "\"Dyb\" means \"deep\", as in deep water or a deep hole. It also works for things such as sleep and voices: \"en dyb søvn\" (a deep sleep), \"en dyb stemme\" (a deep voice).",
+  "explanation": "\"Dyb\" means \"deep\". When you talk about sleep, use it: \"en dyb søvn\" (a deep sleep). When you talk about a voice, use it too: \"en dyb stemme\" (a deep voice).",
   "forms": [
    {
     "da": "en dyb sø",
@@ -6563,7 +6495,7 @@
   }
  },
  "dybtgående": {
-  "explanation": "\"Dybtgående\" means \"thorough\" or \"profound\", for something that goes far down and not only on the surface, such as a study, knowledge or a change. Literally, it means \"deeply going\".",
+  "explanation": "\"Dybtgående\" means \"thorough\". It is built from \"dybt\" (deeply) and \"gående\" (going). When you talk about changes that go far, it means \"profound\": \"dybtgående reformer\" (profound reforms).",
   "forms": [
    {
     "da": "en dybtgående analyse",
@@ -6580,12 +6512,8 @@
   ],
   "related": [
    {
-    "da": "dyb",
-    "en": "deep"
-   },
-   {
     "da": "indgående",
-    "en": "in-depth"
+    "en": "detailed"
    },
    {
     "da": "gennemgribende",
@@ -6602,7 +6530,7 @@
   }
  },
  "dygtig": {
-  "explanation": "\"Dygtig\" means \"skilled\" or \"capable\". Use \"til\" (at) for the skill: \"dygtig til sprog\" (good at languages). As a short cheer, \"Dygtig!\" means \"Well done!\"",
+  "explanation": "\"Dygtig\" means \"skilled\". To name the skill, add \"til\" (at): \"dygtig til sprog\" (good at languages). To praise someone, say \"Dygtig!\" (Well done!)",
   "forms": [
    {
     "da": "en dygtig læge",
@@ -6641,7 +6569,7 @@
   }
  },
  "dynamisk": {
-  "explanation": "\"Dynamisk\" means \"dynamic\", full of energy and quick to change: \"en dynamisk by\" (a dynamic city).",
+  "explanation": "\"Dynamisk\" means \"dynamic\". It comes from the noun \"en dynamik\" (dynamics). To describe a city that keeps changing, say: \"en dynamisk by\" (a dynamic city).",
   "forms": [
    {
     "da": "en dynamisk leder",
@@ -6664,10 +6592,6 @@
    {
     "da": "energisk",
     "en": "energetic"
-   },
-   {
-    "da": "en dynamik",
-    "en": "dynamics"
    },
    {
     "da": "livlig",
@@ -6715,7 +6639,7 @@
   }
  },
  "dyrebar": {
-  "explanation": "\"Dyrebar\" means \"precious\", worth a great deal to you. It comes from \"dyr\" (expensive), but it is more about feeling or rarity than about a price: \"Tid er dyrebar\" (Time is precious).",
+  "explanation": "\"Dyrebar\" means \"precious\". It comes from the word \"dyr\" (expensive). To say that time is precious, say: \"Tid er dyrebar\" (Time is precious).",
   "forms": [
    {
     "da": "en dyrebar gave",
@@ -6754,7 +6678,7 @@
   }
  },
  "dyrevelfærd": {
-  "explanation": "\"Dyrevelfærd\" means \"animal welfare\", how well animals are kept and treated, for example on farms.",
+  "explanation": "\"Dyrevelfærd\" means \"animal welfare\". It is built from \"et dyr\" (an animal) and \"velfærd\" (welfare). To talk about farms, say: \"dyrevelfærd i landbruget\" (animal welfare in farming).",
   "forms": [
    {
     "da": "dyrevelfærd",
@@ -6789,7 +6713,7 @@
   }
  },
  "dårlig": {
-  "explanation": "\"Dårlig\" means \"bad\", and it also means \"unwell\": \"Jeg har det dårligt\" means \"I feel bad\" or \"I feel ill\". The words for \"worse\" and \"worst\" are different: \"værre\" (worse) and \"værst\" (worst).",
+  "explanation": "\"Dårlig\" means \"bad\". To say how you feel, use \"dårligt\" with \"have det\" (to feel): \"Jeg har det dårligt\" (I feel bad). \"Dårlig\" has its own words for \"worse\" and \"worst\": \"værre\" (worse) and \"værst\" (worst).",
   "forms": [
    {
     "da": "en dårlig dag",
@@ -6828,7 +6752,7 @@
   }
  },
  "dårlig til": {
-  "explanation": "\"Dårlig til\" means \"bad at\". To name a skill, say: \"Jeg er dårlig til matematik\" (I am bad at math). To say you are bad at doing something, add \"at\" before the action word: \"Jeg er dårlig til at tegne\" (I am bad at drawing).",
+  "explanation": "\"Dårlig til\" means \"bad at\". It is built from \"dårlig\" (bad) and \"til\" (at). To ask someone what they are bad at, say: \"Hvad er du dårlig til?\" (What are you bad at?)",
   "forms": [
    {
     "da": "Jeg er dårlig til at lave mad.",
@@ -6863,7 +6787,7 @@
   }
  },
  "død": {
-  "explanation": "\"Død\" means \"dead\", for anything that has lost life, such as people, animals and plants. It is also used for things that have stopped working: \"Min telefon er død\" (My phone is dead).",
+  "explanation": "\"Død\" means \"dead\". When you talk about a device that has stopped working, use it too: \"Min telefon er død\" (My phone is dead).",
   "forms": [
    {
     "da": "en død fisk",
@@ -6898,7 +6822,7 @@
   }
  },
  "dødbringende": {
-  "explanation": "\"Dødbringende\" means \"deadly\", able to cause death. It is built from død (death) and bringende (bringing): \"et dødbringende våben\" (a deadly weapon). For people who can die, use \"dødelig\" (mortal): \"Vi er alle dødelige\" (We are all mortal).",
+  "explanation": "\"Dødbringende\" means \"deadly\". It is built from \"død\" (death) and \"bringende\" (bringing). To talk about a danger, say: \"et dødbringende virus\" (a deadly virus). To say that people can die, use \"dødelig\" (mortal) instead: \"Vi er alle dødelige\" (We are all mortal).",
   "forms": [
    {
     "da": "en dødbringende sygdom",
@@ -6937,7 +6861,7 @@
   }
  },
  "dødelig": {
-  "explanation": "\"Dødelig\" means \"deadly\" when something can kill, and \"mortal\" when someone can die.",
+  "explanation": "\"Dødelig\" means \"deadly\". When you talk about something that can kill, use it: \"Svampen er dødelig\" (The mushroom is deadly). When you talk about people who can die, it means \"mortal\": \"Vi er alle dødelige\" (We are all mortal).",
   "forms": [
    {
     "da": "en dødelig sygdom",
@@ -6962,8 +6886,8 @@
     "en": "immortal"
    },
    {
-    "da": "en død",
-    "en": "a death"
+    "da": "dødbringende",
+    "en": "deadly"
    },
    {
     "da": "dræbende",
@@ -6976,7 +6900,7 @@
   }
  },
  "dødkedelig": {
-  "explanation": "\"Dødkedelig\" means \"deadly boring\", extremely dull. Danish often puts \"død-\" (dead) in front of a word to make it extreme, as in \"dødtræt\" (dead tired).",
+  "explanation": "\"Dødkedelig\" means \"deadly boring\". It is built from \"død\" (dead) and \"kedelig\" (boring). The same \"død-\" in front of another word makes it extreme, as in \"dødtræt\" (dead tired).",
   "forms": [
    {
     "da": "en dødkedelig film",
@@ -7015,7 +6939,7 @@
   }
  },
  "dødsstraf": {
-  "explanation": "\"En dødsstraf\" means \"a death penalty\", the punishment of being put to death by the state. The verb that goes with it is \"at idømme\" (to impose): \"idømme dødsstraf\" (to impose the death penalty).",
+  "explanation": "\"En dødsstraf\" means \"a death penalty\". It is built from \"en død\" (a death) and \"en straf\" (a punishment). To say a court gives it, use \"at idømme\" (to impose): \"Retten idømte ham dødsstraf\" (The court imposed the death penalty on him).",
   "forms": [
    {
     "da": "en dødsstraf",
@@ -7058,7 +6982,7 @@
   }
  },
  "dømmekraft": {
-  "explanation": "\"En dømmekraft\" means \"judgment\", the ability to weigh things up and decide wisely. It is about being sensible, not about a court: a court gives \"en dom\" (a verdict).",
+  "explanation": "\"En dømmekraft\" means \"a judgment\", as in good sense and not a court decision. It is built from \"at dømme\" (to judge) and \"kraft\" (power). To say a task needs good sense, say: \"Det kræver dømmekraft\" (It takes judgment).",
   "forms": [
    {
     "da": "en dømmekraft",
@@ -7079,16 +7003,12 @@
   ],
   "related": [
    {
-    "da": "at dømme",
-    "en": "to judge"
-   },
-   {
     "da": "en vurdering",
     "en": "an assessment"
    },
    {
     "da": "en klogskab",
-    "en": "wisdom"
+    "en": "a piece of wisdom"
    },
    {
     "da": "et skøn",
@@ -7101,7 +7021,7 @@
   }
  },
  "døv": {
-  "explanation": "\"Døv\" means \"deaf\", not able to hear. Someone who hears a little is \"hørehæmmet\" (hard of hearing).",
+  "explanation": "\"Døv\" means \"deaf\". To say someone hears a little, use \"hørehæmmet\" (hard of hearing) instead: \"Min far er hørehæmmet\" (My father is hard of hearing).",
   "forms": [
    {
     "da": "en døv mand",
@@ -7118,20 +7038,16 @@
   ],
   "related": [
    {
-    "da": "tegnsprog",
-    "en": "sign language"
-   },
-   {
     "da": "døvhed",
     "en": "deafness"
    },
    {
-    "da": "stum",
-    "en": "mute"
+    "da": "tegnsprog",
+    "en": "sign language"
    },
    {
-    "da": "blind",
-    "en": "blind"
+    "da": "tunghør",
+    "en": "hard of hearing"
    }
   ],
   "sentence": {
@@ -7140,7 +7056,7 @@
   }
  },
  "en dag": {
-  "explanation": "\"En dag\" means \"a day\", as in \"hver dag\" (every day) and \"god dag\" (hello, good day). The days of the week end in \"-dag\", for example \"mandag\" (Monday) and \"tirsdag\" (Tuesday).",
+  "explanation": "\"En dag\" means \"a day\". To say every day, use \"hver dag\" (every day). To greet someone, say \"god dag\" (hello). The names of the days of the week end in \"-dag\", such as \"mandag\" (Monday) and \"tirsdag\" (Tuesday).",
   "forms": [
    {
     "da": "en dag",
@@ -7183,7 +7099,7 @@
   }
  },
  "en dagbog": {
-  "explanation": "\"En dagbog\" means \"a diary\", a book where you write about your own days. It is built from dag (day) and bog (book). You say \"at føre dagbog\" (to keep a diary).",
+  "explanation": "\"En dagbog\" means \"a diary\". It is built from \"dag\" (day) and \"bog\" (book). To say you write a diary, use \"at føre dagbog\" (to keep a diary).",
   "forms": [
    {
     "da": "en dagbog",
@@ -7222,7 +7138,7 @@
   }
  },
  "en daglig leder": {
-  "explanation": "\"En daglig leder\" means \"a general manager\", the person who runs a company, shop or department every day. Literally, it is \"a daily leader\".",
+  "explanation": "\"En daglig leder\" means \"a general manager\". Literally, it means \"a daily leader\". To ask who runs the place, say: \"Hvem er den daglige leder?\" (Who is the general manager?)",
   "forms": [
    {
     "da": "en daglig leder",
@@ -7265,7 +7181,7 @@
   }
  },
  "en dagligvare": {
-  "explanation": "\"En dagligvare\" means \"a grocery item\", a thing you buy often for daily life, like bread or soap. It is mostly used in the plural: \"dagligvarer\" (groceries).",
+  "explanation": "\"En dagligvare\" means \"a grocery item\". It is built from \"daglig\" (daily) and \"en vare\" (a product). To talk about groceries in general, use the plural: \"Jeg køber dagligvarer\" (I buy groceries).",
   "forms": [
    {
     "da": "en dagligvare",
@@ -7308,7 +7224,7 @@
   }
  },
  "en dagplejer": {
-  "explanation": "\"En dagplejer\" means \"a home daycare provider\", a person who looks after small children in their own home during the day. Parents can choose one for the youngest children instead of \"en vuggestue\" (a daycare center for toddlers).",
+  "explanation": "\"En dagplejer\" means \"a home daycare provider\". In Denmark, parents can choose one for the youngest children instead of \"en vuggestue\" (a daycare center for toddlers): \"Vores datter går i vuggestue\" (Our daughter goes to a daycare center).",
   "forms": [
    {
     "da": "en dagplejer",
@@ -7347,7 +7263,7 @@
   }
  },
  "en dagsorden": {
-  "explanation": "\"En dagsorden\" means \"an agenda\", the list of topics for a meeting, in the order they will be taken up. It is also used for topics that society is discussing: \"noget er på dagsordenen\" (something is on the agenda).",
+  "explanation": "\"En dagsorden\" means \"an agenda\". It is built from \"dag\" (day) and \"en orden\" (an order). When you talk about topics that society is discussing, say: \"noget er på dagsordenen\" (something is on the agenda).",
   "forms": [
    {
     "da": "en dagsorden",
@@ -7386,7 +7302,7 @@
   }
  },
  "en dagsrejse": {
-  "explanation": "\"En dagsrejse\" means \"a day trip\", going out and back in one day. It is built from dag (day) and rejse (journey), and \"rejse\" is also a verb: \"at rejse\" (to travel).",
+  "explanation": "\"En dagsrejse\" means \"a day trip\". It is built from \"dag\" (day) and \"rejse\" (journey). To say where the trip goes, add \"til\" (to): \"en dagsrejse til Skagen\" (a day trip to Skagen).",
   "forms": [
    {
     "da": "en dagsrejse",
@@ -7429,7 +7345,7 @@
   }
  },
  "en dal": {
-  "explanation": "\"En dal\" means \"a valley\", low land between higher ground.",
+  "explanation": "\"En dal\" means \"a valley\". To say where a valley lies, say: \"en dal mellem bjergene\" (a valley between the mountains).",
   "forms": [
    {
     "da": "en dal",
@@ -7468,7 +7384,7 @@
   }
  },
  "en dam": {
-  "explanation": "\"En dam\" means \"a pond\", a small body of still water. A bigger one is \"en sø\" (a lake).",
+  "explanation": "\"En dam\" means \"a pond\". To talk about a larger body of water, use \"en sø\" (a lake): \"Vi svømmer i søen\" (We swim in the lake).",
   "forms": [
    {
     "da": "en dam",
@@ -7507,7 +7423,7 @@
   }
  },
  "en dame": {
-  "explanation": "\"En dame\" means \"a lady\", a polite word for a woman. You often see \"Damer\" on a restroom door, meaning the women's restroom. \"Mine damer og herrer\" means \"Ladies and gentlemen\".",
+  "explanation": "\"En dame\" means \"a lady\". To mark the women's restroom, a door says \"Damer\" (ladies). To greet an audience, say: \"Mine damer og herrer\" (Ladies and gentlemen).",
   "forms": [
    {
     "da": "en dame",
@@ -7546,7 +7462,7 @@
   }
  },
  "en dannelse": {
-  "explanation": "\"En dannelse\" means \"an education\", but in the sense of personal and cultural growth, like good manners and wide knowledge. For school or job training, use \"en uddannelse\" (a training program). It can also mean \"formation\", how something comes into being: \"dannelsen af skyer\" (the formation of clouds).",
+  "explanation": "\"En dannelse\" means \"an education\", as in good manners and wide knowledge. To talk about school or job training, use \"en uddannelse\" (a training program) instead: \"Jeg tager en uddannelse som elektriker\" (I am training as an electrician). When you talk about how something comes into being, \"dannelse\" means \"formation\": \"dannelsen af skyer\" (the formation of clouds).",
   "forms": [
    {
     "da": "en dannelse",
@@ -7589,7 +7505,7 @@
   }
  },
  "en dans": {
-  "explanation": "\"En dans\" means \"a dance\", a set of steps done to music. The action is \"at danse\" (to dance).",
+  "explanation": "\"En dans\" means \"a dance\". It comes from the verb \"at danse\" (to dance). To ask someone to dance, say: \"Må jeg få denne dans?\" (May I have this dance?)",
   "forms": [
    {
     "da": "en dans",
@@ -7628,7 +7544,7 @@
   }
  },
  "en danser": {
-  "explanation": "\"En danser\" means \"a dancer\", a person who dances, for fun or as a job.",
+  "explanation": "\"En danser\" means \"a dancer\". To say what someone does for a living, leave out \"en\": \"Hun er danser\" (She is a dancer).",
   "forms": [
    {
     "da": "en danser",
@@ -7671,7 +7587,7 @@
   }
  },
  "en dansker": {
-  "explanation": "\"En dansker\" means \"a Dane\", a person from Denmark. To state someone's nationality, Danish leaves out \"en\": \"Han er dansker\" means \"He is a Dane\".",
+  "explanation": "\"En dansker\" means \"a Dane\". To ask about someone's nationality, leave out \"en\": \"Er du dansker?\" (Are you a Dane?) For the language, use \"dansk\" (Danish): \"Jeg taler dansk\" (I speak Danish).",
   "forms": [
    {
     "da": "en dansker",
@@ -7694,10 +7610,6 @@
    {
     "da": "Danmark",
     "en": "Denmark"
-   },
-   {
-    "da": "dansk",
-    "en": "Danish"
    },
    {
     "da": "en tysker",
@@ -7753,7 +7665,7 @@
   }
  },
  "en dataanalytiker": {
-  "explanation": "\"En dataanalytiker\" means \"a data analyst\", a person who works with large amounts of data in a company or public office and turns it into advice for others.",
+  "explanation": "\"En dataanalytiker\" means \"a data analyst\". To say what your job is, leave out \"en\": \"Jeg er dataanalytiker\" (I am a data analyst).",
   "forms": [
    {
     "da": "en dataanalytiker",
@@ -7792,7 +7704,7 @@
   }
  },
  "en database": {
-  "explanation": "\"En database\" means \"a database\", a place where a company or a program keeps lots of information.",
+  "explanation": "\"En database\" means \"a database\". To say you look something up in it, say: \"Jeg søger i databasen\" (I am searching the database).",
   "forms": [
    {
     "da": "en database",
@@ -7831,7 +7743,7 @@
   }
  },
  "en date": {
-  "explanation": "\"En date\" means \"a date\", a romantic meeting between two people. It is not a date on the calendar. That is \"en dato\" (a calendar date).",
+  "explanation": "\"En date\" means \"a date\", as in a romantic meeting. The word is borrowed from English. For a date on the calendar, use \"en dato\" (a calendar date): \"Hvilken dato er det?\" (What date is it?)",
   "forms": [
    {
     "da": "en date",
@@ -7874,7 +7786,7 @@
   }
  },
  "en dato": {
-  "explanation": "\"En dato\" means \"a date\" on the calendar, such as 5 March. Do not mix it up with a romantic date, which is \"en date\" (borrowed from English).",
+  "explanation": "\"En dato\" means \"a date (calendar)\", such as 5 March. Do not mix it up with \"en date\" (a romantic meeting), which is borrowed from English: \"Hun har en date i aften\" (She has a date tonight).",
   "forms": [
    {
     "da": "en dato",
@@ -7917,7 +7829,7 @@
   }
  },
  "en datter": {
-  "explanation": "\"En datter\" means \"a daughter\", a girl or woman seen as the child of her parents. She is still \"en datter\" when she is grown up.",
+  "explanation": "\"En datter\" means \"a daughter\". To say \"my daughter\", use \"min\": \"Min datter er syv år\" (My daughter is seven years old).",
   "forms": [
    {
     "da": "en datter",
@@ -7960,7 +7872,7 @@
   }
  },
  "en deadline": {
-  "explanation": "\"En deadline\" means \"a deadline\", the last moment by which something must be finished, for work or school. \"En frist\" (a time limit) means the same here: \"Fristen er fredag\" (The deadline is Friday).",
+  "explanation": "\"En deadline\" means \"a deadline\". The word is borrowed from English. A Danish word for the same thing is \"en frist\" (a time limit): \"Fristen er fredag\" (The deadline is Friday).",
   "forms": [
    {
     "da": "en deadline",
@@ -7999,7 +7911,7 @@
   }
  },
  "en debat": {
-  "explanation": "\"En debat\" means \"a debate\", an exchange of opinions on television, in newspapers or online. It usually has some order, unlike \"et skænderi\" (a quarrel).",
+  "explanation": "\"En debat\" means \"a debate\". To say you take part in one, use \"at deltage i\" (to take part in): \"Hun deltager i debatten\" (She takes part in the debate).",
   "forms": [
    {
     "da": "en debat",
@@ -8038,7 +7950,7 @@
   }
  },
  "en debattør": {
-  "explanation": "\"En debattør\" means \"a debater\", a person who often takes part in public discussion by writing in newspapers or speaking on television. The word is built from en debat (a debate).",
+  "explanation": "\"En debattør\" means \"a debater\". It is built from \"en debat\" (a debate). To say what someone is, leave out \"en\": \"Hun er debattør\" (She is a debater).",
   "forms": [
    {
     "da": "en debattør",
@@ -8077,7 +7989,7 @@
   }
  },
  "en debut": {
-  "explanation": "\"En debut\" means \"a debut\", the first time a person shows their work or skill to the public, such as a singer's first album or a player's first match. The matching verb is \"at debutere\" (to make your debut).",
+  "explanation": "\"En debut\" means \"a debut\". The matching verb is \"at debutere\" (to make your debut): \"Hun debuterede som forfatter i 2010\" (She made her debut as a writer in 2010).",
   "forms": [
    {
     "da": "en debut",
@@ -8116,7 +8028,7 @@
   }
  },
  "en deciliter": {
-  "explanation": "\"En deciliter\" means \"a deciliter\", one tenth of a liter, often used in recipes. Danish recipes write it as \"dl\": \"2 dl mel\" (2 deciliters of flour).",
+  "explanation": "\"En deciliter\" means \"a deciliter\". In writing, it is shortened to \"dl\": \"2 dl mel\" (2 deciliters of flour).",
   "forms": [
    {
     "da": "en deciliter",
@@ -8159,7 +8071,7 @@
   }
  },
  "en definition": {
-  "explanation": "\"En definition\" means \"a definition\", an exact explanation of what a word means. After \"definition\", use \"på\" (of) and then the word being defined: \"Hvad er definitionen på frihed?\" (What is the definition of freedom?)",
+  "explanation": "\"En definition\" means \"a definition\". After \"definition\", use \"på\" (of) and then the word being defined: \"Hvad er definitionen på frihed?\" (What is the definition of freedom?)",
   "forms": [
    {
     "da": "en definition",
@@ -8202,7 +8114,7 @@
   }
  },
  "en dej": {
-  "explanation": "\"En dej\" means \"a dough\", the soft mix of flour and liquid you make before baking. You use it both for thick bread dough and for runny pancake batter.",
+  "explanation": "\"En dej\" means \"a dough\". For pancake batter, the Danish word is also \"dej\": \"pandekagedej\" (pancake batter).",
   "forms": [
    {
     "da": "en dej",
@@ -8245,7 +8157,7 @@
   }
  },
  "en dekoration": {
-  "explanation": "\"En dekoration\" means \"a decoration\", something that makes a room or a table look nicer. The action is \"at dekorere\" (to decorate).",
+  "explanation": "\"En dekoration\" means \"a decoration\". The matching verb is \"at dekorere\" (to decorate): \"Vi dekorerer stuen\" (We are decorating the living room).",
   "forms": [
    {
     "da": "en dekoration",
@@ -8288,7 +8200,7 @@
   }
  },
  "en del": {
-  "explanation": "\"En del\" means \"a part\". For an amount it means \"quite a lot\": \"Der er en del mennesker her\" (There are quite a few people here).",
+  "explanation": "\"En del\" means \"a part\". When you talk about how many people or things there are, it means \"quite a lot\": \"Der er en del mennesker her\" (There are quite a few people here).",
   "forms": [
    {
     "da": "en del",
@@ -8331,7 +8243,7 @@
   }
  },
  "en delfin": {
-  "explanation": "\"En delfin\" means \"a dolphin\", a smart sea animal that jumps out of the water.",
+  "explanation": "\"En delfin\" means \"a dolphin\". It is spelled with \"e\" and \"f\", not with \"o\" and \"ph\" as in English.",
   "forms": [
    {
     "da": "en delfin",
@@ -8370,7 +8282,7 @@
   }
  },
  "en delmængde": {
-  "explanation": "\"En delmængde\" means \"a subset\", a group whose members all also belong to a bigger group. It is used mostly in math.",
+  "explanation": "\"En delmængde\" means \"a subset\". It is built from \"del\" (part) and \"en mængde\" (a set).",
   "forms": [
    {
     "da": "en delmængde",
@@ -8391,10 +8303,6 @@
   ],
   "related": [
    {
-    "da": "en mængde",
-    "en": "a set"
-   },
-   {
     "da": "et element",
     "en": "an element"
    },
@@ -8413,7 +8321,7 @@
   }
  },
  "en deltager": {
-  "explanation": "\"En deltager\" means \"a participant\", someone who takes part in something. It comes from \"at deltage\" (to take part).",
+  "explanation": "\"En deltager\" means \"a participant\". It comes from the verb \"at deltage\" (to take part). To say which event someone took part in, use \"i\" (in) after it: \"en deltager i kurset\" (a participant in the course).",
   "forms": [
    {
     "da": "en deltager",
@@ -8456,7 +8364,7 @@
   }
  },
  "en deltagerliste": {
-  "explanation": "\"En deltagerliste\" means \"a list of participants\". It is built from en deltager (a participant) and en liste (a list), and \"liste\" is also in \"en indkøbsliste\" (a shopping list).",
+  "explanation": "\"En deltagerliste\" means \"a list of participants\". It is built from \"en deltager\" (a participant) and \"en liste\" (a list). The part \"liste\" is also in \"en indkøbsliste\" (a shopping list).",
   "forms": [
    {
     "da": "en deltagerliste",
@@ -8487,10 +8395,6 @@
    {
     "da": "en gæsteliste",
     "en": "a guest list"
-   },
-   {
-    "da": "en tilmeldingsliste",
-    "en": "a sign-up list"
    }
   ],
   "sentence": {
@@ -8499,7 +8403,7 @@
   }
  },
  "en demonstration": {
-  "explanation": "\"En demonstration\" means \"a demonstration\" in two ways: a gathering or march where people publicly show what they want, and a showing of how something works. In daily speech, it is often shortened to \"en demo\" (a demo).",
+  "explanation": "\"En demonstration\" means \"a demonstration\". When a crowd gathers or marches to show publicly what it wants, use it for the event: \"Der var en demonstration i går\" (There was a demonstration yesterday). When someone shows how a machine works, use it for the showing: \"Vi fik en demonstration af maskinen\" (We were given a demonstration of the machine).",
   "forms": [
    {
     "da": "en demonstration",
@@ -8524,12 +8428,16 @@
     "en": "a protest"
    },
    {
-    "da": "et optog",
-    "en": "a parade"
-   },
-   {
     "da": "en strejke",
     "en": "a strike"
+   },
+   {
+    "da": "at demonstrere",
+    "en": "to demonstrate"
+   },
+   {
+    "da": "et optog",
+    "en": "a parade"
    }
   ],
   "sentence": {
@@ -8538,7 +8446,7 @@
   }
  },
  "en deodorant": {
-  "explanation": "\"En deodorant\" means \"a deodorant\", something you put under your arms to stop bad smells. When you talk about using it, Danes usually leave out \"en\": \"Har du deodorant?\" (Do you have deodorant?).",
+  "explanation": "\"En deodorant\" means \"a deodorant\". To say you have or use deodorant in general, leave out \"en\": \"Har du deodorant?\" (Do you have deodorant?).",
   "forms": [
    {
     "da": "en deodorant",
@@ -8559,20 +8467,16 @@
   ],
   "related": [
    {
-    "da": "en parfume",
-    "en": "a perfume"
+    "da": "en lugt",
+    "en": "a smell"
    },
    {
-    "da": "en sæbe",
-    "en": "a soap"
+    "da": "at lugte",
+    "en": "to smell"
    },
    {
-    "da": "en tandpasta",
-    "en": "toothpaste"
-   },
-   {
-    "da": "en shampoo",
-    "en": "shampoo"
+    "da": "at svede",
+    "en": "to sweat"
    }
   ],
   "sentence": {
@@ -8581,7 +8485,7 @@
   }
  },
  "en depression": {
-  "explanation": "\"En depression\" means \"a depression\", a serious illness in which a person feels very sad, empty and without energy for weeks or longer. For a short low mood, Danes say \"nedtrykt\" (feeling down).",
+  "explanation": "\"En depression\" means \"a depression\". To describe a person who has one, use the adjective \"deprimeret\" (depressed): \"Han er deprimeret\" (He is depressed).",
   "forms": [
    {
     "da": "en depression",
@@ -8602,16 +8506,20 @@
   ],
   "related": [
    {
-    "da": "en angst",
-    "en": "anxiety"
+    "da": "at deprimere",
+    "en": "to depress"
    },
    {
-    "da": "en psykolog",
-    "en": "a psychologist"
+    "da": "ked af det",
+    "en": "sad"
    },
    {
-    "da": "en psykiater",
-    "en": "a psychiatrist"
+    "da": "glad",
+    "en": "happy"
+   },
+   {
+    "da": "en sorg",
+    "en": "a grief"
    }
   ],
   "sentence": {
@@ -8620,7 +8528,7 @@
   }
  },
  "en designer": {
-  "explanation": "\"En designer\" means \"a designer\", someone who plans how things look, such as clothes, furniture or websites.",
+  "explanation": "\"En designer\" means \"a designer\". To say what kind of designer someone is, put a word before it: \"en grafisk designer\" (a graphic designer).",
   "forms": [
    {
     "da": "en designer",
@@ -8663,7 +8571,7 @@
   }
  },
  "en dessert": {
-  "explanation": "\"En dessert\" means \"a dessert\", the sweet dish at the end of a meal. It is spelled like the English word, with two s's. Dry land with no water is \"en ørken\" (a desert).",
+  "explanation": "\"En dessert\" means \"a dessert\". To ask what the dessert will be, use \"til\" (for): \"Hvad skal vi have til dessert?\" (What are we having for dessert?). Do not mix it up with \"en ørken\" (a desert): \"Sahara er en ørken\" (The Sahara is a desert).",
   "forms": [
    {
     "da": "en dessert",
@@ -8692,8 +8600,8 @@
     "en": "a main course"
    },
    {
-    "da": "en kage",
-    "en": "a cake"
+    "da": "et måltid",
+    "en": "a meal"
    }
   ],
   "sentence": {
@@ -8702,7 +8610,7 @@
   }
  },
  "en destination": {
-  "explanation": "\"En destination\" means \"a destination\", the place a traveler is heading to.",
+  "explanation": "\"En destination\" means \"a destination\". To say you arrive there, use \"at nå\" (to reach) before it: \"Vi nåede vores destination sent om aftenen\" (We reached our destination late in the evening).",
   "forms": [
    {
     "da": "en destination",
@@ -8727,12 +8635,12 @@
     "en": "a travel destination"
    },
    {
-    "da": "en rejse",
-    "en": "a trip"
-   },
-   {
     "da": "en ankomst",
     "en": "an arrival"
+   },
+   {
+    "da": "en afrejse",
+    "en": "a departure"
    }
   ],
   "sentence": {
@@ -8741,7 +8649,7 @@
   }
  },
  "en detalje": {
-  "explanation": "\"En detalje\" means \"a detail\", a small part of something bigger. The phrase \"i detaljer\" (in detail) comes after a verb like \"at forklare\" (to explain): \"Hun forklarede alt i detaljer\" (She explained everything in detail).",
+  "explanation": "\"En detalje\" means \"a detail\". To say you do something in full detail, use \"i detaljer\" (in detail) after the verb: \"Hun forklarede alt i detaljer\" (She explained everything in detail).",
   "forms": [
    {
     "da": "en detalje",
@@ -8772,10 +8680,6 @@
    {
     "da": "en helhed",
     "en": "a whole"
-   },
-   {
-    "da": "en oplysning",
-    "en": "a piece of information"
    }
   ],
   "sentence": {
@@ -8784,7 +8688,7 @@
   }
  },
  "en detektiv": {
-  "explanation": "\"En detektiv\" means \"a detective\", a person who finds out who did a crime. A private one is \"en privatdetektiv\" (a private detective).",
+  "explanation": "\"En detektiv\" means \"a detective\". To talk about a detective who works for private clients, add \"privat\" at the start: \"en privatdetektiv\" (a private detective).",
   "forms": [
    {
     "da": "en detektiv",
@@ -8805,12 +8709,12 @@
   ],
   "related": [
    {
-    "da": "en sag",
-    "en": "a case"
-   },
-   {
     "da": "en ledetråd",
     "en": "a clue"
+   },
+   {
+    "da": "en sag",
+    "en": "a case"
    },
    {
     "da": "en betjent",
@@ -8827,7 +8731,7 @@
   }
  },
  "en detektor": {
-  "explanation": "\"En detektor\" means \"a detector\", a device that senses something and gives a signal: \"en metaldetektor\" (a metal detector). A person who solves crimes is not \"en detektor\" but \"en detektiv\" (a detective).",
+  "explanation": "\"En detektor\" means \"a detector\". To name a detector for one kind of thing, put that thing before it: \"en metaldetektor\" (a metal detector). Do not mix it up with \"en detektiv\" (a detective): \"Detektiven fandt nøglen\" (The detective found the key).",
   "forms": [
    {
     "da": "en detektor",
@@ -8858,6 +8762,10 @@
    {
     "da": "en alarm",
     "en": "an alarm"
+   },
+   {
+    "da": "at detektere",
+    "en": "to detect"
    }
   ],
   "sentence": {
@@ -8866,7 +8774,7 @@
   }
  },
  "en diagnose": {
-  "explanation": "\"En diagnose\" means \"a diagnosis\", the name a doctor gives to an illness after checking a patient, for example influenza or diabetes. To make one is \"at stille en diagnose\" (to make a diagnosis).",
+  "explanation": "\"En diagnose\" means \"a diagnosis\". To say a doctor makes one, use \"at stille\" (to put) before it: \"Lægen stillede en diagnose\" (The doctor made a diagnosis).",
   "forms": [
    {
     "da": "en diagnose",
@@ -8909,7 +8817,7 @@
   }
  },
  "en dialekt": {
-  "explanation": "\"En dialekt\" means \"a dialect\", the way people speak in one region, with its own sounds and some of its own words. Examples are \"sønderjysk\" (from South Jutland) and \"bornholmsk\" (from Bornholm).",
+  "explanation": "\"En dialekt\" means \"a dialect\". Denmark has regional dialects such as \"sønderjysk\" (the dialect of South Jutland) and \"bornholmsk\" (the dialect of Bornholm).",
   "forms": [
    {
     "da": "en dialekt",
@@ -8948,7 +8856,7 @@
   }
  },
  "en dialog": {
-  "explanation": "\"En dialog\" means \"a dialogue\", a talk between two people, as written in a book, play or film. It also describes an open exchange of views between groups, such as politicians and citizens: \"at føre en dialog\" (to hold a dialogue).",
+  "explanation": "\"En dialog\" means \"a dialogue\". English speakers should note the spelling: Danish has no \"ue\" at the end. To say two sides talk openly with each other, use \"at føre\" (to hold): \"Politikerne vil føre en dialog med borgerne\" (The politicians want to hold a dialogue with the citizens).",
   "forms": [
    {
     "da": "en dialog",
@@ -8979,6 +8887,10 @@
    {
     "da": "en replik",
     "en": "a line"
+   },
+   {
+    "da": "en diskussion",
+    "en": "a discussion"
    }
   ],
   "sentence": {
@@ -8987,7 +8899,7 @@
   }
  },
  "en diamant": {
-  "explanation": "\"En diamant\" means \"a diamond\", a clear, valuable stone used in jewelry. The diamond in playing cards is called \"ruder\" (diamonds), not \"diamant\".",
+  "explanation": "\"En diamant\" means \"a diamond\". To talk about jewelry, use the compound \"en diamantring\" (a diamond ring). In a card game, the suit is called \"ruder\" (diamonds) instead: \"Hun har ruder es\" (She has the ace of diamonds).",
   "forms": [
    {
     "da": "en diamant",
@@ -9026,7 +8938,7 @@
   }
  },
  "en diameter": {
-  "explanation": "\"En diameter\" means \"a diameter\", the distance straight across a circle, going through the middle. It is twice as long as \"en radius\" (a radius).",
+  "explanation": "\"En diameter\" means \"a diameter\". Do not mix it up with \"en radius\" (a radius), which is half as long: \"Cirklen har en radius på fem centimeter, så diameteren er ti\" (The circle has a radius of five centimeters, so the diameter is ten).",
   "forms": [
    {
     "da": "en diameter",
@@ -9065,7 +8977,7 @@
   }
  },
  "en digter": {
-  "explanation": "\"En digter\" means \"a poet\", a person who writes verse.",
+  "explanation": "\"En digter\" means \"a poet\". It comes from the verb \"at digte\" (to write poetry): \"Han digter om natten\" (He writes poetry at night).",
   "forms": [
    {
     "da": "en digter",
@@ -9090,12 +9002,12 @@
     "en": "a poem"
    },
    {
-    "da": "en forfatter",
-    "en": "an author"
+    "da": "en digtsamling",
+    "en": "a poetry collection"
    },
    {
-    "da": "at digte",
-    "en": "to write poetry"
+    "da": "en forfatter",
+    "en": "an author"
    }
   ],
   "sentence": {
@@ -9104,7 +9016,7 @@
   }
  },
  "en digtsamling": {
-  "explanation": "\"En digtsamling\" means \"a poetry collection\", a book that gathers many poems. A book with poems by several writers is instead called \"en antologi\" (an anthology).",
+  "explanation": "\"En digtsamling\" means \"a poetry collection\". It is built from \"et digt\" (a poem) and \"en samling\" (a collection). The part \"samling\" is also in \"en frimærkesamling\" (a stamp collection).",
   "forms": [
    {
     "da": "en digtsamling",
@@ -9147,7 +9059,7 @@
   }
  },
  "en diktat": {
-  "explanation": "\"En diktat\" means \"a dictation\", a text that one person says out loud while another writes it down, for example when a manager reads out a letter to a secretary.",
+  "explanation": "\"En diktat\" means \"a dictation\". It comes from the verb \"at diktere\" (to dictate): \"Chefen dikterer et brev\" (The boss dictates a letter).",
   "forms": [
    {
     "da": "en diktat",
@@ -9168,20 +9080,16 @@
   ],
   "related": [
    {
-    "da": "at diktere",
-    "en": "to dictate"
+    "da": "en diktafon",
+    "en": "a dictaphone"
    },
    {
     "da": "en oplæsning",
     "en": "a reading"
    },
    {
-    "da": "en ordliste",
-    "en": "a word list"
-   },
-   {
-    "da": "en diktafon",
-    "en": "a dictaphone"
+    "da": "en stavning",
+    "en": "a spelling"
    }
   ],
   "sentence": {
@@ -9190,7 +9098,7 @@
   }
  },
  "en diktator": {
-  "explanation": "\"En diktator\" means \"a dictator\", a ruler who holds all the power in a country. The system is called \"et diktatur\" (a dictatorship).",
+  "explanation": "\"En diktator\" means \"a dictator\". To name the kind of country he rules, use \"et diktatur\" (a dictatorship): \"Landet er et diktatur\" (The country is a dictatorship).",
   "forms": [
    {
     "da": "en diktator",
@@ -9229,7 +9137,7 @@
   }
  },
  "en dimension": {
-  "explanation": "\"En dimension\" means \"a dimension\", a direction in which you can measure something. It is also used for a side of a problem or an experience: \"Det giver sagen en ny dimension\" (That gives the matter a new dimension).",
+  "explanation": "\"En dimension\" means \"a dimension\". To talk about space, use \"i tre dimensioner\" (in three dimensions): \"et billede i tre dimensioner\" (a picture in three dimensions). To say something adds a new side to a matter, use it as well: \"Det giver sagen en ny dimension\" (That gives the matter a new dimension).",
   "forms": [
    {
     "da": "en dimension",
@@ -9268,7 +9176,7 @@
   }
  },
  "en diplomat": {
-  "explanation": "\"En diplomat\" means \"a diplomat\", a person who represents their country abroad and negotiates with other governments, often working at an embassy. It also describes a tactful person in daily life: \"Hun er en rigtig diplomat\" (She is a real diplomat).",
+  "explanation": "\"En diplomat\" means \"a diplomat\". To describe a tactful person in daily life, use it too: \"Hun er en rigtig diplomat\" (She is a real diplomat). The adjective is \"diplomatisk\" (diplomatic): \"Det var et diplomatisk svar\" (That was a diplomatic answer).",
   "forms": [
    {
     "da": "en diplomat",
@@ -9297,6 +9205,10 @@
     "en": "a consul"
    },
    {
+    "da": "en ambassade",
+    "en": "an embassy"
+   },
+   {
     "da": "en udenrigsminister",
     "en": "a foreign minister"
    }
@@ -9307,7 +9219,7 @@
   }
  },
  "en direktør": {
-  "explanation": "\"En direktør\" means \"a director\" or \"a CEO\", the top manager of a company. A person who guides a smaller team is \"en leder\" (a leader).",
+  "explanation": "\"En direktør\" means \"a director or CEO\". To say CEO precisely, add \"administrerende\" (managing): \"Hun er administrerende direktør i et stort firma\" (She is the managing director of a large company).",
   "forms": [
    {
     "da": "en direktør",
@@ -9350,7 +9262,7 @@
   }
  },
  "en dirigent": {
-  "explanation": "\"En dirigent\" means \"a conductor\", the person who leads an orchestra or a choir with movements of the arms and hands. For the person who checks tickets on a train, Danes say \"en konduktør\" (a ticket inspector).",
+  "explanation": "\"En dirigent\" means \"a conductor\". Do not mix it up with \"en konduktør\" (a ticket inspector on a train): \"Konduktøren tjekker billetterne\" (The ticket inspector checks the tickets). At a meeting, \"en dirigent\" is also the person who chairs it: \"Vi skal vælge en dirigent til generalforsamlingen\" (We need to choose a chair for the general meeting).",
   "forms": [
    {
     "da": "en dirigent",
@@ -9383,8 +9295,8 @@
     "en": "a baton"
    },
    {
-    "da": "en koncertmester",
-    "en": "a concertmaster"
+    "da": "et orkester",
+    "en": "an orchestra"
    }
   ],
   "sentence": {
@@ -9393,7 +9305,7 @@
   }
  },
  "en disharmoni": {
-  "explanation": "\"En disharmoni\" means \"a discord\", sounds that do not fit together in music, or a lack of peace between people.",
+  "explanation": "\"En disharmoni\" means \"a discord\". It is built from \"dis-\" and \"en harmoni\" (a harmony), so it is the opposite. To say that notes in music clash, use it for the sound: \"Akkorden var en disharmoni\" (The chord was a discord).",
   "forms": [
    {
     "da": "en disharmoni",
@@ -9414,10 +9326,6 @@
   ],
   "related": [
    {
-    "da": "en harmoni",
-    "en": "a harmony"
-   },
-   {
     "da": "en uenighed",
     "en": "a disagreement"
    },
@@ -9436,7 +9344,7 @@
   }
  },
  "en diskussion": {
-  "explanation": "\"En diskussion\" means \"a discussion\", people talking about a topic and sharing different opinions.",
+  "explanation": "\"En diskussion\" means \"a discussion\". It comes from the verb \"at diskutere\" (to discuss). To say what the topic is, use \"om\" (about) after it: \"en diskussion om lønnen\" (a discussion about the pay).",
   "forms": [
    {
     "da": "en diskussion",
@@ -9457,10 +9365,6 @@
   ],
   "related": [
    {
-    "da": "at diskutere",
-    "en": "to discuss"
-   },
-   {
     "da": "en debat",
     "en": "a debate"
    },
@@ -9471,6 +9375,10 @@
    {
     "da": "en samtale",
     "en": "a conversation"
+   },
+   {
+    "da": "et skænderi",
+    "en": "a quarrel"
    }
   ],
   "sentence": {
@@ -9479,7 +9387,7 @@
   }
  },
  "en diæt": {
-  "explanation": "\"En diæt\" means \"a diet\", a special way of eating for a certain time, often to get thinner or because of an illness. For the food you normally eat, Danes say \"kost\" (food habits): \"en sund kost\" (a healthy diet).",
+  "explanation": "\"En diæt\" means \"a diet\". To say you are on a diet, use \"at holde\" (to keep): \"Jeg holder diæt\" (I am on a diet). For the food you eat every day, use \"kost\" instead: \"en sund kost\" (a healthy diet).",
   "forms": [
    {
     "da": "en diæt",
@@ -9518,7 +9426,7 @@
   }
  },
  "en djævel": {
-  "explanation": "\"En djævel\" means \"a devil\", an evil being in religion and stories. In daily speech it is also used about a person: \"en stakkels djævel\" (a poor devil) is someone you feel sorry for.",
+  "explanation": "\"En djævel\" means \"a devil\". To talk about a person you feel sorry for, use the phrase \"en stakkels djævel\" (a poor devil): \"Han er en stakkels djævel\" (He is a poor devil).",
   "forms": [
    {
     "da": "en djævel",
@@ -9549,6 +9457,10 @@
    {
     "da": "et helvede",
     "en": "hell"
+   },
+   {
+    "da": "Satan",
+    "en": "Satan"
    }
   ],
   "sentence": {
@@ -9557,7 +9469,7 @@
   }
  },
  "en doktor": {
-  "explanation": "\"En doktor\" means \"a doctor\", used mostly as a title before a name: \"doktor Hansen\" (Doctor Hansen). For the person you visit when you are ill, everyday Danish mostly says \"en læge\" (a medical doctor).",
+  "explanation": "\"En doktor\" means \"a doctor\". Do not mix it up with \"en læge\" (a medical doctor): \"Jeg skal til lægen\" (I am going to the doctor).",
   "forms": [
    {
     "da": "en doktor",
@@ -9596,7 +9508,7 @@
   }
  },
  "en dokumentar": {
-  "explanation": "\"En dokumentar\" means \"a documentary\", a film about real events or real people, not a made-up story.",
+  "explanation": "\"En dokumentar\" means \"a documentary\". The full word is \"en dokumentarfilm\" (a documentary film). To say what a documentary is about, use \"om\" (about) after it: \"Jeg har set en dokumentar om vikinger\" (I have seen a documentary about the Vikings).",
   "forms": [
    {
     "da": "en dokumentar",
@@ -9635,7 +9547,7 @@
   }
  },
  "en dollar": {
-  "explanation": "\"En dollar\" means \"a dollar\", the currency used in the United States and some other countries.",
+  "explanation": "\"En dollar\" means \"a dollar\". To ask a price in this currency, use \"i dollar\" (in dollars): \"Hvad koster det i dollar?\" (What does it cost in dollars?).",
   "forms": [
    {
     "da": "en dollar",
@@ -9670,7 +9582,7 @@
   }
  },
  "en dom": {
-  "explanation": "\"En dom\" means \"a verdict\", the decision a court gives at the end of a case. It also means the punishment itself, \"a sentence\": \"Han fik en dom på tre års fængsel\" (He got a sentence of three years in prison).",
+  "explanation": "\"En dom\" means \"a verdict\". To say what punishment someone got, use it for the \"sentence\": \"Han fik en dom på tre års fængsel\" (He got a sentence of three years in prison).",
   "forms": [
    {
     "da": "en dom",
@@ -9713,7 +9625,7 @@
   }
  },
  "en dommer": {
-  "explanation": "\"En dommer\" means \"a judge\", the person who decides a case in court. In sports it also means \"a referee\": \"Dommeren blæste i fløjten\" (The referee blew the whistle).",
+  "explanation": "\"En dommer\" means \"a judge\". It comes from \"en dom\" (a verdict). To talk about the person who leads a football match, use it for the \"referee\": \"Dommeren blæste i fløjten\" (The referee blew the whistle).",
   "forms": [
    {
     "da": "en dommer",
@@ -9734,10 +9646,6 @@
   ],
   "related": [
    {
-    "da": "en dom",
-    "en": "a verdict"
-   },
-   {
     "da": "at dømme",
     "en": "to judge / convict"
    },
@@ -9748,6 +9656,10 @@
    {
     "da": "en advokat",
     "en": "a lawyer"
+   },
+   {
+    "da": "en domstol",
+    "en": "a court"
    }
   ],
   "sentence": {
@@ -9756,7 +9668,7 @@
   }
  },
  "en domstol": {
-  "explanation": "\"En domstol\" means \"a court\", the place where legal cases are decided. For a tennis or basketball court, use \"en bane\" (a court) instead.",
+  "explanation": "\"En domstol\" means \"a court\". It is built from \"en dom\" (a verdict) and \"en stol\" (a chair). For a tennis or basketball court, use \"en bane\" (a court) instead: \"Vi spiller tennis på banen\" (We play tennis on the court).",
   "forms": [
    {
     "da": "en domstol",
@@ -9799,7 +9711,7 @@
   }
  },
  "en donut": {
-  "explanation": "\"En donut\" means \"a donut\", a sweet fried pastry, often covered in icing or sugar.",
+  "explanation": "\"En donut\" means \"a donut\". To say what it comes with, use \"med\" (with): \"en donut med chokolade\" (a donut with chocolate).",
   "forms": [
    {
     "da": "en donut",
@@ -9828,12 +9740,8 @@
     "en": "a Danish pastry"
    },
    {
-    "da": "en muffin",
-    "en": "a muffin"
-   },
-   {
-    "da": "en kage",
-    "en": "a cake"
+    "da": "en berliner",
+    "en": "a filled doughnut"
    }
   ],
   "sentence": {
@@ -9842,7 +9750,7 @@
   }
  },
  "en dosis": {
-  "explanation": "\"En dosis\" means \"a dose\", the amount of a medicine or other substance that you take at one time. It is also used for any measured amount: \"en dosis humor\" (a dose of humor).",
+  "explanation": "\"En dosis\" means \"a dose\". To say how much of a medicine, put \"af\" (of) and the name after it: \"en dosis medicin\" (a dose of medicine). To say a small amount of something else, use it too: \"en dosis humor\" (a dose of humor).",
   "forms": [
    {
     "da": "en dosis",
@@ -9885,7 +9793,7 @@
   }
  },
  "en drage": {
-  "explanation": "\"En drage\" means \"a dragon\": \"Dragen spyr ild\" (The dragon breathes fire). It also means \"a kite\" that you fly in the wind: \"Jeg har en rød drage\" (I have a red kite).",
+  "explanation": "\"En drage\" means \"a dragon or kite\". When you talk about the fire-breathing creature in fairy tales, use it for the dragon: \"Dragen spyr ild\" (The dragon breathes fire). When you talk about a toy flown outdoors on a string, use it for the kite: \"Jeg har en rød drage\" (I have a red kite).",
   "forms": [
    {
     "da": "en drage",
@@ -9924,7 +9832,7 @@
   }
  },
  "en dragt": {
-  "explanation": "\"En dragt\" means \"a suit\" or \"a costume\", a set of matching clothes. You can tell which one it is from the context of the sentence: \"en dragt til mødet\" (a suit for the meeting), \"en heksedragt\" (a witch costume).",
+  "explanation": "\"En dragt\" means \"a suit or costume\". When you talk about clothes for an important occasion, use it for the suit: \"Hun tog en mørk dragt på\" (She put on a dark suit). When you talk about dressing up as a character, use it for the costume: \"en heksedragt\" (a witch costume).",
   "forms": [
    {
     "da": "en dragt",
@@ -9949,12 +9857,12 @@
     "en": "a national dress"
    },
    {
-    "da": "en dragtjakke",
-    "en": "a blazer"
-   },
-   {
     "da": "en uniform",
     "en": "a uniform"
+   },
+   {
+    "da": "et jakkesæt",
+    "en": "a suit"
    }
   ],
   "sentence": {
@@ -9963,7 +9871,7 @@
   }
  },
  "en dreng": {
-  "explanation": "\"En dreng\" means \"a boy\", a young male child. For a young adult, say \"en ung mand\" (a young man).",
+  "explanation": "\"En dreng\" means \"a boy\". The part \"dreng\" is also in \"en drengestreg\" (a boyish prank).",
   "forms": [
    {
     "da": "en dreng",
@@ -10002,7 +9910,7 @@
   }
  },
  "en drik": {
-  "explanation": "\"En drik\" means \"a drink\", from \"at drikke\" (to drink). In everyday speech, people usually name the drink itself, like \"en kaffe\" (a coffee) or \"en øl\" (a beer).",
+  "explanation": "\"En drik\" means \"a drink\". It comes from the verb \"at drikke\" (to drink). Do not mix it up with \"en drink\" (a cocktail): \"Hun bestiller en drink i baren\" (She orders a cocktail at the bar).",
   "forms": [
    {
     "da": "en drik",
@@ -10041,7 +9949,7 @@
   }
  },
  "en drink": {
-  "explanation": "\"En drink\" means \"a drink\", but only a mixed one like a cocktail: \"Vil du have en drink?\" (Would you like a cocktail?) For any other drink, say \"noget at drikke\" (something to drink).",
+  "explanation": "\"En drink\" means \"a drink (cocktail)\": \"Vil du have en drink?\" (Would you like a cocktail?) For a drink of any other kind, say \"noget at drikke\" (something to drink): \"Vil du have noget at drikke?\" (Would you like something to drink?).",
   "forms": [
    {
     "da": "en drink",
@@ -10066,16 +9974,12 @@
     "en": "a shot"
    },
    {
-    "da": "en øl",
-    "en": "a beer"
-   },
-   {
     "da": "en gin og tonic",
     "en": "a gin and tonic"
    },
    {
-    "da": "et glas vin",
-    "en": "a glass of wine"
+    "da": "en drikkevare",
+    "en": "a beverage"
    }
   ],
   "sentence": {
@@ -10084,7 +9988,7 @@
   }
  },
  "en drivhuseffekt": {
-  "explanation": "\"En drivhuseffekt\" means \"a greenhouse effect\", the way gases in the air hold heat near the Earth. It is used only for the planet; the glass building for plants is \"et drivhus\" (a greenhouse).",
+  "explanation": "\"En drivhuseffekt\" means \"a greenhouse effect\". It is built from \"et drivhus\" (a greenhouse) and \"en effekt\" (an effect). The part \"drivhus\" is also in \"drivhusgasser\" (greenhouse gases).",
   "forms": [
    {
     "da": "en drivhuseffekt",
@@ -10127,7 +10031,7 @@
   }
  },
  "en drivkraft": {
-  "explanation": "\"En drivkraft\" means \"a driving force\", something that pushes a person or a change forward, such as hope or money. It can also be a person: \"Hun er drivkraften bag projektet\" (She is the driving force behind the project).",
+  "explanation": "\"En drivkraft\" means \"a driving force\". It is built from \"driv-\" (drive) and \"en kraft\" (a force). To say a person pushes a project forward, use it for that person: \"Hun er drivkraften bag projektet\" (She is the driving force behind the project).",
   "forms": [
    {
     "da": "en drivkraft",
@@ -10170,7 +10074,7 @@
   }
  },
  "en dronning": {
-  "explanation": "\"En dronning\" means \"a queen\". She is a woman who rules on her own, or the female partner of \"en konge\" (a king).",
+  "explanation": "\"En dronning\" means \"a queen\". Before a name it works as a title: \"dronning Margrethe\" (Queen Margrethe).",
   "forms": [
    {
     "da": "en dronning",
@@ -10201,6 +10105,10 @@
    {
     "da": "en kejserinde",
     "en": "an empress"
+   },
+   {
+    "da": "en konge",
+    "en": "a king"
    }
   ],
   "sentence": {
@@ -10209,7 +10117,7 @@
   }
  },
  "en dråbe": {
-  "explanation": "\"En dråbe\" means \"a drop\", one small round bit of liquid. It also means a very small amount: \"Der er ikke en dråbe mælk tilbage\" (There is not a drop of milk left).",
+  "explanation": "\"En dråbe\" means \"a drop\". To say there is none of something left, use it for a tiny amount: \"Der er ikke en dråbe mælk tilbage\" (There is not a drop of milk left). The phrase \"en dråbe i havet\" (a drop in the ocean) also exists: \"Det er kun en dråbe i havet\" (It is only a drop in the ocean).",
   "forms": [
    {
     "da": "en dråbe",
@@ -10252,7 +10160,7 @@
   }
  },
  "en drøm": {
-  "explanation": "\"En drøm\" means \"a dream\", both while you sleep and as a wish. For sleep: \"Jeg havde en mærkelig drøm i nat\" (I had a strange dream last night). For a wish: \"Hendes drøm er at rejse jorden rundt\" (Her dream is to travel around the world).",
+  "explanation": "\"En drøm\" means \"a dream\". When you talk about what you see while you sleep, use it for the dream: \"Jeg havde en mærkelig drøm i nat\" (I had a strange dream last night). When you talk about what you wish for in life, use it for the wish: \"Hendes drøm er at rejse jorden rundt\" (Her dream is to travel around the world).",
   "forms": [
    {
     "da": "en drøm",
@@ -10295,7 +10203,7 @@
   }
  },
  "en due": {
-  "explanation": "\"En due\" means \"a pigeon\" and also \"a dove\", a bird. The gray city bird is usually a pigeon. A white dove as a symbol of peace is \"en fredsdue\" (a peace dove).",
+  "explanation": "\"En due\" means \"a pigeon or dove\". To talk about the white bird that stands for peace, use \"en fredsdue\" (a peace dove): \"Fredsduen er hvid\" (The peace dove is white).",
   "forms": [
    {
     "da": "en due",
@@ -10316,20 +10224,16 @@
   ],
   "related": [
    {
-    "da": "en spurv",
-    "en": "a sparrow"
-   },
-   {
     "da": "en ringdue",
     "en": "a wood pigeon"
    },
    {
-    "da": "en måge",
-    "en": "a seagull"
+    "da": "en turteldue",
+    "en": "a turtle dove"
    },
    {
-    "da": "en ørn",
-    "en": "an eagle"
+    "da": "et dueslag",
+    "en": "a pigeon loft"
    }
   ],
   "sentence": {
@@ -10338,7 +10242,7 @@
   }
  },
  "en duft": {
-  "explanation": "\"En duft\" means \"a scent\" or \"a fragrance\", usually a pleasant smell. For a bad smell, say \"lugt\" (smell): \"Der er dårlig lugt her\" (There is a bad smell here).",
+  "explanation": "\"En duft\" means \"a scent\". Do not mix it up with \"en lugt\" (a smell), which can be bad: \"Der er dårlig lugt her\" (There is a bad smell here).",
   "forms": [
    {
     "da": "en duft",
@@ -10367,7 +10271,7 @@
     "en": "a perfume"
    },
    {
-    "da": "et aroma",
+    "da": "en aroma",
     "en": "an aroma"
    }
   ],
@@ -10377,7 +10281,7 @@
   }
  },
  "en dug": {
-  "explanation": "\"En dug\" means \"a tablecloth\", the cloth you spread over a table. It also means \"dew\", the water on grass in the morning: \"Græsset er vådt af dug\" (The grass is wet with dew).",
+  "explanation": "\"En dug\" means \"a tablecloth\". To talk about the water that forms on grass in the morning, use the same word for dew: \"Græsset er vådt af dug\" (The grass is wet with dew).",
   "forms": [
    {
     "da": "en dug",
@@ -10416,7 +10320,7 @@
   }
  },
  "en dukke": {
-  "explanation": "\"En dukke\" means \"a doll\", a toy for children. It also means \"a puppet\" in a show: \"et dukketeater\" (a puppet theater).",
+  "explanation": "\"En dukke\" means \"a doll\". To talk about a puppet, use the same word, as in \"et dukketeater\" (a puppet theater): \"Børnene ser et dukketeater\" (The children watch a puppet theater).",
   "forms": [
    {
     "da": "en dukke",
@@ -10455,7 +10359,7 @@
   }
  },
  "en dusør": {
-  "explanation": "\"En dusør\" means \"a reward\" or \"a bounty\", money offered to anyone who helps find a lost thing or a wanted person. A general reward for good work is \"en belønning\" (a reward for effort).",
+  "explanation": "\"En dusør\" means \"a reward\", as in money offered to whoever finds a lost thing or a wanted person. To say someone offers one, use \"at udlove\" (to offer publicly): \"Politiet udlover en dusør\" (The police offer a reward). Do not mix it up with \"en belønning\" (a reward for effort): \"Hun fik en belønning for sit arbejde\" (She got a reward for her work).",
   "forms": [
    {
     "da": "en dusør",
@@ -10476,16 +10380,16 @@
   ],
   "related": [
    {
-    "da": "at udlove",
-    "en": "to offer publicly"
-   },
-   {
     "da": "en efterlysning",
     "en": "a missing notice"
    },
    {
     "da": "en dusørjæger",
     "en": "a bounty hunter"
+   },
+   {
+    "da": "at efterlyse",
+    "en": "to put out a search notice"
    }
   ],
   "sentence": {
@@ -10494,7 +10398,7 @@
   }
  },
  "en dværg": {
-  "explanation": "\"En dværg\" means \"a dwarf\", a small creature from fairy tales and legends. In front of an animal's name, \"dværg-\" means a small kind: \"en dværgkanin\" (a dwarf rabbit).",
+  "explanation": "\"En dværg\" means \"a dwarf\". Before an animal's name, \"dværg-\" means a small kind: \"en dværgkanin\" (a dwarf rabbit).",
   "forms": [
    {
     "da": "en dværg",
@@ -10537,7 +10441,7 @@
   }
  },
  "en dybde": {
-  "explanation": "\"En dybde\" means \"a depth\", how far down something goes. For how far up something goes, use \"en højde\" (a height).",
+  "explanation": "\"En dybde\" means \"a depth\". To talk about how far up something goes, use \"en højde\" (a height) instead: \"Træet har en højde på ti meter\" (The tree has a height of ten meters).",
   "forms": [
    {
     "da": "en dybde",
@@ -10580,7 +10484,7 @@
   }
  },
  "en dyne": {
-  "explanation": "\"En dyne\" means \"a duvet\", the thick filled cover on a bed. You sleep under \"en dyne\", while \"et tæppe\" (a blanket) is what you put over yourself on the sofa.",
+  "explanation": "\"En dyne\" means \"a duvet\". To talk about the cover you put on it, use \"et dynebetræk\" (a duvet cover): \"Jeg skifter dynebetræk\" (I am changing the duvet cover). Do not mix it up with \"et tæppe\" (a blanket): \"Jeg lægger et tæppe over mig i sofaen\" (I put a blanket over myself on the sofa).",
   "forms": [
    {
     "da": "en dyne",
@@ -10619,7 +10523,7 @@
   }
  },
  "en dyreart": {
-  "explanation": "\"En dyreart\" means \"an animal species\", one particular sort of animal, such as the red fox. The general word \"en art\" (a species) also works for plants.",
+  "explanation": "\"En dyreart\" means \"an animal species\". It is built from \"et dyr\" (an animal) and \"en art\" (a species). To talk about plants, use \"en plantart\" (a plant species) instead.",
   "forms": [
    {
     "da": "en dyreart",
@@ -10644,10 +10548,6 @@
     "en": "a breed"
    },
    {
-    "da": "en plantart",
-    "en": "a plant species"
-   },
-   {
     "da": "en underart",
     "en": "a subspecies"
    },
@@ -10662,7 +10562,7 @@
   }
  },
  "en dyrehandel": {
-  "explanation": "\"En dyrehandel\" means \"a pet shop\", where you buy small animals such as hamsters and fish, and also food for them.",
+  "explanation": "\"En dyrehandel\" means \"a pet shop\". It is built from \"et dyr\" (an animal) and \"en handel\" (a trade). The part \"handel\" is also in \"en tøjhandel\" (a clothing shop).",
   "forms": [
    {
     "da": "en dyrehandel",
@@ -10705,7 +10605,7 @@
   }
  },
  "en dyreven": {
-  "explanation": "\"En dyreven\" means \"an animal lover\". It is built from dyr (animal) and ven (friend), so it is literally an animal friend, and \"dyr\" also appears in \"et dyreliv\" (wildlife).",
+  "explanation": "\"En dyreven\" means \"an animal lover\". It is built from \"et dyr\" (an animal) and \"en ven\" (a friend), so literally it is \"an animal friend\". The part \"dyr\" is also in \"et dyreliv\" (wildlife).",
   "forms": [
    {
     "da": "en dyreven",
@@ -10744,7 +10644,7 @@
   }
  },
  "en dyrlæge": {
-  "explanation": "\"En dyrlæge\" means \"a veterinarian\". It is built from dyr (animal) and læge (doctor), so it is a doctor for animals. \"Læge\" also appears in \"en øjenlæge\" (an eye doctor) and \"en børnelæge\" (a children's doctor).",
+  "explanation": "\"En dyrlæge\" means \"a veterinarian\". It is built from \"et dyr\" (an animal) and \"en læge\" (a doctor). The part \"læge\" is also in \"en øjenlæge\" (an eye doctor) and \"en børnelæge\" (a children's doctor). To say you take a pet to the vet, use \"til\" (to): \"Jeg skal med katten til dyrlægen\" (I am taking the cat to the vet).",
   "forms": [
    {
     "da": "en dyrlæge",
@@ -10783,7 +10683,7 @@
   }
  },
  "en dåse": {
-  "explanation": "\"En dåse\" means \"a can\" made of metal: \"en dåse tomater\" (a can of tomatoes). For a glass jar, use \"et glas\" (a jar): \"et glas marmelade\" (a jar of jam).",
+  "explanation": "\"En dåse\" means \"a can\". To say what is inside, put the food right after it: \"en dåse tomater\" (a can of tomatoes). Do not mix it up with \"et glas\" (a glass jar): \"et glas marmelade\" (a jar of jam).",
   "forms": [
    {
     "da": "en dåse",
@@ -10826,7 +10726,7 @@
   }
  },
  "en dåseåbner": {
-  "explanation": "\"En dåseåbner\" means \"a can opener\", a kitchen tool for cans. It is built from dåse (can) and åbner (opener), and \"dåse\" is also in \"en dåseøl\" (a beer in a can).",
+  "explanation": "\"En dåseåbner\" means \"a can opener\". It is built from \"en dåse\" (a can) and \"at åbne\" (to open). The part \"dåse\" is also in \"en dåseøl\" (a canned beer).",
   "forms": [
    {
     "da": "en dåseåbner",
@@ -10855,8 +10755,8 @@
     "en": "a corkscrew"
    },
    {
-    "da": "at åbne",
-    "en": "to open"
+    "da": "en konserves",
+    "en": "canned food"
    }
   ],
   "sentence": {
@@ -10865,7 +10765,7 @@
   }
  },
  "en dækning": {
-  "explanation": "\"En dækning\" means \"coverage\" or \"cover\", how far something reaches or shields. With a phone it is how good your connection is. With insurance it is what the policy pays for. In \"gå i dækning\" (take cover) it is a place to hide.",
+  "explanation": "\"En dækning\" means \"a cover or coverage\". To say an insurance policy pays for something, use it for the coverage: \"Forsikringen giver dækning ved tyveri\" (The insurance gives coverage in case of theft). To say people hide from danger, use \"at gå i dækning\" (to take cover): \"Alle gik i dækning\" (Everyone took cover).",
   "forms": [
    {
     "da": "en dækning",
@@ -10894,12 +10794,12 @@
     "en": "a shelter"
    },
    {
-    "da": "et signal",
-    "en": "a signal"
-   },
-   {
     "da": "en beskyttelse",
     "en": "a protection"
+   },
+   {
+    "da": "en forsikring",
+    "en": "an insurance"
    }
   ],
   "sentence": {
@@ -10908,7 +10808,7 @@
   }
  },
  "en dæmon": {
-  "explanation": "\"En dæmon\" means \"a demon\", an evil being in religion and stories. In everyday speech, \"indre dæmoner\" (inner demons) are fears or bad habits that a person struggles with.",
+  "explanation": "\"En dæmon\" means \"a demon\". To talk about fears or bad habits a person struggles with, use \"indre dæmoner\" (inner demons): \"Han kæmper med sine indre dæmoner\" (He is fighting his inner demons).",
   "forms": [
    {
     "da": "en dæmon",
@@ -10951,7 +10851,7 @@
   }
  },
  "en dør": {
-  "explanation": "\"En dør\" means \"a door\". Do not mix it up with \"dør\" as a form of \"at dø\" (to die): \"Han dør\" means \"He dies\".",
+  "explanation": "\"En dør\" means \"a door\": \"Jeg lukker døren\" (I close the door). Do not mix it up with the verb form \"dør\" of \"at dø\" (to die): \"Blomsten dør\" (The flower dies).",
   "forms": [
    {
     "da": "en dør",
@@ -10990,7 +10890,7 @@
   }
  },
  "en dørkarm": {
-  "explanation": "\"En dørkarm\" means \"a door frame\", the frame around a door opening. It is dør (door) plus karm (frame), and \"dør\" also appears in \"en dørklokke\" (a doorbell) and \"en dørmåtte\" (a doormat).",
+  "explanation": "\"En dørkarm\" means \"a door frame\". It is built from \"en dør\" (a door) and \"en karm\" (a frame). The part \"dør\" is also in \"en dørklokke\" (a doorbell) and \"en dørmåtte\" (a doormat).",
   "forms": [
    {
     "da": "en dørkarm",
@@ -11029,7 +10929,7 @@
   }
  },
  "en dørklokke": {
-  "explanation": "\"En dørklokke\" means \"a doorbell\", the bell or button visitors use to tell you they are at the door. It is built from dør (door) and klokke (bell). \"Klokke\" also means \"clock\": \"Hvad er klokken?\" (What time is it?)",
+  "explanation": "\"En dørklokke\" means \"a doorbell\". It is built from \"en dør\" (a door) and \"en klokke\" (a bell). The part \"klokke\" is also in \"en kirkeklokke\" (a church bell). To say someone rings it, use \"at ringe på\" (to ring): \"Hun ringer på dørklokken\" (She rings the doorbell).",
   "forms": [
    {
     "da": "en dørklokke",
@@ -11058,12 +10958,8 @@
     "en": "an intercom"
    },
    {
-    "da": "en dørmåtte",
-    "en": "a doormat"
-   },
-   {
-    "da": "et dørhåndtag",
-    "en": "a door handle"
+    "da": "at banke på",
+    "en": "to knock"
    }
   ],
   "sentence": {
@@ -11072,7 +10968,7 @@
   }
  },
  "en dørmåtte": {
-  "explanation": "\"En dørmåtte\" means \"a doormat\", the mat you wipe your shoes on. It is built from dør (door) and måtte (mat), which also appears in \"en yogamåtte\" (a yoga mat).",
+  "explanation": "\"En dørmåtte\" means \"a doormat\". It is built from \"en dør\" (a door) and \"en måtte\" (a mat). The part \"måtte\" is also in \"en yogamåtte\" (a yoga mat).",
   "forms": [
    {
     "da": "en dørmåtte",
@@ -11103,10 +10999,6 @@
    {
     "da": "en entré",
     "en": "an entryway"
-   },
-   {
-    "da": "en skoreol",
-    "en": "a shoe rack"
    }
   ],
   "sentence": {
@@ -11115,7 +11007,7 @@
   }
  },
  "et daggry": {
-  "explanation": "\"Et daggry\" means \"a dawn\", the first light in the sky before the sun comes up.",
+  "explanation": "\"Et daggry\" means \"a dawn\". To talk about the moment the sun comes up, use \"en solopgang\" (a sunrise) instead: \"Vi så solopgangen på stranden\" (We watched the sunrise on the beach).",
   "forms": [
    {
     "da": "et daggry",
@@ -11136,10 +11028,6 @@
   ],
   "related": [
    {
-    "da": "en solopgang",
-    "en": "a sunrise"
-   },
-   {
     "da": "en morgen",
     "en": "a morning"
    },
@@ -11158,7 +11046,7 @@
   }
  },
  "et dankort": {
-  "explanation": "\"Et dankort\" means \"a Dankort\", the Danish debit card. To ask if a store takes it, say \"Kan jeg betale med dankort?\" (Can I pay by Dankort?). Danish leaves out \"et\" (a) after \"med\" (with), so it is literally \"with Dankort\".",
+  "explanation": "\"Et dankort\" means \"a Dankort\", the Danish debit card. To ask if you can pay with it, say: \"Kan jeg betale med dankort?\" (Can I pay by Dankort?). After \"med\" (with), Danish leaves out \"et\".",
   "forms": [
    {
     "da": "et dankort",
@@ -11179,16 +11067,16 @@
   ],
   "related": [
    {
-    "da": "et kort",
-    "en": "a card"
-   },
-   {
     "da": "et kreditkort",
     "en": "a credit card"
    },
    {
     "da": "kontanter",
     "en": "cash"
+   },
+   {
+    "da": "MobilePay",
+    "en": "MobilePay"
    }
   ],
   "sentence": {
@@ -11197,7 +11085,7 @@
   }
  },
  "et danskkursus": {
-  "explanation": "\"Et danskkursus\" means \"a Danish course\". It is built from dansk (Danish) and kursus (course). The ending \"kursus\" is also in \"et førstehjælpskursus\" (a first aid course).",
+  "explanation": "\"Et danskkursus\" means \"a Danish course\". It is built from \"dansk\" (Danish) and \"et kursus\" (a course). The part \"kursus\" is also in \"et førstehjælpskursus\" (a first aid course).",
   "forms": [
    {
     "da": "et danskkursus",
@@ -11240,7 +11128,7 @@
   }
  },
  "et decimaltal": {
-  "explanation": "\"Et decimaltal\" means \"a decimal number\", a number with digits after the comma. Danes write a comma where English uses a point: \"2,5\" is 2.5.",
+  "explanation": "\"Et decimaltal\" means \"a decimal number\". It is built from \"decimal\" and \"et tal\" (a number). Danish writes a comma where English writes a point, so \"2,5\" is read \"to komma fem\" (two point five).",
   "forms": [
    {
     "da": "et decimaltal",
@@ -11269,10 +11157,6 @@
     "en": "a fraction"
    },
    {
-    "da": "et tal",
-    "en": "a number"
-   },
-   {
     "da": "et ciffer",
     "en": "a digit"
    }
@@ -11283,7 +11167,7 @@
   }
  },
  "et demokrati": {
-  "explanation": "\"Et demokrati\" means \"a democracy\", a country or system where the people decide who governs the country.",
+  "explanation": "\"Et demokrati\" means \"a democracy\". To describe a country with this system, use the adjective \"demokratisk\" (democratic): \"Det er et demokratisk land\" (It is a democratic country).",
   "forms": [
    {
     "da": "et demokrati",
@@ -11304,10 +11188,6 @@
   ],
   "related": [
    {
-    "da": "demokratisk",
-    "en": "democratic"
-   },
-   {
     "da": "et diktatur",
     "en": "a dictatorship"
    },
@@ -11326,7 +11206,7 @@
   }
  },
  "et depositum": {
-  "explanation": "\"Et depositum\" means \"a deposit\", money you pay up front when you move into a rental home, and get back when you move out if nothing is damaged.",
+  "explanation": "\"Et depositum\" means \"a deposit\", as in the money a landlord holds when you rent a home. To say you get it back, use \"at få tilbage\" (to get back): \"Jeg får mit depositum tilbage\" (I get my deposit back).",
   "forms": [
    {
     "da": "et depositum",
@@ -11347,10 +11227,6 @@
   ],
   "related": [
    {
-    "da": "et forskud",
-    "en": "an advance payment"
-   },
-   {
     "da": "en husleje",
     "en": "rent"
    },
@@ -11361,6 +11237,10 @@
    {
     "da": "en kaution",
     "en": "a security deposit"
+   },
+   {
+    "da": "et forskud",
+    "en": "an advance payment"
    }
   ],
   "sentence": {
@@ -11369,7 +11249,7 @@
   }
  },
  "et diagram": {
-  "explanation": "\"Et diagram\" means \"a chart\" or \"a diagram\", a picture that shows numbers or how something works.",
+  "explanation": "\"Et diagram\" means \"a chart\". It also means \"a diagram\" in English: \"Diagrammet viser, hvordan en motor virker\" (The diagram shows how an engine works).",
   "forms": [
    {
     "da": "et diagram",
@@ -11412,7 +11292,7 @@
   }
  },
  "et digt": {
-  "explanation": "\"Et digt\" means \"a poem\", a short text written in lines. The person who writes it is \"en digter\" (a poet).",
+  "explanation": "\"Et digt\" means \"a poem\". It comes from the verb \"at digte\" (to write poetry). To say you write one, use \"at skrive\" (to write): \"Hun skriver et digt til sin mor\" (She writes a poem for her mother).",
   "forms": [
    {
     "da": "et digt",
@@ -11433,16 +11313,20 @@
   ],
   "related": [
    {
-    "da": "at digte",
-    "en": "to write poetry"
-   },
-   {
     "da": "et rim",
     "en": "a rhyme"
    },
    {
     "da": "en digtsamling",
     "en": "a collection of poems"
+   },
+   {
+    "da": "en digter",
+    "en": "a poet"
+   },
+   {
+    "da": "et vers",
+    "en": "a verse"
    }
   ],
   "sentence": {
@@ -11451,7 +11335,7 @@
   }
  },
  "et diktatur": {
-  "explanation": "\"Et diktatur\" means \"a dictatorship\", a country where one person or a small group controls everything and the people cannot vote them out.",
+  "explanation": "\"Et diktatur\" means \"a dictatorship\". To say where people live, use \"at leve i\" (to live in): \"Mange mennesker lever i et diktatur\" (Many people live in a dictatorship).",
   "forms": [
    {
     "da": "et diktatur",
@@ -11494,7 +11378,7 @@
   }
  },
  "et diplom": {
-  "explanation": "\"Et diplom\" means \"a diploma\", an official paper showing you have finished a course or a study. It also means a small certificate for taking part in something: \"et diplom for deltagelse\" (a certificate for taking part).",
+  "explanation": "\"Et diplom\" means \"a diploma\". To talk about a small certificate for taking part in something, use \"et diplom for deltagelse\" (a certificate for taking part): \"Alle børn fik et diplom for deltagelse\" (All the children got a certificate for taking part).",
   "forms": [
    {
     "da": "et diplom",
@@ -11537,7 +11421,7 @@
   }
  },
  "et distrikt": {
-  "explanation": "\"Et distrikt\" means \"a district\", a part of a country or city treated as one unit, for example by the police or in elections.",
+  "explanation": "\"Et distrikt\" means \"a district\". To talk about the area a school covers, use \"et skoledistrikt\" (a school district): \"Vi bor i samme skoledistrikt\" (We live in the same school district).",
   "forms": [
    {
     "da": "et distrikt",
@@ -11580,7 +11464,7 @@
   }
  },
  "et dobbeltværelse": {
-  "explanation": "\"Et dobbeltværelse\" means \"a double room\", a hotel room for two people. It is made of dobbelt (double) and et værelse (a room).",
+  "explanation": "\"Et dobbeltværelse\" means \"a double room\". It is built from \"dobbelt\" (double) and \"et værelse\" (a room). To book one, say how long you stay with \"til\" (for): \"Jeg vil gerne booke et dobbeltværelse til to nætter\" (I would like to book a double room for two nights).",
   "forms": [
    {
     "da": "et dobbeltværelse",
@@ -11619,7 +11503,7 @@
   }
  },
  "et dokument": {
-  "explanation": "\"Et dokument\" means \"a document\", a paper or a file on a computer, such as a contract or a certificate.",
+  "explanation": "\"Et dokument\" means \"a document\". To tell someone to save one on the computer, use \"at gemme\" (to save): \"Husk at gemme dokumentet\" (Remember to save the document).",
   "forms": [
    {
     "da": "et dokument",
@@ -11662,7 +11546,7 @@
   }
  },
  "et download": {
-  "explanation": "\"Et download\" means \"a download\", a file you copy from the internet to your device. The action is \"at downloade\" (to download).",
+  "explanation": "\"Et download\" means \"a download\". It comes from the English word. The action is \"at downloade\" (to download): \"Jeg downloader filen\" (I am downloading the file).",
   "forms": [
    {
     "da": "et download",
@@ -11705,7 +11589,7 @@
   }
  },
  "et drab": {
-  "explanation": "\"Et drab\" means \"a killing\" or \"a homicide\", the act of one person taking another person's life. You read it in the news: \"Avisen skriver om et drab i Aarhus\" (The paper writes about a killing in Aarhus).",
+  "explanation": "\"Et drab\" means \"a killing\". To say what a news story is about, use \"om\" (about) after the verb: \"Avisen skriver om et drab i Aarhus\" (The paper writes about a killing in Aarhus).",
   "forms": [
    {
     "da": "et drab",
@@ -11748,7 +11632,7 @@
   }
  },
  "et drama": {
-  "explanation": "\"Et drama\" means \"a drama\", a serious story told on stage or screen about conflict between people. It is also used for real-life fuss: \"Hvorfor al det drama?\" (Why all the drama?).",
+  "explanation": "\"Et drama\" means \"a drama\". To say someone makes a big fuss over little, use it for the fuss: \"Hvorfor al det drama?\" (Why all the drama?).",
   "forms": [
    {
     "da": "et drama",
@@ -11781,8 +11665,8 @@
     "en": "a comedy"
    },
    {
-    "da": "en film",
-    "en": "a movie"
+    "da": "dramatisk",
+    "en": "dramatic"
    }
   ],
   "sentence": {
@@ -11791,7 +11675,7 @@
   }
  },
  "et drivhus": {
-  "explanation": "\"Et drivhus\" means \"a greenhouse\", a glass building where plants grow warm and fast. The same word is used for the climate: \"drivhuseffekten\" (the greenhouse effect).",
+  "explanation": "\"Et drivhus\" means \"a greenhouse\". To say what you grow there, use \"at dyrke\" (to grow): \"Vi dyrker agurker i drivhus\" (We grow cucumbers in a greenhouse). The part \"drivhus\" is also in \"drivhuseffekten\" (the greenhouse effect) and \"drivhusgasser\" (greenhouse gases).",
   "forms": [
    {
     "da": "et drivhus",
@@ -11834,7 +11718,7 @@
   }
  },
  "et drømmejob": {
-  "explanation": "\"Et drømmejob\" means \"a dream job\", the work you would most like to have. It is built from en drøm (a dream) and et job (a job). \"Drøm\" means both a night dream and a hope; here it is the hope.",
+  "explanation": "\"Et drømmejob\" means \"a dream job\". It is built from \"en drøm\" (a dream) and \"et job\" (a job). Here \"drøm\" means a wish, not a dream you have while you sleep: \"Hendes drøm er at blive kok\" (Her dream is to become a cook).",
   "forms": [
    {
     "da": "et drømmejob",
@@ -11877,7 +11761,7 @@
   }
  },
  "et dukketeater": {
-  "explanation": "\"Et dukketeater\" means \"a puppet theater\", a small stage where puppets act out a story, often for kids.",
+  "explanation": "\"Et dukketeater\" means \"a puppet theater\". It is built from \"en dukke\" (a puppet or doll) and \"et teater\" (a theater). The part \"teater\" is also in \"et børneteater\" (a children's theater).",
   "forms": [
    {
     "da": "et dukketeater",
@@ -11920,7 +11804,7 @@
   }
  },
  "et dusin": {
-  "explanation": "\"Et dusin\" means \"a dozen\", the number 12 of something. Danish has no word for \"of\" here: \"et dusin roser\" (a dozen roses).",
+  "explanation": "\"Et dusin\" means \"a dozen\". To say a dozen of something, put the thing right after it, with no word for \"of\": \"et dusin roser\" (a dozen roses).",
   "forms": [
    {
     "da": "et dusin",
@@ -11951,10 +11835,6 @@
    {
     "da": "et par",
     "en": "a pair"
-   },
-   {
-    "da": "et hundrede",
-    "en": "a hundred"
    }
   ],
   "sentence": {
@@ -11963,7 +11843,7 @@
   }
  },
  "et dynebetræk": {
-  "explanation": "\"Et dynebetræk\" means \"a duvet cover\". It is built from dyne (duvet) and betræk (cover). \"Betræk\" is also used for furniture: \"et sofabetræk\" (a sofa cover).",
+  "explanation": "\"Et dynebetræk\" means \"a duvet cover\". It is built from \"en dyne\" (a duvet) and \"et betræk\" (a cover). The part \"betræk\" is also used for furniture: \"et sofabetræk\" (a sofa cover).",
   "forms": [
    {
     "da": "et dynebetræk",
@@ -12006,7 +11886,7 @@
   }
  },
  "et dyr": {
-  "explanation": "\"Et dyr\" means \"an animal\", any living creature that is not a plant, from a mouse to an elephant. A wild one is \"et vildt dyr\" (a wild animal).",
+  "explanation": "\"Et dyr\" means \"an animal\". To talk about an animal that lives free in nature, say \"et vildt dyr\" (a wild animal): \"Vi så et vildt dyr i skoven\" (We saw a wild animal in the forest).",
   "forms": [
    {
     "da": "et dyr",
@@ -12045,7 +11925,7 @@
   }
  },
  "et dyreinternat": {
-  "explanation": "\"Et dyreinternat\" means \"an animal shelter\", a place that takes in lost or unwanted animals until they find a new home. Visitors can come to meet them and choose one.",
+  "explanation": "\"Et dyreinternat\" means \"an animal shelter\". To say you take in a pet from there, use \"at adoptere\" (to adopt): \"Vi adopterer en hund fra et dyreinternat\" (We are adopting a dog from an animal shelter).",
   "forms": [
    {
     "da": "et dyreinternat",
@@ -12076,10 +11956,6 @@
    {
     "da": "en herreløs hund",
     "en": "a stray dog"
-   },
-   {
-    "da": "at adoptere",
-    "en": "to adopt"
    }
   ],
   "sentence": {
@@ -12088,7 +11964,7 @@
   }
  },
  "et dæk": {
-  "explanation": "\"Et dæk\" means \"a tire\" on a car or bike: \"Jeg skal have nye dæk til bilen\" (I need new tires for the car). It also means \"a deck\" on a ship: \"Skibet har tre dæk\" (The ship has three decks).",
+  "explanation": "\"Et dæk\" means \"a tire or deck\". When you talk about the rubber part of a wheel, use it for the tire: \"Jeg skal have nye dæk til bilen\" (I need new tires for the car). When you talk about a floor of a ship, use it for the deck: \"Skibet har tre dæk\" (The ship has three decks).",
   "forms": [
    {
     "da": "et dæk",
@@ -12127,7 +12003,7 @@
   }
  },
  "et døgn": {
-  "explanation": "\"Et døgn\" means \"a day\", meaning the full 24 hours, day and night: \"Butikken er åben hele døgnet\" (The store is open all day and night). \"En dag\" (a day) can also mean only the daytime.",
+  "explanation": "\"Et døgn\" means \"a day (24 hours)\". To say something is open all day and night, use \"hele døgnet\" (all day and night): \"Butikken er åben hele døgnet\" (The store is open all day and night). Do not mix it up with \"en dag\" (a day), which can also mean only the daytime: \"Det er lyst om dagen\" (It is light during the day).",
   "forms": [
    {
     "da": "et døgn",
@@ -12166,7 +12042,7 @@
   }
  },
  "et dørslag": {
-  "explanation": "\"Et dørslag\" means \"a colander\", a bowl with holes for draining pasta and vegetables.",
+  "explanation": "\"Et dørslag\" means \"a colander\". To say you rinse vegetables in it, use \"at skylle\" (to rinse): \"Jeg skyller grøntsagerne i dørslaget\" (I rinse the vegetables in the colander).",
   "forms": [
    {
     "da": "et dørslag",

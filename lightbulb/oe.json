@@ -1,6 +1,6 @@
 {
  "at ødelægge": {
-  "explanation": "\"At ødelægge\" means \"to destroy\" or \"to break\" something so it no longer works: \"Jeg ødelagde min telefon\" (I broke my phone). If a thing just stops working by itself, say \"Den gik i stykker\" (It broke).",
+  "explanation": "\"At ødelægge\" means \"to destroy or break\". To say you broke your own phone: \"Jeg ødelagde min telefon\" (I broke my phone). To say a thing broke without anyone doing it, use \"at gå i stykker\" (to break): \"Telefonen gik i stykker\" (The phone broke).",
   "forms": [
    {
     "da": "at ødelægge",
@@ -43,7 +43,7 @@
   }
  },
  "at øge": {
-  "explanation": "\"At øge\" means \"to increase\": you make something bigger or more: \"Vi øger farten\" (We increase the speed). When something goes up by itself, use \"at stige\" (to rise): \"Prisen stiger\" (The price is rising).",
+  "explanation": "\"At øge\" means \"to increase\". To say you make something bigger yourself, use it with the thing: \"Vi øger farten\" (We increase the speed). When something goes up by itself, use \"at stige\" (to rise): \"Prisen stiger\" (The price is rising).",
   "forms": [
    {
     "da": "at øge",
@@ -86,7 +86,7 @@
   }
  },
  "at ønske": {
-  "explanation": "\"At ønske\" means \"to wish\", often to wish someone something: \"Jeg ønsker dig en god tur\" (I wish you a good trip). With \"sig\" (oneself) it means \"to wish for\" something: \"Jeg ønsker mig en cykel\" (I wish for a bike).",
+  "explanation": "\"At ønske\" means \"to wish\". To wish someone something, put the person after the verb: \"Jeg ønsker dig en god tur\" (I wish you a good trip). To wish for something for yourself, add \"sig\" (oneself): \"Jeg ønsker mig en cykel\" (I wish for a bike).",
   "forms": [
    {
     "da": "at ønske",
@@ -125,7 +125,7 @@
   }
  },
  "at ønske sig": {
-  "explanation": "\"At ønske sig\" means \"to wish for\" something you would like to get, such as a gift: \"Jeg ønsker mig en cykel\" (I wish for a bike). Without \"sig\", \"at ønske\" (to wish) is for wishing something to another person: \"Jeg ønsker dig held og lykke\" (I wish you good luck).",
+  "explanation": "\"At ønske sig\" means \"to wish for\". To say what you want to get, use it with the thing: \"Jeg ønsker mig en cykel\" (I wish for a bike). To wish something to another person, leave out \"sig\" and use \"at ønske\" (to wish): \"Jeg ønsker dig held og lykke\" (I wish you good luck).",
   "forms": [
    {
     "da": "at ønske sig",
@@ -164,7 +164,7 @@
   }
  },
  "at øse": {
-  "explanation": "\"At øse\" means \"to scoop\" or \"to pour\": you move a liquid or loose things with a ladle, a scoop or a bucket. It can mean to bail water out of a boat: \"at øse vand ud af båden\" (to bail water out of the boat). \"Det øser ned!\" (It is pouring down!) is said about heavy rain.",
+  "explanation": "\"At øse\" means \"to scoop or pour\". To say you bail water out of a boat: \"at øse vand ud af båden\" (to bail water out of the boat). To say it is raining very hard, use it with \"ned\" (down): \"Det øser ned!\" (It is pouring down!)",
   "forms": [
    {
     "da": "at øse",
@@ -203,7 +203,7 @@
   }
  },
  "at øve": {
-  "explanation": "\"At øve\" means \"to practice\". Danish usually adds \"mig\" (myself): \"Jeg øver mig i dansk\" (I am practicing Danish).",
+  "explanation": "\"At øve\" means \"to practice\". To say you practice yourself, add \"mig\" (myself): \"Jeg øver mig i dansk\" (I am practicing Danish). To say you rehearse something, put it right after the verb: \"Børnene øver en sang\" (The children are rehearsing a song).",
   "forms": [
    {
     "da": "at øve",
@@ -242,7 +242,7 @@
   }
  },
  "at øve sig": {
-  "explanation": "\"At øve sig\" means \"to practice\" to get better: \"Jeg øver mig hver dag\" (I practice every day). The word after \"øve\" changes with who practices: \"mig\" (myself), \"dig\" (yourself), \"sig\" (himself, herself).",
+  "explanation": "\"At øve sig\" means \"to practice\". To say you practice, use \"mig\" (myself): \"Jeg øver mig hver dag\" (I practice every day). To say he or she practices, use \"sig\" (himself, herself): \"Hun øver sig på klaveret\" (She practices on the piano).",
   "forms": [
    {
     "da": "at øve sig",
@@ -285,7 +285,7 @@
   }
  },
  "en ø": {
-  "explanation": "\"En ø\" means \"an island\", land with water all around it.",
+  "explanation": "\"En ø\" means \"an island\". In Denmark, Copenhagen lies on the island \"Sjælland\" (Zealand).",
   "forms": [
    {
     "da": "en ø",
@@ -324,7 +324,7 @@
   }
  },
  "en øjenfarve": {
-  "explanation": "\"En øjenfarve\" means \"an eye color\", built from øje (eye) and farve (color). Ask \"Hvad er din øjenfarve?\" (What is your eye color?) and answer \"Jeg har brune øjne\" (I have brown eyes).",
+  "explanation": "\"En øjenfarve\" means \"an eye color\". To ask someone's eye color: \"Hvad er din øjenfarve?\" (What is your eye color?) To answer: \"Jeg har brune øjne\" (I have brown eyes).",
   "forms": [
    {
     "da": "en øjenfarve",
@@ -353,12 +353,8 @@
     "en": "a skin color"
    },
    {
-    "da": "et øjenbryn",
-    "en": "an eyebrow"
-   },
-   {
-    "da": "et øjenlåg",
-    "en": "an eyelid"
+    "da": "en farve",
+    "en": "a color"
    }
   ],
   "sentence": {
@@ -367,7 +363,7 @@
   }
  },
  "en øjenlæge": {
-  "explanation": "\"En øjenlæge\" means \"an eye doctor\", a medical specialist who treats eye diseases and checks your sight. For a simple sight check, Danes often go to \"en optiker\" (an optician) instead.",
+  "explanation": "\"En øjenlæge\" means \"an eye doctor\". It is built from \"et øje\" (an eye) and \"en læge\" (a doctor). To get your sight tested at a shop, go to \"en optiker\" (an optician): \"Jeg skal til optikeren\" (I am going to the optician).",
   "forms": [
    {
     "da": "en øjenlæge",
@@ -398,10 +394,6 @@
    {
     "da": "en synsprøve",
     "en": "an eye test"
-   },
-   {
-    "da": "briller",
-    "en": "glasses"
    }
   ],
   "sentence": {
@@ -410,7 +402,7 @@
   }
  },
  "en øjenvippe": {
-  "explanation": "\"En øjenvippe\" means \"an eyelash\", one of the short hairs along the edge of your eyelid.",
+  "explanation": "\"En øjenvippe\" means \"an eyelash\". To describe someone's eyelashes, use the plural: \"Hun har lange øjenvipper\" (She has long eyelashes).",
   "forms": [
    {
     "da": "en øjenvippe",
@@ -449,7 +441,7 @@
   }
  },
  "en økonom": {
-  "explanation": "\"En økonom\" means \"an economist\", a person who has studied economics, often working in a bank, a company or the government. The subject itself is \"økonomi\" (economics).",
+  "explanation": "\"En økonom\" means \"an economist\". The subject is \"økonomi\" (economics): \"Hun læser økonomi\" (She studies economics).",
   "forms": [
    {
     "da": "en økonom",
@@ -492,7 +484,7 @@
   }
  },
  "en økonomi": {
-  "explanation": "\"En økonomi\" means \"an economy\", how a country or a household handles its finances.",
+  "explanation": "\"En økonomi\" means \"an economy\". It also means a person's or a household's finances: \"Vi har en stram økonomi\" (Our finances are tight).",
   "forms": [
    {
     "da": "en økonomi",
@@ -517,12 +509,8 @@
     "en": "economic / financial"
    },
    {
-    "da": "penge",
-    "en": "money"
-   },
-   {
-    "da": "en økonom",
-    "en": "an economist"
+    "da": "en recession",
+    "en": "a recession"
    },
    {
     "da": "et budget",
@@ -535,7 +523,7 @@
   }
  },
  "en økse": {
-  "explanation": "\"En økse\" means \"an axe\", the tool for chopping wood. The matching verb is \"at hugge\" (to chop): \"Jeg hugger brænde\" (I chop firewood).",
+  "explanation": "\"En økse\" means \"an axe\". To say you chop wood, use the verb \"at hugge\" (to chop): \"Jeg hugger brænde\" (I chop firewood).",
   "forms": [
    {
     "da": "en økse",
@@ -574,7 +562,7 @@
   }
  },
  "en øl": {
-  "explanation": "\"En øl\" means \"a beer\". In a bar you can add the size: \"en stor øl\" (a large beer) or \"en lille øl\" (a small beer).",
+  "explanation": "\"En øl\" means \"a beer\". To order a certain size, put the size word between \"en\" and \"øl\": \"en stor øl\" (a large beer).",
   "forms": [
    {
     "da": "en øl",
@@ -613,7 +601,7 @@
   }
  },
  "en ølflaske": {
-  "explanation": "\"En ølflaske\" means \"a beer bottle\". It is built from øl (beer) and flaske (bottle). Most beer bottles carry \"pant\" (a refundable deposit) that you get back when you return them.",
+  "explanation": "\"En ølflaske\" means \"a beer bottle\". It is built from \"en øl\" (a beer) and \"en flaske\" (a bottle). To order a bottle of beer: \"En flaske øl, tak\" (A bottle of beer, please).",
   "forms": [
    {
     "da": "en ølflaske",
@@ -652,7 +640,7 @@
   }
  },
  "en ønskeseddel": {
-  "explanation": "\"En ønskeseddel\" means \"a wish list\", a list of presents you hope to get. It is built from ønske (wish) and seddel (note). \"Seddel\" also means a banknote: \"en hundredkroneseddel\" (a hundred-krone banknote).",
+  "explanation": "\"En ønskeseddel\" means \"a wish list\". It is built from \"at ønske\" (to wish) and \"en seddel\" (a note). In other words, \"seddel\" means a banknote: \"en hundredkroneseddel\" (a hundred-krone banknote).",
   "forms": [
    {
     "da": "en ønskeseddel",
@@ -695,7 +683,7 @@
   }
  },
  "en ørering": {
-  "explanation": "\"En ørering\" means \"an earring\". For both earrings together, say \"et par øreringe\" (a pair of earrings).",
+  "explanation": "\"En ørering\" means \"an earring\". It is built from \"et øre\" (an ear) and \"en ring\" (a ring). To talk about a matching set, say \"et par øreringe\" (a pair of earrings).",
   "forms": [
    {
     "da": "en ørering",
@@ -716,10 +704,6 @@
   ],
   "related": [
    {
-    "da": "en ring",
-    "en": "a ring"
-   },
-   {
     "da": "et smykke",
     "en": "a piece of jewelry"
    },
@@ -738,7 +722,7 @@
   }
  },
  "en ørken": {
-  "explanation": "\"En ørken\" means \"a desert\", a dry, sandy land.",
+  "explanation": "\"En ørken\" means \"a desert\". To say where you are, use \"i\" (in) before the word: \"Vi gik i ørkenen i tre dage\" (We walked in the desert for three days).",
   "forms": [
    {
     "da": "en ørken",
@@ -777,7 +761,7 @@
   }
  },
  "en ørn": {
-  "explanation": "\"En ørn\" means \"an eagle\", a large bird that hunts other animals and flies very high.",
+  "explanation": "\"En ørn\" means \"an eagle\". An eagle that lives near the sea is \"en havørn\" (a sea eagle): \"Vi så en havørn ved fjorden\" (We saw a sea eagle by the fjord).",
   "forms": [
    {
     "da": "en ørn",
@@ -820,7 +804,7 @@
   }
  },
  "en ørred": {
-  "explanation": "\"En ørred\" means \"a trout\", a fish found in cold rivers and lakes, and also in the sea.",
+  "explanation": "\"En ørred\" means \"a trout\". A trout that lives in the sea is \"en havørred\" (a sea trout): \"Han fangede en havørred\" (He caught a sea trout).",
   "forms": [
    {
     "da": "en ørred",
@@ -863,7 +847,7 @@
   }
  },
  "en øse": {
-  "explanation": "\"En øse\" means \"a ladle\", a deep scoop with a long handle for serving food from a pot. The action is \"at øse op\" (to scoop out): \"Han øser maden op\" (He scoops out the food). The word \"op\" (up) adds the idea of lifting out of the pot.",
+  "explanation": "\"En øse\" means \"a ladle\". To say you serve food with it, use \"at øse op\" (to scoop out): \"Han øser maden op\" (He scoops out the food).",
   "forms": [
    {
     "da": "en øse",
@@ -902,7 +886,7 @@
   }
  },
  "en østers": {
-  "explanation": "\"En østers\" means \"an oyster\", a shellfish that lives in the sea inside a rough, hard shell.",
+  "explanation": "\"En østers\" means \"an oyster\". Oysters from the fjord \"Limfjorden\" are called \"limfjordsøsters\" (Limfjord oysters).",
   "forms": [
    {
     "da": "en østers",
@@ -945,7 +929,7 @@
   }
  },
  "en øvelse": {
-  "explanation": "\"En øvelse\" means \"an exercise\", a task for practicing. It also means a workout move: \"Gør denne øvelse ti gange\" (Do this exercise ten times).",
+  "explanation": "\"En øvelse\" means \"an exercise\". It comes from the verb \"at øve\" (to practice). In sport or at the gym, it means one move of a workout: \"Gør denne øvelse ti gange\" (Do this exercise ten times).",
   "forms": [
    {
     "da": "en øvelse",
@@ -988,7 +972,7 @@
   }
  },
  "et øje": {
-  "explanation": "\"Et øje\" means \"an eye\", the part of the body you see with.",
+  "explanation": "\"Et øje\" means \"an eye\". To say you watch someone or something, use \"at holde øje med\" (to keep an eye on): \"Jeg holder øje med børnene\" (I keep an eye on the children).",
   "forms": [
    {
     "da": "et øje",
@@ -1009,16 +993,16 @@
   ],
   "related": [
    {
-    "da": "et øre",
-    "en": "an ear"
-   },
-   {
-    "da": "en næse",
-    "en": "a nose"
-   },
-   {
     "da": "et øjenbryn",
     "en": "an eyebrow"
+   },
+   {
+    "da": "et øjenlåg",
+    "en": "an eyelid"
+   },
+   {
+    "da": "en øjenvippe",
+    "en": "an eyelash"
    }
   ],
   "sentence": {
@@ -1027,7 +1011,7 @@
   }
  },
  "et øjeblik": {
-  "explanation": "\"Et øjeblik\" means \"a moment\", a very short time. The word is made of øje (eye) and blik (glance). Danes also say \"i øjeblikket\" (right now): \"Jeg læser i øjeblikket\" (I am reading right now).",
+  "explanation": "\"Et øjeblik\" means \"a moment\". It is built from \"et øje\" (an eye) and \"et blik\" (a glance). To say right now, use \"i øjeblikket\" (at the moment): \"Jeg læser i øjeblikket\" (I am reading right now).",
   "forms": [
    {
     "da": "et øjeblik",
@@ -1066,7 +1050,7 @@
   }
  },
  "et øjekast": {
-  "explanation": "\"Et øjekast\" means \"a glance\", a very quick look at something. It is made of øje (an eye) and kast (a throw), so it is a throw of the eyes. It is mostly used in set phrases such as \"ved første øjekast\" (at first glance).",
+  "explanation": "\"Et øjekast\" means \"a glance\". It is built from \"et øje\" (an eye) and \"et kast\" (a throw), so it is a throw of the eyes. To say how something seems at first glance, use \"ved første øjekast\" (at first glance): \"Ved første øjekast er det en god pris\" (At first glance it is a good price).",
   "forms": [
    {
     "da": "et øjekast",
@@ -1088,7 +1072,7 @@
   "related": [
    {
     "da": "et blik",
-    "en": "a gaze"
+    "en": "a look"
    },
    {
     "da": "et kig",
@@ -1105,7 +1089,7 @@
   }
  },
  "et øjenbryn": {
-  "explanation": "\"Et øjenbryn\" means \"an eyebrow\", the line of hair above your eye. Danish uses the same picture as English for showing surprise: \"Han løftede et øjenbryn\" (He raised an eyebrow).",
+  "explanation": "\"Et øjenbryn\" means \"an eyebrow\". To say someone raises an eyebrow, use the verb \"at løfte\" (to lift): \"Han løftede et øjenbryn\" (He raised an eyebrow).",
   "forms": [
    {
     "da": "et øjenbryn",
@@ -1130,10 +1114,6 @@
     "en": "an eyelash"
    },
    {
-    "da": "en pande",
-    "en": "a forehead"
-   },
-   {
     "da": "et øjenlåg",
     "en": "an eyelid"
    },
@@ -1148,7 +1128,7 @@
   }
  },
  "et øjenlåg": {
-  "explanation": "\"Et øjenlåg\" means \"an eyelid\", the thin skin that closes over the eye. It is built from et øje (an eye) and et låg (a lid), the same \"låg\" as on a pot: \"et låg på en gryde\" (a lid on a pot).",
+  "explanation": "\"Et øjenlåg\" means \"an eyelid\". It is built from \"et øje\" (an eye) and \"et låg\" (a lid). In other words, \"et låg\" is also a lid on a pot: \"et låg på en gryde\" (a lid on a pot).",
   "forms": [
    {
     "da": "et øjenlåg",
@@ -1177,10 +1157,6 @@
     "en": "an eyelash"
    },
    {
-    "da": "en pupil",
-    "en": "a pupil"
-   },
-   {
     "da": "at blinke",
     "en": "to blink"
    }
@@ -1191,7 +1167,7 @@
   }
  },
  "et økosystem": {
-  "explanation": "\"Et økosystem\" means \"an ecosystem\", the plants, animals and soil in one area, which all depend on each other, like a forest or a lake.",
+  "explanation": "\"Et økosystem\" means \"an ecosystem\". It is built from \"øko\" (eco) and \"et system\" (a system). The same \"øko\" is in \"økologisk\" (organic): \"økologiske æg\" (organic eggs).",
   "forms": [
    {
     "da": "et økosystem",
@@ -1234,7 +1210,7 @@
   }
  },
  "et ønske": {
-  "explanation": "\"Et ønske\" means \"a wish\", something you want to happen. The same word also works as \"at ønske\" (to wish): \"Jeg ønsker dig held og lykke\" (I wish you good luck).",
+  "explanation": "\"Et ønske\" means \"a wish\". To say a wish came true, use \"gå i opfyldelse\" (to come true): \"Mit ønske gik i opfyldelse\" (My wish came true). The verb is \"at ønske\" (to wish): \"Jeg ønsker dig held og lykke\" (I wish you good luck).",
   "forms": [
    {
     "da": "et ønske",
@@ -1277,7 +1253,7 @@
   }
  },
  "et øre": {
-  "explanation": "\"Et øre\" means \"an ear\", the part of the body you hear with. The same word is also a small unit of money worth a hundredth of a krone.",
+  "explanation": "\"Et øre\" means \"an ear\". It is also a small unit of money worth a hundredth of a krone. To say a price with it: \"Mælken koster tre kroner og halvtreds øre\" (The milk costs three kroner and fifty øre).",
   "forms": [
    {
     "da": "et øre",
@@ -1298,16 +1274,16 @@
   ],
   "related": [
    {
-    "da": "et øje",
-    "en": "an eye"
-   },
-   {
-    "da": "en næse",
-    "en": "a nose"
-   },
-   {
     "da": "en ørering",
     "en": "an earring"
+   },
+   {
+    "da": "en øreprop",
+    "en": "an earplug"
+   },
+   {
+    "da": "en trommehinde",
+    "en": "an eardrum"
    }
   ],
   "sentence": {
@@ -1316,7 +1292,7 @@
   }
  },
  "øde": {
-  "explanation": "\"Øde\" means \"deserted\", with no people where you would expect some. For a place that is just calm and peaceful, use \"stille\" (quiet).",
+  "explanation": "\"Øde\" means \"deserted\". For a place that is just calm and peaceful, use \"stille\" (quiet) instead: \"Byen er stille\" (The town is quiet).",
   "forms": [
    {
     "da": "en øde ø",
@@ -1355,7 +1331,7 @@
   }
  },
  "ødelagt": {
-  "explanation": "\"Ødelagt\" means \"broken\" or \"ruined\", for something that no longer works at all or cannot be saved. You can also say it about a day or a plan: \"Dagen er ødelagt\" (The day is ruined).",
+  "explanation": "\"Ødelagt\" means \"broken\". It comes from the verb \"at ødelægge\" (to destroy). To say a day or a plan is ruined: \"Dagen er ødelagt\" (The day is ruined).",
   "forms": [
    {
     "da": "en ødelagt cykel",
@@ -1372,10 +1348,6 @@
   ],
   "related": [
    {
-    "da": "at ødelægge",
-    "en": "to destroy, ruin"
-   },
-   {
     "da": "defekt",
     "en": "defective"
    },
@@ -1386,6 +1358,10 @@
    {
     "da": "hel",
     "en": "whole, unbroken"
+   },
+   {
+    "da": "en ødelæggelse",
+    "en": "destruction"
    }
   ],
   "sentence": {
@@ -1394,7 +1370,7 @@
   }
  },
  "ødelæggelse": {
-  "explanation": "\"En ødelæggelse\" means \"destruction\", the harm and ruin left when something has been wrecked. It is the thing left behind after \"at ødelægge\" (to destroy).",
+  "explanation": "\"Ødelæggelse\" means \"destruction\". It comes from the verb \"at ødelægge\" (to destroy). To talk about the damage after a flood: \"Oversvømmelsen efterlod store ødelæggelser\" (The flood left great destruction).",
   "forms": [
    {
     "da": "en ødelæggelse",
@@ -1437,7 +1413,7 @@
   }
  },
  "ødelæggende": {
-  "explanation": "\"Ødelæggende\" means \"destructive\". It is made from the verb \"at ødelægge\" (to destroy) and describes something that does the destroying. Use it for something that does great damage: \"en ødelæggende brand\" (a destructive fire).",
+  "explanation": "\"Ødelæggende\" means \"destructive\". It comes from the verb \"at ødelægge\" (to destroy). To describe a fire that does great damage: \"en ødelæggende brand\" (a destructive fire).",
   "forms": [
    {
     "da": "en ødelæggende kritik",
@@ -1472,7 +1448,7 @@
   }
  },
  "øjeblikkelig": {
-  "explanation": "\"Øjeblikkelig\" means \"immediate\", with no delay. Put it before a noun: \"øjeblikkelig hjælp\" (immediate help). It is built from et øjeblik (a moment). After a verb, use \"øjeblikkeligt\": \"Han svarede øjeblikkeligt\" (He answered immediately).",
+  "explanation": "\"Øjeblikkelig\" means \"immediate\". It is built from \"et øjeblik\" (a moment). To ask for help right away, use it before the noun: \"øjeblikkelig hjælp\" (immediate help). To say how someone acted, use \"øjeblikkeligt\" (immediately) after the verb: \"Han svarede øjeblikkeligt\" (He answered immediately).",
   "forms": [
    {
     "da": "en øjeblikkelig reaktion",
@@ -1511,7 +1487,7 @@
   }
  },
  "øjeblikkeligt": {
-  "explanation": "\"Øjeblikkeligt\" means \"immediately\", with no waiting at all. Use it after a verb to describe how quickly a person acts: \"Han svarede øjeblikkeligt\" (He answered immediately). Before a noun such as help, Danes say \"øjeblikkelig\" (immediate): \"øjeblikkelig hjælp\" (immediate help).",
+  "explanation": "\"Øjeblikkeligt\" means \"immediately\". To say how quickly a person acts, use it after the verb: \"Han svarede øjeblikkeligt\" (He answered immediately). Before a noun, use \"øjeblikkelig\" (immediate): \"øjeblikkelig hjælp\" (immediate help).",
   "forms": [
    {
     "da": "Kom øjeblikkeligt!",
@@ -1546,7 +1522,7 @@
   }
  },
  "øjensynligt": {
-  "explanation": "\"Øjensynligt\" means \"apparently\". Use it when you can see signs of something with your own eyes: \"Han er øjensynligt træt\" (He is apparently tired).",
+  "explanation": "\"Øjensynligt\" means \"apparently\". It contains \"øje\" (eye) and \"syn\" (sight). It can also come first in the sentence: \"Øjensynligt er han træt\" (Apparently he is tired).",
   "forms": [
    {
     "da": "Hun er øjensynligt træt",
@@ -1571,8 +1547,8 @@
     "en": "evidently"
    },
    {
-    "da": "synligt",
-    "en": "visibly"
+    "da": "formentlig",
+    "en": "presumably"
    },
    {
     "da": "tydeligvis",
@@ -1585,7 +1561,7 @@
   }
  },
  "økologisk": {
-  "explanation": "\"Økologisk\" means \"organic\", mostly for food and farms. In shops it is often shortened to \"øko\" on labels: \"øko-æg\" (organic eggs).",
+  "explanation": "\"Økologisk\" means \"organic\". In Denmark, organic food in shops carries the red \"Ø-mærket\" (the organic mark). To talk about organic eggs, use the plural ending: \"økologiske æg\" (organic eggs).",
   "forms": [
    {
     "da": "en økologisk gård",
@@ -1620,7 +1596,7 @@
   }
  },
  "økonomisk": {
-  "explanation": "\"Økonomisk\" means \"economic\" and \"financial\", about money. It can also mean \"cheap to run\": \"en økonomisk bil\" (an economical car).",
+  "explanation": "\"Økonomisk\" means \"economic\". When you describe a car that costs little to run, it means \"economical\": \"en økonomisk bil\" (an economical car).",
   "forms": [
    {
     "da": "en økonomisk fordel",
@@ -1655,7 +1631,7 @@
   }
  },
  "øm": {
-  "explanation": "\"Øm\" means \"sore\" or \"tender\", when a part of the body hurts a little, especially when touched: \"Min arm er øm\" (My arm is sore). It is milder than \"ondt\" (pain), as in \"Jeg har ondt i armen\" (My arm hurts).",
+  "explanation": "\"Øm\" means \"sore\". To say a body part is sore when touched: \"Min arm er øm\" (My arm is sore). To say something hurts, use \"at have ondt\" (to hurt): \"Jeg har ondt i armen\" (My arm hurts).",
   "forms": [
    {
     "da": "en øm arm",
@@ -1690,7 +1666,7 @@
   }
  },
  "ønskelig": {
-  "explanation": "\"Ønskelig\" means \"desirable\", something that would be good to have or hoped for. It is common in reports and official texts to name the best outcome: \"Det er ønskeligt, at alle kommer\" (It is desirable that everyone comes).",
+  "explanation": "\"Ønskelig\" means \"desirable\". It comes from the verb \"at ønske\" (to wish). To say it would be good if everyone comes: \"Det er ønskeligt, at alle kommer\" (It is desirable that everyone comes).",
   "forms": [
    {
     "da": "en ønskelig løsning",
@@ -1707,20 +1683,16 @@
   ],
   "related": [
    {
-    "da": "et ønske",
-    "en": "a wish"
-   },
-   {
-    "da": "at ønske",
-    "en": "to wish"
-   },
-   {
     "da": "uønsket",
     "en": "unwanted"
    },
    {
     "da": "eftertragtet",
     "en": "sought-after"
+   },
+   {
+    "da": "attraktiv",
+    "en": "attractive"
    }
   ],
   "sentence": {
@@ -1729,7 +1701,7 @@
   }
  },
  "øreringe": {
-  "explanation": "\"Øreringe\" means \"earrings\", jewelry you wear in your ears.",
+  "explanation": "\"Øreringe\" means \"earring\". It is the plural, used when you mean more than one: \"Jeg køber to øreringe\" (I am buying two earrings).",
   "forms": [
    {
     "da": "en ørering",
@@ -1772,7 +1744,7 @@
   }
  },
  "øst": {
-  "explanation": "\"Øst\" means \"east\". It is also part of place names such as \"Østjylland\" (eastern Jutland).",
+  "explanation": "\"Øst\" means \"east\". To name the eastern part of a region, put it before the name: \"Østjylland\" (eastern Jutland).",
   "forms": [
    {
     "da": "øst",
@@ -1807,7 +1779,7 @@
   }
  },
  "østersøen": {
-  "explanation": "\"Østersøen\" means \"the Baltic Sea\", the sea east of Denmark. The name has \"øst\" (east) in it because of where the sea lies.",
+  "explanation": "\"Østersøen\" means \"the Baltic Sea\". The Danish island Bornholm lies in it: \"Bornholm ligger i Østersøen\" (Bornholm lies in the Baltic Sea).",
   "forms": [
    {
     "da": "i Østersøen",
@@ -1846,7 +1818,7 @@
   }
  },
  "østpå": {
-  "explanation": "\"Østpå\" means \"eastward\", toward the east, for movement. For a place, use \"øst for\" (east of): \"København ligger øst for Roskilde\" (Copenhagen is east of Roskilde).",
+  "explanation": "\"Østpå\" means \"east\". It is built from \"øst\" (east) and \"på\" (on). To say where a place lies, use \"øst for\" (east of) instead: \"København ligger øst for Roskilde\" (Copenhagen is east of Roskilde).",
   "forms": [
    {
     "da": "at køre østpå",
@@ -1885,7 +1857,7 @@
   }
  },
  "øvelse gør mester": {
-  "explanation": "\"Øvelse gør mester\" means \"practice makes perfect\", said to encourage someone who is learning something. Word for word, it says that exercise makes a \"mester\" (master), and a \"mester\" is someone fully skilled.",
+  "explanation": "\"Øvelse gør mester\" means \"Practice makes perfect\". Literally, it says that exercise makes a \"mester\" (master).",
   "forms": [
    {
     "da": "Øvelse gør mester",
@@ -1924,7 +1896,7 @@
   }
  },
  "øverst": {
-  "explanation": "\"Øverst\" means \"at the top\", the very highest spot.",
+  "explanation": "\"Øverst\" means \"at the top\". The opposite is \"nederst\" (at the bottom): \"Navnet står nederst på siden\" (The name is at the bottom of the page).",
   "forms": [
    {
     "da": "øverst på listen",
@@ -1940,10 +1912,6 @@
    }
   ],
   "related": [
-   {
-    "da": "nederst",
-    "en": "at the bottom"
-   },
    {
     "da": "over",
     "en": "above"

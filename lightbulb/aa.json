@@ -1,6 +1,6 @@
 {
  "at åbne": {
-  "explanation": "\"At åbne\" means \"to open\". You can open a door, a shop or a bank account. \"Hvornår åbner I?\" (When do you open?) is what you ask a shop or office.",
+  "explanation": "\"At åbne\" means \"to open\". To ask a shop when it opens, say: \"Hvornår åbner I?\" (When do you open?)",
   "forms": [
    {
     "da": "at åbne",
@@ -39,7 +39,7 @@
   }
  },
  "at åbne op": {
-  "explanation": "\"At åbne op\" means \"to open up\". You can say it about a shop too: \"Butikken åbner op klokken ni\" (The shop opens at nine).",
+  "explanation": "\"At åbne op\" means \"to open up\". When you mean to make something possible, use \"åbne op for\": \"Det åbner op for nye muligheder\" (It opens up new possibilities).",
   "forms": [
    {
     "da": "at åbne op",
@@ -60,10 +60,6 @@
   ],
   "related": [
    {
-    "da": "at lukke",
-    "en": "to close"
-   },
-   {
     "da": "at lukke op",
     "en": "to open (a door)"
    },
@@ -82,7 +78,7 @@
   }
  },
  "at ånde": {
-  "explanation": "\"At ånde\" means \"to breathe\", but it sounds more like written or poetic language than everyday speech. In speech Danes say \"at trække vejret\" (to breathe): \"Jeg kan ikke trække vejret\" (I cannot breathe). \"At ånde\" combines with \"ind\" (in) and \"ud\" (out): \"at ånde ud\" (to breathe out).",
+  "explanation": "\"At ånde\" means \"to breathe\". To say you cannot breathe, use \"trække vejret\" (literally, to pull the breath): \"Jeg kan ikke trække vejret\" (I cannot breathe).",
   "forms": [
    {
     "da": "at ånde",
@@ -111,10 +107,6 @@
     "en": "to gasp"
    },
    {
-    "da": "at hoste",
-    "en": "to cough"
-   },
-   {
     "da": "at sukke",
     "en": "to sigh"
    }
@@ -125,7 +117,7 @@
   }
  },
  "en å": {
-  "explanation": "\"En å\" means \"a stream\", a small river. Do not mix it up with \"en flod\" (a bigger river): \"Floden er bredere\" (The river is wider).",
+  "explanation": "\"En å\" means \"a stream\", as in flowing water. To talk about a stream: \"Der er fisk i åen\" (There are fish in the stream). Do not mix it up with \"en flod\" (a river). To talk about a big river: \"Floden er meget bred\" (The river is very wide).",
   "forms": [
    {
     "da": "en å",
@@ -154,8 +146,8 @@
     "en": "a watercourse"
    },
    {
-    "da": "en sø",
-    "en": "a lake"
+    "da": "en kilde",
+    "en": "a spring"
    }
   ],
   "sentence": {
@@ -164,7 +156,7 @@
   }
  },
  "en åbning": {
-  "explanation": "\"En åbning\" means \"an opening\", a gap in something. It is also the start of an event or a shop: \"Vi går til åbningen\" (We are going to the opening).",
+  "explanation": "\"En åbning\" means \"an opening\". When you talk about the start of an event, it also means \"an opening\": \"Åbningen af udstillingen er i morgen\" (The opening of the exhibition is tomorrow).",
   "forms": [
    {
     "da": "en åbning",
@@ -207,7 +199,7 @@
   }
  },
  "en åbningsdag": {
-  "explanation": "\"En åbningsdag\" means \"an opening day\", the first day a shop, a restaurant or an event is open to the public. Shops often have an \"åbningstilbud\" (opening offer) then.",
+  "explanation": "\"En åbningsdag\" means \"an opening day\". It is built from \"åbning\" (opening) and \"dag\" (day).",
   "forms": [
    {
     "da": "en åbningsdag",
@@ -229,7 +221,7 @@
   "related": [
    {
     "da": "en åbningstid",
-    "en": "an opening time"
+    "en": "an opening hour"
    },
    {
     "da": "en indvielse",
@@ -250,7 +242,7 @@
   }
  },
  "en åbningstid": {
-  "explanation": "\"En åbningstid\" means \"an opening hour\". Shops list several, so you usually see the plural: \"Hvad er butikkens åbningstider?\" (What are the shop's opening hours?)",
+  "explanation": "\"En åbningstid\" means \"an opening hour\". To ask when a shop is open, use the plural \"åbningstider\": \"Hvad er butikkens åbningstider?\" (What are the shop's opening hours?)",
   "forms": [
    {
     "da": "en åbningstid",
@@ -281,10 +273,6 @@
    {
     "da": "at åbne",
     "en": "to open"
-   },
-   {
-    "da": "en helligdag",
-    "en": "a public holiday"
    }
   ],
   "sentence": {
@@ -293,7 +281,7 @@
   }
  },
  "en åkande": {
-  "explanation": "\"En åkande\" means \"a water lily\", a plant that grows in still water and has large white or yellow blossoms.",
+  "explanation": "\"En åkande\" means \"a water lily\". To name its leaf, add \"blad\" (leaf): \"et åkandeblad\" (a water lily leaf).",
   "forms": [
    {
     "da": "en åkande",
@@ -314,20 +302,16 @@
   ],
   "related": [
    {
-    "da": "en dam",
-    "en": "a pond"
-   },
-   {
-    "da": "en sø",
-    "en": "a lake"
-   },
-   {
-    "da": "et siv",
-    "en": "a rush"
+    "da": "en nøkkerose",
+    "en": "a water lily"
    },
    {
     "da": "en lotus",
     "en": "a lotus"
+   },
+   {
+    "da": "en vandplante",
+    "en": "a water plant"
    }
   ],
   "sentence": {
@@ -336,7 +320,7 @@
   }
  },
  "en ål": {
-  "explanation": "\"En ål\" means \"an eel\", a long, thin fish with a smooth body that lives in both fresh water and the sea.",
+  "explanation": "\"En ål\" means \"an eel\". Do not mix it up with \"en å\" (a stream). To talk about an eel: \"Vi fangede en ål\" (We caught an eel). To talk about a stream: \"Åen er smal\" (The stream is narrow).",
   "forms": [
    {
     "da": "en ål",
@@ -357,16 +341,16 @@
   ],
   "related": [
    {
-    "da": "en å",
-    "en": "a stream"
-   },
-   {
-    "da": "en slange",
-    "en": "a snake"
+    "da": "en fisk",
+    "en": "a fish"
    },
    {
     "da": "en havål",
     "en": "a conger eel"
+   },
+   {
+    "da": "en slange",
+    "en": "a snake"
    }
   ],
   "sentence": {
@@ -375,7 +359,7 @@
   }
  },
  "en ånd": {
-  "explanation": "\"En ånd\" means \"a spirit\", a being without a body that people believe in or tell stories about. It also means the main idea behind something: \"lovens ånd\" (the spirit of the law).",
+  "explanation": "\"En ånd\" means \"a spirit\", as in a being without a body. When you talk about the main idea behind something, it means \"the spirit\": \"lovens ånd\" (the spirit of the law).",
   "forms": [
    {
     "da": "en ånd",
@@ -418,7 +402,7 @@
   }
  },
  "en årring": {
-  "explanation": "\"En årring\" means \"a tree ring\", one of the circles you see when a tree is cut across. It is built from år (year) and ring (ring).",
+  "explanation": "\"En årring\" means \"a tree ring\". It is built from \"et år\" (a year) and \"en ring\" (a ring), because each ring is one year of growth. To say how to find the age of a tree, use \"tælle\" (to count): \"Man tæller årringene for at finde træets alder\" (You count the tree rings to find the age of the tree).",
   "forms": [
    {
     "da": "en årring",
@@ -443,16 +427,12 @@
     "en": "a trunk"
    },
    {
-    "da": "en stub",
-    "en": "a stump"
+    "da": "et træ",
+    "en": "a tree"
    },
    {
-    "da": "en bark",
-    "en": "bark"
-   },
-   {
-    "da": "en gren",
-    "en": "a branch"
+    "da": "en trærod",
+    "en": "a tree root"
    }
   ],
   "sentence": {
@@ -461,7 +441,7 @@
   }
  },
  "en årsag": {
-  "explanation": "\"En årsag\" means \"a reason\", the cause of something that happened. For a reason to do something, use \"en grund\" (a reason): \"Jeg har en god grund til at blive hjemme\" (I have a good reason to stay home).",
+  "explanation": "\"En årsag\" means \"a reason\", as in the cause of something. To name a cause, say: \"Årsagen til branden er ukendt\" (The reason for the fire is unknown). Do not mix it up with \"en grund\" (a reason). To give a reason for doing something, use \"grund\": \"Jeg har en god grund til at blive hjemme\" (I have a good reason to stay home).",
   "forms": [
    {
     "da": "en årsag",
@@ -500,7 +480,7 @@
   }
  },
  "en årsopgørelse": {
-  "explanation": "\"En årsopgørelse\" means \"an annual tax statement\", the yearly statement from the Danish Tax Agency showing what you earned and whether you paid too much or too little. It is usually available online in the spring.",
+  "explanation": "\"En årsopgørelse\" means \"an annual tax statement\". It is built from \"år\" (year) and \"opgørelse\" (statement). A fact about Denmark: the Danish tax authorities send one to every taxpayer.",
   "forms": [
    {
     "da": "en årsopgørelse",
@@ -543,7 +523,7 @@
   }
  },
  "en årstid": {
-  "explanation": "\"En årstid\" means \"a season\", one of the four parts of the year. Do not mix it up with \"en sæson\" (a season of a show or sport): \"Sæsonen starter i dag\" (The season starts today).",
+  "explanation": "\"En årstid\" means \"a season\". To name your favorite, say: \"Efteråret er min yndlingsårstid\" (Autumn is my favorite season). Do not mix it up with \"en sæson\" (a season of a show or sport): \"Sæsonen starter i dag\" (The season starts today).",
   "forms": [
    {
     "da": "en årstid",
@@ -586,7 +566,7 @@
   }
  },
  "et åbent hus": {
-  "explanation": "\"Et åbent hus\" means \"an open house\", an event where anyone can come and look around. It is also what you hear for a home for sale: \"Der er åbent hus søndag klokken to\" (There is an open house Sunday at two o'clock).",
+  "explanation": "\"Et åbent hus\" means \"an open house\". When a house is for sale and buyers may visit, it also means \"an open house\": \"Der er åbent hus søndag klokken to\" (There is an open house on Sunday at two o'clock).",
   "forms": [
    {
     "da": "et åbent hus",
@@ -629,7 +609,7 @@
   }
  },
  "et år": {
-  "explanation": "\"Et år\" means \"a year\". It is also how you give your age: \"Jeg er tredive år gammel\" (I am thirty years old).",
+  "explanation": "\"Et år\" means \"a year\". To say your age, add \"gammel\" (old): \"Jeg er tredive år gammel\" (I am thirty years old).",
   "forms": [
    {
     "da": "et år",
@@ -672,7 +652,7 @@
   }
  },
  "et århundrede": {
-  "explanation": "\"Et århundrede\" means \"a century\", a hundred years. It is built from år (year) and hundrede (hundred). You use it to name periods: \"i det 21. århundrede\" (in the 21st century).",
+  "explanation": "\"Et århundrede\" means \"a century\". It is built from \"år\" (year) and \"hundrede\" (hundred). To name a period, use a number with a dot: \"i det 21. århundrede\" (in the 21st century).",
   "forms": [
    {
     "da": "et århundrede",
@@ -715,7 +695,7 @@
   }
  },
  "et årstal": {
-  "explanation": "\"Et årstal\" means \"a year\", the number that names a year, like 1990. For a length of time, use \"et år\" (a year): \"tre år\" (three years).",
+  "explanation": "\"Et årstal\" means \"a year (date)\". To say that a number is a year: \"1990 er et årstal\" (1990 is a year). Do not mix it up with \"et år\" (a year as a length of time). To say how long: \"tre år\" (three years).",
   "forms": [
    {
     "da": "et årstal",
@@ -744,8 +724,8 @@
     "en": "a number"
    },
    {
-    "da": "et århundrede",
-    "en": "a century"
+    "da": "et tidspunkt",
+    "en": "a point in time"
    }
   ],
   "sentence": {
@@ -754,7 +734,7 @@
   }
  },
  "et årti": {
-  "explanation": "\"Et årti\" means \"a decade\", a period of ten years. To name a decade, Danes add \"-erne\" to the number: \"firserne\" (the eighties).",
+  "explanation": "\"Et årti\" means \"a decade\". To name a decade, add \"-erne\" to the number: \"firserne\" (the eighties).",
   "forms": [
    {
     "da": "et årti",
@@ -797,7 +777,7 @@
   }
  },
  "åben": {
-  "explanation": "\"Åben\" means \"open\", for things such as doors, shops and windows. \"At åbne\" (to open) is the action: \"Jeg åbner døren\" (I open the door).",
+  "explanation": "\"Åben\" means \"open\". To talk about the action, use the verb \"at åbne\" (to open): \"Jeg åbner døren\" (I open the door).",
   "forms": [
    {
     "da": "en åben dør",
@@ -818,16 +798,12 @@
     "en": "closed"
    },
    {
-    "da": "åbenlys",
-    "en": "obvious"
-   },
-   {
-    "da": "en åbningstid",
-    "en": "an opening time"
-   },
-   {
     "da": "at lukke",
     "en": "to close"
+   },
+   {
+    "da": "åbningstider",
+    "en": "opening hours"
    }
   ],
   "sentence": {
@@ -836,7 +812,7 @@
   }
  },
  "åbenbart": {
-  "explanation": "\"Åbenbart\" means \"apparently\", used when you work something out from what you see or hear.",
+  "explanation": "\"Åbenbart\" means \"apparently\". It comes from the word \"åbenbar\" (obvious). To say you have just noticed something, say: \"Du har åbenbart ikke hørt det\" (You have apparently not heard it).",
   "forms": [
    {
     "da": "Det regner åbenbart",
@@ -852,10 +828,6 @@
    }
   ],
   "related": [
-   {
-    "da": "åbenbar",
-    "en": "obvious"
-   },
    {
     "da": "åbenlys",
     "en": "obvious"
@@ -875,7 +847,7 @@
   }
  },
  "åbenlys": {
-  "explanation": "\"Åbenlys\" means \"obvious\", so plain that nobody can miss it. It is built from åben (open) and lys (light): out in the open, for everyone to see.",
+  "explanation": "\"Åbenlys\" means \"obvious\". It is built from \"åben\" (open) and \"lys\" (light). To say something is clearly true, say: \"Det er åbenlyst, at hun har ret\" (It is obvious that she is right).",
   "forms": [
    {
     "da": "en åbenlys fejl",
@@ -910,7 +882,7 @@
   }
  },
  "åbningstider": {
-  "explanation": "\"Åbningstider\" means \"opening hours\", the times when a shop, an office or a museum is open. It is built from åbning (opening) and tider (times).",
+  "explanation": "\"Åbningstider\" means \"opening hours\". It is built from \"åbning\" (opening) and \"tider\" (times).",
   "forms": [
    {
     "da": "åbningstiderne",
@@ -949,7 +921,7 @@
   }
  },
  "åndelig": {
-  "explanation": "\"Åndelig\" means \"spiritual\", about the mind and spirit as opposed to the body. It comes from en ånd (a spirit). For mental health, Danes say \"psykisk\" (mental), not \"åndelig\".",
+  "explanation": "\"Åndelig\" means \"spiritual\". It comes from \"en ånd\" (a spirit). To say someone looks for spiritual help, say: \"Han søger åndelig vejledning\" (He seeks spiritual guidance). Do not mix it up with \"psykisk\" (mental). To talk about the mind, say: \"Hun har psykiske problemer\" (She has mental problems).",
   "forms": [
    {
     "da": "et åndeligt liv",
@@ -988,7 +960,7 @@
   }
  },
  "årlig": {
-  "explanation": "\"Årlig\" means \"annual\", something that happens once a year. To describe how often an event happens, use \"årligt\" (annually): \"Det sker årligt\" (It happens every year).",
+  "explanation": "\"Årlig\" means \"annual\". To say how often something happens, use \"årligt\" (annually): \"Det sker årligt\" (It happens every year).",
   "forms": [
    {
     "da": "en årlig fest",
@@ -1027,7 +999,7 @@
   }
  },
  "årvågen": {
-  "explanation": "\"Årvågen\" means \"alert\" or \"vigilant\", watching closely and ready to notice danger or small changes. The last part, \"vågen\", means awake: \"Jeg er vågen\" (I am awake).",
+  "explanation": "\"Årvågen\" means \"alert\". The last part, \"vågen\" (awake), also stands alone: \"Jeg er vågen\" (I am awake).",
   "forms": [
    {
     "da": "en årvågen chauffør",

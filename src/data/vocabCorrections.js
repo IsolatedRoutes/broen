@@ -2,6 +2,12 @@
 // its current text, so a saved card is corrected in place and keeps its
 // progress instead of being duplicated.
 export const VOCAB_CORRECTIONS = {
+  "et check-in": "en check-in",
+  "en fleksjob": "et fleksjob",
+  "et koma": "en koma",
+  "en pizzeria": "et pizzeria",
+  "et takeaway": "en takeaway",
+  "en vitamin": "et vitamin",
   "at give en hånd": "at give en hånd med",
   "det er ikke raketvidenskab": "det er ikke så svært",
   "sladderagtig": "sladrevorn",
