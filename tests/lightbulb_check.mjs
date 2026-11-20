@@ -28,6 +28,23 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
       const the = e.forms.map((x) => x.da).find((d) => d.startsWith(k.slice(0, 4)) && d.length - k.length <= 3 && d.length > k.length && /(en|et)$/.test(d));
       if (named && the && the.slice(-2) !== named[1]) fail(k + ": says leave out \"" + named[1] + "\" but its the-form " + the + " shows " + the.slice(-2));
     }
+    // Nov 20: an example never follows a colon that comes after an explanation. It is introduced by "For example," or by
+    // the situation it shows ("To say ..., use ...:", "When ..., say:"). Quoted text and brackets are skipped.
+    {
+      const ex = e.explanation; let inq = false, par = 0, start = 0;
+      for (let i = 0; i < ex.length; i++) {
+        const ch = ex[i];
+        if (ch === '"') inq = !inq;
+        else if (!inq) {
+          if (ch === "(") par++; else if (ch === ")") par = Math.max(0, par - 1);
+          else if (".!?".includes(ch) && par === 0 && ex[i + 1] === " ") start = i + 2;
+          else if (ch === ":" && ex.slice(i + 1, i + 3) === ' "') {
+            const lead = ex.slice(start, i);
+            if (!/^(To|When|If|For|Say|Use|Add|Ask|Write|Put|Answer|Reply|Instead)\b|\b(say|says|ask|asks|answer|use|used|using|write|add|tell|greet|reply|respond|thank|apologi[sz]e|introduce|refuse|agree|invite|offer|suggest|wish|congratulate|warn|complain|spell|pronounce|order|call|put|example)\b/i.test(lead)) { fail(k + ': example after a colon with no lead-in (write "For example," or the situation first): ' + lead.slice(-60)); break; }
+          }
+        }
+      }
+    }
     // Owner's wording rules: vague phrases a beginner cannot picture.
     const vague = /\bon its own\b|even for a single pair/i;
     if (vague.test(e.explanation)) fail(k + ": explanation has a vague phrase");
