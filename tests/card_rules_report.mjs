@@ -68,6 +68,7 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
     { const m = ex.match(/\b(the (?:word|verb|phrase|adjective|noun) for)\b/i); if (m) add("the-word-for", k, ex.slice(Math.max(0, m.index - 30), m.index + 60)); }
     { const m = ex.match(/\b(is|are) (a|an) different (word|verb|noun|adjective|phrase)\b/i); if (m) add("different-word", k, ex.slice(Math.max(0, m.index - 40), m.index + 50)); }
     { const m = ex.match(/\bWhen you mean\b/); if (m) add("when-you-mean", k, ex.slice(m.index, m.index + 70)); }
+    { const m = ex.match(/\b(a|an) (similar|different|related) (word|verb|noun|adjective|phrase)\b/i); if (m) add("label-without-content", k, ex.slice(Math.max(0, m.index - 40), m.index + 60)); }
     { const m = ex.match(/\balso appears in\b/i); if (m) add("also-appears-in", k, ex.slice(Math.max(0, m.index - 40), m.index + 60)); }
     {
       const q = [...ex.matchAll(/"([^"]{4,}?)"\s*\(/g)].map((m) => strip(m[1])).filter((x) => x.split(" ").length >= 2);
