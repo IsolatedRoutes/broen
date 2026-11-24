@@ -54,6 +54,25 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
       const m = body.match(/\b(either|both|the latter|the former|the other one)\b/i);
       if (m) add("pointer-word", k, m[0] + " :: " + body.slice(Math.max(0, m.index - 40), m.index + 50));
     }
+    // ENGLISH STANDARD (Nov 24): candidate lists only, the English editor pass judges meaning
+    for (const sn of sentences) {
+      if (/\b(Danish|English|the language) (says|say|uses|use|has|have|puts|put|writes|calls|wants|speaks)\b/.test(sn)) { add("language-acts", k, sn.slice(0, 100)); break; }
+    }
+    for (const sn of sentences) {
+      if (/(^|[,:]\s)(use|put|say|add) it\b/i.test(sn) || /^(To [^,]{3,60}, )?(use|put|say|add) it\b/i.test(sn)) { add("pronoun-instruction", k, sn.slice(0, 100)); break; }
+    }
+    for (const sn of sentences) {
+      if (/^(With|Before|After|In) (a|an|the) [a-z ]{2,24}, (it|the word|this)\b/.test(sn)) { add("dangling-opener", k, sn.slice(0, 100)); break; }
+    }
+    for (const sn of sentences) { if (/^In "[^"]+"[^,]{0,40}, "[^"]+" means/.test(sn)) { add("example-as-subject", k, sn.slice(0, 100)); break; } }
+    { const m = ex.match(/\b(the (?:word|verb|phrase|adjective|noun) for)\b/i); if (m) add("the-word-for", k, ex.slice(Math.max(0, m.index - 30), m.index + 60)); }
+    { const m = ex.match(/\b(is|are) (a|an) different (word|verb|noun|adjective|phrase)\b/i); if (m) add("different-word", k, ex.slice(Math.max(0, m.index - 40), m.index + 50)); }
+    { const m = ex.match(/\bWhen you mean\b/); if (m) add("when-you-mean", k, ex.slice(m.index, m.index + 70)); }
+    { const m = ex.match(/\balso appears in\b/i); if (m) add("also-appears-in", k, ex.slice(Math.max(0, m.index - 40), m.index + 60)); }
+    {
+      const q = [...ex.matchAll(/"([^"]{4,}?)"\s*\(/g)].map((m) => strip(m[1])).filter((x) => x.split(" ").length >= 2);
+      outer2: for (let a = 0; a < q.length; a++) for (let b = 0; b < q.length; b++) { if (a !== b && q[a].length < q[b].length && (" " + q[b] + " ").includes(" " + q[a] + " ")) { add("phrase-repeated", k, q[a] + "  in  " + q[b]); break outer2; } }
+    }
     // EN AND ET
     if (/\b(no|without|leave out|omit|drop|skip)\b[^.]{0,30}"(en|et)"|"(en|et)" (or|and) "(et|en)"/i.test(ex) && !/article/i.test(ex)) add("en-et-without-article", k, ex.match(/[^.]*"(en|et)"[^.]*\./)?.[0]?.slice(0, 110));
     // EXACT NOUNS
