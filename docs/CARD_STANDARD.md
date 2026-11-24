@@ -1,0 +1,74 @@
+# What makes a lightbulb card good (draft 3, Nov 22)
+
+## Purpose
+The lightbulb opens when a learner, in the middle of studying, wants to understand one word. The translation already tells them what it means. The explanation exists to teach what the translation cannot: how to use the word, how it differs from words it gets confused with, what to say, what to avoid. The app's promise is that the learner does not just learn Danish but understands it.
+
+## The test for every sentence after the opening
+1. WHAT DOES IT TEACH? Finish the sentence "After reading this, the learner can ___." The blank must be one of: say something new, avoid a real mistake, tell two words apart, recognize the word inside other words, use the word in a situation they did not know. If the blank is "know what the word means", or nothing, the sentence is deleted.
+2. HOW CLEARLY? A beginner who cannot ask anyone must understand it without guessing: what each sentence is about, what each example is an example of, exactly how two look-alikes differ. No filler, no abstract labels, no jargon.
+3. ENOUGH. Besides the opening, a card teaches at least one real thing that the forms list, the sentence box and the translation do not. An obvious word origin on its own is not a lesson. Padding is not a lesson either: a card with one good lesson is complete.
+4. TRUE AND WELL WRITTEN. Both principles below apply to every sentence.
+
+## Real lessons, best first
+1. Telling look-alikes apart: each word with its meaning and a tiny example ("hvad" / "hvem").
+2. What to say in a situation: the exact phrase ("To ask someone's age, say ...").
+3. A meaning or use the translation hides ("ved" = by / at / the form of "at vide"; "at kaste op").
+4. A trap: the same spelling as another word ("tog"), a form or spelling English speakers get wrong, a place where Danish expresses an idea differently from English ("Jeg fryser" for "I am cold").
+5. How a part of the word works in other words, when it helps the learner recognize more words ("løbe-" in "løbesko", "løbebånd").
+6. Tone: blunt, polite, formal ("Hvad?" is blunt, "Undskyld?" is polite).
+7. A fact specific to Denmark that explains the word.
+
+## Not lessons
+Repeating the meaning or the forms; an example of the plain meaning; a warning that does not say how the words differ ("which is not a laugh"); an example added only to have one; trivia.
+
+## Layout
+- Introduce each lesson with a full sentence that names the situation, then one tiny example right after it, so the learner sees what the example shows.
+- As many examples as there are different lessons, never one that repeats another.
+- A warning names the other word, gives its meaning and says in plain words what differs.
+- Opening stays: "X" means "Y". Every Danish word or phrase is in quotation marks. Its English translation follows immediately in parentheses, with no quotation marks inside the parentheses: "Jeg har vandet blomsterne" (I have watered the flowers). Where the sentence itself says what a word means ("means", "is", "has two meanings:"), the English meaning is in quotation marks, as in the opening. Plain text only: no italics, no bold, so the card renders the same everywhere.
+
+## Models from the deck (read these before writing)
+- hvad: "Hvad" means "what". To ask about a thing, use "hvad": "Hvad er det?" (What is that?). To ask about a person, use "hvem" (who) instead: "Hvem er det?" (Who is that?). When you did not hear something, "Hvad?" (What?) is blunt. "Undskyld?" (Excuse me?) is more polite.  [look-alike contrast, tone]
+- ved: three real uses, one example each, plus the trap that "ved" is also "I know".
+- et tog: how to say you travel by train, plus the trap that "tog" is also the past tense of "at tage".
+- gammel: the exact phrases for asking and giving an age.
+
+## Hard rule: nothing approximate, nothing invented
+A card contains only what a real source states. There is no "roughly", no "probably", no "I believe", and no note that something is unverified. If a sentence cannot be tied to a specific line in a source, it is deleted, not softened. This rule is checked before every other.
+- Sources: Wiktionary (CC BY-SA 4.0), DanNet (CC BY-SA 4.0), Tatoeba (CC BY 2.0 FR) and DSL's open word-form lists (DSL Åben Licens). All allow commercial use and require credit, which the app's credits screen gives. Den Danske Ordbog is not used. Nothing from memory.
+- No pronunciation respellings. Give only the IPA a source prints, or state a plain fact the IPA shows (for example, that a letter is silent).
+- English appears as translations of the Danish. The only claim about an English word is the meaning of an English look-alike of a Danish word, and that meaning is checked in Wiktionary.
+- Every Danish example is an example the source gives, or a sentence built only from words and patterns the source shows. A literal gloss is given only where the source defines the phrase or its words.
+- Every phrase or word is glossed with the source's own sense, in the source's order of importance. The translation field is the source's first sense.
+- The sentence box must agree with the source's usage (the grammar pattern and meaning the dictionary shows).
+- A word used in the explanation is not repeated in the related list.
+- Related words are glossed from their own entries. A related word with no entry that supports its gloss is removed.
+
+## Writing standard: every sentence stands alone
+The reader is learning Danish, knows only what the card has already told them, and cannot ask anyone. Every sentence passes all eight tests, and every card passes the three card-level requirements below them. Each test covers a whole kind of fault, so a new fault is a failure of one of them, not a reason for a new rule.
+1. COMPLETE SENTENCE. Every sentence has a subject and a verb and would be correct in a printed book. Labels, lead-ins and lists introduced by a colon ("Examples:", "Two phrases:") are not sentences. A Danish example always sits inside a sentence that says what the example shows. Punctuation never carries meaning the reader has to infer: the link between a statement and its example, a contrast or a result is spelled out in words ("for example", "such as", "as in", "which means"), never left to a colon, semicolon or dash.
+2. NOTHING LEFT TO DECODE. Every Danish word, ending or term appears with its meaning, and the sentence says what the word does. A short word is never named bare: the sentence says what it expresses and where it goes, and a full example follows. Notation the learner has not been taught (phonetic symbols, grammar abbreviations) is never used. Grammar vocabulary is limited to terms a general reader knows (noun, verb, adjective, adverb, singular, plural, past tense). A more technical term ("past participle", "passive", "helping verb") is never used; the card instead shows what the form does in a full phrase with its meaning. A form is named by showing it in a phrase, never by pointing at a base word the learner may not know.
+3. ONE CLEAR CLAIM. A sentence that announces a number of things ("two meanings", "three uses") names all of them in that same sentence. It announces a number only when the source shows that the list is complete; otherwise it says what a word "can" mean, so the card never implies that a list is complete when it is not. Each sentence makes one claim the learner can act on, and a claim about a meaning, an ending or an added word says what difference it makes. If the source does not say what difference it makes, the claim is deleted. A claim of this kind, and every instruction of the form "to say X, use Y", is followed by a full example introduced by "as in" or "for example", unless the example would repeat the sentence box. Nothing is left half-said ("some people think..."); if usage is uncertain, the card says only what to do or leaves the point out. Every "it", "this" and "before it" has exactly one possible referent, so an instruction about word order names the two words involved.
+4. ABOUT THE LANGUAGE, NOT THE MATERIALS. The card never mentions dictionaries, sources, pronunciation guides or how it was made. It speaks about Danish and English directly.
+5. NEVER EXPLAIN ENGLISH. The learner is a fluent English speaker. The card never defines, describes or paraphrases an English word, whether it is the translation, a word in a gloss, or an English look-alike. It teaches only how Danish behaves: how Danish uses, spells, joins or contrasts its own words. A warning about an English look-alike names the English word and then says which Danish word is used for that meaning, without describing the English meaning.
+6. EXCEPTIONAL ENGLISH. The English is correct, natural and complete, and a careful editor would pass it unchanged. Only people, writers and speakers act; a word or a language never speaks, says or thinks. The wording is plain and conventional: the ordinary expression a careful writer would choose ("the context", not a roundabout description of it). A sentence that needs a second reading is rewritten. Spelling and vocabulary are American English. Every English rendering of Danish is what a fluent speaker would naturally say in that situation, not a word-for-word copy of the Danish structure; a rendering that can be understood but is not natural English is rewritten. Where Danish has no natural English equivalent, the card gives a literal rendering introduced by "literally", and if even that would mislead, the phrase is left out.
+7. EXCEPTIONAL DANISH. Every Danish word and sentence in the card, including the sentence box and the forms, is correct Danish that an educated native speaker would write without a change: spelling, accents and capital letters, gender and article, definite and plural endings, verb form and tense, preposition, adjective ending, and word order. Each form and each pattern is read from a named source line (a printed inflection or a grammar pattern), never worked out by the writer. A Danish example is either printed in a source or built only from forms and patterns the sources print.
+8. EXAMPLES EARN THEIR PLACE. The sentence box already shows the word in use. An extra Danish example appears only when it teaches something the sentence box does not: a different meaning, a different word joined to it, a fixed phrase whose meaning cannot be worked out from its parts, or a trap. An example that repeats a pattern, a preposition or a meaning already visible in the sentence box, forms or translation is deleted. Every example is also simple, so that the lesson is the only new thing in it: it is about an everyday situation that needs no specialist knowledge, it is one short clause of about eight Danish words or fewer, and every word in it other than the one being taught is a common word a beginner knows. An example never depends on a fact the learner may not know (science, politics, technical work) and never describes an unusual or surprising situation. Dictionary examples are a starting point only: when a printed example is complex, specialized or odd, the writer builds a simpler one from the same grammar pattern, using everyday words, and the verifier checks its Danish against that pattern.
+
+Card-level requirements:
+A. AT LEAST ONE LESSON BEYOND THE DEFINITION. Every card teaches at least one real lesson from the list above, in addition to the opening. A card with only the opening is never released.
+C. LENGTH. The explanation is the opening plus two to four further sentences, and 35 to 80 words in total, so that it fits the card without scrolling and is never a bare definition. A script checks the word count. A card outside the range is rewritten, not trimmed mechanically.
+B. THE MOST LIKELY CONFUSION. Whenever the sources show a word a learner could confuse with this one (similar spelling, similar sound, a related word with a different meaning, or a second Danish word for the same English word), the card names that word, gives its meaning, and says how the two differ in Danish use.
+
+## Two principles that govern every word of a card
+1. The writing standard above.
+2. ACCURATE FACTS. Every Danish form, meaning, example and origin matches a source exactly.
+
+## How every card is produced and checked (no owner decisions)
+The whole process can be run by an AI from start to finish. It never hands a choice back to the owner, and a card is only ever shown finished.
+1. SOURCE PACKET. For the word and for every Danish word, phrase and related word that will appear, collect the source text: senses, grammar patterns, examples, fixed expressions, inflections, IPA, origin. Use Wiktionary first, then DanNet and Tatoeba, for gaps.
+2. WRITER. Writes the card using only the packet. Where the packet does not support a sentence, the sentence is not written. If the packet yields no lesson beyond the definition, the writer widens the search before writing: the word's other senses and grammar patterns, fixed expressions, inflection, similar-looking and similar-meaning words (the entries listed as nearby or related words, synonyms and opposites), compounds, and Wiktionary. A card is not released until requirement A is met.
+3. VERIFIER. A different reader, given only the card and the packet, does two things for every sentence: (a) names the packet line that supports it, and (b) reads it as a student and applies all eight tests of the writing standard (for each English rendering of Danish, the verifier first writes the wording a native speaker would use, then compares it with the card's), writing down which test it passes or fails. A sentence with no supporting line, or with any English fault, fails.
+4. LOOP. Failed sentences are fixed or deleted, then the card is verified again. A card is released only when every sentence passes. The released card has no notes, flags or open questions.
+5. SCRIPTS only check format and forbidden patterns. They never decide whether a card teaches, reads well or is true.
+6. Before any deck-wide sweep, about 10 finished cards are shown to the owner for approval of the approach, not for choices on individual cards.
