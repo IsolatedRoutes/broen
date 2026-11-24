@@ -68,6 +68,12 @@ for (const f of readdirSync("lightbulb").filter((x) => x.endsWith(".json"))) {
     { const m = ex.match(/\b(the (?:word|verb|phrase|adjective|noun) for)\b/i); if (m) add("the-word-for", k, ex.slice(Math.max(0, m.index - 30), m.index + 60)); }
     { const m = ex.match(/\b(is|are) (a|an) different (word|verb|noun|adjective|phrase)\b/i); if (m) add("different-word", k, ex.slice(Math.max(0, m.index - 40), m.index + 50)); }
     { const m = ex.match(/\bWhen you mean\b/); if (m) add("when-you-mean", k, ex.slice(m.index, m.index + 70)); }
+    { const m = ex.match(/\bsuch as "[^"]+"(?: \([^)]*\))? in "[^"]+"/); if (m) add("example-inside-rule", k, m[0].slice(0, 100)); }
+    {
+      const whole = strip((e.forms[0].en || "").replace(/\([^)]*\)/g, "")).replace(/^(a|an|the|to) /, "");
+      for (const sn of sentences) { if (/\bbuilt from\b/i.test(sn)) { for (const g of sn.matchAll(/\(([^)]{2,40})\)/g)) { if (strip(g[1]).replace(/^(a|an|the|to) /, "") === whole && whole) { add("build-part-equals-whole", k, sn.slice(0, 110)); break; } } } }
+    }
+    for (const sn of sentences) { if (/\bbuilt from\b[^.]*\band\b[^.]*\bcan (follow|precede|combine)\b/i.test(sn)) { add("two-claims-in-one", k, sn.slice(0, 110)); break; } }
     { const m = ex.match(/\b(a|an) (similar|different|related) (word|verb|noun|adjective|phrase)\b/i); if (m) add("label-without-content", k, ex.slice(Math.max(0, m.index - 40), m.index + 60)); }
     { const m = ex.match(/\balso appears in\b/i); if (m) add("also-appears-in", k, ex.slice(Math.max(0, m.index - 40), m.index + 60)); }
     {
